@@ -182,7 +182,7 @@ Error.ResultsetExtractError = 找不到结果集。
 Error.FailedToInitializeEmitter = 初始化发射器失败。
 
 ###########################################################
-PDFCreator = 使用 iText {1} 的 BIRT 报表引擎 {0}。
+PDFCreator = BIRT 报表引擎 {0}。
 
 ###########################################################
 Error.FlashObjectNotSupported = 此报表格式不支持 Flash 对象报表项。

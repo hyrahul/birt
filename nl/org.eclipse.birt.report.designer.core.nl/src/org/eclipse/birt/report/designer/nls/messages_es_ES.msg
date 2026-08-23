@@ -1470,7 +1470,7 @@ designer.preview.previewaction.label.webviewer=Ver informe en Web Viewer
 
 designer.preview.previewaction.label=Ver informe como {0}
 
-designer.preview.previewaction.ErrorMessage=La generación de PDF no está activada ya que no se encuentra iText o no está instalado.
+designer.preview.previewaction.ErrorMessage=La generación de PDF no está activada ya que no se encuentra OpenPDF o no está instalado.
 
 designer.preview.previewaction.ErrorMessage.title=Advertencia
 

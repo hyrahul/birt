@@ -1470,7 +1470,7 @@ designer.preview.previewaction.label.webviewer=Bericht in Web Viewer anzeigen
 
 designer.preview.previewaction.label=Bericht als {0} anzeigen
 
-designer.preview.previewaction.ErrorMessage=Die PDF-Erzeugung ist nicht aktiviert, da iText weder installiert ist noch gefunden wurde.
+designer.preview.previewaction.ErrorMessage=Die PDF-Erzeugung ist nicht aktiviert, da OpenPDF weder installiert ist noch gefunden wurde.
 
 designer.preview.previewaction.ErrorMessage.title=Warnung
 

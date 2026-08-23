@@ -182,7 +182,7 @@ Error.ResultsetExtractError = Jeu de résultats introuvable.
 Error.FailedToInitializeEmitter = Echec de l'initialisation de l'émetteur.
 
 ###########################################################
-PDFCreator = Moteur d'états BIRT {0} utilisant iText ({1}).
+PDFCreator = Moteur d'états BIRT {0}.
 
 ###########################################################
 Error.FlashObjectNotSupported = Les éléments d'état d'objet Flash ne sont pas pris en charge par ce format.

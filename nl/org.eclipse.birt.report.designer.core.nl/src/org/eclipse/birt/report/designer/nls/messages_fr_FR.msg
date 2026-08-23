@@ -1470,7 +1470,7 @@ designer.preview.previewaction.label.webviewer=Afficher l'état dans le visualis
 
 designer.preview.previewaction.label=Afficher l''état au format {0}
 
-designer.preview.previewaction.ErrorMessage=La fonction de génération de PDF n'est pas activée car iText n'est pas installé ou est introuvable.
+designer.preview.previewaction.ErrorMessage=La fonction de génération de PDF n'est pas activée car OpenPDF n'est pas installé ou est introuvable.
 
 designer.preview.previewaction.ErrorMessage.title=Avertissement
 
