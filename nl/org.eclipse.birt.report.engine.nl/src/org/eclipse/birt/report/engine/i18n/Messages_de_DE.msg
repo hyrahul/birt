@@ -182,7 +182,7 @@ Error.ResultsetExtractError = Ergebnis nicht gefunden.
 Error.FailedToInitializeEmitter = Emitter konnte nicht initialisiert werden.
 
 ###########################################################
-PDFCreator = BIRT-Berichtengine {0} mit iText {1}.
+PDFCreator = BIRT-Berichtengine {0}.
 
 ###########################################################
 Error.FlashObjectNotSupported = Berichtobjekte aus Flash-Objekten werden in diesem Berichtformat nicht unterstützt.

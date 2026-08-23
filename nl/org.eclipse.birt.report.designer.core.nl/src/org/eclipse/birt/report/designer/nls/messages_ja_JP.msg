@@ -1470,7 +1470,7 @@ designer.preview.previewaction.label.webviewer=Web ビューアでレポート�
 
 designer.preview.previewaction.label=レポートを {0} として表示する
 
-designer.preview.previewaction.ErrorMessage=iText がインストールされていないか見つからないため、PDF の生成は有効になっていません。
+designer.preview.previewaction.ErrorMessage=OpenPDF がインストールされていないか見つからないため、PDF の生成は有効になっていません。
 
 designer.preview.previewaction.ErrorMessage.title=警告
 

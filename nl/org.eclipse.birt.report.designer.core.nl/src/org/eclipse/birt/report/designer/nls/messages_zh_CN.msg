@@ -1470,7 +1470,7 @@ designer.preview.previewaction.label.webviewer=在 Web 查看器中查看报表
 
 designer.preview.previewaction.label=以 {0} 格式查看报表
 
-designer.preview.previewaction.ErrorMessage=由于未安装或未找到 iText，不支持 PDF 生成。
+designer.preview.previewaction.ErrorMessage=由于未安装或未找到 OpenPDF，不支持 PDF 生成。
 
 designer.preview.previewaction.ErrorMessage.title=警告
 

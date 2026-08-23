@@ -1470,7 +1470,7 @@ designer.preview.previewaction.label.webviewer=웹 뷰어에서 보고서 보기
 
 designer.preview.previewaction.label={0}(으)로 보고서 보기
 
-designer.preview.previewaction.ErrorMessage=iText가 설치되지 않았거나 찾을 수 없어서 PDF 생성 기능을 사용할 수 없습니다.
+designer.preview.previewaction.ErrorMessage=OpenPDF가 설치되지 않았거나 찾을 수 없어서 PDF 생성 기능을 사용할 수 없습니다.
 
 designer.preview.previewaction.ErrorMessage.title=경고
 
