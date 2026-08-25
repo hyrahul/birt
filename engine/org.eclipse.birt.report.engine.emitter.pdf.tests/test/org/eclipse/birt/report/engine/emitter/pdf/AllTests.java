@@ -30,6 +30,7 @@ public class AllTests {
 		/* in package: org.eclipse.birt.report.engine.emitter.pdf */
 		suite.addTestSuite(org.eclipse.birt.report.engine.emitter.pdf.PdfRenderTest.class);
 		suite.addTestSuite(org.eclipse.birt.report.engine.emitter.pdf.PdfConcurrentRenderTest.class);
+		suite.addTestSuite(org.eclipse.birt.report.engine.emitter.pdf.OpenDataSetTest.class);
 
 		// $JUnit-END$
 		return suite;

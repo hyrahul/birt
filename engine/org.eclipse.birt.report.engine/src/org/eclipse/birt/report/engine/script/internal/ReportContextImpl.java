@@ -1,5 +1,5 @@
 /*******************************************************************************
- * Copyright (c) 2005,2009 Actuate Corporation.
+ * Copyright (c) 2005, 2026 Actuate Corporation.
  *
  * This program and the accompanying materials are made available under the
  * terms of the Eclipse Public License 2.0 which is available at
@@ -15,21 +15,40 @@
 package org.eclipse.birt.report.engine.script.internal;
 
 import java.io.Serializable;
+import java.math.BigDecimal;
 import java.net.URL;
 import java.util.Locale;
 import java.util.Map;
 
+import org.eclipse.birt.core.data.DataType;
 import org.eclipse.birt.core.exception.BirtException;
+import org.eclipse.birt.data.engine.api.IBasePreparedQuery;
+import org.eclipse.birt.data.engine.api.IQueryDefinition;
+import org.eclipse.birt.data.engine.api.IQueryResults;
+import org.eclipse.birt.data.engine.api.IResultIterator;
+import org.eclipse.birt.data.engine.api.IScriptExpression;
+import org.eclipse.birt.data.engine.api.querydefn.BaseExpression;
+import org.eclipse.birt.data.engine.api.querydefn.InputParameterBinding;
+import org.eclipse.birt.data.engine.api.querydefn.QueryDefinition;
+import org.eclipse.birt.data.engine.api.querydefn.ScriptExpressionUtil;
+import org.eclipse.birt.report.data.adapter.api.DataRequestSession;
+import org.eclipse.birt.report.engine.adapter.ModelDteApiAdapter;
 import org.eclipse.birt.report.engine.api.EngineConstants;
+import org.eclipse.birt.report.engine.api.EngineException;
 import org.eclipse.birt.report.engine.api.IEngineTask;
 import org.eclipse.birt.report.engine.api.IHTMLImageHandler;
 import org.eclipse.birt.report.engine.api.IRenderOption;
 import org.eclipse.birt.report.engine.api.IReportRunnable;
 import org.eclipse.birt.report.engine.api.impl.Image;
+import org.eclipse.birt.report.engine.api.impl.QueryUtil;
+import org.eclipse.birt.report.engine.api.script.IDataSetResult;
 import org.eclipse.birt.report.engine.api.script.IReportContext;
 import org.eclipse.birt.report.engine.executor.ExecutionContext;
+import org.eclipse.birt.report.engine.i18n.MessageConstants;
 import org.eclipse.birt.report.engine.ir.Expression;
+import org.eclipse.birt.report.model.api.DataSetHandle;
 import org.eclipse.birt.report.model.api.ReportDesignHandle;
+import org.eclipse.birt.report.model.api.elements.structures.ResultSetColumn;
 
 import com.ibm.icu.text.MessageFormat;
 import com.ibm.icu.util.TimeZone;
@@ -257,5 +276,135 @@ public class ReportContextImpl implements IReportContext {
 	@Override
 	public boolean isReportDocumentFinished() {
 		return context.isReportDocumentFinished();
+	}
+
+	/**
+	 * Open a data set defined in the report and read its rows, using the report's
+	 * own data engine and already-resolved parameters. All columns of the data set
+	 * are selected; no filters, sorts, or row limits are applied beyond any input
+	 * parameter bindings supplied.
+	 * <p>
+	 * Optionally binds input parameter values by name, independent of any
+	 * report-level parameter of the same name. Values are bound the same way the
+	 * ODA driver's own parameter placeholders are - via the data engine's parameter
+	 * binding, not by building the query text - so this does not carry the SQL
+	 * injection risk of assembling a WHERE clause manually.
+	 * <p>
+	 * This is available from script exit points where the report design and
+	 * parameters are already resolved, such as {@code beforeFactory} and
+	 * {@code onPrepare} - both of which run before the report is laid out, so the
+	 * result can be used to shape the design.
+	 *
+	 * @param name   the data set name
+	 * @param params input parameter values keyed by parameter name, or {@code null}
+	 *               if the data set has no parameters
+	 * @return a cursor over the data set rows; the caller must close it
+	 * @throws BirtException if the data set cannot be found or executed
+	 */
+	@Override
+	public IDataSetResult openDataSet(String name, Map<String, Object> params) throws BirtException {
+		ReportDesignHandle design = context.getReportDesign();
+		if (design == null) {
+			throw new EngineException(MessageConstants.REPORT_DESIGN_NOT_AVAILABLE_EXCEPTION);
+		}
+		DataSetHandle dataSet = design.findDataSet(name);
+		if (dataSet == null) {
+			throw new EngineException(MessageConstants.DATA_SET_NOT_FOUND_EXCEPTION, name);
+		}
+
+		context.openDataEngine();
+		DataRequestSession session = context.getDataEngine().getDTESession();
+
+		if (dataSet.getCachedMetaDataHandle() == null) {
+			session.refreshMetaData(dataSet);
+		}
+		QueryDefinition query = new QueryDefinition();
+		query.setDataSetName(dataSet.getQualifiedName());
+		for (ResultSetColumn column : QueryUtil.getResultSetColumns(dataSet).values()) {
+			QueryUtil.addBinding(query, column);
+		}
+
+		if (params != null) {
+			for (Map.Entry<String, Object> entry : params.entrySet()) {
+				if (entry.getValue() == null) {
+					continue;
+				}
+				query.addInputParamBinding(new InputParameterBinding(entry.getKey(), toExpression(entry.getValue())));
+			}
+		}
+
+		new ModelDteApiAdapter(context).defineDataSet(dataSet, session);
+		session.registerQueries(new IQueryDefinition[] { query });
+		IBasePreparedQuery prepared = session.prepare(query);
+		IQueryResults results = (IQueryResults) session.execute(prepared, null, context.getScriptContext());
+
+		return new DataSetResult(results);
+	}
+
+	/**
+	 * Build a constant expression from an input parameter value, with the data type
+	 * set according to the value's Java type. {@code createConstantExpression}
+	 * leaves the data type as {@code UNKNOWN_TYPE} by default, which is not
+	 * reliable for non-string values.
+	 *
+	 * @param value the parameter value; never null
+	 * @return a typed constant expression
+	 */
+	private IScriptExpression toExpression(Object value) {
+		IScriptExpression expr = ScriptExpressionUtil.createConstantExpression(String.valueOf(value));
+		int dataType;
+		if (value instanceof Integer || value instanceof Long) {
+			dataType = DataType.INTEGER_TYPE;
+		} else if (value instanceof Double || value instanceof Float) {
+			dataType = DataType.DOUBLE_TYPE;
+		} else if (value instanceof BigDecimal) {
+			dataType = DataType.DECIMAL_TYPE;
+		} else if (value instanceof java.util.Date) {
+			dataType = DataType.DATE_TYPE;
+		} else if (value instanceof Boolean) {
+			dataType = DataType.BOOLEAN_TYPE;
+		} else {
+			dataType = DataType.STRING_TYPE;
+		}
+		((BaseExpression) expr).setDataType(dataType);
+		return expr;
+	}
+
+	/**
+	 * Default {@link IDataSetResult} implementation, wrapping the query results
+	 * produced by {@link #openDataSet(String)}.
+	 */
+	private static class DataSetResult implements IDataSetResult {
+		private final IQueryResults results;
+		private IResultIterator iterator;
+
+		DataSetResult(IQueryResults results) throws BirtException {
+			this.results = results;
+			this.iterator = results.getResultIterator();
+		}
+
+		@Override
+		public boolean next() throws BirtException {
+			return iterator != null && iterator.next();
+		}
+
+		@Override
+		public Object getValue(String columnName) throws BirtException {
+			return iterator.getValue(columnName);
+		}
+
+		@Override
+		public String getString(String columnName) throws BirtException {
+			return iterator.getString(columnName);
+		}
+
+		@Override
+		public void close() throws BirtException {
+			if (iterator != null) {
+				iterator.close();
+				iterator = null;
+			}
+			results.close();
+		}
 	}
 }

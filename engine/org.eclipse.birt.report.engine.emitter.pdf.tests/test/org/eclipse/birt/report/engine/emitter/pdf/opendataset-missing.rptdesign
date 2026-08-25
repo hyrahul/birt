@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.27" id="1">
+    <property name="units">mm</property>
+    <property name="locale">en_US</property>
+    <method name="beforeFactory"><![CDATA[
+reportContext.openDataSet("NoSuchDataSet", null);
+]]></method>
+    <page-setup>
+        <simple-master-page name="NewSimpleMasterPage" id="2">
+            <property name="type">a4</property>
+        </simple-master-page>
+    </page-setup>
+    <body>
+        <label id="10">
+            <text-property name="text">openDataSet missing-name test</text-property>
+        </label>
+    </body>
+</report>

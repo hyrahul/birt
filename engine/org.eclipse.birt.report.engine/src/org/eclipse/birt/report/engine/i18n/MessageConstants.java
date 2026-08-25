@@ -1,5 +1,5 @@
 /*******************************************************************************
-* Copyright (c) 2004 Actuate Corporation.
+* Copyright (c) 2004, 2026 Actuate Corporation.
 * All rights reserved. This program and the accompanying materials
 * are made available under the terms of the Eclipse Public License v2.0
 * which accompanies this distribution, and is available at
@@ -23,6 +23,8 @@ public class MessageConstants {
 	public static final String FORMAT_NOT_SUPPORTED_EXCEPTION = "Error.OutputFormatNotSupported"; //$NON-NLS-1$
 	public static final String NULL_OUTPUT_FORMAT = "Error.NullOutputFormat";
 	public static final String DESIGN_FILE_NOT_FOUND_EXCEPTION = "Error.DesignFileNotFound"; //$NON-NLS-1$
+	public static final String DATA_SET_NOT_FOUND_EXCEPTION = "Error.DataSetNotFound"; //$NON-NLS-1$
+	public static final String REPORT_DESIGN_NOT_AVAILABLE_EXCEPTION = "Error.ReportDesignNotAvailable"; //$NON-NLS-1$
 	public static final String INVALID_DESIGN_FILE_EXCEPTION = "Error.InvalidDesignFile"; //$NON-NLS-1$
 	public static final String CANNOT_CREATE_EMITTER_EXCEPTION = "Error.CannotCreateExtensionInstance"; //$NON-NLS-1$
 	public static final String MISSING_COMPUTED_COLUMN_EXPRESSION_EXCEPTION = "Error.MissingComputedColumnExpression"; //$NON-NLS-1$

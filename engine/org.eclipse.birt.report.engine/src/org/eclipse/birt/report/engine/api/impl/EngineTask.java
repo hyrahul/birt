@@ -1,5 +1,5 @@
 /*******************************************************************************
- * Copyright (c) 2004, 2010 Actuate Corporation.
+ * Copyright (c) 2004, 2026 Actuate Corporation.
  *
  * This program and the accompanying materials are made available under the
  * terms of the Eclipse Public License 2.0 which is available at
@@ -1415,7 +1415,6 @@ public abstract class EngineTask implements IEngineTask {
 			renderOptions.setOption(IRenderOption.SUPPORTED_IMAGE_FORMATS, supportedImageFormats);
 			executionRenderOptions.setOption(IRenderOption.SUPPORTED_IMAGE_FORMATS, supportedImageFormats);
 		}
-		executionContext.setNeedOutputResultSet(extManager.needOutputResultSet(emitterID));
 		IContentEmitter emitter = null;
 		try {
 			emitter = extManager.createEmitter(emitterID);
@@ -1731,6 +1730,10 @@ public abstract class EngineTask implements IEngineTask {
 
 			renderOptions.setEmitterID(emitterID);
 			renderOptions.setOutputFormat(format);
+			// Set here (rather than in createContentEmitter, which runs after startFactory)
+			// so the value is available if the data engine is opened from a
+			// beforeFactory/onPrepare script.
+			executionContext.setNeedOutputResultSet(extManager.needOutputResultSet(emitterID));
 		}
 
 		// copy the old setting to render options

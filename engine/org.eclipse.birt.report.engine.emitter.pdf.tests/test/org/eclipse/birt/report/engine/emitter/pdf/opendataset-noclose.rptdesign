@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.27" id="1">
+    <property name="units">mm</property>
+    <property name="locale">en_US</property>
+    <method name="beforeFactory"><![CDATA[
+var rs = reportContext.openDataSet("RegionConfig", null);
+var n = 0;
+while (rs.next()) { n++; }
+reportContext.setPersistentGlobalVariable("regionCount", "" + n);
+]]></method>
+    <data-sources>
+        <oda-data-source extensionID="org.eclipse.birt.report.data.oda.jdbc" name="CM" id="11480">
+            <property name="odaDriverClass">org.eclipse.birt.report.data.oda.sampledb.Driver</property>
+            <property name="odaURL">jdbc:classicmodels:sampledb</property>
+            <property name="odaUser">ClassicModels</property>
+        </oda-data-source>
+    </data-sources>
+    <data-sets>
+        <oda-data-set extensionID="org.eclipse.birt.report.data.oda.jdbc.JdbcSelectDataSet" name="RegionConfig" id="11481">
+            <list-property name="parameters"/>
+            <structure name="cachedMetaData">
+                <list-property name="resultSet">
+                    <structure>
+                        <property name="position">1</property>
+                        <property name="name">REGION_NAME</property>
+                        <property name="dataType">string</property>
+                    </structure>
+                </list-property>
+            </structure>
+            <property name="dataSource">CM</property>
+            <list-property name="resultSet">
+                <structure>
+                    <property name="position">1</property>
+                    <property name="name">REGION_NAME</property>
+                    <property name="nativeName">REGION_NAME</property>
+                    <property name="dataType">string</property>
+                    <property name="nativeDataType">12</property>
+                </structure>
+            </list-property>
+            <xml-property name="queryText"><![CDATA[select distinct COUNTRY as REGION_NAME from customers order by COUNTRY]]></xml-property>
+        </oda-data-set>
+    </data-sets>
+    <page-setup>
+        <simple-master-page name="NewSimpleMasterPage" id="11478">
+            <property name="type">a4</property>
+        </simple-master-page>
+    </page-setup>
+    <body>
+        <text-data id="90001">
+            <expression name="valueExpr">"regionCount = " + reportContext.getPersistentGlobalVariable("regionCount")</expression>
+            <property name="contentType">plain</property>
+        </text-data>
+    </body>
+</report>

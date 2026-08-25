@@ -1,5 +1,5 @@
 /*******************************************************************************
- * Copyright (c) 2005,2009 Actuate Corporation.
+ * Copyright (c) 2005, 2026 Actuate Corporation.
  *
  * This program and the accompanying materials are made available under the
  * terms of the Eclipse Public License 2.0 which is available at
@@ -326,4 +326,21 @@ public interface IReportContext {
 	 * @return true, if the report document is finished
 	 */
 	boolean isReportDocumentFinished();
+
+	/**
+	 * Open a data set defined in the report and read its rows from script. The data
+	 * set uses the report's own data engine and resolved parameters. Optionally
+	 * binds input parameter values by name, independent of any report-level
+	 * parameter of the same name - values are bound the same way the ODA driver's
+	 * own parameter placeholders are, so this does not carry the SQL injection risk
+	 * of assembling a WHERE clause manually. Callers must close the returned
+	 * result.
+	 *
+	 * @param name   the data set name
+	 * @param params input parameter values keyed by parameter name, or {@code null}
+	 *               if the data set has no parameters
+	 * @return a cursor over the data set rows
+	 * @throws BirtException if the data set cannot be found or executed
+	 */
+	IDataSetResult openDataSet(String name, Map<String, Object> params) throws BirtException;
 }
