@@ -1,252 +1,252 @@
 ###########################################################
 # Crosstab name conventions
-Element.Crosstab=½»²æ±í
+Element.Crosstab=äº¤å‰è¡¨
 
-Element.CrosstabCell=½»²æ±íµ¥Ôª¸ñ
+Element.CrosstabCell=äº¤å‰è¡¨å•å…ƒæ ¼
 
-Element.CrosstabAggregationCell=½»²æ±í¾ÛºÏµ¥Ôª¸ñ
+Element.CrosstabAggregationCell=äº¤å‰è¡¨èšåˆå•å…ƒæ ¼
 
-Element.AggregationOnRow=¸ù¾İĞĞ¾ÛºÏ
+Element.AggregationOnRow=æ ¹æ®è¡Œèšåˆ
 
-Element.AggregationOnColumn=¸ù¾İÁĞ¾ÛºÏ
+Element.AggregationOnColumn=æ ¹æ®åˆ—èšåˆ
 
-Element.AggregationHeaderLocation=¾ÛºÏ±êÌâÎ»ÖÃ
+Element.AggregationHeaderLocation=èšåˆæ ‡é¢˜ä½ç½®
 
-Element.GrandTotalLocation=×Ü¼ÆÎ»ÖÃ
+Element.GrandTotalLocation=æ€»è®¡ä½ç½®
 
-Element.MeasureView=¶ÈÁ¿ÊÓÍ¼
+Element.MeasureView=åº¦é‡è§†å›¾
 
-Element.ComputedMeasureView=¼ÆËãµÄ¶ÈÁ¿ÊÓÍ¼
+Element.ComputedMeasureView=è®¡ç®—çš„åº¦é‡è§†å›¾
 
-Element.PageBreakBefore=Ö®Ç°·ÖÒ³
+Element.PageBreakBefore=ä¹‹å‰åˆ†é¡µ
 
-Element.PageBreakAfter=Ö®ºó·ÖÒ³
+Element.PageBreakAfter=ä¹‹ååˆ†é¡µ
 
-Element.PageBreakInside=ÄÚ²¿·ÖÒ³·û
+Element.PageBreakInside=å†…éƒ¨åˆ†é¡µç¬¦
 
-Element.PageBreakInterval=·ÖÒ³·û¼ä¸ô
+Element.PageBreakInterval=åˆ†é¡µç¬¦é—´éš”
 
-Element.SortDirection=ÅÅĞò·½Ïò
+Element.SortDirection=æ’åºæ–¹å‘
 
-Element.SortType=ÅÅĞòÀàĞÍ
+Element.SortType=æ’åºç±»å‹
 
-Element.LevelView=¼¶±ğÊÓÍ¼
+Element.LevelView=çº§åˆ«è§†å›¾
 
-Element.DisplayField=ÏÔÊ¾×Ö¶Î
+Element.DisplayField=æ˜¾ç¤ºå­—æ®µ
 
-Element.DimensionView=Î¬ÊÓÍ¼
+Element.DimensionView=ç»´è§†å›¾
 
-Element.CrosstabView=½»²æ±íÊÓÍ¼
+Element.CrosstabView=äº¤å‰è¡¨è§†å›¾
 
 Element.Cube=Cube
-Element.Dimension=Î¬
+Element.Dimension=ç»´
 
-Element.Level=¼¶±ğ
+Element.Level=çº§åˆ«
 
-Element.Measure=¶ÈÁ¿
+Element.Measure=åº¦é‡
 
-Element.Caption=±êÌâ
+Element.Caption=æ ‡é¢˜
 
-Element.CaptionID=±êÌâ¹Ø¼ü×Ö
+Element.CaptionID=æ ‡é¢˜å…³é”®å­—
 
-Element.Summary=ÕªÒª
+Element.Summary=æ‘˜è¦
 
-Element.MeasureDirection=¶ÈÁ¿·½Ïò
+Element.MeasureDirection=åº¦é‡æ–¹å‘
 
-Element.PageLayout=Ò³Ãæ²¼¾Ö
+Element.PageLayout=é¡µé¢å¸ƒå±€
 
-Element.EmptyCellValue=¿Õµ¥Ôª¸ñÖµ
+Element.EmptyCellValue=ç©ºå•å…ƒæ ¼å€¼
 
-Element.RepeatRowHeader=ÖØ¸´ĞĞ±êÌâ
+Element.RepeatRowHeader=é‡å¤è¡Œæ ‡é¢˜
 
-Element.RepeatColumnHeader=ÖØ¸´ÁĞ±êÌâ
+Element.RepeatColumnHeader=é‡å¤åˆ—æ ‡é¢˜
 
-Element.Mirrored=¾µÏñ
+Element.Mirrored=é•œåƒ
 
-Element.MirrorStartingLevel=¾µÏñÆğÊ¼¼¶±ğ
+Element.MirrorStartingLevel=é•œåƒèµ·å§‹çº§åˆ«
 
-Element.HideMeasureHeader=Òş²Ø¶ÈÁ¿Í·
+Element.HideMeasureHeader=éšè—åº¦é‡å¤´
 
-Element.SpanOverOnColumn=¿çÁĞ
+Element.SpanOverOnColumn=è·¨åˆ—
 
-Element.SpanOverOnRow=¿çĞĞ
+Element.SpanOverOnRow=è·¨è¡Œ
 
-Element.Direction.Horizontal=Ë®Æ½
+Element.Direction.Horizontal=æ°´å¹³
 
-Element.Direction.Vertical=´¹Ö±
+Element.Direction.Vertical=å‚ç›´
 
-Element.choice.before=Ö®Ç°
+Element.choice.before=ä¹‹å‰
 
-Element.choice.after=Ö®ºó
+Element.choice.after=ä¹‹å
 
-Element.RowPageBreakInterval=ĞĞ·ÖÒ³·û¼ä¸ô
+Element.RowPageBreakInterval=è¡Œåˆ†é¡µç¬¦é—´éš”
 
-Element.ColumnPageBreakInterval=ÁĞ·ÖÒ³·û¼ä¸ô
+Element.ColumnPageBreakInterval=åˆ—åˆ†é¡µç¬¦é—´éš”
 
-Element.TagType=±ê¼ÇÀàĞÍ
+Element.TagType=æ ‡è®°ç±»å‹
 
-Method.onPrepare=×¼±¸Ê±
+Method.onPrepare=å‡†å¤‡æ—¶
 
-Method.onCreate=´´½¨Ê±
+Method.onCreate=åˆ›å»ºæ—¶
 
-Method.onRender=³ÊÏÖÊ±
+Method.onRender=å‘ˆç°æ—¶
 
-Method.onPageBreak=³öÏÖ·ÖÒ³·ûÊ±
+Method.onPageBreak=å‡ºç°åˆ†é¡µç¬¦æ—¶
 
 ###########################################################
 # Crosstab exception
-Error.CrosstabException.DUPLICATE_DIMENSION=¶àÎ¬Êı¾İ¼¯Î¬ÔªËØ¡°{0}¡±ÎŞ·¨Ó¦ÓÃµ½Ãû³ÆÖØ¸´µÄ½»²æ±í¡£
+Error.CrosstabException.DUPLICATE_DIMENSION=å¤šç»´æ•°æ®é›†ç»´å…ƒç´ â€œ{0}â€æ— æ³•åº”ç”¨åˆ°åç§°é‡å¤çš„äº¤å‰è¡¨ã€‚
 
-Error.CrosstabException.DUPLICATE_MEASURE=¶àÎ¬Êı¾İ¼¯¶ÈÁ¿ÔªËØ¡°{0}¡±ÎŞ·¨Ó¦ÓÃµ½Ãû³ÆÖØ¸´µÄ½»²æ±í¡£
+Error.CrosstabException.DUPLICATE_MEASURE=å¤šç»´æ•°æ®é›†åº¦é‡å…ƒç´ â€œ{0}â€æ— æ³•åº”ç”¨åˆ°åç§°é‡å¤çš„äº¤å‰è¡¨ã€‚
 
-Error.CrosstabException.DUPLICATE_LEVEL=¶àÎ¬Êı¾İ¼¯¼¶±ğÔªËØ¡°{0}¡±ÎŞ·¨Ó¦ÓÃµ½Ãû³ÆÖØ¸´µÄ½»²æ±í¡£
+Error.CrosstabException.DUPLICATE_LEVEL=å¤šç»´æ•°æ®é›†çº§åˆ«å…ƒç´ â€œ{0}â€æ— æ³•åº”ç”¨åˆ°åç§°é‡å¤çš„äº¤å‰è¡¨ã€‚
 
-Error.CrosstabException.DIMENSION_NOT_FOUND=Î´ÔÚ½»²æ±íÖĞÕÒµ½Î¬ÊÓÍ¼¡°{0}¡±¡£
+Error.CrosstabException.DIMENSION_NOT_FOUND=æœªåœ¨äº¤å‰è¡¨ä¸­æ‰¾åˆ°ç»´è§†å›¾â€œ{0}â€ã€‚
 
-Error.CrosstabException.MEASURE_NOT_FOUND=Î´ÔÚ½»²æ±íÖĞÕÒµ½¶ÈÁ¿ÊÓÍ¼¡°{0}¡±¡£
+Error.CrosstabException.MEASURE_NOT_FOUND=æœªåœ¨äº¤å‰è¡¨ä¸­æ‰¾åˆ°åº¦é‡è§†å›¾â€œ{0}â€ã€‚
 
-Error.CrosstabException.LEVEL_NOT_FOUND=Î´ÔÚ½»²æ±íÖĞÕÒµ½¼¶±ğÊÓÍ¼¡°{0}¡±¡£
+Error.CrosstabException.LEVEL_NOT_FOUND=æœªåœ¨äº¤å‰è¡¨ä¸­æ‰¾åˆ°çº§åˆ«è§†å›¾â€œ{0}â€ã€‚
 
 ###########################################################
 # Crosstab executor runtime error message
-CrosstabReportItemQuery.error.crosstab.loading=´ÓÀ©Õ¹Ïî¼ÓÔØ½»²æ±íÏîÊ§°Ü¡£
+CrosstabReportItemQuery.error.crosstab.loading=ä»æ‰©å±•é¡¹åŠ è½½äº¤å‰è¡¨é¡¹å¤±è´¥ã€‚
 
-CrosstabReportItemQuery.error.query.building=ÓÃÓÚ²éÑ¯Éú³ÉµÄ½»²æ±íÄ£ĞÍÎŞĞ§¡£
+CrosstabReportItemQuery.error.query.building=ç”¨äºæŸ¥è¯¢ç”Ÿæˆçš„äº¤å‰è¡¨æ¨¡å‹æ— æ•ˆã€‚
 
-CrosstabReportItemQuery.error.register.empty.cell.value=×¢²á¿Õµ¥Ôª¸ñÖµÊ±³ö´í¡£
+CrosstabReportItemQuery.error.register.empty.cell.value=æ³¨å†Œç©ºå•å…ƒæ ¼å€¼æ—¶å‡ºé”™ã€‚
 
-CrosstabQueryHelper.error.invalid.measure=½»²æ±í°üº¬¿Õ¶ÈÁ¿¶¨Òå£¬»òÕßÌØ¶¨¶ÈÁ¿¡°{0}¡±ÔÚ¹ØÁªµÄ¶àÎ¬Êı¾İ¼¯ÄÚ²»´æÔÚ¡£
+CrosstabQueryHelper.error.invalid.measure=äº¤å‰è¡¨åŒ…å«ç©ºåº¦é‡å®šä¹‰ï¼Œæˆ–è€…ç‰¹å®šåº¦é‡â€œ{0}â€åœ¨å…³è”çš„å¤šç»´æ•°æ®é›†å†…ä¸å­˜åœ¨ã€‚
 
-CrosstabQueryHelper.error.invalid.dimension.row=½»²æ±íĞĞÇøÓò°üº¬¿ÕÎ¬¶¨Òå£¬»òÕßÌØ¶¨Î¬¡°{0}¡±ÔÚ¹ØÁªµÄ¶àÎ¬Êı¾İ¼¯ÄÚ²»´æÔÚ¡£
+CrosstabQueryHelper.error.invalid.dimension.row=äº¤å‰è¡¨è¡ŒåŒºåŸŸåŒ…å«ç©ºç»´å®šä¹‰ï¼Œæˆ–è€…ç‰¹å®šç»´â€œ{0}â€åœ¨å…³è”çš„å¤šç»´æ•°æ®é›†å†…ä¸å­˜åœ¨ã€‚
 
-CrosstabQueryHelper.error.invalid.level.row=½»²æ±íĞĞÇøÓò°üº¬¿Õ¼¶±ğ¶¨Òå£¬»òÕßÌØ¶¨¼¶±ğ¡°{0}¡±ÔÚ¹ØÁªµÄ¶àÎ¬Êı¾İ¼¯ÄÚ²»´æÔÚ¡£
+CrosstabQueryHelper.error.invalid.level.row=äº¤å‰è¡¨è¡ŒåŒºåŸŸåŒ…å«ç©ºçº§åˆ«å®šä¹‰ï¼Œæˆ–è€…ç‰¹å®šçº§åˆ«â€œ{0}â€åœ¨å…³è”çš„å¤šç»´æ•°æ®é›†å†…ä¸å­˜åœ¨ã€‚
 
-CrosstabQueryHelper.error.invalid.dimension.column=½»²æ±íÁĞÇøÓò°üº¬¿ÕÎ¬¶¨Òå£¬»òÕßÌØ¶¨Î¬¡°{0}¡±ÔÚ¹ØÁªµÄ¶àÎ¬Êı¾İ¼¯ÄÚ²»´æÔÚ¡£
+CrosstabQueryHelper.error.invalid.dimension.column=äº¤å‰è¡¨åˆ—åŒºåŸŸåŒ…å«ç©ºç»´å®šä¹‰ï¼Œæˆ–è€…ç‰¹å®šç»´â€œ{0}â€åœ¨å…³è”çš„å¤šç»´æ•°æ®é›†å†…ä¸å­˜åœ¨ã€‚
 
-CrosstabQueryHelper.error.invalid.level.column=½»²æ±íÁĞÇøÓò°üº¬¿Õ¼¶±ğ¶¨Òå£¬»òÕßÌØ¶¨¼¶±ğ¡°{0}¡±ÔÚ¹ØÁªµÄ¶àÎ¬Êı¾İ¼¯ÄÚ²»´æÔÚ¡£
+CrosstabQueryHelper.error.invalid.level.column=äº¤å‰è¡¨åˆ—åŒºåŸŸåŒ…å«ç©ºçº§åˆ«å®šä¹‰ï¼Œæˆ–è€…ç‰¹å®šçº§åˆ«â€œ{0}â€åœ¨å…³è”çš„å¤šç»´æ•°æ®é›†å†…ä¸å­˜åœ¨ã€‚
 
-BaseCrosstabExecutor.error.process.visibility=´¦Àí¿É¼ûĞÔÊ±³ö´í¡£
+BaseCrosstabExecutor.error.process.visibility=å¤„ç†å¯è§æ€§æ—¶å‡ºé”™ã€‚
 
-BaseCrosstabExecutor.error.process.bookmark=´¦ÀíÒ³Ã¼Ê±³öÏÖ´íÎó¡£
+BaseCrosstabExecutor.error.process.bookmark=å¤„ç†é¡µçœ‰æ—¶å‡ºç°é”™è¯¯ã€‚
 
-BaseCrosstabExecutor.error.process.headers=´¦ÀíÒ³Ã¼Ê±³öÏÖ´íÎó¡£
+BaseCrosstabExecutor.error.process.headers=å¤„ç†é¡µçœ‰æ—¶å‡ºç°é”™è¯¯ã€‚
 
-BaseCrosstabExecutor.error.process.row.height=´¦ÀíĞĞ¸ßÊ±³ö´í¡£
+BaseCrosstabExecutor.error.process.row.height=å¤„ç†è¡Œé«˜æ—¶å‡ºé”™ã€‚
 
-CrosstabCellExecutor.error.restor.data.position=»¹Ô­Êı¾İÎ»ÖÃÊ±³ö´í¡£
+CrosstabCellExecutor.error.restor.data.position=è¿˜åŸæ•°æ®ä½ç½®æ—¶å‡ºé”™ã€‚
 
-CrosstabGrandTotalRowExecutor.error.generate.child.executor=Éú³É×ÓÖ´ĞĞ³ÌĞòÊ±³ö´í¡£
+CrosstabGrandTotalRowExecutor.error.generate.child.executor=ç”Ÿæˆå­æ‰§è¡Œç¨‹åºæ—¶å‡ºé”™ã€‚
 
-CrosstabGrandTotalRowExecutor.error.check.child.executor=¼ì²é×ÓÖ´ĞĞ³ÌĞòµÄ×´Ì¬Ê±³ö´í¡£
+CrosstabGrandTotalRowExecutor.error.check.child.executor=æ£€æŸ¥å­æ‰§è¡Œç¨‹åºçš„çŠ¶æ€æ—¶å‡ºé”™ã€‚
 
-CrosstabHeaderExecutor.error.reset.row.position=ÖØÖÃĞĞ±ßÔµ¹â±êÎ»ÖÃÊ±³ö´í¡£
+CrosstabHeaderExecutor.error.reset.row.position=é‡ç½®è¡Œè¾¹ç¼˜å…‰æ ‡ä½ç½®æ—¶å‡ºé”™ã€‚
 
-CrosstabGroupExecutor.error.close.executor=¹Ø±Õ×é×éÖ´ĞĞ³ÌĞòÊ±³ö´í¡£
+CrosstabGroupExecutor.error.close.executor=å…³é—­ç»„ç»„æ‰§è¡Œç¨‹åºæ—¶å‡ºé”™ã€‚
 
-CrosstabGroupExecutor.error.prepare.group=×¼±¸×Ó×éÊ±³ö´í¡£
+CrosstabGroupExecutor.error.prepare.group=å‡†å¤‡å­ç»„æ—¶å‡ºé”™ã€‚
 
-CrosstabGroupExecutor.error.check.child.executor=¼ì²é×ÓÖ´ĞĞ³ÌĞòµÄ×´Ì¬Ê±³ö´í¡£
+CrosstabGroupExecutor.error.check.child.executor=æ£€æŸ¥å­æ‰§è¡Œç¨‹åºçš„çŠ¶æ€æ—¶å‡ºé”™ã€‚
 
-CrosstabHeaderRowExecutor.error.check.force.empty=¼ì²éµ±Ç°µ¥Ôª¸ñµÄÇ¿ÖÆÇå¿Õ×´Ì¬Ê±³ö´í¡£
+CrosstabHeaderRowExecutor.error.check.force.empty=æ£€æŸ¥å½“å‰å•å…ƒæ ¼çš„å¼ºåˆ¶æ¸…ç©ºçŠ¶æ€æ—¶å‡ºé”™ã€‚
 
-CrosstabHeaderRowExecutor.error.check.edge.end=¼ì²éµ±Ç°µ¥Ôª¸ñµÄ±ßÔµ½áÊø×´Ì¬Ê±³ö´í¡£
+CrosstabHeaderRowExecutor.error.check.edge.end=æ£€æŸ¥å½“å‰å•å…ƒæ ¼çš„è¾¹ç¼˜ç»“æŸçŠ¶æ€æ—¶å‡ºé”™ã€‚
 
-CrosstabHeaderRowExecutor.error.retrieve.child.executor=¼ìË÷×ÓÖ´ĞĞ³ÌĞòÊ±³ö´í¡£
+CrosstabHeaderRowExecutor.error.retrieve.child.executor=æ£€ç´¢å­æ‰§è¡Œç¨‹åºæ—¶å‡ºé”™ã€‚
 
-CrosstabMeasureHeaderRowExecutor.error.generate.child.executor=Éú³É×ÓÖ´ĞĞ³ÌĞòÊ±³ö´í¡£
+CrosstabMeasureHeaderRowExecutor.error.generate.child.executor=ç”Ÿæˆå­æ‰§è¡Œç¨‹åºæ—¶å‡ºé”™ã€‚
 
-CrosstabMeasureHeaderRowExecutor.error.check.child.executor=¼ì²é×ÓÖ´ĞĞ³ÌĞòµÄ×´Ì¬Ê±³ö´í¡£
+CrosstabMeasureHeaderRowExecutor.error.check.child.executor=æ£€æŸ¥å­æ‰§è¡Œç¨‹åºçš„çŠ¶æ€æ—¶å‡ºé”™ã€‚
 
-CrosstabMeasureRowExecutor.error.generate.child.executor=Éú³É×ÓÖ´ĞĞ³ÌĞòÊ±³ö´í¡£
+CrosstabMeasureRowExecutor.error.generate.child.executor=ç”Ÿæˆå­æ‰§è¡Œç¨‹åºæ—¶å‡ºé”™ã€‚
 
-CrosstabMeasureRowExecutor.error.check.child.executor=¼ì²é×ÓÖ´ĞĞ³ÌĞòµÄ×´Ì¬Ê±³ö´í¡£
+CrosstabMeasureRowExecutor.error.check.child.executor=æ£€æŸ¥å­æ‰§è¡Œç¨‹åºçš„çŠ¶æ€æ—¶å‡ºé”™ã€‚
 
-CrosstabReportItemExecutor.error.crosstab.loading=´ÓÀ©Õ¹Ïî¼ÓÔØ½»²æ±íÏîÊ§°Ü¡£
+CrosstabReportItemExecutor.error.crosstab.loading=ä»æ‰©å±•é¡¹åŠ è½½äº¤å‰è¡¨é¡¹å¤±è´¥ã€‚
 
-CrosstabReportItemExecutor.error.generate.columns=Îª½»²æ±íÉú³ÉÁĞÊ±³ö´í¡£
+CrosstabReportItemExecutor.error.generate.columns=ä¸ºäº¤å‰è¡¨ç”Ÿæˆåˆ—æ—¶å‡ºé”™ã€‚
 
-CrosstabReportItemExecutor.error.prepare.children=Îª½»²æ±í×¼±¸×ÓÖ´ĞĞ³ÌĞòÊ±³ö´í¡£
+CrosstabReportItemExecutor.error.prepare.children=ä¸ºäº¤å‰è¡¨å‡†å¤‡å­æ‰§è¡Œç¨‹åºæ—¶å‡ºé”™ã€‚
 
-CrosstabReportItemExecutor.error.invalid.cube.result=½»²æ±íµÄ¶àÎ¬Êı¾İ¼¯½á¹ûÎŞĞ§ (=null)¡£
+CrosstabReportItemExecutor.error.invalid.cube.result=äº¤å‰è¡¨çš„å¤šç»´æ•°æ®é›†ç»“æœæ— æ•ˆ (=null)ã€‚
 
-CrosstabRowExecutor.error.check.force.empty=¼ì²éµ±Ç°µ¥Ôª¸ñµÄÇ¿ÖÆÇå¿Õ×´Ì¬Ê±³ö´í¡£
+CrosstabRowExecutor.error.check.force.empty=æ£€æŸ¥å½“å‰å•å…ƒæ ¼çš„å¼ºåˆ¶æ¸…ç©ºçŠ¶æ€æ—¶å‡ºé”™ã€‚
 
-CrosstabRowExecutor.error.check.edge.start=¼ì²éµ±Ç°µ¥Ôª¸ñµÄ±ßÔµ¿ªÊ¼×´Ì¬Ê±³ö´í¡£
+CrosstabRowExecutor.error.check.edge.start=æ£€æŸ¥å½“å‰å•å…ƒæ ¼çš„è¾¹ç¼˜å¼€å§‹çŠ¶æ€æ—¶å‡ºé”™ã€‚
 
-CrosstabRowExecutor.error.retrieve.child.executor=¼ìË÷×ÓÖ´ĞĞ³ÌĞòÊ±³ö´í¡£
+CrosstabRowExecutor.error.retrieve.child.executor=æ£€ç´¢å­æ‰§è¡Œç¨‹åºæ—¶å‡ºé”™ã€‚
 
-CrosstabSubTotalRowExecutor.error.check.edge.start=¼ì²éµ±Ç°µ¥Ôª¸ñµÄ±ßÔµ¿ªÊ¼×´Ì¬Ê±³ö´í¡£
+CrosstabSubTotalRowExecutor.error.check.edge.start=æ£€æŸ¥å½“å‰å•å…ƒæ ¼çš„è¾¹ç¼˜å¼€å§‹çŠ¶æ€æ—¶å‡ºé”™ã€‚
 
-CrosstabSubTotalRowExecutor.error.retrieve.child.executor=¼ìË÷×ÓÖ´ĞĞ³ÌĞòÊ±³ö´í¡£
+CrosstabSubTotalRowExecutor.error.retrieve.child.executor=æ£€ç´¢å­æ‰§è¡Œç¨‹åºæ—¶å‡ºé”™ã€‚
 
-TableColumnGenerator.error.process.visibility=´¦ÀíÁĞ¿É¼ûĞÔÊ±³ö´í¡£
+TableColumnGenerator.error.process.visibility=å¤„ç†åˆ—å¯è§æ€§æ—¶å‡ºé”™ã€‚
 
-TableColumnGenerator.error.process.column.width=´¦ÀíÁĞ¿íÊ±³ö´í¡£
+TableColumnGenerator.error.process.column.width=å¤„ç†åˆ—å®½æ—¶å‡ºé”™ã€‚
 
-CrosstabReportItemHandle.error.locate.column.cell=ÔÚÁĞÖĞ²éÕÒÏà¹Ø½»²æ±íµ¥Ôª¸ñÊ±³ö´í
+CrosstabReportItemHandle.error.locate.column.cell=åœ¨åˆ—ä¸­æŸ¥æ‰¾ç›¸å…³äº¤å‰è¡¨å•å…ƒæ ¼æ—¶å‡ºé”™
 
-CrosstabReportItemHandle.error.locate.row.cell=ÔÚĞĞÖĞ²éÕÒÏà¹Ø½»²æ±íµ¥Ôª¸ñÊ±³ö´í
+CrosstabReportItemHandle.error.locate.row.cell=åœ¨è¡Œä¸­æŸ¥æ‰¾ç›¸å…³äº¤å‰è¡¨å•å…ƒæ ¼æ—¶å‡ºé”™
 
-CrosstabReportItemHandle.error.set.column.width=ÉèÖÃ½»²æ±íÁĞ¿íÊ±³ö´í
+CrosstabReportItemHandle.error.set.column.width=è®¾ç½®äº¤å‰è¡¨åˆ—å®½æ—¶å‡ºé”™
 
-CrosstabReportItemHandle.error.set.row.height=ÉèÖÃ½»²æ±íĞĞ¸ßÊ±³ö´í
+CrosstabReportItemHandle.error.set.row.height=è®¾ç½®äº¤å‰è¡¨è¡Œé«˜æ—¶å‡ºé”™
 
-CrosstabReportItemHandle.msg.change.measure.direction=¸ü¸Ä¶ÈÁ¿·½Ïò
+CrosstabReportItemHandle.msg.change.measure.direction=æ›´æ”¹åº¦é‡æ–¹å‘
 
-CrosstabReportItemHandle.msg.insert.measure=²åÈë¶ÈÁ¿
+CrosstabReportItemHandle.msg.insert.measure=æ’å…¥åº¦é‡
 
-CrosstabReportItemHandle.exception.name.blank=ComputedMeasure ĞèÒªÃû³Æ¡£
+CrosstabReportItemHandle.exception.name.blank=ComputedMeasure éœ€è¦åç§°ã€‚
 
-CrosstabReportItemHandle.exception.name.duplicate=Ö¸¶¨µÄ¶ÈÁ¿Ãû³ÆÒÑ±»Ê¹ÓÃ£¬²»ÄÜÖØ¸´¡£
+CrosstabReportItemHandle.exception.name.duplicate=æŒ‡å®šçš„åº¦é‡åç§°å·²è¢«ä½¿ç”¨ï¼Œä¸èƒ½é‡å¤ã€‚
 
-MeasureViewHandle.info.aggregation.already.exist=ÇëÇóµÄ¾ÛºÏÒÑ´æÔÚ¡£
+MeasureViewHandle.info.aggregation.already.exist=è¯·æ±‚çš„èšåˆå·²å­˜åœ¨ã€‚
 
-MeasureViewHandle.msg.add.aggregation=Ìí¼Ó¾ÛºÏ
+MeasureViewHandle.msg.add.aggregation=æ·»åŠ èšåˆ
 
-LevelViewTask.msg.remove.subtotal=É¾³ıĞ¡¼Æ
+LevelViewTask.msg.remove.subtotal=åˆ é™¤å°è®¡
 
-LevelViewTask.msg.add.subtotal=Ìí¼ÓĞ¡¼Æ
+LevelViewTask.msg.add.subtotal=æ·»åŠ å°è®¡
 
-DimensionViewTask.msg.remove.level=É¾³ı¼¶±ğ
+DimensionViewTask.msg.remove.level=åˆ é™¤çº§åˆ«
 
-DimensionViewTask.msg.insert.level=²åÈë¼¶±ğ
+DimensionViewTask.msg.insert.level=æ’å…¥çº§åˆ«
 
-MeasureViewTask.msg.remove.header=É¾³ı¶ÈÁ¿±êÌâ
+MeasureViewTask.msg.remove.header=åˆ é™¤åº¦é‡æ ‡é¢˜
 
-MeasureViewTask.msg.add.header=Ìí¼Ó¶ÈÁ¿±êÌâ
+MeasureViewTask.msg.add.header=æ·»åŠ åº¦é‡æ ‡é¢˜
 
-CrosstabViewTask.msg.add.dimension=Ìí¼ÓÎ¬
+CrosstabViewTask.msg.add.dimension=æ·»åŠ ç»´
 
-CrosstabViewTask.msg.remove.dimension=É¾³ıÎ¬
+CrosstabViewTask.msg.remove.dimension=åˆ é™¤ç»´
 
-CrosstabViewTask.msg.remove.grandtotal=É¾³ı×Ü¼Æ
+CrosstabViewTask.msg.remove.grandtotal=åˆ é™¤æ€»è®¡
 
-CrosstabViewTask.msg.add.grandtotal=Ìí¼Ó×Ü¼Æ
+CrosstabViewTask.msg.add.grandtotal=æ·»åŠ æ€»è®¡
 
-CrosstabReportItemTask.msg.add.grandtotal=Ìí¼Ó×Ü¼Æ
+CrosstabReportItemTask.msg.add.grandtotal=æ·»åŠ æ€»è®¡
 
-CrosstabReportItemTask.msg.set.aggregate.function=ÉèÖÃ¾ÛºÏº¯Êı
+CrosstabReportItemTask.msg.set.aggregate.function=è®¾ç½®èšåˆå‡½æ•°
 
-CrosstabReportItemTask.msg.pivot.dimension=Í¸ÊÓÎ¬
+CrosstabReportItemTask.msg.pivot.dimension=é€è§†ç»´
 
-CrosstabReportItemTask.msg.insert.dimension=²åÈëÎ¬
+CrosstabReportItemTask.msg.insert.dimension=æ’å…¥ç»´
 
-CrosstabReportItemTask.msg.set.mirroredStartingLevel=ÉèÖÃ¾µÏñÆğÊ¼¼¶±ğ
+CrosstabReportItemTask.msg.set.mirroredStartingLevel=è®¾ç½®é•œåƒèµ·å§‹çº§åˆ«
 
-CrosstabReportItemTask.msg.pivot.crosstab=Í¸ÊÓ½»²æ±í
+CrosstabReportItemTask.msg.pivot.crosstab=é€è§†äº¤å‰è¡¨
 
-CrosstabReportItemHandle.Error.HasNoCube=½»²æ±í±ØĞëÄÜ¹»·ÃÎÊÒ»¸ö¶àÎ¬¡£
+CrosstabReportItemHandle.Error.HasNoCube=äº¤å‰è¡¨å¿…é¡»èƒ½å¤Ÿè®¿é—®ä¸€ä¸ªå¤šç»´ã€‚
 
-CrosstabReportItemHandle.log.validate=ÕıÔÚÑéÖ¤(...)
+CrosstabReportItemHandle.log.validate=æ­£åœ¨éªŒè¯(...)
 
-CrosstabScriptHandler.error.javascript=JavaScript µÚ {1} ĞĞµÄ {0}:\r\n{2}\r\n
+CrosstabScriptHandler.error.javascript=JavaScript ç¬¬ {1} è¡Œçš„ {0}:\r\n{2}\r\n
 
-CrosstabScriptHandler.info.try.register.crosstab.javascript.content=³¢ÊÔ×¢²á½»²æ±í javascript ÄÚÈİ...
+CrosstabScriptHandler.info.try.register.crosstab.javascript.content=å°è¯•æ³¨å†Œäº¤å‰è¡¨ javascript å†…å®¹...
 
-CrosstabScriptHandler.info.crosstab.javascript.content.registered=½»²æ±í javascript ÄÚÈİÒÑ³É¹¦×¢²á¡£
+CrosstabScriptHandler.info.crosstab.javascript.content.registered=äº¤å‰è¡¨ javascript å†…å®¹å·²æˆåŠŸæ³¨å†Œã€‚
 
-CrosstabScriptHandler.info.try.load.crosstab.java.handler=³¢ÊÔ¼ÓÔØ½»²æ±í java ÊÂ¼ş´¦Àí³ÌĞò...
+CrosstabScriptHandler.info.try.load.crosstab.java.handler=å°è¯•åŠ è½½äº¤å‰è¡¨ java äº‹ä»¶å¤„ç†ç¨‹åº...
 
-CrosstabScriptHandler.info.crosstab.java.handler.loaded=½»²æ±í java ÊÂ¼ş´¦Àí³ÌĞò [{0}] ÒÑ³É¹¦¼ÓÔØ¡£
+CrosstabScriptHandler.info.crosstab.java.handler.loaded=äº¤å‰è¡¨ java äº‹ä»¶å¤„ç†ç¨‹åº [{0}] å·²æˆåŠŸåŠ è½½ã€‚
 
-CrosstabScriptHandler.info.invalid.crosstab.java.handler=½»²æ±í java ÊÂ¼ş´¦Àí³ÌĞò [{0}] ²»ÊÇ¼æÈİÊµÏÖ¡£
+CrosstabScriptHandler.info.invalid.crosstab.java.handler=äº¤å‰è¡¨ java äº‹ä»¶å¤„ç†ç¨‹åº [{0}] ä¸æ˜¯å…¼å®¹å®ç°ã€‚

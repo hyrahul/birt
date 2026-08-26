@@ -1,350 +1,350 @@
-ChartImpl.ChartTitle=Í¼±í±êÌâ
+ChartImpl.ChartTitle=å›¾è¡¨æ ‡é¢˜
 
-ChartImpl.AltText=´ËÍ¼±í²»°üº¬Êı¾İ¡£
+ChartImpl.AltText=æ­¤å›¾è¡¨ä¸åŒ…å«æ•°æ®ã€‚
 
-ChartWithAxesImpl.X_Axis.title=X Öá±êÌâ
+ChartWithAxesImpl.X_Axis.title=X è½´æ ‡é¢˜
 
-ChartWithAxesImpl.Y_Axis.title=Y Öá±êÌâ
+ChartWithAxesImpl.Y_Axis.title=Y è½´æ ‡é¢˜
 
-ChartWithAxesImpl.Z_Axis.title=Z Öá±êÌâ
+ChartWithAxesImpl.Z_Axis.title=Z è½´æ ‡é¢˜
 
-ChartWithoutAxesImpl.Unsupported3Dimension=±ıÍ¼²»Ö§³Ö 3D¡£
+ChartWithoutAxesImpl.Unsupported3Dimension=é¥¼å›¾ä¸æ”¯æŒ 3Dã€‚
 
-exception.convert.double=ÎŞ·¨½«Öµ {0} ×ª»»ÎªË«¾«¶ÈÖµ
+exception.convert.double=æ— æ³•å°†å€¼ {0} è½¬æ¢ä¸ºåŒç²¾åº¦å€¼
 
-exception.data.outofsync=ÊäÈëÊı¾İ²»Í¬²½£»Àà±ğÏµÁĞ°üº¬ {0} ¸öÖµ£»ÖµÏµÁĞ°üº¬ {1} ¸öÖµ¡£
+exception.data.outofsync=è¾“å…¥æ•°æ®ä¸åŒæ­¥ï¼›ç±»åˆ«ç³»åˆ—åŒ…å« {0} ä¸ªå€¼ï¼›å€¼ç³»åˆ—åŒ…å« {1} ä¸ªå€¼ã€‚
 
-exception.out.of.bounds=³¬³ö±ß½ç
+exception.out.of.bounds=è¶…å‡ºè¾¹ç•Œ
 
-exception.step.zoom.out=ÎŞ·¨Îª²½Öè={0} ËõĞ¡
+exception.step.zoom.out=æ— æ³•ä¸ºæ­¥éª¤={0} ç¼©å°
 
-exception.no3d.support=ÉĞ²»Ö§³ÖÈıÎ¬Í¼±í
+exception.no3d.support=å°šä¸æ”¯æŒä¸‰ç»´å›¾è¡¨
 
-exception.curve.label.position.not.supported=ÇúÏßÄâºÏ²»Ö§³Ö±êÇ©Î»ÖÃ [{0}]¡£
+exception.curve.label.position.not.supported=æ›²çº¿æ‹Ÿåˆä¸æ”¯æŒæ ‡ç­¾ä½ç½® [{0}]ã€‚
 
-exception.convert.calendar=ÎŞ·¨½«Öµ {0} ×ª»»ÎªÈÕÀúÖµ
+exception.convert.calendar=æ— æ³•å°†å€¼ {0} è½¬æ¢ä¸ºæ—¥å†å€¼
 
-exception.anchor.transpose=ÎŞ·¨ÎªÖá·½Ïò {1 }×ªÖÃ¶¨Î»µã {0}
+exception.anchor.transpose=æ— æ³•ä¸ºè½´æ–¹å‘ {1 }è½¬ç½®å®šä½ç‚¹ {0}
 
-exception.tick.computations=¿Ì¶È¼ÆËã´íÎó
+exception.tick.computations=åˆ»åº¦è®¡ç®—é”™è¯¯
 
-exception.curve.visibility.unset=¶ÔÓÚÇúÏß£¬±ØĞëÔÚÏßÌõÊôĞÔÉÏÉèÖÃ¿É¼ûĞÔ
+exception.curve.visibility.unset=å¯¹äºæ›²çº¿ï¼Œå¿…é¡»åœ¨çº¿æ¡å±æ€§ä¸Šè®¾ç½®å¯è§æ€§
 
-exception.angle.range.transpose=ÎŞ·¨ÖÃ»» [½Ç¶È={0}]£¬¸Ã½Ç¶È³¬³ö·¶Î§ (90 >= 0 >= -90)
+exception.angle.range.transpose=æ— æ³•ç½®æ¢ [è§’åº¦={0}]ï¼Œè¯¥è§’åº¦è¶…å‡ºèŒƒå›´ (90 >= 0 >= -90)
 
-exception.legend.direction.tblr=Í¼Àı·½ÏòÎ´Ã÷È·ÉèÖÃÎª¡°¶¥-µ×¡±»ò¡°×ó-ÓÒ¡±
+exception.legend.direction.tblr=å›¾ä¾‹æ–¹å‘æœªæ˜ç¡®è®¾ç½®ä¸ºâ€œé¡¶-åº•â€æˆ–â€œå·¦-å³â€
 
-exception.scale.null.location=ÎŞ·¨°´¿Ì¶È {0} ¶¨Î»¿ÕÖµµÄ×ø±êÖá
+exception.scale.null.location=æ— æ³•æŒ‰åˆ»åº¦ {0} å®šä½ç©ºå€¼çš„åæ ‡è½´
 
-exception.illegal.icon.palette.type.for.marker=''{0}'' ²»ÊÇ±ê¼ÇÍ¼±êµÄÓĞĞ§Í¼ÏñÀàĞÍ¡£
+exception.illegal.icon.palette.type.for.marker=''{0}'' ä¸æ˜¯æ ‡è®°å›¾æ ‡çš„æœ‰æ•ˆå›¾åƒç±»å‹ã€‚
 
-exception.illegal.filltype.crosshair.marker=ÎŞ·¨ÔÚ±ê¼Ç CROSSHAIR ÉÏ½«µ÷É«°åÑÕÉ«ÉèÖÃÎª {0}
+exception.illegal.filltype.crosshair.marker=æ— æ³•åœ¨æ ‡è®° CROSSHAIR ä¸Šå°†è°ƒè‰²æ¿é¢œè‰²è®¾ç½®ä¸º {0}
 
-exception.illegal.filltype.cross.marker=ÎŞ·¨ÔÚ±ê¼Ç CROSS ÉÏ½«µ÷É«°åÑÕÉ«ÉèÖÃÎª {0}
+exception.illegal.filltype.cross.marker=æ— æ³•åœ¨æ ‡è®° CROSS ä¸Šå°†è°ƒè‰²æ¿é¢œè‰²è®¾ç½®ä¸º {0}
 
-exception.invalid.step.size =ÎªÖá¿Ì¶ÈÖ¸¶¨µÄ ''step size({0}) <= 0'' ÎŞĞ§
+exception.invalid.step.size =ä¸ºè½´åˆ»åº¦æŒ‡å®šçš„ ''step size({0}) <= 0'' æ— æ•ˆ
 
-exception.invalid.step.number =ÎªÖá¿Ì¶ÈÖ¸¶¨µÄ ''step number({0}) < 1'' ÎŞĞ§
+exception.invalid.step.number =ä¸ºè½´åˆ»åº¦æŒ‡å®šçš„ ''step number({0}) < 1'' æ— æ•ˆ
 
-exception.curve.line.visibility.not.defined=Î´ÕıÈ·¶¨ÒåÇúÏßµÄ¿É¼ûĞÔÊôĞÔ¡£
+exception.curve.line.visibility.not.defined=æœªæ­£ç¡®å®šä¹‰æ›²çº¿çš„å¯è§æ€§å±æ€§ã€‚
 
-exception.min.largerthan.max=ÎªÖá¿Ì¶ÈÖ¸¶¨µÄÌõÄ¿ ''min({0}) > max({1})'' ÎŞĞ§
+exception.min.largerthan.max=ä¸ºè½´åˆ»åº¦æŒ‡å®šçš„æ¡ç›® ''min({0}) > max({1})'' æ— æ•ˆ
 
-exception.combination.axis.label.position=²»Ó¦³öÏÖ axis={0} Óë labelposition={1} µÄ×éºÏ
+exception.combination.axis.label.position=ä¸åº”å‡ºç° axis={0} ä¸ labelposition={1} çš„ç»„åˆ
 
-exception.cannot.locate.start.marker.range=ÎŞ·¨ÕÒµ½°üº¬ÔÚ±ê¼ÇÇøÓò {1} ÖĞµÄÖµ {0} µÄÇøÓòÆğÊ¼Î»ÖÃ
+exception.cannot.locate.start.marker.range=æ— æ³•æ‰¾åˆ°åŒ…å«åœ¨æ ‡è®°åŒºåŸŸ {1} ä¸­çš„å€¼ {0} çš„åŒºåŸŸèµ·å§‹ä½ç½®
 
-exception.cannot.locate.value.marker.line=ÎŞ·¨ÕÒµ½°üº¬ÔÚ±ê¼ÇÏßÌõ {1} ÖĞµÄÖµ {0}
+exception.cannot.locate.value.marker.line=æ— æ³•æ‰¾åˆ°åŒ…å«åœ¨æ ‡è®°çº¿æ¡ {1} ä¸­çš„å€¼ {0}
 
-exception.combination.axis.tick.style=²»Ó¦³öÏÖ axis={0} Óë tickstyle={1} µÄ×éºÏ
+exception.combination.axis.tick.style=ä¸åº”å‡ºç° axis={0} ä¸ tickstyle={1} çš„ç»„åˆ
 
-exception.invalid.axis.data.type=Îª×ø±êÖáÖ¸¶¨µÄÊı¾İÀàĞÍÓëÊı¾İ×Ö¶ÎÖµ²»Æ¥Åä: ({0})
+exception.invalid.axis.data.type=ä¸ºåæ ‡è½´æŒ‡å®šçš„æ•°æ®ç±»å‹ä¸æ•°æ®å­—æ®µå€¼ä¸åŒ¹é…: ({0})
 
-exception.undefined.axis.data.type=Î´ÎªÖá {0} ¶¨ÒåÊı¾İÀàĞÍ
+exception.undefined.axis.data.type=æœªä¸ºè½´ {0} å®šä¹‰æ•°æ®ç±»å‹
 
-exception.unsupported.compare.text=²»Ö§³ÖÎÄ±¾Êı¾İÔªËØ±È½Ï
+exception.unsupported.compare.text=ä¸æ”¯æŒæ–‡æœ¬æ•°æ®å…ƒç´ æ¯”è¾ƒ
 
-exception.unsupported.comparison=¶ÔÏó {0} ¿ÉÄÜ²»²ÎÓë ''pre'' ±È½Ï
+exception.unsupported.comparison=å¯¹è±¡ {0} å¯èƒ½ä¸å‚ä¸ ''pre'' æ¯”è¾ƒ
 
-exception.unsupported.internal.draw=ÎŞ·¨Í¨¹ıÊÂ¼ş¶Ô {0} ½øĞĞÄÚ²¿»æÖÆ
+exception.unsupported.internal.draw=æ— æ³•é€šè¿‡äº‹ä»¶å¯¹ {0} è¿›è¡Œå†…éƒ¨ç»˜åˆ¶
 
-exception.unsupported.internal.fill=ÎŞ·¨Í¨¹ıÊÂ¼ş¶Ô {0} ½øĞĞÄÚ²¿Ìî³ä
+exception.unsupported.internal.fill=æ— æ³•é€šè¿‡äº‹ä»¶å¯¹ {0} è¿›è¡Œå†…éƒ¨å¡«å……
 
-exception.unsupported.chart.model=ÎŞ·¨¼ÆËãÄ£ĞÍ [{0}] ¶¨ÒåµÄÍ¼±í
+exception.unsupported.chart.model=æ— æ³•è®¡ç®—æ¨¡å‹ [{0}] å®šä¹‰çš„å›¾è¡¨
 
-exception.unsupported.bounds=ÎŞ·¨¼ÆËãÊÂ¼ş {0} µÄ±ß½ç
+exception.unsupported.bounds=æ— æ³•è®¡ç®—äº‹ä»¶ {0} çš„è¾¹ç•Œ
 
-exception.unsupported.copy=ÎŞ·¨´´½¨ÊÂ¼ş {0} µÄ¸±±¾
+exception.unsupported.copy=æ— æ³•åˆ›å»ºäº‹ä»¶ {0} çš„å‰¯æœ¬
 
-exception.unsupported.step.number=²½Êı²»Ö§³Ö·ÇÊı×ÖÖµ¡£
+exception.unsupported.step.number=æ­¥æ•°ä¸æ”¯æŒéæ•°å­—å€¼ã€‚
 
-exception.undefined.data.point=Î´¶¨ÒåÓëÏµÁĞ¶¨Òå¹ØÁªµÄÊı¾İµãÖµ
+exception.undefined.data.point=æœªå®šä¹‰ä¸ç³»åˆ—å®šä¹‰å…³è”çš„æ•°æ®ç‚¹å€¼
 
-exception.unit.size.failure=ÓÉÓÚÎ´¶¨Òå¿Ì¶ÈÖá£¬Òò´ËÎŞ·¨¼ÆËãµ¥Î»´óĞ¡
+exception.unit.size.failure=ç”±äºæœªå®šä¹‰åˆ»åº¦è½´ï¼Œå› æ­¤æ— æ³•è®¡ç®—å•ä½å¤§å°
 
-exception.process.content.type=ÎŞ·¨ÎªÀàĞÍ {1} ´¦ÀíÖ¸¶¨Îª {0} µÄÊı¾İ¼¯ÄÚÈİ
+exception.process.content.type=æ— æ³•ä¸ºç±»å‹ {1} å¤„ç†æŒ‡å®šä¸º {0} çš„æ•°æ®é›†å†…å®¹
 
-exception.undefined.axis.label.visibility=Î´¶¨ÒåÖá {0} µÄ±êÇ©¿É¼ûĞÔ
+exception.undefined.axis.label.visibility=æœªå®šä¹‰è½´ {0} çš„æ ‡ç­¾å¯è§æ€§
 
-exception.undefined.axis.title.visibility=Î´¶¨ÒåÖá {0} µÄ±êÌâ¿É¼ûĞÔ
+exception.undefined.axis.title.visibility=æœªå®šä¹‰è½´ {0} çš„æ ‡é¢˜å¯è§æ€§
 
-exception.undefined.axis.label.position=Î´¶¨ÒåÖá {0} µÄ±êÇ©Î»ÖÃ
+exception.undefined.axis.label.position=æœªå®šä¹‰è½´ {0} çš„æ ‡ç­¾ä½ç½®
 
-exception.undefined.axis.title.position=Î´¶¨ÒåÖá {0} µÄ±êÌâÎ»ÖÃ
+exception.undefined.axis.title.position=æœªå®šä¹‰è½´ {0} çš„æ ‡é¢˜ä½ç½®
 
-exception.undefined.data.label.position=Î´¶¨ÒåÏµÁĞ {0} µÄÊı¾İ±êÇ©Î»ÖÃ
+exception.undefined.data.label.position=æœªå®šä¹‰ç³»åˆ— {0} çš„æ•°æ®æ ‡ç­¾ä½ç½®
 
-exception.undefined.axis.type=ÖáÎ´¶¨ÒåÖáÀàĞÍ
+exception.undefined.axis.type=è½´æœªå®šä¹‰è½´ç±»å‹
 
-exception.unset.series.stacked.property=Î´Ã÷È·ÉèÖÃ¿É¶Ñ»ıÏµÁĞ {0} µÄ¶Ñ»ıÊôĞÔ
+exception.unset.series.stacked.property=æœªæ˜ç¡®è®¾ç½®å¯å †ç§¯ç³»åˆ— {0} çš„å †ç§¯å±æ€§
 
-exception.undefined.axis.major.tick.style=Î´¶¨ÒåÖá {0} µÄÖ÷ÒªÍø¸ñ¿Ì¶ÈÑùÊ½
+exception.undefined.axis.major.tick.style=æœªå®šä¹‰è½´ {0} çš„ä¸»è¦ç½‘æ ¼åˆ»åº¦æ ·å¼
 
-exception.undefined.axis.minor.tick.style=Î´¶¨ÒåÖá {0} µÄ´ÎÒªÍø¸ñ¿Ì¶ÈÑùÊ½
+exception.undefined.axis.minor.tick.style=æœªå®šä¹‰è½´ {0} çš„æ¬¡è¦ç½‘æ ¼åˆ»åº¦æ ·å¼
 
-exception.zero.negative.logarithmic.scale=ÎŞ·¨°´¶ÔÊı¿Ì¶ÈÕÒµ½ 0 »ò¸ºÖµ
+exception.zero.negative.logarithmic.scale=æ— æ³•æŒ‰å¯¹æ•°åˆ»åº¦æ‰¾åˆ° 0 æˆ–è´Ÿå€¼
 
-exception.illegal.vaxis.label.position=Îª´¹Ö±Öá {1} Ö¸¶¨µÄ±êÇ©Î»ÖÃÖµ {0} ÎŞĞ§
+exception.illegal.vaxis.label.position=ä¸ºå‚ç›´è½´ {1} æŒ‡å®šçš„æ ‡ç­¾ä½ç½®å€¼ {0} æ— æ•ˆ
 
-exception.illegal.vaxis.title.position=Îª´¹Ö±Öá {1} Ö¸¶¨µÄ±êÌâÎ»ÖÃÖµ {0} ÎŞĞ§
+exception.illegal.vaxis.title.position=ä¸ºå‚ç›´è½´ {1} æŒ‡å®šçš„æ ‡é¢˜ä½ç½®å€¼ {0} æ— æ•ˆ
 
-exception.illegal.vaxis.major.tick.style=Îª´¹Ö±Öá {1} Ö¸¶¨Îª {0} µÄÖ÷Òª¿Ì¶ÈÑùÊ½ÎŞĞ§
+exception.illegal.vaxis.major.tick.style=ä¸ºå‚ç›´è½´ {1} æŒ‡å®šä¸º {0} çš„ä¸»è¦åˆ»åº¦æ ·å¼æ— æ•ˆ
 
-exception.illegal.vaxis.minor.tick.style=Îª´¹Ö±Öá {1} Ö¸¶¨Îª {0} µÄ´ÎÒª¿Ì¶ÈÑùÊ½ÎŞĞ§
+exception.illegal.vaxis.minor.tick.style=ä¸ºå‚ç›´è½´ {1} æŒ‡å®šä¸º {0} çš„æ¬¡è¦åˆ»åº¦æ ·å¼æ— æ•ˆ
 
-exception.illegal.haxis.label.position=ÎªË®Æ½Öá {1} Ö¸¶¨µÄ±êÇ©Î»ÖÃÖµ {0} ÎŞĞ§
+exception.illegal.haxis.label.position=ä¸ºæ°´å¹³è½´ {1} æŒ‡å®šçš„æ ‡ç­¾ä½ç½®å€¼ {0} æ— æ•ˆ
 
-exception.illegal.haxis.title.position=ÎªË®Æ½Öá {1} Ö¸¶¨µÄ±êÌâÎ»ÖÃÖµ {0} ÎŞĞ§
+exception.illegal.haxis.title.position=ä¸ºæ°´å¹³è½´ {1} æŒ‡å®šçš„æ ‡é¢˜ä½ç½®å€¼ {0} æ— æ•ˆ
 
-exception.illegal.rotation.angle.label=Î´ÕıÈ·Ö¸¶¨±êÇ© {0} µÄĞı×ª½Ç¶È (-90 <= ANGLE <= 90)
+exception.illegal.rotation.angle.label=æœªæ­£ç¡®æŒ‡å®šæ ‡ç­¾ {0} çš„æ—‹è½¬è§’åº¦ (-90 <= ANGLE <= 90)
 
-exception.illegal.rendering.direction=ÎªÍ¼Àı»æÖÆ·½Ïò = {0} Ö¸¶¨µÄ²ÎÊıÎŞĞ§
+exception.illegal.rendering.direction=ä¸ºå›¾ä¾‹ç»˜åˆ¶æ–¹å‘ = {0} æŒ‡å®šçš„å‚æ•°æ— æ•ˆ
 
-exception.illegal.rendering.orientation=ÎªÍ¼Àı»æÖÆ·½Î» = {0} Ö¸¶¨µÄ²ÎÊıÎŞĞ§
+exception.illegal.rendering.orientation=ä¸ºå›¾ä¾‹ç»˜åˆ¶æ–¹ä½ = {0} æŒ‡å®šçš„å‚æ•°æ— æ•ˆ
 
-exception.illegal.legend.direction=ÎªÍ¼Àı»æÖÆ·½Ïò = {0} Ö¸¶¨µÄ²ÎÊıÎŞĞ§
+exception.illegal.legend.direction=ä¸ºå›¾ä¾‹ç»˜åˆ¶æ–¹å‘ = {0} æŒ‡å®šçš„å‚æ•°æ— æ•ˆ
 
-exception.illegal.null.value=×÷Îª¹¹½¨Í¼±íµÄ²ÎÊı¶ø´«µİµÄ ''null'' ÖµÎŞĞ§
+exception.illegal.null.value=ä½œä¸ºæ„å»ºå›¾è¡¨çš„å‚æ•°è€Œä¼ é€’çš„ ''null'' å€¼æ— æ•ˆ
 
-exception.cannot.find.plugin.entry=ÔÚËùÓĞ¿ÉÓÃ²å¼şµÄÈÎÒâ plugin.xml ÎÄ¼şÖĞ£¬ÎŞ·¨ÕÒµ½ lookup={0}; element=({1}:{2}) µÄÈÎºÎÏî
+exception.cannot.find.plugin.entry=åœ¨æ‰€æœ‰å¯ç”¨æ’ä»¶çš„ä»»æ„ plugin.xml æ–‡ä»¶ä¸­ï¼Œæ— æ³•æ‰¾åˆ° lookup={0}; element=({1}:{2}) çš„ä»»ä½•é¡¹
 
-exception.cannot.split.major=ÎŞ·¨½«Ö÷Òªµ¥Î»·Ö½â³É {0} ´ÎÒªµ¥Î»
+exception.cannot.split.major=æ— æ³•å°†ä¸»è¦å•ä½åˆ†è§£æˆ {0} æ¬¡è¦å•ä½
 
-exception.illegal.legend.orientation=ÎªÍ¼Àı»æÖÆ·½Î» = {0} Ö¸¶¨µÄ²ÎÊıÎŞĞ§
+exception.illegal.legend.orientation=ä¸ºå›¾ä¾‹ç»˜åˆ¶æ–¹ä½ = {0} æŒ‡å®šçš„å‚æ•°æ— æ•ˆ
 
-exception.cwoa.single.runtime.series=ÎŞ×ø±êÖáµÄÍ¼±í¿ÉÄÜ½ö°üº¬Ò»¸öÊ±¼äÏµÁĞ
+exception.cwoa.single.runtime.series=æ— åæ ‡è½´çš„å›¾è¡¨å¯èƒ½ä»…åŒ…å«ä¸€ä¸ªæ—¶é—´ç³»åˆ—
 
-exception.illegal.haxis.major.tick.style=ÎªË®Æ½Öá {1} Ö¸¶¨Îª {0} µÄÖ÷Òª¿Ì¶ÈÑùÊ½ÎŞĞ§
+exception.illegal.haxis.major.tick.style=ä¸ºæ°´å¹³è½´ {1} æŒ‡å®šä¸º {0} çš„ä¸»è¦åˆ»åº¦æ ·å¼æ— æ•ˆ
 
-exception.illegal.haxis.minor.tick.style=ÎªË®Æ½Öá {1} Ö¸¶¨Îª {0} µÄ´ÎÒª¿Ì¶ÈÑùÊ½ÎŞĞ§
+exception.illegal.haxis.minor.tick.style=ä¸ºæ°´å¹³è½´ {1} æŒ‡å®šä¸º {0} çš„æ¬¡è¦åˆ»åº¦æ ·å¼æ— æ•ˆ
 
-exception.client.area.outline.visibility=Î´Ö¸¶¨¿Í»§ÇøÓò´ó¸ÙµÄ¿É¼ûĞÔ
+exception.client.area.outline.visibility=æœªæŒ‡å®šå®¢æˆ·åŒºåŸŸå¤§çº²çš„å¯è§æ€§
 
-exception.cannot.locate.end.marker.range=ÎŞ·¨ÕÒµ½°üº¬ÔÚ±ê¼ÇÇøÓò {1} ÖĞµÄÖµ {0} µÄÇøÓò½áÊøÎ»ÖÃ
+exception.cannot.locate.end.marker.range=æ— æ³•æ‰¾åˆ°åŒ…å«åœ¨æ ‡è®°åŒºåŸŸ {1} ä¸­çš„å€¼ {0} çš„åŒºåŸŸç»“æŸä½ç½®
 
-exception.runtime.dataset.count.mismatch=ÔÚ¶Ñ»ıÊ±¼äÏµÁĞÖĞ£¬ÕÒµ½ÁËÊı¾İ¼¯¼ÆÊıÖĞ²»Æ¥ÅäµÄ ({0}\!={1})
+exception.runtime.dataset.count.mismatch=åœ¨å †ç§¯æ—¶é—´ç³»åˆ—ä¸­ï¼Œæ‰¾åˆ°äº†æ•°æ®é›†è®¡æ•°ä¸­ä¸åŒ¹é…çš„ ({0}\!={1})
 
-exception.illegal.base.runtime.series.count=ÎŞ×ø±êÍ¼±íµÄÀà±ğÔËĞĞÊ±ÏµÁĞ¼ÆÊı£¨´Ë´¦Îª {0}£©±ØĞëÎª 1
+exception.illegal.base.runtime.series.count=æ— åæ ‡å›¾è¡¨çš„ç±»åˆ«è¿è¡Œæ—¶ç³»åˆ—è®¡æ•°ï¼ˆæ­¤å¤„ä¸º {0}ï¼‰å¿…é¡»ä¸º 1
 
-exception.unstackable.is.stacked=ĞòÁĞ {0}£¨Æä¿ÉÄÜ²»ÊÇ¶Ñ»ı£©±»ÉèÖÃÎª¶Ñ»ı
+exception.unstackable.is.stacked=åºåˆ— {0}ï¼ˆå…¶å¯èƒ½ä¸æ˜¯å †ç§¯ï¼‰è¢«è®¾ç½®ä¸ºå †ç§¯
 
-exception.unset.label.visibility=±êÇ© {0} Î´ÉèÖÃ¿É¼ûĞÔ
+exception.unset.label.visibility=æ ‡ç­¾ {0} æœªè®¾ç½®å¯è§æ€§
 
-exception.marker.line.null.value=ÎŞ·¨Îª±ê¼ÇÏßÌõ {0} ÖĞ¶¨ÒåµÄ¿ÕÖµ»æÖÆÏßÌõ
+exception.marker.line.null.value=æ— æ³•ä¸ºæ ‡è®°çº¿æ¡ {0} ä¸­å®šä¹‰çš„ç©ºå€¼ç»˜åˆ¶çº¿æ¡
 
-exception.unset.axis.visibility=Î´ÉèÖÃÖá¿É¼ûĞÔ£¬Òò´Ë½á¹û½«±äµÃ²»Ã÷È·
+exception.unset.axis.visibility=æœªè®¾ç½®è½´å¯è§æ€§ï¼Œå› æ­¤ç»“æœå°†å˜å¾—ä¸æ˜ç¡®
 
-exception.unset.line.visibility=Î´Ã÷È·ÉèÖÃ {0} µÄÏßÌõÊôĞÔµÄ¿É¼ûĞÔ
+exception.unset.line.visibility=æœªæ˜ç¡®è®¾ç½® {0} çš„çº¿æ¡å±æ€§çš„å¯è§æ€§
 
-exception.stacked.datetime.axis.series=ÎŞ·¨ÔÚÈÕÆÚÊ±¼äÖáÉÏ¶¨Òå¶Ñ»ıÏµÁĞ
+exception.stacked.datetime.axis.series=æ— æ³•åœ¨æ—¥æœŸæ—¶é—´è½´ä¸Šå®šä¹‰å †ç§¯ç³»åˆ—
 
-exception.stacked.unstacked.mix.series=ÏµÁĞ¶¨Òå {0} ¾ßÓĞ¶Ñ»ıºÍ·Ç¶Ñ»ıÏµÁĞµÄ»ìºÏ¡£
+exception.stacked.unstacked.mix.series=ç³»åˆ—å®šä¹‰ {0} å…·æœ‰å †ç§¯å’Œéå †ç§¯ç³»åˆ—çš„æ··åˆã€‚
 
-exception.internal.stack.series.setup=Î´ÕıÈ·ÉèÖÃÖá {0} µÄ¶Ñ»ıÏµÁĞ
+exception.internal.stack.series.setup=æœªæ­£ç¡®è®¾ç½®è½´ {0} çš„å †ç§¯ç³»åˆ—
 
-exception.invalid.minimum.scale.value=ÎªÖáÀàĞÍ {1} Ö¸¶¨µÄ×îĞ¡¿Ì¶ÈÖµ {0} ÎŞĞ§
+exception.invalid.minimum.scale.value=ä¸ºè½´ç±»å‹ {1} æŒ‡å®šçš„æœ€å°åˆ»åº¦å€¼ {0} æ— æ•ˆ
 
-exception.invalid.maximum.scale.value=ÎªÖáÀàĞÍ {1} Ö¸¶¨µÄ×î´ó¿Ì¶ÈÖµ {0} ÎŞĞ§
+exception.invalid.maximum.scale.value=ä¸ºè½´ç±»å‹ {1} æŒ‡å®šçš„æœ€å¤§åˆ»åº¦å€¼ {0} æ— æ•ˆ
 
-exception.legend.orientation.horzvert=Í¼Àı·½Î»Î´Ã÷È·ÉèÖÃÎª¡°Ë®Æ½¡±»ò¡°´¹Ö±¡±
+exception.legend.orientation.horzvert=å›¾ä¾‹æ–¹ä½æœªæ˜ç¡®è®¾ç½®ä¸ºâ€œæ°´å¹³â€æˆ–â€œå‚ç›´â€
 
-exception.legend.orientation.InvalidMaxPercent=×î´ó°Ù·Ö±È±ØĞëÔÚ 0 Óë 1 Ö®¼ä¡£
+exception.legend.orientation.InvalidMaxPercent=æœ€å¤§ç™¾åˆ†æ¯”å¿…é¡»åœ¨ 0 ä¸ 1 ä¹‹é—´ã€‚
 
-info.processing.stacked.info=ÕıÔÚ´¦ÀíÖá {0} µÄ¶Ñ»ıĞÅÏ¢
+info.processing.stacked.info=æ­£åœ¨å¤„ç†è½´ {0} çš„å †ç§¯ä¿¡æ¯
 
-info.eclenv.creating.device=£¨ÈÕÊ´Ê½»·¾³£©½«Éè±¸ {0} ´´½¨Îª {1}
+info.eclenv.creating.device=ï¼ˆæ—¥èš€å¼ç¯å¢ƒï¼‰å°†è®¾å¤‡ {0} åˆ›å»ºä¸º {1}
 
-info.stdenv.creating.device=£¨¶ÀÁ¢»·¾³£©½«Éè±¸ {0} ´´½¨Îª {1}
+info.stdenv.creating.device=ï¼ˆç‹¬ç«‹ç¯å¢ƒï¼‰å°†è®¾å¤‡ {0} åˆ›å»ºä¸º {1}
 
-info.eclenv.creating.display=£¨ÈÕÊ´Ê½»·¾³£©½«ÏÔÊ¾·şÎñÆ÷ {0} ´´½¨Îª {1}
+info.eclenv.creating.display=ï¼ˆæ—¥èš€å¼ç¯å¢ƒï¼‰å°†æ˜¾ç¤ºæœåŠ¡å™¨ {0} åˆ›å»ºä¸º {1}
 
-info.stdenv.creating.display=£¨¶ÀÁ¢»·¾³£©½«ÏÔÊ¾·şÎñÆ÷ {0} ´´½¨Îª {1}
+info.stdenv.creating.display=ï¼ˆç‹¬ç«‹ç¯å¢ƒï¼‰å°†æ˜¾ç¤ºæœåŠ¡å™¨ {0} åˆ›å»ºä¸º {1}
 
-exception.percent.stacked.non.numerical=ÎŞ·¨¼ÆËã°üº¬·ÇÊıÖµÊı¾İµÄ°Ù·Ö±È/¶Ñ»ıÖá
+exception.percent.stacked.non.numerical=æ— æ³•è®¡ç®—åŒ…å«éæ•°å€¼æ•°æ®çš„ç™¾åˆ†æ¯”/å †ç§¯è½´
 
-exception.text.data.numerical.datetime.axis=ÎŞ·¨Ê¹ÓÃÎÄ±¾Êı¾İ»æÖÆÊıÖµ/ÈÕÆÚÊ±¼äÖá¡£
+exception.text.data.numerical.datetime.axis=æ— æ³•ä½¿ç”¨æ–‡æœ¬æ•°æ®ç»˜åˆ¶æ•°å€¼/æ—¥æœŸæ—¶é—´è½´ã€‚
 
-exception.numerical.data.datetime.axis=ÎŞ·¨Ê¹ÓÃ·ÇÈÕÆÚÊ±¼äÊı¾İ»æÖÆÈÕÆÚÊ±¼äÖá¡£
+exception.numerical.data.datetime.axis=æ— æ³•ä½¿ç”¨éæ—¥æœŸæ—¶é—´æ•°æ®ç»˜åˆ¶æ—¥æœŸæ—¶é—´è½´ã€‚
 
-exception.datetime.data.numerical.axis=ÎŞ·¨Ê¹ÓÃ·ÇÊıÖµÊı¾İ»æÖÆÊıÖµÖá¡£
+exception.datetime.data.numerical.axis=æ— æ³•ä½¿ç”¨éæ•°å€¼æ•°æ®ç»˜åˆ¶æ•°å€¼è½´ã€‚
 
-exception.cwoa.single.series.definition=ÎŞ×ø±êÖáµÄÍ¼±í¿ÉÄÜ½ö°üº¬Ò»¸öÏµÁĞ¶¨Òå
+exception.cwoa.single.series.definition=æ— åæ ‡è½´çš„å›¾è¡¨å¯èƒ½ä»…åŒ…å«ä¸€ä¸ªç³»åˆ—å®šä¹‰
 
-exception.parse.value.format.specifier=ÓÃ¸ñÊ½ËµÃ÷·û {1} ·ÖÎöÖµ {0} Ê§°Ü
+exception.parse.value.format.specifier=ç”¨æ ¼å¼è¯´æ˜ç¬¦ {1} åˆ†æå€¼ {0} å¤±è´¥
 
-exception.orthogonal.axis.numerical.datetime=ÖµÖáÖ»ÄÜ¾ßÓĞÊıÖµ»òÈÕÆÚÊ±¼ä¸ñÊ½
+exception.orthogonal.axis.numerical.datetime=å€¼è½´åªèƒ½å…·æœ‰æ•°å€¼æˆ–æ—¥æœŸæ—¶é—´æ ¼å¼
 
-exception.axis.series.link.broken=ÎŞ·¨ÕÒµ½ÏµÁĞ {0} µÄÖá¶¨Òå
+exception.axis.series.link.broken=æ— æ³•æ‰¾åˆ°ç³»åˆ— {0} çš„è½´å®šä¹‰
 
-exception.process.content.dataset=ÎŞ·¨ÎªÊı¾İ {1} ´¦ÀíÖ¸¶¨Îª {0} µÄÊı¾İ¼¯ÄÚÈİ
+exception.process.content.dataset=æ— æ³•ä¸ºæ•°æ® {1} å¤„ç†æŒ‡å®šä¸º {0} çš„æ•°æ®é›†å†…å®¹
 
-exception.base.orthogonal.inconsistent.count=Àà±ğÖá°üº¬ {0} ¸öÏîÄ¿£»ÖµÖá°üº¬ {1} ¸öÏîÄ¿¡£
+exception.base.orthogonal.inconsistent.count=ç±»åˆ«è½´åŒ…å« {0} ä¸ªé¡¹ç›®ï¼›å€¼è½´åŒ…å« {1} ä¸ªé¡¹ç›®ã€‚
 
-exception.base.orthogonal.null.datapoint=¸ø¶¨µÄÊı¾İµã°üº¬ÎŞĞ§µÄ¿ÕÖµ¡£
+exception.base.orthogonal.null.datapoint=ç»™å®šçš„æ•°æ®ç‚¹åŒ…å«æ— æ•ˆçš„ç©ºå€¼ã€‚
 
-exception.base.orthogonal.null.datadefinition=¸ø¶¨µÄÊı¾İ¶¨Òå±í´ïÊ½ÎŞĞ§¡£.
+exception.base.orthogonal.null.datadefinition=ç»™å®šçš„æ•°æ®å®šä¹‰è¡¨è¾¾å¼æ— æ•ˆã€‚.
 
-exception.dataset.non.numerical.to.numerical=ÔÚÊı¾İ¼¯ÖĞ·¢ÏÖÁËÒâÍâµÄ·ÇÊıÖµÊı¾İÀàĞÍ{0}; ÎŞ·¨×ª»»³ÉÊıÖµ¡£
+exception.dataset.non.numerical.to.numerical=åœ¨æ•°æ®é›†ä¸­å‘ç°äº†æ„å¤–çš„éæ•°å€¼æ•°æ®ç±»å‹{0}; æ— æ³•è½¬æ¢æˆæ•°å€¼ã€‚
 
-exception.dataset.non.datetime=ÊÜ X ÖáÔ¼ÊøµÄÊı¾İÀàĞÍ²»ÊÇ DateTime ¸ñÊ½
+exception.dataset.non.datetime=å— X è½´çº¦æŸçš„æ•°æ®ç±»å‹ä¸æ˜¯ DateTime æ ¼å¼
 
-exception.scale.tick.max=ÎŞ·¨»æÖÆÌ«¶à²½¡£Çëµ÷Õû¿Ì¶È²½³¤»òµ¥Î»¡£
+exception.scale.tick.max=æ— æ³•ç»˜åˆ¶å¤ªå¤šæ­¥ã€‚è¯·è°ƒæ•´åˆ»åº¦æ­¥é•¿æˆ–å•ä½ã€‚
 
-exception.unknown.axis.type.tick.computations=ÎŞ·¨È·¶¨ÓÃÓÚ¼ÆËã¿Ì¶ÈÏßµÄÖáÀàĞÍ
+exception.unknown.axis.type.tick.computations=æ— æ³•ç¡®å®šç”¨äºè®¡ç®—åˆ»åº¦çº¿çš„è½´ç±»å‹
 
-exception.unknown.trigger.datatype=´¥·¢Æ÷Êı¾İÎŞĞ§»òÆäÀàĞÍÎ´Öª¡£
+exception.unknown.trigger.datatype=è§¦å‘å™¨æ•°æ®æ— æ•ˆæˆ–å…¶ç±»å‹æœªçŸ¥ã€‚
 
-exception.unsupported.compare.unknown.objects=Îª±È½Ï DE1={0} ºÍ DE2={1}£¬Ìá¹©ÁË²»Ö§³ÖµÄÊı¾İÔªËØ
+exception.unsupported.compare.unknown.objects=ä¸ºæ¯”è¾ƒ DE1={0} å’Œ DE2={1}ï¼Œæä¾›äº†ä¸æ”¯æŒçš„æ•°æ®å…ƒç´ 
 
-exception.unsupported.compare.different.objects=Îª±È½Ï DE1={0} ºÍ DE2={1} Ìá¹©ÁË»ìºÏµÄÊı¾İÔªËØ
+exception.unsupported.compare.different.objects=ä¸ºæ¯”è¾ƒ DE1={0} å’Œ DE2={1} æä¾›äº†æ··åˆçš„æ•°æ®å…ƒç´ 
 
-exception.resultset.data.type.retrieval.failed=ÎŞ·¨´Ó½á¹û¼¯ÖĞÈ·¶¨Êı¾İÀàĞÍ
+exception.resultset.data.type.retrieval.failed=æ— æ³•ä»ç»“æœé›†ä¸­ç¡®å®šæ•°æ®ç±»å‹
 
-exception.base.axis.no.series.definitions=Ö÷Àà±ğÖá²»°üº¬ÈÎºÎÏµÁĞ¶¨Òå
+exception.base.axis.no.series.definitions=ä¸»ç±»åˆ«è½´ä¸åŒ…å«ä»»ä½•ç³»åˆ—å®šä¹‰
 
-exception.no.stack.percent.3D.chart=ÈıÎ¬Í¼±í²»Ö§³Ö¶Ñ»ıºÍ°Ù·Ö±È¹¦ÄÜ¡£
+exception.no.stack.percent.3D.chart=ä¸‰ç»´å›¾è¡¨ä¸æ”¯æŒå †ç§¯å’Œç™¾åˆ†æ¯”åŠŸèƒ½ã€‚
 
-exception.dial.dimension=±ê¶ÈÍ¼ÏµÁĞ²»Ö§³Ö ''{0}''¡£
+exception.dial.dimension=æ ‡åº¦å›¾ç³»åˆ—ä¸æ”¯æŒ ''{0}''ã€‚
 
-exception.pie.dimension=±ıÍ¼ÏµÁĞ²»Ö§³Ö ''{0}''¡£
+exception.pie.dimension=é¥¼å›¾ç³»åˆ—ä¸æ”¯æŒ ''{0}''ã€‚
 
-exception.scatter.dimension=É¢µãÍ¼ÏµÁĞ²»Ö§³Ö ''{0}''¡£
+exception.scatter.dimension=æ•£ç‚¹å›¾ç³»åˆ—ä¸æ”¯æŒ ''{0}''ã€‚
 
-exception.stock.dimension=¹ÉÆ±Í¼ÏµÁĞ²»Ö§³Ö ''{0}''¡£
+exception.stock.dimension=è‚¡ç¥¨å›¾ç³»åˆ—ä¸æ”¯æŒ ''{0}''ã€‚
 
-exception.multi.orthogonal.3D.not.supported=ÈıÎ¬Í¼±í²»Ö§³Ö¶à¸öÖµÖá¡£
+exception.multi.orthogonal.3D.not.supported=ä¸‰ç»´å›¾è¡¨ä¸æ”¯æŒå¤šä¸ªå€¼è½´ã€‚
 
-exception.scatter.3D.not.supported=ÈıÎ¬Í¼±í²»Ö§³ÖÀëÉ¢Àà±ğÖá¡£
+exception.scatter.3D.not.supported=ä¸‰ç»´å›¾è¡¨ä¸æ”¯æŒç¦»æ•£ç±»åˆ«è½´ã€‚
 
-exception.no.transposed.3D.chart=ÈıÎ¬Í¼±í²»Ö§³ÖÖÃ»»¡£
+exception.no.transposed.3D.chart=ä¸‰ç»´å›¾è¡¨ä¸æ”¯æŒç½®æ¢ã€‚
 
-exception.3D.points.length.less.than.3=¶ÔÓÚÈıÎ¬»æÖÆÊÂ¼ş£¬µãÁĞ±í³¤¶ÈÖÁÉÙÎª 3 (>=3)¡£
+exception.3D.points.length.less.than.3=å¯¹äºä¸‰ç»´ç»˜åˆ¶äº‹ä»¶ï¼Œç‚¹åˆ—è¡¨é•¿åº¦è‡³å°‘ä¸º 3 (>=3)ã€‚
 
-exception.unsupported.area3d.getOjbect3D=²»Ö§³Ö´Ó Area3DRenderEvent Ö±½Ó·ÃÎÊ Object3D ¶ÔÏó¡£ Çë·Ö±ğµü´úÃ¿¸ö×Ó I3DRenderEvent ½øĞĞ´¦Àí¡£
+exception.unsupported.area3d.getOjbect3D=ä¸æ”¯æŒä» Area3DRenderEvent ç›´æ¥è®¿é—® Object3D å¯¹è±¡ã€‚ è¯·åˆ†åˆ«è¿­ä»£æ¯ä¸ªå­ I3DRenderEvent è¿›è¡Œå¤„ç†ã€‚
 
-exception.javascript.error=Í¼±í½Å±¾¡°{2}¡±µÄµÚ {1} ĞĞµÄ {0}
+exception.javascript.error=å›¾è¡¨è„šæœ¬â€œ{2}â€çš„ç¬¬ {1} è¡Œçš„ {0}
 
-exception.null.legend.layout.hints=ÎŞ·¨³ÊÏÖ¾ßÓĞ 'null' ²¼¾ÖÌáÊ¾¶ÔÏóµÄÍ¼Àı¡£
+exception.null.legend.layout.hints=æ— æ³•å‘ˆç°å…·æœ‰ 'null' å¸ƒå±€æç¤ºå¯¹è±¡çš„å›¾ä¾‹ã€‚
 
-exception.null.legend.item.hints=ÎŞ·¨³ÊÏÖ¾ßÓĞ 'null' ÏîÌáÊ¾¶ÔÏóµÄÍ¼ÀıÏî¡£
+exception.null.legend.item.hints=æ— æ³•å‘ˆç°å…·æœ‰ 'null' é¡¹æç¤ºå¯¹è±¡çš„å›¾ä¾‹é¡¹ã€‚
 
-info.elapsed.render.time=»æÖÆÊ±¼ä = {0} ºÁÃ×
+info.elapsed.render.time=ç»˜åˆ¶æ—¶é—´ = {0} æ¯«ç±³
 
-info.elapsed.time.render=»æÖÆÊ±¼ä = {0} ºÁÃ×
+info.elapsed.time.render=ç»˜åˆ¶æ—¶é—´ = {0} æ¯«ç±³
 
-info.eclenv.creating.dsp=£¨ÈÕÊ´Ê½»·¾³£©ÕıÔÚ´´½¨ dsp {0}
+info.eclenv.creating.dsp=ï¼ˆæ—¥èš€å¼ç¯å¢ƒï¼‰æ­£åœ¨åˆ›å»º dsp {0}
 
 info.datapoint.to.string={0}:{1}
-info.stdenv.creating.dsp=£¨¶ÀÁ¢»·¾³£©ÕıÔÚ´´½¨ dsp {0}
+info.stdenv.creating.dsp=ï¼ˆç‹¬ç«‹ç¯å¢ƒï¼‰æ­£åœ¨åˆ›å»º dsp {0}
 
-constant.undefined.string=<Î´¶¨Òå>
+constant.undefined.string=<æœªå®šä¹‰>
 
 constant.null.string=null
 
-error.invalid.enumerator=Öµ ''{0}'' ²»ÊÇ ''{1}'' µÄÓĞĞ§Ã¶¾ÙÆ÷
+error.invalid.enumerator=å€¼ ''{0}'' ä¸æ˜¯ ''{1}'' çš„æœ‰æ•ˆæšä¸¾å™¨
 
-error.invalid.classifier=Êı¾İÀàĞÍ ''{0}'' ²»ÊÇÓĞĞ§µÄ·ÖÀàÆ÷
+error.invalid.classifier=æ•°æ®ç±»å‹ ''{0}'' ä¸æ˜¯æœ‰æ•ˆçš„åˆ†ç±»å™¨
 
-error.invalid.argument.for.barSeries={0} ÊÇ BarSeriesImpl µÄÎŞĞ§²ÎÊı¡£Í¼±íÄ£ĞÍ±ØĞëÊÇ org.eclipse.birt.chart.model.ChartWithAxes µÄÊµÀı¡£
+error.invalid.argument.for.barSeries={0} æ˜¯ BarSeriesImpl çš„æ— æ•ˆå‚æ•°ã€‚å›¾è¡¨æ¨¡å‹å¿…é¡»æ˜¯ org.eclipse.birt.chart.model.ChartWithAxes çš„å®ä¾‹ã€‚
 
-error.invalid.argument.for.lineSeries={0} ÊÇ LineSeriesImpl µÄÎŞĞ§²ÎÊı¡£Í¼±íÄ£ĞÍ±ØĞëÊÇ org.eclipse.birt.chart.model.ChartWithAxes µÄÊµÀı¡£
+error.invalid.argument.for.lineSeries={0} æ˜¯ LineSeriesImpl çš„æ— æ•ˆå‚æ•°ã€‚å›¾è¡¨æ¨¡å‹å¿…é¡»æ˜¯ org.eclipse.birt.chart.model.ChartWithAxes çš„å®ä¾‹ã€‚
 
-error.invalid.argument.for.stockSeries={0} ÊÇ StockSeriesImpl µÄÎŞĞ§²ÎÊı¡£Í¼±íÄ£ĞÍ±ØĞëÊÇ org.eclipse.birt.chart.model.ChartWithAxes µÄÊµÀı¡£
+error.invalid.argument.for.stockSeries={0} æ˜¯ StockSeriesImpl çš„æ— æ•ˆå‚æ•°ã€‚å›¾è¡¨æ¨¡å‹å¿…é¡»æ˜¯ org.eclipse.birt.chart.model.ChartWithAxes çš„å®ä¾‹ã€‚
 
-error.legend.position=±ØĞëÖ¸¶¨Í¼Àı¿éÎ»ÖÃ²ÅÄÜÕıÈ·µØ²¼ÖÃÍ¼±í×é¼ş
+error.legend.position=å¿…é¡»æŒ‡å®šå›¾ä¾‹å—ä½ç½®æ‰èƒ½æ­£ç¡®åœ°å¸ƒç½®å›¾è¡¨ç»„ä»¶
 
-error.null.source=Ô´Öµ²»ÄÜÎª null
+error.null.source=æºå€¼ä¸èƒ½ä¸º null
 
-error.unknown.palette=ÇëÇóµÄµ÷É«°å {0} Î´Öª£¬Ê¹ÓÃÄ¬ÈÏÉèÖÃ
+error.unknown.palette=è¯·æ±‚çš„è°ƒè‰²æ¿ {0} æœªçŸ¥ï¼Œä½¿ç”¨é»˜è®¤è®¾ç½®
 
-error.type.not.set=Ã»ÓĞÎª DateFormatSpecifier µÄ´ËÊµÀıÉèÖÃ TYPE
+error.type.not.set=æ²¡æœ‰ä¸º DateFormatSpecifier çš„æ­¤å®ä¾‹è®¾ç½® TYPE
 
-error.eclenv.cannot.find.dsp=£¨ÈÕÊ´Ê½»·¾³£©ÎŞ·¨ÕÒµ½ {0} µÄ dsp impl
+error.eclenv.cannot.find.dsp=ï¼ˆæ—¥èš€å¼ç¯å¢ƒï¼‰æ— æ³•æ‰¾åˆ° {0} çš„ dsp impl
 
-error.stdenv.cannot.find.dsp=£¨¶ÀÁ¢»·¾³£©ÎŞ·¨ÕÒµ½ {0} µÄ dsp impl
+error.stdenv.cannot.find.dsp=ï¼ˆç‹¬ç«‹ç¯å¢ƒï¼‰æ— æ³•æ‰¾åˆ° {0} çš„ dsp impl
 
-info.eclenv.creating.series.renderer=£¨ÈÕÊ´Ê½»·¾³£©ÕıÔÚ´´½¨ÏµÁĞ³ÊÏÖÆ÷ {0}
+info.eclenv.creating.series.renderer=ï¼ˆæ—¥èš€å¼ç¯å¢ƒï¼‰æ­£åœ¨åˆ›å»ºç³»åˆ—å‘ˆç°å™¨ {0}
 
-info.eclenv.creating.datapoint.definition=(ECLIPSE-ENV) ÕıÔÚ´´½¨Êı¾İµã¶¨Òå {0}
+info.eclenv.creating.datapoint.definition=(ECLIPSE-ENV) æ­£åœ¨åˆ›å»ºæ•°æ®ç‚¹å®šä¹‰ {0}
 
-error.eclenv.cannot.find.series.renderer=£¨ÈÕÊ´Ê½»·¾³£©ÎŞ·¨ÕÒµ½ {0} µÄÏµÁĞ³ÊÏÖÆ÷ impl
+error.eclenv.cannot.find.series.renderer=ï¼ˆæ—¥èš€å¼ç¯å¢ƒï¼‰æ— æ³•æ‰¾åˆ° {0} çš„ç³»åˆ—å‘ˆç°å™¨ impl
 
-info.stdenv.creating.series.renderer=£¨¶ÀÁ¢»·¾³£©ÕıÔÚ´´½¨ÏµÁĞ³ÊÏÖÆ÷ {0}
+info.stdenv.creating.series.renderer=ï¼ˆç‹¬ç«‹ç¯å¢ƒï¼‰æ­£åœ¨åˆ›å»ºç³»åˆ—å‘ˆç°å™¨ {0}
 
-info.compute.elapsed.time.without.axes=¼ÆËãÍ¼ĞÎµÄÊ±¼ä£¨ÎŞ×ø±êÖá£© = {0} ºÁÃë
+info.compute.elapsed.time.without.axes=è®¡ç®—å›¾å½¢çš„æ—¶é—´ï¼ˆæ— åæ ‡è½´ï¼‰ = {0} æ¯«ç§’
 
-info.compute.elapsed.time.with.axes=¼ÆËãÍ¼ĞÎµÄÊ±¼ä£¨ÓĞ×ø±êÖá£© = {0} ºÁÃë
+info.compute.elapsed.time.with.axes=è®¡ç®—å›¾å½¢çš„æ—¶é—´ï¼ˆæœ‰åæ ‡è½´ï¼‰ = {0} æ¯«ç§’
 
-error.stdenv.cannot.find.series.renderer=£¨¶ÀÁ¢»·¾³£©ÎŞ·¨ÕÒµ½ {0} µÄÏµÁĞ³ÊÏÖÆ÷ impl
+error.stdenv.cannot.find.series.renderer=ï¼ˆç‹¬ç«‹ç¯å¢ƒï¼‰æ— æ³•æ‰¾åˆ° {0} çš„ç³»åˆ—å‘ˆç°å™¨ impl
 
-error.stdenv.cannot.find.datapoint.definition=(STANDALONE-ENV) ÎŞ·¨ÕÒµ½ {0} µÄÊı¾İµã¶¨Òå impl
+error.stdenv.cannot.find.datapoint.definition=(STANDALONE-ENV) æ— æ³•æ‰¾åˆ° {0} çš„æ•°æ®ç‚¹å®šä¹‰ impl
 
-error.eclenv.cannot.find.device=£¨ÈÕÊ´Ê½»·¾³£©ÎŞ·¨ÕÒµ½ {0} µÄÉè±¸³ÊÏÖÆ÷ impl
+error.eclenv.cannot.find.device=ï¼ˆæ—¥èš€å¼ç¯å¢ƒï¼‰æ— æ³•æ‰¾åˆ° {0} çš„è®¾å¤‡å‘ˆç°å™¨ impl
 
-error.stdenv.cannot.find.device=£¨¶ÀÁ¢»·¾³£©ÎŞ·¨ÕÒµ½ {0} µÄÉè±¸³ÊÏÖÆ÷ impl
+error.stdenv.cannot.find.device=ï¼ˆç‹¬ç«‹ç¯å¢ƒï¼‰æ— æ³•æ‰¾åˆ° {0} çš„è®¾å¤‡å‘ˆç°å™¨ impl
 
-error.eclenv.cannot.find.display=£¨ÈÕÊ´Ê½»·¾³£©ÎŞ·¨ÕÒµ½ {0} µÄÏÔÊ¾·şÎñÆ÷ impl
+error.eclenv.cannot.find.display=ï¼ˆæ—¥èš€å¼ç¯å¢ƒï¼‰æ— æ³•æ‰¾åˆ° {0} çš„æ˜¾ç¤ºæœåŠ¡å™¨ impl
 
-error.stdenv.cannot.find.display=£¨¶ÀÁ¢»·¾³£©ÎŞ·¨ÕÒµ½ {0} µÄÏÔÊ¾·şÎñÆ÷ impl
+error.stdenv.cannot.find.display=ï¼ˆç‹¬ç«‹ç¯å¢ƒï¼‰æ— æ³•æ‰¾åˆ° {0} çš„æ˜¾ç¤ºæœåŠ¡å™¨ impl
 
-info.log.script=[½Å±¾]: {0}
+info.log.script=[è„šæœ¬]: {0}
 
 info.render.series={0}: renderSeries() [{1}/{2}]
-info.log.info=[ĞÅÏ¢]: {0}
+info.log.info=[ä¿¡æ¯]: {0}
 
-info.log.warn=[¾¯¸æ]: {0}
+info.log.warn=[è­¦å‘Š]: {0}
 
-info.log.err=[´íÎó]: {0}
+info.log.err=[é”™è¯¯]: {0}
 
-info.log.fatal=[ÖÂÃü´íÎó]: {0}
+info.log.fatal=[è‡´å‘½é”™è¯¯]: {0}
 
 prefix.marker.range.caption=[
-separator.marker.range.caption=\ ÖÁ
+separator.marker.range.caption=\ è‡³
 
 suffix.marker.range.caption=]
-wrapped.instruction.to.string={0}:Ä£ĞÍ={1}£» ±ß½ç={2}
+wrapped.instruction.to.string={0}:æ¨¡å‹={1}ï¼› è¾¹ç•Œ={2}
 
-exception.mixed.data.types=¾ÛºÏº¯Êı {0} Óöµ½Òª»ã×ÜµÄ»ìºÏÊäÈëÊı¾İ
+exception.mixed.data.types=èšåˆå‡½æ•° {0} é‡åˆ°è¦æ±‡æ€»çš„æ··åˆè¾“å…¥æ•°æ®
 
-info.eclenv.creating.function=£¨ÈÕÊ´Ê½»·¾³£©ÕıÔÚ´´½¨¾ÛºÏº¯Êı {0}
+info.eclenv.creating.function=ï¼ˆæ—¥èš€å¼ç¯å¢ƒï¼‰æ­£åœ¨åˆ›å»ºèšåˆå‡½æ•° {0}
 
-error.eclenv.cannot.find.function=£¨ÈÕÊ´Ê½»·¾³£©ÎŞ·¨ÕÒµ½ {0} µÄ¾ÛºÏº¯Êı impl
+error.eclenv.cannot.find.function=ï¼ˆæ—¥èš€å¼ç¯å¢ƒï¼‰æ— æ³•æ‰¾åˆ° {0} çš„èšåˆå‡½æ•° impl
 
-info.stdenv.creating.function=£¨¶ÀÁ¢»·¾³£©ÕıÔÚ´´½¨¾ÛºÏº¯Êı {0}
+info.stdenv.creating.function=ï¼ˆç‹¬ç«‹ç¯å¢ƒï¼‰æ­£åœ¨åˆ›å»ºèšåˆå‡½æ•° {0}
 
-error.stdenv.cannot.find.function=£¨¶ÀÁ¢»·¾³£©ÎŞ·¨ÕÒµ½ {0} µÄ¾ÛºÏº¯Êı impl
+error.stdenv.cannot.find.function=ï¼ˆç‹¬ç«‹ç¯å¢ƒï¼‰æ— æ³•æ‰¾åˆ° {0} çš„èšåˆå‡½æ•° impl
 
-Info.try.load.java.handler=ÕıÔÚ³¢ÊÔ¼ÓÔØÍ¼±í Java ÊÂ¼ş´¦Àí³ÌĞòÀà...
+Info.try.load.java.handler=æ­£åœ¨å°è¯•åŠ è½½å›¾è¡¨ Java äº‹ä»¶å¤„ç†ç¨‹åºç±»...
 
-Info.java.handler.loaded=ÒÑ³É¹¦¼ÓÔØÍ¼±í Java ÊÂ¼ş´¦Àí³ÌĞòÀà [{0}]¡£
+Info.java.handler.loaded=å·²æˆåŠŸåŠ è½½å›¾è¡¨ Java äº‹ä»¶å¤„ç†ç¨‹åºç±» [{0}]ã€‚
 
-Info.invalid.java.handler=ÒÑ¼ì²âµ½²¢ºöÂÔÎŞĞ§µÄÍ¼±í Java ÊÂ¼ş´¦Àí³ÌĞòÀà [{0}]¡£
+Info.invalid.java.handler=å·²æ£€æµ‹åˆ°å¹¶å¿½ç•¥æ— æ•ˆçš„å›¾è¡¨ Java äº‹ä»¶å¤„ç†ç¨‹åºç±» [{0}]ã€‚
 
-Info.try.register.javascript.content=ÕıÔÚ³¢ÊÔ¼ÓÔØÍ¼±í JavaScript ÄÚÈİ...
+Info.try.register.javascript.content=æ­£åœ¨å°è¯•åŠ è½½å›¾è¡¨ JavaScript å†…å®¹...
 
-Info.javascript.content.registered=ÒÑ³É¹¦¼ÓÔØÍ¼±í JavaScript ÄÚÈİ¡£
+Info.javascript.content.registered=å·²æˆåŠŸåŠ è½½å›¾è¡¨ JavaScript å†…å®¹ã€‚
 
-warn.unspecified.sorting=Î´Îª {0} Ö¸¶¨ÅÅĞò¡£
+warn.unspecified.sorting=æœªä¸º {0} æŒ‡å®šæ’åºã€‚
 
 ##################################################
 # Attributes 
@@ -352,397 +352,397 @@ warn.unspecified.sorting=Î´Îª {0} Ö¸¶¨ÅÅĞò¡£
 # !!the key is bound to those attribute literal' name value, 
 # !!if that changes, this must be updated accordingly.
 #
-SeriesImpl.displayName=¼òµ¥ÏµÁĞ
+SeriesImpl.displayName=ç®€å•ç³»åˆ—
 
-AreaSeriesImpl.displayName=Ãæ»ıÍ¼ÏµÁĞ
+AreaSeriesImpl.displayName=é¢ç§¯å›¾ç³»åˆ—
 
-BarSeriesImpl.displayName=ÌõĞÎÍ¼ÏµÁĞ
+BarSeriesImpl.displayName=æ¡å½¢å›¾ç³»åˆ—
 
-BarSeriesImpl.coneDisplayName=×¶ĞÎÏµÁĞ
+BarSeriesImpl.coneDisplayName=é”¥å½¢ç³»åˆ—
 
-BarSeriesImpl.tubeDisplayName=¹ÜĞÎÏµÁĞ
+BarSeriesImpl.tubeDisplayName=ç®¡å½¢ç³»åˆ—
 
-BarSeriesImpl.pyramidDisplayName=Àâ×¶ÏµÁĞ
+BarSeriesImpl.pyramidDisplayName=æ£±é”¥ç³»åˆ—
 
-DialSeriesImpl.displayName=±ê¶ÈÍ¼ÏµÁĞ
+DialSeriesImpl.displayName=æ ‡åº¦å›¾ç³»åˆ—
 
-LineSeriesImpl.displayName=ÕÛÏßÍ¼ÏµÁĞ
+LineSeriesImpl.displayName=æŠ˜çº¿å›¾ç³»åˆ—
 
-PieSeriesImpl.displayName=±ıÍ¼ÏµÁĞ
+PieSeriesImpl.displayName=é¥¼å›¾ç³»åˆ—
 
-ScatterSeriesImpl.displayName=É¢µãÍ¼ÏµÁĞ
+ScatterSeriesImpl.displayName=æ•£ç‚¹å›¾ç³»åˆ—
 
-StockSeriesImpl.displayName=¹ÉÆ±Í¼ÏµÁĞ
+StockSeriesImpl.displayName=è‚¡ç¥¨å›¾ç³»åˆ—
 
-BubbleSeriesImpl.displayName=ÆøÅİÍ¼ÏµÁĞ
+BubbleSeriesImpl.displayName=æ°”æ³¡å›¾ç³»åˆ—
 
-GanttSeriesImpl.displayName=¸ÊÌØÍ¼ÏµÁĞ
+GanttSeriesImpl.displayName=ç”˜ç‰¹å›¾ç³»åˆ—
 
-DifferenceSeriesImpl.displayName=²îÒìÏµÁĞ
+DifferenceSeriesImpl.displayName=å·®å¼‚ç³»åˆ—
 
-AxisType.Linear.displayName=ÏßĞÔ
+AxisType.Linear.displayName=çº¿æ€§
 
-AxisType.Logarithmic.displayName=¶ÔÊı
+AxisType.Logarithmic.displayName=å¯¹æ•°
 
-AxisType.Text.displayName=ÎÄ±¾
+AxisType.Text.displayName=æ–‡æœ¬
 
 AxisType.DateTime.displayName=DateTime
 IntersectionType.Min.displayName=Min
 
 IntersectionType.Max.displayName=Max
 
-IntersectionType.Value.displayName=Öµ
+IntersectionType.Value.displayName=å€¼
 
-ScaleUnitType.Seconds.displayName=Ãë
+ScaleUnitType.Seconds.displayName=ç§’
 
-ScaleUnitType.Minutes.displayName=·ÖÖÓ
+ScaleUnitType.Minutes.displayName=åˆ†é’Ÿ
 
-ScaleUnitType.Hours.displayName=Ğ¡Ê±
+ScaleUnitType.Hours.displayName=å°æ—¶
 
-ScaleUnitType.Days.displayName=ÈÕ
+ScaleUnitType.Days.displayName=æ—¥
 
-ScaleUnitType.Weeks.displayName=ÖÜ
+ScaleUnitType.Weeks.displayName=å‘¨
 
-ScaleUnitType.Months.displayName=ÔÂ
+ScaleUnitType.Months.displayName=æœˆ
 
-ScaleUnitType.Quarters.displayName=¼¾
+ScaleUnitType.Quarters.displayName=å­£
 
-ScaleUnitType.Years.displayName=Äê
+ScaleUnitType.Years.displayName=å¹´
 
-SortOption.Ascending.displayName=ÉıĞò
+SortOption.Ascending.displayName=å‡åº
 
-SortOption.Descending.displayName=½µĞò
+SortOption.Descending.displayName=é™åº
 
-TriggerCondition.MouseHover.displayName=Êó±êĞüÍ£(¹ıÊ±)
+TriggerCondition.MouseHover.displayName=é¼ æ ‡æ‚¬åœ(è¿‡æ—¶)
 
-TriggerCondition.MouseClick.displayName=Êó±êµ¥»÷(¹ıÊ±)
+TriggerCondition.MouseClick.displayName=é¼ æ ‡å•å‡»(è¿‡æ—¶)
 
-TriggerCondition.onclick.displayName=Êó±êµ¥»÷
+TriggerCondition.onclick.displayName=é¼ æ ‡å•å‡»
 
-TriggerCondition.ondblclick.displayName=Êó±êË«»÷
+TriggerCondition.ondblclick.displayName=é¼ æ ‡åŒå‡»
 
-TriggerCondition.onmousedown.displayName=Êó±ê°´ÏÂ
+TriggerCondition.onmousedown.displayName=é¼ æ ‡æŒ‰ä¸‹
 
-TriggerCondition.onmouseup.displayName=Êó±êÊÍ·Å
+TriggerCondition.onmouseup.displayName=é¼ æ ‡é‡Šæ”¾
 
-TriggerCondition.onmouseover.displayName=Êó±êÒÆ¹ı
+TriggerCondition.onmouseover.displayName=é¼ æ ‡ç§»è¿‡
 
-TriggerCondition.onmousemove.displayName=Êó±êÒÆ¶¯
+TriggerCondition.onmousemove.displayName=é¼ æ ‡ç§»åŠ¨
 
-TriggerCondition.onmouseout.displayName=Êó±êÒÆ³ö
+TriggerCondition.onmouseout.displayName=é¼ æ ‡ç§»å‡º
 
-TriggerCondition.onfocus.displayName=½¹µã
+TriggerCondition.onfocus.displayName=ç„¦ç‚¹
 
-TriggerCondition.onblur.displayName=Ä£ºı
+TriggerCondition.onblur.displayName=æ¨¡ç³Š
 
-TriggerCondition.onkeydown.displayName=¼ü°´ÏÂ
+TriggerCondition.onkeydown.displayName=é”®æŒ‰ä¸‹
 
-TriggerCondition.onkeypress.displayName=»÷¼ü
+TriggerCondition.onkeypress.displayName=å‡»é”®
 
-TriggerCondition.onkeyup.displayName=¼üÊÍ·Å
+TriggerCondition.onkeyup.displayName=é”®é‡Šæ”¾
 
-TriggerCondition.onload.displayName=¼ÓÔØ
+TriggerCondition.onload.displayName=åŠ è½½
 
-ActionType.URLRedirect.displayName=³¬¼¶Á´½Ó
+ActionType.URLRedirect.displayName=è¶…çº§é“¾æ¥
 
-ActionType.ShowTooltip.displayName=ÏÔÊ¾¹¤¾ßÌáÊ¾
+ActionType.ShowTooltip.displayName=æ˜¾ç¤ºå·¥å…·æç¤º
 
-ActionType.ToggleVisibility.displayName=ÇĞ»»¿É¼ûĞÔ
+ActionType.ToggleVisibility.displayName=åˆ‡æ¢å¯è§æ€§
 
-ActionType.InvokeScript.displayName=µ÷ÓÃ½Å±¾
+ActionType.InvokeScript.displayName=è°ƒç”¨è„šæœ¬
 
-ActionType.Highlight.displayName=Í»³öÏÔÊ¾
+ActionType.Highlight.displayName=çªå‡ºæ˜¾ç¤º
 
-ActionType.CallBack.displayName=»Øµ÷
+ActionType.CallBack.displayName=å›è°ƒ
 
-ActionType.ToggleDataPointVisibility.displayName=ÇĞ»»Êı¾İµã¿É¼ûĞÔ
+ActionType.ToggleDataPointVisibility.displayName=åˆ‡æ¢æ•°æ®ç‚¹å¯è§æ€§
 
-TickStyle.Across.displayName=½»²æ
+TickStyle.Across.displayName=äº¤å‰
 
-TickStyle.Left.displayName=×ó²à
+TickStyle.Left.displayName=å·¦ä¾§
 
-TickStyle.Right.displayName=ÓÒ²à
+TickStyle.Right.displayName=å³ä¾§
 
-TickStyle.Above.displayName=ÉÏ·½
+TickStyle.Above.displayName=ä¸Šæ–¹
 
-TickStyle.Below.displayName=ÏÂ·½
+TickStyle.Below.displayName=ä¸‹æ–¹
 
-DataPointComponentType.BaseValue.displayName=Àà±ğÊı¾İ
+DataPointComponentType.BaseValue.displayName=ç±»åˆ«æ•°æ®
 
-DataPointComponentType.OrthogonalValue.displayName=ÖµÊı¾İ
+DataPointComponentType.OrthogonalValue.displayName=å€¼æ•°æ®
 
-DataPointComponentType.SeriesValue.displayName=ÖµÏµÁĞÃû³Æ
+DataPointComponentType.SeriesValue.displayName=å€¼ç³»åˆ—åç§°
 
-DataPointComponentType.PercentileOrthogonalValue.displayName=°Ù·ÖÎ»ÖµÊı¾İ
+DataPointComponentType.PercentileOrthogonalValue.displayName=ç™¾åˆ†ä½å€¼æ•°æ®
 
-LeaderLineStyle.FixedLength.displayName=¹Ì¶¨³¤¶È
+LeaderLineStyle.FixedLength.displayName=å›ºå®šé•¿åº¦
 
-LeaderLineStyle.StretchToSide.displayName=²àÏòÉìÕ¹
+LeaderLineStyle.StretchToSide.displayName=ä¾§å‘ä¼¸å±•
 
-MarkerType.Crosshair.displayName=½»²æÏß
+MarkerType.Crosshair.displayName=äº¤å‰çº¿
 
-MarkerType.Triangle.displayName=Èı½ÇĞÎ
+MarkerType.Triangle.displayName=ä¸‰è§’å½¢
 
-MarkerType.Box.displayName=ÏäĞÎ
+MarkerType.Box.displayName=ç®±å½¢
 
-MarkerType.Circle.displayName=Ô²ĞÎ
+MarkerType.Circle.displayName=åœ†å½¢
 
-MarkerType.Icon.displayName=Í¼±ê
+MarkerType.Icon.displayName=å›¾æ ‡
 
-MarkerType.Nabla.displayName=µ¹Èı½ÇĞÎ
+MarkerType.Nabla.displayName=å€’ä¸‰è§’å½¢
 
-MarkerType.Diamond.displayName=ÁâĞÎ
+MarkerType.Diamond.displayName=è±å½¢
 
-MarkerType.FourDiamonds.displayName=ËÄ¸öÁâĞÎ
+MarkerType.FourDiamonds.displayName=å››ä¸ªè±å½¢
 
-MarkerType.Ellipse.displayName=ÍÖÔ²
+MarkerType.Ellipse.displayName=æ¤­åœ†
 
-MarkerType.SemiCircle.displayName=°ëÔ²ĞÎ
+MarkerType.SemiCircle.displayName=åŠåœ†å½¢
 
-MarkerType.Hexagon.displayName=Áù±ßĞÎ
+MarkerType.Hexagon.displayName=å…­è¾¹å½¢
 
-MarkerType.Rectangle.displayName=¾ØĞÎ
+MarkerType.Rectangle.displayName=çŸ©å½¢
 
-MarkerType.Star.displayName=ĞÇĞÎ
+MarkerType.Star.displayName=æ˜Ÿå½¢
 
-MarkerType.Column.displayName=Ô²ÖùĞÎ
+MarkerType.Column.displayName=åœ†æŸ±å½¢
 
-MarkerType.Cross.displayName=Ê®×ÖĞÎ
+MarkerType.Cross.displayName=åå­—å½¢
 
-RiserType.Rectangle.displayName=¾ØĞÎ
+RiserType.Rectangle.displayName=çŸ©å½¢
 
-RiserType.Triangle.displayName=Èı½ÇĞÎ
+RiserType.Triangle.displayName=ä¸‰è§’å½¢
 
-RiserType.Tube.displayName=¹ÜĞÎ
+RiserType.Tube.displayName=ç®¡å½¢
 
-RiserType.Cone.displayName=Ô²×¶
+RiserType.Cone.displayName=åœ†é”¥
 
-Anchor.North.displayName=ÉÏ
+Anchor.North.displayName=ä¸Š
 
-Anchor.NorthEast.displayName=ÓÒÉÏ
+Anchor.NorthEast.displayName=å³ä¸Š
 
-Anchor.East.displayName=ÓÒ
+Anchor.East.displayName=å³
 
-Anchor.SouthEast.displayName=ÓÒÏÂ
+Anchor.SouthEast.displayName=å³ä¸‹
 
-Anchor.South.displayName=ÏÂ
+Anchor.South.displayName=ä¸‹
 
-Anchor.SouthWest.displayName=×óÏÂ
+Anchor.SouthWest.displayName=å·¦ä¸‹
 
-Anchor.West.displayName=×ó
+Anchor.West.displayName=å·¦
 
-Anchor.NorthWest.displayName=×óÉÏ
+Anchor.NorthWest.displayName=å·¦ä¸Š
 
-AnchorVertical.North.displayName=¶¥²¿
+AnchorVertical.North.displayName=é¡¶éƒ¨
 
-AnchorVertical.South.displayName=µ×²¿
+AnchorVertical.South.displayName=åº•éƒ¨
 
-AnchorVertical.West.displayName=ÖĞ¼ä
+AnchorVertical.West.displayName=ä¸­é—´
 
-AnchorHorizontal.East.displayName=ÓÒ
+AnchorHorizontal.East.displayName=å³
 
-AnchorHorizontal.South.displayName=ÖĞ¼ä
+AnchorHorizontal.South.displayName=ä¸­é—´
 
-AnchorHorizontal.West.displayName=×ó
+AnchorHorizontal.West.displayName=å·¦
 
-AutoScale.Exception.IsInfiite=\ ÎŞÏŞÖÆ
+AutoScale.Exception.IsInfiite=\ æ— é™åˆ¶
 
-AutoScale.Exception.IsNaN=\ ²»ÊÇÊıÖµ
+AutoScale.Exception.IsNaN=\ ä¸æ˜¯æ•°å€¼
 
-AutoScale.ValueName.StepSize=²½³¤
+AutoScale.ValueName.StepSize=æ­¥é•¿
 
-Stretch.Horizontal.displayName=Ë®Æ½
+Stretch.Horizontal.displayName=æ°´å¹³
 
-Stretch.Vertical.displayName=´¹Ö±
+Stretch.Vertical.displayName=å‚ç›´
 
-Stretch.Both.displayName=Ë®Æ½ºÍ´¹Ö±
+Stretch.Both.displayName=æ°´å¹³å’Œå‚ç›´
 
-Orientation.Horizontal.displayName=Ë®Æ½
+Orientation.Horizontal.displayName=æ°´å¹³
 
-Orientation.Vertical.displayName=´¹Ö±
+Orientation.Vertical.displayName=å‚ç›´
 
-Direction.LeftRight.displayName=×óÓÒ
+Direction.LeftRight.displayName=å·¦å³
 
-Direction.TopBottom.displayName=ÉÏÏÂ
+Direction.TopBottom.displayName=ä¸Šä¸‹
 
-LegendItemType.Series.displayName=ÖµÏµÁĞ
+LegendItemType.Series.displayName=å€¼ç³»åˆ—
 
-LegendItemType.Categories.displayName=Àà±ğ
+LegendItemType.Categories.displayName=ç±»åˆ«
 
-Position.Above.displayName=ÉÏ·½
+Position.Above.displayName=ä¸Šæ–¹
 
-Position.Below.displayName=ÏÂ·½
+Position.Below.displayName=ä¸‹æ–¹
 
-Position.Left.displayName=×ó²à
+Position.Left.displayName=å·¦ä¾§
 
-Position.Right.displayName=ÓÒ²à
+Position.Right.displayName=å³ä¾§
 
-Position.Inside.displayName=ÄÚ²¿
+Position.Inside.displayName=å†…éƒ¨
 
-Position.Outside.displayName=Íâ²¿
+Position.Outside.displayName=å¤–éƒ¨
 
-UnitsOfMeasurement.Pixels.displayName=ÏñËØ
+UnitsOfMeasurement.Pixels.displayName=åƒç´ 
 
-UnitsOfMeasurement.Points.displayName=µã
+UnitsOfMeasurement.Points.displayName=ç‚¹
 
-UnitsOfMeasurement.Inches.displayName=Ó¢´ç
+UnitsOfMeasurement.Inches.displayName=è‹±å¯¸
 
-UnitsOfMeasurement.Centimeters.displayName=ÀåÃ×
+UnitsOfMeasurement.Centimeters.displayName=å˜ç±³
 
-DataType.Numeric.displayName=ÊıÖµ
+DataType.Numeric.displayName=æ•°å€¼
 
 DataType.DateTime.displayName=DateTime
-DataType.Text.displayName=ÎÄ±¾
+DataType.Text.displayName=æ–‡æœ¬
 
-GroupingUnitType.Seconds.displayName=Ãë
+GroupingUnitType.Seconds.displayName=ç§’
 
-GroupingUnitType.Minutes.displayName=·ÖÖÓ
+GroupingUnitType.Minutes.displayName=åˆ†é’Ÿ
 
-GroupingUnitType.Hours.displayName=Ğ¡Ê±
+GroupingUnitType.Hours.displayName=å°æ—¶
 
-GroupingUnitType.Days.displayName=ÈÕ
+GroupingUnitType.Days.displayName=æ—¥
 
-GroupingUnitType.Weeks.displayName=ÖÜ
+GroupingUnitType.Weeks.displayName=å‘¨
 
-GroupingUnitType.Months.displayName=ÔÂ
+GroupingUnitType.Months.displayName=æœˆ
 
-GroupingUnitType.Years.displayName=Äê
+GroupingUnitType.Years.displayName=å¹´
 
-GroupingUnitType.Quarters.displayName=¼¾
+GroupingUnitType.Quarters.displayName=å­£
 
-GroupingUnitType.String.displayName=×Ö·û´®
+GroupingUnitType.String.displayName=å­—ç¬¦ä¸²
 
-GroupingUnitType.StringPrefix.displayName=×Ö·û´®Ç°×º
+GroupingUnitType.StringPrefix.displayName=å­—ç¬¦ä¸²å‰ç¼€
 
-DateFormatType.Long.displayName=³¤
+DateFormatType.Long.displayName=é•¿
 
-DateFormatType.Short.displayName=¶Ì
+DateFormatType.Short.displayName=çŸ­
 
-DateFormatType.Medium.displayName=ÖĞµÈ
+DateFormatType.Medium.displayName=ä¸­ç­‰
 
-DateFormatType.Full.displayName=ÍêÈ«
+DateFormatType.Full.displayName=å®Œå…¨
 
-DateFormatDetail.Date.displayName=ÈÕÆÚ
+DateFormatDetail.Date.displayName=æ—¥æœŸ
 
-DateFormatDetail.DateTime.displayName=ÈÕÆÚÊ±¼ä
+DateFormatDetail.DateTime.displayName=æ—¥æœŸæ—¶é—´
 
 ChartUtil.Text.Day='D'
 ChartUtil.Text.Week='W'
-DefaultValueProvider_BaseSeries=»ù±¾ÏµÁĞ
+DefaultValueProvider_BaseSeries=åŸºæœ¬ç³»åˆ—
 
-DefaultValueProvider_ChartSubType.Standard=±ê×¼
+DefaultValueProvider_ChartSubType.Standard=æ ‡å‡†
 
-DefaultValueProvider_ChartSubType.StandardMeterChart=±ê×¼ÒÇ±íÍ¼
+DefaultValueProvider_ChartSubType.StandardMeterChart=æ ‡å‡†ä»ªè¡¨å›¾
 
-DefaultValueProvider_ChartTitle=Í¼±í±êÌâ
+DefaultValueProvider_ChartTitle=å›¾è¡¨æ ‡é¢˜
 
-DefaultValueProvider_ChartUnits.Points=µã
+DefaultValueProvider_ChartUnits.Points=ç‚¹
 
-LegendBehaviorType.None.displayName=ÎŞ
+LegendBehaviorType.None.displayName=æ— 
 
-LegendBehaviorType.ToggleSerieVisibility.displayName=ÇĞ»»ÏµÁĞ¿É¼ûĞÔ
+LegendBehaviorType.ToggleSerieVisibility.displayName=åˆ‡æ¢ç³»åˆ—å¯è§æ€§
 
-LegendBehaviorType.HighlightSerie.displayName=Í»³öÏÔÊ¾ÏµÁĞ
+LegendBehaviorType.HighlightSerie.displayName=çªå‡ºæ˜¾ç¤ºç³»åˆ—
 
 # Defines cursor display names.
-Cursor.Auto.displayName=×Ô¶¯
+Cursor.Auto.displayName=è‡ªåŠ¨
 
-Cursor.Crosshair.displayName=½»²æÏß
+Cursor.Crosshair.displayName=äº¤å‰çº¿
 
-Cursor.Default.displayName=Ä¬ÈÏ
+Cursor.Default.displayName=é»˜è®¤
 
-Cursor.Pointer.displayName=ÊÖ
+Cursor.Pointer.displayName=æ‰‹
 
-Cursor.Move.displayName=ÒÆ¶¯
+Cursor.Move.displayName=ç§»åŠ¨
 
-Cursor.Text.displayName=ÎÄ±¾
+Cursor.Text.displayName=æ–‡æœ¬
 
-Cursor.Wait.displayName=µÈ´ı
+Cursor.Wait.displayName=ç­‰å¾…
 
-Cursor.EResize.displayName=¶«
+Cursor.EResize.displayName=ä¸œ
 
-Cursor.NEResize.displayName=¶«±±
+Cursor.NEResize.displayName=ä¸œåŒ—
 
-Cursor.NWResize.displayName=Î÷±±
+Cursor.NWResize.displayName=è¥¿åŒ—
 
-Cursor.NResize.displayName=±±
+Cursor.NResize.displayName=åŒ—
 
-Cursor.SEResize.displayName=¶«ÄÏ
+Cursor.SEResize.displayName=ä¸œå—
 
-Cursor.SWResize.displayName=Î÷ÄÏ
+Cursor.SWResize.displayName=è¥¿å—
 
-Cursor.SResize.displayName=ÄÏ
+Cursor.SResize.displayName=å—
 
-Cursor.WResize.displayName=Î÷
+Cursor.WResize.displayName=è¥¿
 
-Cursor.Custom.displayName=×Ô¶¨Òå
+Cursor.Custom.displayName=è‡ªå®šä¹‰
 
-ActionType.URLRedirect.DisplayName=URL ÖØ¶¨Ïò
+ActionType.URLRedirect.DisplayName=URL é‡å®šå‘
 
-ActionType.InvokeScript.DisplayName=µ÷ÓÃ½Å±¾
+ActionType.InvokeScript.DisplayName=è°ƒç”¨è„šæœ¬
 
-ActionType.Highlight.DisplayName=Í»³öÏÔÊ¾
+ActionType.Highlight.DisplayName=çªå‡ºæ˜¾ç¤º
 
-ActionType.ToggleVisibility.DisplayName=ÇĞ»»¿É¼ûĞÔ
+ActionType.ToggleVisibility.DisplayName=åˆ‡æ¢å¯è§æ€§
 
-ActionType.ToggleDataPointVisibility.DisplayName=ÇĞ»»Êı¾İµã¿É¼ûĞÔ
+ActionType.ToggleDataPointVisibility.DisplayName=åˆ‡æ¢æ•°æ®ç‚¹å¯è§æ€§
 
 # End of Attributes
 ##################################################
-dataprocessor.log.baseSeriesDefn3=Àà±ğÏµÁĞ¶¨Òå ({0}) ½«ÓÃ×÷¾²Ì¬±í´ïÊ½¡£
+dataprocessor.log.baseSeriesDefn3=ç±»åˆ«ç³»åˆ—å®šä¹‰ ({0}) å°†ç”¨ä½œé™æ€è¡¨è¾¾å¼ã€‚
 
-dataprocessor.exception.CannotDecipher=ÎŞ·¨½«°üº¬¶à¸öÀà±ğÏµÁĞ¶¨ÒåµÄÍ¼±íµÄÄÚÈİ½âÂë¡£
+dataprocessor.exception.CannotDecipher=æ— æ³•å°†åŒ…å«å¤šä¸ªç±»åˆ«ç³»åˆ—å®šä¹‰çš„å›¾è¡¨çš„å†…å®¹è§£ç ã€‚
 
-dataprocessor.exception.FoundDefnAssociatedWithX=ÕÒµ½ÓëÀà±ğ (X) ÏµÁĞ±í´ïÊ½¹ØÁªµÄ {0} ¸öÊı¾İ¶¨Òå¡£½öÖ§³ÖÒ»¸öÀà±ğÏµÁĞÊı¾İ¶¨Òå¡£
+dataprocessor.exception.FoundDefnAssociatedWithX=æ‰¾åˆ°ä¸ç±»åˆ« (X) ç³»åˆ—è¡¨è¾¾å¼å…³è”çš„ {0} ä¸ªæ•°æ®å®šä¹‰ã€‚ä»…æ”¯æŒä¸€ä¸ªç±»åˆ«ç³»åˆ—æ•°æ®å®šä¹‰ã€‚
 
-dataprocessor.exception.DefinitionUnspecified=Î´Ö¸¶¨Àà±ğÏµÁĞµÄÊı¾İ¶¨Òå¡£
+dataprocessor.exception.DefinitionUnspecified=æœªæŒ‡å®šç±»åˆ«ç³»åˆ—çš„æ•°æ®å®šä¹‰ã€‚
 
-dataprocessor.exception.DefnExpMustAssociateY=Êı¾İ¶¨Òå±í´ïÊ½±ØĞëÓëÖµ (Y) ÏµÁĞ¹ØÁª - {1} ¶¨ÒåµÄ {0}¡£
+dataprocessor.exception.DefnExpMustAssociateY=æ•°æ®å®šä¹‰è¡¨è¾¾å¼å¿…é¡»ä¸å€¼ (Y) ç³»åˆ—å…³è” - {1} å®šä¹‰çš„ {0}ã€‚
 
-dataprocessor.exception.AtLeastOneDefnExpMustAssociateY=ÖÁÉÙÒ»¸öÊı¾İ¶¨Òå±í´ïÊ½±ØĞëÓëÖµ (Y) ÏµÁĞ¹ØÁª - {1} ¶¨ÒåµÄ {0}¡£
+dataprocessor.exception.AtLeastOneDefnExpMustAssociateY=è‡³å°‘ä¸€ä¸ªæ•°æ®å®šä¹‰è¡¨è¾¾å¼å¿…é¡»ä¸å€¼ (Y) ç³»åˆ—å…³è” - {1} å®šä¹‰çš„ {0}ã€‚
 
-dataprocessor.exception.CannotDecipher2=ÎŞ·¨½«°üº¬¶à¸öÀà±ğÏµÁĞ¶¨ÒåµÄÍ¼±íµÄÄÚÈİ½âÂë¡£
+dataprocessor.exception.CannotDecipher2=æ— æ³•å°†åŒ…å«å¤šä¸ªç±»åˆ«ç³»åˆ—å®šä¹‰çš„å›¾è¡¨çš„å†…å®¹è§£ç ã€‚
 
-dataprocessor.log.XSeriesDefn=X ÏµÁĞ¶¨Òå ({0}) ½«ÓÃ×÷¾²Ì¬±í´ïÊ½¡£
+dataprocessor.log.XSeriesDefn=X ç³»åˆ—å®šä¹‰ ({0}) å°†ç”¨ä½œé™æ€è¡¨è¾¾å¼ã€‚
 
-dataprocessor.exception.FoundMoreThanOneDefnAssociateX=ÕÒµ½Óë X ÏµÁĞ±í´ïÊ½¹ØÁªµÄ {0} ¸öÊı¾İ¶¨Òå¡£½öÖ§³ÖÒ»¸ö X ÏµÁĞÊı¾İ¶¨Òå¡£
+dataprocessor.exception.FoundMoreThanOneDefnAssociateX=æ‰¾åˆ°ä¸ X ç³»åˆ—è¡¨è¾¾å¼å…³è”çš„ {0} ä¸ªæ•°æ®å®šä¹‰ã€‚ä»…æ”¯æŒä¸€ä¸ª X ç³»åˆ—æ•°æ®å®šä¹‰ã€‚
 
-edataprocessor.xception.definitionsAssociatedWithX=Î´Ö¸¶¨ X ÏµÁĞµÄÊı¾İ¶¨Òå¡£
+edataprocessor.xception.definitionsAssociatedWithX=æœªæŒ‡å®š X ç³»åˆ—çš„æ•°æ®å®šä¹‰ã€‚
 
-dataprocessor.log.baseSeriesDefnBeStatic=Àà±ğÏµÁĞ¶¨Òå ({0}) ½«ÓÃ×÷¾²Ì¬±í´ïÊ½¡£
+dataprocessor.log.baseSeriesDefnBeStatic=ç±»åˆ«ç³»åˆ—å®šä¹‰ ({0}) å°†ç”¨ä½œé™æ€è¡¨è¾¾å¼ã€‚
 
-exception.data.max.row.count=ÎŞ·¨»æÖÆ°ó¶¨³¬¹ı {0} ĞĞÊı¾İµÄÍ¼±í¡£
+exception.data.max.row.count=æ— æ³•ç»˜åˆ¶ç»‘å®šè¶…è¿‡ {0} è¡Œæ•°æ®çš„å›¾è¡¨ã€‚
 
 
 # Default chart title
-BarChart.Title=ÌõĞÎÍ¼±êÌâ
+BarChart.Title=æ¡å½¢å›¾æ ‡é¢˜
 
-LineChart.Title=ÕÛÏßÍ¼±êÌâ
+LineChart.Title=æŠ˜çº¿å›¾æ ‡é¢˜
 
-AreaChart.Title=Ãæ»ıÍ¼±êÌâ
+AreaChart.Title=é¢ç§¯å›¾æ ‡é¢˜
 
-PieChart.Title=±ıÍ¼±êÌâ
+PieChart.Title=é¥¼å›¾æ ‡é¢˜
 
-MeterChart.Title=ÒÇ±íÍ¼±êÌâ
+MeterChart.Title=ä»ªè¡¨å›¾æ ‡é¢˜
 
-ScatterChart.Title=É¢µãÍ¼±êÌâ
+ScatterChart.Title=æ•£ç‚¹å›¾æ ‡é¢˜
 
-StockChart.Title=¹ÉÆ±Í¼±êÌâ
+StockChart.Title=è‚¡ç¥¨å›¾æ ‡é¢˜
 
-BubbleChart.Title=ÆøÅİÍ¼±êÌâ
+BubbleChart.Title=æ°”æ³¡å›¾æ ‡é¢˜
 
-DifferenceChart.Title=²îÒìÍ¼±êÌâ
+DifferenceChart.Title=å·®å¼‚å›¾æ ‡é¢˜
 
-GanttChart.Title=¸ÊÌØÍ¼±êÌâ
+GanttChart.Title=ç”˜ç‰¹å›¾æ ‡é¢˜
 
-TubeChart.Title=¹ÜĞÎÍ¼±êÌâ
+TubeChart.Title=ç®¡å½¢å›¾æ ‡é¢˜
 
-PyramidChart.Title=Àâ×¶Í¼±êÌâ
+PyramidChart.Title=æ£±é”¥å›¾æ ‡é¢˜
 
-ConeChart.Title=×¶ĞÎÍ¼±êÌâ
+ConeChart.Title=é”¥å½¢å›¾æ ‡é¢˜
 
-RadarChart.Title=À×´ïÍ¼±êÌâ
+RadarChart.Title=é›·è¾¾å›¾æ ‡é¢˜
 
-ColumnChart.Title=ÖùĞÎÍ¼±êÌâ
+ColumnChart.Title=æŸ±å½¢å›¾æ ‡é¢˜
 
-DoughnutChart.Title=Ô²»·Í¼±êÌâ
+DoughnutChart.Title=åœ†ç¯å›¾æ ‡é¢˜

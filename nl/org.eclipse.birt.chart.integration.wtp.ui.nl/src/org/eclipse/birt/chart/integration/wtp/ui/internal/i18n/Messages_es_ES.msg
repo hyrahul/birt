@@ -17,17 +17,17 @@ BIRTProjectCreationWizard_title=Nuevo proyecto Web de diagramas BIRT
 ###############################################################################
 # Overwrite Query Dialog
 ###############################################################################
-BIRTOverwriteQuery_title=Cuadro de diálogo de sobrescritura
+BIRTOverwriteQuery_title=Cuadro de diÃ¡logo de sobrescritura
 
-BIRTOverwriteQuery_message=¿Desea sobrescribir {0}?
+BIRTOverwriteQuery_message=Â¿Desea sobrescribir {0}?
 
-BIRTOverwriteQuery_webartifact_title=Cuadro de diálogo de sobrescritura de descriptor de implantación
+BIRTOverwriteQuery_webartifact_title=Cuadro de diÃ¡logo de sobrescritura de descriptor de implantaciÃ³n
 
-BIRTOverwriteQuery_webartifact_message={0} existe en web.xml. ¿Desea sobrescribirlo?
+BIRTOverwriteQuery_webartifact_message={0} existe en web.xml. Â¿Desea sobrescribirlo?
 
 ###############################################################################
 # Error Message
 ###############################################################################
-BIRTErrors_miss_source=Importación finalizada. No se puede obtener el archivo zip fuente correcto.
+BIRTErrors_miss_source=ImportaciÃ³n finalizada. No se puede obtener el archivo zip fuente correcto.
 
 BIRTErrors_wrong_webcontent=No se puede obtener la carpeta de contenido Web correcta.

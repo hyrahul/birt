@@ -8,6 +8,6 @@
 # * Contributors:
 # *  Actuate Corporation  - initial API and implementation
 # *******************************************************************************/
-TOO_SMALL_CHART_DPI=м╪╠М DPI ╡╩с╕п║сз 96ё╛╥ЯтРж╢ппиообнджп╫╚й╧сцЁйож DPI ю╢╢╕юМм╪╠М║ё
+TOO_SMALL_CHART_DPI=Е⌡╬Х║╗ DPI Д╦█Е╨■Е╟▐Д╨▌ 96О╪▄Е░╕Е┬≥Ф┴╖Х║▄Д╦┼Д╦▀Ф√┤Д╦╜Е╟├Д╫©Г■╗Е▒┬Г▌╟ DPI Ф²╔Е╓└Г░├Е⌡╬Х║╗Ц─┌
 
-INVALID_CHART_DPI=нч╥╗й╤╠Пм╪╠М DPI\!
+INVALID_CHART_DPI=Ф≈═ФЁ∙Х╞├Е┬╚Е⌡╬Х║╗ DPI\!

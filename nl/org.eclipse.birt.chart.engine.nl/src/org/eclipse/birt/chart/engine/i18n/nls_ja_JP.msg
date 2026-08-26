@@ -1,350 +1,350 @@
-ChartImpl.ChartTitle=ƒOƒ‰ƒt‚Ìƒ^ƒCƒgƒ‹
+ChartImpl.ChartTitle=ã‚°ãƒ©ãƒ•ã®ã‚¿ã‚¤ãƒˆãƒ«
 
-ChartImpl.AltText=‚±‚ÌƒOƒ‰ƒt‚É‚Íƒf[ƒ^‚ª‚ ‚è‚Ü‚¹‚ñB
+ChartImpl.AltText=ã“ã®ã‚°ãƒ©ãƒ•ã«ã¯ãƒ‡ãƒ¼ã‚¿ãŒã‚ã‚Šã¾ã›ã‚“ã€‚
 
-ChartWithAxesImpl.X_Axis.title=X ²‚Ìƒ^ƒCƒgƒ‹
+ChartWithAxesImpl.X_Axis.title=X è»¸ã®ã‚¿ã‚¤ãƒˆãƒ«
 
-ChartWithAxesImpl.Y_Axis.title=Y ²‚Ìƒ^ƒCƒgƒ‹
+ChartWithAxesImpl.Y_Axis.title=Y è»¸ã®ã‚¿ã‚¤ãƒˆãƒ«
 
-ChartWithAxesImpl.Z_Axis.title=Z ²‚Ìƒ^ƒCƒgƒ‹
+ChartWithAxesImpl.Z_Axis.title=Z è»¸ã®ã‚¿ã‚¤ãƒˆãƒ«
 
-ChartWithoutAxesImpl.Unsupported3Dimension=ƒpƒCƒOƒ‰ƒt‚Å‚Í 3D ‚ÍƒTƒ|[ƒg‚³‚ê‚Ü‚¹‚ñB
+ChartWithoutAxesImpl.Unsupported3Dimension=ãƒ‘ã‚¤ã‚°ãƒ©ãƒ•ã§ã¯ 3D ã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¾ã›ã‚“ã€‚
 
-exception.convert.double=’l {0} ‚ğ”{¸“x‚Ì’l‚É•ÏŠ·‚Å‚«‚Ü‚¹‚ñB
+exception.convert.double=å€¤ {0} ã‚’å€ç²¾åº¦ã®å€¤ã«å¤‰æ›ã§ãã¾ã›ã‚“ã€‚
 
-exception.data.outofsync=“ü—Íƒf[ƒ^‚ª“¯Šú‚µ‚Ä‚¢‚Ü‚¹‚ñBƒJƒeƒSƒŠŒn—ñ‚É {0} ŒÂ‚Ì’l‚ªŠÜ‚Ü‚ê‚Ä‚¢‚Ü‚·‚ªA’lŒn—ñ‚É {1} ŒÂ‚Ì’l‚ªŠÜ‚Ü‚ê‚Ä‚¢‚Ü‚·B
+exception.data.outofsync=å…¥åŠ›ãƒ‡ãƒ¼ã‚¿ãŒåŒæœŸã—ã¦ã„ã¾ã›ã‚“ã€‚ã‚«ãƒ†ã‚´ãƒªç³»åˆ—ã« {0} å€‹ã®å€¤ãŒå«ã¾ã‚Œã¦ã„ã¾ã™ãŒã€å€¤ç³»åˆ—ã« {1} å€‹ã®å€¤ãŒå«ã¾ã‚Œã¦ã„ã¾ã™ã€‚
 
-exception.out.of.bounds=”ÍˆÍŠO
+exception.out.of.bounds=ç¯„å›²å¤–
 
-exception.step.zoom.out=ƒXƒeƒbƒv {0} ‚Å zoomOut ‚ğÀs‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B
+exception.step.zoom.out=ã‚¹ãƒ†ãƒƒãƒ— {0} ã§ zoomOut ã‚’å®Ÿè¡Œã§ãã¾ã›ã‚“ã§ã—ãŸã€‚
 
-exception.no3d.support=3D ƒOƒ‰ƒt‚ÍA‚Ü‚¾ƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.no3d.support=3D ã‚°ãƒ©ãƒ•ã¯ã€ã¾ã ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.curve.label.position.not.supported=‹Èü‚É‚Íƒ‰ƒxƒ‹ˆÊ’u [{0}] ‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+exception.curve.label.position.not.supported=æ›²ç·šã«ã¯ãƒ©ãƒ™ãƒ«ä½ç½® [{0}] ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-exception.convert.calendar=’l {0} ‚ğƒJƒŒƒ“ƒ_[‚Ì’l‚É•ÏŠ·‚Å‚«‚Ü‚¹‚ñB
+exception.convert.calendar=å€¤ {0} ã‚’ã‚«ãƒ¬ãƒ³ãƒ€ãƒ¼ã®å€¤ã«å¤‰æ›ã§ãã¾ã›ã‚“ã€‚
 
-exception.anchor.transpose=²‚ÌŒü‚« {1} ‚ÌƒAƒ“ƒJ[ {0} ‚ğ’u‚«Š·‚¦‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+exception.anchor.transpose=è»¸ã®å‘ã {1} ã®ã‚¢ãƒ³ã‚«ãƒ¼ {0} ã‚’ç½®ãæ›ãˆã‚‹ã“ã¨ã¯ã§ãã¾ã›ã‚“ã€‚
 
-exception.tick.computations=–Ú·‚Ì‰‰Z‚ÉƒGƒ‰[‚ª‚ ‚è‚Ü‚·B
+exception.tick.computations=ç›®ç››ã®æ¼”ç®—ã«ã‚¨ãƒ©ãƒ¼ãŒã‚ã‚Šã¾ã™ã€‚
 
-exception.curve.visibility.unset=‹Èü‚Ì‰Â‹«‚ÍAü‚Ì‘®«‚Åİ’è‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B
+exception.curve.visibility.unset=æ›²ç·šã®å¯è¦–æ€§ã¯ã€ç·šã®å±æ€§ã§è¨­å®šã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
-exception.angle.range.transpose=[Šp“x={0}] ‚ÍA”ÍˆÍ (90 >= 0 >= -90) ‚ğ’´‚¦‚Ä’u‚«Š·‚¦‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+exception.angle.range.transpose=[è§’åº¦={0}] ã¯ã€ç¯„å›² (90 >= 0 >= -90) ã‚’è¶…ãˆã¦ç½®ãæ›ãˆã‚‹ã“ã¨ã¯ã§ãã¾ã›ã‚“ã€‚
 
-exception.legend.direction.tblr=–}—á‚Ì•ûŒü‚ªã‰º‚Ü‚½‚Í¶‰E‚Ì‚¢‚¸‚ê‚©‚É–¾Šm‚Éw’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.legend.direction.tblr=å‡¡ä¾‹ã®æ–¹å‘ãŒä¸Šä¸‹ã¾ãŸã¯å·¦å³ã®ã„ãšã‚Œã‹ã«æ˜ç¢ºã«æŒ‡å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.scale.null.location=ƒXƒP[ƒ‹ {0} ‚Ì NULL ’l‚ÌÀ•W‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+exception.scale.null.location=ã‚¹ã‚±ãƒ¼ãƒ« {0} ã® NULL å€¤ã®åº§æ¨™ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-exception.illegal.icon.palette.type.for.marker=''{0}'' Œ`®‚ÌƒCƒ[ƒW‚ÍAƒ}[ƒJ‚ÌƒAƒCƒRƒ“‚É‚Íg—p‚Å‚«‚Ü‚¹‚ñB
+exception.illegal.icon.palette.type.for.marker=''{0}'' å½¢å¼ã®ã‚¤ãƒ¡ãƒ¼ã‚¸ã¯ã€ãƒãƒ¼ã‚«ã®ã‚¢ã‚¤ã‚³ãƒ³ã«ã¯ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-exception.illegal.filltype.crosshair.marker=ƒ}[ƒJ CROSSHAIR ‚ÌƒpƒŒƒbƒg‚ÌF‚É‚Í {0} ‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+exception.illegal.filltype.crosshair.marker=ãƒãƒ¼ã‚« CROSSHAIR ã®ãƒ‘ãƒ¬ãƒƒãƒˆã®è‰²ã«ã¯ {0} ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-exception.illegal.filltype.cross.marker=ƒ}[ƒJ CROSS ‚ÌƒpƒŒƒbƒg‚ÌF‚É‚Í {0} ‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+exception.illegal.filltype.cross.marker=ãƒãƒ¼ã‚« CROSS ã®ãƒ‘ãƒ¬ãƒƒãƒˆã®è‰²ã«ã¯ {0} ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-exception.invalid.step.size =²ƒXƒP[ƒ‹‚Éw’è‚µ‚½ ''step size({0}) <= 0'' ‚ª–³Œø‚Å‚·B
+exception.invalid.step.size =è»¸ã‚¹ã‚±ãƒ¼ãƒ«ã«æŒ‡å®šã—ãŸ ''step size({0}) <= 0'' ãŒç„¡åŠ¹ã§ã™ã€‚
 
-exception.invalid.step.number =²ƒXƒP[ƒ‹‚Éw’è‚µ‚½ ''step number({0}) < 1'' ‚ª–³Œø‚Å‚·B
+exception.invalid.step.number =è»¸ã‚¹ã‚±ãƒ¼ãƒ«ã«æŒ‡å®šã—ãŸ ''step number({0}) < 1'' ãŒç„¡åŠ¹ã§ã™ã€‚
 
-exception.curve.line.visibility.not.defined=‹Èü‚Ì‰Â‹«ƒvƒƒpƒeƒB‚ª³‚µ‚­’è‹`‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.curve.line.visibility.not.defined=æ›²ç·šã®å¯è¦–æ€§ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£ãŒæ­£ã—ãå®šç¾©ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.min.largerthan.max=²ƒXƒP[ƒ‹‚Éw’è‚µ‚½ƒGƒ“ƒgƒŠ ''min({0}) > max({1})'' ‚ª–³Œø‚Å‚·B
+exception.min.largerthan.max=è»¸ã‚¹ã‚±ãƒ¼ãƒ«ã«æŒ‡å®šã—ãŸã‚¨ãƒ³ãƒˆãƒª ''min({0}) > max({1})'' ãŒç„¡åŠ¹ã§ã™ã€‚
 
-exception.combination.axis.label.position=² = {0} ‚Æƒ‰ƒxƒ‹ˆÊ’u = {1} ‚Ì‘g‚İ‡‚í‚¹‚Í–³Œø‚Å‚·B
+exception.combination.axis.label.position=è»¸ = {0} ã¨ãƒ©ãƒ™ãƒ«ä½ç½® = {1} ã®çµ„ã¿åˆã‚ã›ã¯ç„¡åŠ¹ã§ã™ã€‚
 
-exception.cannot.locate.start.marker.range=ƒ}[ƒJ‚Ì”ÍˆÍ {1} ‚ÉŠÜ‚Ü‚ê‚é’l {0} ‚ÌŠJnˆÊ’u‚ğŒ©‚Â‚¯‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B
+exception.cannot.locate.start.marker.range=ãƒãƒ¼ã‚«ã®ç¯„å›² {1} ã«å«ã¾ã‚Œã‚‹å€¤ {0} ã®é–‹å§‹ä½ç½®ã‚’è¦‹ã¤ã‘ã‚‰ã‚Œã¾ã›ã‚“ã§ã—ãŸã€‚
 
-exception.cannot.locate.value.marker.line=ƒ}[ƒJ‚Ìü {1} ‚ÉŠÜ‚Ü‚ê‚é’l {0} ‚ğŒ©‚Â‚¯‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B
+exception.cannot.locate.value.marker.line=ãƒãƒ¼ã‚«ã®ç·š {1} ã«å«ã¾ã‚Œã‚‹å€¤ {0} ã‚’è¦‹ã¤ã‘ã‚‰ã‚Œã¾ã›ã‚“ã§ã—ãŸã€‚
 
-exception.combination.axis.tick.style=² = {0} ‚Æ–Ú·ƒXƒ^ƒCƒ‹ = {1} ‚Ì‘g‚İ‡‚í‚¹‚Í–³Œø‚Å‚·B
+exception.combination.axis.tick.style=è»¸ = {0} ã¨ç›®ç››ã‚¹ã‚¿ã‚¤ãƒ« = {1} ã®çµ„ã¿åˆã‚ã›ã¯ç„¡åŠ¹ã§ã™ã€‚
 
-exception.invalid.axis.data.type=²‚Éw’è‚µ‚½ƒf[ƒ^Œ^‚ªAƒf[ƒ^ƒtƒB[ƒ‹ƒh’l‚Ìƒf[ƒ^Œ^‚ÆˆÙ‚È‚è‚Ü‚· : ({0})
+exception.invalid.axis.data.type=è»¸ã«æŒ‡å®šã—ãŸãƒ‡ãƒ¼ã‚¿å‹ãŒã€ãƒ‡ãƒ¼ã‚¿ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰å€¤ã®ãƒ‡ãƒ¼ã‚¿å‹ã¨ç•°ãªã‚Šã¾ã™ : ({0})
 
-exception.undefined.axis.data.type=² {0} ‚Ìƒf[ƒ^Œ^‚ª’è‹`‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.undefined.axis.data.type=è»¸ {0} ã®ãƒ‡ãƒ¼ã‚¿å‹ãŒå®šç¾©ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.unsupported.compare.text=ƒeƒLƒXƒgƒf[ƒ^—v‘f‚Ì”äŠr‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.unsupported.compare.text=ãƒ†ã‚­ã‚¹ãƒˆãƒ‡ãƒ¼ã‚¿è¦ç´ ã®æ¯”è¼ƒã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.unsupported.comparison=ƒIƒuƒWƒFƒNƒg {0} ‚ÍAPrimitiveRenderingEvent ‚Ì”äŠr‚É‚ÍŠÜ‚ß‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+exception.unsupported.comparison=ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆ {0} ã¯ã€PrimitiveRenderingEvent ã®æ¯”è¼ƒã«ã¯å«ã‚ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-exception.unsupported.internal.draw=‚±‚ÌƒCƒxƒ“ƒg‚Å‚Í {0} ‚ğ“à•”‚Å•`‰æ‚Å‚«‚Ü‚¹‚ñB
+exception.unsupported.internal.draw=ã“ã®ã‚¤ãƒ™ãƒ³ãƒˆã§ã¯ {0} ã‚’å†…éƒ¨ã§æç”»ã§ãã¾ã›ã‚“ã€‚
 
-exception.unsupported.internal.fill=‚±‚ÌƒCƒxƒ“ƒg‚Å‚Í {0} ‚ğ“à•”‚Å“h‚Â‚Ô‚·‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+exception.unsupported.internal.fill=ã“ã®ã‚¤ãƒ™ãƒ³ãƒˆã§ã¯ {0} ã‚’å†…éƒ¨ã§å¡—ã¤ã¶ã™ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-exception.unsupported.chart.model=ƒ‚ƒfƒ‹ [{0}] ‚Å’è‹`‚µ‚½ƒOƒ‰ƒt‚ğŒvZ‚Å‚«‚Ü‚¹‚ñB
+exception.unsupported.chart.model=ãƒ¢ãƒ‡ãƒ« [{0}] ã§å®šç¾©ã—ãŸã‚°ãƒ©ãƒ•ã‚’è¨ˆç®—ã§ãã¾ã›ã‚“ã€‚
 
-exception.unsupported.bounds=ƒCƒxƒ“ƒg {0} ‚Ì”ÍˆÍ‚ğŒvZ‚Å‚«‚Ü‚¹‚ñB
+exception.unsupported.bounds=ã‚¤ãƒ™ãƒ³ãƒˆ {0} ã®ç¯„å›²ã‚’è¨ˆç®—ã§ãã¾ã›ã‚“ã€‚
 
-exception.unsupported.copy=ƒCƒxƒ“ƒg {0} ‚ÌƒRƒs[‚ğì¬‚Å‚«‚Ü‚¹‚ñB
+exception.unsupported.copy=ã‚¤ãƒ™ãƒ³ãƒˆ {0} ã®ã‚³ãƒ”ãƒ¼ã‚’ä½œæˆã§ãã¾ã›ã‚“ã€‚
 
-exception.unsupported.step.number=ƒXƒeƒbƒv”Ô†‚É‚Í”’l‚µ‚©g—p‚Å‚«‚Ü‚¹‚ñB
+exception.unsupported.step.number=ã‚¹ãƒ†ãƒƒãƒ—ç•ªå·ã«ã¯æ•°å€¤ã—ã‹ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-exception.undefined.data.point=Œn—ñ‚Ì’è‹`‚ÉŠÖ˜A•t‚¯‚ç‚ê‚Ä‚¢‚é DataPoint ‚Ì’l‚ªw’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.undefined.data.point=ç³»åˆ—ã®å®šç¾©ã«é–¢é€£ä»˜ã‘ã‚‰ã‚Œã¦ã„ã‚‹ DataPoint ã®å€¤ãŒæŒ‡å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.unit.size.failure=–Ú·‚ÌÀ•W‚ª’è‹`‚³‚ê‚Ä‚¢‚È‚¢‚½‚ßA’PˆÊ‚ÌƒTƒCƒY‚ğŒvZ‚Å‚«‚Ü‚¹‚ñB
+exception.unit.size.failure=ç›®ç››ã®åº§æ¨™ãŒå®šç¾©ã•ã‚Œã¦ã„ãªã„ãŸã‚ã€å˜ä½ã®ã‚µã‚¤ã‚ºã‚’è¨ˆç®—ã§ãã¾ã›ã‚“ã€‚
 
-exception.process.content.type={1} Œ^‚É {0} ‚Æ‚µ‚Äw’è‚µ‚½ƒf[ƒ^ƒZƒbƒg‚ÌƒRƒ“ƒeƒ“ƒc‚ğˆ—‚Å‚«‚Ü‚¹‚ñB
+exception.process.content.type={1} å‹ã« {0} ã¨ã—ã¦æŒ‡å®šã—ãŸãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚’å‡¦ç†ã§ãã¾ã›ã‚“ã€‚
 
-exception.undefined.axis.label.visibility={0} ²‚Ìƒ‰ƒxƒ‹‚Ì‰Â‹«‚ª’è‹`‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.undefined.axis.label.visibility={0} è»¸ã®ãƒ©ãƒ™ãƒ«ã®å¯è¦–æ€§ãŒå®šç¾©ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.undefined.axis.title.visibility={0} ²‚Ìƒ^ƒCƒgƒ‹‚Ì‰Â‹«‚ª’è‹`‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.undefined.axis.title.visibility={0} è»¸ã®ã‚¿ã‚¤ãƒˆãƒ«ã®å¯è¦–æ€§ãŒå®šç¾©ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.undefined.axis.label.position={0} ²‚Ìƒ‰ƒxƒ‹‚ÌˆÊ’u‚ª’è‹`‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.undefined.axis.label.position={0} è»¸ã®ãƒ©ãƒ™ãƒ«ã®ä½ç½®ãŒå®šç¾©ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.undefined.axis.title.position={0} ²‚Ìƒ^ƒCƒgƒ‹‚ÌˆÊ’u‚ª’è‹`‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.undefined.axis.title.position={0} è»¸ã®ã‚¿ã‚¤ãƒˆãƒ«ã®ä½ç½®ãŒå®šç¾©ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.undefined.data.label.position={0} Œn—ñ‚Ìƒf[ƒ^ƒ‰ƒxƒ‹‚ÌˆÊ’u‚ª’è‹`‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.undefined.data.label.position={0} ç³»åˆ—ã®ãƒ‡ãƒ¼ã‚¿ãƒ©ãƒ™ãƒ«ã®ä½ç½®ãŒå®šç¾©ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.undefined.axis.type=²‚ÌŒ^‚ª’è‹`‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.undefined.axis.type=è»¸ã®å‹ãŒå®šç¾©ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.unset.series.stacked.property=Ï‚İã‚°‰Â”\‚È {0} Œn—ñ‚ÌÏ‚İã‚°ƒvƒƒpƒeƒB‚ª–¾¦“I‚Éw’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.unset.series.stacked.property=ç©ã¿ä¸Šã’å¯èƒ½ãª {0} ç³»åˆ—ã®ç©ã¿ä¸Šã’ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£ãŒæ˜ç¤ºçš„ã«æŒ‡å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.undefined.axis.major.tick.style={0} ²‚Ì–Ú·ü‚Ì–Ú·‚ÌƒXƒ^ƒCƒ‹‚ª’è‹`‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.undefined.axis.major.tick.style={0} è»¸ã®ç›®ç››ç·šã®ç›®ç››ã®ã‚¹ã‚¿ã‚¤ãƒ«ãŒå®šç¾©ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.undefined.axis.minor.tick.style={0} ²‚Ì•â•–Ú·ü‚Ì–Ú·‚ÌƒXƒ^ƒCƒ‹‚ª’è‹`‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.undefined.axis.minor.tick.style={0} è»¸ã®è£œåŠ©ç›®ç››ç·šã®ç›®ç››ã®ã‚¹ã‚¿ã‚¤ãƒ«ãŒå®šç¾©ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.zero.negative.logarithmic.scale=‘Î”²‚É‚ÍA0 ‚¨‚æ‚Ñ•‰‚Ì’l‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+exception.zero.negative.logarithmic.scale=å¯¾æ•°è»¸ã«ã¯ã€0 ãŠã‚ˆã³è² ã®å€¤ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-exception.illegal.vaxis.label.position=c² {1} ‚Ìƒ‰ƒxƒ‹ˆÊ’u‚ÉA–³Œø‚È’l {0} ‚ªw’è‚³‚ê‚Ü‚µ‚½B
+exception.illegal.vaxis.label.position=ç¸¦è»¸ {1} ã®ãƒ©ãƒ™ãƒ«ä½ç½®ã«ã€ç„¡åŠ¹ãªå€¤ {0} ãŒæŒ‡å®šã•ã‚Œã¾ã—ãŸã€‚
 
-exception.illegal.vaxis.title.position=c² {1} ‚Ìƒ^ƒCƒgƒ‹ˆÊ’u‚ÉA–³Œø‚È’l {0} ‚ªw’è‚³‚ê‚Ü‚µ‚½B
+exception.illegal.vaxis.title.position=ç¸¦è»¸ {1} ã®ã‚¿ã‚¤ãƒˆãƒ«ä½ç½®ã«ã€ç„¡åŠ¹ãªå€¤ {0} ãŒæŒ‡å®šã•ã‚Œã¾ã—ãŸã€‚
 
-exception.illegal.vaxis.major.tick.style=c² {1} ‚Ì–Ú·‚ÉA–³Œø‚ÈƒXƒ^ƒCƒ‹ {0} ‚ªw’è‚³‚ê‚Ü‚µ‚½B
+exception.illegal.vaxis.major.tick.style=ç¸¦è»¸ {1} ã®ç›®ç››ã«ã€ç„¡åŠ¹ãªã‚¹ã‚¿ã‚¤ãƒ« {0} ãŒæŒ‡å®šã•ã‚Œã¾ã—ãŸã€‚
 
-exception.illegal.vaxis.minor.tick.style=c² {1} ‚Ì•â•–Ú·‚ÉA–³Œø‚ÈƒXƒ^ƒCƒ‹ {0} ‚ªw’è‚³‚ê‚Ü‚µ‚½B
+exception.illegal.vaxis.minor.tick.style=ç¸¦è»¸ {1} ã®è£œåŠ©ç›®ç››ã«ã€ç„¡åŠ¹ãªã‚¹ã‚¿ã‚¤ãƒ« {0} ãŒæŒ‡å®šã•ã‚Œã¾ã—ãŸã€‚
 
-exception.illegal.haxis.label.position=‰¡² {1} ‚Ìƒ‰ƒxƒ‹ˆÊ’u‚ÉA–³Œø‚È’l {0} ‚ªw’è‚³‚ê‚Ü‚µ‚½B
+exception.illegal.haxis.label.position=æ¨ªè»¸ {1} ã®ãƒ©ãƒ™ãƒ«ä½ç½®ã«ã€ç„¡åŠ¹ãªå€¤ {0} ãŒæŒ‡å®šã•ã‚Œã¾ã—ãŸã€‚
 
-exception.illegal.haxis.title.position=‰¡² {1} ‚Ìƒ^ƒCƒgƒ‹ˆÊ’u‚ÉA–³Œø‚È’l {0} ‚ªw’è‚³‚ê‚Ü‚µ‚½B
+exception.illegal.haxis.title.position=æ¨ªè»¸ {1} ã®ã‚¿ã‚¤ãƒˆãƒ«ä½ç½®ã«ã€ç„¡åŠ¹ãªå€¤ {0} ãŒæŒ‡å®šã•ã‚Œã¾ã—ãŸã€‚
 
-exception.illegal.rotation.angle.label=ƒ‰ƒxƒ‹ {0} ‚Ì‰ñ“]Šp“x (-90 <= ANGLE <= 90) ‚ª³‚µ‚­w’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.illegal.rotation.angle.label=ãƒ©ãƒ™ãƒ« {0} ã®å›è»¢è§’åº¦ (-90 <= ANGLE <= 90) ãŒæ­£ã—ãæŒ‡å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.illegal.rendering.direction=–}—á‚ÌƒŒƒ“ƒ_ƒŠƒ“ƒO‚Ì•ûŒü‚ÉA–³Œø‚Èˆø” {0} ‚ªw’è‚³‚ê‚Ü‚µ‚½B
+exception.illegal.rendering.direction=å‡¡ä¾‹ã®ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã®æ–¹å‘ã«ã€ç„¡åŠ¹ãªå¼•æ•° {0} ãŒæŒ‡å®šã•ã‚Œã¾ã—ãŸã€‚
 
-exception.illegal.rendering.orientation=–}—á‚ÌƒŒƒ“ƒ_ƒŠƒ“ƒO‚ÌŒü‚«‚ÉA–³Œø‚Èˆø” {0} ‚ªw’è‚³‚ê‚Ü‚µ‚½B
+exception.illegal.rendering.orientation=å‡¡ä¾‹ã®ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã®å‘ãã«ã€ç„¡åŠ¹ãªå¼•æ•° {0} ãŒæŒ‡å®šã•ã‚Œã¾ã—ãŸã€‚
 
-exception.illegal.legend.direction=–}—á‚ÌƒŒƒ“ƒ_ƒŠƒ“ƒO‚Ì•ûŒü‚ÉA–³Œø‚Èˆø” {0} ‚ªw’è‚³‚ê‚Ü‚µ‚½B
+exception.illegal.legend.direction=å‡¡ä¾‹ã®ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã®æ–¹å‘ã«ã€ç„¡åŠ¹ãªå¼•æ•° {0} ãŒæŒ‡å®šã•ã‚Œã¾ã—ãŸã€‚
 
-exception.illegal.null.value=ƒOƒ‰ƒt‚ğ\’z‚·‚éˆø”‚Æ‚µ‚ÄA–³Œø‚È NULL ’l‚ª“n‚³‚ê‚Ü‚µ‚½B
+exception.illegal.null.value=ã‚°ãƒ©ãƒ•ã‚’æ§‹ç¯‰ã™ã‚‹å¼•æ•°ã¨ã—ã¦ã€ç„¡åŠ¹ãª NULL å€¤ãŒæ¸¡ã•ã‚Œã¾ã—ãŸã€‚
 
-exception.cannot.find.plugin.entry=g—p‰Â”\‚È‚·‚×‚Ä‚Ìƒvƒ‰ƒOƒCƒ“‚Ì plugin.xml ƒtƒ@ƒCƒ‹‚É lookup={0}; element=({1}:{2}) ‚ÌƒGƒ“ƒgƒŠ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+exception.cannot.find.plugin.entry=ä½¿ç”¨å¯èƒ½ãªã™ã¹ã¦ã®ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã® plugin.xml ãƒ•ã‚¡ã‚¤ãƒ«ã« lookup={0}; element=({1}:{2}) ã®ã‚¨ãƒ³ãƒˆãƒªãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-exception.cannot.split.major=’PˆÊ‚ğ {0} ŒÂ‚Ì•â•’PˆÊ‚É•ªŠ„‚Å‚«‚Ü‚¹‚ñB
+exception.cannot.split.major=å˜ä½ã‚’ {0} å€‹ã®è£œåŠ©å˜ä½ã«åˆ†å‰²ã§ãã¾ã›ã‚“ã€‚
 
-exception.illegal.legend.orientation=–}—á‚ÌƒŒƒ“ƒ_ƒŠƒ“ƒO‚ÌŒü‚«‚ÉA–³Œø‚Èˆø” {0} ‚ªw’è‚³‚ê‚Ü‚µ‚½B
+exception.illegal.legend.orientation=å‡¡ä¾‹ã®ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã®å‘ãã«ã€ç„¡åŠ¹ãªå¼•æ•° {0} ãŒæŒ‡å®šã•ã‚Œã¾ã—ãŸã€‚
 
-exception.cwoa.single.runtime.series=²‚Ì‚È‚¢ƒOƒ‰ƒt‚É‚ÍAÀsŒn—ñ‚ğ 1 ‚Â‚µ‚©’è‹`‚Å‚«‚Ü‚¹‚ñB
+exception.cwoa.single.runtime.series=è»¸ã®ãªã„ã‚°ãƒ©ãƒ•ã«ã¯ã€å®Ÿè¡Œæ™‚ç³»åˆ—ã‚’ 1 ã¤ã—ã‹å®šç¾©ã§ãã¾ã›ã‚“ã€‚
 
-exception.illegal.haxis.major.tick.style=‰¡² {1} ‚Ì–Ú·‚ÉA–³Œø‚ÈƒXƒ^ƒCƒ‹ {0} ‚ªw’è‚³‚ê‚Ü‚µ‚½B
+exception.illegal.haxis.major.tick.style=æ¨ªè»¸ {1} ã®ç›®ç››ã«ã€ç„¡åŠ¹ãªã‚¹ã‚¿ã‚¤ãƒ« {0} ãŒæŒ‡å®šã•ã‚Œã¾ã—ãŸã€‚
 
-exception.illegal.haxis.minor.tick.style=‰¡² {1} ‚Ì•â•–Ú·‚ÉA–³Œø‚ÈƒXƒ^ƒCƒ‹ {0} ‚ªw’è‚³‚ê‚Ü‚µ‚½B
+exception.illegal.haxis.minor.tick.style=æ¨ªè»¸ {1} ã®è£œåŠ©ç›®ç››ã«ã€ç„¡åŠ¹ãªã‚¹ã‚¿ã‚¤ãƒ« {0} ãŒæŒ‡å®šã•ã‚Œã¾ã—ãŸã€‚
 
-exception.client.area.outline.visibility=ƒNƒ‰ƒCƒAƒ“ƒg—Ìˆæ‚ÌŠO˜g‚Ì‰Â‹«‚ªw’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.client.area.outline.visibility=ã‚¯ãƒ©ã‚¤ã‚¢ãƒ³ãƒˆé ˜åŸŸã®å¤–æ ã®å¯è¦–æ€§ãŒæŒ‡å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.cannot.locate.end.marker.range=ƒ}[ƒJ‚Ì”ÍˆÍ {1} ‚ÉŠÜ‚Ü‚ê‚é’l {0} ‚ÌI—¹ˆÊ’u‚ğŒ©‚Â‚¯‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B
+exception.cannot.locate.end.marker.range=ãƒãƒ¼ã‚«ã®ç¯„å›² {1} ã«å«ã¾ã‚Œã‚‹å€¤ {0} ã®çµ‚äº†ä½ç½®ã‚’è¦‹ã¤ã‘ã‚‰ã‚Œã¾ã›ã‚“ã§ã—ãŸã€‚
 
-exception.runtime.dataset.count.mismatch=Ï‚İã‚°ÀsŒn—ñ‚Ìƒf[ƒ^ƒZƒbƒg”‚ªˆê’v‚µ‚Ü‚¹‚ñ ({0}\!={1})B
+exception.runtime.dataset.count.mismatch=ç©ã¿ä¸Šã’å®Ÿè¡Œæ™‚ç³»åˆ—ã®ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆæ•°ãŒä¸€è‡´ã—ã¾ã›ã‚“ ({0}\!={1})ã€‚
 
-exception.illegal.base.runtime.series.count=²‚Ì‚È‚¢ƒOƒ‰ƒt‚É‚ÍAƒJƒeƒSƒŠÀsŒn—ñ‚Ì” (‚±‚±‚Å‚Í {0}) ‚ğ 1 ‚Éw’è‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B
+exception.illegal.base.runtime.series.count=è»¸ã®ãªã„ã‚°ãƒ©ãƒ•ã«ã¯ã€ã‚«ãƒ†ã‚´ãƒªå®Ÿè¡Œæ™‚ç³»åˆ—ã®æ•° (ã“ã“ã§ã¯ {0}) ã‚’ 1 ã«æŒ‡å®šã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
-exception.unstackable.is.stacked=Ï‚İã‚°‚ç‚ê‚È‚¢Œn—ñ {0} ‚ªAÏ‚İã‚°‚Éw’è‚³‚ê‚Ä‚¢‚Ü‚·B
+exception.unstackable.is.stacked=ç©ã¿ä¸Šã’ã‚‰ã‚Œãªã„ç³»åˆ— {0} ãŒã€ç©ã¿ä¸Šã’ã«æŒ‡å®šã•ã‚Œã¦ã„ã¾ã™ã€‚
 
-exception.unset.label.visibility=ƒ‰ƒxƒ‹ {0} ‚Ì‰Â‹«‚ªİ’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.unset.label.visibility=ãƒ©ãƒ™ãƒ« {0} ã®å¯è¦–æ€§ãŒè¨­å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.marker.line.null.value=ƒ}[ƒJ‚Ìü {0} ‚Å’è‹`‚³‚ê‚Ä‚¢‚é NULL ’l‚É‚ÍAƒŒƒ“ƒ_ƒŠƒ“ƒO‚·‚éü‚ğƒvƒƒbƒg‚Å‚«‚Ü‚¹‚ñB
+exception.marker.line.null.value=ãƒãƒ¼ã‚«ã®ç·š {0} ã§å®šç¾©ã•ã‚Œã¦ã„ã‚‹ NULL å€¤ã«ã¯ã€ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã™ã‚‹ç·šã‚’ãƒ—ãƒ­ãƒƒãƒˆã§ãã¾ã›ã‚“ã€‚
 
-exception.unset.axis.visibility=²‚Ì‰Â‹«‚ªİ’è‚³‚ê‚Ä‚¢‚È‚¢‚½‚ßAŒ‹‰Ê‚ª‚ ‚¢‚Ü‚¢‚É‚È‚è‚Ü‚·B
+exception.unset.axis.visibility=è»¸ã®å¯è¦–æ€§ãŒè¨­å®šã•ã‚Œã¦ã„ãªã„ãŸã‚ã€çµæœãŒã‚ã„ã¾ã„ã«ãªã‚Šã¾ã™ã€‚
 
-exception.unset.line.visibility={0} ‚É‚ ‚éü‚Ì•\¦‘®«‚ª–¾¦“I‚Éw’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.unset.line.visibility={0} ã«ã‚ã‚‹ç·šã®è¡¨ç¤ºå±æ€§ãŒæ˜ç¤ºçš„ã«æŒ‡å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.stacked.datetime.axis.series=“ú•t / ŠÔ² {0} ‚É‚ÍAÏ‚İã‚°Œn—ñ‚ğ’è‹`‚Å‚«‚Ü‚¹‚ñB
+exception.stacked.datetime.axis.series=æ—¥ä»˜ / æ™‚é–“è»¸ {0} ã«ã¯ã€ç©ã¿ä¸Šã’ç³»åˆ—ã‚’å®šç¾©ã§ãã¾ã›ã‚“ã€‚
 
-exception.stacked.unstacked.mix.series=Œn—ñ‚Ì’è‹` {0} ‚ÉAÏ‚İã‚°Œn—ñ‚ÆÏ‚İã‚°‚Å‚È‚¢Œn—ñ‚ª¬İ‚µ‚Ä‚¢‚Ü‚·B
+exception.stacked.unstacked.mix.series=ç³»åˆ—ã®å®šç¾© {0} ã«ã€ç©ã¿ä¸Šã’ç³»åˆ—ã¨ç©ã¿ä¸Šã’ã§ãªã„ç³»åˆ—ãŒæ··åœ¨ã—ã¦ã„ã¾ã™ã€‚
 
-exception.internal.stack.series.setup=² {0} ‚ÌÏ‚İã‚°Œn—ñ‚ª³‚µ‚­w’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.internal.stack.series.setup=è»¸ {0} ã®ç©ã¿ä¸Šã’ç³»åˆ—ãŒæ­£ã—ãæŒ‡å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.invalid.minimum.scale.value=²‚ÌŒ^ {1} ‚Éw’è‚µ‚½ƒXƒP[ƒ‹‚ÌÅ¬’l {0} ‚ª–³Œø‚Å‚·B
+exception.invalid.minimum.scale.value=è»¸ã®å‹ {1} ã«æŒ‡å®šã—ãŸã‚¹ã‚±ãƒ¼ãƒ«ã®æœ€å°å€¤ {0} ãŒç„¡åŠ¹ã§ã™ã€‚
 
-exception.invalid.maximum.scale.value=²‚ÌŒ^ {1} ‚Éw’è‚µ‚½ƒXƒP[ƒ‹‚ÌÅ‘å’l {0} ‚ª–³Œø‚Å‚·B
+exception.invalid.maximum.scale.value=è»¸ã®å‹ {1} ã«æŒ‡å®šã—ãŸã‚¹ã‚±ãƒ¼ãƒ«ã®æœ€å¤§å€¤ {0} ãŒç„¡åŠ¹ã§ã™ã€‚
 
-exception.legend.orientation.horzvert=–}—á‚ÌŒü‚«‚ª‰¡‚Ü‚½‚Íc‚Ì‚¢‚¸‚ê‚©‚É–¾Šm‚Éw’è‚µ‚Ä‚¢‚Ü‚¹‚ñB
+exception.legend.orientation.horzvert=å‡¡ä¾‹ã®å‘ããŒæ¨ªã¾ãŸã¯ç¸¦ã®ã„ãšã‚Œã‹ã«æ˜ç¢ºã«æŒ‡å®šã—ã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.legend.orientation.InvalidMaxPercent=Å‘å‚ÌŠ„‡ (%) ‚ÍA0 ‚©‚ç 1 ‚Ì”ÍˆÍ‚Åw’è‚µ‚Ä‚­‚¾‚³‚¢B
+exception.legend.orientation.InvalidMaxPercent=æœ€å¤§ã®å‰²åˆ (%) ã¯ã€0 ã‹ã‚‰ 1 ã®ç¯„å›²ã§æŒ‡å®šã—ã¦ãã ã•ã„ã€‚
 
-info.processing.stacked.info={0} ²‚ÌÏ‚İã‚°î•ñ‚ğˆ—’†B
+info.processing.stacked.info={0} è»¸ã®ç©ã¿ä¸Šã’æƒ…å ±ã‚’å‡¦ç†ä¸­ã€‚
 
-info.eclenv.creating.device=(ECLIPSE ŠÂ‹«) ƒfƒoƒCƒX {0} ‚ğ {1} ‚Æ‚µ‚Äì¬’†B
+info.eclenv.creating.device=(ECLIPSE ç’°å¢ƒ) ãƒ‡ãƒã‚¤ã‚¹ {0} ã‚’ {1} ã¨ã—ã¦ä½œæˆä¸­ã€‚
 
-info.stdenv.creating.device=(ƒXƒ^ƒ“ƒhƒAƒ[ƒ“ŠÂ‹«) ƒfƒoƒCƒX {0} ‚ğ {1} ‚Æ‚µ‚Äì¬’†B
+info.stdenv.creating.device=(ã‚¹ã‚¿ãƒ³ãƒ‰ã‚¢ãƒ­ãƒ¼ãƒ³ç’°å¢ƒ) ãƒ‡ãƒã‚¤ã‚¹ {0} ã‚’ {1} ã¨ã—ã¦ä½œæˆä¸­ã€‚
 
-info.eclenv.creating.display=(ECLIPSE ŠÂ‹«) Display Server {0} ‚ğ {1} ‚Æ‚µ‚Äì¬’†B
+info.eclenv.creating.display=(ECLIPSE ç’°å¢ƒ) Display Server {0} ã‚’ {1} ã¨ã—ã¦ä½œæˆä¸­ã€‚
 
-info.stdenv.creating.display=(ƒXƒ^ƒ“ƒhƒAƒ[ƒ“ŠÂ‹«) Display Server {0} ‚ğ {1} ‚Æ‚µ‚Äì¬’†B
+info.stdenv.creating.display=(ã‚¹ã‚¿ãƒ³ãƒ‰ã‚¢ãƒ­ãƒ¼ãƒ³ç’°å¢ƒ) Display Server {0} ã‚’ {1} ã¨ã—ã¦ä½œæˆä¸­ã€‚
 
-exception.percent.stacked.non.numerical=”’lˆÈŠO‚Ìƒf[ƒ^‚ªŠÜ‚Ü‚ê‚Ä‚¢‚é‚½‚ßAŠ„‡ / Ï‚İã‚°ƒOƒ‰ƒt‚Ì²‚ğŒvZ‚Å‚«‚Ü‚¹‚ñB
+exception.percent.stacked.non.numerical=æ•°å€¤ä»¥å¤–ã®ãƒ‡ãƒ¼ã‚¿ãŒå«ã¾ã‚Œã¦ã„ã‚‹ãŸã‚ã€å‰²åˆ / ç©ã¿ä¸Šã’ã‚°ãƒ©ãƒ•ã®è»¸ã‚’è¨ˆç®—ã§ãã¾ã›ã‚“ã€‚
 
-exception.text.data.numerical.datetime.axis=”’l / “ú‚Ì²‚É‚ÍAƒeƒLƒXƒgƒf[ƒ^‚ğƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚Ü‚¹‚ñB
+exception.text.data.numerical.datetime.axis=æ•°å€¤ / æ—¥æ™‚ã®è»¸ã«ã¯ã€ãƒ†ã‚­ã‚¹ãƒˆãƒ‡ãƒ¼ã‚¿ã‚’ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚
 
-exception.numerical.data.datetime.axis=“ú‚Ì²‚É‚ÍA“úˆÈŠO‚Ìƒf[ƒ^‚ğƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚Ü‚¹‚ñB
+exception.numerical.data.datetime.axis=æ—¥æ™‚ã®è»¸ã«ã¯ã€æ—¥æ™‚ä»¥å¤–ã®ãƒ‡ãƒ¼ã‚¿ã‚’ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚
 
-exception.datetime.data.numerical.axis=”’l‚Ì²‚É‚ÍA”’lˆÈŠO‚Ìƒf[ƒ^‚ğƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚Ü‚¹‚ñB
+exception.datetime.data.numerical.axis=æ•°å€¤ã®è»¸ã«ã¯ã€æ•°å€¤ä»¥å¤–ã®ãƒ‡ãƒ¼ã‚¿ã‚’ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚
 
-exception.cwoa.single.series.definition=²‚Ì‚È‚¢ƒOƒ‰ƒt‚É‚ÍAŒn—ñ‚ğ 1 ‚Â‚µ‚©’è‹`‚Å‚«‚Ü‚¹‚ñB
+exception.cwoa.single.series.definition=è»¸ã®ãªã„ã‚°ãƒ©ãƒ•ã«ã¯ã€ç³»åˆ—ã‚’ 1 ã¤ã—ã‹å®šç¾©ã§ãã¾ã›ã‚“ã€‚
 
-exception.parse.value.format.specifier=‘®w’èq‚ª {1} ‚Ì’l {0} ‚ğ‰ğÍ‚Å‚«‚Ü‚¹‚ñB
+exception.parse.value.format.specifier=æ›¸å¼æŒ‡å®šå­ãŒ {1} ã®å€¤ {0} ã‚’è§£æã§ãã¾ã›ã‚“ã€‚
 
-exception.orthogonal.axis.numerical.datetime=’l²‚É‚ÍA”’l‚â“ú‚Ì‘®‚µ‚©İ’è‚Å‚«‚Ü‚¹‚ñB
+exception.orthogonal.axis.numerical.datetime=å€¤è»¸ã«ã¯ã€æ•°å€¤ã‚„æ—¥æ™‚ã®æ›¸å¼ã—ã‹è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-exception.axis.series.link.broken=Œn—ñ {0} ‚Ì²‚Ì’è‹`‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+exception.axis.series.link.broken=ç³»åˆ— {0} ã®è»¸ã®å®šç¾©ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-exception.process.content.dataset=ƒf[ƒ^ƒZƒbƒg {1} ‚É {0} ‚Æ‚µ‚Äw’è‚µ‚½ƒf[ƒ^ƒZƒbƒg‚ÌƒRƒ“ƒeƒ“ƒc‚ğˆ—‚Å‚«‚Ü‚¹‚ñB
+exception.process.content.dataset=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆ {1} ã« {0} ã¨ã—ã¦æŒ‡å®šã—ãŸãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚’å‡¦ç†ã§ãã¾ã›ã‚“ã€‚
 
-exception.base.orthogonal.inconsistent.count=ƒJƒeƒSƒŠ²‚É‚Í {0} ŒÂ‚Ì€–ÚA’l²‚É‚Í {1} ŒÂ‚Ì€–Ú‚ªŠÜ‚Ü‚ê‚Ä‚¢‚Ü‚·B
+exception.base.orthogonal.inconsistent.count=ã‚«ãƒ†ã‚´ãƒªè»¸ã«ã¯ {0} å€‹ã®é …ç›®ã€å€¤è»¸ã«ã¯ {1} å€‹ã®é …ç›®ãŒå«ã¾ã‚Œã¦ã„ã¾ã™ã€‚
 
-exception.base.orthogonal.null.datapoint=w’è‚µ‚½ƒf[ƒ^ƒ|ƒCƒ“ƒg‚É‚ÍA–³Œø‚È null ’l‚ªŠÜ‚Ü‚ê‚Ä‚¢‚Ü‚·B
+exception.base.orthogonal.null.datapoint=æŒ‡å®šã—ãŸãƒ‡ãƒ¼ã‚¿ãƒã‚¤ãƒ³ãƒˆã«ã¯ã€ç„¡åŠ¹ãª null å€¤ãŒå«ã¾ã‚Œã¦ã„ã¾ã™ã€‚
 
-exception.base.orthogonal.null.datadefinition=w’è‚µ‚½ƒf[ƒ^’è‹`‚Ì®‚Í–³Œø‚Å‚·B.
+exception.base.orthogonal.null.datadefinition=æŒ‡å®šã—ãŸãƒ‡ãƒ¼ã‚¿å®šç¾©ã®å¼ã¯ç„¡åŠ¹ã§ã™ã€‚.
 
-exception.dataset.non.numerical.to.numerical=ƒf[ƒ^ƒZƒbƒg‚É”’lˆÈŠO‚Ìƒf[ƒ^Œ^ {0} ‚ªŠÜ‚Ü‚ê‚Ä‚¢‚é‚½‚ßA”’l‚É•ÏŠ·‚Å‚«‚Ü‚¹‚ñB
+exception.dataset.non.numerical.to.numerical=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã«æ•°å€¤ä»¥å¤–ã®ãƒ‡ãƒ¼ã‚¿å‹ {0} ãŒå«ã¾ã‚Œã¦ã„ã‚‹ãŸã‚ã€æ•°å€¤ã«å¤‰æ›ã§ãã¾ã›ã‚“ã€‚
 
-exception.dataset.non.datetime=X ²‚ÉƒoƒCƒ“ƒh‚³‚ê‚Ä‚¢‚éƒf[ƒ^Œ^‚ÍADateTime ‚Ì‘®‚Å‚Í‚ ‚è‚Ü‚¹‚ñB
+exception.dataset.non.datetime=X è»¸ã«ãƒã‚¤ãƒ³ãƒ‰ã•ã‚Œã¦ã„ã‚‹ãƒ‡ãƒ¼ã‚¿å‹ã¯ã€DateTime ã®æ›¸å¼ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚
 
-exception.scale.tick.max=ƒXƒeƒbƒv‚ª‘½‚·‚¬‚Ä•\¦‚Å‚«‚Ü‚¹‚ñB–Ú·‚è‚ÌŠÔŠu‚©A’PˆÊ‚ğ’²®‚µ‚Ä‚­‚¾‚³‚¢B
+exception.scale.tick.max=ã‚¹ãƒ†ãƒƒãƒ—ãŒå¤šã™ãã¦è¡¨ç¤ºã§ãã¾ã›ã‚“ã€‚ç›®ç››ã‚Šã®é–“éš”ã‹ã€å˜ä½ã‚’èª¿æ•´ã—ã¦ãã ã•ã„ã€‚
 
-exception.unknown.axis.type.tick.computations=–Ú·‚ğŒvZ‚·‚é‚½‚ß‚É•K—v‚È²‚ÌŒ^‚ğ¯•Ê‚Å‚«‚Ü‚¹‚ñB
+exception.unknown.axis.type.tick.computations=ç›®ç››ã‚’è¨ˆç®—ã™ã‚‹ãŸã‚ã«å¿…è¦ãªè»¸ã®å‹ã‚’è­˜åˆ¥ã§ãã¾ã›ã‚“ã€‚
 
-exception.unknown.trigger.datatype=ƒgƒŠƒKƒf[ƒ^‚ª–³Œø‚©A•s–¾‚Èƒf[ƒ^Œ^‚Å‚·B
+exception.unknown.trigger.datatype=ãƒˆãƒªã‚¬ãƒ‡ãƒ¼ã‚¿ãŒç„¡åŠ¹ã‹ã€ä¸æ˜ãªãƒ‡ãƒ¼ã‚¿å‹ã§ã™ã€‚
 
-exception.unsupported.compare.unknown.objects=DE1={0} ‚Æ DE2={1} ‚ğ”äŠr‚·‚é‚½‚ß‚Éw’è‚µ‚½ƒf[ƒ^—v‘f‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.unsupported.compare.unknown.objects=DE1={0} ã¨ DE2={1} ã‚’æ¯”è¼ƒã™ã‚‹ãŸã‚ã«æŒ‡å®šã—ãŸãƒ‡ãƒ¼ã‚¿è¦ç´ ã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.unsupported.compare.different.objects=DE1={0} ‚Æ DE2={1} ‚ğ”äŠr‚·‚é‚½‚ß‚Éw’è‚µ‚½ƒf[ƒ^—v‘f‚ª¬İ‚µ‚Ä‚Ü‚·B
+exception.unsupported.compare.different.objects=DE1={0} ã¨ DE2={1} ã‚’æ¯”è¼ƒã™ã‚‹ãŸã‚ã«æŒ‡å®šã—ãŸãƒ‡ãƒ¼ã‚¿è¦ç´ ãŒæ··åœ¨ã—ã¦ã¾ã™ã€‚
 
-exception.resultset.data.type.retrieval.failed=Œ‹‰ÊƒZƒbƒg‚Ìƒf[ƒ^Œ^‚ğ¯•Ê‚Å‚«‚Ü‚¹‚ñB
+exception.resultset.data.type.retrieval.failed=çµæœã‚»ãƒƒãƒˆã®ãƒ‡ãƒ¼ã‚¿å‹ã‚’è­˜åˆ¥ã§ãã¾ã›ã‚“ã€‚
 
-exception.base.axis.no.series.definitions=ƒJƒeƒSƒŠ‚Ìå²‚ÉŒn—ñ‚Ì’è‹`‚ªŠÜ‚Ü‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.base.axis.no.series.definitions=ã‚«ãƒ†ã‚´ãƒªã®ä¸»è»¸ã«ç³»åˆ—ã®å®šç¾©ãŒå«ã¾ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.no.stack.percent.3D.chart=3D ƒOƒ‰ƒt‚Å‚ÍAÏ‚İã‚°‚âƒp[ƒZƒ“ƒg‚ğ•\‚¹‚Ü‚¹‚ñB
+exception.no.stack.percent.3D.chart=3D ã‚°ãƒ©ãƒ•ã§ã¯ã€ç©ã¿ä¸Šã’ã‚„ãƒ‘ãƒ¼ã‚»ãƒ³ãƒˆã‚’è¡¨ã›ã¾ã›ã‚“ã€‚
 
-exception.dial.dimension=ƒ_ƒCƒ„ƒ‹‚ÌŒn—ñ‚Å‚Í ''{0}'' ‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+exception.dial.dimension=ãƒ€ã‚¤ãƒ¤ãƒ«ã®ç³»åˆ—ã§ã¯ ''{0}'' ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-exception.pie.dimension=ƒpƒC‚ÌŒn—ñ‚Å‚Í ''{0}'' ‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+exception.pie.dimension=ãƒ‘ã‚¤ã®ç³»åˆ—ã§ã¯ ''{0}'' ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-exception.scatter.dimension=•ª•z‚ÌŒn—ñ‚Å‚Í ''{0}'' ‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+exception.scatter.dimension=åˆ†å¸ƒã®ç³»åˆ—ã§ã¯ ''{0}'' ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-exception.stock.dimension=Š”‰¿‚ÌŒn—ñ‚Å‚Í ''{0}'' ‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+exception.stock.dimension=æ ªä¾¡ã®ç³»åˆ—ã§ã¯ ''{0}'' ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-exception.multi.orthogonal.3D.not.supported=3D ƒOƒ‰ƒt‚Å‚Í•¡”‚Ì’l²‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+exception.multi.orthogonal.3D.not.supported=3D ã‚°ãƒ©ãƒ•ã§ã¯è¤‡æ•°ã®å€¤è»¸ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-exception.scatter.3D.not.supported=3D ƒOƒ‰ƒt‚Å‚Í•ª•zƒJƒeƒSƒŠ²‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+exception.scatter.3D.not.supported=3D ã‚°ãƒ©ãƒ•ã§ã¯åˆ†å¸ƒã‚«ãƒ†ã‚´ãƒªè»¸ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-exception.no.transposed.3D.chart=3D ƒOƒ‰ƒt‚Å‚ÍŒğ·‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+exception.no.transposed.3D.chart=3D ã‚°ãƒ©ãƒ•ã§ã¯äº¤å·®ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-exception.3D.points.length.less.than.3=3D ‚ÌƒŒƒ“ƒ_ƒŠƒ“ƒOƒCƒxƒ“ƒg‚Å‚ÍAƒ|ƒCƒ“ƒgˆê——‚ğ 3 ˆÈã‚Ì’·‚³‚Éw’è‚µ‚Ä‚­‚¾‚³‚¢B
+exception.3D.points.length.less.than.3=3D ã®ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã‚¤ãƒ™ãƒ³ãƒˆã§ã¯ã€ãƒã‚¤ãƒ³ãƒˆä¸€è¦§ã‚’ 3 ä»¥ä¸Šã®é•·ã•ã«æŒ‡å®šã—ã¦ãã ã•ã„ã€‚
 
-exception.unsupported.area3d.getOjbect3D=Area3DRenderEvent ‚©‚ç Object3D ‚É’¼ÚƒAƒNƒZƒX‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñBƒTƒu I3DRenderEvent ‚ğŒJ‚è•Ô‚µ‚Äˆ—‚µ‚Ä‚­‚¾‚³‚¢B
+exception.unsupported.area3d.getOjbect3D=Area3DRenderEvent ã‹ã‚‰ Object3D ã«ç›´æ¥ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹ã“ã¨ã¯ã§ãã¾ã›ã‚“ã€‚ã‚µãƒ– I3DRenderEvent ã‚’ç¹°ã‚Šè¿”ã—ã¦å‡¦ç†ã—ã¦ãã ã•ã„ã€‚
 
-exception.javascript.error={0} ‚ªƒOƒ‰ƒtƒXƒNƒŠƒvƒg ''{2}'' ‚Ì {1} s–Ú‚É‚ ‚è‚Ü‚·B
+exception.javascript.error={0} ãŒã‚°ãƒ©ãƒ•ã‚¹ã‚¯ãƒªãƒ—ãƒˆ ''{2}'' ã® {1} è¡Œç›®ã«ã‚ã‚Šã¾ã™ã€‚
 
-exception.null.legend.layout.hints=ƒŒƒCƒAƒEƒgƒqƒ“ƒgƒIƒuƒWƒFƒNƒg‚ª Null ‚Ì–}—á‚ÍƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚Ü‚¹‚ñB
+exception.null.legend.layout.hints=ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆãƒ’ãƒ³ãƒˆã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆãŒ Null ã®å‡¡ä¾‹ã¯ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚
 
-exception.null.legend.item.hints=€–Úƒqƒ“ƒgƒIƒuƒWƒFƒNƒg‚ª Null ‚Ì–}—á€–Ú‚ÍƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚Ü‚¹‚ñB
+exception.null.legend.item.hints=é …ç›®ãƒ’ãƒ³ãƒˆã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆãŒ Null ã®å‡¡ä¾‹é …ç›®ã¯ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚
 
-info.elapsed.render.time=ƒŒƒ“ƒ_ƒŠƒ“ƒOŠ®—¹‚Ü‚Å‚ÌŠ—vŠÔ = {0} ƒ~ƒŠ•b
+info.elapsed.render.time=ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°å®Œäº†ã¾ã§ã®æ‰€è¦æ™‚é–“ = {0} ãƒŸãƒªç§’
 
-info.elapsed.time.render=ƒŒƒ“ƒ_ƒŠƒ“ƒOŠ®—¹‚Ü‚Å‚ÌŠ—vŠÔ = {0} ƒ~ƒŠ•b
+info.elapsed.time.render=ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°å®Œäº†ã¾ã§ã®æ‰€è¦æ™‚é–“ = {0} ãƒŸãƒªç§’
 
-info.eclenv.creating.dsp=(ECLIPSE ŠÂ‹«) DSP {0} ‚Ìì¬’†
+info.eclenv.creating.dsp=(ECLIPSE ç’°å¢ƒ) DSP {0} ã®ä½œæˆä¸­
 
 info.datapoint.to.string={0}:{1}
-info.stdenv.creating.dsp=(ƒXƒ^ƒ“ƒhƒAƒ[ƒ“ŠÂ‹«) DSP {0} ‚Ìì¬’†
+info.stdenv.creating.dsp=(ã‚¹ã‚¿ãƒ³ãƒ‰ã‚¢ãƒ­ãƒ¼ãƒ³ç’°å¢ƒ) DSP {0} ã®ä½œæˆä¸­
 
-constant.undefined.string=<w’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ>
+constant.undefined.string=<æŒ‡å®šã•ã‚Œã¦ã„ã¾ã›ã‚“>
 
 constant.null.string=null
 
-error.invalid.enumerator=’l ''{0}'' ‚Í ''{1}'' ‚Ì—LŒø‚È—ñ‹“’l‚Å‚Í‚ ‚è‚Ü‚¹‚ñB
+error.invalid.enumerator=å€¤ ''{0}'' ã¯ ''{1}'' ã®æœ‰åŠ¹ãªåˆ—æŒ™å€¤ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚
 
-error.invalid.classifier=ƒf[ƒ^Œ^ ''{0}'' ‚Í—LŒø‚È•ª—Şq‚Å‚Í‚ ‚è‚Ü‚¹‚ñB
+error.invalid.classifier=ãƒ‡ãƒ¼ã‚¿å‹ ''{0}'' ã¯æœ‰åŠ¹ãªåˆ†é¡å­ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚
 
-error.invalid.argument.for.barSeries={0} ‚ÍABarSeriesImpl ‚Ìˆø”‚Æ‚µ‚Ä‚Íg—p‚Å‚«‚Ü‚¹‚ñBƒOƒ‰ƒt‚Ìƒ‚ƒfƒ‹‚É‚ÍAorg.eclipse.birt.chart.model.ChartWithAxes ‚ÌƒCƒ“ƒXƒ^ƒ“ƒX‚ğw’è‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B
+error.invalid.argument.for.barSeries={0} ã¯ã€BarSeriesImpl ã®å¼•æ•°ã¨ã—ã¦ã¯ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚ã‚°ãƒ©ãƒ•ã®ãƒ¢ãƒ‡ãƒ«ã«ã¯ã€org.eclipse.birt.chart.model.ChartWithAxes ã®ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹ã‚’æŒ‡å®šã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
-error.invalid.argument.for.lineSeries={0} ‚ÍALineSeriesImpl ‚Ìˆø”‚Æ‚µ‚Ä‚Íg—p‚Å‚«‚Ü‚¹‚ñBƒOƒ‰ƒt‚Ìƒ‚ƒfƒ‹‚É‚ÍAorg.eclipse.birt.chart.model.ChartWithAxes ‚ÌƒCƒ“ƒXƒ^ƒ“ƒX‚ğw’è‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B
+error.invalid.argument.for.lineSeries={0} ã¯ã€LineSeriesImpl ã®å¼•æ•°ã¨ã—ã¦ã¯ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚ã‚°ãƒ©ãƒ•ã®ãƒ¢ãƒ‡ãƒ«ã«ã¯ã€org.eclipse.birt.chart.model.ChartWithAxes ã®ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹ã‚’æŒ‡å®šã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
-error.invalid.argument.for.stockSeries={0} ‚ÍAStockSeriesImpl ‚Ìˆø”‚Æ‚µ‚Ä‚Íg—p‚Å‚«‚Ü‚¹‚ñBƒOƒ‰ƒt‚Ìƒ‚ƒfƒ‹‚É‚ÍAorg.eclipse.birt.chart.model.ChartWithAxes ‚ÌƒCƒ“ƒXƒ^ƒ“ƒX‚ğw’è‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B
+error.invalid.argument.for.stockSeries={0} ã¯ã€StockSeriesImpl ã®å¼•æ•°ã¨ã—ã¦ã¯ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚ã‚°ãƒ©ãƒ•ã®ãƒ¢ãƒ‡ãƒ«ã«ã¯ã€org.eclipse.birt.chart.model.ChartWithAxes ã®ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹ã‚’æŒ‡å®šã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
-error.legend.position=ƒOƒ‰ƒt‚ÌƒRƒ“ƒ|[ƒlƒ“ƒg‚ğ³‚µ‚­”z’u‚·‚é‚É‚ÍA–}—áƒuƒƒbƒN‚ÌˆÊ’u‚ğw’è‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B
+error.legend.position=ã‚°ãƒ©ãƒ•ã®ã‚³ãƒ³ãƒãƒ¼ãƒãƒ³ãƒˆã‚’æ­£ã—ãé…ç½®ã™ã‚‹ã«ã¯ã€å‡¡ä¾‹ãƒ–ãƒ­ãƒƒã‚¯ã®ä½ç½®ã‚’æŒ‡å®šã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
-error.null.source=ƒ\[ƒX‚Ì’l‚Í null ‚É‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+error.null.source=ã‚½ãƒ¼ã‚¹ã®å€¤ã¯ null ã«ã™ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-error.unknown.palette=•s–¾‚ÈƒpƒŒƒbƒg {0} ‚ªƒŠƒNƒGƒXƒg‚³‚ê‚Ü‚µ‚½BƒfƒtƒHƒ‹ƒg‚ªg—p‚³‚ê‚Ü‚·B
+error.unknown.palette=ä¸æ˜ãªãƒ‘ãƒ¬ãƒƒãƒˆ {0} ãŒãƒªã‚¯ã‚¨ã‚¹ãƒˆã•ã‚Œã¾ã—ãŸã€‚ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆãŒä½¿ç”¨ã•ã‚Œã¾ã™ã€‚
 
-error.type.not.set=g—p‚·‚é DateFormatSpecifier ‚ÌƒCƒ“ƒXƒ^ƒ“ƒX‚ÌŒ^‚ªİ’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+error.type.not.set=ä½¿ç”¨ã™ã‚‹ DateFormatSpecifier ã®ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹ã®å‹ãŒè¨­å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-error.eclenv.cannot.find.dsp=(ECLIPSE ŠÂ‹«) {0} ‚Ì DSP ‚ÌÀ‘•‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñ‚Å‚µ‚½B
+error.eclenv.cannot.find.dsp=(ECLIPSE ç’°å¢ƒ) {0} ã® DSP ã®å®Ÿè£…ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã§ã—ãŸã€‚
 
-error.stdenv.cannot.find.dsp=(ƒXƒ^ƒ“ƒhƒAƒ[ƒ“ŠÂ‹«) {0} ‚Ì DSP ‚ÌÀ‘•‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+error.stdenv.cannot.find.dsp=(ã‚¹ã‚¿ãƒ³ãƒ‰ã‚¢ãƒ­ãƒ¼ãƒ³ç’°å¢ƒ) {0} ã® DSP ã®å®Ÿè£…ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-info.eclenv.creating.series.renderer=(ECLIPSE ŠÂ‹«) Œn—ñƒŒƒ“ƒ_ƒŠƒ“ƒO‹@”\ {0} ‚Ìì¬’†
+info.eclenv.creating.series.renderer=(ECLIPSE ç’°å¢ƒ) ç³»åˆ—ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°æ©Ÿèƒ½ {0} ã®ä½œæˆä¸­
 
-info.eclenv.creating.datapoint.definition=(ECLIPSE ŠÂ‹«) ƒf[ƒ^ƒ|ƒCƒ“ƒg’è‹` {0} ‚ğì¬’†‚Å‚·B
+info.eclenv.creating.datapoint.definition=(ECLIPSE ç’°å¢ƒ) ãƒ‡ãƒ¼ã‚¿ãƒã‚¤ãƒ³ãƒˆå®šç¾© {0} ã‚’ä½œæˆä¸­ã§ã™ã€‚
 
-error.eclenv.cannot.find.series.renderer=(ECLIPSE ŠÂ‹«) {0} ‚ÌŒn—ñƒŒƒ“ƒ_ƒŠƒ“ƒO‹@”\‚ÌÀ‘•‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+error.eclenv.cannot.find.series.renderer=(ECLIPSE ç’°å¢ƒ) {0} ã®ç³»åˆ—ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°æ©Ÿèƒ½ã®å®Ÿè£…ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-info.stdenv.creating.series.renderer=(ƒXƒ^ƒ“ƒhƒAƒ[ƒ“ŠÂ‹«) Series Renderer {0} ‚Ìì¬’†
+info.stdenv.creating.series.renderer=(ã‚¹ã‚¿ãƒ³ãƒ‰ã‚¢ãƒ­ãƒ¼ãƒ³ç’°å¢ƒ) Series Renderer {0} ã®ä½œæˆä¸­
 
-info.compute.elapsed.time.without.axes=ƒvƒƒbƒgŒvZ‚ÌŠ—vŠÔ (²‚È‚µ) = {0} ƒ~ƒŠ•b
+info.compute.elapsed.time.without.axes=ãƒ—ãƒ­ãƒƒãƒˆè¨ˆç®—ã®æ‰€è¦æ™‚é–“ (è»¸ãªã—) = {0} ãƒŸãƒªç§’
 
-info.compute.elapsed.time.with.axes=ƒvƒƒbƒgŒvZ‚ÌŠ—vŠÔ (²‚ ‚è) = {0} ƒ~ƒŠ•b
+info.compute.elapsed.time.with.axes=ãƒ—ãƒ­ãƒƒãƒˆè¨ˆç®—ã®æ‰€è¦æ™‚é–“ (è»¸ã‚ã‚Š) = {0} ãƒŸãƒªç§’
 
-error.stdenv.cannot.find.series.renderer=(ƒXƒ^ƒ“ƒhƒAƒ[ƒ“ŠÂ‹«) {0} Œn—ñƒŒƒ“ƒ_ƒŠƒ“ƒO‹@”\‚ÌÀ‘•‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+error.stdenv.cannot.find.series.renderer=(ã‚¹ã‚¿ãƒ³ãƒ‰ã‚¢ãƒ­ãƒ¼ãƒ³ç’°å¢ƒ) {0} ç³»åˆ—ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°æ©Ÿèƒ½ã®å®Ÿè£…ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-error.stdenv.cannot.find.datapoint.definition=(ƒXƒ^ƒ“ƒhƒAƒ[ƒ“ŠÂ‹«) ƒf[ƒ^ƒ|ƒCƒ“ƒg’è‹`‚Ì {0} ‚Ö‚ÌÀ‘•‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+error.stdenv.cannot.find.datapoint.definition=(ã‚¹ã‚¿ãƒ³ãƒ‰ã‚¢ãƒ­ãƒ¼ãƒ³ç’°å¢ƒ) ãƒ‡ãƒ¼ã‚¿ãƒã‚¤ãƒ³ãƒˆå®šç¾©ã® {0} ã¸ã®å®Ÿè£…ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-error.eclenv.cannot.find.device=(ECLIPSE ŠÂ‹«) {0} ‚ÌƒfƒoƒCƒXƒŒƒ“ƒ_ƒŠƒ“ƒO‹@”\‚ÌÀ‘•‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+error.eclenv.cannot.find.device=(ECLIPSE ç’°å¢ƒ) {0} ã®ãƒ‡ãƒã‚¤ã‚¹ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°æ©Ÿèƒ½ã®å®Ÿè£…ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-error.stdenv.cannot.find.device=(ƒXƒ^ƒ“ƒhƒAƒ[ƒ“ŠÂ‹«) {0} ‚ÌƒfƒoƒCƒXƒŒƒ“ƒ_ƒŠƒ“ƒO‹@”\‚ÌÀ‘•‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+error.stdenv.cannot.find.device=(ã‚¹ã‚¿ãƒ³ãƒ‰ã‚¢ãƒ­ãƒ¼ãƒ³ç’°å¢ƒ) {0} ã®ãƒ‡ãƒã‚¤ã‚¹ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°æ©Ÿèƒ½ã®å®Ÿè£…ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-error.eclenv.cannot.find.display=(ECLIPSE ŠÂ‹«) {0} ‚Ì Display Server ‚ÌÀ‘•‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+error.eclenv.cannot.find.display=(ECLIPSE ç’°å¢ƒ) {0} ã® Display Server ã®å®Ÿè£…ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-error.stdenv.cannot.find.display=(ƒXƒ^ƒ“ƒhƒAƒ[ƒ“ŠÂ‹«) {0} ‚Ì Display Server ‚ÌÀ‘•‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+error.stdenv.cannot.find.display=(ã‚¹ã‚¿ãƒ³ãƒ‰ã‚¢ãƒ­ãƒ¼ãƒ³ç’°å¢ƒ) {0} ã® Display Server ã®å®Ÿè£…ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-info.log.script=[ƒXƒNƒŠƒvƒg]: {0}
+info.log.script=[ã‚¹ã‚¯ãƒªãƒ—ãƒˆ]: {0}
 
 info.render.series={0}: renderSeries() [{1}/{2}]
-info.log.info=[î•ñ]: {0}
+info.log.info=[æƒ…å ±]: {0}
 
-info.log.warn=[Œx]: {0}
+info.log.warn=[è­¦å‘Š]: {0}
 
-info.log.err=[ƒGƒ‰[]: {0}
+info.log.err=[ã‚¨ãƒ©ãƒ¼]: {0}
 
-info.log.fatal=[d‘å]: {0}
+info.log.fatal=[é‡å¤§]: {0}
 
 prefix.marker.range.caption=[
-separator.marker.range.caption=\ `
+separator.marker.range.caption=\ ã€œ
 
 suffix.marker.range.caption=]
-wrapped.instruction.to.string={0}: ƒ‚ƒfƒ‹ = {1}A”ÍˆÍ = {2}
+wrapped.instruction.to.string={0}: ãƒ¢ãƒ‡ãƒ« = {1}ã€ç¯„å›² = {2}
 
-exception.mixed.data.types=WŒvŠÖ” {0} ‚ÅWŒv‚µ‚æ‚¤‚Æ‚µ‚½“ü—Íƒf[ƒ^‚ÌŒ^‚ª¬İ‚µ‚Ä‚Ü‚·B
+exception.mixed.data.types=é›†è¨ˆé–¢æ•° {0} ã§é›†è¨ˆã—ã‚ˆã†ã¨ã—ãŸå…¥åŠ›ãƒ‡ãƒ¼ã‚¿ã®å‹ãŒæ··åœ¨ã—ã¦ã¾ã™ã€‚
 
-info.eclenv.creating.function=(ECLIPSE ŠÂ‹«) WŒvŠÖ” {0} ‚ğì¬’†‚Å‚·B
+info.eclenv.creating.function=(ECLIPSE ç’°å¢ƒ) é›†è¨ˆé–¢æ•° {0} ã‚’ä½œæˆä¸­ã§ã™ã€‚
 
-error.eclenv.cannot.find.function=(ECLIPSE ŠÂ‹«) {0} ‚ÌWŒvŠÖ”‚ÌÀ‘•‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+error.eclenv.cannot.find.function=(ECLIPSE ç’°å¢ƒ) {0} ã®é›†è¨ˆé–¢æ•°ã®å®Ÿè£…ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-info.stdenv.creating.function=(ƒXƒ^ƒ“ƒhƒAƒ[ƒ“ŠÂ‹«) WŒvŠÖ” {0} ‚ğì¬’†‚Å‚·B
+info.stdenv.creating.function=(ã‚¹ã‚¿ãƒ³ãƒ‰ã‚¢ãƒ­ãƒ¼ãƒ³ç’°å¢ƒ) é›†è¨ˆé–¢æ•° {0} ã‚’ä½œæˆä¸­ã§ã™ã€‚
 
-error.stdenv.cannot.find.function=(ƒXƒ^ƒ“ƒhƒAƒ[ƒ“ŠÂ‹«) {0} ‚ÌWŒvŠÖ”‚ÌÀ‘•‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+error.stdenv.cannot.find.function=(ã‚¹ã‚¿ãƒ³ãƒ‰ã‚¢ãƒ­ãƒ¼ãƒ³ç’°å¢ƒ) {0} ã®é›†è¨ˆé–¢æ•°ã®å®Ÿè£…ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-Info.try.load.java.handler=Chart Java ƒCƒxƒ“ƒgƒnƒ“ƒhƒ‰‚ÌƒNƒ‰ƒX‚ğ“Ç‚İ‚ñ‚Å‚¢‚Ü‚·...
+Info.try.load.java.handler=Chart Java ã‚¤ãƒ™ãƒ³ãƒˆãƒãƒ³ãƒ‰ãƒ©ã®ã‚¯ãƒ©ã‚¹ã‚’èª­ã¿è¾¼ã‚“ã§ã„ã¾ã™...
 
-Info.java.handler.loaded=Chart Java ƒCƒxƒ“ƒgƒnƒ“ƒhƒ‰‚ÌƒNƒ‰ƒX [{0}] ‚ğ“Ç‚İ‚İ‚Ü‚µ‚½B
+Info.java.handler.loaded=Chart Java ã‚¤ãƒ™ãƒ³ãƒˆãƒãƒ³ãƒ‰ãƒ©ã®ã‚¯ãƒ©ã‚¹ [{0}] ã‚’èª­ã¿è¾¼ã¿ã¾ã—ãŸã€‚
 
-Info.invalid.java.handler=–³Œø‚È Chart Java ƒCƒxƒ“ƒgƒnƒ“ƒhƒ‰‚ÌƒNƒ‰ƒX [{0}] ‚ªŒŸo‚³‚ê‚½‚©A–³‹‚³‚ê‚Ü‚µ‚½B
+Info.invalid.java.handler=ç„¡åŠ¹ãª Chart Java ã‚¤ãƒ™ãƒ³ãƒˆãƒãƒ³ãƒ‰ãƒ©ã®ã‚¯ãƒ©ã‚¹ [{0}] ãŒæ¤œå‡ºã•ã‚ŒãŸã‹ã€ç„¡è¦–ã•ã‚Œã¾ã—ãŸã€‚
 
-Info.try.register.javascript.content=Chart JavaScript ‚ÌƒRƒ“ƒeƒ“ƒc‚ğ“Ç‚İ‚ñ‚Å‚¢‚Ü‚·...
+Info.try.register.javascript.content=Chart JavaScript ã®ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚’èª­ã¿è¾¼ã‚“ã§ã„ã¾ã™...
 
-Info.javascript.content.registered=Chart JavaScript ‚ÌƒRƒ“ƒeƒ“ƒc‚ğ“Ç‚İ‚İ‚Ü‚µ‚½B
+Info.javascript.content.registered=Chart JavaScript ã®ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚’èª­ã¿è¾¼ã¿ã¾ã—ãŸã€‚
 
-warn.unspecified.sorting={0} ‚Éƒ\[ƒg‡‚ªw’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+warn.unspecified.sorting={0} ã«ã‚½ãƒ¼ãƒˆé †ãŒæŒ‡å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
 ##################################################
 # Attributes 
@@ -352,397 +352,397 @@ warn.unspecified.sorting={0} ‚Éƒ\[ƒg‡‚ªw’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
 # !!the key is bound to those attribute literal' name value, 
 # !!if that changes, this must be updated accordingly.
 #
-SeriesImpl.displayName=’Pƒ‚ÈŒn—ñ
+SeriesImpl.displayName=å˜ç´”ãªç³»åˆ—
 
-AreaSeriesImpl.displayName=–ÊÏ‚ÌŒn—ñ
+AreaSeriesImpl.displayName=é¢ç©ã®ç³»åˆ—
 
-BarSeriesImpl.displayName=–_‚ÌŒn—ñ
+BarSeriesImpl.displayName=æ£’ã®ç³»åˆ—
 
-BarSeriesImpl.coneDisplayName=‰~Œn—ñ
+BarSeriesImpl.coneDisplayName=å††éŒç³»åˆ—
 
-BarSeriesImpl.tubeDisplayName=‰~“›Œn—ñ
+BarSeriesImpl.tubeDisplayName=å††ç­’ç³»åˆ—
 
-BarSeriesImpl.pyramidDisplayName=ƒsƒ‰ƒ~ƒbƒhŒn—ñ
+BarSeriesImpl.pyramidDisplayName=ãƒ”ãƒ©ãƒŸãƒƒãƒ‰ç³»åˆ—
 
-DialSeriesImpl.displayName=ƒ_ƒCƒ„ƒ‹Œn—ñ
+DialSeriesImpl.displayName=ãƒ€ã‚¤ãƒ¤ãƒ«ç³»åˆ—
 
-LineSeriesImpl.displayName=ü‚ÌŒn—ñ
+LineSeriesImpl.displayName=ç·šã®ç³»åˆ—
 
-PieSeriesImpl.displayName=ƒpƒC‚ÌŒn—ñ
+PieSeriesImpl.displayName=ãƒ‘ã‚¤ã®ç³»åˆ—
 
-ScatterSeriesImpl.displayName=•ª•z‚ÌŒn—ñ
+ScatterSeriesImpl.displayName=åˆ†å¸ƒã®ç³»åˆ—
 
-StockSeriesImpl.displayName=Š”‰¿‚ÌŒn—ñ
+StockSeriesImpl.displayName=æ ªä¾¡ã®ç³»åˆ—
 
-BubbleSeriesImpl.displayName=ƒoƒuƒ‹‚ÌŒn—ñ
+BubbleSeriesImpl.displayName=ãƒãƒ–ãƒ«ã®ç³»åˆ—
 
-GanttSeriesImpl.displayName=ƒKƒ“ƒg‚ÌŒn—ñ
+GanttSeriesImpl.displayName=ã‚¬ãƒ³ãƒˆã®ç³»åˆ—
 
-DifferenceSeriesImpl.displayName=·•ª‚ÌŒn—ñ
+DifferenceSeriesImpl.displayName=å·®åˆ†ã®ç³»åˆ—
 
-AxisType.Linear.displayName=üŒ`
+AxisType.Linear.displayName=ç·šå½¢
 
-AxisType.Logarithmic.displayName=‘Î”
+AxisType.Logarithmic.displayName=å¯¾æ•°
 
-AxisType.Text.displayName=ƒeƒLƒXƒg
+AxisType.Text.displayName=ãƒ†ã‚­ã‚¹ãƒˆ
 
 AxisType.DateTime.displayName=DateTime
 IntersectionType.Min.displayName=Min
 
 IntersectionType.Max.displayName=Max
 
-IntersectionType.Value.displayName=’l
+IntersectionType.Value.displayName=å€¤
 
-ScaleUnitType.Seconds.displayName=•b
+ScaleUnitType.Seconds.displayName=ç§’
 
-ScaleUnitType.Minutes.displayName=•ª
+ScaleUnitType.Minutes.displayName=åˆ†
 
-ScaleUnitType.Hours.displayName=ŠÔ
+ScaleUnitType.Hours.displayName=æ™‚é–“
 
-ScaleUnitType.Days.displayName=“ú
+ScaleUnitType.Days.displayName=æ—¥
 
-ScaleUnitType.Weeks.displayName=T
+ScaleUnitType.Weeks.displayName=é€±
 
-ScaleUnitType.Months.displayName=Œ
+ScaleUnitType.Months.displayName=æœˆ
 
-ScaleUnitType.Quarters.displayName=l”¼Šú
+ScaleUnitType.Quarters.displayName=å››åŠæœŸ
 
-ScaleUnitType.Years.displayName=”N
+ScaleUnitType.Years.displayName=å¹´
 
-SortOption.Ascending.displayName=¸‡
+SortOption.Ascending.displayName=æ˜‡é †
 
-SortOption.Descending.displayName=~‡
+SortOption.Descending.displayName=é™é †
 
-TriggerCondition.MouseHover.displayName=ƒ}ƒEƒX‚Åƒ|ƒCƒ“ƒg‚·‚é (”ñ„§)
+TriggerCondition.MouseHover.displayName=ãƒã‚¦ã‚¹ã§ãƒã‚¤ãƒ³ãƒˆã™ã‚‹ (éæ¨å¥¨)
 
-TriggerCondition.MouseClick.displayName=ƒ}ƒEƒX‚ÅƒNƒŠƒbƒN‚·‚é (”ñ„§)
+TriggerCondition.MouseClick.displayName=ãƒã‚¦ã‚¹ã§ã‚¯ãƒªãƒƒã‚¯ã™ã‚‹ (éæ¨å¥¨)
 
-TriggerCondition.onclick.displayName=ƒ}ƒEƒX‚ÅƒNƒŠƒbƒN‚·‚é
+TriggerCondition.onclick.displayName=ãƒã‚¦ã‚¹ã§ã‚¯ãƒªãƒƒã‚¯ã™ã‚‹
 
-TriggerCondition.ondblclick.displayName=ƒ}ƒEƒX‚Åƒ_ƒuƒ‹ƒNƒŠƒbƒN‚·‚é
+TriggerCondition.ondblclick.displayName=ãƒã‚¦ã‚¹ã§ãƒ€ãƒ–ãƒ«ã‚¯ãƒªãƒƒã‚¯ã™ã‚‹
 
-TriggerCondition.onmousedown.displayName=ƒ}ƒEƒXƒ{ƒ^ƒ“‚ğ‰Ÿ‚µ‚½‚Ü‚Ü‚É‚·‚é
+TriggerCondition.onmousedown.displayName=ãƒã‚¦ã‚¹ãƒœã‚¿ãƒ³ã‚’æŠ¼ã—ãŸã¾ã¾ã«ã™ã‚‹
 
-TriggerCondition.onmouseup.displayName=ƒ}ƒEƒXƒ{ƒ^ƒ“‚ğ•ú‚·
+TriggerCondition.onmouseup.displayName=ãƒã‚¦ã‚¹ãƒœã‚¿ãƒ³ã‚’æ”¾ã™
 
-TriggerCondition.onmouseover.displayName=ƒ}ƒEƒXƒ|ƒCƒ“ƒ^‚ğã‚Å“®‚©‚·
+TriggerCondition.onmouseover.displayName=ãƒã‚¦ã‚¹ãƒã‚¤ãƒ³ã‚¿ã‚’ä¸Šã§å‹•ã‹ã™
 
-TriggerCondition.onmousemove.displayName=ƒ}ƒEƒXƒ|ƒCƒ“ƒ^‚ğˆÚ“®‚·‚é
+TriggerCondition.onmousemove.displayName=ãƒã‚¦ã‚¹ãƒã‚¤ãƒ³ã‚¿ã‚’ç§»å‹•ã™ã‚‹
 
-TriggerCondition.onmouseout.displayName=ƒ}ƒEƒXƒ|ƒCƒ“ƒ^‚ğŠO‚·
+TriggerCondition.onmouseout.displayName=ãƒã‚¦ã‚¹ãƒã‚¤ãƒ³ã‚¿ã‚’å¤–ã™
 
-TriggerCondition.onfocus.displayName=ƒtƒH[ƒJƒX
+TriggerCondition.onfocus.displayName=ãƒ•ã‚©ãƒ¼ã‚«ã‚¹
 
-TriggerCondition.onblur.displayName=ƒtƒH[ƒJƒX‚ğŠO‚·
+TriggerCondition.onblur.displayName=ãƒ•ã‚©ãƒ¼ã‚«ã‚¹ã‚’å¤–ã™
 
-TriggerCondition.onkeydown.displayName=ƒL[‚ğ‰Ÿ‚µ‚½‚Ü‚Ü‚É‚·‚é
+TriggerCondition.onkeydown.displayName=ã‚­ãƒ¼ã‚’æŠ¼ã—ãŸã¾ã¾ã«ã™ã‚‹
 
-TriggerCondition.onkeypress.displayName=ƒL[‚ğ‰Ÿ‚·
+TriggerCondition.onkeypress.displayName=ã‚­ãƒ¼ã‚’æŠ¼ã™
 
-TriggerCondition.onkeyup.displayName=ƒL[‚ğ•ú‚·
+TriggerCondition.onkeyup.displayName=ã‚­ãƒ¼ã‚’æ”¾ã™
 
-TriggerCondition.onload.displayName=“Ç‚İ‚İ
+TriggerCondition.onload.displayName=èª­ã¿è¾¼ã¿
 
-ActionType.URLRedirect.displayName=ƒnƒCƒp[ƒŠƒ“ƒN
+ActionType.URLRedirect.displayName=ãƒã‚¤ãƒ‘ãƒ¼ãƒªãƒ³ã‚¯
 
-ActionType.ShowTooltip.displayName=ƒc[ƒ‹ƒ`ƒbƒv‚ğ•\¦‚·‚é
+ActionType.ShowTooltip.displayName=ãƒ„ãƒ¼ãƒ«ãƒãƒƒãƒ—ã‚’è¡¨ç¤ºã™ã‚‹
 
-ActionType.ToggleVisibility.displayName=•\¦‚Æ”ñ•\¦‚ğØ‚è‘Ö‚¦‚é
+ActionType.ToggleVisibility.displayName=è¡¨ç¤ºã¨éè¡¨ç¤ºã‚’åˆ‡ã‚Šæ›¿ãˆã‚‹
 
-ActionType.InvokeScript.displayName=ƒXƒNƒŠƒvƒg‚ğ‹N“®‚·‚é
+ActionType.InvokeScript.displayName=ã‚¹ã‚¯ãƒªãƒ—ãƒˆã‚’èµ·å‹•ã™ã‚‹
 
-ActionType.Highlight.displayName=‹­’²•\¦
+ActionType.Highlight.displayName=å¼·èª¿è¡¨ç¤º
 
-ActionType.CallBack.displayName=ƒR[ƒ‹ƒoƒbƒN
+ActionType.CallBack.displayName=ã‚³ãƒ¼ãƒ«ãƒãƒƒã‚¯
 
-ActionType.ToggleDataPointVisibility.displayName=ƒf[ƒ^ƒ|ƒCƒ“ƒg‚Ì•\¦‚Æ”ñ•\¦‚ğØ‚è‘Ö‚¦‚é
+ActionType.ToggleDataPointVisibility.displayName=ãƒ‡ãƒ¼ã‚¿ãƒã‚¤ãƒ³ãƒˆã®è¡¨ç¤ºã¨éè¡¨ç¤ºã‚’åˆ‡ã‚Šæ›¿ãˆã‚‹
 
-TickStyle.Across.displayName=Œğ·
+TickStyle.Across.displayName=äº¤å·®
 
-TickStyle.Left.displayName=¶
+TickStyle.Left.displayName=å·¦
 
-TickStyle.Right.displayName=‰E
+TickStyle.Right.displayName=å³
 
-TickStyle.Above.displayName=ã
+TickStyle.Above.displayName=ä¸Š
 
-TickStyle.Below.displayName=‰º
+TickStyle.Below.displayName=ä¸‹
 
-DataPointComponentType.BaseValue.displayName=ƒJƒeƒSƒŠƒf[ƒ^
+DataPointComponentType.BaseValue.displayName=ã‚«ãƒ†ã‚´ãƒªãƒ‡ãƒ¼ã‚¿
 
-DataPointComponentType.OrthogonalValue.displayName=’lƒf[ƒ^
+DataPointComponentType.OrthogonalValue.displayName=å€¤ãƒ‡ãƒ¼ã‚¿
 
-DataPointComponentType.SeriesValue.displayName=’lŒn—ñ‚Ì–¼‘O
+DataPointComponentType.SeriesValue.displayName=å€¤ç³»åˆ—ã®åå‰
 
-DataPointComponentType.PercentileOrthogonalValue.displayName=ƒp[ƒZƒ“ƒe[ƒW
+DataPointComponentType.PercentileOrthogonalValue.displayName=ãƒ‘ãƒ¼ã‚»ãƒ³ãƒ†ãƒ¼ã‚¸
 
-LeaderLineStyle.FixedLength.displayName=ŒÅ’è’·
+LeaderLineStyle.FixedLength.displayName=å›ºå®šé•·
 
-LeaderLineStyle.StretchToSide.displayName=‘ÎÛ‚É‡‚í‚¹‚ÄLk
+LeaderLineStyle.StretchToSide.displayName=å¯¾è±¡ã«åˆã‚ã›ã¦ä¼¸ç¸®
 
-MarkerType.Crosshair.displayName=\šü
+MarkerType.Crosshair.displayName=åå­—ç·š
 
-MarkerType.Triangle.displayName=OŠpŒ`
+MarkerType.Triangle.displayName=ä¸‰è§’å½¢
 
-MarkerType.Box.displayName=ƒ{ƒbƒNƒX
+MarkerType.Box.displayName=ãƒœãƒƒã‚¯ã‚¹
 
-MarkerType.Circle.displayName=‰~Œ`
+MarkerType.Circle.displayName=å††å½¢
 
-MarkerType.Icon.displayName=ƒAƒCƒRƒ“
+MarkerType.Icon.displayName=ã‚¢ã‚¤ã‚³ãƒ³
 
-MarkerType.Nabla.displayName=ƒiƒuƒ‰
+MarkerType.Nabla.displayName=ãƒŠãƒ–ãƒ©
 
-MarkerType.Diamond.displayName=•HŒ`
+MarkerType.Diamond.displayName=è±å½¢
 
-MarkerType.FourDiamonds.displayName=•HŒ` (4 ‚Â)
+MarkerType.FourDiamonds.displayName=è±å½¢ (4 ã¤)
 
-MarkerType.Ellipse.displayName=‘È‰~
+MarkerType.Ellipse.displayName=æ¥•å††
 
-MarkerType.SemiCircle.displayName=”¼‰~
+MarkerType.SemiCircle.displayName=åŠå††
 
-MarkerType.Hexagon.displayName=˜ZŠpŒ`
+MarkerType.Hexagon.displayName=å…­è§’å½¢
 
-MarkerType.Rectangle.displayName=lŠpŒ`
+MarkerType.Rectangle.displayName=å››è§’å½¢
 
-MarkerType.Star.displayName=¯Œ`
+MarkerType.Star.displayName=æ˜Ÿå½¢
 
-MarkerType.Column.displayName=—ñ
+MarkerType.Column.displayName=åˆ—
 
-MarkerType.Cross.displayName=Œğ·
+MarkerType.Cross.displayName=äº¤å·®
 
-RiserType.Rectangle.displayName=lŠpŒ`
+RiserType.Rectangle.displayName=å››è§’å½¢
 
-RiserType.Triangle.displayName=OŠpŒ`
+RiserType.Triangle.displayName=ä¸‰è§’å½¢
 
-RiserType.Tube.displayName=‰~“›
+RiserType.Tube.displayName=å††ç­’
 
-RiserType.Cone.displayName=‰~
+RiserType.Cone.displayName=å††éŒ
 
-Anchor.North.displayName=ã
+Anchor.North.displayName=ä¸Š
 
-Anchor.NorthEast.displayName=‰Eã
+Anchor.NorthEast.displayName=å³ä¸Š
 
-Anchor.East.displayName=‰E
+Anchor.East.displayName=å³
 
-Anchor.SouthEast.displayName=‰E‰º
+Anchor.SouthEast.displayName=å³ä¸‹
 
-Anchor.South.displayName=‰º
+Anchor.South.displayName=ä¸‹
 
-Anchor.SouthWest.displayName=¶‰º
+Anchor.SouthWest.displayName=å·¦ä¸‹
 
-Anchor.West.displayName=¶
+Anchor.West.displayName=å·¦
 
-Anchor.NorthWest.displayName=¶ã
+Anchor.NorthWest.displayName=å·¦ä¸Š
 
-AnchorVertical.North.displayName=ã
+AnchorVertical.North.displayName=ä¸Š
 
-AnchorVertical.South.displayName=‰º’[‘µ‚¦
+AnchorVertical.South.displayName=ä¸‹ç«¯æƒãˆ
 
-AnchorVertical.West.displayName=’†‰›‘µ‚¦ (ã‰º)
+AnchorVertical.West.displayName=ä¸­å¤®æƒãˆ (ä¸Šä¸‹)
 
-AnchorHorizontal.East.displayName=‰E
+AnchorHorizontal.East.displayName=å³
 
-AnchorHorizontal.South.displayName=’†‰›‘µ‚¦ (ã‰º)
+AnchorHorizontal.South.displayName=ä¸­å¤®æƒãˆ (ä¸Šä¸‹)
 
-AnchorHorizontal.West.displayName=¶
+AnchorHorizontal.West.displayName=å·¦
 
-AutoScale.Exception.IsInfiite=\ ‚Í–³ŒÀ‚Å‚·B
+AutoScale.Exception.IsInfiite=\ ã¯ç„¡é™ã§ã™ã€‚
 
-AutoScale.Exception.IsNaN=\ ‚Í NaN (”ñ”’l) ‚Å‚·B
+AutoScale.Exception.IsNaN=\ ã¯ NaN (éæ•°å€¤) ã§ã™ã€‚
 
-AutoScale.ValueName.StepSize=ƒXƒeƒbƒv‚ÌƒTƒCƒY
+AutoScale.ValueName.StepSize=ã‚¹ãƒ†ãƒƒãƒ—ã®ã‚µã‚¤ã‚º
 
-Stretch.Horizontal.displayName=‰¡
+Stretch.Horizontal.displayName=æ¨ª
 
-Stretch.Vertical.displayName=c
+Stretch.Vertical.displayName=ç¸¦
 
-Stretch.Both.displayName=—¼•û
+Stretch.Both.displayName=ä¸¡æ–¹
 
-Orientation.Horizontal.displayName=‰¡
+Orientation.Horizontal.displayName=æ¨ª
 
-Orientation.Vertical.displayName=c
+Orientation.Vertical.displayName=ç¸¦
 
-Direction.LeftRight.displayName=¶‰E
+Direction.LeftRight.displayName=å·¦å³
 
-Direction.TopBottom.displayName=ã‰º
+Direction.TopBottom.displayName=ä¸Šä¸‹
 
-LegendItemType.Series.displayName=’lŒn—ñ
+LegendItemType.Series.displayName=å€¤ç³»åˆ—
 
-LegendItemType.Categories.displayName=ƒJƒeƒSƒŠ
+LegendItemType.Categories.displayName=ã‚«ãƒ†ã‚´ãƒª
 
-Position.Above.displayName=ã
+Position.Above.displayName=ä¸Š
 
-Position.Below.displayName=‰º
+Position.Below.displayName=ä¸‹
 
-Position.Left.displayName=¶
+Position.Left.displayName=å·¦
 
-Position.Right.displayName=‰E
+Position.Right.displayName=å³
 
-Position.Inside.displayName=“à‘¤
+Position.Inside.displayName=å†…å´
 
-Position.Outside.displayName=ŠO‘¤
+Position.Outside.displayName=å¤–å´
 
-UnitsOfMeasurement.Pixels.displayName=ƒsƒNƒZƒ‹
+UnitsOfMeasurement.Pixels.displayName=ãƒ”ã‚¯ã‚»ãƒ«
 
-UnitsOfMeasurement.Points.displayName=ƒ|ƒCƒ“ƒg
+UnitsOfMeasurement.Points.displayName=ãƒã‚¤ãƒ³ãƒˆ
 
-UnitsOfMeasurement.Inches.displayName=ƒCƒ“ƒ`
+UnitsOfMeasurement.Inches.displayName=ã‚¤ãƒ³ãƒ
 
-UnitsOfMeasurement.Centimeters.displayName=ƒZƒ“ƒ`ƒ[ƒgƒ‹
+UnitsOfMeasurement.Centimeters.displayName=ã‚»ãƒ³ãƒãƒ¡ãƒ¼ãƒˆãƒ«
 
-DataType.Numeric.displayName=”’l
+DataType.Numeric.displayName=æ•°å€¤
 
 DataType.DateTime.displayName=DateTime
-DataType.Text.displayName=ƒeƒLƒXƒg
+DataType.Text.displayName=ãƒ†ã‚­ã‚¹ãƒˆ
 
-GroupingUnitType.Seconds.displayName=•b
+GroupingUnitType.Seconds.displayName=ç§’
 
-GroupingUnitType.Minutes.displayName=•ª
+GroupingUnitType.Minutes.displayName=åˆ†
 
-GroupingUnitType.Hours.displayName=ŠÔ
+GroupingUnitType.Hours.displayName=æ™‚é–“
 
-GroupingUnitType.Days.displayName=“ú
+GroupingUnitType.Days.displayName=æ—¥
 
-GroupingUnitType.Weeks.displayName=T
+GroupingUnitType.Weeks.displayName=é€±
 
-GroupingUnitType.Months.displayName=Œ
+GroupingUnitType.Months.displayName=æœˆ
 
-GroupingUnitType.Years.displayName=”N
+GroupingUnitType.Years.displayName=å¹´
 
-GroupingUnitType.Quarters.displayName=l”¼Šú
+GroupingUnitType.Quarters.displayName=å››åŠæœŸ
 
-GroupingUnitType.String.displayName=•¶š—ñ
+GroupingUnitType.String.displayName=æ–‡å­—åˆ—
 
-GroupingUnitType.StringPrefix.displayName=“ª•¶š
+GroupingUnitType.StringPrefix.displayName=é ­æ–‡å­—
 
-DateFormatType.Long.displayName=Long Œ^
+DateFormatType.Long.displayName=Long å‹
 
-DateFormatType.Short.displayName=Short Œ^
+DateFormatType.Short.displayName=Short å‹
 
-DateFormatType.Medium.displayName=Medium Œ^
+DateFormatType.Medium.displayName=Medium å‹
 
-DateFormatType.Full.displayName=Full Œ^
+DateFormatType.Full.displayName=Full å‹
 
-DateFormatDetail.Date.displayName=“ú•t
+DateFormatDetail.Date.displayName=æ—¥ä»˜
 
-DateFormatDetail.DateTime.displayName=“ú
+DateFormatDetail.DateTime.displayName=æ—¥æ™‚
 
 ChartUtil.Text.Day='D'
 ChartUtil.Text.Week='W'
-DefaultValueProvider_BaseSeries=Šî–{Œn—ñ
+DefaultValueProvider_BaseSeries=åŸºæœ¬ç³»åˆ—
 
-DefaultValueProvider_ChartSubType.Standard=•W€
+DefaultValueProvider_ChartSubType.Standard=æ¨™æº–
 
-DefaultValueProvider_ChartSubType.StandardMeterChart=•W€ƒ[ƒ^[ƒOƒ‰ƒt
+DefaultValueProvider_ChartSubType.StandardMeterChart=æ¨™æº–ãƒ¡ãƒ¼ã‚¿ãƒ¼ã‚°ãƒ©ãƒ•
 
-DefaultValueProvider_ChartTitle=ƒOƒ‰ƒt‚Ìƒ^ƒCƒgƒ‹
+DefaultValueProvider_ChartTitle=ã‚°ãƒ©ãƒ•ã®ã‚¿ã‚¤ãƒˆãƒ«
 
-DefaultValueProvider_ChartUnits.Points=ƒ|ƒCƒ“ƒg
+DefaultValueProvider_ChartUnits.Points=ãƒã‚¤ãƒ³ãƒˆ
 
-LegendBehaviorType.None.displayName=‚È‚µ
+LegendBehaviorType.None.displayName=ãªã—
 
-LegendBehaviorType.ToggleSerieVisibility.displayName=Œn—ñ‚Ì•\¦‚Æ”ñ•\¦‚ğØ‚è‘Ö‚¦‚é
+LegendBehaviorType.ToggleSerieVisibility.displayName=ç³»åˆ—ã®è¡¨ç¤ºã¨éè¡¨ç¤ºã‚’åˆ‡ã‚Šæ›¿ãˆã‚‹
 
-LegendBehaviorType.HighlightSerie.displayName=Œn—ñ‚ğ‹­’²•\¦‚·‚é
+LegendBehaviorType.HighlightSerie.displayName=ç³»åˆ—ã‚’å¼·èª¿è¡¨ç¤ºã™ã‚‹
 
 # Defines cursor display names.
-Cursor.Auto.displayName=©“®
+Cursor.Auto.displayName=è‡ªå‹•
 
-Cursor.Crosshair.displayName=\šü
+Cursor.Crosshair.displayName=åå­—ç·š
 
-Cursor.Default.displayName=ƒfƒtƒHƒ‹ƒg
+Cursor.Default.displayName=ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ
 
-Cursor.Pointer.displayName=è“®
+Cursor.Pointer.displayName=æ‰‹å‹•
 
-Cursor.Move.displayName=ˆÚ“®
+Cursor.Move.displayName=ç§»å‹•
 
-Cursor.Text.displayName=ƒeƒLƒXƒg
+Cursor.Text.displayName=ãƒ†ã‚­ã‚¹ãƒˆ
 
-Cursor.Wait.displayName=‘Ò‚¿ó‘Ô
+Cursor.Wait.displayName=å¾…ã¡çŠ¶æ…‹
 
-Cursor.EResize.displayName=“Œ
+Cursor.EResize.displayName=æ±
 
-Cursor.NEResize.displayName=–k“Œ
+Cursor.NEResize.displayName=åŒ—æ±
 
-Cursor.NWResize.displayName=–k¼
+Cursor.NWResize.displayName=åŒ—è¥¿
 
-Cursor.NResize.displayName=–k
+Cursor.NResize.displayName=åŒ—
 
-Cursor.SEResize.displayName=“ì“Œ
+Cursor.SEResize.displayName=å—æ±
 
-Cursor.SWResize.displayName=“ì¼
+Cursor.SWResize.displayName=å—è¥¿
 
-Cursor.SResize.displayName=“ì
+Cursor.SResize.displayName=å—
 
-Cursor.WResize.displayName=¼
+Cursor.WResize.displayName=è¥¿
 
-Cursor.Custom.displayName=ƒJƒXƒ^ƒ€
+Cursor.Custom.displayName=ã‚«ã‚¹ã‚¿ãƒ 
 
-ActionType.URLRedirect.DisplayName=URL ‚ğ“]‘—‚·‚é
+ActionType.URLRedirect.DisplayName=URL ã‚’è»¢é€ã™ã‚‹
 
-ActionType.InvokeScript.DisplayName=ƒXƒNƒŠƒvƒg‚ğ‹N“®‚·‚é
+ActionType.InvokeScript.DisplayName=ã‚¹ã‚¯ãƒªãƒ—ãƒˆã‚’èµ·å‹•ã™ã‚‹
 
-ActionType.Highlight.DisplayName=‹­’²•\¦‚·‚é
+ActionType.Highlight.DisplayName=å¼·èª¿è¡¨ç¤ºã™ã‚‹
 
-ActionType.ToggleVisibility.DisplayName=•\¦‚Æ”ñ•\¦‚ğØ‚è‘Ö‚¦‚é
+ActionType.ToggleVisibility.DisplayName=è¡¨ç¤ºã¨éè¡¨ç¤ºã‚’åˆ‡ã‚Šæ›¿ãˆã‚‹
 
-ActionType.ToggleDataPointVisibility.DisplayName=ƒf[ƒ^ƒ|ƒCƒ“ƒg‚Ì•\¦‚Æ”ñ•\¦‚ğØ‚è‘Ö‚¦‚é
+ActionType.ToggleDataPointVisibility.DisplayName=ãƒ‡ãƒ¼ã‚¿ãƒã‚¤ãƒ³ãƒˆã®è¡¨ç¤ºã¨éè¡¨ç¤ºã‚’åˆ‡ã‚Šæ›¿ãˆã‚‹
 
 # End of Attributes
 ##################################################
-dataprocessor.log.baseSeriesDefn3=ƒJƒeƒSƒŠŒn—ñ‚Ì’è‹` ({0}) ‚ªÃ“I‚È®‚Æ‚µ‚Äg—p‚³‚ê‚Ü‚·B
+dataprocessor.log.baseSeriesDefn3=ã‚«ãƒ†ã‚´ãƒªç³»åˆ—ã®å®šç¾© ({0}) ãŒé™çš„ãªå¼ã¨ã—ã¦ä½¿ç”¨ã•ã‚Œã¾ã™ã€‚
 
-dataprocessor.exception.CannotDecipher=•¡”‚ÌƒJƒeƒSƒŠŒn—ñ‚Ì’è‹`‚ğŠÜ‚ŞƒOƒ‰ƒt‚ÌƒRƒ“ƒeƒ“ƒc‚Í‰ğß‚Å‚«‚Ü‚¹‚ñB
+dataprocessor.exception.CannotDecipher=è¤‡æ•°ã®ã‚«ãƒ†ã‚´ãƒªç³»åˆ—ã®å®šç¾©ã‚’å«ã‚€ã‚°ãƒ©ãƒ•ã®ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã¯è§£é‡ˆã§ãã¾ã›ã‚“ã€‚
 
-dataprocessor.exception.FoundDefnAssociatedWithX=ƒJƒeƒSƒŠ (X) Œn—ñ‚Ì®‚ÉŠÖ˜A•t‚¯‚ç‚ê‚½ {0} ŒÂ‚Ìƒf[ƒ^’è‹`‚ªŒ©‚Â‚©‚è‚Ü‚µ‚½BƒJƒeƒSƒŠŒn—ñ‚Ìƒf[ƒ^‚Ì’è‹`‚ÍA1 ‚Â‚µ‚©ƒTƒ|[ƒg‚³‚ê‚Ü‚¹‚ñB
+dataprocessor.exception.FoundDefnAssociatedWithX=ã‚«ãƒ†ã‚´ãƒª (X) ç³»åˆ—ã®å¼ã«é–¢é€£ä»˜ã‘ã‚‰ã‚ŒãŸ {0} å€‹ã®ãƒ‡ãƒ¼ã‚¿å®šç¾©ãŒè¦‹ã¤ã‹ã‚Šã¾ã—ãŸã€‚ã‚«ãƒ†ã‚´ãƒªç³»åˆ—ã®ãƒ‡ãƒ¼ã‚¿ã®å®šç¾©ã¯ã€1 ã¤ã—ã‹ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¾ã›ã‚“ã€‚
 
-dataprocessor.exception.DefinitionUnspecified=ƒJƒeƒSƒŠŒn—ñ‚Ìƒf[ƒ^‚Ì’è‹`‚ªw’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+dataprocessor.exception.DefinitionUnspecified=ã‚«ãƒ†ã‚´ãƒªç³»åˆ—ã®ãƒ‡ãƒ¼ã‚¿ã®å®šç¾©ãŒæŒ‡å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-dataprocessor.exception.DefnExpMustAssociateY=ƒf[ƒ^’è‹`‚Ì®‚ÍA’l (Y) Œn—ñ‚ÉŠÖ˜A•t‚¯‚ç‚ê‚Ä‚¢‚é•K—v‚ª‚ ‚è‚Ü‚· ({1} ‚Å’è‹`‚³‚ê‚½ {0})B
+dataprocessor.exception.DefnExpMustAssociateY=ãƒ‡ãƒ¼ã‚¿å®šç¾©ã®å¼ã¯ã€å€¤ (Y) ç³»åˆ—ã«é–¢é€£ä»˜ã‘ã‚‰ã‚Œã¦ã„ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ ({1} ã§å®šç¾©ã•ã‚ŒãŸ {0})ã€‚
 
-dataprocessor.exception.AtLeastOneDefnExpMustAssociateY=­‚È‚­‚Æ‚à 1 ‚Â‚Ìƒf[ƒ^’è‹`‚Ì®‚ª’l (Y) Œn—ñ‚ÉŠÖ˜A•t‚¯‚ç‚ê‚Ä‚¢‚é•K—v‚ª‚ ‚è‚Ü‚· ({1} ‚Å’è‹`‚³‚ê‚½ {0})B
+dataprocessor.exception.AtLeastOneDefnExpMustAssociateY=å°‘ãªãã¨ã‚‚ 1 ã¤ã®ãƒ‡ãƒ¼ã‚¿å®šç¾©ã®å¼ãŒå€¤ (Y) ç³»åˆ—ã«é–¢é€£ä»˜ã‘ã‚‰ã‚Œã¦ã„ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ ({1} ã§å®šç¾©ã•ã‚ŒãŸ {0})ã€‚
 
-dataprocessor.exception.CannotDecipher2=•¡”‚ÌƒJƒeƒSƒŠŒn—ñ‚Ì’è‹`‚ğŠÜ‚ŞƒOƒ‰ƒt‚ÌƒRƒ“ƒeƒ“ƒc‚Í‰ğß‚Å‚«‚Ü‚¹‚ñB
+dataprocessor.exception.CannotDecipher2=è¤‡æ•°ã®ã‚«ãƒ†ã‚´ãƒªç³»åˆ—ã®å®šç¾©ã‚’å«ã‚€ã‚°ãƒ©ãƒ•ã®ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã¯è§£é‡ˆã§ãã¾ã›ã‚“ã€‚
 
-dataprocessor.log.XSeriesDefn=X Œn—ñ‚Ì’è‹` ({0}) ‚ªÃ“I‚È®‚Æ‚µ‚Äg—p‚³‚ê‚Ü‚·B
+dataprocessor.log.XSeriesDefn=X ç³»åˆ—ã®å®šç¾© ({0}) ãŒé™çš„ãªå¼ã¨ã—ã¦ä½¿ç”¨ã•ã‚Œã¾ã™ã€‚
 
-dataprocessor.exception.FoundMoreThanOneDefnAssociateX=X Œn—ñ‚Ì®‚ÉŠÖ˜A•t‚¯‚ç‚ê‚½ {0} ŒÂ‚Ìƒf[ƒ^‚Ì’è‹`‚ªŒ©‚Â‚©‚è‚Ü‚µ‚½BX Œn—ñ‚Ìƒf[ƒ^‚Ì’è‹`‚ÍA1 ‚Â‚µ‚©ƒTƒ|[ƒg‚³‚ê‚Ü‚¹‚ñB
+dataprocessor.exception.FoundMoreThanOneDefnAssociateX=X ç³»åˆ—ã®å¼ã«é–¢é€£ä»˜ã‘ã‚‰ã‚ŒãŸ {0} å€‹ã®ãƒ‡ãƒ¼ã‚¿ã®å®šç¾©ãŒè¦‹ã¤ã‹ã‚Šã¾ã—ãŸã€‚X ç³»åˆ—ã®ãƒ‡ãƒ¼ã‚¿ã®å®šç¾©ã¯ã€1 ã¤ã—ã‹ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¾ã›ã‚“ã€‚
 
-edataprocessor.xception.definitionsAssociatedWithX=X Œn—ñ‚Ìƒf[ƒ^‚Ì’è‹`‚ªw’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+edataprocessor.xception.definitionsAssociatedWithX=X ç³»åˆ—ã®ãƒ‡ãƒ¼ã‚¿ã®å®šç¾©ãŒæŒ‡å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-dataprocessor.log.baseSeriesDefnBeStatic=ƒJƒeƒSƒŠŒn—ñ‚Ì’è‹` ({0}) ‚ªÃ“I‚È®‚Æ‚µ‚Äg—p‚³‚ê‚Ü‚·B
+dataprocessor.log.baseSeriesDefnBeStatic=ã‚«ãƒ†ã‚´ãƒªç³»åˆ—ã®å®šç¾© ({0}) ãŒé™çš„ãªå¼ã¨ã—ã¦ä½¿ç”¨ã•ã‚Œã¾ã™ã€‚
 
-exception.data.max.row.count={0} sˆÈã‚Ìƒf[ƒ^‚ğƒoƒCƒ“ƒh‚·‚éƒOƒ‰ƒt‚ÍƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚Ü‚¹‚ñB
+exception.data.max.row.count={0} è¡Œä»¥ä¸Šã®ãƒ‡ãƒ¼ã‚¿ã‚’ãƒã‚¤ãƒ³ãƒ‰ã™ã‚‹ã‚°ãƒ©ãƒ•ã¯ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚
 
 
 # Default chart title
-BarChart.Title=–_ƒOƒ‰ƒt‚Ìƒ^ƒCƒgƒ‹
+BarChart.Title=æ£’ã‚°ãƒ©ãƒ•ã®ã‚¿ã‚¤ãƒˆãƒ«
 
-LineChart.Title=üƒOƒ‰ƒt‚Ìƒ^ƒCƒgƒ‹
+LineChart.Title=ç·šã‚°ãƒ©ãƒ•ã®ã‚¿ã‚¤ãƒˆãƒ«
 
-AreaChart.Title=–ÊÏƒOƒ‰ƒt‚Ìƒ^ƒCƒgƒ‹
+AreaChart.Title=é¢ç©ã‚°ãƒ©ãƒ•ã®ã‚¿ã‚¤ãƒˆãƒ«
 
-PieChart.Title=ƒpƒCƒOƒ‰ƒt‚Ìƒ^ƒCƒgƒ‹
+PieChart.Title=ãƒ‘ã‚¤ã‚°ãƒ©ãƒ•ã®ã‚¿ã‚¤ãƒˆãƒ«
 
-MeterChart.Title=ƒ[ƒ^[ƒOƒ‰ƒt‚Ìƒ^ƒCƒgƒ‹
+MeterChart.Title=ãƒ¡ãƒ¼ã‚¿ãƒ¼ã‚°ãƒ©ãƒ•ã®ã‚¿ã‚¤ãƒˆãƒ«
 
-ScatterChart.Title=•ª•zƒOƒ‰ƒt‚Ìƒ^ƒCƒgƒ‹
+ScatterChart.Title=åˆ†å¸ƒã‚°ãƒ©ãƒ•ã®ã‚¿ã‚¤ãƒˆãƒ«
 
-StockChart.Title=Š”‰¿ƒOƒ‰ƒt‚Ìƒ^ƒCƒgƒ‹
+StockChart.Title=æ ªä¾¡ã‚°ãƒ©ãƒ•ã®ã‚¿ã‚¤ãƒˆãƒ«
 
-BubbleChart.Title=ƒoƒuƒ‹ƒ`ƒƒ[ƒg‚Ìƒ^ƒCƒgƒ‹
+BubbleChart.Title=ãƒãƒ–ãƒ«ãƒãƒ£ãƒ¼ãƒˆã®ã‚¿ã‚¤ãƒˆãƒ«
 
-DifferenceChart.Title=·•ªƒ`ƒƒ[ƒg‚Ìƒ^ƒCƒgƒ‹
+DifferenceChart.Title=å·®åˆ†ãƒãƒ£ãƒ¼ãƒˆã®ã‚¿ã‚¤ãƒˆãƒ«
 
-GanttChart.Title=ƒKƒ“ƒgƒ`ƒƒ[ƒg‚Ìƒ^ƒCƒgƒ‹
+GanttChart.Title=ã‚¬ãƒ³ãƒˆãƒãƒ£ãƒ¼ãƒˆã®ã‚¿ã‚¤ãƒˆãƒ«
 
-TubeChart.Title=‰~“›ƒOƒ‰ƒt‚Ìƒ^ƒCƒgƒ‹
+TubeChart.Title=å††ç­’ã‚°ãƒ©ãƒ•ã®ã‚¿ã‚¤ãƒˆãƒ«
 
-PyramidChart.Title=ƒsƒ‰ƒ~ƒbƒhƒOƒ‰ƒt‚Ìƒ^ƒCƒgƒ‹
+PyramidChart.Title=ãƒ”ãƒ©ãƒŸãƒƒãƒ‰ã‚°ãƒ©ãƒ•ã®ã‚¿ã‚¤ãƒˆãƒ«
 
-ConeChart.Title=‰~ƒOƒ‰ƒt‚Ìƒ^ƒCƒgƒ‹
+ConeChart.Title=å††éŒã‚°ãƒ©ãƒ•ã®ã‚¿ã‚¤ãƒˆãƒ«
 
-RadarChart.Title=ƒŒ[ƒ_[ƒ`ƒƒ[ƒg‚Ìƒ^ƒCƒgƒ‹
+RadarChart.Title=ãƒ¬ãƒ¼ãƒ€ãƒ¼ãƒãƒ£ãƒ¼ãƒˆã®ã‚¿ã‚¤ãƒˆãƒ«
 
-ColumnChart.Title=c–_ƒOƒ‰ƒt‚Ìƒ^ƒCƒgƒ‹
+ColumnChart.Title=ç¸¦æ£’ã‚°ãƒ©ãƒ•ã®ã‚¿ã‚¤ãƒˆãƒ«
 
-DoughnutChart.Title=ƒh[ƒiƒcƒOƒ‰ƒt‚Ìƒ^ƒCƒgƒ‹
+DoughnutChart.Title=ãƒ‰ãƒ¼ãƒŠãƒ„ã‚°ãƒ©ãƒ•ã®ã‚¿ã‚¤ãƒˆãƒ«

@@ -18,16 +18,16 @@ parent.category.id=org.eclipse.datatools.connectivity.db.category
 # NLS strings
 #
 plugin.name=JDBC Database Connection Data Source ODA Designer
-newwizard.name=Äõ¸® ºô´õ¿¡ ´ëÇÑ JDBC µ¥ÀÌÅÍº£ÀÌ½º ¿¬°á
+newwizard.name=ì¿¼ë¦¬ ë¹Œë”ì— ëŒ€í•œ JDBC ë°ì´í„°ë² ì´ìŠ¤ ì—°ê²°
 
-newwizard.description=JDBC µ¥ÀÌÅÍº£ÀÌ½º ¿¬°á ÇÁ·ÎÇÊ »ı¼º
+newwizard.description=JDBC ë°ì´í„°ë² ì´ìŠ¤ ì—°ê²° í”„ë¡œí•„ ìƒì„±
 
-wizard.window.title=Äõ¸® ºô´õ¿¡ ´ëÇÑ »õ JDBC µ¥ÀÌÅÍº£ÀÌ½º ¿¬°á
+wizard.window.title=ì¿¼ë¦¬ ë¹Œë”ì— ëŒ€í•œ ìƒˆ JDBC ë°ì´í„°ë² ì´ìŠ¤ ì—°ê²°
 
-wizard.data.source.page.title=Äõ¸® ºô´õ¿¡ ´ëÇÑ JDBC µ¥ÀÌÅÍº£ÀÌ½º ¿¬°á
+wizard.data.source.page.title=ì¿¼ë¦¬ ë¹Œë”ì— ëŒ€í•œ JDBC ë°ì´í„°ë² ì´ìŠ¤ ì—°ê²°
 
-profile.propertypage.name=JDBC µå¶óÀÌ¹ö ¹× ¿¬°á »ó¼¼ Á¤º¸
+profile.propertypage.name=JDBC ë“œë¼ì´ë²„ ë° ì—°ê²° ìƒì„¸ ì •ë³´
 
-wizard.data.set.window.title=»õ SQL Select Äõ¸®[Äõ¸® ºô´õ]
+wizard.data.set.window.title=ìƒˆ SQL Select ì¿¼ë¦¬[ì¿¼ë¦¬ ë¹Œë”]
 
-wizard.data.set.page.title=SQL Select Äõ¸®
+wizard.data.set.page.title=SQL Select ì¿¼ë¦¬

@@ -1,29 +1,29 @@
-Series=ÏµÁĞ
+Series=ç³»åˆ—
 
-ValueYSeries=Öµ (Y) ÏµÁĞ
+ValueYSeries=å€¼ (Y) ç³»åˆ—
 
-CategorySeries=Àà±ğÏµÁĞ
+CategorySeries=ç±»åˆ«ç³»åˆ—
 
-ValueSeries=ÖµÏµÁĞ
+ValueSeries=å€¼ç³»åˆ—
 
-Needle=Ö¸Õë
+Needle=æŒ‡é’ˆ
 
-ChartArea=Í¼±íÇøÓò
+ChartArea=å›¾è¡¨åŒºåŸŸ
 
-Axis=×ø±êÖá
+Axis=åæ ‡è½´
 
-XAxis=X Öá
+XAxis=X è½´
 
-YAxis=Y Öá
+YAxis=Y è½´
 
-ZAxis=Z Öá
+ZAxis=Z è½´
 
-Plot=Í¼ĞÎ
+Plot=å›¾å½¢
 
-Legend=Í¼Àı
+Legend=å›¾ä¾‹
 
-Title=±êÌâ
+Title=æ ‡é¢˜
 
-preference.chart.fieldassist=×Ö¶Î¸¨Öú
+preference.chart.fieldassist=å­—æ®µè¾…åŠ©
 
-preference.chart.fieldassist.contentassist=ÄÚÈİ¸¨Öú
+preference.chart.fieldassist.contentassist=å†…å®¹è¾…åŠ©

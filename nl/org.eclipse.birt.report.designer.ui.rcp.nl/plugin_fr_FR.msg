@@ -21,24 +21,24 @@ CHEAT_SHEETS=Feuilles de fraude
 
 CHEAT_SHEETS_MENU=&Feuilles de fraude...
 
-ReportEditor=Editeur d'état
+ReportEditor=Editeur d'Ã©tat
 
-ReportDocumentEditor=Editeur d'état
+ReportDocumentEditor=Editeur d'Ã©tat
 
-LibraryEditor=Editeur de bibliothèque
+LibraryEditor=Editeur de bibliothÃ¨que
 
-TemplateEditor=Editeur de modèles
+TemplateEditor=Editeur de modÃ¨les
 
 
 WizardCategoryName=Business Intelligence and Reporting Tools
 ReportWizard=Etat
 
-ReportWizardDescription=Cet assistant crée un nouvel état BIRT à partir d'un modèle prédéfini.
+ReportWizardDescription=Cet assistant crÃ©e un nouvel Ã©tat BIRT Ã  partir d'un modÃ¨le prÃ©dÃ©fini.
 
-TemplateWizard=Modèle
+TemplateWizard=ModÃ¨le
 
-TemplateWizardDescription=Cet assistant crée un nouveau modèle BIRT.
+TemplateWizardDescription=Cet assistant crÃ©e un nouveau modÃ¨le BIRT.
 
-LibraryWizard=Bibliothèque
+LibraryWizard=BibliothÃ¨que
 
-LibraryWizardDescription=Cet assistant crée une nouvelle bibliothèque d'états BIRT.
+LibraryWizardDescription=Cet assistant crÃ©e une nouvelle bibliothÃ¨que d'Ã©tats BIRT.

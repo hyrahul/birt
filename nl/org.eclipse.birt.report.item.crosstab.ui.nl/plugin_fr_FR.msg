@@ -8,18 +8,18 @@
 # Contributors:
 #  Actuate Corporation  - initial API and implementation
 ###############################################################################
-preference.crosstabPage=Tableau croisé
+preference.crosstabPage=Tableau croisÃ©
 
-crosstab.menu=Tableau cr&oisé
+crosstab.menu=Tableau cr&oisÃ©
 
-Crosstab.desc=Insérez un tableau croisé pour afficher des données agrégées sous forme de lignes et de colonnes.
+Crosstab.desc=InsÃ©rez un tableau croisÃ© pour afficher des donnÃ©es agrÃ©gÃ©es sous forme de lignes et de colonnes.
 
-newcube.menu=Nouveau &cube de données
+newcube.menu=Nouveau &cube de donnÃ©es
 
-paletteEntry.label.crosstab= Tableau croisé
+paletteEntry.label.crosstab= Tableau croisÃ©
 
-command.name.createCrosstab= Créer un tableau croisé
+command.name.createCrosstab= CrÃ©er un tableau croisÃ©
 
-command.name.createCube= Créer un cube
+command.name.createCube= CrÃ©er un cube
 
 command.mnemonic.c=C

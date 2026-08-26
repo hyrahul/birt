@@ -25,7 +25,7 @@ OptionDisplayValue.HideGridlines=Rasterlinien ausblenden
 
 ###########################################################
 #Option Description
-OptionDescription.WrappingText=Gibt an, ob der Text Zeilenumbrüche enthält.
+OptionDescription.WrappingText=Gibt an, ob der Text ZeilenumbrÃ¼che enthÃ¤lt.
 
 OptionDescription.ChartDpi=DPI zum Erstellen von Diagrammen.
 

@@ -11,8 +11,8 @@
 #  
 #************************************************************************
 #
-connection_nullProfile=Impossible de trouver le profil de connexion référencé par les propriétés de la connexion à la source de données.
+connection_nullProfile=Impossible de trouver le profil de connexion rÃ©fÃ©rencÃ© par les propriÃ©tÃ©s de la connexion Ã  la source de donnÃ©es.
 
-connection_openFailed=Impossible d'ouvrir une connexion avec le profil de connexion de la base de données.
+connection_openFailed=Impossible d'ouvrir une connexion avec le profil de connexion de la base de donnÃ©es.
 
-dBProfileStatement_nullPropertyNameArg=L'argument du nom de propriété spécifié dans {0} est nul.
+dBProfileStatement_nullPropertyNameArg=L'argument du nom de propriÃ©tÃ© spÃ©cifiÃ© dans {0} est nul.

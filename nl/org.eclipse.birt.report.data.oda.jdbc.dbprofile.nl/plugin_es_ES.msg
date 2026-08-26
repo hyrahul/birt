@@ -18,15 +18,15 @@ oda.data.source.id=org.eclipse.birt.report.data.oda.jdbc.dbprofile
 ###############################################################################
 #
 plugin.name=JDBC Database Connection Data Source ODA Runtime Driver
-data.source.name=Conexión de base de datos JDBC para compilador de consultas
+data.source.name=ConexiÃ³n de base de datos JDBC para compilador de consultas
 
-data.set.name=Consulta de selección de SQL [Prototipo de compilador de consultas]
+data.set.name=Consulta de selecciÃ³n de SQL [Prototipo de compilador de consultas]
 
 connection.profile.name=BIRT JDBC Database Connection Profile
 dataset.property.parameterMetaData=BIRT JDBC Parameter MetaData
 datasource.property.username=&Nombre de usuario
 
-datasource.property.password=Cont&raseña
+datasource.property.password=Cont&raseÃ±a
 
 datasource.property.jdbcURL=UR&L del controlador JDBC
 

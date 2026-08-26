@@ -1,49 +1,49 @@
-RadarSeriesImpl.displayName=ƒŒ[ƒ_[Œn—ñ
+RadarSeriesImpl.displayName=ãƒ¬ãƒ¼ãƒ€ãƒ¼ç³»åˆ—
 
-RadarChart.Txt.DefaultRadarChartTitle=ƒŒ[ƒ_[ƒ`ƒƒ[ƒg‚Ìƒ^ƒCƒgƒ‹
-RadarChart.Txt.DisplayName=ƒŒ[ƒ_[
-RadarChart.SubType.Standard=•W€ƒŒ[ƒ_[ƒ`ƒƒ[ƒg
-RadarChart.SubType.Spider=ƒXƒpƒCƒ_[ƒŒ[ƒ_[ƒ`ƒƒ[ƒg
-RadarChart.SubType.Bullseye=ƒuƒ‹ƒYƒAƒCƒŒ[ƒ_[ƒ`ƒƒ[ƒg
+RadarChart.Txt.DefaultRadarChartTitle=ãƒ¬ãƒ¼ãƒ€ãƒ¼ãƒãƒ£ãƒ¼ãƒˆã®ã‚¿ã‚¤ãƒˆãƒ«
+RadarChart.Txt.DisplayName=ãƒ¬ãƒ¼ãƒ€ãƒ¼
+RadarChart.SubType.Standard=æ¨™æº–ãƒ¬ãƒ¼ãƒ€ãƒ¼ãƒãƒ£ãƒ¼ãƒˆ
+RadarChart.SubType.Spider=ã‚¹ãƒ‘ã‚¤ãƒ€ãƒ¼ãƒ¬ãƒ¼ãƒ€ãƒ¼ãƒãƒ£ãƒ¼ãƒˆ
+RadarChart.SubType.Bullseye=ãƒ–ãƒ«ã‚ºã‚¢ã‚¤ãƒ¬ãƒ¼ãƒ€ãƒ¼ãƒãƒ£ãƒ¼ãƒˆ
 
-RadarChart.Tooltip.InputExpression=Še€–Ú‚Ì–}—á‚Æ‚µ‚Ä•\¦‚³‚ê‚Ä‚¢‚é®‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢B
-RadarChart.Txt.HelpText=ƒŒ[ƒ_[ƒ`ƒƒ[ƒgBƒf[ƒ^‚Ì‘ª’è’l‚ğ¦‚µ‚Ü‚·B ‘ª’è’l‚Ì”ÍˆÍ‚É‰‚¶‚Ä—Ìˆæ‚ğF•ª‚¯‚µ‚Ü‚·B ƒŒ[ƒ_[ã‚Ìƒ_ƒCƒAƒ‹‚ğw‚·j‚É‚æ‚Á‚Ä’l‚ª¦‚³‚ê‚Ü‚·B
-RadarChart.Txt.Description=•W€ƒŒ[ƒ_[ƒ`ƒƒ[ƒgB‰~Œ`‚ÌƒOƒŠƒbƒhã‚É‘½ŠpŒ`‚Æü‚ğd‚Ë‡‚í‚¹‚Ä•\¦‚µ‚Ü‚·B
-RadarChart.Txt.SpiderDescription=ƒXƒpƒCƒ_[ƒŒ[ƒ_[ƒ`ƒƒ[ƒgB‘½ŠpŒ`‚ÌƒOƒŠƒbƒhã‚É‘½ŠpŒ`‚Æü‚ğd‚Ë‡‚í‚¹‚Ä•\¦‚µ‚Ü‚·B
-RadarChart.Txt.BullseyeDescription=ƒuƒ‹ƒYƒAƒCƒŒ[ƒ_[ƒ`ƒƒ[ƒgB‰~Œ`‚Ì“h‚è‚Â‚Ô‚³‚ê‚½ƒOƒŠƒbƒhã‚É‘½ŠpŒ`‚Æü‚ğd‚Ë‡‚í‚¹‚Ä•\¦‚µ‚Ü‚·B
+RadarChart.Tooltip.InputExpression=å„é …ç›®ã®å‡¡ä¾‹ã¨ã—ã¦è¡¨ç¤ºã•ã‚Œã¦ã„ã‚‹å¼ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„ã€‚
+RadarChart.Txt.HelpText=ãƒ¬ãƒ¼ãƒ€ãƒ¼ãƒãƒ£ãƒ¼ãƒˆã€‚ãƒ‡ãƒ¼ã‚¿ã®æ¸¬å®šå€¤ã‚’ç¤ºã—ã¾ã™ã€‚ æ¸¬å®šå€¤ã®ç¯„å›²ã«å¿œã˜ã¦é ˜åŸŸã‚’è‰²åˆ†ã‘ã—ã¾ã™ã€‚ ãƒ¬ãƒ¼ãƒ€ãƒ¼ä¸Šã®ãƒ€ã‚¤ã‚¢ãƒ«ã‚’æŒ‡ã™é‡ã«ã‚ˆã£ã¦å€¤ãŒç¤ºã•ã‚Œã¾ã™ã€‚
+RadarChart.Txt.Description=æ¨™æº–ãƒ¬ãƒ¼ãƒ€ãƒ¼ãƒãƒ£ãƒ¼ãƒˆã€‚å††å½¢ã®ã‚°ãƒªãƒƒãƒ‰ä¸Šã«å¤šè§’å½¢ã¨ç·šã‚’é‡ã­åˆã‚ã›ã¦è¡¨ç¤ºã—ã¾ã™ã€‚
+RadarChart.Txt.SpiderDescription=ã‚¹ãƒ‘ã‚¤ãƒ€ãƒ¼ãƒ¬ãƒ¼ãƒ€ãƒ¼ãƒãƒ£ãƒ¼ãƒˆã€‚å¤šè§’å½¢ã®ã‚°ãƒªãƒƒãƒ‰ä¸Šã«å¤šè§’å½¢ã¨ç·šã‚’é‡ã­åˆã‚ã›ã¦è¡¨ç¤ºã—ã¾ã™ã€‚
+RadarChart.Txt.BullseyeDescription=ãƒ–ãƒ«ã‚ºã‚¢ã‚¤ãƒ¬ãƒ¼ãƒ€ãƒ¼ãƒãƒ£ãƒ¼ãƒˆã€‚å††å½¢ã®å¡—ã‚Šã¤ã¶ã•ã‚ŒãŸã‚°ãƒªãƒƒãƒ‰ä¸Šã«å¤šè§’å½¢ã¨ç·šã‚’é‡ã­åˆã‚ã›ã¦è¡¨ç¤ºã—ã¾ã™ã€‚
 
-RadarSeriesAttributeComposite.Lbl.Radius=”¼Œa(&U) :
-RadarSeriesAttributeComposite.Lbl.StartAngle=n“_‚ÌŠp“x(&G) :
-RadarSeriesAttributeComposite.Lbl.StopAngle=I’[‚ÌŠp“x(&E) :
-RadarSeriesAttributeSheetImpl.Lbl.Type=Œ^ :
-RadarSeriesAttributeSheetImpl.Lbl.Fill=“h‚è‚Â‚Ô‚µ :
-RadarSeriesAttributeComposite.Lbl.DialTicks=–Ú·‚ğ•t‚¯‚é(&T)
-RadarSeriesAttributeComposite.Lbl.DialScale=ƒXƒP[ƒ‹(&C)
-RadarBaseSeriesComponent.Label.CategoryDefinition=ƒJƒeƒSƒŠ‚Ì’è‹`(&C) :
-RadarSeriesAttributeComposite.Lbl.ShowWeb=Web / ƒŒ[ƒ_[ƒ‰ƒxƒ‹‚ğ•\¦(&W)
+RadarSeriesAttributeComposite.Lbl.Radius=åŠå¾„(&U) :
+RadarSeriesAttributeComposite.Lbl.StartAngle=å§‹ç‚¹ã®è§’åº¦(&G) :
+RadarSeriesAttributeComposite.Lbl.StopAngle=çµ‚ç«¯ã®è§’åº¦(&E) :
+RadarSeriesAttributeSheetImpl.Lbl.Type=å‹ :
+RadarSeriesAttributeSheetImpl.Lbl.Fill=å¡—ã‚Šã¤ã¶ã— :
+RadarSeriesAttributeComposite.Lbl.DialTicks=ç›®ç››ã‚’ä»˜ã‘ã‚‹(&T)
+RadarSeriesAttributeComposite.Lbl.DialScale=ã‚¹ã‚±ãƒ¼ãƒ«(&C)
+RadarBaseSeriesComponent.Label.CategoryDefinition=ã‚«ãƒ†ã‚´ãƒªã®å®šç¾©(&C) :
+RadarSeriesAttributeComposite.Lbl.ShowWeb=Web / ãƒ¬ãƒ¼ãƒ€ãƒ¼ãƒ©ãƒ™ãƒ«ã‚’è¡¨ç¤º(&W)
 
-Radar=•W€ƒŒ[ƒ_ƒOƒ‰ƒtB‰~Œ`‚ÌƒOƒŠƒbƒhã‚É‘½ŠpŒ`‚Æü‚ğd‚Ë‡‚í‚¹‚Ä•\¦‚µ‚Ü‚·B
-SampleChartName.Radar=ƒŒ[ƒ_
-
-
-RadarSeriesAttributeComposite.Exception.IllegalArgument={0} Œ^‚ÌŒn—ñ‚ÍARadarSeriesAttributeComposite ‚Ìˆø”‚Æ‚µ‚Ä‚Íg—p‚Å‚«‚Ü‚¹‚ñB
-RadarSeriesAttributeComposite.Lbl.LinePalette=Œn—ñƒpƒŒƒbƒg‚ğü‚ÌF‚Æ‚µ‚Äg—p‚·‚é(&P)
-RadarSeriesAttributeComposite.Lbl.FillPoly=‘½ŠpŒ`‚Ì“h‚è‚Â‚Ô‚µ(&G)
-RadarSeriesAttributeComposite.Lbl.ConnectPoints=ƒf[ƒ^ƒZƒbƒgƒGƒ“ƒhƒ|ƒCƒ“ƒg‚ÌÚ‘±i‘½ŠpŒ`j(&C)
-
-RadarSeriesAttributeComposite.Lbl.ShowLinesAsCurves=ü‚ğ‹Èü‚Å•\¦(&H)
-
-RadarSeriesMarkerSheet.Label.Markers=ƒ}[ƒJ(&M)
-RadarSeriesMarkerSheet.GroupLabel.Markers=ƒ}[ƒJ
-
-RadarSeriesMarkerSheet.Label.Web=ƒOƒ‰ƒt‚Ìü‚Ìİ’è
-RadarSeriesMarkerSheet.Label.Series=Œn—ñ‚Ìü‚Ìİ’è
-
-Radar.Composite.Label.ScaleCount=ƒOƒ‰ƒt‚Ì–Ú·(&N)
-Radar.Composite.Label.ScaleCountToolTip=ƒOƒ‰ƒt‚Åg—p‚·‚é–Ú·‚ğİ’è
-Radar.Composite.Label.bullsEye=ƒuƒ‹ƒYƒAƒC‚ÌF‚ğ”¼“§–¾‚Éİ’è
+Radar=æ¨™æº–ãƒ¬ãƒ¼ãƒ€ã‚°ãƒ©ãƒ•ã€‚å††å½¢ã®ã‚°ãƒªãƒƒãƒ‰ä¸Šã«å¤šè§’å½¢ã¨ç·šã‚’é‡ã­åˆã‚ã›ã¦è¡¨ç¤ºã—ã¾ã™ã€‚
+SampleChartName.Radar=ãƒ¬ãƒ¼ãƒ€
 
 
+RadarSeriesAttributeComposite.Exception.IllegalArgument={0} å‹ã®ç³»åˆ—ã¯ã€RadarSeriesAttributeComposite ã®å¼•æ•°ã¨ã—ã¦ã¯ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
+RadarSeriesAttributeComposite.Lbl.LinePalette=ç³»åˆ—ãƒ‘ãƒ¬ãƒƒãƒˆã‚’ç·šã®è‰²ã¨ã—ã¦ä½¿ç”¨ã™ã‚‹(&P)
+RadarSeriesAttributeComposite.Lbl.FillPoly=å¤šè§’å½¢ã®å¡—ã‚Šã¤ã¶ã—(&G)
+RadarSeriesAttributeComposite.Lbl.ConnectPoints=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã‚¨ãƒ³ãƒ‰ãƒã‚¤ãƒ³ãƒˆã®æ¥ç¶šï¼ˆå¤šè§’å½¢ï¼‰(&C)
+
+RadarSeriesAttributeComposite.Lbl.ShowLinesAsCurves=ç·šã‚’æ›²ç·šã§è¡¨ç¤º(&H)
+
+RadarSeriesMarkerSheet.Label.Markers=ãƒãƒ¼ã‚«(&M)
+RadarSeriesMarkerSheet.GroupLabel.Markers=ãƒãƒ¼ã‚«
+
+RadarSeriesMarkerSheet.Label.Web=ã‚°ãƒ©ãƒ•ã®ç·šã®è¨­å®š
+RadarSeriesMarkerSheet.Label.Series=ç³»åˆ—ã®ç·šã®è¨­å®š
+
+Radar.Composite.Label.ScaleCount=ã‚°ãƒ©ãƒ•ã®ç›®ç››(&N)
+Radar.Composite.Label.ScaleCountToolTip=ã‚°ãƒ©ãƒ•ã§ä½¿ç”¨ã™ã‚‹ç›®ç››ã‚’è¨­å®š
+Radar.Composite.Label.bullsEye=ãƒ–ãƒ«ã‚ºã‚¢ã‚¤ã®è‰²ã‚’åŠé€æ˜ã«è¨­å®š
 
 
-Radar.Composite.Label.PlotPercentageToolTip=ƒŒ[ƒ_[ƒ`ƒƒ[ƒg‚Åg—p‚·‚éƒvƒƒbƒg—Ìˆæ‚ÌŠ„‡
+
+
+Radar.Composite.Label.PlotPercentageToolTip=ãƒ¬ãƒ¼ãƒ€ãƒ¼ãƒãƒ£ãƒ¼ãƒˆã§ä½¿ç”¨ã™ã‚‹ãƒ—ãƒ­ãƒƒãƒˆé ˜åŸŸã®å‰²åˆ

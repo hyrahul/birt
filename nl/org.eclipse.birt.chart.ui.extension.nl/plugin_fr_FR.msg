@@ -1,10 +1,10 @@
-Series=Série
+Series=SÃ©rie
 
-ValueYSeries=Série verticale de valeurs
+ValueYSeries=SÃ©rie verticale de valeurs
 
-CategorySeries=Série de catégories
+CategorySeries=SÃ©rie de catÃ©gories
 
-ValueSeries=Série de valeurs
+ValueSeries=SÃ©rie de valeurs
 
 Needle=Aiguille
 
@@ -18,9 +18,9 @@ YAxis=Axe vertical
 
 ZAxis=Axe de profondeur
 
-Plot=Tracé
+Plot=TracÃ©
 
-Legend=Légende
+Legend=LÃ©gende
 
 Title=Titre
 

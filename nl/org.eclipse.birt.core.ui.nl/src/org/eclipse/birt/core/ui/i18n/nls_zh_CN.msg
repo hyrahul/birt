@@ -1,53 +1,53 @@
-TasksManager.Exception.RegisterTask=ÈÎÎñÎª¿Õ»òÈÎÎñ ID {0} ÒÑ´æÔÚ\!
+TasksManager.Exception.RegisterTask=ä»»åŠ¡ä¸ºç©ºæˆ–ä»»åŠ¡ ID {0} å·²å­˜åœ¨\!
 
-TasksManager.Exception.DeregisterTask=Ã»ÓÐÒÑ×¢²á ID {0} µÄÈÎÎñ\!
+TasksManager.Exception.DeregisterTask=æ²¡æœ‰å·²æ³¨å†Œ ID {0} çš„ä»»åŠ¡\!
 
-TasksManager.Excepion.RegisterWizard=Ïòµ¼ ID Îª¿Õ\!
+TasksManager.Excepion.RegisterWizard=å‘å¯¼ ID ä¸ºç©º\!
 
-WizardBase.Excepion.RegisterWizard=ÈÎÎñ ID {0} Î´×¢²á\!
+WizardBase.Excepion.RegisterWizard=ä»»åŠ¡ ID {0} æœªæ³¨å†Œ\!
 
-WizardBase.error.ErrorsEncountered=Óöµ½´íÎó
+WizardBase.error.ErrorsEncountered=é‡åˆ°é”™è¯¯
 
-WizardBase.Next=ÏÂÒ»²½ >
+WizardBase.Next=ä¸‹ä¸€æ­¥ >
 
-WizardBase.Back=< ÉÏÒ»²½
+WizardBase.Back=< ä¸Šä¸€æ­¥
 
-WizardBase.Finish=Íê³É(&F)
+WizardBase.Finish=å®Œæˆ(&F)
 
-WizardBase.Cancel=È¡Ïû
+WizardBase.Cancel=å–æ¶ˆ
 
-WizardBase.error.FollowingErrorsReportedByTask=Äú¸Õ²ÅÀë¿ªµÄÈÎÎñÃæ°å±¨¸æÏÂÁÐ´íÎó
+WizardBase.error.FollowingErrorsReportedByTask=æ‚¨åˆšæ‰ç¦»å¼€çš„ä»»åŠ¡é¢æ¿æŠ¥å‘Šä¸‹åˆ—é”™è¯¯
 
-WizardBase.error.FollowingErrorEncountered=Óöµ½ÏÂÁÐ´íÎó
+WizardBase.error.FollowingErrorEncountered=é‡åˆ°ä¸‹åˆ—é”™è¯¯
 
-WizardBase.error.FollowingErrorsReportedWhileVerifying=ÑéÖ¤Í¼±í¶¨ÒåÊ±±¨¸æÏÂÁÐ´íÎó
+WizardBase.error.FollowingErrorsReportedWhileVerifying=éªŒè¯å›¾è¡¨å®šä¹‰æ—¶æŠ¥å‘Šä¸‹åˆ—é”™è¯¯
 
-ErrorDialog.text.ErrorList=´íÎóÁÐ±í:
+ErrorDialog.text.ErrorList=é”™è¯¯åˆ—è¡¨:
 
-ErrorDialog.text.ShowDetails=ÏÔÊ¾ÏêÏ¸ÐÅÏ¢(&S)...
+ErrorDialog.text.ShowDetails=æ˜¾ç¤ºè¯¦ç»†ä¿¡æ¯(&S)...
 
-ErrorDialog.text.SuggestedFixes=½¨ÒéµÄÐÞ¸´·½·¨:
+ErrorDialog.text.SuggestedFixes=å»ºè®®çš„ä¿®å¤æ–¹æ³•:
 
-ErrorDialog.text.FixIt=\ \ \ ÐÞ¸´(&F)
+ErrorDialog.text.FixIt=\ \ \ ä¿®å¤(&F)
 
-ErrorDialog.text.ProceedWithoutFixing=¼ÌÐø¶ø²»ÐÞ¸´(&P)
+ErrorDialog.text.ProceedWithoutFixing=ç»§ç»­è€Œä¸ä¿®å¤(&P)
 
-ErrorDialog.text.Exception=Òì³£:
+ErrorDialog.text.Exception=å¼‚å¸¸:
 
-ErrorDialog.text.ShowTrace=ÏÔÊ¾¸ú×Ù...
+ErrorDialog.text.ShowTrace=æ˜¾ç¤ºè·Ÿè¸ª...
 
-ErrorDialog.text.StackTrace=¶ÑÕ»¸ú×Ù:
+ErrorDialog.text.StackTrace=å †æ ˆè·Ÿè¸ª:
 
-ErrorDialog.text.Ok=\ \ \ \ \ È·¶¨
+ErrorDialog.text.Ok=\ \ \ \ \ ç¡®å®š
 
-ErrorDialog.text.CausedBy=\n\nÔ­Òò:
+ErrorDialog.text.CausedBy=\n\nåŽŸå› :
 
-SubtaskHistory.Tooltip.Back=ºóÍËµ½ {0}
+SubtaskHistory.Tooltip.Back=åŽé€€åˆ° {0}
 
-SubtaskHistory.Text.Back=ºóÍË
+SubtaskHistory.Text.Back=åŽé€€
 
-SubtaskHistory.Tooltip.Forward=Ç°½øµ½ {0}
+SubtaskHistory.Tooltip.Forward=å‰è¿›åˆ° {0}
 
-SubtaskHistory.Text.Forward=Ç°½ø
+SubtaskHistory.Text.Forward=å‰è¿›
 
-SubtaskHistory.Text.Invalid=\#ÎÞÐ§
+SubtaskHistory.Text.Invalid=\#æ— æ•ˆ

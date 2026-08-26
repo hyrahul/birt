@@ -13,6 +13,6 @@
 #
 connection_nullProfile=Das in den Datenquellen-Verbindungseigenschaften angegebene Verbindungsprofil konnte nicht gefunden werden.
 
-connection_openFailed=Öffnen einer Verbindung mit dem Datenbankverbindungsprofil nicht möglich.
+connection_openFailed=Ã–ffnen einer Verbindung mit dem Datenbankverbindungsprofil nicht mÃ¶glich.
 
-dBProfileStatement_nullPropertyNameArg=Null-Argument für Eigenschaftsname in {0} angegeben.
+dBProfileStatement_nullPropertyNameArg=Null-Argument fÃ¼r Eigenschaftsname in {0} angegeben.

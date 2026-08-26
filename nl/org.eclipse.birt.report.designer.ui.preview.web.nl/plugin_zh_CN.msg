@@ -1,37 +1,37 @@
 ###############################################################################
 # Preview Framework
 ###############################################################################
-designer.preview.previewtoolbarmenuaction.label=²é¿´±¨±í
+designer.preview.previewtoolbarmenuaction.label=æŸ¥çœ‹æŠ¥è¡¨
 
-designer.preview.previewcascadingmenugroup.label=²é¿´±¨±í(&R)
+designer.preview.previewcascadingmenugroup.label=æŸ¥çœ‹æŠ¥è¡¨(&R)
 
-document.preview.previewtoolbarmenuaction.label=²é¿´ÎÄµµ
+document.preview.previewtoolbarmenuaction.label=æŸ¥çœ‹æ–‡æ¡£
 
-document.preview.previewmenugroup.label=²é¿´ÎÄµµ(&D)
+document.preview.previewmenugroup.label=æŸ¥çœ‹æ–‡æ¡£(&D)
 
-ActionSet.Preview=Ô¤ÀÀ
+ActionSet.Preview=é¢„è§ˆ
 
-ActionSet.PreviewWithSecurity=Ô¤ÀÀÎÄµµ
+ActionSet.PreviewWithSecurity=é¢„è§ˆæ–‡æ¡£
 
-Action.GenDocument=Éú³ÉÎÄµµ(&D)
+Action.GenDocument=ç”Ÿæˆæ–‡æ¡£(&D)
 
-template.preview=Ô¤ÀÀ(&V)
+template.preview=é¢„è§ˆ(&V)
 
-design.preview=Ô¤ÀÀ(&V)
+design.preview=é¢„è§ˆ(&V)
 
-preference.preview=Ô¤ÀÀ
+preference.preview=é¢„è§ˆ
 
-preference.preview.server=Ô¤ÀÀ·şÎñÆ÷
+preference.preview.server=é¢„è§ˆæœåŠ¡å™¨
 
-preference.preview.data=Êı¾İ
+preference.preview.data=æ•°æ®
 
-menu.run=ÔËĞĞ(&R)
+menu.run=è¿è¡Œ(&R)
 
 ###############################################################################
 # Actions
 ###############################################################################
-Menu.Report=±¨±í(&T)
+Menu.Report=æŠ¥è¡¨(&T)
 
-Action.RunReport=ÔËĞĞ±¨±í(&R)
+Action.RunReport=è¿è¡ŒæŠ¥è¡¨(&R)
 
-Action.ViewDocument=²é¿´ÎÄµµ(&V)
+Action.ViewDocument=æŸ¥çœ‹æ–‡æ¡£(&V)

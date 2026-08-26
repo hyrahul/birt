@@ -9,42 +9,42 @@
 # Actuate Corporation - initial API and implementation
 ###############################################################################
 #
-MetaData.ProductName=POJO ODA ƒhƒ‰ƒCƒo
+MetaData.ProductName=POJO ODA ãƒ‰ãƒ©ã‚¤ãƒ
 
-Query.Closed=ƒNƒGƒŠ‚Í•Â‚¶‚Ä‚¢‚Ü‚·B
+Query.Closed=ã‚¯ã‚¨ãƒªã¯é–‰ã˜ã¦ã„ã¾ã™ã€‚
 
-Query.NoQueryText=ƒNƒGƒŠƒeƒLƒXƒg‚ª‚ ‚è‚Ü‚¹‚ñB
+Query.NoQueryText=ã‚¯ã‚¨ãƒªãƒ†ã‚­ã‚¹ãƒˆãŒã‚ã‚Šã¾ã›ã‚“ã€‚
 
-Query.FailedToParse=POJO ƒNƒGƒŠ‚ğ‰ğÍ‚Å‚«‚Ü‚¹‚ñ: [{0}]
+Query.FailedToParse=POJO ã‚¯ã‚¨ãƒªã‚’è§£æã§ãã¾ã›ã‚“: [{0}]
 
-Query.MissAttributeInElement=‘®« "{0}" ‚ÍA"{1}" —v‘f‚Å‹ó‚©AŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+Query.MissAttributeInElement=å±æ€§ "{0}" ã¯ã€"{1}" è¦ç´ ã§ç©ºã‹ã€è¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-Query.Miss2Elements="{0}" ‚Ü‚½‚Í "{1}" ‚Ì‰ºˆÊ—v‘f‚ª "{2}" —v‘f‚É‘¶İ‚µ‚Ü‚¹‚ñB
+Query.Miss2Elements="{0}" ã¾ãŸã¯ "{1}" ã®ä¸‹ä½è¦ç´ ãŒ "{2}" è¦ç´ ã«å­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-Driver.UnkownDataTypeCode=ƒf[ƒ^Œ^ƒR[ƒh‚ª•s–¾‚Å‚·: {0}
+Driver.UnkownDataTypeCode=ãƒ‡ãƒ¼ã‚¿å‹ã‚³ãƒ¼ãƒ‰ãŒä¸æ˜ã§ã™: {0}
 
-Driver.UnkownDataTypeName=ƒf[ƒ^Œ^–¼‚ª•s–¾‚Å‚·: {0}
+Driver.UnkownDataTypeName=ãƒ‡ãƒ¼ã‚¿å‹åãŒä¸æ˜ã§ã™: {0}
 
-ResultSet.InvalidAppContextValue=AppContext ‚ÌŒ^ "{0}" ‚Ì’l‚Í "{1}" ‚Å‚·B”z—ñA”½•œqA‚Ü‚½‚ÍƒRƒŒƒNƒVƒ‡ƒ“‚Å‚Í‚ ‚è‚Ü‚¹‚ñB
+ResultSet.InvalidAppContextValue=AppContext ã®å‹ "{0}" ã®å€¤ã¯ "{1}" ã§ã™ã€‚é…åˆ—ã€åå¾©å­ã€ã¾ãŸã¯ã‚³ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚
 
-ResultSet.MissDataSetClassName=POJO ƒf[ƒ^ƒZƒbƒg‚ÌƒNƒ‰ƒX–¼‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+ResultSet.MissDataSetClassName=POJO ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®ã‚¯ãƒ©ã‚¹åãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-PojoDataSetFromCustomerClass.WrongReturnTypeForNextMethod="next()" ƒƒ\ƒbƒh‚Ì–ß‚è’l‚ÌŒ^‚ª–³Œø‚©A‚Ü‚½‚ÍƒvƒŠƒ~ƒeƒBƒu‚Å‚·B
+PojoDataSetFromCustomerClass.WrongReturnTypeForNextMethod="next()" ãƒ¡ã‚½ãƒƒãƒ‰ã®æˆ»ã‚Šå€¤ã®å‹ãŒç„¡åŠ¹ã‹ã€ã¾ãŸã¯ãƒ—ãƒªãƒŸãƒ†ã‚£ãƒ–ã§ã™ã€‚
 
-ReferenceGraph.DuplicateColumnName=—ñ–¼‚ªd•¡‚µ‚Ä‚¢‚Ü‚·: {0}
+ReferenceGraph.DuplicateColumnName=åˆ—åãŒé‡è¤‡ã—ã¦ã„ã¾ã™: {0}
 
-ReferenceGraph.DuplicateColumnIndex=—ñƒCƒ“ƒfƒbƒNƒX‚ªd•¡‚µ‚Ä‚¢‚Ü‚·: {0}
+ReferenceGraph.DuplicateColumnIndex=åˆ—ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ãŒé‡è¤‡ã—ã¦ã„ã¾ã™: {0}
 
-ReferenceGraph.InexistentColumnName=—ñ–¼‚ª‘¶İ‚µ‚Ü‚¹‚ñ: {0}
+ReferenceGraph.InexistentColumnName=åˆ—åãŒå­˜åœ¨ã—ã¾ã›ã‚“: {0}
 
-ResultSetFromPojoInstance.Invalid1ToNMaps=ˆê•û‚Ìƒ}ƒbƒv‚©‚ç‚à‚¤ˆê•û‚Ìƒ}ƒbƒv‚ª“]‘—‚³‚ê‚Ä‚¢‚È‚¢•¡”ƒ}ƒbƒv‚ª 2 ‚Â‘¶İ‚µ‚Ü‚·B
+ResultSetFromPojoInstance.Invalid1ToNMaps=ä¸€æ–¹ã®ãƒãƒƒãƒ—ã‹ã‚‰ã‚‚ã†ä¸€æ–¹ã®ãƒãƒƒãƒ—ãŒè»¢é€ã•ã‚Œã¦ã„ãªã„è¤‡æ•°ãƒãƒƒãƒ—ãŒ 2 ã¤å­˜åœ¨ã—ã¾ã™ã€‚
 
-QueryParameters.OneMethodParameterWith2Types=ƒƒ\ƒbƒhƒpƒ‰ƒƒ^ "{0}" ‚ÉŸ‚Ì 2 ‚Â‚ÌŒ^‚Íg—p‚Å‚«‚Ü‚¹‚ñ: "{1}"A"{2}"
+QueryParameters.OneMethodParameterWith2Types=ãƒ¡ã‚½ãƒƒãƒ‰ãƒ‘ãƒ©ãƒ¡ã‚¿ "{0}" ã«æ¬¡ã® 2 ã¤ã®å‹ã¯ä½¿ç”¨ã§ãã¾ã›ã‚“: "{1}"ã€"{2}"
 
-QueryParameters.InexistentParameter=ƒpƒ‰ƒƒ^‚ª‘¶İ‚µ‚Ü‚¹‚ñ: "{0}"
+QueryParameters.InexistentParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ãŒå­˜åœ¨ã—ã¾ã›ã‚“: "{0}"
 
-MethodSource.MissingPrameterValue=ƒpƒ‰ƒƒ^ "{0}" ‚Ì’l‚ªİ’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+MethodSource.MissingPrameterValue=ãƒ‘ãƒ©ãƒ¡ã‚¿ "{0}" ã®å€¤ãŒè¨­å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-DataTypeUtil.FailToTransferType="{0}" ‚ğƒ^[ƒQƒbƒg‚ÌŒ^‚É“]‘—‚Å‚«‚Ü‚¹‚ñ: {1}
+DataTypeUtil.FailToTransferType="{0}" ã‚’ã‚¿ãƒ¼ã‚²ãƒƒãƒˆã®å‹ã«è»¢é€ã§ãã¾ã›ã‚“: {1}
 
-IllegalArgument.errorMessage=ƒƒ\ƒbƒh‚É’è‹`‚³‚ê‚½ˆø”‚ª³‚µ‚­‚ ‚è‚Ü‚¹‚ñ:
+IllegalArgument.errorMessage=ãƒ¡ã‚½ãƒƒãƒ‰ã«å®šç¾©ã•ã‚ŒãŸå¼•æ•°ãŒæ­£ã—ãã‚ã‚Šã¾ã›ã‚“:

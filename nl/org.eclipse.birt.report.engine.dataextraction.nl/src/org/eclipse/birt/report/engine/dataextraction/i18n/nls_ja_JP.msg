@@ -1,7 +1,7 @@
-exception.dataextraction.options.outputstream_required=OutputStream ‚ÌƒIƒvƒVƒ‡ƒ“‚Í•K{‚Ì‚½‚ßANULL ‚É‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+exception.dataextraction.options.outputstream_required=OutputStream ã®ã‚ªãƒ—ã‚·ãƒ§ãƒ³ã¯å¿…é ˆã®ãŸã‚ã€NULL ã«ã™ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-exception.dataextraction.missing_implementation=output() ƒƒ\ƒbƒh‚ÍAƒTƒuƒNƒ‰ƒX‚ÅÀ‘•‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B
+exception.dataextraction.missing_implementation=output() ãƒ¡ã‚½ãƒƒãƒ‰ã¯ã€ã‚µãƒ–ã‚¯ãƒ©ã‚¹ã§å®Ÿè£…ã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
-exception.dataextraction.exception_occured=ƒf[ƒ^‚Ì’Šo’†‚É—áŠO‚ª”­¶‚µ‚Ü‚µ‚½B
+exception.dataextraction.exception_occured=ãƒ‡ãƒ¼ã‚¿ã®æŠ½å‡ºä¸­ã«ä¾‹å¤–ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-exception.dataextraction.no_extraction_result_error=Àsƒ^ƒXƒN‚ÉŒ‹‰Ê‚ª‚ ‚è‚Ü‚¹‚ñB
+exception.dataextraction.no_extraction_result_error=å®Ÿè¡Œã‚¿ã‚¹ã‚¯ã«çµæœãŒã‚ã‚Šã¾ã›ã‚“ã€‚

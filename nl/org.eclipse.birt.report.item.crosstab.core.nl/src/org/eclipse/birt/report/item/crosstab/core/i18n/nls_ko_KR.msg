@@ -1,252 +1,252 @@
 ###########################################################
 # Crosstab name conventions
-Element.Crosstab=Å©·Î½º ÅÇ
+Element.Crosstab=í¬ë¡œìŠ¤ íƒ­
 
-Element.CrosstabCell=Å©·Î½º ÅÇ ¼¿
+Element.CrosstabCell=í¬ë¡œìŠ¤ íƒ­ ì…€
 
-Element.CrosstabAggregationCell=Å©·Î½º ÅÇ Áı°è ¼¿
+Element.CrosstabAggregationCell=í¬ë¡œìŠ¤ íƒ­ ì§‘ê³„ ì…€
 
-Element.AggregationOnRow=Çà¿¡¼­ Áı°è
+Element.AggregationOnRow=í–‰ì—ì„œ ì§‘ê³„
 
-Element.AggregationOnColumn=¿­¿¡¼­ Áı°è
+Element.AggregationOnColumn=ì—´ì—ì„œ ì§‘ê³„
 
-Element.AggregationHeaderLocation=Áı°è ¸Ó¸®±Û À§Ä¡
+Element.AggregationHeaderLocation=ì§‘ê³„ ë¨¸ë¦¬ê¸€ ìœ„ì¹˜
 
-Element.GrandTotalLocation=ÃÑÇÕ°è À§Ä¡
+Element.GrandTotalLocation=ì´í•©ê³„ ìœ„ì¹˜
 
-Element.MeasureView=ÃøÁ¤ º¸±â
+Element.MeasureView=ì¸¡ì • ë³´ê¸°
 
-Element.ComputedMeasureView=°è»êµÈ ÃøÁ¤°ª º¸±â
+Element.ComputedMeasureView=ê³„ì‚°ëœ ì¸¡ì •ê°’ ë³´ê¸°
 
-Element.PageBreakBefore=´Ü¶ô ¾Õ¿¡¼­ ÆäÀÌÁö ³ª´©±â
+Element.PageBreakBefore=ë‹¨ë½ ì•ì—ì„œ í˜ì´ì§€ ë‚˜ëˆ„ê¸°
 
-Element.PageBreakAfter=´Ü¶ô µÚ¿¡¼­ ÆäÀÌÁö ³ª´©±â
+Element.PageBreakAfter=ë‹¨ë½ ë’¤ì—ì„œ í˜ì´ì§€ ë‚˜ëˆ„ê¸°
 
-Element.PageBreakInside=»çÀÌ¿¡ ÆäÀÌÁö ³ª´©±â
+Element.PageBreakInside=ì‚¬ì´ì— í˜ì´ì§€ ë‚˜ëˆ„ê¸°
 
-Element.PageBreakInterval=ÆäÀÌÁö ³ª´©±â °£°İ
+Element.PageBreakInterval=í˜ì´ì§€ ë‚˜ëˆ„ê¸° ê°„ê²©
 
-Element.SortDirection=Á¤·Ä ¹æÇâ
+Element.SortDirection=ì •ë ¬ ë°©í–¥
 
-Element.SortType=Á¤·Ä Çü½Ä
+Element.SortType=ì •ë ¬ í˜•ì‹
 
-Element.LevelView=¼öÁØ º¸±â
+Element.LevelView=ìˆ˜ì¤€ ë³´ê¸°
 
-Element.DisplayField=ÇÊµå Ç¥½Ã
+Element.DisplayField=í•„ë“œ í‘œì‹œ
 
-Element.DimensionView=Â÷¿ø º¸±â
+Element.DimensionView=ì°¨ì› ë³´ê¸°
 
-Element.CrosstabView=Å©·Î½º ÅÇ º¸±â
+Element.CrosstabView=í¬ë¡œìŠ¤ íƒ­ ë³´ê¸°
 
 Element.Cube=Cube
-Element.Dimension=Â÷¿ø
+Element.Dimension=ì°¨ì›
 
-Element.Level=¼öÁØ
+Element.Level=ìˆ˜ì¤€
 
-Element.Measure=ÃøÁ¤
+Element.Measure=ì¸¡ì •
 
-Element.Caption=Ä¸¼Ç
+Element.Caption=ìº¡ì…˜
 
-Element.CaptionID=Ä¸¼Ç Å°
+Element.CaptionID=ìº¡ì…˜ í‚¤
 
-Element.Summary=¿ä¾à
+Element.Summary=ìš”ì•½
 
-Element.MeasureDirection=ÃøÁ¤°ª ¹æÇâ
+Element.MeasureDirection=ì¸¡ì •ê°’ ë°©í–¥
 
-Element.PageLayout=ÆäÀÌÁö ·¹ÀÌ¾Æ¿ô
+Element.PageLayout=í˜ì´ì§€ ë ˆì´ì•„ì›ƒ
 
-Element.EmptyCellValue=ºó ¼¿ °ª
+Element.EmptyCellValue=ë¹ˆ ì…€ ê°’
 
-Element.RepeatRowHeader=Çà ¸Ó¸®±Û ¹İº¹
+Element.RepeatRowHeader=í–‰ ë¨¸ë¦¬ê¸€ ë°˜ë³µ
 
-Element.RepeatColumnHeader=¿­ ¸Ó¸®±Û ¹İº¹
+Element.RepeatColumnHeader=ì—´ ë¨¸ë¦¬ê¸€ ë°˜ë³µ
 
-Element.Mirrored=¹Ì·¯¸µµÊ
+Element.Mirrored=ë¯¸ëŸ¬ë§ë¨
 
-Element.MirrorStartingLevel=¹Ì·¯ ½ÃÀÛ ¼öÁØ
+Element.MirrorStartingLevel=ë¯¸ëŸ¬ ì‹œì‘ ìˆ˜ì¤€
 
-Element.HideMeasureHeader=ÃøÁ¤°ª ¸Ó¸®±Û ¼û±â±â
+Element.HideMeasureHeader=ì¸¡ì •ê°’ ë¨¸ë¦¬ê¸€ ìˆ¨ê¸°ê¸°
 
-Element.SpanOverOnColumn=¿­¿¡¼­ ±æÀÌ Àç±â
+Element.SpanOverOnColumn=ì—´ì—ì„œ ê¸¸ì´ ì¬ê¸°
 
-Element.SpanOverOnRow=Çà¿¡¼­ ±æÀÌ Àç±â
+Element.SpanOverOnRow=í–‰ì—ì„œ ê¸¸ì´ ì¬ê¸°
 
-Element.Direction.Horizontal=°¡·Î
+Element.Direction.Horizontal=ê°€ë¡œ
 
-Element.Direction.Vertical=¼¼·Î
+Element.Direction.Vertical=ì„¸ë¡œ
 
-Element.choice.before=ÀÌÀü
+Element.choice.before=ì´ì „
 
-Element.choice.after=ÀÌÈÄ
+Element.choice.after=ì´í›„
 
-Element.RowPageBreakInterval=Çà ÆäÀÌÁö °£°İ ³ª´©±â
+Element.RowPageBreakInterval=í–‰ í˜ì´ì§€ ê°„ê²© ë‚˜ëˆ„ê¸°
 
-Element.ColumnPageBreakInterval=¿­ ÆäÀÌÁö °£°İ ³ª´©±â
+Element.ColumnPageBreakInterval=ì—´ í˜ì´ì§€ ê°„ê²© ë‚˜ëˆ„ê¸°
 
-Element.TagType=ÅÂ±× Çü½Ä
+Element.TagType=íƒœê·¸ í˜•ì‹
 
-Method.onPrepare=ÁØºñ ½Ã
+Method.onPrepare=ì¤€ë¹„ ì‹œ
 
-Method.onCreate=»ı¼º ½Ã
+Method.onCreate=ìƒì„± ì‹œ
 
-Method.onRender=·»´õ¸µ ½Ã
+Method.onRender=ë Œë”ë§ ì‹œ
 
-Method.onPageBreak=ÆäÀÌÁö ³ª´©±â
+Method.onPageBreak=í˜ì´ì§€ ë‚˜ëˆ„ê¸°
 
 ###########################################################
 # Crosstab exception
-Error.CrosstabException.DUPLICATE_DIMENSION=Å¥ºê Â÷¿ø ¿ä¼Ò''{0}''À»(¸¦) Áßº¹µÈ ÀÌ¸§ÀÇ Å©·Î½º ÅÇ¿¡ Àû¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.
+Error.CrosstabException.DUPLICATE_DIMENSION=íë¸Œ ì°¨ì› ìš”ì†Œ''{0}''ì„(ë¥¼) ì¤‘ë³µëœ ì´ë¦„ì˜ í¬ë¡œìŠ¤ íƒ­ì— ì ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-Error.CrosstabException.DUPLICATE_MEASURE=Å¥ºê ÃøÁ¤ ¿ä¼Ò ''{0}''À»(¸¦) Áßº¹µÈ ÀÌ¸§ÀÇ Å©·Î½º ÅÇ¿¡ Àû¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.
+Error.CrosstabException.DUPLICATE_MEASURE=íë¸Œ ì¸¡ì • ìš”ì†Œ ''{0}''ì„(ë¥¼) ì¤‘ë³µëœ ì´ë¦„ì˜ í¬ë¡œìŠ¤ íƒ­ì— ì ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-Error.CrosstabException.DUPLICATE_LEVEL=Å¥ºê ¼öÁØ ¿ä¼Ò ''{0}''À»(¸¦) Áßº¹µÈ ÀÌ¸§ÀÇ Å©·Î½º ÅÇ¿¡ Àû¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.
+Error.CrosstabException.DUPLICATE_LEVEL=íë¸Œ ìˆ˜ì¤€ ìš”ì†Œ ''{0}''ì„(ë¥¼) ì¤‘ë³µëœ ì´ë¦„ì˜ í¬ë¡œìŠ¤ íƒ­ì— ì ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-Error.CrosstabException.DIMENSION_NOT_FOUND=Å©·Î½º ÅÇ¿¡¼­ Â÷¿ø º¸±â ''{0}''À»(¸¦) Ã£À» ¼ö ¾ø½À´Ï´Ù.
+Error.CrosstabException.DIMENSION_NOT_FOUND=í¬ë¡œìŠ¤ íƒ­ì—ì„œ ì°¨ì› ë³´ê¸° ''{0}''ì„(ë¥¼) ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-Error.CrosstabException.MEASURE_NOT_FOUND=Å©·Î½º ÅÇ¿¡¼­ ÃøÁ¤ º¸±â ''{0}''À»(¸¦) Ã£À» ¼ö ¾ø½À´Ï´Ù.
+Error.CrosstabException.MEASURE_NOT_FOUND=í¬ë¡œìŠ¤ íƒ­ì—ì„œ ì¸¡ì • ë³´ê¸° ''{0}''ì„(ë¥¼) ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-Error.CrosstabException.LEVEL_NOT_FOUND=Å©·Î½º ÅÇ¿¡¼­ ¼öÁØ º¸±â ''{0}''À»(¸¦) Ã£À» ¼ö ¾ø½À´Ï´Ù.
+Error.CrosstabException.LEVEL_NOT_FOUND=í¬ë¡œìŠ¤ íƒ­ì—ì„œ ìˆ˜ì¤€ ë³´ê¸° ''{0}''ì„(ë¥¼) ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
 ###########################################################
 # Crosstab executor runtime error message
-CrosstabReportItemQuery.error.crosstab.loading=È®Àå Ç×¸ñÀ» Å©·Î½º ÅÇ Ç×¸ñ¿¡ ·ÎµåÇÏÁö ¸øÇß½À´Ï´Ù.
+CrosstabReportItemQuery.error.crosstab.loading=í™•ì¥ í•­ëª©ì„ í¬ë¡œìŠ¤ íƒ­ í•­ëª©ì— ë¡œë“œí•˜ì§€ ëª»í–ˆìŠµë‹ˆë‹¤.
 
-CrosstabReportItemQuery.error.query.building=Äõ¸® »ı¼º¿¡ ¸ÂÁö ¾Ê´Â Å©·Î½º ÅÇ ¸ğµ¨ÀÔ´Ï´Ù.
+CrosstabReportItemQuery.error.query.building=ì¿¼ë¦¬ ìƒì„±ì— ë§ì§€ ì•ŠëŠ” í¬ë¡œìŠ¤ íƒ­ ëª¨ë¸ì…ë‹ˆë‹¤.
 
-CrosstabReportItemQuery.error.register.empty.cell.value=ºó ¼¿ °ªÀ» µî·ÏÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabReportItemQuery.error.register.empty.cell.value=ë¹ˆ ì…€ ê°’ì„ ë“±ë¡í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabQueryHelper.error.invalid.measure=Å©·Î½º ÅÇ¿¡ ³Î(null) ÃøÁ¤ Á¤ÀÇ°¡ ÀÖ°Å³ª °ü·Ã Å¥ºê¿¡ Æ¯Á¤ ÃøÁ¤ "{0}"ÀÌ(°¡) ¾ø½À´Ï´Ù.
+CrosstabQueryHelper.error.invalid.measure=í¬ë¡œìŠ¤ íƒ­ì— ë„(null) ì¸¡ì • ì •ì˜ê°€ ìˆê±°ë‚˜ ê´€ë ¨ íë¸Œì— íŠ¹ì • ì¸¡ì • "{0}"ì´(ê°€) ì—†ìŠµë‹ˆë‹¤.
 
-CrosstabQueryHelper.error.invalid.dimension.row=Å©·Î½º ÅÇ Çà ¿µ¿ª¿¡ ³Î(null) Â÷¿ø Á¤ÀÇ°¡ ÀÖ°Å³ª °ü·Ã Å¥ºê¿¡ Æ¯Á¤ Â÷¿ø "{0}"ÀÌ(°¡) ¾ø½À´Ï´Ù.
+CrosstabQueryHelper.error.invalid.dimension.row=í¬ë¡œìŠ¤ íƒ­ í–‰ ì˜ì—­ì— ë„(null) ì°¨ì› ì •ì˜ê°€ ìˆê±°ë‚˜ ê´€ë ¨ íë¸Œì— íŠ¹ì • ì°¨ì› "{0}"ì´(ê°€) ì—†ìŠµë‹ˆë‹¤.
 
-CrosstabQueryHelper.error.invalid.level.row=Å©·Î½º ÅÇ Çà ¿µ¿ª¿¡ ³Î(null) ¼öÁØ Á¤ÀÇ°¡ ÀÖ°Å³ª °ü·Ã Å¥ºê¿¡ Æ¯Á¤ ¼öÁØ "{0}"ÀÌ(°¡) ¾ø½À´Ï´Ù.
+CrosstabQueryHelper.error.invalid.level.row=í¬ë¡œìŠ¤ íƒ­ í–‰ ì˜ì—­ì— ë„(null) ìˆ˜ì¤€ ì •ì˜ê°€ ìˆê±°ë‚˜ ê´€ë ¨ íë¸Œì— íŠ¹ì • ìˆ˜ì¤€ "{0}"ì´(ê°€) ì—†ìŠµë‹ˆë‹¤.
 
-CrosstabQueryHelper.error.invalid.dimension.column=Å©·Î½º ÅÇ ¿­ ¿µ¿ª¿¡ ³Î(null) Â÷¿ø Á¤ÀÇ°¡ ÀÖ°Å³ª °ü·Ã Å¥ºê¿¡ Æ¯Á¤ Â÷¿ø "{0}"ÀÌ(°¡) ¾ø½À´Ï´Ù.
+CrosstabQueryHelper.error.invalid.dimension.column=í¬ë¡œìŠ¤ íƒ­ ì—´ ì˜ì—­ì— ë„(null) ì°¨ì› ì •ì˜ê°€ ìˆê±°ë‚˜ ê´€ë ¨ íë¸Œì— íŠ¹ì • ì°¨ì› "{0}"ì´(ê°€) ì—†ìŠµë‹ˆë‹¤.
 
-CrosstabQueryHelper.error.invalid.level.column=Å©·Î½º ÅÇ ¿­ ¿µ¿ª¿¡ ³Î(null) ¼öÁØ Á¤ÀÇ°¡ ÀÖ°Å³ª °ü·Ã Å¥ºê¿¡ Æ¯Á¤ ¼öÁØ "{0}"ÀÌ(°¡) ¾ø½À´Ï´Ù.
+CrosstabQueryHelper.error.invalid.level.column=í¬ë¡œìŠ¤ íƒ­ ì—´ ì˜ì—­ì— ë„(null) ìˆ˜ì¤€ ì •ì˜ê°€ ìˆê±°ë‚˜ ê´€ë ¨ íë¸Œì— íŠ¹ì • ìˆ˜ì¤€ "{0}"ì´(ê°€) ì—†ìŠµë‹ˆë‹¤.
 
-BaseCrosstabExecutor.error.process.visibility=Ç¥½Ã À¯ÇüÀ» Ã³¸®ÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+BaseCrosstabExecutor.error.process.visibility=í‘œì‹œ ìœ í˜•ì„ ì²˜ë¦¬í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-BaseCrosstabExecutor.error.process.bookmark=¸Ó¸®±ÛÀ» Ã³¸®ÇÏ´Â µ¿¾È ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+BaseCrosstabExecutor.error.process.bookmark=ë¨¸ë¦¬ê¸€ì„ ì²˜ë¦¬í•˜ëŠ” ë™ì•ˆ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-BaseCrosstabExecutor.error.process.headers=¸Ó¸®±ÛÀ» Ã³¸®ÇÏ´Â µ¿¾È ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+BaseCrosstabExecutor.error.process.headers=ë¨¸ë¦¬ê¸€ì„ ì²˜ë¦¬í•˜ëŠ” ë™ì•ˆ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-BaseCrosstabExecutor.error.process.row.height=Çà ³ôÀÌ¸¦ Ã³¸®ÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+BaseCrosstabExecutor.error.process.row.height=í–‰ ë†’ì´ë¥¼ ì²˜ë¦¬í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabCellExecutor.error.restor.data.position=µ¥ÀÌÅÍ À§Ä¡¸¦ º¹¿øÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabCellExecutor.error.restor.data.position=ë°ì´í„° ìœ„ì¹˜ë¥¼ ë³µì›í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabGrandTotalRowExecutor.error.generate.child.executor=ÇÏÀ§ ½ÇÇà±â¸¦ »ı¼ºÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabGrandTotalRowExecutor.error.generate.child.executor=í•˜ìœ„ ì‹¤í–‰ê¸°ë¥¼ ìƒì„±í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabGrandTotalRowExecutor.error.check.child.executor=ÇÏÀ§ ½ÇÇà±âÀÇ »óÅÂ¸¦ È®ÀÎÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabGrandTotalRowExecutor.error.check.child.executor=í•˜ìœ„ ì‹¤í–‰ê¸°ì˜ ìƒíƒœë¥¼ í™•ì¸í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabHeaderExecutor.error.reset.row.position=Çà °¡ÀåÀÚ¸® Ä¿¼­ À§Ä¡¸¦ Àç¼³Á¤ÇÏ´Â Áß ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabHeaderExecutor.error.reset.row.position=í–‰ ê°€ì¥ìë¦¬ ì»¤ì„œ ìœ„ì¹˜ë¥¼ ì¬ì„¤ì •í•˜ëŠ” ì¤‘ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabGroupExecutor.error.close.executor=±×·ì ½ÇÇà±â¸¦ Á¾·áÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabGroupExecutor.error.close.executor=ê·¸ë£¹ ì‹¤í–‰ê¸°ë¥¼ ì¢…ë£Œí•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabGroupExecutor.error.prepare.group=ÇÏÀ§ ½ÇÇà±â¸¦ ÁØºñÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabGroupExecutor.error.prepare.group=í•˜ìœ„ ì‹¤í–‰ê¸°ë¥¼ ì¤€ë¹„í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabGroupExecutor.error.check.child.executor=ÇÏÀ§ ½ÇÇà±âÀÇ »óÅÂ¸¦ È®ÀÎÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabGroupExecutor.error.check.child.executor=í•˜ìœ„ ì‹¤í–‰ê¸°ì˜ ìƒíƒœë¥¼ í™•ì¸í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabHeaderRowExecutor.error.check.force.empty=ÇöÀç ¼¿ÀÇ °­Á¦ ºñ¿ò »óÅÂ¸¦ È®ÀÎÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabHeaderRowExecutor.error.check.force.empty=í˜„ì¬ ì…€ì˜ ê°•ì œ ë¹„ì›€ ìƒíƒœë¥¼ í™•ì¸í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabHeaderRowExecutor.error.check.edge.end=ÇöÀç ¼¿ÀÇ ¸ğ¼­¸® ³¡ »óÅÂ¸¦ È®ÀÎÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabHeaderRowExecutor.error.check.edge.end=í˜„ì¬ ì…€ì˜ ëª¨ì„œë¦¬ ë ìƒíƒœë¥¼ í™•ì¸í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabHeaderRowExecutor.error.retrieve.child.executor=ÇÏÀ§ ½ÇÇà±â¸¦ °Ë»öÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabHeaderRowExecutor.error.retrieve.child.executor=í•˜ìœ„ ì‹¤í–‰ê¸°ë¥¼ ê²€ìƒ‰í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabMeasureHeaderRowExecutor.error.generate.child.executor=ÇÏÀ§ ½ÇÇà±â¸¦ »ı¼ºÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabMeasureHeaderRowExecutor.error.generate.child.executor=í•˜ìœ„ ì‹¤í–‰ê¸°ë¥¼ ìƒì„±í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabMeasureHeaderRowExecutor.error.check.child.executor=ÇÏÀ§ ½ÇÇà±âÀÇ »óÅÂ¸¦ È®ÀÎÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabMeasureHeaderRowExecutor.error.check.child.executor=í•˜ìœ„ ì‹¤í–‰ê¸°ì˜ ìƒíƒœë¥¼ í™•ì¸í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabMeasureRowExecutor.error.generate.child.executor=ÇÏÀ§ ½ÇÇà±â¸¦ »ı¼ºÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabMeasureRowExecutor.error.generate.child.executor=í•˜ìœ„ ì‹¤í–‰ê¸°ë¥¼ ìƒì„±í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabMeasureRowExecutor.error.check.child.executor=ÇÏÀ§ ½ÇÇà±âÀÇ »óÅÂ¸¦ È®ÀÎÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabMeasureRowExecutor.error.check.child.executor=í•˜ìœ„ ì‹¤í–‰ê¸°ì˜ ìƒíƒœë¥¼ í™•ì¸í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabReportItemExecutor.error.crosstab.loading=È®Àå Ç×¸ñÀ» Å©·Î½º ÅÇ Ç×¸ñ¿¡ ·ÎµåÇÏÁö ¸øÇß½À´Ï´Ù.
+CrosstabReportItemExecutor.error.crosstab.loading=í™•ì¥ í•­ëª©ì„ í¬ë¡œìŠ¤ íƒ­ í•­ëª©ì— ë¡œë“œí•˜ì§€ ëª»í–ˆìŠµë‹ˆë‹¤.
 
-CrosstabReportItemExecutor.error.generate.columns=Å©·Î½º ÅÇÀÇ ¿­À» »ı¼ºÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabReportItemExecutor.error.generate.columns=í¬ë¡œìŠ¤ íƒ­ì˜ ì—´ì„ ìƒì„±í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabReportItemExecutor.error.prepare.children=Å©·Î½º ÅÇÀÇ ÇÏÀ§ ½ÇÇà±â¸¦ ÁØºñÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabReportItemExecutor.error.prepare.children=í¬ë¡œìŠ¤ íƒ­ì˜ í•˜ìœ„ ì‹¤í–‰ê¸°ë¥¼ ì¤€ë¹„í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabReportItemExecutor.error.invalid.cube.result=Å©·Î½º ÅÇÀÇ Å¥ºê °á°ú°¡ ¿Ã¹Ù¸£Áö ¾Ê½À´Ï´Ù(=³Î).
+CrosstabReportItemExecutor.error.invalid.cube.result=í¬ë¡œìŠ¤ íƒ­ì˜ íë¸Œ ê²°ê³¼ê°€ ì˜¬ë°”ë¥´ì§€ ì•ŠìŠµë‹ˆë‹¤(=ë„).
 
-CrosstabRowExecutor.error.check.force.empty=ÇöÀç ¼¿ÀÇ °­Á¦ ºñ¿ò »óÅÂ¸¦ È®ÀÎÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabRowExecutor.error.check.force.empty=í˜„ì¬ ì…€ì˜ ê°•ì œ ë¹„ì›€ ìƒíƒœë¥¼ í™•ì¸í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabRowExecutor.error.check.edge.start=ÇöÀç ¼¿ÀÇ ¸ğ¼­¸® ½ÃÀÛ »óÅÂ¸¦ È®ÀÎÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabRowExecutor.error.check.edge.start=í˜„ì¬ ì…€ì˜ ëª¨ì„œë¦¬ ì‹œì‘ ìƒíƒœë¥¼ í™•ì¸í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabRowExecutor.error.retrieve.child.executor=ÇÏÀ§ ½ÇÇà±â¸¦ °Ë»öÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabRowExecutor.error.retrieve.child.executor=í•˜ìœ„ ì‹¤í–‰ê¸°ë¥¼ ê²€ìƒ‰í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabSubTotalRowExecutor.error.check.edge.start=ÇöÀç ¼¿ÀÇ ¸ğ¼­¸® ½ÃÀÛ »óÅÂ¸¦ È®ÀÎÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabSubTotalRowExecutor.error.check.edge.start=í˜„ì¬ ì…€ì˜ ëª¨ì„œë¦¬ ì‹œì‘ ìƒíƒœë¥¼ í™•ì¸í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabSubTotalRowExecutor.error.retrieve.child.executor=ÇÏÀ§ ½ÇÇà±â¸¦ °Ë»öÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+CrosstabSubTotalRowExecutor.error.retrieve.child.executor=í•˜ìœ„ ì‹¤í–‰ê¸°ë¥¼ ê²€ìƒ‰í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-TableColumnGenerator.error.process.visibility=¿­ Ç¥½Ã À¯ÇüÀ» Ã³¸®ÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+TableColumnGenerator.error.process.visibility=ì—´ í‘œì‹œ ìœ í˜•ì„ ì²˜ë¦¬í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-TableColumnGenerator.error.process.column.width=¿­ ³Êºñ¸¦ Ã³¸®ÇÏ´Â Áß¿¡ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+TableColumnGenerator.error.process.column.width=ì—´ ë„ˆë¹„ë¥¼ ì²˜ë¦¬í•˜ëŠ” ì¤‘ì— ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-CrosstabReportItemHandle.error.locate.column.cell=°ü·Ã Å©·Î½º ÅÇ ¼¿À» ¿­¿¡¼­ Ã£´Â Áß ¿À·ù ¹ß»ı
+CrosstabReportItemHandle.error.locate.column.cell=ê´€ë ¨ í¬ë¡œìŠ¤ íƒ­ ì…€ì„ ì—´ì—ì„œ ì°¾ëŠ” ì¤‘ ì˜¤ë¥˜ ë°œìƒ
 
-CrosstabReportItemHandle.error.locate.row.cell=°ü·Ã Å©·Î½º ÅÇ ¼¿À» Çà¿¡¼­ Ã£´Â Áß ¿À·ù ¹ß»ı
+CrosstabReportItemHandle.error.locate.row.cell=ê´€ë ¨ í¬ë¡œìŠ¤ íƒ­ ì…€ì„ í–‰ì—ì„œ ì°¾ëŠ” ì¤‘ ì˜¤ë¥˜ ë°œìƒ
 
-CrosstabReportItemHandle.error.set.column.width=Å©·Î½º ÅÇ ¿­ ³Êºñ ¼³Á¤ Áß ¿À·ù ¹ß»ı
+CrosstabReportItemHandle.error.set.column.width=í¬ë¡œìŠ¤ íƒ­ ì—´ ë„ˆë¹„ ì„¤ì • ì¤‘ ì˜¤ë¥˜ ë°œìƒ
 
-CrosstabReportItemHandle.error.set.row.height=Å©·Î½º ÅÇ Çà ³ôÀÌ ¼³Á¤ Áß ¿À·ù ¹ß»ı
+CrosstabReportItemHandle.error.set.row.height=í¬ë¡œìŠ¤ íƒ­ í–‰ ë†’ì´ ì„¤ì • ì¤‘ ì˜¤ë¥˜ ë°œìƒ
 
-CrosstabReportItemHandle.msg.change.measure.direction=ÃøÁ¤°ª ¹æÇâ º¯°æ
+CrosstabReportItemHandle.msg.change.measure.direction=ì¸¡ì •ê°’ ë°©í–¥ ë³€ê²½
 
-CrosstabReportItemHandle.msg.insert.measure=ÃøÁ¤°ª »ğÀÔ
+CrosstabReportItemHandle.msg.insert.measure=ì¸¡ì •ê°’ ì‚½ì…
 
-CrosstabReportItemHandle.exception.name.blank=ComputedMeasure¿¡ ÀÌ¸§ÀÌ ÇÊ¿äÇÕ´Ï´Ù.
+CrosstabReportItemHandle.exception.name.blank=ComputedMeasureì— ì´ë¦„ì´ í•„ìš”í•©ë‹ˆë‹¤.
 
-CrosstabReportItemHandle.exception.name.duplicate=ÁöÁ¤µÈ ÃøÁ¤°ª ÀÌ¸§ÀÌ ÀÌ¹Ì »ç¿ë ÁßÀÌ¸ç Áßº¹µÉ ¼ö ¾ø½À´Ï´Ù.
+CrosstabReportItemHandle.exception.name.duplicate=ì§€ì •ëœ ì¸¡ì •ê°’ ì´ë¦„ì´ ì´ë¯¸ ì‚¬ìš© ì¤‘ì´ë©° ì¤‘ë³µë  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-MeasureViewHandle.info.aggregation.already.exist=¿äÃ»µÈ Áı°è°¡ ÀÌ¹Ì ÀÖ½À´Ï´Ù.
+MeasureViewHandle.info.aggregation.already.exist=ìš”ì²­ëœ ì§‘ê³„ê°€ ì´ë¯¸ ìˆìŠµë‹ˆë‹¤.
 
-MeasureViewHandle.msg.add.aggregation=Áı°è Ãß°¡
+MeasureViewHandle.msg.add.aggregation=ì§‘ê³„ ì¶”ê°€
 
-LevelViewTask.msg.remove.subtotal=ºÎºĞÇÕ Á¦°Å
+LevelViewTask.msg.remove.subtotal=ë¶€ë¶„í•© ì œê±°
 
-LevelViewTask.msg.add.subtotal=ºÎºĞÇÕ Ãß°¡
+LevelViewTask.msg.add.subtotal=ë¶€ë¶„í•© ì¶”ê°€
 
-DimensionViewTask.msg.remove.level=¼öÁØ Á¦°Å
+DimensionViewTask.msg.remove.level=ìˆ˜ì¤€ ì œê±°
 
-DimensionViewTask.msg.insert.level=¼öÁØ »ğÀÔ
+DimensionViewTask.msg.insert.level=ìˆ˜ì¤€ ì‚½ì…
 
-MeasureViewTask.msg.remove.header=ÃøÁ¤°ª ¸Ó¸®±Û Á¦°Å
+MeasureViewTask.msg.remove.header=ì¸¡ì •ê°’ ë¨¸ë¦¬ê¸€ ì œê±°
 
-MeasureViewTask.msg.add.header=ÃøÁ¤°ª ¸Ó¸®±Û Ãß°¡
+MeasureViewTask.msg.add.header=ì¸¡ì •ê°’ ë¨¸ë¦¬ê¸€ ì¶”ê°€
 
-CrosstabViewTask.msg.add.dimension=Â÷¿ø Ãß°¡
+CrosstabViewTask.msg.add.dimension=ì°¨ì› ì¶”ê°€
 
-CrosstabViewTask.msg.remove.dimension=Â÷¿ø Á¦°Å
+CrosstabViewTask.msg.remove.dimension=ì°¨ì› ì œê±°
 
-CrosstabViewTask.msg.remove.grandtotal=ÃÑÇÕ°è Á¦°Å
+CrosstabViewTask.msg.remove.grandtotal=ì´í•©ê³„ ì œê±°
 
-CrosstabViewTask.msg.add.grandtotal=ÃÑÇÕ°è Ãß°¡
+CrosstabViewTask.msg.add.grandtotal=ì´í•©ê³„ ì¶”ê°€
 
-CrosstabReportItemTask.msg.add.grandtotal=ÃÑÇÕ°è Ãß°¡
+CrosstabReportItemTask.msg.add.grandtotal=ì´í•©ê³„ ì¶”ê°€
 
-CrosstabReportItemTask.msg.set.aggregate.function=Áı°è ÇÔ¼ö ¼³Á¤
+CrosstabReportItemTask.msg.set.aggregate.function=ì§‘ê³„ í•¨ìˆ˜ ì„¤ì •
 
-CrosstabReportItemTask.msg.pivot.dimension=Â÷¿ø ÇÇ¹ş
+CrosstabReportItemTask.msg.pivot.dimension=ì°¨ì› í”¼ë²—
 
-CrosstabReportItemTask.msg.insert.dimension=Â÷¿ø »ğÀÔ
+CrosstabReportItemTask.msg.insert.dimension=ì°¨ì› ì‚½ì…
 
-CrosstabReportItemTask.msg.set.mirroredStartingLevel=¹Ì·¯µÈ ½ÃÀÛ ¼öÁØ ¼³Á¤
+CrosstabReportItemTask.msg.set.mirroredStartingLevel=ë¯¸ëŸ¬ëœ ì‹œì‘ ìˆ˜ì¤€ ì„¤ì •
 
-CrosstabReportItemTask.msg.pivot.crosstab=ÇÇ¹ş Å©·Î½º ÅÇ
+CrosstabReportItemTask.msg.pivot.crosstab=í”¼ë²— í¬ë¡œìŠ¤ íƒ­
 
-CrosstabReportItemHandle.Error.HasNoCube=Å©·Î½º ÅÇÀº ÇÏ³ªÀÇ Å¥ºê¿¡ ¾×¼¼½ºÇÒ ¼ö ÀÖ¾î¾ß ÇÕ´Ï´Ù.
+CrosstabReportItemHandle.Error.HasNoCube=í¬ë¡œìŠ¤ íƒ­ì€ í•˜ë‚˜ì˜ íë¸Œì— ì•¡ì„¸ìŠ¤í•  ìˆ˜ ìˆì–´ì•¼ í•©ë‹ˆë‹¤.
 
-CrosstabReportItemHandle.log.validate=È®ÀÎ Áß(...)
+CrosstabReportItemHandle.log.validate=í™•ì¸ ì¤‘(...)
 
-CrosstabScriptHandler.error.javascript=JavaScriptÀÇ ÁÙ {1}¿¡ ÀÖ´Â {0}:\r\n{2}\r\n
+CrosstabScriptHandler.error.javascript=JavaScriptì˜ ì¤„ {1}ì— ìˆëŠ” {0}:\r\n{2}\r\n
 
-CrosstabScriptHandler.info.try.register.crosstab.javascript.content=Å©·Î½º ÅÇ JavaScript ³»¿ëÀ» µî·ÏÇÏ½Ê½Ã¿À...
+CrosstabScriptHandler.info.try.register.crosstab.javascript.content=í¬ë¡œìŠ¤ íƒ­ JavaScript ë‚´ìš©ì„ ë“±ë¡í•˜ì‹­ì‹œì˜¤...
 
-CrosstabScriptHandler.info.crosstab.javascript.content.registered=Å©·Î½º ÅÇ JavaScript ³»¿ëÀ» µî·ÏÇß½À´Ï´Ù.
+CrosstabScriptHandler.info.crosstab.javascript.content.registered=í¬ë¡œìŠ¤ íƒ­ JavaScript ë‚´ìš©ì„ ë“±ë¡í–ˆìŠµë‹ˆë‹¤.
 
-CrosstabScriptHandler.info.try.load.crosstab.java.handler=Å©·Î½º ÅÇ Java ÀÌº¥Æ® Ã³¸®±â¸¦ ·ÎµåÇÏ½Ê½Ã¿À...
+CrosstabScriptHandler.info.try.load.crosstab.java.handler=í¬ë¡œìŠ¤ íƒ­ Java ì´ë²¤íŠ¸ ì²˜ë¦¬ê¸°ë¥¼ ë¡œë“œí•˜ì‹­ì‹œì˜¤...
 
-CrosstabScriptHandler.info.crosstab.java.handler.loaded=Å©·Î½º ÅÇ Java ÀÌº¥Æ® Ã³¸®±â [{0}]ÀÌ(°¡) ·ÎµåµÇ¾ú½À´Ï´Ù.
+CrosstabScriptHandler.info.crosstab.java.handler.loaded=í¬ë¡œìŠ¤ íƒ­ Java ì´ë²¤íŠ¸ ì²˜ë¦¬ê¸° [{0}]ì´(ê°€) ë¡œë“œë˜ì—ˆìŠµë‹ˆë‹¤.
 
-CrosstabScriptHandler.info.invalid.crosstab.java.handler=Å©·Î½º ÅÇ Java ÀÌº¥Æ® Ã³¸®±â [{0}]ÀÇ ±¸ÇöÀÌ È£È¯µÇÁö ¾Ê½À´Ï´Ù.
+CrosstabScriptHandler.info.invalid.crosstab.java.handler=í¬ë¡œìŠ¤ íƒ­ Java ì´ë²¤íŠ¸ ì²˜ë¦¬ê¸° [{0}]ì˜ êµ¬í˜„ì´ í˜¸í™˜ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.

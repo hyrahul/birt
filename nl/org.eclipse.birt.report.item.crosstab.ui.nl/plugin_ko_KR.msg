@@ -8,18 +8,18 @@
 # Contributors:
 #  Actuate Corporation  - initial API and implementation
 ###############################################################################
-preference.crosstabPage=Å©·Î½º ÅÇ
+preference.crosstabPage=í¬ë¡œìŠ¤ íƒ­
 
-crosstab.menu=Å©·Î½º ÅÇ(&O)
+crosstab.menu=í¬ë¡œìŠ¤ íƒ­(&O)
 
-Crosstab.desc=Å©·Î½º ÅÇÀ» »ğÀÔÇÏ¿© Çà ¹× ¿­ Çü½ÄÀ¸·Î Áı°è µ¥ÀÌÅÍ¸¦ Ç¥½ÃÇÕ´Ï´Ù.
+Crosstab.desc=í¬ë¡œìŠ¤ íƒ­ì„ ì‚½ì…í•˜ì—¬ í–‰ ë° ì—´ í˜•ì‹ìœ¼ë¡œ ì§‘ê³„ ë°ì´í„°ë¥¼ í‘œì‹œí•©ë‹ˆë‹¤.
 
-newcube.menu=»õ µ¥ÀÌÅÍ Å¥ºê(&C)
+newcube.menu=ìƒˆ ë°ì´í„° íë¸Œ(&C)
 
-paletteEntry.label.crosstab= Å©·Î½º ÅÇ
+paletteEntry.label.crosstab= í¬ë¡œìŠ¤ íƒ­
 
-command.name.createCrosstab= Å©·Î½º ÅÇ »ı¼º
+command.name.createCrosstab= í¬ë¡œìŠ¤ íƒ­ ìƒì„±
 
-command.name.createCube= Å¥ºê »ı¼º
+command.name.createCube= íë¸Œ ìƒì„±
 
 command.mnemonic.c=C

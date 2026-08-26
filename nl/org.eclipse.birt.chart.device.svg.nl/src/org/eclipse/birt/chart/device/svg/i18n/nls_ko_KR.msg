@@ -1,51 +1,51 @@
-SVGRendererImpl.exception.UnableToWriteChartImage={0}¿¡¼­ Á¤ÀÇµÈ SVG Ãâ·Â ÇÚµé¿¡ Â÷Æ® ÀÌ¹ÌÁö¸¦ ¾µ ¼ö ¾ø½À´Ï´Ù.
+SVGRendererImpl.exception.UnableToWriteChartImage={0}ì—ì„œ ì •ì˜ëœ SVG ì¶œë ¥ í•¸ë“¤ì— ì°¨íŠ¸ ì´ë¯¸ì§€ë¥¼ ì“¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-SVGGraphics2D.drawImage.image=SVG ·»´õ·¯ - drawImage(Image arg0, AffineTransform arg1, ImageObserver arg2) - Áö¿ø ¾È µÊ
+SVGGraphics2D.drawImage.image=SVG ë Œë”ëŸ¬ - drawImage(Image arg0, AffineTransform arg1, ImageObserver arg2) - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.drawImage.buffer=SVG ·»´õ·¯ -drawImage(BufferedImage arg0, BufferedImageOp arg1, int arg2,\tint arg3) - Áö¿ø ¾ÈµÊ
+SVGGraphics2D.drawImage.buffer=SVG ë Œë”ëŸ¬ -drawImage(BufferedImage arg0, BufferedImageOp arg1, int arg2,\tint arg3) - ì§€ì› ì•ˆë¨
 
-SVGGraphics2D.drawRenderImage.RenderImage=SVG ·»´õ·¯ -drawRenderedImage(RenderedImage arg0, AffineTransform arg1) - Áö¿ø ¾È µÊ
+SVGGraphics2D.drawRenderImage.RenderImage=SVG ë Œë”ëŸ¬ -drawRenderedImage(RenderedImage arg0, AffineTransform arg1) - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.drawRenderableImage.RenderableImage=SVG ·»´õ·¯ - drawRenderableImage(RenderableImage arg0, AffineTransform arg1) - Áö¿ø ¾È µÊ
+SVGGraphics2D.drawRenderableImage.RenderableImage=SVG ë Œë”ëŸ¬ - drawRenderableImage(RenderableImage arg0, AffineTransform arg1) - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.drawString.StringInt=SVG ·»´õ·¯ - drawString(String arg0, int arg1, int arg2) - Áö¿ø ¾È µÊ
+SVGGraphics2D.drawString.StringInt=SVG ë Œë”ëŸ¬ - drawString(String arg0, int arg1, int arg2) - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.drawString.StringFloat=SVG ·»´õ·¯ - drawString(String arg0, float arg1, float arg2) - Áö¿ø ¾È µÊ
+SVGGraphics2D.drawString.StringFloat=SVG ë Œë”ëŸ¬ - drawString(String arg0, float arg1, float arg2) - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.drawString.AttributeInt=SVG ·»´õ·¯ - drawString(AttributedCharacterIterator arg0, int arg1, int arg2) - Áö¿ø ¾È µÊ
+SVGGraphics2D.drawString.AttributeInt=SVG ë Œë”ëŸ¬ - drawString(AttributedCharacterIterator arg0, int arg1, int arg2) - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.drawString.AttributeFloat=SVG ·»´õ·¯ - drawString(AttributedCharacterIterator arg0, float arg1, float arg2) - Áö¿ø ¾È µÊ
+SVGGraphics2D.drawString.AttributeFloat=SVG ë Œë”ëŸ¬ - drawString(AttributedCharacterIterator arg0, float arg1, float arg2) - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.hit.Rectangle=SVG ·»´õ·¯ - hit(Rectangle arg0, Shape arg1, boolean arg2) - Áö¿ø ¾È µÊ
+SVGGraphics2D.hit.Rectangle=SVG ë Œë”ëŸ¬ - hit(Rectangle arg0, Shape arg1, boolean arg2) - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.getDeviceConfig=SVG ·»´õ·¯ - GraphicsConfiguration getDeviceConfiguration() - Áö¿ø ¾È µÊ
+SVGGraphics2D.getDeviceConfig=SVG ë Œë”ëŸ¬ - GraphicsConfiguration getDeviceConfiguration() - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.setComposite=SVG ·»´õ·¯ - setComposite(Composite arg0) - Áö¿ø ¾È µÊ
+SVGGraphics2D.setComposite=SVG ë Œë”ëŸ¬ - setComposite(Composite arg0) - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.getRenderingHint.Key=SVG ·»´õ·¯ - getRenderingHint(Key arg0) - Áö¿ø ¾È µÊ
+SVGGraphics2D.getRenderingHint.Key=SVG ë Œë”ëŸ¬ - getRenderingHint(Key arg0) - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.setRenderingHints.Map=SVG ·»´õ·¯ - setRenderingHints(Map arg0) - Áö¿ø ¾È µÊ
+SVGGraphics2D.setRenderingHints.Map=SVG ë Œë”ëŸ¬ - setRenderingHints(Map arg0) - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.ddRenderingHints.Map=SVG ·»´õ·¯ - ddRenderingHints(Map arg0) - Áö¿ø ¾È µÊ
+SVGGraphics2D.ddRenderingHints.Map=SVG ë Œë”ëŸ¬ - ddRenderingHints(Map arg0) - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.getRenderingHints=SVG ·»´õ·¯ - getRenderingHints() - Áö¿ø ¾È µÊ
+SVGGraphics2D.getRenderingHints=SVG ë Œë”ëŸ¬ - getRenderingHints() - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.transform.AffineTransform=SVG ·»´õ·¯ - transform(AffineTransform arg0) - Áö¿ø ¾È µÊ
+SVGGraphics2D.transform.AffineTransform=SVG ë Œë”ëŸ¬ - transform(AffineTransform arg0) - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.setTransform.Affine=SVG ·»´õ·¯ - setTransform(AffineTransform arg0) - Áö¿ø ¾È µÊ
+SVGGraphics2D.setTransform.Affine=SVG ë Œë”ëŸ¬ - setTransform(AffineTransform arg0) - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.getTransform=SVG ·»´õ·¯ - AffineTransform getTransform() - Áö¿ø ¾È µÊ
+SVGGraphics2D.getTransform=SVG ë Œë”ëŸ¬ - AffineTransform getTransform() - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.getComposite=SVG ·»´õ·¯ - Composite getComposite() - Áö¿ø ¾È µÊ
+SVGGraphics2D.getComposite=SVG ë Œë”ëŸ¬ - Composite getComposite() - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.setPaintMode=SVG ·»´õ·¯ - setPaintMode() - Áö¿ø ¾È µÊ
+SVGGraphics2D.setPaintMode=SVG ë Œë”ëŸ¬ - setPaintMode() - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.setXORModel.Color=SVG ·»´õ·¯ - setXORMode(Color arg0) - Áö¿ø ¾È µÊ
+SVGGraphics2D.setXORModel.Color=SVG ë Œë”ëŸ¬ - setXORMode(Color arg0) - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.getFontMetrics.Font=SVG ·»´õ·¯ - FontMetrics getFontMetrics(Font arg0) - Áö¿ø ¾È µÊ
+SVGGraphics2D.getFontMetrics.Font=SVG ë Œë”ëŸ¬ - FontMetrics getFontMetrics(Font arg0) - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.CopyArea.Int=SVG ·»´õ·¯ - CcopyArea(int arg0, int arg1, int arg2, int arg3, int arg4, int arg5) - Áö¿ø ¾È µÊ
+SVGGraphics2D.CopyArea.Int=SVG ë Œë”ëŸ¬ - CcopyArea(int arg0, int arg1, int arg2, int arg3, int arg4, int arg5) - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.clearRect.Int=SVG ·»´õ·¯ - clearRect(int arg0, int arg1, int arg2, int arg3)  - Áö¿ø ¾È µÊ
+SVGGraphics2D.clearRect.Int=SVG ë Œë”ëŸ¬ - clearRect(int arg0, int arg1, int arg2, int arg3)  - ì§€ì› ì•ˆ ë¨
 
-SVGGraphics2D.drawPolyline.Int=SVG ·»´õ·¯ - drawPolyline(int[] arg0, int[] arg1, int arg2) - Áö¿ø ¾È µÊ
+SVGGraphics2D.drawPolyline.Int=SVG ë Œë”ëŸ¬ - drawPolyline(int[] arg0, int[] arg1, int arg2) - ì§€ì› ì•ˆ ë¨

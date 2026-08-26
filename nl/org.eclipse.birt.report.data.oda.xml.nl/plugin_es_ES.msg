@@ -13,7 +13,7 @@
 ###############################################################################
 # NLS String
 ###############################################################################
-datasource.name=Fuente de datos XML de versión antigua de BIRT 2.1.x
+datasource.name=Fuente de datos XML de versiÃ³n antigua de BIRT 2.1.x
 
 dataset.name=Conjunto de datos XML BIRT 2.1.x
 

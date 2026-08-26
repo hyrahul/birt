@@ -10,84 +10,84 @@
 #  
 #************************************************************************
 #
-mDbConnection_failedToOpenConn=w’è‚µ‚½ƒvƒƒpƒeƒB‚ÅÚ‘±‚ğŠJ‚­‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+mDbConnection_failedToOpenConn=æŒ‡å®šã—ãŸãƒ—ãƒ­ãƒ‘ãƒ†ã‚£ã§æ¥ç¶šã‚’é–‹ãã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-mDbConnection_invalidDatabaseName=w’è‚µ‚½ƒf[ƒ^ƒx[ƒX ({0}) ‚ª‘¶İ‚µ‚Ü‚¹‚ñB
+mDbConnection_invalidDatabaseName=æŒ‡å®šã—ãŸãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹ ({0}) ãŒå­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-mDbConnection_missingValueDBName=ƒf[ƒ^ƒx[ƒX–¼ƒvƒƒpƒeƒB‚É•K—v‚È’l‚ª‚ ‚è‚Ü‚¹‚ñB
+mDbConnection_missingValueDBName=ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹åãƒ—ãƒ­ãƒ‘ãƒ†ã‚£ã«å¿…è¦ãªå€¤ãŒã‚ã‚Šã¾ã›ã‚“ã€‚
 
-mDbConnection_noConnection=ƒNƒGƒŠ‚ğ€”õ‚·‚é‚½‚ß‚ÌŠJ‚©‚ê‚½Ú‘±‚ª‚ ‚è‚Ü‚¹‚ñB
+mDbConnection_noConnection=ã‚¯ã‚¨ãƒªã‚’æº–å‚™ã™ã‚‹ãŸã‚ã®é–‹ã‹ã‚ŒãŸæ¥ç¶šãŒã‚ã‚Šã¾ã›ã‚“ã€‚
 
-mDbDriver_missingValueServerHost=ƒT[ƒoƒzƒXƒg‚ÌƒvƒƒpƒeƒB‚É•K—v‚È’l‚ª‚ ‚è‚Ü‚¹‚ñB
+mDbDriver_missingValueServerHost=ã‚µãƒ¼ãƒãƒ›ã‚¹ãƒˆã®ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£ã«å¿…è¦ãªå€¤ãŒã‚ã‚Šã¾ã›ã‚“ã€‚
 
-mDbDriver_nonDefinedDataType=’è‹`‚È‚µ
+mDbDriver_nonDefinedDataType=å®šç¾©ãªã—
 
-mDbDriver_readPrefNearest=Å‚à‹ß‚¢
+mDbDriver_readPrefNearest=æœ€ã‚‚è¿‘ã„
 
-mDbDriver_readPrefPrimary=ƒvƒ‰ƒCƒ}ƒŠ
+mDbDriver_readPrefPrimary=ãƒ—ãƒ©ã‚¤ãƒãƒª
 
 mDbDriver_readPrefPrimaryPreferred=primaryPreferred
-mDbDriver_readPrefSecondary=ƒZƒJƒ“ƒ_ƒŠ
+mDbDriver_readPrefSecondary=ã‚»ã‚«ãƒ³ãƒ€ãƒª
 
 mDbDriver_readPrefSecondaryPreferred=secondaryPreferred
 mDbDSMetaData_dataSourceName=MongoDB Data Source
-mDbMetaData_invalidCollectionName=ƒRƒŒƒNƒVƒ‡ƒ“–¼‚ª–³Œø‚Å‚·: {0}
+mDbMetaData_invalidCollectionName=ã‚³ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³åãŒç„¡åŠ¹ã§ã™: {0}
 
-mDbMetaData_missingCmdExprText={0} ƒRƒ}ƒ“ƒh‘€ì‚Ì®‚ª‚ ‚è‚Ü‚¹‚ñB
+mDbMetaData_missingCmdExprText={0} ã‚³ãƒãƒ³ãƒ‰æ“ä½œã®å¼ãŒã‚ã‚Šã¾ã›ã‚“ã€‚
 
-mDbQuery_invalidQueryExecQuery=ƒNƒGƒŠ‚Í–³Œø‚Å‚ ‚é‚½‚ßÀs‚Å‚«‚Ü‚¹‚ñB
+mDbQuery_invalidQueryExecQuery=ã‚¯ã‚¨ãƒªã¯ç„¡åŠ¹ã§ã‚ã‚‹ãŸã‚å®Ÿè¡Œã§ãã¾ã›ã‚“ã€‚
 
-mDbQuery_invalidQueryGetMD=ƒNƒGƒŠ‚Í–³Œø‚Å‚ ‚èAŒ‹‰ÊƒZƒbƒg‚Ìƒƒ^ƒf[ƒ^‚ğ€”õ‚Å‚«‚Ü‚¹‚ñB
+mDbQuery_invalidQueryGetMD=ã‚¯ã‚¨ãƒªã¯ç„¡åŠ¹ã§ã‚ã‚Šã€çµæœã‚»ãƒƒãƒˆã®ãƒ¡ã‚¿ãƒ‡ãƒ¼ã‚¿ã‚’æº–å‚™ã§ãã¾ã›ã‚“ã€‚
 
-driverUtil_invalidExpr=—\Šú‚µ‚È‚¢®‚ÌŒ^: {0}B
+driverUtil_invalidExpr=äºˆæœŸã—ãªã„å¼ã®å‹: {0}ã€‚
 
-driverUtil_parsingError=JSON ®‚Ì‰ğÍ’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½: {0}
+driverUtil_parsingError=JSON å¼ã®è§£æä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸ: {0}
 
-mDbOp_aggrCmdFailed=WŒvƒRƒ}ƒ“ƒh‚Ì‘€ì‚ğÀs‚Å‚«‚Ü‚¹‚ñB \nÚ‘±‚µ‚½ MongoDB ƒT[ƒo‚ªƒo[ƒWƒ‡ƒ“ 2.2 ˆÈ~‚Å‚ ‚é‚±‚Æ‚ğŠm”F‚µ‚Ä‚­‚¾‚³‚¢B
+mDbOp_aggrCmdFailed=é›†è¨ˆã‚³ãƒãƒ³ãƒ‰ã®æ“ä½œã‚’å®Ÿè¡Œã§ãã¾ã›ã‚“ã€‚ \næ¥ç¶šã—ãŸ MongoDB ã‚µãƒ¼ãƒãŒãƒãƒ¼ã‚¸ãƒ§ãƒ³ 2.2 ä»¥é™ã§ã‚ã‚‹ã“ã¨ã‚’ç¢ºèªã—ã¦ãã ã•ã„ã€‚
 
-mDbOp_dbCmdFailed=ƒRƒ}ƒ“ƒh‘€ì ({0}) ‚ğÀs‚Å‚«‚Ü‚¹‚ñ
+mDbOp_dbCmdFailed=ã‚³ãƒãƒ³ãƒ‰æ“ä½œ ({0}) ã‚’å®Ÿè¡Œã§ãã¾ã›ã‚“
 
-mDbOp_invalidQueryExpr=ƒNƒGƒŠ®‚ª–³Œø‚Å‚·BƒNƒGƒŠ‚ğÀs‚Å‚«‚Ü‚¹‚ñB
+mDbOp_invalidQueryExpr=ã‚¯ã‚¨ãƒªå¼ãŒç„¡åŠ¹ã§ã™ã€‚ã‚¯ã‚¨ãƒªã‚’å®Ÿè¡Œã§ãã¾ã›ã‚“ã€‚
 
-mDbOp_mapReduceCmdFailed=MapReduce ƒRƒ}ƒ“ƒh‘€ì ({0}) ‚ğÀs‚Å‚«‚Ü‚¹‚ñ
+mDbOp_mapReduceCmdFailed=MapReduce ã‚³ãƒãƒ³ãƒ‰æ“ä½œ ({0}) ã‚’å®Ÿè¡Œã§ãã¾ã›ã‚“
 
-mDbOp_noCmdResults=g—p‰Â”\‚ÈƒRƒ}ƒ“ƒh‚ÌŒ‹‰Ê‚ª‚ ‚è‚Ü‚¹‚ñB
+mDbOp_noCmdResults=ä½¿ç”¨å¯èƒ½ãªã‚³ãƒãƒ³ãƒ‰ã®çµæœãŒã‚ã‚Šã¾ã›ã‚“ã€‚
 
-mDbResultSet_cannotConvertFieldData={2} ƒf[ƒ^ƒ^ƒCƒv‚Ì '{0}' ƒtƒB[ƒ‹ƒh’l ({1}) ‚Í {3} ’l‚É•ÏŠ·‚Å‚«‚Ü‚¹‚ñB
+mDbResultSet_cannotConvertFieldData={2} ãƒ‡ãƒ¼ã‚¿ã‚¿ã‚¤ãƒ—ã® '{0}' ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰å€¤ ({1}) ã¯ {3} å€¤ã«å¤‰æ›ã§ãã¾ã›ã‚“ã€‚
 
-queryModel_emptyExprErrorMsg=<‹ó”’‚Ì®>
+queryModel_emptyExprErrorMsg=<ç©ºç™½ã®å¼>
 
-queryModel_invalidCollectionName=ƒRƒŒƒNƒVƒ‡ƒ“–¼ (${0}) ‚ª–³Œø‚Å‚·B
+queryModel_invalidCollectionName=ã‚³ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³å (${0}) ãŒç„¡åŠ¹ã§ã™ã€‚
 
-queryModel_invalidDbCmdKeyValue=ƒf[ƒ^ƒx[ƒXƒRƒ}ƒ“ƒh ({0}) ‚ÍŸ‚Å‚Ì‚İƒTƒ|[ƒg‚³‚ê‚Ü‚·: \n    {1}
+queryModel_invalidDbCmdKeyValue=ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹ã‚³ãƒãƒ³ãƒ‰ ({0}) ã¯æ¬¡ã§ã®ã¿ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¾ã™: \n    {1}
 
-queryModel_invalidModelToExec=ƒNƒGƒŠ’è‹`‚ª–³Œø‚Å‚·BƒNƒGƒŠ‚ğÀs‚Å‚«‚Ü‚¹‚ñB
+queryModel_invalidModelToExec=ã‚¯ã‚¨ãƒªå®šç¾©ãŒç„¡åŠ¹ã§ã™ã€‚ã‚¯ã‚¨ãƒªã‚’å®Ÿè¡Œã§ãã¾ã›ã‚“ã€‚
 
-queryModel_invalidModelToPrepare=ƒNƒGƒŠ’è‹`‚ª–³Œø‚Å‚·BƒNƒGƒŠ‚ğ€”õ‚Å‚«‚Ü‚¹‚ñB
+queryModel_invalidModelToPrepare=ã‚¯ã‚¨ãƒªå®šç¾©ãŒç„¡åŠ¹ã§ã™ã€‚ã‚¯ã‚¨ãƒªã‚’æº–å‚™ã§ãã¾ã›ã‚“ã€‚
 
-queryModel_invalidPipelineOp=ƒpƒCƒvƒ‰ƒCƒ“‘€ì‚ª–³Œø‚Å‚·: {0}
+queryModel_invalidPipelineOp=ãƒ‘ã‚¤ãƒ—ãƒ©ã‚¤ãƒ³æ“ä½œãŒç„¡åŠ¹ã§ã™: {0}
 
-queryModel_invalidQuerySortExpr=ƒNƒGƒŠ‚Ìƒ\[ƒg®‚Å‚Íƒ\[ƒg‡‚Æ‚µ‚Ä³‚Ü‚½‚Í•‰‚Ì’l‚ğw’è‚·‚é•K—v‚ª‚ ‚è‚Ü‚·: \n    {0}
+queryModel_invalidQuerySortExpr=ã‚¯ã‚¨ãƒªã®ã‚½ãƒ¼ãƒˆå¼ã§ã¯ã‚½ãƒ¼ãƒˆé †ã¨ã—ã¦æ­£ã¾ãŸã¯è² ã®å€¤ã‚’æŒ‡å®šã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™: \n    {0}
 
-queryModel_invalidSortAggrValue={0} ƒpƒCƒvƒ‰ƒCƒ“‘€ì‚Å‚ÍAƒ\[ƒgƒL[‚Å 1 ‚Ü‚½‚Í -1 ‚Ì’l‚ğw’è‚·‚é•K—v‚ª‚ ‚è‚Ü‚·: \n    {1}
+queryModel_invalidSortAggrValue={0} ãƒ‘ã‚¤ãƒ—ãƒ©ã‚¤ãƒ³æ“ä½œã§ã¯ã€ã‚½ãƒ¼ãƒˆã‚­ãƒ¼ã§ 1 ã¾ãŸã¯ -1 ã®å€¤ã‚’æŒ‡å®šã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™: \n    {1}
 
-queryModel_missingCollectionName=ƒf[ƒ^ƒZƒbƒgƒNƒGƒŠ“à‚Å MongoDB ƒRƒŒƒNƒVƒ‡ƒ“‚ª’è‹`‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+queryModel_missingCollectionName=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã‚¯ã‚¨ãƒªå†…ã§ MongoDB ã‚³ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³ãŒå®šç¾©ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-queryModel_missingGroupAggrKey={0} ƒpƒCƒvƒ‰ƒCƒ“‘€ì‚Å‚ÍA{1} ƒtƒB[ƒ‹ƒh‚ğw’è‚·‚é•K—v‚ª‚ ‚è‚Ü‚·: \n    {2}
+queryModel_missingGroupAggrKey={0} ãƒ‘ã‚¤ãƒ—ãƒ©ã‚¤ãƒ³æ“ä½œã§ã¯ã€{1} ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’æŒ‡å®šã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™: \n    {2}
 
-queryModel_missingMapReduceKey=ƒRƒ}ƒ“ƒh®‚É•K—v‚ÈƒL[‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñ: {0}
+queryModel_missingMapReduceKey=ã‚³ãƒãƒ³ãƒ‰å¼ã«å¿…è¦ãªã‚­ãƒ¼ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“: {0}
 
-queryModel_missingMapReduceValue=ƒRƒ}ƒ“ƒh®‚ÌƒL[ {0} ‚É’l‚ª•K—v‚Å‚·B
+queryModel_missingMapReduceValue=ã‚³ãƒãƒ³ãƒ‰å¼ã®ã‚­ãƒ¼ {0} ã«å€¤ãŒå¿…è¦ã§ã™ã€‚
 
-queryModel_missingQueryProps=ƒf[ƒ^ƒZƒbƒg“à‚ÅƒNƒGƒŠ‚ª’è‹`‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+queryModel_missingQueryProps=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆå†…ã§ã‚¯ã‚¨ãƒªãŒå®šç¾©ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-queryModel_nonSupportedDbCmd=ƒf[ƒ^ƒx[ƒXƒRƒ}ƒ“ƒh‚Ìƒ^ƒCƒv‚ªƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ: \n    {0}
+queryModel_nonSupportedDbCmd=ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹ã‚³ãƒãƒ³ãƒ‰ã®ã‚¿ã‚¤ãƒ—ãŒã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“: \n    {0}
 
-queryProperties_aggrCmdName=WŒv
+queryProperties_aggrCmdName=é›†è¨ˆ
 
-queryProperties_dbCmdName=ƒf[ƒ^ƒx[ƒXƒRƒ}ƒ“ƒh‚ÌÀs
+queryProperties_dbCmdName=ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹ã‚³ãƒãƒ³ãƒ‰ã®å®Ÿè¡Œ
 
-queryProperties_errDeSerializeDBObject=MongoDB ®‚ğƒVƒŠƒAƒ‹‰»‰ğœ‚Å‚«‚Ü‚¹‚ñ: {0}
+queryProperties_errDeSerializeDBObject=MongoDB å¼ã‚’ã‚·ãƒªã‚¢ãƒ«åŒ–è§£é™¤ã§ãã¾ã›ã‚“: {0}
 
 queryProperties_mapReduceCmdName=MapReduce
-resultDataHandler_invalidFieldName=ƒtƒB[ƒ‹ƒh–¼‚ª–³Œø‚Å‚·: {0}
+resultDataHandler_invalidFieldName=ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰åãŒç„¡åŠ¹ã§ã™: {0}

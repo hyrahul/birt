@@ -19,41 +19,41 @@ Error.Msg001={0} introuvable dans {0}.
 ###########################################################
 
 # DTE error code
-data.engine.UndefinedDataSource=La source de données n'est pas définie : {0}.
+data.engine.UndefinedDataSource=La source de donnÃ©es n'est pas dÃ©finie : {0}.
 
-data.engine.UndefinedDataSet=Le jeu de données n'est pas défini : {0}.
+data.engine.UndefinedDataSet=Le jeu de donnÃ©es n'est pas dÃ©fini : {0}.
 
-data.engine.UnsupportedDataSourceType=Le type de la source de données "{0}" n''est pas pris en charge.
+data.engine.UnsupportedDataSourceType=Le type de la source de donnÃ©es "{0}" n''est pas pris en charge.
 
-data.engine.UnsupportedDataSetType=Le type du jeu de données "{0}" n''est pas pris en charge.
+data.engine.UnsupportedDataSetType=Le type du jeu de donnÃ©es "{0}" n''est pas pris en charge.
 
-data.engine.UnsupportedGroupOnClobAndBLOB=Le groupement par données CLOB ou BLOB "{0}" n''est pas pris en charge.
+data.engine.UnsupportedGroupOnClobAndBLOB=Le groupement par donnÃ©es CLOB ou BLOB "{0}" n''est pas pris en charge.
 
-data.engine.UnsupportedSortOnClobAndBLOB=Le tri par données CLOB ou BLOB [{0}] n''est pas pris en charge.
+data.engine.UnsupportedSortOnClobAndBLOB=Le tri par donnÃ©es CLOB ou BLOB [{0}] n''est pas pris en charge.
 
-data.engine.EndOfGroupOnly=Cette expression d'agrégats n'est disponible qu'à la fin d'un groupe.
+data.engine.EndOfGroupOnly=Cette expression d'agrÃ©gats n'est disponible qu'Ã  la fin d'un groupe.
 
-data.engine.InvalidAggregation=La définition d'agrégation est incorrecte :{0}.
+data.engine.InvalidAggregation=La dÃ©finition d'agrÃ©gation est incorrecte :{0}.
 
-data.engine.InvalidAggrGroup=Niveau de regroupement incorrect pour la fonction d'agrégation : {0}.
+data.engine.InvalidAggrGroup=Niveau de regroupement incorrect pour la fonction d'agrÃ©gation : {0}.
 
-data.engine.WrongNumAggrArgs=Nombre d'arguments incorrect pour la fonction d'agrégation : {0}.
+data.engine.WrongNumAggrArgs=Nombre d'arguments incorrect pour la fonction d'agrÃ©gation : {0}.
 
-data.engine.AggrParamGroupLevelInconsistent=Dans l'agrégation imbriquée "{0}", toutes les expressions non constantes doivent avoir le même niveau de groupe.
+data.engine.AggrParamGroupLevelInconsistent=Dans l'agrÃ©gation imbriquÃ©e "{0}", toutes les expressions non constantes doivent avoir le mÃªme niveau de groupe.
 
-data.engine.DupPropertyName=Nom de propriété en double trouvé : {0}.
+data.engine.DupPropertyName=Nom de propriÃ©tÃ© en double trouvÃ© : {0}.
 
-data.engine.NoSubQueryName=Impossible de trouver une sous-requête portant le nom : {0}.
+data.engine.NoSubQueryName=Impossible de trouver une sous-requÃªte portant le nom : {0}.
 
-data.engine.DataSourceMissingExtId=ID d''extension manquant dans la définition de la source de données {0}.
+data.engine.DataSourceMissingExtId=ID d''extension manquant dans la dÃ©finition de la source de donnÃ©es {0}.
 
-data.engine.NullGroupStart=La valeur de début de groupe ne doit pas être nulle.
+data.engine.NullGroupStart=La valeur de dÃ©but de groupe ne doit pas Ãªtre nulle.
 
-data.engine.UnsupportedDirectNestedAggregate=L'imbrication directe d'agrégats n'est pas prise en charge.
+data.engine.UnsupportedDirectNestedAggregate=L'imbrication directe d'agrÃ©gats n'est pas prise en charge.
 
-data.engine.ResultClosed=QueryResults ou son itérateur a été fermé.
+data.engine.ResultClosed=QueryResults ou son itÃ©rateur a Ã©tÃ© fermÃ©.
 
-data.engine.NoCurrentRow=Aucune ligne n'est associée à Result iterator. Il n'a pas démarré ou a pris fin.
+data.engine.NoCurrentRow=Aucune ligne n'est associÃ©e Ã  Result iterator. Il n'a pas dÃ©marrÃ© ou a pris fin.
 
 data.engine.InvalidJSExpr=Expression Javascript incorrecte : {0}.
 
@@ -61,43 +61,43 @@ data.engine.InvalidTotalFuncName=Nom de fonction Total incorrect : {0}.
 
 data.engine.InvalidTotalFunc=Fonction Total incorrecte.
 
-data.engine.NoAggrFunc=Appel de fonction d'agrégation inattendu dans cette expression.
+data.engine.NoAggrFunc=Appel de fonction d'agrÃ©gation inattendu dans cette expression.
 
 data.engine.InvalidExprHandle=Descripteur d'expression incorrect.
 
-data.engine.InvalidAggrGroupExpression=Expression de groupe incorrecte pour la fonction d'agrégation : {0}.
+data.engine.InvalidAggrGroupExpression=Expression de groupe incorrecte pour la fonction d'agrÃ©gation : {0}.
 
-data.engine.InvalidSortKeyColumn=Colonne de clé de tri incorrecte : {0}.
+data.engine.InvalidSortKeyColumn=Colonne de clÃ© de tri incorrecte : {0}.
 
-data.engine.InvalidGroupLevel= Le niveau de groupe dans l'agrégation est incorrect : {0}.
+data.engine.InvalidGroupLevel= Le niveau de groupe dans l'agrÃ©gation est incorrect : {0}.
 
-data.engine.InvalidGroupKeyName=Regroupement dans la colonne : {0} n'est pas une opération prise en charge.
+data.engine.InvalidGroupKeyName=Regroupement dans la colonne : {0} n'est pas une opÃ©ration prise en charge.
 
-data.engine.BadCloseScript=Echec de l'évaluation de closeScript dans CustomDataSet.
+data.engine.BadCloseScript=Echec de l'Ã©valuation de closeScript dans CustomDataSet.
 
-data.engine.InvalidCustomFieldIdx=Index de champ personnalisé incorrect : {0}.
+data.engine.InvalidCustomFieldIdx=Index de champ personnalisÃ© incorrect : {0}.
 
 data.engine.InvalidGroupName=Le nom de groupe est incorrect.
 
-data.engine.DuplicateGroupName=Les noms de groupe sont dupliqués.
+data.engine.DuplicateGroupName=Les noms de groupe sont dupliquÃ©s.
 
-data.engine.BadOpenScript=Echec de l'évaluation de openScript dans CustomDataSet.
+data.engine.BadOpenScript=Echec de l'Ã©valuation de openScript dans CustomDataSet.
 
-data.engine.DataSourceIsOpen=La source de données est déjà ouverte.
+data.engine.DataSourceIsOpen=La source de donnÃ©es est dÃ©jÃ  ouverte.
 
-data.engine.DataSourceNotOpen=La source de données n'est pas ouverte.
+data.engine.DataSourceNotOpen=La source de donnÃ©es n'est pas ouverte.
 
-data.engine.EmptyCustomFieldName=Le nom de champ personnalisé ne doit pas être vide.
+data.engine.EmptyCustomFieldName=Le nom de champ personnalisÃ© ne doit pas Ãªtre vide.
 
-data.engine.DupCustomFieldName=Nom de champ personnalisé en double : {0}.
+data.engine.DupCustomFieldName=Nom de champ personnalisÃ© en double : {0}.
 
-data.engine.NoResultSet=L'exécution de la requête n'a renvoyé aucun jeu de résultats.
+data.engine.NoResultSet=L'exÃ©cution de la requÃªte n'a renvoyÃ© aucun jeu de rÃ©sultats.
 
-data.engine.NoResultMetadata=Métadonnées de résultat non disponibles.
+data.engine.NoResultMetadata=MÃ©tadonnÃ©es de rÃ©sultat non disponibles.
 
-data.engine.QueryAlreadyPrepared=La requête a déjà été préparée.
+data.engine.QueryAlreadyPrepared=La requÃªte a dÃ©jÃ  Ã©tÃ© prÃ©parÃ©e.
 
-data.engine.QueryNotPrepared=La requête n'a pas encore été préparée.
+data.engine.QueryNotPrepared=La requÃªte n'a pas encore Ã©tÃ© prÃ©parÃ©e.
 
 data.engine.InvalidFieldName=Nom de champ incorrect : {0}.
 
@@ -107,387 +107,387 @@ data.engine.DupAlias=Alias ou nom de colonne en double : {0}.
 
 data.engine.InvalidFieldIndex=Index de champ incorrect : {0}.
 
-data.engine.fail.prepareExecution=Echec de préparation de l'exécution de la requête pour le jeu de données : {0}.
+data.engine.fail.prepareExecution=Echec de prÃ©paration de l'exÃ©cution de la requÃªte pour le jeu de donnÃ©es : {0}.
 
-data.engine.groupIncrementalUpdate.IllegalGroupOrderState=Etat de la mise à jour du groupe incorrect : groupe actuel <{0}> supérieur au groupe de traitement <{1}>.
+data.engine.groupIncrementalUpdate.IllegalGroupOrderState=Etat de la mise Ã  jour du groupe incorrect : groupe actuel <{0}> supÃ©rieur au groupe de traitement <{1}>.
 
-data.engine.MatchError=Vérifiez la syntaxe du motif. Erreur de correspondance entre la chaîne et le motif : {0}.
+data.engine.MatchError=VÃ©rifiez la syntaxe du motif. Erreur de correspondance entre la chaÃ®ne et le motif : {0}.
 
-data.engine.ExpectBooleanReturnType=Le script {0} du jeu de données nécessitant un script doit renvoyer une valeur booléenne.
+data.engine.ExpectBooleanReturnType=Le script {0} du jeu de donnÃ©es nÃ©cessitant un script doit renvoyer une valeur boolÃ©enne.
 
-data.engine.BadIntervalUnit=Valeur d'unité d'intervalle incorrecte : {0}.
+data.engine.BadIntervalUnit=Valeur d'unitÃ© d'intervalle incorrecte : {0}.
 
-data.engine.BadGroupKeyType=Le type de données de la clé de groupe n'est pas pris en charge : {0}.
+data.engine.BadGroupKeyType=Le type de donnÃ©es de la clÃ© de groupe n'est pas pris en charge : {0}.
 
-data.engine.group.interval=La définition d''un intervalle {0} sur une colonne de type {1} n''est pas prise en charge.
+data.engine.group.interval=La dÃ©finition d''un intervalle {0} sur une colonne de type {1} n''est pas prise en charge.
 
-data.engine.group.interval.Rowid=L'intervalle numérique est le seul intervalle pris en charge dans la colonne ROWID.
+data.engine.group.interval.Rowid=L'intervalle numÃ©rique est le seul intervalle pris en charge dans la colonne ROWID.
 
-data.engine.group.interval.invalid=L'intervalle indiqué n'est pas valide.
+data.engine.group.interval.invalid=L'intervalle indiquÃ© n'est pas valide.
 
 data.engine.group.intervalRange.invalid=Plage d''intervalles non valide : {0}.
 
 data.engine.NoSupportFilterOnGroup=Le filtrage de groupes n'est pas pris en charge actuellement.
 
-data.engine.InvalidTopBottomArgument=L'argument des filtres Haut/Bas doit être un nombre.
+data.engine.InvalidTopBottomArgument=L'argument des filtres Haut/Bas doit Ãªtre un nombre.
 
-data.engine.InvalidTopBottomNArgument=L'argument des filtres TopN/BottomN doit être zéro ou un entier positif.
+data.engine.InvalidTopBottomNArgument=L'argument des filtres TopN/BottomN doit Ãªtre zÃ©ro ou un entier positif.
 
-data.engine.InvalidTopBottomPercentArgument=L'argument des filtres TopPercent/BottomPercent doit être positif et inférieur ou égal à 100.
+data.engine.InvalidTopBottomPercentArgument=L'argument des filtres TopPercent/BottomPercent doit Ãªtre positif et infÃ©rieur ou Ã©gal Ã  100.
 
-data.engine.UnsupportedCondOp=L'opérateur conditionnel n'est pas pris en charge : {0}.
+data.engine.UnsupportedCondOp=L'opÃ©rateur conditionnel n'est pas pris en charge : {0}.
 
-data.engine.EmptyExpression=L'expression ne peut être ni nulle ni vide.
+data.engine.EmptyExpression=L'expression ne peut Ãªtre ni nulle ni vide.
 
-data.engine.AggregationBinding.EmptyArgument=L'argument "{0}" est requis par la liaison d'agrégation "{1}".
+data.engine.AggregationBinding.EmptyArgument=L'argument "{0}" est requis par la liaison d'agrÃ©gation "{1}".
 
 data.engine.InvalidJoinType=Type de jointure incorrect.
 
-data.engine.InvalidJoinOperator=Opérateur de jointure incorrect.
+data.engine.InvalidJoinOperator=OpÃ©rateur de jointure incorrect.
 
-data.engine.BadDataSetParamName=Paramètre de jeu de données non défini : {0}.
+data.engine.BadDataSetParamName=ParamÃ¨tre de jeu de donnÃ©es non dÃ©fini : {0}.
 
-data.engine.FailComputeOutputParameterValue=Echec de l'évaluation des valeurs de paramètres de sortie : {0}.
+data.engine.FailComputeOutputParameterValue=Echec de l'Ã©valuation des valeurs de paramÃ¨tres de sortie : {0}.
 
-data.engine.LinkedReportParamAllowMultiValues=Le paramètre d'état "{0}" qui autorise des valeurs multiples ne peut pas être utilisé pour la liaison au paramètre de jeu de données "{1}".
+data.engine.LinkedReportParamAllowMultiValues=Le paramÃ¨tre d'Ã©tat "{0}" qui autorise des valeurs multiples ne peut pas Ãªtre utilisÃ© pour la liaison au paramÃ¨tre de jeu de donnÃ©es "{1}".
 
 #column binding
-data.engine.EmptyBindingName=Le nom de liaison ne peut être ni nul ni vide.
+data.engine.EmptyBindingName=Le nom de liaison ne peut Ãªtre ni nul ni vide.
 
-data.engine.InvalidBoundColumnName=Nom de colonne liée incorrecte : {0}.
+data.engine.InvalidBoundColumnName=Nom de colonne liÃ©e incorrecte : {0}.
 
-data.engine.InvalidGroupKey=La clé de groupe "{0}" du groupe {1} ne peut pas dépendre des liaisons de colonne du groupe inférieur.
+data.engine.InvalidGroupKey=La clÃ© de groupe "{0}" du groupe {1} ne peut pas dÃ©pendre des liaisons de colonne du groupe infÃ©rieur.
 
 data.engine.ColumnBindingNotExist=La liaison "{0}" n'existe pas.
 
-data.engine.ColumnBindingCycle=La liaison "{0}" possède un cycle de dépendance.
+data.engine.ColumnBindingCycle=La liaison "{0}" possÃ¨de un cycle de dÃ©pendance.
 
-data.engine.ColumnBindingReferToInexistColumn=La liaison de colonne "{0}" a renvoyé vers une liaison "{1}" qui n'existe pas.
+data.engine.ColumnBindingReferToInexistColumn=La liaison de colonne "{0}" a renvoyÃ© vers une liaison "{1}" qui n'existe pas.
 
-data.engine.ColumnBindingReferToInexistBinding=La liaison de colonne "{0}" a renvoyé vers une colonne de jeu de données "{1}" qui n'existe pas.
+data.engine.ColumnBindingReferToInexistBinding=La liaison de colonne "{0}" a renvoyÃ© vers une colonne de jeu de donnÃ©es "{1}" qui n'existe pas.
 
-data.engine.ColumnBindingReferToAggregationColumnBindingInParentQuery=La liaison de colonne "{0}" est incorrecte : les liaisons de colonne de requête parent qui incluent des agrégations ne peuvent pas être utilisées dans les liaisons de colonne d'une sous-requête.
+data.engine.ColumnBindingReferToAggregationColumnBindingInParentQuery=La liaison de colonne "{0}" est incorrecte : les liaisons de colonne de requÃªte parent qui incluent des agrÃ©gations ne peuvent pas Ãªtre utilisÃ©es dans les liaisons de colonne d'une sous-requÃªte.
 
-data.engine.ReadColumnValueFromDocumentError=Une erreur s'est produite lors de la tentative de lecture de la valeur de la colonne : {0}. Une erreur d'exécution s'est peut-être produite lors de l'évaluation d'une expression de liaison, c'est-à-dire une erreur causée par une division par 0.
+data.engine.ReadColumnValueFromDocumentError=Une erreur s'est produite lors de la tentative de lecture de la valeur de la colonne : {0}. Une erreur d'exÃ©cution s'est peut-Ãªtre produite lors de l'Ã©valuation d'une expression de liaison, c'est-Ã -dire une erreur causÃ©e par une division par 0.
 
-data.engine.NoOuterResultsExist=Les résultats de la requête externe sont introuvables. Cela peut être dû à la présence d'une référence externe dans une requête sans requête parent.
+data.engine.NoOuterResultsExist=Les rÃ©sultats de la requÃªte externe sont introuvables. Cela peut Ãªtre dÃ» Ã  la prÃ©sence d'une rÃ©fÃ©rence externe dans une requÃªte sans requÃªte parent.
 
 data.engine.DuplicatedBindingName=Le nom de la liaison est en double : {0}.
 
-data.engine.InvalidAggrLevelKeyInSummaryQuery=L'agrégation : {0} se rapporte à un nom de groupe incorrect.
+data.engine.InvalidAggrLevelKeyInSummaryQuery=L'agrÃ©gation : {0} se rapporte Ã  un nom de groupe incorrect.
 #computed column value
 data.engine.BadCompColExpr=L''expression de la colonne de calcul "{0}" est incorrecte.
 
-data.engine.CompCol.FailRetrieveValueComputedColumn=Echec du calcul de la valeur pour la colonne calculée "{0}".
+data.engine.CompCol.FailRetrieveValueComputedColumn=Echec du calcul de la valeur pour la colonne calculÃ©e "{0}".
 
-data.engine.ScriptResult.WrongSystemComputedColumn=Impossible d'évaluer l'expression de tri, de groupe, de filtre ou de liaison. Un des champs de données utilisés dans l'expression n'existe pas dans le jeu de données.
+data.engine.ScriptResult.WrongSystemComputedColumn=Impossible d'Ã©valuer l'expression de tri, de groupe, de filtre ou de liaison. Un des champs de donnÃ©es utilisÃ©s dans l'expression n'existe pas dans le jeu de donnÃ©es.
 
-data.engine.ComputedColumnCycle=La colonne de calcul "{0}" possède un cycle de dépendance.
+data.engine.ComputedColumnCycle=La colonne de calcul "{0}" possÃ¨de un cycle de dÃ©pendance.
 
-data.engine.SortOnAggregation=Le tri selon l'agrégation de non-regroupement ou la colonne de calcul référencée par l'agrégation "{0}" n'est pas pris en charge.
+data.engine.SortOnAggregation=Le tri selon l'agrÃ©gation de non-regroupement ou la colonne de calcul rÃ©fÃ©rencÃ©e par l'agrÃ©gation "{0}" n'est pas pris en charge.
 
 data.engine.BadFilterExpr=L''expression de filtre "{0}" n''est pas valide.
 
-data.engine.BadFilterDefn=Echec de l'évaluation du filtre basé sur l'expression "{0}".
+data.engine.BadFilterDefn=Echec de l'Ã©valuation du filtre basÃ© sur l'expression "{0}".
 
 #clob and blob error
-data.engine.opencloberror=Erreur de flux lors de l'ouverture du caractère CLOB.
+data.engine.opencloberror=Erreur de flux lors de l'ouverture du caractÃ¨re CLOB.
 
-data.engine.readcloberror=Erreur de flux lors de la lecture du caractère CLOB.
+data.engine.readcloberror=Erreur de flux lors de la lecture du caractÃ¨re CLOB.
 
-data.engine.openbloberror=Erreur de flux lors de l'ouverture du flux de données BLOB.
+data.engine.openbloberror=Erreur de flux lors de l'ouverture du flux de donnÃ©es BLOB.
 
-data.engine.readbloberror=Erreur de flux lors de la lecture du flux de données BLOB.
+data.engine.readbloberror=Erreur de flux lors de la lecture du flux de donnÃ©es BLOB.
 
 #resultsetcache exception
-data.engine.BadDestIndex=La valeur {0} de destIndex est incorrecte. Elle devrait être comprise entre 0 et {1}.
+data.engine.BadDestIndex=La valeur {0} de destIndex est incorrecte. Elle devrait Ãªtre comprise entre 0 et {1}.
 
-data.engine.WriteTempError=Exception lors de l'écriture du fichier temporaire pour un jeu de données volumineux.
+data.engine.WriteTempError=Exception lors de l'Ã©criture du fichier temporaire pour un jeu de donnÃ©es volumineux.
 
-data.engine.ReadTempError=Exception lors de la lecture du fichier temporaire pour un jeu de données volumineux.
+data.engine.ReadTempError=Exception lors de la lecture du fichier temporaire pour un jeu de donnÃ©es volumineux.
 
 #resultiterator cache exception
-data.engine.CreateCacheTempError=Exception lors de la création du fichier temporaire pour la mise en mémoire cache des lignes de résultats.
+data.engine.CreateCacheTempError=Exception lors de la crÃ©ation du fichier temporaire pour la mise en mÃ©moire cache des lignes de rÃ©sultats.
 
-data.engine.OpenCacheTempError=Exception lors de l'ouverture du fichier temporaire pour la mise en mémoire cache des lignes de résultats.
+data.engine.OpenCacheTempError=Exception lors de l'ouverture du fichier temporaire pour la mise en mÃ©moire cache des lignes de rÃ©sultats.
 
-data.engine.WriteCacheTempError=Exception lors de l'écriture du fichier temporaire pour la mise en mémoire cache des lignes de résultats.
+data.engine.WriteCacheTempError=Exception lors de l'Ã©criture du fichier temporaire pour la mise en mÃ©moire cache des lignes de rÃ©sultats.
 
-data.engine.ReadCacheTempError=Exception lors de la lecture du fichier temporaire pour la mise en mémoire cache des lignes de résultats.
+data.engine.ReadCacheTempError=Exception lors de la lecture du fichier temporaire pour la mise en mÃ©moire cache des lignes de rÃ©sultats.
 
-data.engine.CloseCacheTempError=Exception lors de la fermeture du fichier temporaire pour la mise en mémoire cache des lignes de résultats.
+data.engine.CloseCacheTempError=Exception lors de la fermeture du fichier temporaire pour la mise en mÃ©moire cache des lignes de rÃ©sultats.
 
 data.engine.FailedLoadColumnValue=Echec du chargement de la valeur pour "{0}" colonne de type "{1}".
 
 data.engine.FailedLoadClass=Echec du chargement de la classe "{0}" pour "{1}" colonne de type "{2}". assurez-vous que la classe "{0}" est comprise dans le chemin du chargement de classe du moteur de recherche BIRT.
 
 #load data engine factory exception
-load.factory.error=Une erreur s'est produite lors du chargement de la génération du moteur de données.
+load.factory.error=Une erreur s'est produite lors du chargement de la gÃ©nÃ©ration du moteur de donnÃ©es.
 
 # Wrapped Error
-data.engine.DataConversionError=Une erreur s'est produite lors de la conversion du type de données.
+data.engine.DataConversionError=Une erreur s'est produite lors de la conversion du type de donnÃ©es.
 
 data.engine.BadCompareExpr=Impossible de comparer "{0}" avec "{1}".
 
-data.engine.BadCompareSingleValueWithMultiValues=Echec de l'application du filtre, car la condition de filtre est incorrecte (une valeur unique est comparée avec des valeurs multiples de [{0}]).\nNe définissez qu'une seule valeur pour ce filtre.
+data.engine.BadCompareSingleValueWithMultiValues=Echec de l'application du filtre, car la condition de filtre est incorrecte (une valeur unique est comparÃ©e avec des valeurs multiples de [{0}]).\nNe dÃ©finissez qu'une seule valeur pour ce filtre.
 
 data.engine.BirtException=Une exception BIRT s'est produite. Voir l'exception suivante pour plus d'informations.
 
 # data set cache error
-data.engine.datasetcache.save.error=Une erreur est survenue lors de l'enregistrement de fichiers du cache des jeux de données.
+data.engine.datasetcache.save.error=Une erreur est survenue lors de l'enregistrement de fichiers du cache des jeux de donnÃ©es.
 
-data.engine.datasetcache.load.error=Une erreur est survenue lors du chargement de fichiers du cache des jeux de données.
+data.engine.datasetcache.load.error=Une erreur est survenue lors du chargement de fichiers du cache des jeux de donnÃ©es.
 
-data.engine.exceed.max.data.object.row=Impossible de traiter la requête. Pour exécuter la requête, la taille du tampon du jeu de résultats doit être augmentée ou la requête doit être limitée.
+data.engine.exceed.max.data.object.row=Impossible de traiter la requÃªte. Pour exÃ©cuter la requÃªte, la taille du tampon du jeu de rÃ©sultats doit Ãªtre augmentÃ©e ou la requÃªte doit Ãªtre limitÃ©e.
 
 # error related with data engine context
-data.engine.InvalidMode=La valeur de mode {0} pour le contexte du moteur de données n''est pas valide.
+data.engine.InvalidMode=La valeur de mode {0} pour le contexte du moteur de donnÃ©es n''est pas valide.
 
-data.engine.InvalidArchive=Pour la génération ou la présentation, l'archive d'état ne peut pas être nulle.
+data.engine.InvalidArchive=Pour la gÃ©nÃ©ration ou la prÃ©sentation, l'archive d'Ã©tat ne peut pas Ãªtre nulle.
 
-data.engine.SaveReportDocumentError=Une erreur d'état s'est produite lors de l'enregistrement : {0}.
+data.engine.SaveReportDocumentError=Une erreur d'Ã©tat s'est produite lors de l'enregistrement : {0}.
 
-data.engine.LoadReportDocumentError=Une erreur d'état s'est produite lors du chargement : {0}.
+data.engine.LoadReportDocumentError=Une erreur d'Ã©tat s'est produite lors du chargement : {0}.
 
-data.engine.GetSaveStreamError=Une erreur d'état s'est produite lors de la récupération du flux enregistré.
+data.engine.GetSaveStreamError=Une erreur d'Ã©tat s'est produite lors de la rÃ©cupÃ©ration du flux enregistrÃ©.
 
-data.engine.GetLoadStreamError=Une erreur d'état s'est produite lors de la récupération du flux chargé.
+data.engine.GetLoadStreamError=Une erreur d'Ã©tat s'est produite lors de la rÃ©cupÃ©ration du flux chargÃ©.
 
-data.engine.NullExpr=L'expression ne peut pas être nulle pour la récupération de la valeur dans la présentation.
+data.engine.NullExpr=L'expression ne peut pas Ãªtre nulle pour la rÃ©cupÃ©ration de la valeur dans la prÃ©sentation.
 
-data.engine.InValidExpr=Expression non valide pour récupérer la valeur dans la présentation.
+data.engine.InValidExpr=Expression non valide pour rÃ©cupÃ©rer la valeur dans la prÃ©sentation.
 
-data.engine.BadGroupExpr=L'expression de groupe doit être renseignée.
+data.engine.BadGroupExpr=L'expression de groupe doit Ãªtre renseignÃ©e.
 
-data.engine.filterExprContainRowNum=L'expression de filtre ne peut pas référencer l'objet de script java "row.__num".
+data.engine.filterExprContainRowNum=L'expression de filtre ne peut pas rÃ©fÃ©rencer l'objet de script java "row.__num".
 
-data.engine.sortExprContainRowNum=L'expression de tri ne peut pas référencer l'objet de script java "row.__num".
+data.engine.sortExprContainRowNum=L'expression de tri ne peut pas rÃ©fÃ©rencer l'objet de script java "row.__num".
 
-data.engine.ResultSetNotStart=Le jeu de résultats n'a pas encore démarré.
+data.engine.ResultSetNotStart=Le jeu de rÃ©sultats n'a pas encore dÃ©marrÃ©.
 
-data.engine.GetLevelMemberError=Cette liaison de données est utilisée en dehors de l'étendue proposée.
+data.engine.GetLevelMemberError=Cette liaison de donnÃ©es est utilisÃ©e en dehors de l'Ã©tendue proposÃ©e.
 
 data.engine.invalidRowIndex=Valeur d'index de ligne incorrecte : {0}.
 
-data.engine.backwardSeekError=La recherche en arrière n'est pas prise en charge dans cette version.
+data.engine.backwardSeekError=La recherche en arriÃ¨re n'est pas prise en charge dans cette version.
 
-data.engine.startError=La méthode suivante doit d'abord être appelée.
+data.engine.startError=La mÃ©thode suivante doit d'abord Ãªtre appelÃ©e.
 
 # query running based on report document
-data.engine.rd.errorfilters=Les filtres définis dans la requête ne sont pas pris en charge.
+data.engine.rd.errorfilters=Les filtres dÃ©finis dans la requÃªte ne sont pas pris en charge.
 
 # other error
-data.engine.ScriptEvalError=Erreur d''évaluation de script (source : {0}, ligne : {1} : {2}.
+data.engine.ScriptEvalError=Erreur d''Ã©valuation de script (source : {0}, ligne : {1} : {2}.
 
-data.engine.PreparedQueryClosed=L'instance PreparedQuery est fermée.
+data.engine.PreparedQueryClosed=L'instance PreparedQuery est fermÃ©e.
 
-data.engine.NullDefaultInParamValue=La valeur par défaut du paramètre d'entrée ne peut pas être nulle.
+data.engine.NullDefaultInParamValue=La valeur par dÃ©faut du paramÃ¨tre d'entrÃ©e ne peut pas Ãªtre nulle.
 
-data.engine.BadGroupKeyExpr=L''expression de clé de groupe {0} est incorrecte.
+data.engine.BadGroupKeyExpr=L''expression de clÃ© de groupe {0} est incorrecte.
 
-data.engine.GroupNotExist=Le groupe "{0}" utilisé dans la colonne {1} n''existe pas.
+data.engine.GroupNotExist=Le groupe "{0}" utilisÃ© dans la colonne {1} n''existe pas.
 
-data.engine.BadSortKeyExpr=L''expression de clé de tri {0} est incorrecte.
+data.engine.BadSortKeyExpr=L''expression de clÃ© de tri {0} est incorrecte.
 
-data.engine.NoParamMetaForDataSource=Impossible d''obtenir les métadonnées du paramètre pour ce type de source de données.
+data.engine.NoParamMetaForDataSource=Impossible d''obtenir les mÃ©tadonnÃ©es du paramÃ¨tre pour ce type de source de donnÃ©es.
 
-data.engine.UnexpectedError=Echec du moteur de données à la suite d'une exception inattendue.
+data.engine.UnexpectedError=Echec du moteur de donnÃ©es Ã  la suite d'une exception inattendue.
 
-data.engine.ConvertDataTypeError=Impossible de convertir la valeur de paramètre {0} au type {1}.
+data.engine.ConvertDataTypeError=Impossible de convertir la valeur de paramÃ¨tre {0} au type {1}.
 
-data.engine.CannotInstantiateAggregationFactory=Impossible d''instancier la génération de l''agrégation {0}.
+data.engine.CannotInstantiateAggregationFactory=Impossible d''instancier la gÃ©nÃ©ration de l''agrÃ©gation {0}.
 
-date.engine.DuplicateAggregationName=Nom de l'agrégation en double : {0}.
+date.engine.DuplicateAggregationName=Nom de l'agrÃ©gation en double : {0}.
 
-data.engine.InconsistentAggregationArgumentDefinition=L'argument d'agrégation défini dans l'implémentation de l'extension d'agrégation est incohérent avec celui défini dans le fichier plugin.xml.
+data.engine.InconsistentAggregationArgumentDefinition=L'argument d'agrÃ©gation dÃ©fini dans l'implÃ©mentation de l'extension d'agrÃ©gation est incohÃ©rent avec celui dÃ©fini dans le fichier plugin.xml.
 
-data.engine.incorrectGroupKeyValues=Le tableau des valeurs clés de groupe donné est incorrect.
+data.engine.incorrectGroupKeyValues=Le tableau des valeurs clÃ©s de groupe donnÃ© est incorrect.
 
 data.engine.NoExpressionProcessorAvailable=Aucun ExpressionProcessor disponible.
 
-data.engine.InconvertibleDatatype=Le type de données d'origine de la valeur {0} est {1}, qui ne peut pas être converti en type de données {2}.
+data.engine.InconvertibleDatatype=Le type de donnÃ©es d'origine de la valeur {0} est {1}, qui ne peut pas Ãªtre converti en type de donnÃ©es {2}.
 
-data.engine.ConvertToDataTypeError={0} ne peut pas être converti en {1}.
+data.engine.ConvertToDataTypeError={0} ne peut pas Ãªtre converti en {1}.
 
-data.engine.NoRowUpdate=Impossible de mettre à jour la ligne de données pour le moment.
+data.engine.NoRowUpdate=Impossible de mettre Ã  jour la ligne de donnÃ©es pour le moment.
 
-data.engine.BadDataType=Le type de données n'est pas pris en charge{0}.
+data.engine.BadDataType=Le type de donnÃ©es n'est pas pris en charge{0}.
 
-data.engine.NotSerializableClass=La classe {0} n'est pas prise en charge pour une sérialisation.
+data.engine.NotSerializableClass=La classe {0} n'est pas prise en charge pour une sÃ©rialisation.
 
-data.engine.BadDataExpression=L'expression de données ne doit pas être nulle.
+data.engine.BadDataExpression=L'expression de donnÃ©es ne doit pas Ãªtre nulle.
 
-data.engine.aggregation.InvalidBindingExpression=La mesure calculée n'est pas correcte pour la liaison d'agrégation "{0}".
+data.engine.aggregation.InvalidBindingExpression=La mesure calculÃ©e n'est pas correcte pour la liaison d'agrÃ©gation "{0}".
 
 data.engine.InvalidExpression=Expression "{0}" non valide.
 
-data.engine.BadFetchScriptReturnType=La méthode de script de jeu de données "{0}" a renvoyé {1} ; une valeur booléenne est attendue.
+data.engine.BadFetchScriptReturnType=La mÃ©thode de script de jeu de donnÃ©es "{0}" a renvoyÃ© {1} ; une valeur boolÃ©enne est attendue.
 
-data.engine.FailToExecuteScript=Echec de l'exécution du script dans la fonction {0}(). Source : \n------\n" + {1} + "\n-----
+data.engine.FailToExecuteScript=Echec de l'exÃ©cution du script dans la fonction {0}(). Source : \n------\n" + {1} + "\n-----
 
-data.engine.cacheFunctionWrongMode=de création de pdf en cache ne fonctionne qu'en mode DIRECT_PRESENTATION.
+data.engine.cacheFunctionWrongMode=de crÃ©ation de pdf en cache ne fonctionne qu'en mode DIRECT_PRESENTATION.
 
 data.engine.document.invalidIndexArray=Le tableau d'index n'est pas valide.
 
-data.engine.document.invalidGroupItem=L'élément de groupe supprimé n'est pas correct.
+data.engine.document.invalidGroupItem=L'Ã©lÃ©ment de groupe supprimÃ© n'est pas correct.
 
 data.engine.resultIteratorNotOpen=Result iterator n'est pas encore ouvert.
 
-data.engine.resultIteratorClosed=Result iterator a été fermé.
+data.engine.resultIteratorClosed=Result iterator a Ã©tÃ© fermÃ©.
 
-data.engine.invalidOutputParameterIndex=Index de paramètre de sortie non valide : {0}.
+data.engine.invalidOutputParameterIndex=Index de paramÃ¨tre de sortie non valide : {0}.
 
-data.engine.outputParameterOutOfBound=L'index de paramètre de sortie est hors limites : {0}.
+data.engine.outputParameterOutOfBound=L'index de paramÃ¨tre de sortie est hors limites : {0}.
 
-data.engine.invalidOutputParameterName=Nom de paramètre de sortie non valide : {0}.
+data.engine.invalidOutputParameterName=Nom de paramÃ¨tre de sortie non valide : {0}.
 
-data.engine.document.notSupportInPresentation=Non pris en charge dans la présentation.
+data.engine.document.notSupportInPresentation=Non pris en charge dans la prÃ©sentation.
 
 data.engine.wrongStatus=Etat incorrect.
 
-data.engine.wrongVersion=Non pris en charge dans les versions antérieures à la version 2.1.
+data.engine.wrongVersion=Non pris en charge dans les versions antÃ©rieures Ã  la version 2.1.
 
-data.engine.unsupportOperationException=Opération non prise en charge.
+data.engine.unsupportOperationException=OpÃ©ration non prise en charge.
 
-data.engine.possibleMixedDataTypeInColumn=Une erreur s'est produite pendant la définition des données. Cela peut être dû à la présence de données mixtes dans une colonne de type « TOUT ».
+data.engine.possibleMixedDataTypeInColumn=Une erreur s'est produite pendant la dÃ©finition des donnÃ©es. Cela peut Ãªtre dÃ» Ã  la prÃ©sence de donnÃ©es mixtes dans une colonne de type Â« TOUT Â».
 
-data.engine.resultClassSaveError=Impossible de trouver les références des colonnes suivantes : {0}.
+data.engine.resultClassSaveError=Impossible de trouver les rÃ©fÃ©rences des colonnes suivantes : {0}.
 
-data.engine.invalidMemBufferSize=La taille du tampon de la mémoire "{0}" est incorrecte. La taille du tampon de la mémoire doit être un entier supérieur à zéro.
+data.engine.invalidMemBufferSize=La taille du tampon de la mÃ©moire "{0}" est incorrecte. La taille du tampon de la mÃ©moire doit Ãªtre un entier supÃ©rieur Ã  zÃ©ro.
 
 data.engine.document.error.cannotLoadStream=Le flux de document "{0}" est incorrect.
 
-data.engine.failToCreateTempDir=Echec de la création du répertoire temporaire dans "{0}";
+data.engine.failToCreateTempDir=Echec de la crÃ©ation du rÃ©pertoire temporaire dans "{0}";
 
-data.engine.reportItem.SubQuery.Unsupported=Le partage d'un élément d'état ne peut pas être utilisé pour une sous-requête.
+data.engine.reportItem.SubQuery.Unsupported=Le partage d'un Ã©lÃ©ment d'Ã©tat ne peut pas Ãªtre utilisÃ© pour une sous-requÃªte.
 
-data.engine.emptyResultSet=Le jeu de résultats est vide.
+data.engine.emptyResultSet=Le jeu de rÃ©sultats est vide.
 
-data.engine.errorHappenWhenRetrieveResultSet=Une erreur s'est produite lorsque vous avez consulté le jeu de résultats :"{0}". Il se peut que le jeu de résultats spécifié n'existe pas.
+data.engine.errorHappenWhenRetrieveResultSet=Une erreur s'est produite lorsque vous avez consultÃ© le jeu de rÃ©sultats :"{0}". Il se peut que le jeu de rÃ©sultats spÃ©cifiÃ© n'existe pas.
 
-data.engine.invalidAggregationBindingForPLSReport=La liaison d'agrégation "{0}" est incorrecte lorsque la sécurité de niveau de page est activée.
+data.engine.invalidAggregationBindingForPLSReport=La liaison d'agrÃ©gation "{0}" est incorrecte lorsque la sÃ©curitÃ© de niveau de page est activÃ©e.
 
-data.engine.acl.dataSetCannotBeAccessed=Impossible d'accéder au jeu de données "{0}".
+data.engine.acl.dataSetCannotBeAccessed=Impossible d'accÃ©der au jeu de donnÃ©es "{0}".
 
-data.engine.acl.dataSetColumnCannotBeAccessed=Impossible d'accéder à la colonne d'ensemble de données "{0}".
+data.engine.acl.dataSetColumnCannotBeAccessed=Impossible d'accÃ©der Ã  la colonne d'ensemble de donnÃ©es "{0}".
 
-data.engine.acl.cubeCannotBeAccessed=L'utilisateur ne dispose pas des autorisations d'accès à ce cube {0}.
+data.engine.acl.cubeCannotBeAccessed=L'utilisateur ne dispose pas des autorisations d'accÃ¨s Ã  ce cube {0}.
 
-data.engine.acl.cubeLevelCannotBeAccessed=L'utilisateur ne dispose pas des autorisations d'accès à ce niveau {0}.
+data.engine.acl.cubeLevelCannotBeAccessed=L'utilisateur ne dispose pas des autorisations d'accÃ¨s Ã  ce niveau {0}.
 
-data.engine.acl.cubeMeasureCannotBeAccessed=L'utilisateur ne dispose pas des autorisations d'accès à cette mesure {0}.
+data.engine.acl.cubeMeasureCannotBeAccessed=L'utilisateur ne dispose pas des autorisations d'accÃ¨s Ã  cette mesure {0}.
 
-data.engine.acl.cubeDimensionCannotBeAccessed=L'utilisateur ne dispose pas des autorisations d'accès à cette dimension "{0}"
+data.engine.acl.cubeDimensionCannotBeAccessed=L'utilisateur ne dispose pas des autorisations d'accÃ¨s Ã  cette dimension "{0}"
 # oda consumer errors
-odaconsumer.ColumnNameCannotBeEmptyOrNull=Le nom de colonne ne peut être ni vide ni nul.
+odaconsumer.ColumnNameCannotBeEmptyOrNull=Le nom de colonne ne peut Ãªtre ni vide ni nul.
 
-odaconsumer.ColumnPositionIsOneBased=La position de la colonne est basée sur 1 et ne peut pas être inférieure à 1.
+odaconsumer.ColumnPositionIsOneBased=La position de la colonne est basÃ©e sur 1 et ne peut pas Ãªtre infÃ©rieure Ã  1.
 
-odaconsumer.ColumnAliasCannotBeEmpty=L'alias de colonne ne peut pas être une chaîne vide.
+odaconsumer.ColumnAliasCannotBeEmpty=L'alias de colonne ne peut pas Ãªtre une chaÃ®ne vide.
 
-odaconsumer.CannotProcessDriverConfig=Impossible de trouver ou de traiter la configuration de l'extension de la source de données du pilote {0}.
+odaconsumer.CannotProcessDriverConfig=Impossible de trouver ou de traiter la configuration de l'extension de la source de donnÃ©es du pilote {0}.
 
-odaconsumer.OdaInitEntryNotFound=Impossible de détecter ou d''instancier le point d''entrée initial du pilote {0}.
+odaconsumer.OdaInitEntryNotFound=Impossible de dÃ©tecter ou d''instancier le point d''entrÃ©e initial du pilote {0}.
 
 odaconsumer.OdaDriverOnUnsupportedPlatform=Le pilote {0} ne prend pas en charge {1}.
 
-odaconsumer.CannotGenerateUrl=Impossible de générer l''URL {0} du chargeur de classe.
+odaconsumer.CannotGenerateUrl=Impossible de gÃ©nÃ©rer l''URL {0} du chargeur de classe.
 
-odaconsumer.UnsupportedNativeType=Type natif {0} non pris en charge pour le type de jeu de données {1} du pilote {2}.
+odaconsumer.UnsupportedNativeType=Type natif {0} non pris en charge pour le type de jeu de donnÃ©es {1} du pilote {2}.
 
-odaconsumer.UnsupportedDataSetType=Le type de jeu de données {0} n''est pas pris en charge par le pilote {1}.
+odaconsumer.UnsupportedDataSetType=Le type de jeu de donnÃ©es {0} n''est pas pris en charge par le pilote {1}.
 
-odaconsumer.CannotDetermineDefaultDataSetType=Type de jeu de données nul. Impossible de déterminer le type de jeu de données par défaut pour le pilote {0}.
+odaconsumer.CannotDetermineDefaultDataSetType=Type de jeu de donnÃ©es nul. Impossible de dÃ©terminer le type de jeu de donnÃ©es par dÃ©faut pour le pilote {0}.
 
-odaconsumer.InvalidDataSetType=Type de jeu de données incorrect {0}. Impossible de déterminer le type de jeu de données par défaut pour le jeu de données {1}.
+odaconsumer.InvalidDataSetType=Type de jeu de donnÃ©es incorrect {0}. Impossible de dÃ©terminer le type de jeu de donnÃ©es par dÃ©faut pour le jeu de donnÃ©es {1}.
 
-odaconsumer.ParameterNameCannotBeEmptyOrNull=Le nom de paramètre ne peut être ni vide ni nul.
+odaconsumer.ParameterNameCannotBeEmptyOrNull=Le nom de paramÃ¨tre ne peut Ãªtre ni vide ni nul.
 
-odaconsumer.ParameterPositionIsOneBased=La position du paramètre ne peut pas être inférieure à 1.
+odaconsumer.ParameterPositionIsOneBased=La position du paramÃ¨tre ne peut pas Ãªtre infÃ©rieure Ã  1.
 
-odaconsumer.CannotGetParameterNativeName=Impossible d''obtenir le nom défini par le pilote du paramètre : {0}.
+odaconsumer.CannotGetParameterNativeName=Impossible d''obtenir le nom dÃ©fini par le pilote du paramÃ¨tre : {0}.
 
-odaconsumer.CannotGetParameterType=Impossible d''obtenir le type du paramètre : {0}.
+odaconsumer.CannotGetParameterType=Impossible d''obtenir le type du paramÃ¨tre : {0}.
 
-odaconsumer.CannotGetParameterTypeName=Impossible d''obtenir le nom du type du paramètre : {0}.
+odaconsumer.CannotGetParameterTypeName=Impossible d''obtenir le nom du type du paramÃ¨tre : {0}.
 
-odaconsumer.CannotGetParameterMode=Impossible d''obtenir le mode du paramètre : {0}.
+odaconsumer.CannotGetParameterMode=Impossible d''obtenir le mode du paramÃ¨tre : {0}.
 
-odaconsumer.CannotGetParameterScale=Impossible d''obtenir l'échelle du paramètre : {0}.
+odaconsumer.CannotGetParameterScale=Impossible d''obtenir l'Ã©chelle du paramÃ¨tre : {0}.
 
-odaconsumer.CannotGetParameterPrecision=Impossible d''obtenir la précision du paramètre : {0}.
+odaconsumer.CannotGetParameterPrecision=Impossible d''obtenir la prÃ©cision du paramÃ¨tre : {0}.
 
-odaconsumer.CannotGetParameterIsNullable=Impossible de déterminer le caractère de nullité du paramètre : {0}.
+odaconsumer.CannotGetParameterIsNullable=Impossible de dÃ©terminer le caractÃ¨re de nullitÃ© du paramÃ¨tre : {0}.
 
-odaconsumer.SameParamNameForDifferentHints=Un autre paramètre du jeu de données est défini avec le même nom {0}.
+odaconsumer.SameParamNameForDifferentHints=Un autre paramÃ¨tre du jeu de donnÃ©es est dÃ©fini avec le mÃªme nom {0}.
 
-odaconsumer.DifferentParamNameForSamePosition=Un autre paramètre {0} du jeu de données est défini avec la même position {1}.
+odaconsumer.DifferentParamNameForSamePosition=Un autre paramÃ¨tre {0} du jeu de donnÃ©es est dÃ©fini avec la mÃªme position {1}.
 
-odaconsumer.ParameterValueIsNull=La valeur du paramètre est nulle.
+odaconsumer.ParameterValueIsNull=La valeur du paramÃ¨tre est nulle.
 
-odaconsumer.UnsupportedParameterValueType=Type de valeur de paramètre non pris en charge : {0}.
+odaconsumer.UnsupportedParameterValueType=Type de valeur de paramÃ¨tre non pris en charge : {0}.
 
-odaconsumer.UnknownExceptionThrown=Exception inconnue basculée dans le dernier appel de la méthode de réglage.
+odaconsumer.UnknownExceptionThrown=Exception inconnue basculÃ©e dans le dernier appel de la mÃ©thode de rÃ©glage.
 
-odaconsumer.CannotConvertIndexedParameterValue=Impossible de convertir la valeur de paramètre {0} à l''index {1} à partir du type de valeur {2} vers le type ODA {3}.
+odaconsumer.CannotConvertIndexedParameterValue=Impossible de convertir la valeur de paramÃ¨tre {0} Ã  l''index {1} Ã  partir du type de valeur {2} vers le type ODA {3}.
 
-odaconsumer.CannotConvertNamedParameterValue=Impossible de convertir la valeur de paramètre {0} avec le nom de paramètre {1} à partir du type de valeur {2} vers le type ODA {3}.
+odaconsumer.CannotConvertNamedParameterValue=Impossible de convertir la valeur de paramÃ¨tre {0} avec le nom de paramÃ¨tre {1} Ã  partir du type de valeur {2} vers le type ODA {3}.
 
-odaconsumer.UnrecognizedProjectedColumnName=Nom de colonne projetée non reconnu : {0}.
+odaconsumer.UnrecognizedProjectedColumnName=Nom de colonne projetÃ©e non reconnu : {0}.
 
-odaconsumer.ColumnNameOrAliasAlreadyUsed=Le nouveau nom ou alias de colonne {0} est déjà utilisé par la colonne à l'index {1}.
+odaconsumer.ColumnNameOrAliasAlreadyUsed=Le nouveau nom ou alias de colonne {0} est dÃ©jÃ  utilisÃ© par la colonne Ã  l'index {1}.
 
-odaconsumer.NamedResultSetsUnsupported=Cette instruction ne prend pas en charge les jeux de résultats nommés.
+odaconsumer.NamedResultSetsUnsupported=Cette instruction ne prend pas en charge les jeux de rÃ©sultats nommÃ©s.
 
-odaconsumer.OutputParameterUnsupported=Cette instruction ne prend pas en charge les paramètres de sortie.
+odaconsumer.OutputParameterUnsupported=Cette instruction ne prend pas en charge les paramÃ¨tres de sortie.
 
-odaconsumer.UnsupportedMultipleResultSets=Cette instruction ne prend pas en charge les jeux de résultats multiples.
+odaconsumer.UnsupportedMultipleResultSets=Cette instruction ne prend pas en charge les jeux de rÃ©sultats multiples.
 
-odaconsumer.CannotGetConnectionMetaData=Impossible d''obtenir les métadonnées de connexion.
+odaconsumer.CannotGetConnectionMetaData=Impossible d''obtenir les mÃ©tadonnÃ©es de connexion.
 
-odaconsumer.CannotGetMaxConnections=Impossible d''obtenir le nombre maximum de connexions pour la source de données.
+odaconsumer.CannotGetMaxConnections=Impossible d''obtenir le nombre maximum de connexions pour la source de donnÃ©es.
 
-odaconsumer.CannotGetMaxStatements=Impossible d''obtenir le nombre maximum de requêtes pour la source de données.
+odaconsumer.CannotGetMaxStatements=Impossible d''obtenir le nombre maximum de requÃªtes pour la source de donnÃ©es.
 
-odaconsumer.CannotGetDataSetMetaData=Impossible d''obtenir les métadonnées de jeu de données {0} depuis la source de données.
+odaconsumer.CannotGetDataSetMetaData=Impossible d''obtenir les mÃ©tadonnÃ©es de jeu de donnÃ©es {0} depuis la source de donnÃ©es.
 
-odaconsumer.CannotPrepareStatement=Echec de préparation de la requête suivante pour le type de jeu de données ({1}). \n[{0}]
+odaconsumer.CannotPrepareStatement=Echec de prÃ©paration de la requÃªte suivante pour le type de jeu de donnÃ©es ({1}). \n[{0}]
 
 odaconsumer.CannotCloseConnection=Impossible de fermer la connexion.
 
-odaconsumer.CannotOpenConnection=Impossible d''établir la connexion pour le pilote : {0}.
+odaconsumer.CannotOpenConnection=Impossible d''Ã©tablir la connexion pour le pilote : {0}.
 
-odaconsumer.CannotDetermineSupportForMultipleOpenResults=Impossible de déterminer la prise en charge de plusieurs résultats ouverts.
+odaconsumer.CannotDetermineSupportForMultipleOpenResults=Impossible de dÃ©terminer la prise en charge de plusieurs rÃ©sultats ouverts.
 
-odaconsumer.CannotDetermineSupportForMultipleResultSets=Impossible de déterminer la prise en charge de plusieurs jeux de résultats.
+odaconsumer.CannotDetermineSupportForMultipleResultSets=Impossible de dÃ©terminer la prise en charge de plusieurs jeux de rÃ©sultats.
 
-odaconsumer.CannotDetermineSupportForNamedResultSets=Impossible de déterminer la prise en charge des jeux de résultats nommés.
+odaconsumer.CannotDetermineSupportForNamedResultSets=Impossible de dÃ©terminer la prise en charge des jeux de rÃ©sultats nommÃ©s.
 
-odaconsumer.CannotDetermineSupportForNamedParameters=Impossible de déterminer la prise en charge des paramètres nommés.
+odaconsumer.CannotDetermineSupportForNamedParameters=Impossible de dÃ©terminer la prise en charge des paramÃ¨tres nommÃ©s.
 
-odaconsumer.CannotDetermineSupportForInParameters=Impossible de déterminer la prise en charge des paramètres d'entrée.
+odaconsumer.CannotDetermineSupportForInParameters=Impossible de dÃ©terminer la prise en charge des paramÃ¨tres d'entrÃ©e.
 
-odaconsumer.CannotDetermineSupportForOutParameters=Impossible de déterminer la prise en charge des paramètres de sortie.
+odaconsumer.CannotDetermineSupportForOutParameters=Impossible de dÃ©terminer la prise en charge des paramÃ¨tres de sortie.
 
-odaconsumer.CannotSetStatementProperty=Impossible de définir la propriété d'instruction.
+odaconsumer.CannotSetStatementProperty=Impossible de dÃ©finir la propriÃ©tÃ© d'instruction.
 
-odaconsumer.CannotSetSortSpec=Impossible de définir la spécification de tri.
+odaconsumer.CannotSetSortSpec=Impossible de dÃ©finir la spÃ©cification de tri.
 
-odaconsumer.CannotSetMaxRows=Impossible de définir le nombre maximal de lignes.
+odaconsumer.CannotSetMaxRows=Impossible de dÃ©finir le nombre maximal de lignes.
 
-odaconsumer.CannotGetResultSetMetaData=Impossible d''obtenir les métadonnées du jeu de résultats.
+odaconsumer.CannotGetResultSetMetaData=Impossible d''obtenir les mÃ©tadonnÃ©es du jeu de rÃ©sultats.
 
-odaconsumer.CannotGetMetaDataForNamedResultSet=Impossible d''obtenir les métadonnées du jeu de résultats nommé : {0}.
+odaconsumer.CannotGetMetaDataForNamedResultSet=Impossible d''obtenir les mÃ©tadonnÃ©es du jeu de rÃ©sultats nommÃ© : {0}.
 
-odaconsumer.CannotExecuteStatement=Impossible d'exécuter l'instruction.
+odaconsumer.CannotExecuteStatement=Impossible d'exÃ©cuter l'instruction.
 
-odaconsumer.CannotGetResultSet=Impossible d''obtenir le jeu de résultats.
+odaconsumer.CannotGetResultSet=Impossible d''obtenir le jeu de rÃ©sultats.
 
-odaconsumer.CannotGetNamedResultSet=Impossible d''obtenir le jeu de résultats nommé : {0}.
+odaconsumer.CannotGetNamedResultSet=Impossible d''obtenir le jeu de rÃ©sultats nommÃ© : {0}.
 
-odaconsumer.CannotGetMoreResults=Impossible d''obtenir plus de jeux de résultats à partir de l'instruction.
+odaconsumer.CannotGetMoreResults=Impossible d''obtenir plus de jeux de rÃ©sultats Ã  partir de l'instruction.
 
-odaconsumer.CannotFindOutParameter=Le paramètre de sortie est introuvable : {0}.
+odaconsumer.CannotFindOutParameter=Le paramÃ¨tre de sortie est introuvable : {0}.
 
 odaconsumer.CannotCloseStatement=Impossible de terminer l'instruction.
 
@@ -497,21 +497,21 @@ odaconsumer.CannotGetColumnCount=Impossible d''obtenir le nombre de colonnes.
 
 odaconsumer.CannotGetColumnName=Impossible d''obtenir le nom de colonne : {0}.
 
-odaconsumer.CannotGetColumnLabel=Impossible d''obtenir l'étiquette de colonne : {0}.
+odaconsumer.CannotGetColumnLabel=Impossible d''obtenir l'Ã©tiquette de colonne : {0}.
 
 odaconsumer.CannotGetColumnType=Impossible d''obtenir le type de colonne : {0}.
 
-odaconsumer.CannotFetchNextRow=Impossible de récupérer la ligne de données suivante.
+odaconsumer.CannotFetchNextRow=Impossible de rÃ©cupÃ©rer la ligne de donnÃ©es suivante.
 
-odaconsumer.CannotDetermineWasNull=Impossible de déterminer si la dernière valeur récupérée était nulle.
+odaconsumer.CannotDetermineWasNull=Impossible de dÃ©terminer si la derniÃ¨re valeur rÃ©cupÃ©rÃ©e Ã©tait nulle.
 
 odaconsumer.CannotGetIntFromColumn=Impossible d''obtenir la valeur d'entier depuis la colonne : {0}.
 
 odaconsumer.CannotGetDoubleFromColumn=Impossible d''obtenir la valeur double depuis la colonne : {0}.
 
-odaconsumer.CannotGetStringFromColumn=Impossible d''obtenir la valeur de chaîne depuis la colonne : {0}.
+odaconsumer.CannotGetStringFromColumn=Impossible d''obtenir la valeur de chaÃ®ne depuis la colonne : {0}.
 
-odaconsumer.CannotGetBigDecimalFromColumn=Impossible d''obtenir la valeur décimale depuis la colonne : {0}.
+odaconsumer.CannotGetBigDecimalFromColumn=Impossible d''obtenir la valeur dÃ©cimale depuis la colonne : {0}.
 
 odaconsumer.CannotGetDateFromColumn=Impossible d''obtenir la valeur de date depuis la colonne : {0}.
 
@@ -523,272 +523,272 @@ odaconsumer.CannotGetClobFromColumn=Impossible d''obtenir la valeur CLOB depuis 
 
 odaconsumer.CannotGetBlobFromColumn=Impossible d''obtenir la valeur BLOB depuis la colonne : {0}.
 
-odaconsumer.CannotGetBooleanFromColumn=Impossible d''obtenir la valeur booléenne depuis la colonne : {0}.
+odaconsumer.CannotGetBooleanFromColumn=Impossible d''obtenir la valeur boolÃ©enne depuis la colonne : {0}.
 
 odaconsumer.CannotGetObjectFromColumn=Impossible d''obtenir la valeur de l''objet depuis la colonne : {0}.
 
 odaconsumer.CannotGetRowPosition=Impossible d''obtenir la position de la ligne actuelle.
 
-odaconsumer.CannotCloseResultSet=Impossible de fermer le jeu de résultats.
+odaconsumer.CannotCloseResultSet=Impossible de fermer le jeu de rÃ©sultats.
 
-odaconsumer.CannotGetParameterCount=Impossible d''obtenir le nombre de paramètres.
+odaconsumer.CannotGetParameterCount=Impossible d''obtenir le nombre de paramÃ¨tres.
 
-odaconsumer.CannotGetIntFromParameter=Impossible d''obtenir la valeur d'entier depuis le paramètre : {0}.
+odaconsumer.CannotGetIntFromParameter=Impossible d''obtenir la valeur d'entier depuis le paramÃ¨tre : {0}.
 
-odaconsumer.CannotGetDoubleFromParameter=Impossible d''obtenir la valeur double depuis le paramètre : {0}.
+odaconsumer.CannotGetDoubleFromParameter=Impossible d''obtenir la valeur double depuis le paramÃ¨tre : {0}.
 
-odaconsumer.CannotGetStringFromParameter=Impossible d''obtenir la valeur de chaîne depuis le paramètre : {0}.
+odaconsumer.CannotGetStringFromParameter=Impossible d''obtenir la valeur de chaÃ®ne depuis le paramÃ¨tre : {0}.
 
-odaconsumer.CannotGetBigDecimalFromParameter=Impossible d''obtenir la valeur décimale depuis le paramètre : {0}.
+odaconsumer.CannotGetBigDecimalFromParameter=Impossible d''obtenir la valeur dÃ©cimale depuis le paramÃ¨tre : {0}.
 
-odaconsumer.CannotGetDateFromParameter=Impossible d''obtenir la valeur de date depuis le paramètre : {0}.
+odaconsumer.CannotGetDateFromParameter=Impossible d''obtenir la valeur de date depuis le paramÃ¨tre : {0}.
 
-odaconsumer.CannotGetTimeFromParameter=Impossible d''obtenir la valeur temporelle depuis le paramètre : {0}.
+odaconsumer.CannotGetTimeFromParameter=Impossible d''obtenir la valeur temporelle depuis le paramÃ¨tre : {0}.
 
-odaconsumer.CannotGetTimestampFromParameter=Impossible d''obtenir la valeur d'horodatage depuis le paramètre : {0}.
+odaconsumer.CannotGetTimestampFromParameter=Impossible d''obtenir la valeur d'horodatage depuis le paramÃ¨tre : {0}.
 
-odaconsumer.CannotGetBlobFromParameter=Impossible d''obtenir la valeur BLOB depuis le paramètre : {0}.
+odaconsumer.CannotGetBlobFromParameter=Impossible d''obtenir la valeur BLOB depuis le paramÃ¨tre : {0}.
 
-odaconsumer.CannotGetClobFromParameter=Impossible d''obtenir la valeur CLOB depuis le paramètre : {0}.
+odaconsumer.CannotGetClobFromParameter=Impossible d''obtenir la valeur CLOB depuis le paramÃ¨tre : {0}.
 
-odaconsumer.CannotGetBooleanFromParameter=Impossible d''obtenir la valeur booléenne depuis le paramètre : {0}.
+odaconsumer.CannotGetBooleanFromParameter=Impossible d''obtenir la valeur boolÃ©enne depuis le paramÃ¨tre : {0}.
 
-odaconsumer.CannotGetObjectFromParameter=Impossible d''obtenir la valeur de l''objet depuis le paramètre : {0}.
+odaconsumer.CannotGetObjectFromParameter=Impossible d''obtenir la valeur de l''objet depuis le paramÃ¨tre : {0}.
 
-odaconsumer.CannotFindInParameter=Le paramètre d'entrée est introuvable : {0}.
+odaconsumer.CannotFindInParameter=Le paramÃ¨tre d'entrÃ©e est introuvable : {0}.
 
-odaconsumer.CannotSetIntParameter=Impossible de définir la valeur d'entier ({0}) du paramètre {1}.
+odaconsumer.CannotSetIntParameter=Impossible de dÃ©finir la valeur d'entier ({0}) du paramÃ¨tre {1}.
 
-odaconsumer.CannotSetDoubleParameter=Impossible de définir la valeur de double ({0}) du paramètre {1}.
+odaconsumer.CannotSetDoubleParameter=Impossible de dÃ©finir la valeur de double ({0}) du paramÃ¨tre {1}.
 
-odaconsumer.CannotSetStringParameter=Impossible de définir la valeur de chaîne ({0}) du paramètre {1}.
+odaconsumer.CannotSetStringParameter=Impossible de dÃ©finir la valeur de chaÃ®ne ({0}) du paramÃ¨tre {1}.
 
-odaconsumer.CannotSetBigDecimalParameter=Impossible de définir la valeur décimale ({0}) du paramètre {1}.
+odaconsumer.CannotSetBigDecimalParameter=Impossible de dÃ©finir la valeur dÃ©cimale ({0}) du paramÃ¨tre {1}.
 
-odaconsumer.CannotSetDateParameter=Impossible de définir la valeur de date ({0}) du paramètre {1}.
+odaconsumer.CannotSetDateParameter=Impossible de dÃ©finir la valeur de date ({0}) du paramÃ¨tre {1}.
 
-odaconsumer.CannotSetTimeParameter=Impossible de définir la valeur temporelle ({0}) du paramètre {1}.
+odaconsumer.CannotSetTimeParameter=Impossible de dÃ©finir la valeur temporelle ({0}) du paramÃ¨tre {1}.
 
-odaconsumer.CannotSetTimestampParameter=Impossible de définir la valeur d'horodatage ({0}) du paramètre {1}.
+odaconsumer.CannotSetTimestampParameter=Impossible de dÃ©finir la valeur d'horodatage ({0}) du paramÃ¨tre {1}.
 
-odaconsumer.CannotSetBooleanParameter=Impossible de définir la valeur booléenne ({0}) du paramètre {1}.
+odaconsumer.CannotSetBooleanParameter=Impossible de dÃ©finir la valeur boolÃ©enne ({0}) du paramÃ¨tre {1}.
 
-odaconsumer.CannotSetObjectParameter=Impossible de définir la valeur de l''objet ({0}) du paramètre {1}.
+odaconsumer.CannotSetObjectParameter=Impossible de dÃ©finir la valeur de l''objet ({0}) du paramÃ¨tre {1}.
 
-odaconsumer.CannotSetNullParameter=Impossible d''attribuer une valeur nulle au paramètre {0}.
+odaconsumer.CannotSetNullParameter=Impossible d''attribuer une valeur nulle au paramÃ¨tre {0}.
 
-odaconsumer.CannotClearInParameters=Impossible d''effacer les valeurs de paramètre d'entrée.
+odaconsumer.CannotClearInParameters=Impossible d''effacer les valeurs de paramÃ¨tre d'entrÃ©e.
 
-odaconsumer.UnrecognizedOdaType=Type de données ODA non reconnu : {0}
+odaconsumer.UnrecognizedOdaType=Type de donnÃ©es ODA non reconnu : {0}
 
-odaconsumer.CannotGetColumnNativeDataTypeName=Impossible d''obtenir le nom du type de données natives pour la colonne : {0}
+odaconsumer.CannotGetColumnNativeDataTypeName=Impossible d''obtenir le nom du type de donnÃ©es natives pour la colonne : {0}
 
-odaconsumer.CannotGetParameterMetaData=Impossible d''obtenir les métadonnées du paramètre de pilote ODA.
+odaconsumer.CannotGetParameterMetaData=Impossible d''obtenir les mÃ©tadonnÃ©es du paramÃ¨tre de pilote ODA.
 
 odaconsumer.CannotLoadOdaAdapter=Impossible de charger le pilote {0} ; le plug-in de l''adaptateur DTP-to-BIRT ODA {1} est manquant.
 
-odaconsumer.MustSpecifyColumnName=Un nom de colonne doit être spécifié lors de l'ajout d'une astuce de colonne.
+odaconsumer.MustSpecifyColumnName=Un nom de colonne doit Ãªtre spÃ©cifiÃ© lors de l'ajout d'une astuce de colonne.
 
-odaconsumer.CannotFindLogDirectory=Le répertoire du journal est introuvable.
+odaconsumer.CannotFindLogDirectory=Le rÃ©pertoire du journal est introuvable.
 
-odaconsumer.ParameterNames=\nParamètre défini avec le nom de modèle ({0}) et avec le nom défini par le pilote ({1}).
+odaconsumer.ParameterNames=\nParamÃ¨tre dÃ©fini avec le nom de modÃ¨le ({0}) et avec le nom dÃ©fini par le pilote ({1}).
 
-odaconsumer.InvalidArgument=La méthode ({0}) a été appelée avec un argument non valide ({1}).
+odaconsumer.InvalidArgument=La mÃ©thode ({0}) a Ã©tÃ© appelÃ©e avec un argument non valide ({1}).
 
-odaconsumer.CannotSetConnectionLocale=Impossible de définir l''endroit de la connexion ({0}).
+odaconsumer.CannotSetConnectionLocale=Impossible de dÃ©finir l''endroit de la connexion ({0}).
 
-odaconsumer.CannotCheckOpenConnection=Impossible de vérifier si la connexion est déjà établie.
+odaconsumer.CannotCheckOpenConnection=Impossible de vÃ©rifier si la connexion est dÃ©jÃ  Ã©tablie.
 
-odaconsumer.manager.CannotGetNamedResultsAfterExecuteQuery=Impossible d''obtenir les jeux de résultats par nom après l'appel de executeQuery().
+odaconsumer.manager.CannotGetNamedResultsAfterExecuteQuery=Impossible d''obtenir les jeux de rÃ©sultats par nom aprÃ¨s l'appel de executeQuery().
 
-odaconsumer.manager.CannotSetParamBeforePrepare=Impossible de définir les paramètres d'entrée avant que l'instruction n'ait été préparée.
+odaconsumer.manager.CannotSetParamBeforePrepare=Impossible de dÃ©finir les paramÃ¨tres d'entrÃ©e avant que l'instruction n'ait Ã©tÃ© prÃ©parÃ©e.
 
-odaconsumer.manager.CannotGetParamBeforeExecute=Impossible d''obtenir des paramètres de sortie avant l'exécution de l'instruction.
+odaconsumer.manager.CannotGetParamBeforeExecute=Impossible d''obtenir des paramÃ¨tres de sortie avant l'exÃ©cution de l'instruction.
 
-odaconsumer.manager.CannotGetParamMdBeforePrepare=Impossible d''obtenir les métadonnées du paramètre avant que l'instruction n'ait été préparée.
+odaconsumer.manager.CannotGetParamMdBeforePrepare=Impossible d''obtenir les mÃ©tadonnÃ©es du paramÃ¨tre avant que l'instruction n'ait Ã©tÃ© prÃ©parÃ©e.
 
-odaconsumer.manager.CannotSetSortSpecBeforePrepare=Impossible de définir la spécification de tri avant que l'instruction n'ait été préparée.
+odaconsumer.manager.CannotSetSortSpecBeforePrepare=Impossible de dÃ©finir la spÃ©cification de tri avant que l'instruction n'ait Ã©tÃ© prÃ©parÃ©e.
 
-odaconsumer.manager.MaxConcurrentConnectionsReached=Nombre maximal de connexions actives simultanées atteint.
+odaconsumer.manager.MaxConcurrentConnectionsReached=Nombre maximal de connexions actives simultanÃ©es atteint.
 
 odaconsumer.manager.ConnectionFailed=Impossible d''ouvrir la connexion.
 
-odaconsumer.manager.CannotConstructConnectionFactory=Impossible de créer la génération de connexion du pilote ODA.
+odaconsumer.manager.CannotConstructConnectionFactory=Impossible de crÃ©er la gÃ©nÃ©ration de connexion du pilote ODA.
 
-odaconsumer.manager.InadequatePermissionsForCompatibility=Compatibilité descendante impossible en raison d'autorisations inappropriées.
+odaconsumer.manager.InadequatePermissionsForCompatibility=CompatibilitÃ© descendante impossible en raison d'autorisations inappropriÃ©es.
 
-odaconsumer.manager.ConnectionIsInactive=La connexion à la source de données n'est pas active.
+odaconsumer.manager.ConnectionIsInactive=La connexion Ã  la source de donnÃ©es n'est pas active.
 
-odaconsumer.manager.MaxConcurrentStatementsReached=Nombre maximal d'instructions actives simultanées atteint pour cette connexion.
+odaconsumer.manager.MaxConcurrentStatementsReached=Nombre maximal d'instructions actives simultanÃ©es atteint pour cette connexion.
 
-odaconsumer.manager.PrepareFailed=Echec de la préparation.
+odaconsumer.manager.PrepareFailed=Echec de la prÃ©paration.
 
-odaconsumer.manager.CannotGetResultSetMdBeforePrepare=Impossible d''obtenir les métadonnées du jeu de résultats avant que l'instruction n'ait été préparée.
+odaconsumer.manager.CannotGetResultSetMdBeforePrepare=Impossible d''obtenir les mÃ©tadonnÃ©es du jeu de rÃ©sultats avant que l'instruction n'ait Ã©tÃ© prÃ©parÃ©e.
 
-odaconsumer.manager.CannotExecuteBeforePrepare=Impossible d''exécuter l'instruction avant qu'elle n'ait été préparée.
+odaconsumer.manager.CannotExecuteBeforePrepare=Impossible d''exÃ©cuter l'instruction avant qu'elle n'ait Ã©tÃ© prÃ©parÃ©e.
 
 
 # Data Olap error code
-data.olap.OlapDirCreateFail=Echec de la création du répertoire {0}.
+data.olap.OlapDirCreateFail=Echec de la crÃ©ation du rÃ©pertoire {0}.
 
-data.olap.OlapFileCreateFail=Echec de la création du fichier {0}.
+data.olap.OlapFileCreateFail=Echec de la crÃ©ation du fichier {0}.
 
 data.olap.OlapFileNotFound=Fichier OLAP {0} introuvable.
 
-data.olap.OlapFileFormatInvalid=Le format de fichier n'est pas valide. Le nom de l'objet de données est : {0}.
+data.olap.OlapFileFormatInvalid=Le format de fichier n'est pas valide. Le nom de l'objet de donnÃ©es est : {0}.
 
 data.olap.DimensionNotExist=La dimension {0} n''existe pas.
 
-data.olap.KeyValueCanNotBeNull=La valeur de la colonne de clé ne peut pas être vide. Colonne de clé : {0}.
+data.olap.KeyValueCanNotBeNull=La valeur de la colonne de clÃ© ne peut pas Ãªtre vide. Colonne de clÃ© : {0}.
 
-data.olap.DetailMemberHaveMultiParent=Le membre détaillé {0} possède plusieurs parents.
+data.olap.DetailMemberHaveMultiParent=Le membre dÃ©taillÃ© {0} possÃ¨de plusieurs parents.
 
-data.olap.OlapFileDataError=L''objet de données contient des données non valides {0}.
+data.olap.OlapFileDataError=L''objet de donnÃ©es contient des donnÃ©es non valides {0}.
 
-data.olap.DocumentObjectAlreadyExists =L''objet du document existe déjà. Echec de la création de l''objet de données : {0}.
+data.olap.DocumentObjectAlreadyExists =L''objet du document existe dÃ©jÃ . Echec de la crÃ©ation de l''objet de donnÃ©es : {0}.
 
-data.olap.DocumentObjectNotExists =Echec du chargement du cube "{0}" à partir du document. L''objet du document n''existe pas.
+data.olap.DocumentObjectNotExists =Echec du chargement du cube "{0}" Ã  partir du document. L''objet du document n''existe pas.
 
-data.olap.FacttableRowNotDistinct=Les lignes de la table des faits doivent être distinctes. "{0}" apparaît plusieurs fois.
+data.olap.FacttableRowNotDistinct=Les lignes de la table des faits doivent Ãªtre distinctes. "{0}" apparaÃ®t plusieurs fois.
 
 data.olap.FacttableJointColumnNotExist=La colonne jointe "{0}" n''existe pas dans les dimensions.
 
-data.olap.ParameterColumnOfAggregationNotExist=La colonne de paramètre "{0}" n''existe pas dans les dimensions.
+data.olap.ParameterColumnOfAggregationNotExist=La colonne de paramÃ¨tre "{0}" n''existe pas dans les dimensions.
 
 data.olap.FacttableNullMeasureValue=Une des colonnes de mesures comporte une valeur vide. "{0}".
 
-data.olap.InvalidDimensionPositionFacttableRow=La table des faits du cube "{0}" possède une ligne de données non valide dont la valeur de la clé de dimension "{1}" est "{2}", qui n'existe pas dans la dimension "{3}".
+data.olap.InvalidDimensionPositionFacttableRow=La table des faits du cube "{0}" possÃ¨de une ligne de donnÃ©es non valide dont la valeur de la clÃ© de dimension "{1}" est "{2}", qui n'existe pas dans la dimension "{3}".
 
 data.olap.measureNameNotFound=Le nom de mesure "{0}" est introuvable.
 
 data.olap.levelNameNotFound=Le nom de niveau "{0}" est introuvable.
 
-data.olap.dimensionNameNotFound=Impossible de trouver la dimension "{0}" dans la requête du cube. Cette dimension n'existe pas ou n'est pas valide.
+data.olap.dimensionNameNotFound=Impossible de trouver la dimension "{0}" dans la requÃªte du cube. Cette dimension n'existe pas ou n'est pas valide.
 
-data.olap.ReferencedDimensionNotFound=Définition de dimension référencée : {0} n'existe pas.
+data.olap.ReferencedDimensionNotFound=DÃ©finition de dimension rÃ©fÃ©rencÃ©e : {0} n'existe pas.
 
-data.olap.ReferencedLevelNotFound=Le niveau référencé n'existe pas.
+data.olap.ReferencedLevelNotFound=Le niveau rÃ©fÃ©rencÃ© n'existe pas.
 
 data.olap.cursorPositionError=Impossible de placer le curseur en position cible.
 
 data.olap.cursorSeekError=Impossible de placer le curseur en position de recherche.
 
-data.olap.CannotGetMeasureValue=Impossible de trouver la définition de mesure "{0}" dans le cube, la mesure n''existe pas ou est incorrecte.
+data.olap.CannotGetMeasureValue=Impossible de trouver la dÃ©finition de mesure "{0}" dans le cube, la mesure n''existe pas ou est incorrecte.
 
-data.olap.CannotFindLevel=Impossible de trouver le niveau de définition "{0}" dans la dimension "{1}".
+data.olap.CannotFindLevel=Impossible de trouver le niveau de dÃ©finition "{0}" dans la dimension "{1}".
 
-data.olap.tryToAddIdenticalAggrGroup=La valeur "{0}" existe déjà dans l''agrégat sur la liste de la liaison "{1}" ;
+data.olap.tryToAddIdenticalAggrGroup=La valeur "{0}" existe dÃ©jÃ  dans l''agrÃ©gat sur la liste de la liaison "{1}" ;
 
-data.olap.NoEdgeDefinitionFound=Echec de l'exécution de la requête car elle ne comporte aucun bord de ligne ni de colonne. Au moins un bord doit être défini.
+data.olap.NoEdgeDefinitionFound=Echec de l'exÃ©cution de la requÃªte car elle ne comporte aucun bord de ligne ni de colonne. Au moins un bord doit Ãªtre dÃ©fini.
 
-data.olap.invalidSortDefinition=La définition de tri est incorrecte.
+data.olap.invalidSortDefinition=La dÃ©finition de tri est incorrecte.
 
-data.olap.invalidMeasureRef="{0}" n''est pas une expression de référence de mesure valide.
+data.olap.invalidMeasureRef="{0}" n''est pas une expression de rÃ©fÃ©rence de mesure valide.
 
 data.olap.invalidLevelAttr=L'attribut est incorrect :
 
-data.olap.referencedBindingNotExist=La liaison référencée "{0}" n'existe pas.
+data.olap.referencedBindingNotExist=La liaison rÃ©fÃ©rencÃ©e "{0}" n'existe pas.
 
-data.olap.invalidBindingReferToInexitDim=La liaison "{0}" fait référence à des niveaux incorrects.
+data.olap.invalidBindingReferToInexitDim=La liaison "{0}" fait rÃ©fÃ©rence Ã  des niveaux incorrects.
 
-data.olap.invalidBindingReferToInexitMeasure=La liaison "{0}" fait référence à des mesures incorrectes.
+data.olap.invalidBindingReferToInexitMeasure=La liaison "{0}" fait rÃ©fÃ©rence Ã  des mesures incorrectes.
 
-data.olap.invalidBindingMissingAggrFunc=La fonction d''agrégation de la liaison "{0}" est manquante.
+data.olap.invalidBindingMissingAggrFunc=La fonction d''agrÃ©gation de la liaison "{0}" est manquante.
 
-data.olap.invalidAggrArgument=Seul l'attribut de niveau peut servir d'argument d'agrégation.
+data.olap.invalidAggrArgument=Seul l'attribut de niveau peut servir d'argument d'agrÃ©gation.
 
-data.olap.axis.level.CantBeNull=Le niveau de membre de colonne ne peut pas être nul.
+data.olap.axis.level.CantBeNull=Le niveau de membre de colonne ne peut pas Ãªtre nul.
 
-data.olap.axis.value.CantBeNull=La valeur de membre de colonne du niveau \"{0}\" ne peut pas être nulle.
+data.olap.axis.value.CantBeNull=La valeur de membre de colonne du niveau \"{0}\" ne peut pas Ãªtre nulle.
 
-data.olap.fetchlimitWarning=La taille d''extraction est {0}, elle est donc inférieure à la longueur totale du jeu de résultats[{1}].
+data.olap.fetchlimitWarning=La taille d''extraction est {0}, elle est donc infÃ©rieure Ã  la longueur totale du jeu de rÃ©sultats[{1}].
 
-data.olap.failComputeComputedMeasureValue=Echec du calcul de la valeur pour la mesure calculée.
+data.olap.failComputeComputedMeasureValue=Echec du calcul de la valeur pour la mesure calculÃ©e.
 
 data.olap.duplicateMeasureName=Nom de mesure \"{0}\" en double.
 
-data.olap.dataBindingExpressionEmpty=L'expression de liaison de données ne peut être ni nulle ni vide.
+data.olap.dataBindingExpressionEmpty=L'expression de liaison de donnÃ©es ne peut Ãªtre ni nulle ni vide.
 
-data.olap.missingParentCursor=L'ensemble des résultats parents n'existe pas.
+data.olap.missingParentCursor=L'ensemble des rÃ©sultats parents n'existe pas.
 
-data.olap.CannotAccessNullDimensionRow=Impossible d''accéder à une ligne de dimension nulle !
+data.olap.CannotAccessNullDimensionRow=Impossible d''accÃ©der Ã  une ligne de dimension nulle !
 
 data.olap.NonexistentDimension=Dimension non existante :
 
 data.olap.NonexistentLevel=Niveau non existant :
 
-data.olap.NonexistentKeyOrAttr=Clé ou attribut non existant :
+data.olap.NonexistentKeyOrAttr=ClÃ© ou attribut non existant :
 
 data.olap.UnsupportedFunction=Fonction non prise en charge :
 
-data.olap.UnspecifiedBindingName=Le nom de liaison n'est pas spécifié.
+data.olap.UnspecifiedBindingName=Le nom de liaison n'est pas spÃ©cifiÃ©.
 
-data.olap.NotNestAggregationBinding=Aucune liaison d'agrégation imbriquée du cube : {0}
+data.olap.NotNestAggregationBinding=Aucune liaison d'agrÃ©gation imbriquÃ©e du cube : {0}
 
-data.olap.InvalidNestAggregationExpression=L'expression d'agrégation imbriquée du cube est incorrecte.
+data.olap.InvalidNestAggregationExpression=L'expression d'agrÃ©gation imbriquÃ©e du cube est incorrecte.
 
-data.olap.InvalidNestAggregationOn=Echec du calcul de l'agrégation imbriquée "{0}" à cause de l'agrégation de niveaux inexistants dans son ou ses agrégation(s) de base.
+data.olap.InvalidNestAggregationOn=Echec du calcul de l'agrÃ©gation imbriquÃ©e "{0}" Ã  cause de l'agrÃ©gation de niveaux inexistants dans son ou ses agrÃ©gation(s) de base.
 
-data.olap.InvalidAggregationFilterExpr=L'expression de filtre "{0}" n'est pas valide. La liste d'agrégationOn de liaison d'agrégation "{1}" ne contient pas le niveau de dimension référencé "{2}".
+data.olap.InvalidAggregationFilterExpr=L'expression de filtre "{0}" n'est pas valide. La liste d'agrÃ©gationOn de liaison d'agrÃ©gation "{1}" ne contient pas le niveau de dimension rÃ©fÃ©rencÃ© "{2}".
 
-data.olap.sort.exprError=Le jeu de niveaux de dimension référencés ne doit contenir qu'un seul niveau.
+data.olap.sort.exprError=Le jeu de niveaux de dimension rÃ©fÃ©rencÃ©s ne doit contenir qu'un seul niveau.
 
-data.olap.query.noCubeBinding=Impossible d'exécuter la requête du cube car aucune liaison au cube n'est disponible.
+data.olap.query.noCubeBinding=Impossible d'exÃ©cuter la requÃªte du cube car aucune liaison au cube n'est disponible.
 
 data.olap.FailLoadCube=Echec du chargement du cube :"{0}".
 
 data.olap.MissingDimensionInCube=Le cube doit contenir au moins une dimension : "{0}"
 
-data.olap.ExceedIntegerLimit= La longueur finale définie est supérieure à la valeur d'Integer.MAX.
+data.olap.ExceedIntegerLimit= La longueur finale dÃ©finie est supÃ©rieure Ã  la valeur d'Integer.MAX.
 
-data.olap.ExceedColumnLimit= La longueur finale définie pour le bord de la colonne dépasse la limite de taille autorisée {0}.
+data.olap.ExceedColumnLimit= La longueur finale dÃ©finie pour le bord de la colonne dÃ©passe la limite de taille autorisÃ©e {0}.
 
-data.olap.ExceedRowLimit= La longueur finale définie pour le bord de la ligne dépasse la limite de taille autorisée {0}.
+data.olap.ExceedRowLimit= La longueur finale dÃ©finie pour le bord de la ligne dÃ©passe la limite de taille autorisÃ©e {0}.
 
-data.cache.UnsupportedIncrementalCacheMode=Le mode \"{0}\" de cache incrémentiel n''est pas encore pris en charge !
+data.cache.UnsupportedIncrementalCacheMode=Le mode \"{0}\" de cache incrÃ©mentiel n''est pas encore pris en charge !
 # Configuration file parser error code
-data.executor.configFileParser.getModeByID=Impossible d''obtenir le mode de cache incrémentiel via le nom du jeu de données.
+data.executor.configFileParser.getModeByID=Impossible d''obtenir le mode de cache incrÃ©mentiel via le nom du jeu de donnÃ©es.
 
-data.executor.configFileParser.getTSFormatByID=Impossible d''analyser le format d'horodatage à l'aide du nom du jeu de données spécifié dans le fichier de configuration.
+data.executor.configFileParser.getTSFormatByID=Impossible d''analyser le format d'horodatage Ã  l'aide du nom du jeu de donnÃ©es spÃ©cifiÃ© dans le fichier de configuration.
 
-data.executor.configFileParser.getTimeStampColumnByID=Impossible d''analyser le format d'horodatage à l'aide du nom du jeu de données spécifié dans le fichier de configuration.
+data.executor.configFileParser.getTimeStampColumnByID=Impossible d''analyser le format d'horodatage Ã  l'aide du nom du jeu de donnÃ©es spÃ©cifiÃ© dans le fichier de configuration.
 
-data.executor.configFileParser.getQueryTextByID=Impossible d''obtenir le texte de la requête à l'aide du nom du jeu de données spécifié dans le fichier de configuration.
+data.executor.configFileParser.getQueryTextByID=Impossible d''obtenir le texte de la requÃªte Ã  l'aide du nom du jeu de donnÃ©es spÃ©cifiÃ© dans le fichier de configuration.
 
-data.executor.configFileParser.getParametersByID=Impossible d''obtenir les paramètres à l'aide du nom du jeu de données spécifié dans le fichier de configuration.
+data.executor.configFileParser.getParametersByID=Impossible d''obtenir les paramÃ¨tres Ã  l'aide du nom du jeu de donnÃ©es spÃ©cifiÃ© dans le fichier de configuration.
 
 data.aggregation.expression.displayName=Expression
 
-data.aggregation.argumentError=L'expression de l'argument \"{0}\" de l'agrégation \"{1}\" est nulle ou vide.
+data.aggregation.argumentError=L'expression de l'argument \"{0}\" de l'agrÃ©gation \"{1}\" est nulle ou vide.
 
-data.olap.InvalidAggrTypeOnMeasure=L''agrégation sur la mesure de cube ne peut pas être du type : "{0}".
+data.olap.InvalidAggrTypeOnMeasure=L''agrÃ©gation sur la mesure de cube ne peut pas Ãªtre du type : "{0}".
 
 #derived dataSet
 data.derivedDataSet.columnNotExist=La colonne "{0}" n'existe pas !
 
-data.derivedDataSet.UnionQueryTextParseError=Impossible d'analyser la requête Union. \"{0}\"
+data.derivedDataSet.UnionQueryTextParseError=Impossible d'analyser la requÃªte Union. \"{0}\"
 
-data.derivedDataSet.JoinQueryTextParseError=Impossible d'analyser la requête Join. \"{0}\"
+data.derivedDataSet.JoinQueryTextParseError=Impossible d'analyser la requÃªte Join. \"{0}\"
 
 data.derivedDataSet.illegalClassInstance=Initialisation d'une instance de classe incorrecte.
 
 data.derivedDataSet.classLoadError=Echec du chargement de l'instance de classe.
 
-data.derivedDataSet.calculatorNotExist=Le calcul n'est pas défini ou est introuvable.
+data.derivedDataSet.calculatorNotExist=Le calcul n'est pas dÃ©fini ou est introuvable.
 
-data.derivedDataSet.invalidQueryText=Texte de la requête incorrect.
+data.derivedDataSet.invalidQueryText=Texte de la requÃªte incorrect.
 
 #data mart data source
-data.datamart.failLoadDataSet = Impossible de charger le jeu de données de l'Objet de données "{0}".
+data.datamart.failLoadDataSet = Impossible de charger le jeu de donnÃ©es de l'Objet de donnÃ©es "{0}".
 
-data.datamart.originalDataSetNotExist = Echec de la mise à jour incrémentielle. Le jeu de données d'origine "{0}" n'existe pas.
+data.datamart.originalDataSetNotExist = Echec de la mise Ã  jour incrÃ©mentielle. Le jeu de donnÃ©es d'origine "{0}" n'existe pas.
 
-data.datamart.incrementalDatasetMetaDataError = Echec de la mise à jour incrémentielle. Les métadonnées du jeu de données supplémentaire "{0}" sont différentes de celles du jeu de données d'origine.
+data.datamart.incrementalDatasetMetaDataError = Echec de la mise Ã  jour incrÃ©mentielle. Les mÃ©tadonnÃ©es du jeu de donnÃ©es supplÃ©mentaire "{0}" sont diffÃ©rentes de celles du jeu de donnÃ©es d'origine.
 
-data.datamart.collation=Dans le produit précédent, le classement n'est pas utilisé dans l'index de l'objet de données, même si cette option a été définie. Nous prenons désormais en charge le classement, vous devez donc générer à nouveau l'objet de données lorsque le classement est défini dans le jeu de données.
+data.datamart.collation=Dans le produit prÃ©cÃ©dent, le classement n'est pas utilisÃ© dans l'index de l'objet de donnÃ©es, mÃªme si cette option a Ã©tÃ© dÃ©finie. Nous prenons dÃ©sormais en charge le classement, vous devez donc gÃ©nÃ©rer Ã  nouveau l'objet de donnÃ©es lorsque le classement est dÃ©fini dans le jeu de donnÃ©es.
 
-data.filter.pushDownFail= Impossible d'aligner le filtre pris en charge uniquement par un côté de l'extension ODA.
+data.filter.pushDownFail= Impossible d'aligner le filtre pris en charge uniquement par un cÃ´tÃ© de l'extension ODA.
 
-data.query.exprReferInvalidColumn=Impossible d'exécuter la requête car : la requête contient une expression non valide qui fait référence à une colonne de données incorrecte "{0}".
+data.query.exprReferInvalidColumn=Impossible d'exÃ©cuter la requÃªte car : la requÃªte contient une expression non valide qui fait rÃ©fÃ©rence Ã  une colonne de donnÃ©es incorrecte "{0}".
 
 data.query.invalidColumnBinding=La liaison de colonnes "{0}" est incorrecte.

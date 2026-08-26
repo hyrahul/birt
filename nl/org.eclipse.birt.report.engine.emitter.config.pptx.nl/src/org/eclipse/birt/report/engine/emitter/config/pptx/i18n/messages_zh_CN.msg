@@ -11,46 +11,46 @@
 
 ###########################################################
 #PPT Emitter
-PPTXEmitter.Description=ÅäÖÃÓÃÓÚÒÔµ¥Ò»ÎÄ¼ş Web ´æµµ (MHTML) ¸ñÊ½³ÊÏÖ±¨±íµÄÑ¡Ïî¡£
+PPTXEmitter.Description=é…ç½®ç”¨äºä»¥å•ä¸€æ–‡ä»¶ Web å­˜æ¡£ (MHTML) æ ¼å¼å‘ˆç°æŠ¥è¡¨çš„é€‰é¡¹ã€‚
 
 PPTXEmitter.DisplayName=PowerPoint (PPTX)
 
 ###########################################################
 #Option Display Value
-OptionDisplayValue.BidiProcessing=BIDI ´¦Àí
+OptionDisplayValue.BidiProcessing=BIDI å¤„ç†
 
-OptionDisplayValue.TextWrapping=ÎÄ×Ö»·ÈÆ
+OptionDisplayValue.TextWrapping=æ–‡å­—ç¯ç»•
 
-OptionDisplayValue.PageOverFlow=Ò³ÃæÒç³ö´¦Àí
+OptionDisplayValue.PageOverFlow=é¡µé¢æº¢å‡ºå¤„ç†
 
-OptionDisplayValue.CLIP_CONTENT=¼ôÇĞÄÚÈİ
+OptionDisplayValue.CLIP_CONTENT=å‰ªåˆ‡å†…å®¹
 
-OptionDisplayValue.FIT_TO_PAGE_SIZE=ÊÊºÏÒ³Ãæ´óĞ¡
+OptionDisplayValue.FIT_TO_PAGE_SIZE=é€‚åˆé¡µé¢å¤§å°
 
-OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=Êä³ö¶àÒ³
+OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=è¾“å‡ºå¤šé¡µ
 
-OptionDisplayValue.ENLARGE_PAGE_SIZE=Ôö¼ÓÒ³Ãæ´óĞ¡
+OptionDisplayValue.ENLARGE_PAGE_SIZE=å¢åŠ é¡µé¢å¤§å°
 
-OptionDisplayValue.FontSubstitution=×ÖÌåÌæ»»
+OptionDisplayValue.FontSubstitution=å­—ä½“æ›¿æ¢
 
-OptionDisplayValue.ChartDpi=Í¼±í DPI
-OptionDisplayValue.RepaginateForPDF=³ÊÏÖ PPTX Ê±ÖØ±êÒ³Âë
-OptionDisplayValue.EditMode=±à¼­Ä£Ê½
+OptionDisplayValue.ChartDpi=å›¾è¡¨ DPI
+OptionDisplayValue.RepaginateForPDF=å‘ˆç° PPTX æ—¶é‡æ ‡é¡µç 
+OptionDisplayValue.EditMode=ç¼–è¾‘æ¨¡å¼
 
 ###########################################################
 #Option Description
-OptionDescription.BidiProcessing=Ö§³ÖË«ÏòÎÄ×Ö¡£
+OptionDescription.BidiProcessing=æ”¯æŒåŒå‘æ–‡å­—ã€‚
 
-OptionDescription.TextWrapping=±íÊ¾ÎÄ×Ö¿É·ñ»·ÈÆ¡£
+OptionDescription.TextWrapping=è¡¨ç¤ºæ–‡å­—å¯å¦ç¯ç»•ã€‚
 
-OptionDescription.PageOverFlow=¿ØÖÆÄÚÈİÊä³ö·½Ê½¡£
+OptionDescription.PageOverFlow=æ§åˆ¶å†…å®¹è¾“å‡ºæ–¹å¼ã€‚
 
-OptionDescription.FontSubstitution=Ö¸¶¨µÄ×ÖÌåÎŞ·¨ÏÔÊ¾¸Ã×Ö·ûÊ±×Ô¶¯Ñ¡Ôñ×ÖÌå¡£
+OptionDescription.FontSubstitution=æŒ‡å®šçš„å­—ä½“æ— æ³•æ˜¾ç¤ºè¯¥å­—ç¬¦æ—¶è‡ªåŠ¨é€‰æ‹©å­—ä½“ã€‚
 
-OptionDescription.ChartDpi=ÓÃÓÚÉú³ÉÍ¼±íµÄ DPI¡£
-OptionDescription.RepaginateForPDF=³ÊÏÖ PPTX Ê±ÖØ±êÒ³Âë¡£
-OptionDescription.EditMode=PPTX ÖĞµÄ¿É±à¼­×é¼ş
+OptionDescription.ChartDpi=ç”¨äºç”Ÿæˆå›¾è¡¨çš„ DPIã€‚
+OptionDescription.RepaginateForPDF=å‘ˆç° PPTX æ—¶é‡æ ‡é¡µç ã€‚
+OptionDescription.EditMode=PPTX ä¸­çš„å¯ç¼–è¾‘ç»„ä»¶
 
 ###########################################################
 #tooltip
-Tooltip.ChartDpi=Í¼±íÒıÇæÓÃÓÚÉú³ÉÍ¼±íµÄ DPI¡£ÀıÈç£¬192¡£
+Tooltip.ChartDpi=å›¾è¡¨å¼•æ“ç”¨äºç”Ÿæˆå›¾è¡¨çš„ DPIã€‚ä¾‹å¦‚ï¼Œ192ã€‚

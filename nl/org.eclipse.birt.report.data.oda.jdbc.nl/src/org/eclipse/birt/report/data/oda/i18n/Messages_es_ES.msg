@@ -4,29 +4,29 @@
 ###########################################################
 
 #ODA-JDBC error code
-odajdbc.CannotCloseConn=Error al cerrar la conexiÛn.
+odajdbc.CannotCloseConn=Error al cerrar la conexi√≥n.
 
-odajdbc.ConnCommitError=Se ha producido un error al acceder a la base de datos o un objeto de conexiÛn est· en modo de confirmaciÛn autom·tica.
+odajdbc.ConnCommitError=Se ha producido un error al acceder a la base de datos o un objeto de conexi√≥n est√° en modo de confirmaci√≥n autom√°tica.
 
-odajdbc.CannotGetConnMetaData=No se pueden obtener los metadatos de conexiÛn.
+odajdbc.CannotGetConnMetaData=No se pueden obtener los metadatos de conexi√≥n.
 
-odajdbc.CannotGetConn=Error al obtener la conexiÛn.
+odajdbc.CannotGetConn=Error al obtener la conexi√≥n.
 
-odajdbc.ConnRollbackError=Error al restituir la conexiÛn.
+odajdbc.ConnRollbackError=Error al restituir la conexi√≥n.
 
-odajdbc.GetConnectionError=Ha ocurrido un error al intentar acceder a la conexiÛn, {0}.
+odajdbc.GetConnectionError=Ha ocurrido un error al intentar acceder a la conexi√≥n, {0}.
 
-odajdbc.CannotGetMaxStatements=No se puede obtener el n˙mero m·ximo de sentencias de los metadatos de la base de datos.
+odajdbc.CannotGetMaxStatements=No se puede obtener el n√∫mero m√°ximo de sentencias de los metadatos de la base de datos.
 
-odajdbc.CannotGetMaxConnections=No se puede obtener el n˙mero m·ximo de conexiones de los metadatos de la base de datos.
+odajdbc.CannotGetMaxConnections=No se puede obtener el n√∫mero m√°ximo de conexiones de los metadatos de la base de datos.
 
-odajdbc.CannotGetDatabaseMajorVersion=No se puede obtener la versiÛn principal de la base de datos.
+odajdbc.CannotGetDatabaseMajorVersion=No se puede obtener la versi√≥n principal de la base de datos.
 
-odajdbc.CannotGetDatabaseMinorVersion=No se puede obtener la versiÛn secundaria de la base de datos.
+odajdbc.CannotGetDatabaseMinorVersion=No se puede obtener la versi√≥n secundaria de la base de datos.
 
 odajdbc.CannotGetDataSourceProductName=No se puede obtener el nombre de producto de la fuente de datos.
 
-odajdbc.CannotGetDataSourceProductVersion=No se puede obtener la versiÛn del producto de la fuente de datos.
+odajdbc.CannotGetDataSourceProductVersion=No se puede obtener la versi√≥n del producto de la fuente de datos.
 
 odajdbc.CannotGetSQLStateType=No se puede obtener el tipo de estado de SQL.
 
@@ -36,19 +36,19 @@ odajdbc.CannotParseJNDI=El controlador seleccionado no puede analizar la URL de 
 
 odajdbc.NoSuitableDriver=Sin controlador adecuado.
 
-odajdbc.CannotGetParameterCount=No se puede obtener el recuento de par·metros.
+odajdbc.CannotGetParameterCount=No se puede obtener el recuento de par√°metros.
 
-odajdbc.CannotGetParameterMode=No se puede obtener el modo de par·metro.
+odajdbc.CannotGetParameterMode=No se puede obtener el modo de par√°metro.
 
-odajdbc.CannotGetParameterType=No se puede obtener el tipo de par·metro.
+odajdbc.CannotGetParameterType=No se puede obtener el tipo de par√°metro.
 
-odajdbc.CannotGetParameterTypeName=No se puede obtener el nombre del tipo de par·metro.
+odajdbc.CannotGetParameterTypeName=No se puede obtener el nombre del tipo de par√°metro.
 
-odajdbc.CannotGetPrecision=No se puede obtener la precisiÛn.
+odajdbc.CannotGetPrecision=No se puede obtener la precisi√≥n.
 
 odajdbc.CannotGetScale=No se puede obtener la escala.
 
-odajdbc.CannotDetermineSupportForNull=No se puede determinar si el par·metro es nulo.
+odajdbc.CannotDetermineSupportForNull=No se puede determinar si el par√°metro es nulo.
 
 odajdbc.CannotGetResultSet=No se puede obtener el grupo de resultados.
 
@@ -92,9 +92,9 @@ odajdbc.CannotGetColumnType=No se puede obtener el tipo de columna.
 
 odajdbc.CannotGetColumnTypeName=No se puede obtener el nombre del tipo de columna.
 
-odajdbc.CannotGetColumnDisplaySize=No se puede obtener el tamaÒo de visualizaciÛn de columna.
+odajdbc.CannotGetColumnDisplaySize=No se puede obtener el tama√±o de visualizaci√≥n de columna.
 
-odajdbc.CannotGetResultSetMetaDataPrecision=No se puede obtener la precisiÛn de los metadatos del conjunto de resultados.
+odajdbc.CannotGetResultSetMetaDataPrecision=No se puede obtener la precisi√≥n de los metadatos del conjunto de resultados.
 
 odajdbc.CannotGetResultSetMetaDataScale=No se puede obtener la escala de los metadatos del conjunto de resultados.
 
@@ -110,40 +110,40 @@ odajdbc.CannotGetPreparedStatementMetadata=No se pueden obtener los metadatos de
 
 odajdbc.ResultSetCannotReturn=La sentencia de SQL no devuelve un objeto ResultSet.
 
-odajdbc.QueryExecuteFail=La sentencia de SQL no devuelve un objeto ResultSet ni un recuento de actualizaciÛn.
+odajdbc.QueryExecuteFail=La sentencia de SQL no devuelve un objeto ResultSet ni un recuento de actualizaci√≥n.
 
-odajdbc.InvalidStoredPrecedure=Sentencia de llamada de stored procedure no v·lida.
+odajdbc.InvalidStoredPrecedure=Sentencia de llamada de stored procedure no v√°lida.
 
-odajdbc.PrepareStatement.CannotSetIntValue=No se puede establecer el valor tipo int del par·metro preparedStatement.
+odajdbc.PrepareStatement.CannotSetIntValue=No se puede establecer el valor tipo int del par√°metro preparedStatement.
 
-odajdbc.PrepareStatement.CannotSetDoubleValue=No se puede establecer el valor doble del par·metro preparedStatement.
+odajdbc.PrepareStatement.CannotSetDoubleValue=No se puede establecer el valor doble del par√°metro preparedStatement.
 
-odajdbc.PrepareStatement.CannotSetBigDecimalValue=No se puede establecer el valor BigDecimal del par·metro preparedStatement.
+odajdbc.PrepareStatement.CannotSetBigDecimalValue=No se puede establecer el valor BigDecimal del par√°metro preparedStatement.
 
-odajdbc.PrepareStatement.CannotSetStringValue=No se puede establecer el valor de string del par·metro preparedStatement.
+odajdbc.PrepareStatement.CannotSetStringValue=No se puede establecer el valor de string del par√°metro preparedStatement.
 
-odajdbc.PrepareStatement.CannotSetDateValue=No se puede establecer el valor de fecha del par·metro preparedStatement.
+odajdbc.PrepareStatement.CannotSetDateValue=No se puede establecer el valor de fecha del par√°metro preparedStatement.
 
-odajdbc.PrepareStatement.CannotSetTimeValue=No se puede establecer el valor de hora del par·metro preparedStatement.
+odajdbc.PrepareStatement.CannotSetTimeValue=No se puede establecer el valor de hora del par√°metro preparedStatement.
 
-odajdbc.PrepareStatement.CannotSetTimestampValue=No se puede establecer el valor de fecha/hora del par·metro preparedStatement.
+odajdbc.PrepareStatement.CannotSetTimestampValue=No se puede establecer el valor de fecha/hora del par√°metro preparedStatement.
 
 odajdbc.PrepareStatement.CannotSetBooleanValue=No se puede establecer el valor booleano de preparedStatement.
 
 odajdbc.PrepareStatement.CannotSetNullValue=No se puede establecer el valor nulo de preparedStatement.
 
-odajdbc.PrepareStatement.CannotGetParameterType=No se puede obtener el tipo de par·metro de los metadatos del par·metro.
+odajdbc.PrepareStatement.CannotGetParameterType=No se puede obtener el tipo de par√°metro de los metadatos del par√°metro.
 
-odajdbc.CannotGetParameterMetadata=No se pueden recuperar los metadatos del par·metro.
+odajdbc.CannotGetParameterMetadata=No se pueden recuperar los metadatos del par√°metro.
 
-odajdbc.ClearParametersError=Error al eliminar el valor de par·metro actual.
+odajdbc.ClearParametersError=Error al eliminar el valor de par√°metro actual.
 
 odajdbc.missedUrlAndJndi=GetConnection: los valores url y jndiNameUrl son nulos.
 
 odajdbc.error.emptyDriverClass=GetConnection: el valor del nombre de clase de controlador es nulo.
 
 #used in assert error
-odajdbc.driver.ConnNotOpen=La conexiÛn no est· abierta.
+odajdbc.driver.ConnNotOpen=La conexi√≥n no est√° abierta.
 
 odajdbc.driver.DriverMissingProperties=Faltan propiedades en Connection.open(Properties).
 
@@ -153,11 +153,11 @@ odajdbc.driver.ResultSetCannotNull=ResultSet no puede ser nulo.
 
 odajdbc.driver.ResultSetMetadataCannotNull=ResultSetMetaData no puede ser nulo.
 
-odajdbc.driver.StatementCannotNull=La sentencia debe estar preparada antes de esta operaciÛn.
+odajdbc.driver.StatementCannotNull=La sentencia debe estar preparada antes de esta operaci√≥n.
 
-odajdbc.CannotGetMaxQueries=No se pueden obtener MaxStatements de la conexiÛn JDBC subyacente.
+odajdbc.CannotGetMaxQueries=No se pueden obtener MaxStatements de la conexi√≥n JDBC subyacente.
 
-odajdbc.CannotSetQueryTimeout=No se puede establecer un lÌmite de tiempo de consulta en la sentencia JDBC subyacente.
+odajdbc.CannotSetQueryTimeout=No se puede establecer un l√≠mite de tiempo de consulta en la sentencia JDBC subyacente.
 
 odajdbc.BadQueryProperty=No se admite la propiedad de la consulta: {0}.
 
@@ -165,7 +165,7 @@ odajdbc.CannotLoadDriverClass=No se puede cargar la clase del controlador JDBC: 
 
 odajdbc.CannotInstantiateDriverClass=No se puede crear una instancia de la clase del controlador JDBC: {0}.
 
-odajdbc.CannotInstantiateFactory=No se puede crear una instancia de la clase de la f·brica de conexiÛn "{0}" definida en la extensiÛn de la clase de controlador "{1}".
+odajdbc.CannotInstantiateFactory=No se puede crear una instancia de la clase de la f√°brica de conexi√≥n "{0}" definida en la extensi√≥n de la clase de controlador "{1}".
 
 odajdbc.jndi.InvalidJndiResource=Encontrado tipo de recurso JNDI ({0}); se esperaba javax.sql.DataSource.
 

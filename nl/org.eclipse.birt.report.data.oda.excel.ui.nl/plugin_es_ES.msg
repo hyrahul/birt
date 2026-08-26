@@ -11,7 +11,7 @@ oda.data.source.id=org.eclipse.birt.report.data.oda.excel
 #
 plugin.name=Excel Data Source ODA Designer
 newwizard.name=Excel Data Source
-newwizard.description=Crear un perfil de conexión de fuente de datos de Excel
+newwizard.description=Crear un perfil de conexiÃ³n de fuente de datos de Excel
 
 wizard.window.title=Nuevo perfil de fuente de datos de Excel
 

@@ -8,9 +8,9 @@
 # * Contributors:
 # *  Actuate Corporation  - initial API and implementation
 # *******************************************************************************/
-contenttype.design=Modèle d'état
+contenttype.design=ModÃ¨le d'Ã©tat
 
 contenttype.library=Report Library
-contenttype.template=Modèle d'état
+contenttype.template=ModÃ¨le d'Ã©tat
 
 contenttype.document=Etat

@@ -1,37 +1,37 @@
 ###############################################################################
 # Preview Framework
 ###############################################################################
-designer.preview.previewtoolbarmenuaction.label=∫∏∞Ìº≠ ∫∏±‚
+designer.preview.previewtoolbarmenuaction.label=Î≥¥Í≥†ÏÑú Î≥¥Í∏∞
 
-designer.preview.previewcascadingmenugroup.label=∫∏∞Ìº≠ ∫∏±‚(&R)
+designer.preview.previewcascadingmenugroup.label=Î≥¥Í≥†ÏÑú Î≥¥Í∏∞(&R)
 
-document.preview.previewtoolbarmenuaction.label=πÆº≠ ∫∏±‚
+document.preview.previewtoolbarmenuaction.label=Î¨∏ÏÑú Î≥¥Í∏∞
 
-document.preview.previewmenugroup.label=πÆº≠ ∫∏±‚(&D)
+document.preview.previewmenugroup.label=Î¨∏ÏÑú Î≥¥Í∏∞(&D)
 
-ActionSet.Preview=πÃ∏Æ ∫∏±‚
+ActionSet.Preview=ÎØ∏Î¶¨ Î≥¥Í∏∞
 
-ActionSet.PreviewWithSecurity=πÆº≠ πÃ∏Æ ∫∏±‚
+ActionSet.PreviewWithSecurity=Î¨∏ÏÑú ÎØ∏Î¶¨ Î≥¥Í∏∞
 
-Action.GenDocument=πÆº≠ ª˝º∫(&D)
+Action.GenDocument=Î¨∏ÏÑú ÏÉùÏÑ±(&D)
 
-template.preview=πÃ∏Æ ∫∏±‚(&V)
+template.preview=ÎØ∏Î¶¨ Î≥¥Í∏∞(&V)
 
-design.preview=πÃ∏Æ ∫∏±‚(&V)
+design.preview=ÎØ∏Î¶¨ Î≥¥Í∏∞(&V)
 
-preference.preview=πÃ∏Æ ∫∏±‚
+preference.preview=ÎØ∏Î¶¨ Î≥¥Í∏∞
 
-preference.preview.server=º≠πˆ πÃ∏Æ ∫∏±‚
+preference.preview.server=ÏÑúÎ≤Ñ ÎØ∏Î¶¨ Î≥¥Í∏∞
 
-preference.preview.data=µ•¿Ã≈Õ
+preference.preview.data=Îç∞Ïù¥ÌÑ∞
 
-menu.run=Ω««‡(&R)
+menu.run=Ïã§Ìñâ(&R)
 
 ###############################################################################
 # Actions
 ###############################################################################
-Menu.Report=∫∏∞Ìº≠(&T)
+Menu.Report=Î≥¥Í≥†ÏÑú(&T)
 
-Action.RunReport=∫∏∞Ìº≠ Ω««‡(&R)
+Action.RunReport=Î≥¥Í≥†ÏÑú Ïã§Ìñâ(&R)
 
-Action.ViewDocument=πÆº≠ ∫∏±‚(&V)
+Action.ViewDocument=Î¨∏ÏÑú Î≥¥Í∏∞(&V)

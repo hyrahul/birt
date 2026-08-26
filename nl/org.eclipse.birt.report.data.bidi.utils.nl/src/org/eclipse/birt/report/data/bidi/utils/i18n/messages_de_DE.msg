@@ -1,8 +1,8 @@
-preference.description = Bidirektionales Standardformat für JDBC-Datenquelle
+preference.description = Bidirektionales Standardformat fÃ¼r JDBC-Datenquelle
 
 preference.bidiframe.title = Bidirektionales Format
 
-preference.bidiframe.arabictitle = Spezielle Funktionen für Arabisch
+preference.bidiframe.arabictitle = Spezielle Funktionen fÃ¼r Arabisch
 
 report.bidi.properties.externalbidiformat.orderingscheme.metadata=S&ortierschema
 
@@ -24,19 +24,19 @@ report.bidi.properties.externalbidiformat.textdirection.metadata=&Textrichtung
 
 report.bidi.properties.externalbidiformat.textdirection.content=Te&xtrichtung
 
-report.bidi.properties.externalbidiformat.orderingscheme.tooltip = Wert für Sortierschema wählen
+report.bidi.properties.externalbidiformat.orderingscheme.tooltip = Wert fÃ¼r Sortierschema wÃ¤hlen
 
-report.bidi.properties.externalbidiformat.textdirection.tooltip = Wert für Textrichtung wählen
+report.bidi.properties.externalbidiformat.textdirection.tooltip = Wert fÃ¼r Textrichtung wÃ¤hlen
 
-report.bidi.properties.externalbidiformat.symswap.tooltip = Wert für symmetrische Spiegelung wählen
+report.bidi.properties.externalbidiformat.symswap.tooltip = Wert fÃ¼r symmetrische Spiegelung wÃ¤hlen
 
 report.bidi.properties.externalbidiformat.symswap.true=True
 
 report.bidi.properties.externalbidiformat.symswap.false=False
 
-report.bidi.properties.externalbidiformat.shaping.tooltip = Wert für Textform wählen
+report.bidi.properties.externalbidiformat.shaping.tooltip = Wert fÃ¼r Textform wÃ¤hlen
 
-report.bidi.properties.externalbidiformat.numshaping.tooltip = Numerische Form wählen
+report.bidi.properties.externalbidiformat.numshaping.tooltip = Numerische Form wÃ¤hlen
 
 report.bidi.properties.externalbidiformat.orderingscheme.visual =Visuell
 
@@ -64,9 +64,9 @@ report.bidi.properties.externalbidiformat = Externes bidirektionales Format
 
 report.bidi.properties.nonbididirection = Von links nach rechts
 
-advancedbididialog.title=Erweiterte Einstellungen für bidirektionale Datenquellen
+advancedbididialog.title=Erweiterte Einstellungen fÃ¼r bidirektionale Datenquellen
 
-advancedbididialog.msg=Bidirektionale Formate für Metadaten und Inhalt festlegen
+advancedbididialog.msg=Bidirektionale Formate fÃ¼r Metadaten und Inhalt festlegen
 
 advancedbidi.button=Bidirektionale Einstellungen...
 

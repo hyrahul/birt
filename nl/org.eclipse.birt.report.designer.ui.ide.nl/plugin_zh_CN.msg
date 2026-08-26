@@ -14,60 +14,60 @@
 ###############################################################################
 Build=@BUILD@
 
-ReportEditor=±¨±í±à¼­Æ÷
+ReportEditor=æŠ¥è¡¨ç¼–è¾‘å™¨
 
-TemplateEditor=Ä£°å±à¼­Æ÷
+TemplateEditor=æ¨¡æ¿ç¼–è¾‘å™¨
 
-ReportPerspective=±¨±íÉè¼Æ
+ReportPerspective=æŠ¥è¡¨è®¾è®¡
 
-ReportDocumentEditor=±¨±íÎÄµµ±à¼­Æ÷
+ReportDocumentEditor=æŠ¥è¡¨æ–‡æ¡£ç¼–è¾‘å™¨
 
 ###############################################################################
 # Wizard Info
 ###############################################################################
 WizardCategoryName=Business Intelligence and Reporting Tools
-ReportWizard=±¨±í
+ReportWizard=æŠ¥è¡¨
 
-ReportWizardDescription=´ËÏòµ¼Ê¹ÓÃÔ¤¶¨ÒåÄ£°å´´½¨ĞÂ±¨±í¡£
+ReportWizardDescription=æ­¤å‘å¯¼ä½¿ç”¨é¢„å®šä¹‰æ¨¡æ¿åˆ›å»ºæ–°æŠ¥è¡¨ã€‚
 
-TemplateWizard=Ä£°å
+TemplateWizard=æ¨¡æ¿
 
-TemplateWizardDescription=´ËÏòµ¼´´½¨ĞÂÄ£°å¡£
+TemplateWizardDescription=æ­¤å‘å¯¼åˆ›å»ºæ–°æ¨¡æ¿ã€‚
 
-ReportProjectWizard=±¨±íÏîÄ¿
+ReportProjectWizard=æŠ¥è¡¨é¡¹ç›®
 
-ReportProjectWizardDescription=´´½¨ĞÂ±¨±íÏîÄ¿¡£
+ReportProjectWizardDescription=åˆ›å»ºæ–°æŠ¥è¡¨é¡¹ç›®ã€‚
 
-LibraryEditor=¿â±à¼­Æ÷
+LibraryEditor=åº“ç¼–è¾‘å™¨
 
-LibraryWizard=¿â
+LibraryWizard=åº“
 
-LibraryWizardDescription=´ËÏòµ¼´´½¨ĞÂ±¨±í¿â¡£
+LibraryWizardDescription=æ­¤å‘å¯¼åˆ›å»ºæ–°æŠ¥è¡¨åº“ã€‚
 
-OdaRuntimeWizard=ODA ÔËĞĞÊ±Çı¶¯³ÌĞò²å¼şÏîÄ¿
+OdaRuntimeWizard=ODA è¿è¡Œæ—¶é©±åŠ¨ç¨‹åºæ’ä»¶é¡¹ç›®
 
-OdaRuntimeWizardDesc=´´½¨ĞÂµÄ ODA ÔËĞĞÊ±Çı¶¯³ÌĞò²å¼ş¡£
+OdaRuntimeWizardDesc=åˆ›å»ºæ–°çš„ ODA è¿è¡Œæ—¶é©±åŠ¨ç¨‹åºæ’ä»¶ã€‚
 
-OdaDesignerWizard=ODA Éè¼ÆÆ÷²å¼şÏîÄ¿
+OdaDesignerWizard=ODA è®¾è®¡å™¨æ’ä»¶é¡¹ç›®
 
-OdaDesignerWizardDesc=´´½¨ĞÂµÄ ODA Éè¼ÆÆ÷²å¼ş¡£
+OdaDesignerWizardDesc=åˆ›å»ºæ–°çš„ ODA è®¾è®¡å™¨æ’ä»¶ã€‚
 
 ###############################################################################
 
 ###############################################################################
 # Actions
 ###############################################################################
-Action.Publish=Ê¹ÓÃĞÂ½¨±¨±íÏòµ¼À´×¢²áÄ£°å(&Z)...
+Action.Publish=ä½¿ç”¨æ–°å»ºæŠ¥è¡¨å‘å¯¼æ¥æ³¨å†Œæ¨¡æ¿(&Z)...
 
-Action.PublishLibrary=½«¿â¸´ÖÆµ½¹²Ïí×ÊÔ´ÎÄ¼ş¼Ğ...
+Action.PublishLibrary=å°†åº“å¤åˆ¶åˆ°å…±äº«èµ„æºæ–‡ä»¶å¤¹...
 
-Action.AddReportNature=Ìí¼Ó±¨±íÖ§³Ö
+Action.AddReportNature=æ·»åŠ æŠ¥è¡¨æ”¯æŒ
 
-Menu.Report=±¨±í
+Menu.Report=æŠ¥è¡¨
 
-birtproblemName=±¨±íÎÊÌâ
+birtproblemName=æŠ¥è¡¨é—®é¢˜
 
 ###############################################################################
 # Preferences
 ###############################################################################
-preference.expressionsyntaxcolor=Óï·¨É«²Ê
+preference.expressionsyntaxcolor=è¯­æ³•è‰²å½©

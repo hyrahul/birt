@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!--
  *******************************************************************************
- * Copyright (c) 2021 Contributors to the Eclipse Foundation
+ * Copyright (c) 2021, 2026 Contributors to the Eclipse Foundation
  * 
  * This program and the accompanying materials are made available under the
  * terms of the Eclipse Public License 2.0 which is available at
@@ -129,10 +129,7 @@
 							<phase>compile</phase>
 							<configuration>
 								<target description="Execute native2ascii for *.msg files" name="NativeToAscii">
-									<native2ascii implementation="builtin" dest="." encoding="Cp1252" ext=".properties" includes="**/*_de_DE.msg, **/*_fr_FR.msg, **/*_es_ES.msg" src="." />
-									<native2ascii implementation="builtin" dest="." encoding="GBK" ext=".properties" includes="**/*_zh_CN.msg" src="." />
-									<native2ascii implementation="builtin" dest="." encoding="SJIS" ext=".properties" includes="**/*_ja_JP.msg" src="." />
-									<native2ascii implementation="builtin" dest="." encoding="MS949" ext=".properties" includes="**/*_ko_KR.msg" src="." />
+									<native2ascii implementation="builtin" dest="." encoding="UTF-8" ext=".properties" includes="**/*_de_DE.msg, **/*_fr_FR.msg, **/*_es_ES.msg, **/*_zh_CN.msg, **/*_ja_JP.msg, **/*_ko_KR.msg" src="." />
 								</target>
 							</configuration>
 							<goals>

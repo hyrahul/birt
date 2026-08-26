@@ -9,266 +9,266 @@
 #  Actuate Corporation  - initial API and implementation
 ###############################################################################
 # data source messages
-DataSource.RuntimeProperty=ÔËĞĞÊ±ÊôĞÔ(&R)
+DataSource.RuntimeProperty=è¿è¡Œæ—¶å±æ€§(&R)
 
-DataSource.DataSetClassPath=×Ô¶¨Òå POJO Êı¾İ¼¯ÀàµÄ¹²ÏíÎ»ÖÃ(&L)
+DataSource.DataSetClassPath=è‡ªå®šä¹‰ POJO æ•°æ®é›†ç±»çš„å…±äº«ä½ç½®(&L)
 
-DataSource.AddRelativeJars0=Ìí¼Ó Jar (Ïà¶ÔÂ·¾¶)(&A)...
+DataSource.AddRelativeJars0=æ·»åŠ  Jar (ç›¸å¯¹è·¯å¾„)(&A)...
 
-DataSource.AddAbsoluteJars0=Ìí¼Ó Jar (¾ø¶ÔÂ·¾¶)(&J)...
+DataSource.AddAbsoluteJars0=æ·»åŠ  Jar (ç»å¯¹è·¯å¾„)(&J)...
 
 #To avoid duplicate short-cut keys
-DataSource.AddRelativeJars1=Ìí¼Ó Jar (Ïà¶ÔÂ·¾¶)(&S)...
+DataSource.AddRelativeJars1=æ·»åŠ  Jar (ç›¸å¯¹è·¯å¾„)(&S)...
 
-DataSource.AddAbsoluteJars1=Ìí¼Ó Jar (¾ø¶ÔÂ·¾¶)(&B)...
+DataSource.AddAbsoluteJars1=æ·»åŠ  Jar (ç»å¯¹è·¯å¾„)(&B)...
 
-DataSource.AddRelativeClassFolder1=Ìí¼ÓÀàÎÄ¼ş¼Ğ (Ïà¶ÔÂ·¾¶)(&E)...
+DataSource.AddRelativeClassFolder1=æ·»åŠ ç±»æ–‡ä»¶å¤¹ (ç›¸å¯¹è·¯å¾„)(&E)...
 
-DataSource.AddAbsoluteClassFolder1=Ìí¼ÓÀàÎÄ¼ş¼Ğ (¾ø¶ÔÂ·¾¶)(&U)...
+DataSource.AddAbsoluteClassFolder1=æ·»åŠ ç±»æ–‡ä»¶å¤¹ (ç»å¯¹è·¯å¾„)(&U)...
 
-DataSource.button.tooltip.AddJar.TwoItems=ÏòÀàÂ·¾¶Ìí¼Ó Jar¡£\nÏà¶ÔÂ·¾¶: »ùÓÚ×ÊÔ´ÎÄ¼ş¼ĞµÄÏà¶ÔÂ·¾¶¡£\n¾ø¶ÔÂ·¾¶: ÎÄ¼şÏµÍ³µÄ¾ø¶ÔÂ·¾¶¡£
+DataSource.button.tooltip.AddJar.TwoItems=å‘ç±»è·¯å¾„æ·»åŠ  Jarã€‚\nç›¸å¯¹è·¯å¾„: åŸºäºèµ„æºæ–‡ä»¶å¤¹çš„ç›¸å¯¹è·¯å¾„ã€‚\nç»å¯¹è·¯å¾„: æ–‡ä»¶ç³»ç»Ÿçš„ç»å¯¹è·¯å¾„ã€‚
 
-DataSource.button.tooltip.AddJar.OneItems=ÏòÀàÂ·¾¶Ìí¼Ó Jar¡£\n¾ø¶ÔÂ·¾¶: ÎÄ¼şÏµÍ³µÄ¾ø¶ÔÂ·¾¶¡£
+DataSource.button.tooltip.AddJar.OneItems=å‘ç±»è·¯å¾„æ·»åŠ  Jarã€‚\nç»å¯¹è·¯å¾„: æ–‡ä»¶ç³»ç»Ÿçš„ç»å¯¹è·¯å¾„ã€‚
 
-DataSource.PojoClassPath=POJO ÀàµÄ¹²ÏíÎ»ÖÃ(&O)
+DataSource.PojoClassPath=POJO ç±»çš„å…±äº«ä½ç½®(&O)
 
-DataSource.MissDataSetPojoClassPath.runtime=È±ÉÙ×Ô¶¨Òå POJO Êı¾İ¼¯ÀàµÄÔËĞĞÊ±¹²ÏíÎ»ÖÃ¡£
+DataSource.MissDataSetPojoClassPath.runtime=ç¼ºå°‘è‡ªå®šä¹‰ POJO æ•°æ®é›†ç±»çš„è¿è¡Œæ—¶å…±äº«ä½ç½®ã€‚
 
-DataSource.MissDataSetPojoClassPath.designtime=È±ÉÙÉè¼ÆÊ±Ê¹ÓÃµÄ×Ô¶¨Òå POJO Êı¾İ¼¯ÀàµÄ¹²ÏíÎ»ÖÃ¡£
+DataSource.MissDataSetPojoClassPath.designtime=ç¼ºå°‘è®¾è®¡æ—¶ä½¿ç”¨çš„è‡ªå®šä¹‰ POJO æ•°æ®é›†ç±»çš„å…±äº«ä½ç½®ã€‚
 
-DataSource.PageMessage=POJO Êı¾İÔ´ÊôĞÔ
+DataSource.PageMessage=POJO æ•°æ®æºå±æ€§
 
-DataSource.POJOClasses.tab.runtime=ÔËĞĞÊ±ÊôĞÔ(&R)
+DataSource.POJOClasses.tab.runtime=è¿è¡Œæ—¶å±æ€§(&R)
 
-DataSource.POJOClasses.tab.designTime=Éè¼ÆÊ±ÊôĞÔ(&P)
+DataSource.POJOClasses.tab.designTime=è®¾è®¡æ—¶å±æ€§(&P)
 
-DataSource.POJOClassTabFolderPage.promptLabel.runtime=×Ô¶¨Òå POJO Êı¾İ¼¯ÀàµÄ¹²ÏíÎ»ÖÃ(&L)
+DataSource.POJOClassTabFolderPage.promptLabel.runtime=è‡ªå®šä¹‰ POJO æ•°æ®é›†ç±»çš„å…±äº«ä½ç½®(&L)
 
-DataSource.POJOClassTabFolderPage.promptLabel.designtime=×Ô¶¨Òå POJO ÀàµÄ¹²ÏíÎ»ÖÃ(&L)
+DataSource.POJOClassTabFolderPage.promptLabel.designtime=è‡ªå®šä¹‰ POJO ç±»çš„å…±äº«ä½ç½®(&L)
 
-DataSource.POJOClassTabFolderPage.button.edit=±à¼­(&E)...
+DataSource.POJOClassTabFolderPage.button.edit=ç¼–è¾‘(&E)...
 
-DataSource.POJOClassTabFolderPage.button.up=ÉÏÒÆ(&U)
+DataSource.POJOClassTabFolderPage.button.up=ä¸Šç§»(&U)
 
-DataSource.POJOClassTabFolderPage.button.down=ÏÂÒÆ(&D)
+DataSource.POJOClassTabFolderPage.button.down=ä¸‹ç§»(&D)
 
-DataSource.POJOClassTabFolderPage.button.remove=É¾³ı(&V)
+DataSource.POJOClassTabFolderPage.button.remove=åˆ é™¤(&V)
 
-DataSource.POJOClassTabFolderPage.menuButton.addJar=Ìí¼Ó Jar
+DataSource.POJOClassTabFolderPage.menuButton.addJar=æ·»åŠ  Jar
 
-DataSource.POJOClassTabFolderPage.menuButton.item.relativePath=Ïà¶ÔÂ·¾¶
+DataSource.POJOClassTabFolderPage.menuButton.item.relativePath=ç›¸å¯¹è·¯å¾„
 
-DataSource.POJOClassTabFolderPage.menuButton.item.absolutePath=¾ø¶ÔÂ·¾¶
+DataSource.POJOClassTabFolderPage.menuButton.item.absolutePath=ç»å¯¹è·¯å¾„
 
-DataSource.POJOClassTabFolderPage.error.title.empty.resourceIdentifier=´íÎó
+DataSource.POJOClassTabFolderPage.error.title.empty.resourceIdentifier=é”™è¯¯
 
-DataSource.POJOClassTabFolderPage.error.message.empty.resourceIdentifier=ÎŞ·¨»ñµÃÓ¦ÓÃ³ÌĞò×ÊÔ´»ù±¾ URI£¡
+DataSource.POJOClassTabFolderPage.error.message.empty.resourceIdentifier=æ— æ³•è·å¾—åº”ç”¨ç¨‹åºèµ„æºåŸºæœ¬ URIï¼
 
-DataSource.ClassPathPage.synchronize.checkbox.message=ÔËĞĞÊ±ÊôĞÔ¿ÉÓÃÓÚÔËĞĞÊ±ºÍÉè¼ÆÊ±
+DataSource.ClassPathPage.synchronize.checkbox.message=è¿è¡Œæ—¶å±æ€§å¯ç”¨äºè¿è¡Œæ—¶å’Œè®¾è®¡æ—¶
 
-DataSource.ClassPathPage.synchronize.checkbox.tooltip=Èç¹û¹´Ñ¡´ËÑ¡Ïî£¬Éè¼ÆÊ±ÊôĞÔ±à¼­Æ÷½«½ûÖ¹±à¼­¡£
+DataSource.ClassPathPage.synchronize.checkbox.tooltip=å¦‚æœå‹¾é€‰æ­¤é€‰é¡¹ï¼Œè®¾è®¡æ—¶å±æ€§ç¼–è¾‘å™¨å°†ç¦æ­¢ç¼–è¾‘ã€‚
 
-DataSource.ClassPathPage.synchronize.PrompMessage=×¢Òâ£ºÈç¹û¹´Ñ¡´ËÑ¡Ïî£¬½«ºöÂÔÉè¼ÆÊ±ÊôĞÔÉèÖÃ¡£
+DataSource.ClassPathPage.synchronize.PrompMessage=æ³¨æ„ï¼šå¦‚æœå‹¾é€‰æ­¤é€‰é¡¹ï¼Œå°†å¿½ç•¥è®¾è®¡æ—¶å±æ€§è®¾ç½®ã€‚
 
-DataSource.ClassPathPage.testConnection.failed.runtime=ÎŞ·¨´´½¨ÓëÔËĞĞÊ±ÊôĞÔµÄ¡°{0}¡±µÄÁ¬½Ó£¡
+DataSource.ClassPathPage.testConnection.failed.runtime=æ— æ³•åˆ›å»ºä¸è¿è¡Œæ—¶å±æ€§çš„â€œ{0}â€çš„è¿æ¥ï¼
 
-DataSource.ClassPathPage.testConnection.failed.designtime=ÎŞ·¨´´½¨ÓëÉè¼ÆÊ±ÊôĞÔµÄ¡°{0}¡±µÄÁ¬½Ó£¡
+DataSource.ClassPathPage.testConnection.failed.designtime=æ— æ³•åˆ›å»ºä¸è®¾è®¡æ—¶å±æ€§çš„â€œ{0}â€çš„è¿æ¥ï¼
 
 
 # data set messages
-DataSet.PojoDataSetClass=POJO Êı¾İ¼¯ÀàÃû³Æ(&P)
+DataSet.PojoDataSetClass=POJO æ•°æ®é›†ç±»åç§°(&P)
 
-DataSet.AppContextKey=Ó¦ÓÃ³ÌĞòÉÏÏÂÎÄ¹Ø¼ü×Ö(&A)
+DataSet.AppContextKey=åº”ç”¨ç¨‹åºä¸Šä¸‹æ–‡å…³é”®å­—(&A)
 
-DataSet.PojoRootClass=POJO ÀàÃû³Æ(&C)
+DataSet.PojoRootClass=POJO ç±»åç§°(&C)
 
-DataSet.Browse=ä¯ÀÀ(&B)...
+DataSet.Browse=æµè§ˆ(&B)...
 
-DataSet.Browse.tooltip=ä¯ÀÀÒÔÑ¡ÔñÒ»¸öÀà¡£
+DataSet.Browse.tooltip=æµè§ˆä»¥é€‰æ‹©ä¸€ä¸ªç±»ã€‚
 
 #To avoid duplicate short-cut key
-DataSet.Browse1=ä¯ÀÀ(&R)...
+DataSet.Browse1=æµè§ˆ(&R)...
 
-DataSet.DataType.Object=Java ¶ÔÏó
+DataSet.DataType.Object=Java å¯¹è±¡
 
-DataSet.FailedParseQueryTitle=ÎŞ·¨·ÖÎö²éÑ¯ÎÄ±¾
+DataSet.FailedParseQueryTitle=æ— æ³•åˆ†ææŸ¥è¯¢æ–‡æœ¬
 
-DataSet.FailedParseQueryMsg=²éÑ¯ÎÄ±¾:¡°{0}¡±¡£
+DataSet.FailedParseQueryMsg=æŸ¥è¯¢æ–‡æœ¬:â€œ{0}â€ã€‚
 
-DataSet.FailedToSaveTitle=ÎŞ·¨±£´æÊı¾İ¼¯
+DataSet.FailedToSaveTitle=æ— æ³•ä¿å­˜æ•°æ®é›†
 
-DataSet.FailedToSaveMsg=±£´æÊı¾İ¼¯Ê±·¢ÉúÒì³£¡£
+DataSet.FailedToSaveMsg=ä¿å­˜æ•°æ®é›†æ—¶å‘ç”Ÿå¼‚å¸¸ã€‚
 
-DataSet.Label.MethodNameFilter=·½·¨Ãû³ÆÉ¸Ñ¡Æ÷(? = ÈÎÒâ×Ö·û£¬* = ÈÎÒâ×Ö·û´®)(&M):
+DataSet.Label.MethodNameFilter=æ–¹æ³•åç§°ç­›é€‰å™¨(? = ä»»æ„å­—ç¬¦ï¼Œ* = ä»»æ„å­—ç¬¦ä¸²)(&M):
 
-DataSet.MissPojoRootClass=Î´Ìá¹© POJO Àà¡£
+DataSet.MissPojoRootClass=æœªæä¾› POJO ç±»ã€‚
 
-DataSet.Apply=Ó¦ÓÃ(&Y)
+DataSet.Apply=åº”ç”¨(&Y)
 
-DataSet.ClassStructure=POJO Àà½á¹¹
+DataSet.ClassStructure=POJO ç±»ç»“æ„
 
-DataSet.ColumnMapping=ÁĞÓ³Éä(&C)
+DataSet.ColumnMapping=åˆ—æ˜ å°„(&C)
 
-DataSet.Add=Ìí¼Ó(&A)...
+DataSet.Add=æ·»åŠ (&A)...
 
-DataSet.Edit=±à¼­(&E)...
+DataSet.Edit=ç¼–è¾‘(&E)...
 
-DataSet.Remove=É¾³ı(&R)
+DataSet.Remove=åˆ é™¤(&R)
 
-DataSet.Up=ÉÏÒÆ(&U)
+DataSet.Up=ä¸Šç§»(&U)
 
-DataSet.Down=ÏÂÒÆ(&D)
+DataSet.Down=ä¸‹ç§»(&D)
 
-DataSet.Label.POJOClassName=POJO ÀàÃû³Æ
+DataSet.Label.POJOClassName=POJO ç±»åç§°
 
-DataSet.Label.prompt.ClassName=Ñ¡Ôñ´´½¨Êı¾İ¼¯ÁĞµÄ·½·¨ºÍ×Ö¶Î(&F)¡£
+DataSet.Label.prompt.ClassName=é€‰æ‹©åˆ›å»ºæ•°æ®é›†åˆ—çš„æ–¹æ³•å’Œå­—æ®µ(&F)ã€‚
 
-DataSet.button.addColumn.tooltip.mapColumn=Ìí¼ÓÒªÑ¡×÷ÁĞµÄÏîÄ¿¡£
+DataSet.button.addColumn.tooltip.mapColumn=æ·»åŠ è¦é€‰ä½œåˆ—çš„é¡¹ç›®ã€‚
 
-DataSet.button.removeColumn.tooltip.mapColumn=´ÓÁĞ±íÖĞÉ¾³ıÑ¡¶¨ÏîÄ¿¡£
+DataSet.button.removeColumn.tooltip.mapColumn=ä»åˆ—è¡¨ä¸­åˆ é™¤é€‰å®šé¡¹ç›®ã€‚
 
-DataSet.button.tooltip.Add=Ìí¼ÓĞÂÁĞ¡£
+DataSet.button.tooltip.Add=æ·»åŠ æ–°åˆ—ã€‚
 
-DataSet.button.tooltip.Edit=±à¼­µ±Ç°ÁĞ¡£
+DataSet.button.tooltip.Edit=ç¼–è¾‘å½“å‰åˆ—ã€‚
 
-DataSet.button.tooltip.Remove=É¾³ıµ±Ç°ÁĞ¡£
+DataSet.button.tooltip.Remove=åˆ é™¤å½“å‰åˆ—ã€‚
 
-DataSet.button.tooltip.Up=ÉÏÒÆµ±Ç°ÁĞ¡£
+DataSet.button.tooltip.Up=ä¸Šç§»å½“å‰åˆ—ã€‚
 
-DataSet.button.tooltip.Down=ÏÂÒÆµ±Ç°ÁĞ¡£
+DataSet.button.tooltip.Down=ä¸‹ç§»å½“å‰åˆ—ã€‚
 
-DataSet.ShowSampleData=ÏÔÊ¾Ê¾ÀıÊı¾İ(&S)
+DataSet.ShowSampleData=æ˜¾ç¤ºç¤ºä¾‹æ•°æ®(&S)
 
-DataSet.button.tooltip.ShowSampleData=ÏÔÊ¾Ê¾ÀıÊı¾İ¡£
+DataSet.button.tooltip.ShowSampleData=æ˜¾ç¤ºç¤ºä¾‹æ•°æ®ã€‚
 
-DataSet.FailedToLoadClassTitle=ÎŞ·¨¼ÓÔØÀà¡£
+DataSet.FailedToLoadClassTitle=æ— æ³•åŠ è½½ç±»ã€‚
 
-DataSet.FailedToLoadPojoClassMsg=ÎŞ·¨¼ÓÔØ POJO Àà:¡°{0}¡±¡£
+DataSet.FailedToLoadPojoClassMsg=æ— æ³•åŠ è½½ POJO ç±»:â€œ{0}â€ã€‚
 
-ColumnMappingPage.table.head.columnName=Ãû³Æ
+ColumnMappingPage.table.head.columnName=åç§°
 
-ColumnMappingPage.table.head.MethodField=·½·¨/×Ö¶Î
+ColumnMappingPage.table.head.MethodField=æ–¹æ³•/å­—æ®µ
 
-ColumnMappingPage.table.head.columnType=ÀàĞÍ
+ColumnMappingPage.table.head.columnType=ç±»å‹
 
-ColumnMappingWizardPage.error.getQueryText=ÎŞ·¨·ÖÎöÔ­²éÑ¯ÎÄ±¾¡£
+ColumnMappingWizardPage.error.getQueryText=æ— æ³•åˆ†æåŸæŸ¥è¯¢æ–‡æœ¬ã€‚
 
-ColumnMappingWizardPage.button.apply.text=Ó¦ÓÃ(&P)
+ColumnMappingWizardPage.button.apply.text=åº”ç”¨(&P)
 
-ColumnMappingWizardPage.button.apply.tooltip=Ó¦ÓÃÊäÈë POJO ÀàÃû³ÆÒÔÉú³É·½·¨Ê÷¡£
+ColumnMappingWizardPage.button.apply.tooltip=åº”ç”¨è¾“å…¥ POJO ç±»åç§°ä»¥ç”Ÿæˆæ–¹æ³•æ ‘ã€‚
 
-ColumnMappingDialog.Label.ColumnName=ÁĞÃû³Æ(&C):
+ColumnMappingDialog.Label.ColumnName=åˆ—åç§°(&C):
 
-ColumnMappingDialog.Label.ColumnMethodField=·½·¨/×Ö¶Î(&M):
+ColumnMappingDialog.Label.ColumnMethodField=æ–¹æ³•/å­—æ®µ(&M):
 
-ColumnMappingDialog.Label.Type=ÁĞÀàĞÍ(&T):
+ColumnMappingDialog.Label.Type=åˆ—ç±»å‹(&T):
 
-ColumnMappingDialog.table.promptLabel=Ñ¡ÔñÒÑÓ³ÉäÖÁ²ÎÊıµÄ·½·¨²ÎÊı(&A):
+ColumnMappingDialog.table.promptLabel=é€‰æ‹©å·²æ˜ å°„è‡³å‚æ•°çš„æ–¹æ³•å‚æ•°(&A):
 
-ColumnMappingDialog.table.head.mapped=Ó³Éä
+ColumnMappingDialog.table.head.mapped=æ˜ å°„
 
-ColumnMappingDialog.table.head.name=Ãû³Æ
+ColumnMappingDialog.table.head.name=åç§°
 
-ColumnMappingDialog.table.head.value=Öµ
+ColumnMappingDialog.table.head.value=å€¼
 
-ColumnMappingDialog.table.head.dataType=Java Êı¾İÀàĞÍ
+ColumnMappingDialog.table.head.dataType=Java æ•°æ®ç±»å‹
 
-ColumnMappingDialog.button.edit=±à¼­(&E)...
+ColumnMappingDialog.button.edit=ç¼–è¾‘(&E)...
 
-ColumnMappingDialog.button.selectAll=È«Ñ¡(&S)
+ColumnMappingDialog.button.selectAll=å…¨é€‰(&S)
 
-ColumnMappingDialog.button.deselectAll=È¡ÏûÈ«Ñ¡(&D)
+ColumnMappingDialog.button.deselectAll=å–æ¶ˆå…¨é€‰(&D)
 
-ColumnMappingDialog.Label.methodHierarchy=·½·¨µ÷ÓÃ²ã´Î½á¹¹:
+ColumnMappingDialog.Label.methodHierarchy=æ–¹æ³•è°ƒç”¨å±‚æ¬¡ç»“æ„:
 
-ColumnMappingDialog.error.DuplicatedColumnName=¸ÃÁĞÃû³ÆÒÑ±»Ê¹ÓÃ!
+ColumnMappingDialog.error.DuplicatedColumnName=è¯¥åˆ—åç§°å·²è¢«ä½¿ç”¨!
 
-ColumnMappingDialog.error.EmptyColumnName=ÁĞÃû³Æ²»ÄÜÎª¿Õ!
+ColumnMappingDialog.error.EmptyColumnName=åˆ—åç§°ä¸èƒ½ä¸ºç©º!
 
-ColumnMappingDialog.error.EmptyMappingPath=ÁĞÓ³ÉäÂ·¾¶²»ÄÜÎª¿Õ!
+ColumnMappingDialog.error.EmptyMappingPath=åˆ—æ˜ å°„è·¯å¾„ä¸èƒ½ä¸ºç©º!
 
-ColumnMappingDialog.MenuItem.remove=É¾³ı
+ColumnMappingDialog.MenuItem.remove=åˆ é™¤
 
-ColumnMappingDialog.MenuItem.removeAll=È«²¿É¾³ı
+ColumnMappingDialog.MenuItem.removeAll=å…¨éƒ¨åˆ é™¤
 
-MethodParameterDialog.edit.title=±à¼­·½·¨²ÎÊı
+MethodParameterDialog.edit.title=ç¼–è¾‘æ–¹æ³•å‚æ•°
 
-MethodParameterDialog.label.name=Ãû³Æ(&N):
+MethodParameterDialog.label.name=åç§°(&N):
 
-MethodParameterDialog.label.value=Öµ(&V):
+MethodParameterDialog.label.value=å€¼(&V):
 
-MethodParameterDialog.label.dataType=Java Êı¾İÀàĞÍ(&J):
+MethodParameterDialog.label.dataType=Java æ•°æ®ç±»å‹(&J):
 
-MethodParameterDialog.checkBox.message=½«¸Ã²ÎÊıÉèÖÃÎªÓ³ÉäÖÁ²ÎÊı¡£
+MethodParameterDialog.checkBox.message=å°†è¯¥å‚æ•°è®¾ç½®ä¸ºæ˜ å°„è‡³å‚æ•°ã€‚
 
-MethodParameterDialog.error.missingName=±ØĞëÎªÒÑÓ³ÉäµÄ²ÎÊıÖ¸¶¨Ãû³Æ!
+MethodParameterDialog.error.missingName=å¿…é¡»ä¸ºå·²æ˜ å°„çš„å‚æ•°æŒ‡å®šåç§°!
 
-MethodParameterDialog.error.missingValue=±ØĞëÎª³£Á¿²ÎÊıÖ¸¶¨³£Á¿Öµ!
+MethodParameterDialog.error.missingValue=å¿…é¡»ä¸ºå¸¸é‡å‚æ•°æŒ‡å®šå¸¸é‡å€¼!
 
-MethodParameterDialog.error.invalidParamName=ÒÑÎª¸Ã²ÎÊıÖ¸¶¨ÁËÒ»¸ö²»Í¬µÄÊı¾İÀàĞÍ!
+MethodParameterDialog.error.invalidParamName=å·²ä¸ºè¯¥å‚æ•°æŒ‡å®šäº†ä¸€ä¸ªä¸åŒçš„æ•°æ®ç±»å‹!
 
-MethodParameterDialog.error.missingDataType=²ÎÊıÊı¾İÀàĞÍ²»ÄÜÎª¿Õ!
+MethodParameterDialog.error.missingDataType=å‚æ•°æ•°æ®ç±»å‹ä¸èƒ½ä¸ºç©º!
 
-DataSet.DataType.String=×Ö·û´®
+DataSet.DataType.String=å­—ç¬¦ä¸²
 
-DataSet.DataType.Integer=ÕûĞÍ
+DataSet.DataType.Integer=æ•´å‹
 #make the display label consistent with BIRT data type 
-DataSet.DataType.Double=¸¡µã
+DataSet.DataType.Double=æµ®ç‚¹
 
-DataSet.DataType.Decimal=Ğ¡Êı
+DataSet.DataType.Decimal=å°æ•°
 
-DataSet.DataType.Date=ÈÕÆÚ
+DataSet.DataType.Date=æ—¥æœŸ
 
-DataSet.DataType.Time=Ê±¼ä
+DataSet.DataType.Time=æ—¶é—´
 #make the display label consistent with BIRT data type 
-DataSet.DataType.Timestamp=ÈÕÆÚÊ±¼ä
+DataSet.DataType.Timestamp=æ—¥æœŸæ—¶é—´
 
-DataSet.DataType.Boolean=²¼¶û
+DataSet.DataType.Boolean=å¸ƒå°”
 
 DataSet.DataType.Blob=Blob
 
-DataSet.AddColumnMapping=Ìí¼ÓÁĞÓ³Éä
+DataSet.AddColumnMapping=æ·»åŠ åˆ—æ˜ å°„
 
-DataSet.EditColumnMapping=±à¼­ÁĞÓ³Éä
+DataSet.EditColumnMapping=ç¼–è¾‘åˆ—æ˜ å°„
 
-DataSet.InvalidColumnMappingPath=ÎŞĞ§·½·¨/×Ö¶Î¸ñÊ½:¡°{0}¡±¡£
+DataSet.InvalidColumnMappingPath=æ— æ•ˆæ–¹æ³•/å­—æ®µæ ¼å¼:â€œ{0}â€ã€‚
 
-DataSet.InvalidMethodName=ÎŞĞ§·½·¨Ãû³Æ:¡°{0}¡±¡£
+DataSet.InvalidMethodName=æ— æ•ˆæ–¹æ³•åç§°:â€œ{0}â€ã€‚
 
-DataSet.InvalidFieldName=ÎŞĞ§×Ö¶ÎÃû³Æ:¡°{0}¡±¡£
+DataSet.InvalidFieldName=æ— æ•ˆå­—æ®µåç§°:â€œ{0}â€ã€‚
 
-DataSet.JarsSelectDlg.Title=Ñ¡Ôñ Jar/Zip
+DataSet.JarsSelectDlg.Title=é€‰æ‹© Jar/Zip
 
-DataSet.ClassFoldersSelectDlg.Title=Ñ¡ÔñÀàÎÄ¼ş¼Ğ
+DataSet.ClassFoldersSelectDlg.Title=é€‰æ‹©ç±»æ–‡ä»¶å¤¹
 
-DataSet.PropertyPageMsg=POJO Êı¾İ¼¯ÊôĞÔ
+DataSet.PropertyPageMsg=POJO æ•°æ®é›†å±æ€§
 
-DataSet.ColumnMappingPageMsg=ÁĞÓ³Éä
+DataSet.ColumnMappingPageMsg=åˆ—æ˜ å°„
 
-DataSet.NoColumnMappingErrorMsg=ÎŞÁĞÓ³Éä¡£
+DataSet.NoColumnMappingErrorMsg=æ— åˆ—æ˜ å°„ã€‚
 
-DataSet.ClassNameFilter=ÀàÃû³ÆÉ¸Ñ¡Æ÷(? = ÈÎÒâ×Ö·û£¬* = ÈÎÒâ×Ö·û´®)(&C):
+DataSet.ClassNameFilter=ç±»åç§°ç­›é€‰å™¨(? = ä»»æ„å­—ç¬¦ï¼Œ* = ä»»æ„å­—ç¬¦ä¸²)(&C):
 
-DataSet.MatchingItems=Æ¥ÅäÏî(&M):
+DataSet.MatchingItems=åŒ¹é…é¡¹(&M):
 
-DataSet.ClassInputDialogTitle=Ñ¡ÔñÀà
+DataSet.ClassInputDialogTitle=é€‰æ‹©ç±»
 
-DataSet.PreviewDialogTitle=Ê¾ÀıÊı¾İ
+DataSet.PreviewDialogTitle=ç¤ºä¾‹æ•°æ®
 
-DataSet.FailedFetchSampleData=ÎŞ·¨»ñÈ¡Ê¾ÀıÊı¾İ
+DataSet.FailedFetchSampleData=æ— æ³•è·å–ç¤ºä¾‹æ•°æ®
 
-ExceptionDialog.title.erro=´íÎó
+ExceptionDialog.title.erro=é”™è¯¯
 
-ExceptionDialog.DataSource.AddDuplicatedJar=²»ÄÜ¶à´ÎÌí¼ÓÏàÍ¬ jar¡£
+ExceptionDialog.DataSource.AddDuplicatedJar=ä¸èƒ½å¤šæ¬¡æ·»åŠ ç›¸åŒ jarã€‚
 
-error.PojoDataSet.emptyClassName=ÀàÃû³Æ²»ÄÜÎª¿Õ¡£
+error.PojoDataSet.emptyClassName=ç±»åç§°ä¸èƒ½ä¸ºç©ºã€‚
 
-JarsSelectionDialog.button.importFile=µ¼ÈëÎÄ¼ş...
+JarsSelectionDialog.button.importFile=å¯¼å…¥æ–‡ä»¶...
 
-JarsSelectionDialog.title.error=´íÎó
+JarsSelectionDialog.title.error=é”™è¯¯
 
-JarsSelectionDialog.title.overwrite=¸²¸Ç
+JarsSelectionDialog.title.overwrite=è¦†ç›–
 
-JarsSelectionDialog.overwrite.msg=¾ßÓĞ´ËÃû³ÆµÄÎÄ¼şÒÑ¾­´æÔÚ£¬ÊÇ·ñÒª¸²¸ÇËü?
+JarsSelectionDialog.overwrite.msg=å…·æœ‰æ­¤åç§°çš„æ–‡ä»¶å·²ç»å­˜åœ¨ï¼Œæ˜¯å¦è¦è¦†ç›–å®ƒ?
 
-JarsSelectionDialog.import.msg=ÕıÔÚµ¼ÈëÎÄ¼ş...
+JarsSelectionDialog.import.msg=æ­£åœ¨å¯¼å…¥æ–‡ä»¶...

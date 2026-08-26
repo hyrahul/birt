@@ -13,10 +13,10 @@
 ###############################################################################
 # NLS String
 ###############################################################################
-datasource.name=Source de données XML héritée BIRT 2.1.x
+datasource.name=Source de donnÃ©es XML hÃ©ritÃ©e BIRT 2.1.x
 
-dataset.name=Jeu de données XML BIRT 2.1.x
+dataset.name=Jeu de donnÃ©es XML BIRT 2.1.x
 
-datasource.property.xmlFile=Fichier de source de données XML
+datasource.property.xmlFile=Fichier de source de donnÃ©es XML
 
-datasource.property.schemaFile=Fichier de schéma XML
+datasource.property.schemaFile=Fichier de schÃ©ma XML

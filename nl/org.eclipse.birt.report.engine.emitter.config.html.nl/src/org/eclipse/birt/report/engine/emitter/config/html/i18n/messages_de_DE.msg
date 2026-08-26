@@ -26,11 +26,11 @@ OptionDisplayValue.Enable=Aktivieren
 
 OptionDisplayValue.Disable=Deaktivieren
 
-OptionDisplayValue.OutputMasterPageMargins=R‰nder von Master-Seite ausgeben
+OptionDisplayValue.OutputMasterPageMargins=R√§nder von Master-Seite ausgeben
 
-OptionDisplayValue.MasterPageContent=Kopf- und Fuﬂzeile ausgeben
+OptionDisplayValue.MasterPageContent=Kopf- und Fu√üzeile ausgeben
 
-OptionDisplayValue.PageFooterFloat=Unverankerte Fuﬂzeile
+OptionDisplayValue.PageFooterFloat=Unverankerte Fu√üzeile
 
 OptionDisplayValue.LayoutPreference=Layoutvoreinstellungen:
 
@@ -40,18 +40,18 @@ OptionDisplayValue.AutoLayout=Automatisches Layout
 
 OptionDisplayValue.HTMLType=Ausgabetyp:
 
-OptionDisplayValue.CompleteHTML=Vollst‰ndiges HTML
+OptionDisplayValue.CompleteHTML=Vollst√§ndiges HTML
 
 OptionDisplayValue.HTMLNoCSS=HTML ohne CSS
 
 ###########################################################
 #Option Description
-OptionDescription.AgentStyleEngine=True: Der HTML-Emitter gibt die BIRT-Stile direkt im Bericht aus. Die Implementierung der Stilberechnung h‰ngt vom Browser ab.\nFalse: Der HTML-Emitter berechnet die Stile mithilfe der BIRT-Stil-Engine und gibt die Ergebnisse im Bericht aus.
+OptionDescription.AgentStyleEngine=True: Der HTML-Emitter gibt die BIRT-Stile direkt im Bericht aus. Die Implementierung der Stilberechnung h√§ngt vom Browser ab.\nFalse: Der HTML-Emitter berechnet die Stile mithilfe der BIRT-Stil-Engine und gibt die Ergebnisse im Bericht aus.
 
-OptionDescription.OutputMasterPageMargins=R‰nder von Master-Seite in Bericht mit automatischem Layout ausgeben.
+OptionDescription.OutputMasterPageMargins=R√§nder von Master-Seite in Bericht mit automatischem Layout ausgeben.
 
-OptionDescription.MasterPageContent=Enth‰lt Kopf- und Fuﬂzeile; nur bei aktivierter Paginierung verf¸gbar.
+OptionDescription.MasterPageContent=Enth√§lt Kopf- und Fu√üzeile; nur bei aktivierter Paginierung verf√ºgbar.
 
-OptionDescription.PageFooterFloat=Unverankerte Fuﬂzeile; nur bei aktivierter Paginierung verf¸gbar.
+OptionDescription.PageFooterFloat=Unverankerte Fu√üzeile; nur bei aktivierter Paginierung verf√ºgbar.
 
 OptionDescription.HTMLType=HTML-Typ.

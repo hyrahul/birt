@@ -11,13 +11,13 @@
 
 ########################################
 #ReportLauncher
-ReportLauncher.PortValueAbsent=La valeur du port de la requête est manquante.
+ReportLauncher.PortValueAbsent=La valeur du port de la requÃªte est manquante.
 
-ReportLauncher.FailToStartDebugServer=Echec du démarrage du serveur de débogage.
+ReportLauncher.FailToStartDebugServer=Echec du dÃ©marrage du serveur de dÃ©bogage.
 
-ReportLauncher.FailToStartReportPlatform=Echec du démarrage de la plateforme de rapport.
+ReportLauncher.FailToStartReportPlatform=Echec du dÃ©marrage de la plateforme de rapport.
 
-ReportLauncher.UserClassPathReceived=Chemin de classe de l'utilisateur reçu :
+ReportLauncher.UserClassPathReceived=Chemin de classe de l'utilisateur reÃ§u :
 
 ReportLauncher.EngineException=Exception du moteur
 
@@ -25,36 +25,36 @@ ReportLauncher.IOException=Exception E/S
 
 ########################################
 #ReportVMClient
-ReportVMClient.ServerConnected=Serveur [Client] connecté
+ReportVMClient.ServerConnected=Serveur [Client] connectÃ©
 
-ReportVMClient.ServerShutDown=Serveur [Client] déjà arrêté
+ReportVMClient.ServerShutDown=Serveur [Client] dÃ©jÃ  arrÃªtÃ©
 
-ReportVMClient.ClientDisconnected=Client [Client] déconnecté
+ReportVMClient.ClientDisconnected=Client [Client] dÃ©connectÃ©
 
-ReportVMClient.EnterEventDispatching=[Client] entre la distribution de l'événement
+ReportVMClient.EnterEventDispatching=[Client] entre la distribution de l'Ã©vÃ©nement
 
-ReportVMClient.ReceivedVMEvent=[Client] a reçu un événement vm :
+ReportVMClient.ReceivedVMEvent=[Client] a reÃ§u un Ã©vÃ©nement vm :
 
-ReportVMClient.ServerShuttingDown=Arrêt du serveur [Client] en cours
+ReportVMClient.ServerShuttingDown=ArrÃªt du serveur [Client] en cours
 
-ReportVMClient.RequestIgnored.ServerDisconnected=Serveur [Client] déjà déconnecté, requête ignorée :
+ReportVMClient.RequestIgnored.ServerDisconnected=Serveur [Client] dÃ©jÃ  dÃ©connectÃ©, requÃªte ignorÃ©e :
 
-ReportVMClient.RequestIgnored.ServerShuttingDown=Arrêt du serveur [Client] en cours, requête ignorée :
+ReportVMClient.RequestIgnored.ServerShuttingDown=ArrÃªt du serveur [Client] en cours, requÃªte ignorÃ©e :
 
 ########################################
 #ReportVMServer
-ReportVMServer.ClientAccpted=Client [Serveur] accepté
+ReportVMServer.ClientAccpted=Client [Serveur] acceptÃ©
 
-ReportVMServer.ClientDisconnected=Client [Serveur] déconnecté
+ReportVMServer.ClientDisconnected=Client [Serveur] dÃ©connectÃ©
 
-ReportVMServer.ServerShutDown=Serveur [Serveur] arrêté
+ReportVMServer.ServerShutDown=Serveur [Serveur] arrÃªtÃ©
 
-ReportVMServer.EnterRequestDispatching=[Serveur] entre la distribution de la requête
+ReportVMServer.EnterRequestDispatching=[Serveur] entre la distribution de la requÃªte
 
-ReportVMServer.ReceivedRequest=[Serveur] a reçu une requête :
+ReportVMServer.ReceivedRequest=[Serveur] a reÃ§u une requÃªte :
 
-ReportVMServer.SendBackResponse=[Serveur] renvoie une réponse
+ReportVMServer.SendBackResponse=[Serveur] renvoie une rÃ©ponse
 
-ReportVMServer.ServerShuttingDown=Arrêt du serveur [Serveur] en cours
+ReportVMServer.ServerShuttingDown=ArrÃªt du serveur [Serveur] en cours
 
-ReportVMServer.SendVMEvent=[Serveur] envoie un événement vm :
+ReportVMServer.SendVMEvent=[Serveur] envoie un Ã©vÃ©nement vm :

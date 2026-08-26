@@ -1,164 +1,164 @@
-exception.base.orthogonal.null.datadefinition=w’è‚µ‚½ƒf[ƒ^’è‹`‚Ì®‚Í–³Œø‚Å‚·B
+exception.base.orthogonal.null.datadefinition=æŒ‡å®šã—ãŸãƒ‡ãƒ¼ã‚¿å®šç¾©ã®å¼ã¯ç„¡åŠ¹ã§ã™ã€‚
 
-exception.dataset.stockseries=Š”‰¿Œn—ñ‚ÉƒoƒCƒ“ƒh‚³‚ê‚Ä‚¢‚éƒf[ƒ^ƒGƒ“ƒgƒŠ‚ª•sŠ®‘S‚Å‚·Bƒf[ƒ^ƒGƒ“ƒgƒŠ‚É‚ÍAÅ‚’lAÅ’á’lAn’lAI’l‚Ì 4 ‚Â‚Ì’l‚ª•K—v‚Å‚·B
+exception.dataset.stockseries=æ ªä¾¡ç³»åˆ—ã«ãƒã‚¤ãƒ³ãƒ‰ã•ã‚Œã¦ã„ã‚‹ãƒ‡ãƒ¼ã‚¿ã‚¨ãƒ³ãƒˆãƒªãŒä¸å®Œå…¨ã§ã™ã€‚ãƒ‡ãƒ¼ã‚¿ã‚¨ãƒ³ãƒˆãƒªã«ã¯ã€æœ€é«˜å€¤ã€æœ€ä½å€¤ã€å§‹å€¤ã€çµ‚å€¤ã® 4 ã¤ã®å€¤ãŒå¿…è¦ã§ã™ã€‚
 
-exception.dataset.null.stockentry=‚±‚Ìƒf[ƒ^ƒGƒ“ƒgƒŠ‚É‚ÍA–³Œø‚È null ’l‚Ü‚½‚Í”’lˆÈŠO‚Ì’l‚ªŠÜ‚Ü‚ê‚Ä‚¢‚Ü‚·B
+exception.dataset.null.stockentry=ã“ã®ãƒ‡ãƒ¼ã‚¿ã‚¨ãƒ³ãƒˆãƒªã«ã¯ã€ç„¡åŠ¹ãª null å€¤ã¾ãŸã¯æ•°å€¤ä»¥å¤–ã®å€¤ãŒå«ã¾ã‚Œã¦ã„ã¾ã™ã€‚
 
-exception.dataset.invalid.ganttentry=‚±‚Ìƒf[ƒ^ƒGƒ“ƒgƒŠ‚É‚Í–³Œø‚È’l‚ªŠÜ‚Ü‚ê‚Ä‚¢‚Ü‚·B
+exception.dataset.invalid.ganttentry=ã“ã®ãƒ‡ãƒ¼ã‚¿ã‚¨ãƒ³ãƒˆãƒªã«ã¯ç„¡åŠ¹ãªå€¤ãŒå«ã¾ã‚Œã¦ã„ã¾ã™ã€‚
 
-exception.empty.dataset=‹ó‚Ìƒf[ƒ^ƒZƒbƒg‚ªŒ©‚Â‚©‚è‚Ü‚µ‚½B
+exception.empty.dataset=ç©ºã®ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆãŒè¦‹ã¤ã‹ã‚Šã¾ã—ãŸã€‚
 
-exception.empty.palette=Œn—ñ {0} ‚ÉŠÖ˜A•t‚¯‚ç‚ê‚Ä‚¢‚éƒpƒŒƒbƒg‚ª‹ó‚Å‚·B
+exception.empty.palette=ç³»åˆ— {0} ã«é–¢é€£ä»˜ã‘ã‚‰ã‚Œã¦ã„ã‚‹ãƒ‘ãƒ¬ãƒƒãƒˆãŒç©ºã§ã™ã€‚
 
-exception.null.values=ƒvƒƒbƒg‚É‚ÍA'all null' ’l‚ğw’è‚Å‚«‚Ü‚¹‚ñB
+exception.null.values=ãƒ—ãƒ­ãƒƒãƒˆã«ã¯ã€'all null' å€¤ã‚’æŒ‡å®šã§ãã¾ã›ã‚“ã€‚
 
-exception.unknown.datatype=ƒOƒ‰ƒt‚Åg—p‚µ‚Ä‚¢‚éƒf[ƒ^ƒZƒbƒg‚ª–³Œø‚Å‚·B
+exception.unknown.datatype=ã‚°ãƒ©ãƒ•ã§ä½¿ç”¨ã—ã¦ã„ã‚‹ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆãŒç„¡åŠ¹ã§ã™ã€‚
 
-exception.dataset.booleantype=˜_—’lŒ^‚Íg—p‚Å‚«‚Ü‚¹‚ñ
+exception.dataset.booleantype=è«–ç†å€¤å‹ã¯ä½¿ç”¨ã§ãã¾ã›ã‚“
 
-exception.undefined.riser=‰¡–_‚ÌŒn—ñ {0} ‚É‚ÍAƒ‰ƒCƒU‚ÌŒ^‚ª’è‹`‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.undefined.riser=æ¨ªæ£’ã®ç³»åˆ— {0} ã«ã¯ã€ãƒ©ã‚¤ã‚¶ã®å‹ãŒå®šç¾©ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.stock.entry.invalid.highlow=Š”‰¿‚Ì’l‚ª–³Œø‚Å‚·B‚’l {0} ‚ªˆÀ’l {1} ‚æ‚è¬‚³‚­‚È‚Á‚Ä‚¢‚Ü‚·B
+exception.stock.entry.invalid.highlow=æ ªä¾¡ã®å€¤ãŒç„¡åŠ¹ã§ã™ã€‚é«˜å€¤ {0} ãŒå®‰å€¤ {1} ã‚ˆã‚Šå°ã•ããªã£ã¦ã„ã¾ã™ã€‚
 
-exception.stock.entry.invalid.high=Š”‰¿‚Ì’l‚ª–³Œø‚Å‚·B‚’l {0} ‚ªn’l/I’l {1} ‚æ‚è¬‚³‚­‚È‚Á‚Ä‚¢‚Ü‚·B
+exception.stock.entry.invalid.high=æ ªä¾¡ã®å€¤ãŒç„¡åŠ¹ã§ã™ã€‚é«˜å€¤ {0} ãŒå§‹å€¤/çµ‚å€¤ {1} ã‚ˆã‚Šå°ã•ããªã£ã¦ã„ã¾ã™ã€‚
 
-exception.stock.entry.invalid.low=Š”‰¿‚Ì’l‚ª–³Œø‚Å‚·BˆÀ’l {0} ‚ªn’l/I’l {1} ‚æ‚è‘å‚«‚­‚È‚Á‚Ä‚¢‚Ü‚·B
+exception.stock.entry.invalid.low=æ ªä¾¡ã®å€¤ãŒç„¡åŠ¹ã§ã™ã€‚å®‰å€¤ {0} ãŒå§‹å€¤/çµ‚å€¤ {1} ã‚ˆã‚Šå¤§ãããªã£ã¦ã„ã¾ã™ã€‚
 
-exception.series.visibility={0} Œn—ñ‚Ì‰Â‹«‚ª–¾¦“I‚Éİ’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.series.visibility={0} ç³»åˆ—ã®å¯è¦–æ€§ãŒæ˜ç¤ºçš„ã«è¨­å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.xvalue.scale.bars=’l‚ÌƒXƒP[ƒ‹‚Å‚Í‰¡–_‚ğƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚Ü‚¹‚ñB
+exception.xvalue.scale.bars=å€¤ã®ã‚¹ã‚±ãƒ¼ãƒ«ã§ã¯æ¨ªæ£’ã‚’ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚
 
-exception.xvalue.scale.lines=’l‚ÌƒXƒP[ƒ‹‚Å‚ÍÜ‚êü‚ğƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚Ü‚¹‚ñB
+exception.xvalue.scale.lines=å€¤ã®ã‚¹ã‚±ãƒ¼ãƒ«ã§ã¯æŠ˜ã‚Œç·šã‚’ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚
 
-exception.xvalue.scale.stock=’l‚ÌƒXƒP[ƒ‹‚Å‚Íƒ[ƒ\ƒN‘«‚ğƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚Ü‚¹‚ñB
+exception.xvalue.scale.stock=å€¤ã®ã‚¹ã‚±ãƒ¼ãƒ«ã§ã¯ãƒ­ãƒ¼ã‚½ã‚¯è¶³ã‚’ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚
 
-exception.invalid.tick.style.dial=ƒ_ƒCƒ„ƒ‹‚ÌŒn—ñ‚É–³Œø‚ÈƒXƒ^ƒCƒ‹‚Ì–Ú·‚ªw’è‚³‚ê‚Ü‚µ‚½B
+exception.invalid.tick.style.dial=ãƒ€ã‚¤ãƒ¤ãƒ«ã®ç³»åˆ—ã«ç„¡åŠ¹ãªã‚¹ã‚¿ã‚¤ãƒ«ã®ç›®ç››ãŒæŒ‡å®šã•ã‚Œã¾ã—ãŸã€‚
 
-exception.unknown.custom.dataset={1} ‚Å’è‹`‚³‚ê‚Ä‚¢‚éƒJƒXƒ^ƒ€ƒf[ƒ^ƒZƒbƒg {0} ‚Í‰ğß‚Å‚«‚Ü‚¹‚ñB
+exception.unknown.custom.dataset={1} ã§å®šç¾©ã•ã‚Œã¦ã„ã‚‹ã‚«ã‚¹ã‚¿ãƒ ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆ {0} ã¯è§£é‡ˆã§ãã¾ã›ã‚“ã€‚
 
-exception.curve.visibility.unset=‹Èü‚Ì‰Â‹«‚ÍAü‚Ì‘®«‚Åİ’è‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B
+exception.curve.visibility.unset=æ›²ç·šã®å¯è¦–æ€§ã¯ã€ç·šã®å±æ€§ã§è¨­å®šã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
-exception.visibility.line.unset=’¼ü‚Ì‰Â‹«‚ÍAü‚Ì‘®«‚Åİ’è‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B
+exception.visibility.line.unset=ç›´ç·šã®å¯è¦–æ€§ã¯ã€ç·šã®å±æ€§ã§è¨­å®šã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
-exception.cannot.parse.sample=Œn—ñ‚Ìƒf[ƒ^ƒZƒbƒg‚ÉŠÖ˜A•t‚¯‚éƒTƒ“ƒvƒ‹ƒf[ƒ^’l‚ğ‰ğÍ‚Å‚«‚Ü‚¹‚ñB
+exception.cannot.parse.sample=ç³»åˆ—ã®ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã«é–¢é€£ä»˜ã‘ã‚‹ã‚µãƒ³ãƒ—ãƒ«ãƒ‡ãƒ¼ã‚¿å€¤ã‚’è§£æã§ãã¾ã›ã‚“ã€‚
 
-exception.no.stack.percent.3D.chart=3D ƒOƒ‰ƒt‚Å‚ÍAÏ‚İã‚°‚âƒp[ƒZƒ“ƒg‚ğ•\‚¹‚Ü‚¹‚ñB
+exception.no.stack.percent.3D.chart=3D ã‚°ãƒ©ãƒ•ã§ã¯ã€ç©ã¿ä¸Šã’ã‚„ãƒ‘ãƒ¼ã‚»ãƒ³ãƒˆã‚’è¡¨ã›ã¾ã›ã‚“ã€‚
 
-exception.dial.dimension=ƒ_ƒCƒ„ƒ‹‚ÌŒn—ñ‚Å‚Í ''{0}'' ‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+exception.dial.dimension=ãƒ€ã‚¤ãƒ¤ãƒ«ã®ç³»åˆ—ã§ã¯ ''{0}'' ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-exception.pie.dimension=ƒpƒC‚ÌŒn—ñ‚Å‚Í ''{0}'' ‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+exception.pie.dimension=ãƒ‘ã‚¤ã®ç³»åˆ—ã§ã¯ ''{0}'' ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-exception.scatter.dimension=•ª•z‚ÌŒn—ñ‚Å‚Í ''{0}'' ‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+exception.scatter.dimension=åˆ†å¸ƒã®ç³»åˆ—ã§ã¯ ''{0}'' ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-exception.stock.dimension={0} ƒfƒBƒƒ“ƒWƒ‡ƒ“‚Å‚ÍAŠ”‰¿‚ÌŒn—ñ‚ğƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚Ü‚¹‚ñB
+exception.stock.dimension={0} ãƒ‡ã‚£ãƒ¡ãƒ³ã‚¸ãƒ§ãƒ³ã§ã¯ã€æ ªä¾¡ã®ç³»åˆ—ã‚’ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚
 
-exception.multi.orthogonal.3D.not.supported=3D ƒOƒ‰ƒt‚Å‚Í•¡”‚Ì’l²‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+exception.multi.orthogonal.3D.not.supported=3D ã‚°ãƒ©ãƒ•ã§ã¯è¤‡æ•°ã®å€¤è»¸ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-exception.scatter.3D.not.supported=3D ƒOƒ‰ƒt‚Å‚Í•ª•zƒJƒeƒSƒŠ²‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+exception.scatter.3D.not.supported=3D ã‚°ãƒ©ãƒ•ã§ã¯åˆ†å¸ƒã‚«ãƒ†ã‚´ãƒªè»¸ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-exception.no.transposed.3D.chart=3D ƒOƒ‰ƒt‚Å‚ÍŒğ·‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+exception.no.transposed.3D.chart=3D ã‚°ãƒ©ãƒ•ã§ã¯äº¤å·®ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-exception.no.transposed.stock.chart=Š”‰¿ƒOƒ‰ƒt‚Å‚ÍŒğ·‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+exception.no.transposed.stock.chart=æ ªä¾¡ã‚°ãƒ©ãƒ•ã§ã¯äº¤å·®ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-exception.no.transposed.gantt.chart=ƒKƒ“ƒgƒ`ƒƒ[ƒg‚Å‚ÍŒğ·‚µ‚©g—p‚Å‚«‚Ü‚¹‚ñB
+exception.no.transposed.gantt.chart=ã‚¬ãƒ³ãƒˆãƒãƒ£ãƒ¼ãƒˆã§ã¯äº¤å·®ã—ã‹ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-exception.3D.points.length.less.than.3=3D ‚ÌƒŒƒ“ƒ_ƒŠƒ“ƒOƒCƒxƒ“ƒg‚Å‚ÍAƒ|ƒCƒ“ƒgˆê——‚ğ 3 ˆÈã‚Ì’·‚³‚Éw’è‚µ‚Ä‚­‚¾‚³‚¢B
+exception.3D.points.length.less.than.3=3D ã®ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã‚¤ãƒ™ãƒ³ãƒˆã§ã¯ã€ãƒã‚¤ãƒ³ãƒˆä¸€è¦§ã‚’ 3 ä»¥ä¸Šã®é•·ã•ã«æŒ‡å®šã—ã¦ãã ã•ã„ã€‚
 
-exception.empty.icon.list=ƒ}[ƒJ‚ÌƒAƒCƒRƒ“ƒpƒŒƒbƒg‚É‚Í€–Ú‚ª‚ ‚è‚Ü‚¹‚ñB
+exception.empty.icon.list=ãƒãƒ¼ã‚«ã®ã‚¢ã‚¤ã‚³ãƒ³ãƒ‘ãƒ¬ãƒƒãƒˆã«ã¯é …ç›®ãŒã‚ã‚Šã¾ã›ã‚“ã€‚
 
-info.sample.formats=—á\n”’l : 1,2,3\n“ú•t : 05/01/26,05/01/27,05/01/28\n•¶š—ñ : 'a,b,c'\n•¡”‚Ì’l‚ÍAƒRƒ“ƒ}‚Å‹æØ‚è‚Ü‚·B
+info.sample.formats=ä¾‹\næ•°å€¤ : 1,2,3\næ—¥ä»˜ : 05/01/26,05/01/27,05/01/28\næ–‡å­—åˆ— : 'a,b,c'\nè¤‡æ•°ã®å€¤ã¯ã€ã‚³ãƒ³ãƒã§åŒºåˆ‡ã‚Šã¾ã™ã€‚
 
 info.render.series={0}: renderSeries() [{1}/{2}]
-info.stock.sample.format=—á : H2.30 L4.50 O1.53 C7.01, H5.4 L3.5 O2.9 C6.7
+info.stock.sample.format=ä¾‹ : H2.30 L4.50 O1.53 C7.01, H5.4 L3.5 O2.9 C6.7
 
-info.datapoint.BubbleValue=ƒoƒuƒ‹‚Ì’l
+info.datapoint.BubbleValue=ãƒãƒ–ãƒ«ã®å€¤
 
-info.datapoint.BubbleSize=ƒoƒuƒ‹‚ÌƒTƒCƒY
+info.datapoint.BubbleSize=ãƒãƒ–ãƒ«ã®ã‚µã‚¤ã‚º
 
-info.datapoint.PositiveValue=³‚Ì’l
+info.datapoint.PositiveValue=æ­£ã®å€¤
 
-info.datapoint.NegativeValue=•‰‚Ì’l
+info.datapoint.NegativeValue=è² ã®å€¤
 
-info.datapoint.GanttStartDate=ŠJn“ú
+info.datapoint.GanttStartDate=é–‹å§‹æ—¥
 
-info.datapoint.GanttEndDate=Š®—¹“ú
+info.datapoint.GanttEndDate=å®Œäº†æ—¥
 
-info.datapoint.GanttDecorationLabel=ƒ^ƒXƒNƒ‰ƒxƒ‹
+info.datapoint.GanttDecorationLabel=ã‚¿ã‚¹ã‚¯ãƒ©ãƒ™ãƒ«
 
-info.datapoint.High=Å‚’l
+info.datapoint.High=æœ€é«˜å€¤
 
-info.datapoint.Low=ÅˆÀ’l
+info.datapoint.Low=æœ€å®‰å€¤
 
-info.datapoint.Open=n’l
+info.datapoint.Open=å§‹å€¤
 
-info.datapoint.Close=I’l
+info.datapoint.Close=çµ‚å€¤
 
-exception.missing.series.for.palette.index=Œn—ñ‚Ì’è‹` {1} ‚ÉAƒpƒŒƒbƒg‚ÌƒCƒ“ƒfƒbƒNƒX‚ğŒvZ‚·‚é‚½‚ß‚É•K—v‚ÈŒn—ñ {0} ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+exception.missing.series.for.palette.index=ç³»åˆ—ã®å®šç¾© {1} ã«ã€ãƒ‘ãƒ¬ãƒƒãƒˆã®ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ã‚’è¨ˆç®—ã™ã‚‹ãŸã‚ã«å¿…è¦ãªç³»åˆ— {0} ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-exception.pie.negative.dataset.values=ƒpƒC‚ÌŒn—ñ‚Ìƒf[ƒ^ƒZƒbƒg‚É‚ÍA•‰‚Ì’l‚ğŠÜ‚ß‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+exception.pie.negative.dataset.values=ãƒ‘ã‚¤ã®ç³»åˆ—ã®ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã«ã¯ã€è² ã®å€¤ã‚’å«ã‚ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-exception.stock.lineattr.visibility=Š”‰¿—v‘f‚Ìü‚ÍA‘®«‚Å‰Â‹‚Éİ’è‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B
+exception.stock.lineattr.visibility=æ ªä¾¡è¦ç´ ã®ç·šã¯ã€å±æ€§ã§å¯è¦–ã«è¨­å®šã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
-exception.legend.graphic.unknown.riser=ƒ‰ƒCƒU‚ÌŒ^ {0} ‚ª•s–¾‚È‚½‚ßA–}—á‚ÌƒOƒ‰ƒtƒBƒbƒN‚ğƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚Ü‚¹‚ñB
+exception.legend.graphic.unknown.riser=ãƒ©ã‚¤ã‚¶ã®å‹ {0} ãŒä¸æ˜ãªãŸã‚ã€å‡¡ä¾‹ã®ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ã‚’ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚
 
-exception.unspecified.visible.series.title=‰Â‹Œn—ñ‚Ìƒ^ƒCƒgƒ‹‚ÌˆÊ’u‚ªw’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.unspecified.visible.series.title=å¯è¦–ç³»åˆ—ã®ã‚¿ã‚¤ãƒˆãƒ«ã®ä½ç½®ãŒæŒ‡å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.unspecified.riser.type=ƒ‰ƒCƒU‚ÌŒ^ {0} ‚ª•s–¾‚Å‚·B
+exception.unspecified.riser.type=ãƒ©ã‚¤ã‚¶ã®å‹ {0} ãŒä¸æ˜ã§ã™ã€‚
 
-exception.invalid.data.point.position.scatter=•ª•z‚ÌŒn—ñ‚Å‚ÍAƒ‰ƒxƒ‹ˆÊ’u‚ª {0} ‚Éw’è‚³‚ê‚Ä‚¢‚éƒf[ƒ^ƒ|ƒCƒ“ƒg‚ğƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚Ü‚¹‚ñBƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚éˆÊ’u‚Ì’l‚ÍAABOVEABELOWALEFTARIGHT ‚Ì‚¢‚¸‚ê‚©‚Å‚·B
+exception.invalid.data.point.position.scatter=åˆ†å¸ƒã®ç³»åˆ—ã§ã¯ã€ãƒ©ãƒ™ãƒ«ä½ç½®ãŒ {0} ã«æŒ‡å®šã•ã‚Œã¦ã„ã‚‹ãƒ‡ãƒ¼ã‚¿ãƒã‚¤ãƒ³ãƒˆã‚’ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã‚‹ä½ç½®ã®å€¤ã¯ã€ABOVEã€BELOWã€LEFTã€RIGHT ã®ã„ãšã‚Œã‹ã§ã™ã€‚
 
-exception.invalid.data.point.position.bubble=ƒoƒuƒ‹ƒ`ƒƒ[ƒg‚ÌŒn—ñ‚Å‚ÍAƒ‰ƒxƒ‹ˆÊ’u‚ª {0} ‚Éw’è‚³‚ê‚Ä‚¢‚éƒf[ƒ^ƒ|ƒCƒ“ƒg‚ğƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚Ü‚¹‚ñBƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚éˆÊ’u‚Ì’l‚ÍAABOVEABELOWALEFTARIGHT ‚Ì‚¢‚¸‚ê‚©‚Å‚·B
+exception.invalid.data.point.position.bubble=ãƒãƒ–ãƒ«ãƒãƒ£ãƒ¼ãƒˆã®ç³»åˆ—ã§ã¯ã€ãƒ©ãƒ™ãƒ«ä½ç½®ãŒ {0} ã«æŒ‡å®šã•ã‚Œã¦ã„ã‚‹ãƒ‡ãƒ¼ã‚¿ãƒã‚¤ãƒ³ãƒˆã‚’ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã‚‹ä½ç½®ã®å€¤ã¯ã€ABOVEã€BELOWã€LEFTã€RIGHT ã®ã„ãšã‚Œã‹ã§ã™ã€‚
 
-exception.invalid.data.point.outbound.bubble=ƒvƒƒbƒg—Ìˆæ“à‚Éƒoƒuƒ‹‚ª‚ ‚è‚Ü‚¹‚ñB²–Ú·‚ğŠm”F‚µ‚Ä‚­‚¾‚³‚¢B
+exception.invalid.data.point.outbound.bubble=ãƒ—ãƒ­ãƒƒãƒˆé ˜åŸŸå†…ã«ãƒãƒ–ãƒ«ãŒã‚ã‚Šã¾ã›ã‚“ã€‚è»¸ç›®ç››ã‚’ç¢ºèªã—ã¦ãã ã•ã„ã€‚
 
-exception.illegal.pie.series.title.position=Œn—ñ‚Ìƒ^ƒCƒgƒ‹ˆÊ’u‚Éw’è‚µ‚½’l {0} ‚ª³‚µ‚­‚ ‚è‚Ü‚¹‚ñB
+exception.illegal.pie.series.title.position=ç³»åˆ—ã®ã‚¿ã‚¤ãƒˆãƒ«ä½ç½®ã«æŒ‡å®šã—ãŸå€¤ {0} ãŒæ­£ã—ãã‚ã‚Šã¾ã›ã‚“ã€‚
 
-exception.illegal.datapoint.position.bar=‰¡–_‚ÌŒn—ñ‚Å‚ÍAƒ‰ƒxƒ‹ˆÊ’u‚ª {0} ‚Éw’è‚³‚ê‚Ä‚¢‚éƒf[ƒ^ƒ|ƒCƒ“ƒg‚ğƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚Ü‚¹‚ñBƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚éˆÊ’u‚Ì’l‚ÍAAOUTSIDE ‚Æ INSIDE ‚Ì‚¢‚¸‚ê‚©‚Å‚·B
+exception.illegal.datapoint.position.bar=æ¨ªæ£’ã®ç³»åˆ—ã§ã¯ã€ãƒ©ãƒ™ãƒ«ä½ç½®ãŒ {0} ã«æŒ‡å®šã•ã‚Œã¦ã„ã‚‹ãƒ‡ãƒ¼ã‚¿ãƒã‚¤ãƒ³ãƒˆã‚’ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã‚‹ä½ç½®ã®å€¤ã¯ã€AOUTSIDE ã¨ INSIDE ã®ã„ãšã‚Œã‹ã§ã™ã€‚
 
-exception.illegal.datapoint.position.line=Ü‚êü‚ÌŒn—ñ‚Å‚ÍAƒ‰ƒxƒ‹ˆÊ’u‚ª {0} ‚Éw’è‚³‚ê‚Ä‚¢‚éƒf[ƒ^ƒ|ƒCƒ“ƒg‚ğƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚Ü‚¹‚ñBƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚éˆÊ’u‚Ì’l‚ÍAABOVEABELOWALEFTARIGHT ‚Ì‚¢‚¸‚ê‚©‚Å‚·B
+exception.illegal.datapoint.position.line=æŠ˜ã‚Œç·šã®ç³»åˆ—ã§ã¯ã€ãƒ©ãƒ™ãƒ«ä½ç½®ãŒ {0} ã«æŒ‡å®šã•ã‚Œã¦ã„ã‚‹ãƒ‡ãƒ¼ã‚¿ãƒã‚¤ãƒ³ãƒˆã‚’ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã‚‹ä½ç½®ã®å€¤ã¯ã€ABOVEã€BELOWã€LEFTã€RIGHT ã®ã„ãšã‚Œã‹ã§ã™ã€‚
 
-exception.illegal.datapoint.position.stock=Š”‰¿‚ÌŒn—ñ‚Å‚ÍAƒ‰ƒxƒ‹ˆÊ’u‚ª {0} ‚Éw’è‚³‚ê‚Ä‚¢‚éƒf[ƒ^ƒ|ƒCƒ“ƒg‚ğƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚Ü‚¹‚ñBƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚éˆÊ’u‚Ì’l‚ÍAABOVEABELOWALEFTARIGHT ‚Ì‚¢‚¸‚ê‚©‚Å‚·B
+exception.illegal.datapoint.position.stock=æ ªä¾¡ã®ç³»åˆ—ã§ã¯ã€ãƒ©ãƒ™ãƒ«ä½ç½®ãŒ {0} ã«æŒ‡å®šã•ã‚Œã¦ã„ã‚‹ãƒ‡ãƒ¼ã‚¿ãƒã‚¤ãƒ³ãƒˆã‚’ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã‚‹ä½ç½®ã®å€¤ã¯ã€ABOVEã€BELOWã€LEFTã€RIGHT ã®ã„ãšã‚Œã‹ã§ã™ã€‚
 
-exception.unspecified.datapoint.visibility.pie={0} Œn—ñ‚Ìƒf[ƒ^ƒ|ƒCƒ“ƒg‚Ì‰Â‹«‚ªİ’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.unspecified.datapoint.visibility.pie={0} ç³»åˆ—ã®ãƒ‡ãƒ¼ã‚¿ãƒã‚¤ãƒ³ãƒˆã®å¯è¦–æ€§ãŒè¨­å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.invalid.datapoint.position.pie=ƒf[ƒ^ƒ|ƒCƒ“ƒg‚Ìƒ‰ƒxƒ‹ˆÊ’u {0} ‚ª–³Œø‚Å‚·B
+exception.invalid.datapoint.position.pie=ãƒ‡ãƒ¼ã‚¿ãƒã‚¤ãƒ³ãƒˆã®ãƒ©ãƒ™ãƒ«ä½ç½® {0} ãŒç„¡åŠ¹ã§ã™ã€‚
 
-exception.invalid.datapoint.dial=ƒ[ƒ^[‚ÌŒn—ñ‚É‚ÍAnull ’l‚ğƒvƒƒbƒg‚µ‚½‚è”’lˆÈŠO‚Ìƒf[ƒ^ƒ|ƒCƒ“ƒg‚ğƒvƒƒbƒg‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+exception.invalid.datapoint.dial=ãƒ¡ãƒ¼ã‚¿ãƒ¼ã®ç³»åˆ—ã«ã¯ã€null å€¤ã‚’ãƒ—ãƒ­ãƒƒãƒˆã—ãŸã‚Šæ•°å€¤ä»¥å¤–ã®ãƒ‡ãƒ¼ã‚¿ãƒã‚¤ãƒ³ãƒˆã‚’ãƒ—ãƒ­ãƒƒãƒˆã™ã‚‹ã“ã¨ã¯ã§ãã¾ã›ã‚“ã€‚
 
-exception.unspecified.pie.series.title.visibility={0} ‚Ìƒ‚ƒfƒ‹‚ÅAŒn—ñ‚Ìƒ^ƒCƒgƒ‹‚Ì‰Â‹«‚ªİ’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.unspecified.pie.series.title.visibility={0} ã®ãƒ¢ãƒ‡ãƒ«ã§ã€ç³»åˆ—ã®ã‚¿ã‚¤ãƒˆãƒ«ã®å¯è¦–æ€§ãŒè¨­å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.unspecified.marker.linestyle.visibility=ƒ}[ƒJ‚Ìüí‚Ì‰Â‹«‚ªİ’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.unspecified.marker.linestyle.visibility=ãƒãƒ¼ã‚«ã®ç·šç¨®ã®å¯è¦–æ€§ãŒè¨­å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.unsupported.aggregate.function.input=WŒvŠÖ” {0} ‚ÅWŒv‚µ‚æ‚¤‚Æ‚µ‚½ƒf[ƒ^Œ^‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+exception.unsupported.aggregate.function.input=é›†è¨ˆé–¢æ•° {0} ã§é›†è¨ˆã—ã‚ˆã†ã¨ã—ãŸãƒ‡ãƒ¼ã‚¿å‹ã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-exception.illegal.datapoint.position.bar3d=3D –_ƒOƒ‰ƒt“à‚Å‚ÍAŒn—ñƒ‰ƒxƒ‹‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+exception.illegal.datapoint.position.bar3d=3D æ£’ã‚°ãƒ©ãƒ•å†…ã§ã¯ã€ç³»åˆ—ãƒ©ãƒ™ãƒ«ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-Irr.AggregateFunction.Parameters.Label.Intrate=“à•”—˜‰v—¦
+Irr.AggregateFunction.Parameters.Label.Intrate=å†…éƒ¨åˆ©ç›Šç‡
 
-Mirr.AggregateFunction.Parameters.Label.FinanceRate=“Š‘Œ´‰¿
+Mirr.AggregateFunction.Parameters.Label.FinanceRate=æŠ•è³‡åŸä¾¡
 
-Mirr.AggregateFunction.Parameters.Label.ReinvestmentRate=Ä“Š‘óæ—˜—¦
+Mirr.AggregateFunction.Parameters.Label.ReinvestmentRate=å†æŠ•è³‡å—å–åˆ©ç‡
 
-Npv.AggregateFunction.Parameters.Label.Rate=Š„ˆø—¦
+Npv.AggregateFunction.Parameters.Label.Rate=å‰²å¼•ç‡
 
-Percentile.AggregateFunction.Parameters.Label.Percentage=Š„‡ (%)
+Percentile.AggregateFunction.Parameters.Label.Percentage=å‰²åˆ (%)
 
-Quartile.AggregateFunction.Parameters.Label.Quart=l•ªˆÊ
+Quartile.AggregateFunction.Parameters.Label.Quart=å››åˆ†ä½
 
-WeightedAverage.AggregateFunction.Parameters.Label.Weight=d‚³
+WeightedAverage.AggregateFunction.Parameters.Label.Weight=é‡ã•
 
-MovingAverage.AggregateFunction.Parameters.Label.Window=ƒEƒBƒ“ƒhƒE
+MovingAverage.AggregateFunction.Parameters.Label.Window=ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦
 
-RunningNpv.AggregateFunction.Parameters.Label.Rate=Š„ˆø—¦
+RunningNpv.AggregateFunction.Parameters.Label.Rate=å‰²å¼•ç‡
 
-Rank.AggregateFunction.Parameters.Label.Ascending=¸‡
+Rank.AggregateFunction.Parameters.Label.Ascending=æ˜‡é †
 
-Top.AggregateFunction.Parameters.Label.N=ãˆÊ n
+Top.AggregateFunction.Parameters.Label.N=ä¸Šä½ n
 
-TopPercent.AggregateFunction.Parameters.Label.Percentage=Š„‡ (%)
+TopPercent.AggregateFunction.Parameters.Label.Percentage=å‰²åˆ (%)
 
-Bottom.AggregateFunction.Parameters.Label.N=‰ºˆÊ n
+Bottom.AggregateFunction.Parameters.Label.N=ä¸‹ä½ n
 
-BottomPercent.AggregateFunction.Parameters.Label.Percentage=Š„‡ (%)
+BottomPercent.AggregateFunction.Parameters.Label.Percentage=å‰²åˆ (%)
 
-DataSetProcessorImpl_exception.dataset.receivednumeric=óMƒf[ƒ^‚Ìƒf[ƒ^Œ^‚É‚Í”’l‚ğw’è‚µ‚Ä‚­‚¾‚³‚¢B
+DataSetProcessorImpl_exception.dataset.receivednumeric=å—ä¿¡ãƒ‡ãƒ¼ã‚¿ã®ãƒ‡ãƒ¼ã‚¿å‹ã«ã¯æ•°å€¤ã‚’æŒ‡å®šã—ã¦ãã ã•ã„ã€‚

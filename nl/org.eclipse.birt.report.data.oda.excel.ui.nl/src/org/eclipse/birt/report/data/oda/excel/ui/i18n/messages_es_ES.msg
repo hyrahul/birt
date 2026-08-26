@@ -24,9 +24,9 @@ label.selectFile=Seleccionar &archivo:
 
 label.selectworksheet=Seleccione la &hoja de trabajo:
 
-label.includeTypeLine=Utilice la segunda línea como indicador de tipo de &datos.
+label.includeTypeLine=Utilice la segunda lÃ­nea como indicador de tipo de &datos.
 
-label.includeColumnNameLine= Utilizar la &primera línea como indicador del nombre de columna.
+label.includeColumnNameLine= Utilizar la &primera lÃ­nea como indicador del nombre de columna.
 
 button.selectFolder.browse=Examina&r...
 
@@ -62,11 +62,11 @@ datatypes.time=Hora
 
 datatypes.boolean=Booleano
 
-tooltip.columnnameline=Asegúrese de que los nombres de columna aparecen\n en la primera fila del archivo seleccionado.
+tooltip.columnnameline=AsegÃºrese de que los nombres de columna aparecen\n en la primera fila del archivo seleccionado.
 
-tooltip.typeline=Asegúrese de que el indicador de tipo de datos aparece\n en la segunda fila del archivo seleccionado.
+tooltip.typeline=AsegÃºrese de que el indicador de tipo de datos aparece\n en la segunda fila del archivo seleccionado.
 
-tooltip.button.add=Añada todas las columnas seleccionadas de la tabla izquierda al conjunto de datos de archivo de Excel.
+tooltip.button.add=AÃ±ada todas las columnas seleccionadas de la tabla izquierda al conjunto de datos de archivo de Excel.
 
 tooltip.button.up=Mover hacia arriba el elemento seleccionado.
 
@@ -74,9 +74,9 @@ tooltip.button.down=Mover hacia abajo el elemento seleccionado.
 
 tooltip.button.delete=Eliminar el elemento seleccionado.
 
-tooltip.trailNull=Coloque al final las columnas nulas al leer líneas de datos.
+tooltip.trailNull=Coloque al final las columnas nulas al leer lÃ­neas de datos.
 
-error.selectFolder=Seleccione una carpeta válida.
+error.selectFolder=Seleccione una carpeta vÃ¡lida.
 
 error.selectWorksheet=Seleccione una hoja de trabajo para el conjunto de datos.
 
@@ -86,31 +86,31 @@ error.emptyPath=Introduzca una ruta.
 
 error.unexpectedError=Se ha producido un error inesperado.
 
-error.invalidConnectionFilePath=No existe la ruta especificada "{0}" para la fuente del perfil de conexión.
+error.invalidConnectionFilePath=No existe la ruta especificada "{0}" para la fuente del perfil de conexiÃ³n.
 
-error.errorExist=Hay un error en la página actual.  ¿Desea guardarla de todas formas?
+error.errorExist=Hay un error en la pÃ¡gina actual.  Â¿Desea guardarla de todas formas?
 
 error.noFile=El archivo de fuente de datos de Excel ({0}) no existe.
 
-error.invalidFilePath=La ruta del archivo no es válida.  ¿Desea continuar?
+error.invalidFilePath=La ruta del archivo no es vÃ¡lida.  Â¿Desea continuar?
 
-error.emptyFilePath=La ruta del archivo está vacía.  ¿Desea continuar?
+error.emptyFilePath=La ruta del archivo estÃ¡ vacÃ­a.  Â¿Desea continuar?
 
-error.duplicatedNameValueOrEmpty=Valor de nombre duplicado o vacío
+error.duplicatedNameValueOrEmpty=Valor de nombre duplicado o vacÃ­o
 
-error.emptyFolder=No se ha encontrado ningún archivo de fuente de datos de Excel en la carpeta seleccionada.
+error.emptyFolder=No se ha encontrado ningÃºn archivo de fuente de datos de Excel en la carpeta seleccionada.
 
 title.warning=Advertencia
 
-warning.fileExtensionInvalid=Es posible que el archivo seleccionado no sea un archivo de Excel válido.
+warning.fileExtensionInvalid=Es posible que el archivo seleccionado no sea un archivo de Excel vÃ¡lido.
 
 confirm.reselectWorksheetTitle=Confirme para seleccionar una hoja diferente.
 
-confirm.reselectWorksheetMessage=Si selecciona una hoja diferente no se guardarán las operaciones anteriores.\n\n¿Seguro que desea seleccionar una hoja diferente?
+confirm.reselectWorksheetMessage=Si selecciona una hoja diferente no se guardarÃ¡n las operaciones anteriores.\n\nÂ¿Seguro que desea seleccionar una hoja diferente?
 
 confirm.reselectFileTitle=Confirme para seleccionar un archivo diferente.
 
-confirm.reselectFileMessage=Si selecciona un archivo diferente no se guardarán las operaciones anteriores.\n\n¿Seguro que desea seleccionar un archivo diferente?
+confirm.reselectFileMessage=Si selecciona un archivo diferente no se guardarÃ¡n las operaciones anteriores.\n\nÂ¿Seguro que desea seleccionar un archivo diferente?
 
 RelativeFolderSelectionDialog.Title.SelectFolder=Seleccionar una carpeta
 
@@ -120,7 +120,7 @@ RelativeFileSelectionDialog.title.error=Error
 
 RelativeFileSelectionDialog.title.overwrite=Sobrescribir
 
-RelativeFileSelectionDialog.overwrite.msg=Ya existe un archivo con este nombre, ¿desea sobrescribirlo?
+RelativeFileSelectionDialog.overwrite.msg=Ya existe un archivo con este nombre, Â¿desea sobrescribirlo?
 
 RelativeFileSelectionDialog.import.msg=Importando archivo...
 

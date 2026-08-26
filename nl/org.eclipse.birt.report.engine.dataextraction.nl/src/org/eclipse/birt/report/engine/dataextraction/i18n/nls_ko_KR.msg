@@ -1,7 +1,7 @@
-exception.dataextraction.options.outputstream_required=OutputStream ¿É¼ÇÀº ÇÊ¼ö Ç×¸ñÀÌ¸ç ³Î(null)ÀÏ ¼ö ¾ø½À´Ï´Ù.
+exception.dataextraction.options.outputstream_required=OutputStream ì˜µì…˜ì€ í•„ìˆ˜ í•­ëª©ì´ë©° ë„(null)ì¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-exception.dataextraction.missing_implementation=output() ¸Ş¼­µå´Â ÇÏÀ§ Å¬·¡½º¿¡ ÀÇÇØ ±¸ÇöµÇ¾î¾ß ÇÕ´Ï´Ù.
+exception.dataextraction.missing_implementation=output() ë©”ì„œë“œëŠ” í•˜ìœ„ í´ë˜ìŠ¤ì— ì˜í•´ êµ¬í˜„ë˜ì–´ì•¼ í•©ë‹ˆë‹¤.
 
-exception.dataextraction.exception_occured=µ¥ÀÌÅÍ¸¦ ÃßÃâÇÏ´Â µ¿¾È ¿¹¿Ü°¡ ¹ß»ıÇß½À´Ï´Ù.
+exception.dataextraction.exception_occured=ë°ì´í„°ë¥¼ ì¶”ì¶œí•˜ëŠ” ë™ì•ˆ ì˜ˆì™¸ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-exception.dataextraction.no_extraction_result_error=½ÇÇà ÀÛ¾÷¿¡¼­ °á°ú¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù.
+exception.dataextraction.no_extraction_result_error=ì‹¤í–‰ ì‘ì—…ì—ì„œ ê²°ê³¼ë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.

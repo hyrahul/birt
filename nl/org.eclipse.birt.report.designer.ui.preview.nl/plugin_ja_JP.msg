@@ -1,25 +1,25 @@
 ###############################################################################
 # Preview Framework
 ###############################################################################
-designer.preview.previewtoolbarmenuaction.label=ƒŒƒ|[ƒg‚Ì•\¦
+designer.preview.previewtoolbarmenuaction.label=ãƒ¬ãƒãƒ¼ãƒˆã®è¡¨ç¤º
 
-designer.preview.previewcascadingmenugroup.label=ƒŒƒ|[ƒg‚Ì•\¦(&R)
+designer.preview.previewcascadingmenugroup.label=ãƒ¬ãƒãƒ¼ãƒˆã®è¡¨ç¤º(&R)
 
-ActionSet.Preview=ƒvƒŒƒrƒ…[
+ActionSet.Preview=ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼
 
-template.preview=ƒvƒŒƒrƒ…[‚Ìƒvƒƒgƒ^ƒCƒv‚ÌV‹Kì¬(&T)
+template.preview=ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼ã®ãƒ—ãƒ­ãƒˆã‚¿ã‚¤ãƒ—ã®æ–°è¦ä½œæˆ(&T)
 
-design.preview=ƒvƒŒƒrƒ…[‚Ìƒvƒƒgƒ^ƒCƒv‚ÌV‹Kì¬(&T)
+design.preview=ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼ã®ãƒ—ãƒ­ãƒˆã‚¿ã‚¤ãƒ—ã®æ–°è¦ä½œæˆ(&T)
 
-preference.preview=ƒvƒŒƒrƒ…[
+preference.preview=ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼
 
-preference.preview.server=ƒvƒŒƒrƒ…[—p‚ÌƒT[ƒo
+preference.preview.server=ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼ç”¨ã®ã‚µãƒ¼ãƒ
 
 ###############################################################################
 # Actions
 ###############################################################################
-Menu.Report=ƒŒƒ|[ƒg(&T)
+Menu.Report=ãƒ¬ãƒãƒ¼ãƒˆ(&T)
 
-Action.RunReport=ƒŒƒ|[ƒg‚ÌÀsi&R)
+Action.RunReport=ãƒ¬ãƒãƒ¼ãƒˆã®å®Ÿè¡Œï¼ˆ&R)
 
-Action.ViewDocument=•¶‘‚Ì•\¦(&V)
+Action.ViewDocument=æ–‡æ›¸ã®è¡¨ç¤º(&V)

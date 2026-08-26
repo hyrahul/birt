@@ -1,8 +1,8 @@
 ChartAggregationCellViewProvider.Chart.DisplayName=Diagramm
 
-ChartDataSetBindingSheetImpl.Lbl.SelectDataBinding=Datenbindung auswählen:
+ChartDataSetBindingSheetImpl.Lbl.SelectDataBinding=Datenbindung auswÃ¤hlen:
 
-ChartDataSetBindingSheetImpl.Title.SheetTitle=Daten - Datensatz auswählen
+ChartDataSetBindingSheetImpl.Title.SheetTitle=Daten - Datensatz auswÃ¤hlen
 
 ChartPageGenerator.List.General=Allgemein
 
@@ -22,19 +22,19 @@ ChartDataBindingPage.Lbl.DataSet=Datensatz
 
 ChartDataBindingPage.Lbl.SaveParameterBinding=Parameterbindung speichern
 
-ChartDataBindingPage.Lbl.SaveDataSet=Datensatz ändern
+ChartDataBindingPage.Lbl.SaveDataSet=Datensatz Ã¤ndern
 
-ChartDataBindingPage.Msg.AskSaveDataSet=Möchten Sie den gebundenen Datensatz ändern?
+ChartDataBindingPage.Msg.AskSaveDataSet=MÃ¶chten Sie den gebundenen Datensatz Ã¤ndern?
 
 DesignerRepresentation.error.Error=Fehler:
 
-DesignerRepresentation.log.UnableToFind=Diagrammmodel konnte während des Renderns im Designer nicht gefunden werden.
+DesignerRepresentation.log.UnableToFind=Diagrammmodel konnte wÃ¤hrend des Renderns im Designer nicht gefunden werden.
 
-DesignerRepresentation.msg.InvalidChart=Das aktuelle Diagramm ist ungültig. Wenn Sie an diesem Diagramm weiterarbeiten möchten, müssen Sie es zuerst löschen.
+DesignerRepresentation.msg.InvalidChart=Das aktuelle Diagramm ist ungÃ¼ltig. Wenn Sie an diesem Diagramm weiterarbeiten mÃ¶chten, mÃ¼ssen Sie es zuerst lÃ¶schen.
 
 ChartReportItemBuilderImpl.problem.hasNotBeenFound=Das Diagramm wurde noch nicht mit einem Datensatz oder Datenquader verbunden.
 
-ChartReportItemBuilderImpl.log.UnableToLocate=Berichtobjekt-Wrapper für Diagrammobjekt kann nicht gefunden werden.
+ChartReportItemBuilderImpl.log.UnableToLocate=Berichtobjekt-Wrapper fÃ¼r Diagrammobjekt kann nicht gefunden werden.
 
 ChartPreferencePage.Label.MaxRowNumber=&Maximale Zeilenzahl der Datenvorschau:
 
@@ -42,7 +42,7 @@ ChartPreferencePage.Error.MaxRowInvalid=Die maximale Zeilenzahl muss eine ganze 
 
 ChartPreferencePage.Label.EnableLivePreview=&Live-Vorschau im Chart Builder aktivieren
 
-ChartReportItemUIImpl.Command.ResizeChart=Diagrammgröße anpassen
+ChartReportItemUIImpl.Command.ResizeChart=DiagrammgrÃ¶ÃŸe anpassen
 
 ChartReportItemUIImpl.log.ReceivedNotification=Auftrag zur Entfernung einer erweiterten Diagrammabbildung erhalten.
 
@@ -67,9 +67,9 @@ ChartExpressionProvider.DataPoints.SeriesValue=Datenreihendaten
 
 ChartColumnBindingDialog.Button.Refresh=A&ktualisieren
 
-OpenChartTaskAction.Text.SelectChartType=Diagrammtyp auswäh&len...
+OpenChartTaskAction.Text.SelectChartType=Diagrammtyp auswÃ¤h&len...
 
-OpenChartTaskAction.Text.SelectData=Daten aus&wählen...
+OpenChartTaskAction.Text.SelectData=Daten aus&wÃ¤hlen...
 
 OpenChartTaskAction.Text.FormatChart=D&iagramm formatieren...
 
@@ -93,23 +93,23 @@ ReportDataServiceProvider.Tooltip.OnGroup=Bei Gruppe:
 
 ShowAxisAction.Text.ShowValueAxis=Werteachse anzeigen
 
-StandardChartDataSheet.CheckCubeWarning=Spaltenbindungen müssen mindestens eine Dimension und eine Maßeinheit enthalten.
+StandardChartDataSheet.CheckCubeWarning=Spaltenbindungen mÃ¼ssen mindestens eine Dimension und eine MaÃŸeinheit enthalten.
 
 StandardChartDataSheet.Combo.DataCubes=---------Datenquader---------
 
-StandardChartDataSheet.Combo.DataSets=----------Datensätze----------
+StandardChartDataSheet.Combo.DataSets=----------DatensÃ¤tze----------
 
-StandardChartDataSheet.Combo.InheritColumnsGroups=Spalten und Gruppen übernehmen
+StandardChartDataSheet.Combo.InheritColumnsGroups=Spalten und Gruppen Ã¼bernehmen
 
-StandardChartDataSheet.Combo.InheritColumnsOnly=Nur Spalten übernehmen
+StandardChartDataSheet.Combo.InheritColumnsOnly=Nur Spalten Ã¼bernehmen
 
 StandardChartDataSheet.Combo.ReportItems=--------Berichtobjekte--------
 
 StandardChartDataSheet.Label.Axis=Achse
 
-StandardChartDataSheet.Label.ToBindADataColumn=Verwenden Sie das Kontextmenü, um die Daten mit dem Diagramm zu verbinden.
+StandardChartDataSheet.Label.ToBindADataColumn=Verwenden Sie das KontextmenÃ¼, um die Daten mit dem Diagramm zu verbinden.
 
-StandardChartDataSheet.Label.SelectDataSet=Daten auswählen
+StandardChartDataSheet.Label.SelectDataSet=Daten auswÃ¤hlen
 
 StandardChartDataSheet.Label.UseReportData=&Daten aus Container vererben
 
@@ -125,11 +125,11 @@ StandardChartDataSheet.Label.Filters=&Filter...
 
 StandardChartDataSheet.Label.Parameters=&Parameter...
 
-StandardChartDataSheet.Task.Description=Wählen Sie die Daten, die im Diagramm angezeigt werden sollen, und verbinden Sie sie mit der Datenreihe.
+StandardChartDataSheet.Task.Description=WÃ¤hlen Sie die Daten, die im Diagramm angezeigt werden sollen, und verbinden Sie sie mit der Datenreihe.
 
-StandardChartDataSheet.Exception.UnableToSwitchToDataset=Wechseln zu Datensatz nicht möglich
+StandardChartDataSheet.Exception.UnableToSwitchToDataset=Wechseln zu Datensatz nicht mÃ¶glich
 
-StandardChartDataSheet.Label.InsertAggregation=Aggregat einfügen
+StandardChartDataSheet.Label.InsertAggregation=Aggregat einfÃ¼gen
 
 StandardChartDataSheet.Label.DataExpressionBuilder=Datenausdruckerstellung
 
@@ -139,11 +139,11 @@ StandardChartDataSheet.Label.Component=\ Komponente
 
 StandardChartDataSheet.Label.CubeTree=Datenquader: Gruppen und Zusammenfassungen
 
-StandardChartDataSheet.Label.Overlay=Überlagerung
+StandardChartDataSheet.Label.Overlay=Ãœberlagerung
 
 StandardChartDataSheet.Label.Series=Datenreihe
 
-StandardChartDataSheet.Label.ShareCrossTab=Klicken Sie unter 'Wert-Datenreihe (Y-Achse)' auf die Pfeilschaltfläche, und wählen Sie eine Maßeinheit aus der Liste aus.
+StandardChartDataSheet.Label.ShareCrossTab=Klicken Sie unter 'Wert-Datenreihe (Y-Achse)' auf die PfeilschaltflÃ¤che, und wÃ¤hlen Sie eine MaÃŸeinheit aus der Liste aus.
 
 StandardChartDataSheet.Label.ShowDataPreview=Datenvor&schau anzeigen
 
@@ -163,13 +163,13 @@ StandardChartDataSheet.Label.EnableLivePreview=Live-Diagrammvorschau aktivieren
 
 StandardChartDataSheet.Label.UseToGroupValueSeries=Zum Gruppieren von Wert-Datenreihen v&erwenden
 
-StandardChartDataSheet.Message.RetrieveData=Daten für Vorschau abrufen
+StandardChartDataSheet.Message.RetrieveData=Daten fÃ¼r Vorschau abrufen
 
 StandardChartDataSheet.NewDataCube=<Neuer Datenquader...>
 
 StandardChartDataSheet.NewDataSet=<Neuer Datensatz...>
 
-ChartBindingGroupDescriptorProvider.DataSets.Default=---Datensätze---
+ChartBindingGroupDescriptorProvider.DataSets.Default=---DatensÃ¤tze---
 
 ChartBindingGroupDescriptorProvider.DataCubes.Default=---Datenquader---
 
@@ -177,7 +177,7 @@ BindingPage.Data.Label=Daten:
 
 BindingPage.ReportItem.NoName=Kein Name
 
-Error.ChartShouldIncludeAxes=Diagramm muss Achsen einschließen
+Error.ChartShouldIncludeAxes=Diagramm muss Achsen einschlieÃŸen
 
 ChartCubeFilterConditionBuilder.Expression.CategoryItem.Prefix=Kategorie:
 
@@ -185,6 +185,6 @@ ChartCubeFilterConditionBuilder.Expression.ValueItemPrefix=Wert:
 
 ChartCubeFilterConditionBuilder.Expression.YOptionItem.Prefix=Y-Option:
 
-ChartCubeFilterConditionBuilder.SelectValueDialog.messages.info.selectVauleUnavailable=Wertliste mit angegebenem Ausdruck nicht verfügbar.
+ChartCubeFilterConditionBuilder.SelectValueDialog.messages.info.selectVauleUnavailable=Wertliste mit angegebenem Ausdruck nicht verfÃ¼gbar.
 
-ChartCubeFilterConditionBuilder.SelectValueDialog.messages.info.illegalVauleExpr=Die den Ausdrücken zugeordneten Wertlisten können nur durch Ausdrücke im Format 'Daten["Name"]/[Name]' abgerufen werden.
+ChartCubeFilterConditionBuilder.SelectValueDialog.messages.info.illegalVauleExpr=Die den AusdrÃ¼cken zugeordneten Wertlisten kÃ¶nnen nur durch AusdrÃ¼cke im Format 'Daten["Name"]/[Name]' abgerufen werden.

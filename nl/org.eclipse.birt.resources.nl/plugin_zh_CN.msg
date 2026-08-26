@@ -1,16 +1,16 @@
 cheatsheet.category=Business Intelligence and Reporting Tools
-cheatsheet.simplelisting=¼òÒ×ÁĞ±í±¨±í
+cheatsheet.simplelisting=ç®€æ˜“åˆ—è¡¨æŠ¥è¡¨
 
-cheatsheet.groupedlisting=·Ö×éÁĞ±í±¨±í
+cheatsheet.groupedlisting=åˆ†ç»„åˆ—è¡¨æŠ¥è¡¨
 
-cheatsheet.dualcolumnlisting=Ë«ÁĞÁĞ±í±¨±í
+cheatsheet.dualcolumnlisting=åŒåˆ—åˆ—è¡¨æŠ¥è¡¨
 
-cheatsheet.chartlisting=Í¼±íºÍÁĞ±í±¨±í
+cheatsheet.chartlisting=å›¾è¡¨å’Œåˆ—è¡¨æŠ¥è¡¨
 
-cheatsheet.sidebysidechartlisting=²¢ÅÅÍ¼±íÁĞ±í±¨±í
+cheatsheet.sidebysidechartlisting=å¹¶æ’å›¾è¡¨åˆ—è¡¨æŠ¥è¡¨
 
-cheatsheet.dualcolumnchartlisting=Ë«ÁĞÍ¼±íÁĞ±í±¨±í
+cheatsheet.dualcolumnchartlisting=åŒåˆ—å›¾è¡¨åˆ—è¡¨æŠ¥è¡¨
 
-cheatsheet.firstreport=ÎÒµÄµÚÒ»·İ±¨±í
+cheatsheet.firstreport=æˆ‘çš„ç¬¬ä¸€ä»½æŠ¥è¡¨
 
-cheatsheet.crosstab=½»²æ±í±¨±í
+cheatsheet.crosstab=äº¤å‰è¡¨æŠ¥è¡¨

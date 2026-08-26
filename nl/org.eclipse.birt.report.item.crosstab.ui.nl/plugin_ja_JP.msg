@@ -8,18 +8,18 @@
 # Contributors:
 #  Actuate Corporation  - initial API and implementation
 ###############################################################################
-preference.crosstabPage=ƒNƒƒXƒ^ƒu
+preference.crosstabPage=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–
 
-crosstab.menu=ƒNƒƒXƒ^ƒu(&O)
+crosstab.menu=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–(&O)
 
-Crosstab.desc=ƒNƒƒXƒ^ƒu‚ğ‘}“ü‚·‚é‚ÆA—ñ‚Æs‚ÅWŒvƒf[ƒ^‚ª•\¦‚³‚ê‚Ü‚·B
+Crosstab.desc=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã‚’æŒ¿å…¥ã™ã‚‹ã¨ã€åˆ—ã¨è¡Œã§é›†è¨ˆãƒ‡ãƒ¼ã‚¿ãŒè¡¨ç¤ºã•ã‚Œã¾ã™ã€‚
 
-newcube.menu=ƒf[ƒ^ƒLƒ…[ƒu‚ÌV‹Kì¬(&C)
+newcube.menu=ãƒ‡ãƒ¼ã‚¿ã‚­ãƒ¥ãƒ¼ãƒ–ã®æ–°è¦ä½œæˆ(&C)
 
-paletteEntry.label.crosstab= ƒNƒƒXƒ^ƒu
+paletteEntry.label.crosstab= ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–
 
-command.name.createCrosstab= ƒNƒƒXƒ^ƒu‚Ìì¬
+command.name.createCrosstab= ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã®ä½œæˆ
 
-command.name.createCube= ƒLƒ…[ƒu‚Ìì¬
+command.name.createCube= ã‚­ãƒ¥ãƒ¼ãƒ–ã®ä½œæˆ
 
 command.mnemonic.c=C

@@ -14,19 +14,19 @@
 ###############################################################################
 BIRTProjectCreationWizard_title=Nuevo proyecto web BIRT
 
-BIRTProjectConfigurationPage_title=Configuración BIRT
+BIRTProjectConfigurationPage_title=ConfiguraciÃ³n BIRT
 
-BIRTProjectConfigurationPage_desc=Configurar ajustes de implantación de BIRT definidos en web.xml
+BIRTProjectConfigurationPage_desc=Configurar ajustes de implantaciÃ³n de BIRT definidos en web.xml
 
 ###############################################################################
 # BIRT Configuration Dialog
 ###############################################################################
-BIRTConfigurationDialog_title=Configurar ajustes de implantación de BIRT
+BIRTConfigurationDialog_title=Configurar ajustes de implantaciÃ³n de BIRT
 
 ###############################################################################
 # BIRT Configuration Components
 ###############################################################################
-BIRTConfiguration_group_paths=Ajustes de carpeta de implantación
+BIRTConfiguration_group_paths=Ajustes de carpeta de implantaciÃ³n
 
 BIRTConfiguration_group_others=Otros ajustes
 
@@ -60,17 +60,17 @@ BIRTConfiguration_document_dialog_title=Buscar la carpeta de documentos temporal
 
 BIRTConfiguration_document_dialog_message=Seleccione la carpeta de documentos temporales predeterminada:
 
-BIRTConfiguration_image_label=Carpeta de &imágenes temporales:
+BIRTConfiguration_image_label=Carpeta de &imÃ¡genes temporales:
 
-BIRTConfiguration_image_dialog_title=Buscar la carpeta de imágenes temporales
+BIRTConfiguration_image_dialog_title=Buscar la carpeta de imÃ¡genes temporales
 
-BIRTConfiguration_image_dialog_message=Seleccione la carpeta de imágenes temporales predeterminada:
+BIRTConfiguration_image_dialog_message=Seleccione la carpeta de imÃ¡genes temporales predeterminada:
 
-BIRTConfiguration_scriptlib_label=Carpeta de librería de scripts&:
+BIRTConfiguration_scriptlib_label=Carpeta de librerÃ­a de scripts&:
 
-BIRTConfiguration_scriptlib_dialog_title=Buscar carpeta de librería de scripts
+BIRTConfiguration_scriptlib_dialog_title=Buscar carpeta de librerÃ­a de scripts
 
-BIRTConfiguration_scriptlib_dialog_message=Seleccione la carpeta de librería de scripts predeterminada:
+BIRTConfiguration_scriptlib_dialog_message=Seleccione la carpeta de librerÃ­a de scripts predeterminada:
 
 BIRTConfiguration_log_label=Carpeta de &registro:
 
@@ -78,17 +78,17 @@ BIRTConfiguration_log_dialog_title=Buscar carpeta de registro
 
 BIRTConfiguration_log_dialog_message=Seleccione la carpeta de registro predeterminada:
 
-BIRTConfiguration_report_access_message=Acceder sól&o al informe y documento de la carpeta de trabajo
+BIRTConfiguration_report_access_message=Acceder sÃ³l&o al informe y documento de la carpeta de trabajo
 
 BIRTConfiguration_overwrite_message=Sobrescribir siempre el &archivo de documento generado
 
-BIRTConfiguration_maxrows_label=Número máximo de filas del conjunto de da&tos:
+BIRTConfiguration_maxrows_label=NÃºmero mÃ¡ximo de filas del conjunto de da&tos:
 
-BIRTConfiguration_maxrowlevels_label=Niveles de fila de recuperación del cubo &máximos:
+BIRTConfiguration_maxrowlevels_label=Niveles de fila de recuperaciÃ³n del cubo &mÃ¡ximos:
 
-BIRTConfiguration_maxcolumnlevels_label=Niveles de columna de recuperación del cubo &máximos:
+BIRTConfiguration_maxcolumnlevels_label=Niveles de columna de recuperaciÃ³n del cubo &mÃ¡ximos:
 
-BIRTConfiguration_cubememsize_label=Tamaño de memoria má&ximo para crear el cubo:
+BIRTConfiguration_cubememsize_label=TamaÃ±o de memoria mÃ¡&ximo para crear el cubo:
 
 BIRTConfiguration_loglevel_label=&Seleccionar nivel de registro:
 
@@ -98,7 +98,7 @@ BIRTConfiguration_loglevel_severe=GRAVE
 
 BIRTConfiguration_loglevel_warning=ADVERTENCIA
 
-BIRTConfiguration_loglevel_info=INFORMACIÓN
+BIRTConfiguration_loglevel_info=INFORMACIÃ“N
 
 BIRTConfiguration_loglevel_config=CONFIG.
 
@@ -106,28 +106,28 @@ BIRTConfiguration_loglevel_fine=BUENO
 
 BIRTConfiguration_loglevel_finer=MEJOR
 
-BIRTConfiguration_loglevel_finest=ÓPTIMO
+BIRTConfiguration_loglevel_finest=Ã“PTIMO
 
 BIRTConfiguration_loglevel_off=DESACTIVAR
 
 BIRTConfiguration_printserver_label=&Imprimir informe en el servidor:
 
-BIRTConfiguration_import_clear_message=Eliminar los ar&chivos de tiempo de ejecución BIRT antiguos.
+BIRTConfiguration_import_clear_message=Eliminar los ar&chivos de tiempo de ejecuciÃ³n BIRT antiguos.
 
 ###############################################################################
 # Overwrite Query Dialog
 ###############################################################################
-BIRTOverwriteQuery_title=Cuadro de diálogo de sobrescritura
+BIRTOverwriteQuery_title=Cuadro de diÃ¡logo de sobrescritura
 
-BIRTOverwriteQuery_message=¿Desea sobrescribir {0}?
+BIRTOverwriteQuery_message=Â¿Desea sobrescribir {0}?
 
-BIRTOverwriteQuery_webartifact_title=Cuadro de diálogo de sobrescritura de descriptor de implantación
+BIRTOverwriteQuery_webartifact_title=Cuadro de diÃ¡logo de sobrescritura de descriptor de implantaciÃ³n
 
-BIRTOverwriteQuery_webartifact_message={0} existe en web.xml. ¿Desea sobrescribirlo?
+BIRTOverwriteQuery_webartifact_message={0} existe en web.xml. Â¿Desea sobrescribirlo?
 
 ###############################################################################
 # Error Message
 ###############################################################################
-BIRTErrors_miss_source=Importación finalizada. No se puede obtener el archivo zip fuente correcto.
+BIRTErrors_miss_source=ImportaciÃ³n finalizada. No se puede obtener el archivo zip fuente correcto.
 
 BIRTErrors_wrong_webcontent=No se puede obtener la carpeta de contenido web correcta.

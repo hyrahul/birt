@@ -1,6 +1,6 @@
 ChartImpl.ChartTitle=Titre du graphique
 
-ChartImpl.AltText=Ce graphique ne contient aucune donnée.
+ChartImpl.AltText=Ce graphique ne contient aucune donnÃ©e.
 
 ChartWithAxesImpl.X_Axis.title=Titre de l'axe des x
 
@@ -8,304 +8,304 @@ ChartWithAxesImpl.Y_Axis.title=Titre de l'axe des y
 
 ChartWithAxesImpl.Z_Axis.title=Titre de l'axe des z
 
-ChartWithoutAxesImpl.Unsupported3Dimension=Le graphique à secteurs ne prend pas en charge la 3D.
+ChartWithoutAxesImpl.Unsupported3Dimension=Le graphique Ã  secteurs ne prend pas en charge la 3D.
 
 exception.convert.double=Impossible de convertir la valeur {0} en double valeur
 
-exception.data.outofsync=Les données entrées sont désynchronisées ; la série de catégories contient {0} valeurs ; la série de valeurs contient {1} valeurs.
+exception.data.outofsync=Les donnÃ©es entrÃ©es sont dÃ©synchronisÃ©es ; la sÃ©rie de catÃ©gories contient {0} valeurs ; la sÃ©rie de valeurs contient {1} valeurs.
 
 exception.out.of.bounds=Hors limites
 
-exception.step.zoom.out=Impossible d''invoquer la méthode zoomOut à l''étape={0}
+exception.step.zoom.out=Impossible d''invoquer la mÃ©thode zoomOut Ã  l''Ã©tape={0}
 
 exception.no3d.support=Les graphiques en 3D ne sont pas encore pris en charge
 
-exception.curve.label.position.not.supported=La position de l''étiquette [{0}] n''est pas prise en charge pour l''ajustement de la courbe.
+exception.curve.label.position.not.supported=La position de l''Ã©tiquette [{0}] n''est pas prise en charge pour l''ajustement de la courbe.
 
 exception.convert.calendar=Impossible de convertir la valeur {0} en valeur calendaire
 
 exception.anchor.transpose=Impossible de transposer l''ancre {0} pour l''orientation d''axe {1}
 
-exception.tick.computations=Erreur de calculs de repère
+exception.tick.computations=Erreur de calculs de repÃ¨re
 
-exception.curve.visibility.unset=La visibilité doit être réglée sur les attributs de lignes pour la courbe
+exception.curve.visibility.unset=La visibilitÃ© doit Ãªtre rÃ©glÃ©e sur les attributs de lignes pour la courbe
 
-exception.angle.range.transpose=Impossible de transposer [angle={0}] au-delà de la fourchette (90 >= 0 >= -90)
+exception.angle.range.transpose=Impossible de transposer [angle={0}] au-delÃ  de la fourchette (90 >= 0 >= -90)
 
-exception.legend.direction.tblr=La direction de la légende n'a pas été clairement réglée du haut vers le bas ou de gauche à droite
+exception.legend.direction.tblr=La direction de la lÃ©gende n'a pas Ã©tÃ© clairement rÃ©glÃ©e du haut vers le bas ou de gauche Ã  droite
 
-exception.scale.null.location=Impossible de situer les coordonnées pour la valeur nulle sur l''échelle {0}
+exception.scale.null.location=Impossible de situer les coordonnÃ©es pour la valeur nulle sur l''Ã©chelle {0}
 
-exception.illegal.icon.palette.type.for.marker="{0}" n''est pas un type d''image correct pour l''icône de repère.
+exception.illegal.icon.palette.type.for.marker="{0}" n''est pas un type d''image correct pour l''icÃ´ne de repÃ¨re.
 
-exception.illegal.filltype.crosshair.marker=Impossible de régler une couleur de palette sur un repère CROSSHAIR à {0}
+exception.illegal.filltype.crosshair.marker=Impossible de rÃ©gler une couleur de palette sur un repÃ¨re CROSSHAIR Ã  {0}
 
-exception.illegal.filltype.cross.marker=Impossible de régler une couleur de palette sur un repère CROSS à {0}
+exception.illegal.filltype.cross.marker=Impossible de rÃ©gler une couleur de palette sur un repÃ¨re CROSS Ã  {0}
 
-exception.invalid.step.size =''step size({0}) <= 0'' indiquée pour l'échelle de l'axe non valide
+exception.invalid.step.size =''step size({0}) <= 0'' indiquÃ©e pour l'Ã©chelle de l'axe non valide
 
-exception.invalid.step.number =''step number({0}) < 1'' indiqué pour l'échelle de l'axe non valide
+exception.invalid.step.number =''step number({0}) < 1'' indiquÃ© pour l'Ã©chelle de l'axe non valide
 
-exception.curve.line.visibility.not.defined=La propriété de visibilité de la courbe n'est pas correctement définie.
+exception.curve.line.visibility.not.defined=La propriÃ©tÃ© de visibilitÃ© de la courbe n'est pas correctement dÃ©finie.
 
-exception.min.largerthan.max=Entrées ''min({0}) > max({1})'' indiquées pour l''échelle de l''axe non valides
+exception.min.largerthan.max=EntrÃ©es ''min({0}) > max({1})'' indiquÃ©es pour l''Ã©chelle de l''axe non valides
 
-exception.combination.axis.label.position=Combinaison de l''axe={0} et de la position de l''étiquette={1} inattendue
+exception.combination.axis.label.position=Combinaison de l''axe={0} et de la position de l''Ã©tiquette={1} inattendue
 
-exception.cannot.locate.start.marker.range=Impossible de trouver le début de gamme de la valeur {0} contenue dans la gamme de repères {1}
+exception.cannot.locate.start.marker.range=Impossible de trouver le dÃ©but de gamme de la valeur {0} contenue dans la gamme de repÃ¨res {1}
 
-exception.cannot.locate.value.marker.line=Impossible de trouver la valeur {0} contenue dans la ligne avec repères {1}
+exception.cannot.locate.value.marker.line=Impossible de trouver la valeur {0} contenue dans la ligne avec repÃ¨res {1}
 
-exception.combination.axis.tick.style=Combinaison de l''axe={0} et du style de repère={1} inattendue
+exception.combination.axis.tick.style=Combinaison de l''axe={0} et du style de repÃ¨re={1} inattendue
 
-exception.invalid.axis.data.type=Le type de données spécifié pour l''axe ne correspond pas à celui de la valeur du champ de données : ({0})
+exception.invalid.axis.data.type=Le type de donnÃ©es spÃ©cifiÃ© pour l''axe ne correspond pas Ã  celui de la valeur du champ de donnÃ©es : ({0})
 
-exception.undefined.axis.data.type=Le type de données n''est pas défini pour l''axe {0}
+exception.undefined.axis.data.type=Le type de donnÃ©es n''est pas dÃ©fini pour l''axe {0}
 
-exception.unsupported.compare.text=La comparaison des éléments de données texte n'est pas prise en charge
+exception.unsupported.compare.text=La comparaison des Ã©lÃ©ments de donnÃ©es texte n'est pas prise en charge
 
-exception.unsupported.comparison=L''objet {0} ne peut pas participer à une comparaison ''pre''
+exception.unsupported.comparison=L''objet {0} ne peut pas participer Ã  une comparaison ''pre''
 
-exception.unsupported.internal.draw=Impossible de dessiner {0} en interne via l''événement
+exception.unsupported.internal.draw=Impossible de dessiner {0} en interne via l''Ã©vÃ©nement
 
-exception.unsupported.internal.fill=Impossible de remplir {0} en interne via l''événement
+exception.unsupported.internal.fill=Impossible de remplir {0} en interne via l''Ã©vÃ©nement
 
-exception.unsupported.chart.model=Impossible de calculer le graphique défini par le modèle [{0}]
+exception.unsupported.chart.model=Impossible de calculer le graphique dÃ©fini par le modÃ¨le [{0}]
 
-exception.unsupported.bounds=Les limites ne peuvent pas être calculées pour l''événement {0}
+exception.unsupported.bounds=Les limites ne peuvent pas Ãªtre calculÃ©es pour l''Ã©vÃ©nement {0}
 
-exception.unsupported.copy=Impossible de créer une copie pour l''événement {0}
+exception.unsupported.copy=Impossible de crÃ©er une copie pour l''Ã©vÃ©nement {0}
 
-exception.unsupported.step.number=Numéro de l'escalier non pris en charge pour la valeur non numérique.
+exception.unsupported.step.number=NumÃ©ro de l'escalier non pris en charge pour la valeur non numÃ©rique.
 
-exception.undefined.data.point=La valeur DataPoint associée à la définition de série n'est pas définie
+exception.undefined.data.point=La valeur DataPoint associÃ©e Ã  la dÃ©finition de sÃ©rie n'est pas dÃ©finie
 
-exception.unit.size.failure=Impossible de calculer la taille de l'unité car les coordonnées de repères ne sont pas définies
+exception.unit.size.failure=Impossible de calculer la taille de l'unitÃ© car les coordonnÃ©es de repÃ¨res ne sont pas dÃ©finies
 
-exception.process.content.type=Impossible de traiter le contenu du jeu de données indiqué comme {0} pour le type {1}
+exception.process.content.type=Impossible de traiter le contenu du jeu de donnÃ©es indiquÃ© comme {0} pour le type {1}
 
-exception.undefined.axis.label.visibility=La visibilité de l''étiquette n''est pas définie pour l''axe {0}
+exception.undefined.axis.label.visibility=La visibilitÃ© de l''Ã©tiquette n''est pas dÃ©finie pour l''axe {0}
 
-exception.undefined.axis.title.visibility=La visibilité du titre n''est pas définie pour l''axe {0}
+exception.undefined.axis.title.visibility=La visibilitÃ© du titre n''est pas dÃ©finie pour l''axe {0}
 
-exception.undefined.axis.label.position=La position de l''étiquette n''est pas définie pour l''axe {0}
+exception.undefined.axis.label.position=La position de l''Ã©tiquette n''est pas dÃ©finie pour l''axe {0}
 
-exception.undefined.axis.title.position=La position du titre n''est pas définie pour l''axe {0}
+exception.undefined.axis.title.position=La position du titre n''est pas dÃ©finie pour l''axe {0}
 
-exception.undefined.data.label.position=La position de l''étiquette de données n''est pas définie pour la série {0}
+exception.undefined.data.label.position=La position de l''Ã©tiquette de donnÃ©es n''est pas dÃ©finie pour la sÃ©rie {0}
 
-exception.undefined.axis.type=Le type d'axe n'est pas défini pour l'axe
+exception.undefined.axis.type=Le type d'axe n'est pas dÃ©fini pour l'axe
 
-exception.unset.series.stacked.property=La propriété empilée pour la série empilée {0} n''a pas été définie clairement.
+exception.unset.series.stacked.property=La propriÃ©tÃ© empilÃ©e pour la sÃ©rie empilÃ©e {0} n''a pas Ã©tÃ© dÃ©finie clairement.
 
-exception.undefined.axis.major.tick.style=Le style de repère de grille principale n''est pas défini pour l''axe {0}
+exception.undefined.axis.major.tick.style=Le style de repÃ¨re de grille principale n''est pas dÃ©fini pour l''axe {0}
 
-exception.undefined.axis.minor.tick.style=Le style de repère de grille secondaire n''est pas défini pour l''axe {0}
+exception.undefined.axis.minor.tick.style=Le style de repÃ¨re de grille secondaire n''est pas dÃ©fini pour l''axe {0}
 
-exception.zero.negative.logarithmic.scale=Les valeurs nulles ou négatives ne peuvent pas être situées sur une échelle logarithmique
+exception.zero.negative.logarithmic.scale=Les valeurs nulles ou nÃ©gatives ne peuvent pas Ãªtre situÃ©es sur une Ã©chelle logarithmique
 
-exception.illegal.vaxis.label.position=Valeur de position d''étiquette {0} indiquée pour l''axe vertical {1} incorrecte
+exception.illegal.vaxis.label.position=Valeur de position d''Ã©tiquette {0} indiquÃ©e pour l''axe vertical {1} incorrecte
 
-exception.illegal.vaxis.title.position=Valeur de position de titre {0} indiquée pour l''axe vertical {1} incorrecte
+exception.illegal.vaxis.title.position=Valeur de position de titre {0} indiquÃ©e pour l''axe vertical {1} incorrecte
 
-exception.illegal.vaxis.major.tick.style=Style principal de repère indiqué comme {0} pour l''axe vertical {1} incorrect
+exception.illegal.vaxis.major.tick.style=Style principal de repÃ¨re indiquÃ© comme {0} pour l''axe vertical {1} incorrect
 
-exception.illegal.vaxis.minor.tick.style=Style secondaire de repère indiqué comme {0} pour l''axe vertical {1} incorrect
+exception.illegal.vaxis.minor.tick.style=Style secondaire de repÃ¨re indiquÃ© comme {0} pour l''axe vertical {1} incorrect
 
-exception.illegal.haxis.label.position=Valeur de position d''étiquette {0} indiquée pour l''axe horizontal {1} incorrect
+exception.illegal.haxis.label.position=Valeur de position d''Ã©tiquette {0} indiquÃ©e pour l''axe horizontal {1} incorrect
 
-exception.illegal.haxis.title.position=Valeur de position de titre {0} indiquée pour l''axe horizontal {1} incorrect
+exception.illegal.haxis.title.position=Valeur de position de titre {0} indiquÃ©e pour l''axe horizontal {1} incorrect
 
-exception.illegal.rotation.angle.label=L''angle de rotation (-90 <= ANGLE <= 90) n''a pas été indiqué correctement pour l''étiquette {0}
+exception.illegal.rotation.angle.label=L''angle de rotation (-90 <= ANGLE <= 90) n''a pas Ã©tÃ© indiquÃ© correctement pour l''Ã©tiquette {0}
 
-exception.illegal.rendering.direction=Argument indiqué pour la direction de rendu de légende = {0} non valide
+exception.illegal.rendering.direction=Argument indiquÃ© pour la direction de rendu de lÃ©gende = {0} non valide
 
-exception.illegal.rendering.orientation=Argument indiqué pour l''orientation de rendu de légende = {0} non valide
+exception.illegal.rendering.orientation=Argument indiquÃ© pour l''orientation de rendu de lÃ©gende = {0} non valide
 
-exception.illegal.legend.direction=Argument indiqué pour la direction de rendu de légende = {0} non valide
+exception.illegal.legend.direction=Argument indiquÃ© pour la direction de rendu de lÃ©gende = {0} non valide
 
-exception.illegal.null.value=Valeur 'nulle' incorrecte passée comme argument pour construire un graphique
+exception.illegal.null.value=Valeur 'nulle' incorrecte passÃ©e comme argument pour construire un graphique
 
-exception.cannot.find.plugin.entry=Impossible de trouver des entrées pour la recherche={0} ; élément=({1}:{2}) dans tout fichier plugin.xml dans tous les modules d''extension disponibles
+exception.cannot.find.plugin.entry=Impossible de trouver des entrÃ©es pour la recherche={0} ; Ã©lÃ©ment=({1}:{2}) dans tout fichier plugin.xml dans tous les modules d''extension disponibles
 
-exception.cannot.split.major=Impossible de diviser une unité principale en {0} unité(s) secondaire(s).
+exception.cannot.split.major=Impossible de diviser une unitÃ© principale en {0} unitÃ©(s) secondaire(s).
 
-exception.illegal.legend.orientation=Argument indiqué pour l''orientation de rendu de légende = {0} non valide
+exception.illegal.legend.orientation=Argument indiquÃ© pour l''orientation de rendu de lÃ©gende = {0} non valide
 
-exception.cwoa.single.runtime.series=Les graphiques sans axes peuvent contenir une seule série d'exécution
+exception.cwoa.single.runtime.series=Les graphiques sans axes peuvent contenir une seule sÃ©rie d'exÃ©cution
 
-exception.illegal.haxis.major.tick.style=Style principal de repère indiqué comme {0} pour l''axe horizontal {1} incorrect
+exception.illegal.haxis.major.tick.style=Style principal de repÃ¨re indiquÃ© comme {0} pour l''axe horizontal {1} incorrect
 
-exception.illegal.haxis.minor.tick.style=Style secondaire de repère indiqué comme {0} pour l''axe horizontal {1} incorrect
+exception.illegal.haxis.minor.tick.style=Style secondaire de repÃ¨re indiquÃ© comme {0} pour l''axe horizontal {1} incorrect
 
-exception.client.area.outline.visibility=La visibilité du contour de la zone client n'a pas été précisée
+exception.client.area.outline.visibility=La visibilitÃ© du contour de la zone client n'a pas Ã©tÃ© prÃ©cisÃ©e
 
-exception.cannot.locate.end.marker.range=Impossible de trouver la fin de gamme de la valeur {0} contenue dans la gamme de repères {1}
+exception.cannot.locate.end.marker.range=Impossible de trouver la fin de gamme de la valeur {0} contenue dans la gamme de repÃ¨res {1}
 
-exception.runtime.dataset.count.mismatch=Incompatibilité({0}\!={1}) dans le nombre de jeu de données trouvés dans la série d''exécution empilée
+exception.runtime.dataset.count.mismatch=IncompatibilitÃ©({0}\!={1}) dans le nombre de jeu de donnÃ©es trouvÃ©s dans la sÃ©rie d''exÃ©cution empilÃ©e
 
-exception.illegal.base.runtime.series.count=Le compte de la série d''exécution de catégories (ici {0}) pour un graphique sans axes doit être 1.
+exception.illegal.base.runtime.series.count=Le compte de la sÃ©rie d''exÃ©cution de catÃ©gories (ici {0}) pour un graphique sans axes doit Ãªtre 1.
 
-exception.unstackable.is.stacked=Une série {0} qui ne peut pas être empilée est réglée sur empilée
+exception.unstackable.is.stacked=Une sÃ©rie {0} qui ne peut pas Ãªtre empilÃ©e est rÃ©glÃ©e sur empilÃ©e
 
-exception.unset.label.visibility=La visibilité de l''étiquette {0} n''est pas réglée
+exception.unset.label.visibility=La visibilitÃ© de l''Ã©tiquette {0} n''est pas rÃ©glÃ©e
 
-exception.marker.line.null.value=Impossible de planifier une ligne de rendu pour une valeur nulle telle qu''elle est définie dans la ligne de repère {0}
+exception.marker.line.null.value=Impossible de planifier une ligne de rendu pour une valeur nulle telle qu''elle est dÃ©finie dans la ligne de repÃ¨re {0}
 
-exception.unset.axis.visibility=La visibilité de l'axe n'est pas réglée et les résultats peuvent être ambigus
+exception.unset.axis.visibility=La visibilitÃ© de l'axe n'est pas rÃ©glÃ©e et les rÃ©sultats peuvent Ãªtre ambigus
 
-exception.unset.line.visibility=La visibilité des attributs de lignes dans {0} n''a pas été réglée clairement
+exception.unset.line.visibility=La visibilitÃ© des attributs de lignes dans {0} n''a pas Ã©tÃ© rÃ©glÃ©e clairement
 
-exception.stacked.datetime.axis.series=Impossible de définir la série empilée sur un axe date-heure
+exception.stacked.datetime.axis.series=Impossible de dÃ©finir la sÃ©rie empilÃ©e sur un axe date-heure
 
-exception.stacked.unstacked.mix.series=La définition de série {0} contient un mélange de séries empilées et non empilées.
+exception.stacked.unstacked.mix.series=La dÃ©finition de sÃ©rie {0} contient un mÃ©lange de sÃ©ries empilÃ©es et non empilÃ©es.
 
-exception.internal.stack.series.setup=Série empilée réglée de façon incorrecte pour l''axe {0}
+exception.internal.stack.series.setup=SÃ©rie empilÃ©e rÃ©glÃ©e de faÃ§on incorrecte pour l''axe {0}
 
-exception.invalid.minimum.scale.value=Valeur d''échelle minimum {0} non valide indiquée pour le type d''axe {1}
+exception.invalid.minimum.scale.value=Valeur d''Ã©chelle minimum {0} non valide indiquÃ©e pour le type d''axe {1}
 
-exception.invalid.maximum.scale.value=Valeur d''échelle maximum {0} non valide indiquée pour le type d''axe {1}
+exception.invalid.maximum.scale.value=Valeur d''Ã©chelle maximum {0} non valide indiquÃ©e pour le type d''axe {1}
 
-exception.legend.orientation.horzvert=L'orientation de la légende n'a pas été réglée clairement à l'horizontale ou à la verticale
+exception.legend.orientation.horzvert=L'orientation de la lÃ©gende n'a pas Ã©tÃ© rÃ©glÃ©e clairement Ã  l'horizontale ou Ã  la verticale
 
-exception.legend.orientation.InvalidMaxPercent=Le pourcentage maximum doit être compris entre 0 et 1.
+exception.legend.orientation.InvalidMaxPercent=Le pourcentage maximum doit Ãªtre compris entre 0 et 1.
 
-info.processing.stacked.info=Traitement des informations empilées pour l''axe {0}
+info.processing.stacked.info=Traitement des informations empilÃ©es pour l''axe {0}
 
-info.eclenv.creating.device=(ENV-ECLIPSE) Création du périphérique {0} en tant que {1}
+info.eclenv.creating.device=(ENV-ECLIPSE) CrÃ©ation du pÃ©riphÃ©rique {0} en tant que {1}
 
-info.stdenv.creating.device=(ENV-AUTONOME) Création du périphérique {0} en tant que {1}
+info.stdenv.creating.device=(ENV-AUTONOME) CrÃ©ation du pÃ©riphÃ©rique {0} en tant que {1}
 
-info.eclenv.creating.display=(ENV-ECLIPSE) Création du serveur d''affichage {0} en tant que {1}
+info.eclenv.creating.display=(ENV-ECLIPSE) CrÃ©ation du serveur d''affichage {0} en tant que {1}
 
-info.stdenv.creating.display=(ENV-AUTONOME) Création du serveur d''affichage {0} en tant que {1}
+info.stdenv.creating.display=(ENV-AUTONOME) CrÃ©ation du serveur d''affichage {0} en tant que {1}
 
-exception.percent.stacked.non.numerical=Impossible de calculer un axe pourcentage/empilé contenant des données non numériques
+exception.percent.stacked.non.numerical=Impossible de calculer un axe pourcentage/empilÃ© contenant des donnÃ©es non numÃ©riques
 
-exception.text.data.numerical.datetime.axis=Impossible d'utiliser des données de texte pour obtenir un axe date-heure/numérique.
+exception.text.data.numerical.datetime.axis=Impossible d'utiliser des donnÃ©es de texte pour obtenir un axe date-heure/numÃ©rique.
 
-exception.numerical.data.datetime.axis=Impossible d'utiliser des données autres que date-heure pour obtenir un axe date-heure.
+exception.numerical.data.datetime.axis=Impossible d'utiliser des donnÃ©es autres que date-heure pour obtenir un axe date-heure.
 
-exception.datetime.data.numerical.axis=Impossible d'utiliser des données autres que numériques pour obtenir un axe numérique.
+exception.datetime.data.numerical.axis=Impossible d'utiliser des donnÃ©es autres que numÃ©riques pour obtenir un axe numÃ©rique.
 
-exception.cwoa.single.series.definition=Les graphiques sans axes peuvent contenir une seule définition de série
+exception.cwoa.single.series.definition=Les graphiques sans axes peuvent contenir une seule dÃ©finition de sÃ©rie
 
 exception.parse.value.format.specifier=Echec de l''analyse de la valeur {0} avec l''indicateur de format {1}
 
-exception.orthogonal.axis.numerical.datetime=L'axe de valeurs ne peut présenter qu'un format numérique ou date/heure.
+exception.orthogonal.axis.numerical.datetime=L'axe de valeurs ne peut prÃ©senter qu'un format numÃ©rique ou date/heure.
 
-exception.axis.series.link.broken=Impossible de trouver la définition de l''axe pour la série {0}
+exception.axis.series.link.broken=Impossible de trouver la dÃ©finition de l''axe pour la sÃ©rie {0}
 
-exception.process.content.dataset=Impossible de traiter le contenu du jeu de données indiqué comme {0} pour le jeu de données {1}
+exception.process.content.dataset=Impossible de traiter le contenu du jeu de donnÃ©es indiquÃ© comme {0} pour le jeu de donnÃ©es {1}
 
-exception.base.orthogonal.inconsistent.count=L''axe de catégories contient {0} éléments ; l''axe des valeurs contient {1} éléments.
+exception.base.orthogonal.inconsistent.count=L''axe de catÃ©gories contient {0} Ã©lÃ©ments ; l''axe des valeurs contient {1} Ã©lÃ©ments.
 
-exception.base.orthogonal.null.datapoint=Les points de données spécifiés contiennent une valeur nulle incorrecte.
+exception.base.orthogonal.null.datapoint=Les points de donnÃ©es spÃ©cifiÃ©s contiennent une valeur nulle incorrecte.
 
-exception.base.orthogonal.null.datadefinition=L'expression de définition de données spécifiée est incorrecte..
+exception.base.orthogonal.null.datadefinition=L'expression de dÃ©finition de donnÃ©es spÃ©cifiÃ©e est incorrecte..
 
-exception.dataset.non.numerical.to.numerical=Type de données non numérique {0} inattendu détecté dans le jeu de données ; conversion en valeur numérique impossible.
+exception.dataset.non.numerical.to.numerical=Type de donnÃ©es non numÃ©rique {0} inattendu dÃ©tectÃ© dans le jeu de donnÃ©es ; conversion en valeur numÃ©rique impossible.
 
-exception.dataset.non.datetime=Le type de données lié à l'axe horizontal ne correspond pas au format date/heure
+exception.dataset.non.datetime=Le type de donnÃ©es liÃ© Ã  l'axe horizontal ne correspond pas au format date/heure
 
-exception.scale.tick.max=Rendu de plusieurs escaliers impossible. Ajustez l'échelle (escalier ou unité).
+exception.scale.tick.max=Rendu de plusieurs escaliers impossible. Ajustez l'Ã©chelle (escalier ou unitÃ©).
 
-exception.unknown.axis.type.tick.computations=Impossible de déterminer le type d'axe nécessaire pour calculer les repères
+exception.unknown.axis.type.tick.computations=Impossible de dÃ©terminer le type d'axe nÃ©cessaire pour calculer les repÃ¨res
 
-exception.unknown.trigger.datatype=Les données du déclencheur ne sont pas valides ou leur type est inconnu.
+exception.unknown.trigger.datatype=Les donnÃ©es du dÃ©clencheur ne sont pas valides ou leur type est inconnu.
 
-exception.unsupported.compare.unknown.objects=Eléments de données non pris en charge fournis pour la comparaison de DE1={0} et DE2={1}
+exception.unsupported.compare.unknown.objects=ElÃ©ments de donnÃ©es non pris en charge fournis pour la comparaison de DE1={0} et DE2={1}
 
-exception.unsupported.compare.different.objects=Eléments de données mélangés fournis pour la comparaison de DE1={0} et DE2={1}
+exception.unsupported.compare.different.objects=ElÃ©ments de donnÃ©es mÃ©langÃ©s fournis pour la comparaison de DE1={0} et DE2={1}
 
-exception.resultset.data.type.retrieval.failed=Impossible de déterminer les types de données à partir du jeu de résultats
+exception.resultset.data.type.retrieval.failed=Impossible de dÃ©terminer les types de donnÃ©es Ã  partir du jeu de rÃ©sultats
 
-exception.base.axis.no.series.definitions=L'axe des catégories principal ne contient pas de définitions de série.
+exception.base.axis.no.series.definitions=L'axe des catÃ©gories principal ne contient pas de dÃ©finitions de sÃ©rie.
 
 exception.no.stack.percent.3D.chart=Les fonctions d'empilage et de pourcentage ne sont pas prises en charge pour les graphiques en 3D.
 
-exception.dial.dimension=''{0}'' non pris(e) en charge par les séries cadran.
+exception.dial.dimension=''{0}'' non pris(e) en charge par les sÃ©ries cadran.
 
-exception.pie.dimension=''{0}'' non pris(e) en charge par les séries secteur.
+exception.pie.dimension=''{0}'' non pris(e) en charge par les sÃ©ries secteur.
 
-exception.scatter.dimension=''{0}'' non pris(e) en charge par les séries nuage de points.
+exception.scatter.dimension=''{0}'' non pris(e) en charge par les sÃ©ries nuage de points.
 
-exception.stock.dimension=''{0}'' non pris(e) en charge par les séries d''actions.
+exception.stock.dimension=''{0}'' non pris(e) en charge par les sÃ©ries d''actions.
 
 exception.multi.orthogonal.3D.not.supported=Les axes de valeurs multiples ne sont pas pris en charge par les graphiques en 3D.
 
-exception.scatter.3D.not.supported=Les axes de catégories en nuage de points ne sont pas pris en charge par les graphiques en 3D.
+exception.scatter.3D.not.supported=Les axes de catÃ©gories en nuage de points ne sont pas pris en charge par les graphiques en 3D.
 
 exception.no.transposed.3D.chart=La transposition n'est pas prise en charge par les graphiques en 3D.
 
-exception.3D.points.length.less.than.3=La liste des longueurs de points pour les événements de rendu 3D est au minimum de 3 (>=3).
+exception.3D.points.length.less.than.3=La liste des longueurs de points pour les Ã©vÃ©nements de rendu 3D est au minimum de 3 (>=3).
 
-exception.unsupported.area3d.getOjbect3D=L'accès direct à l'objet Object3D depuis Area3DRenderEvent n'est pas pris en charge. Chaque sous I3DRenderEvent doit être itéré pour procéder au traitement.
+exception.unsupported.area3d.getOjbect3D=L'accÃ¨s direct Ã  l'objet Object3D depuis Area3DRenderEvent n'est pas pris en charge. Chaque sous I3DRenderEvent doit Ãªtre itÃ©rÃ© pour procÃ©der au traitement.
 
-exception.javascript.error={0} à la ligne {1} du script du graphique :''{2}''
+exception.javascript.error={0} Ã  la ligne {1} du script du graphique :''{2}''
 
-exception.null.legend.layout.hints=Impossible d'obtenir le rendu de légende avec un objet d'astuces de mise en page nul.
+exception.null.legend.layout.hints=Impossible d'obtenir le rendu de lÃ©gende avec un objet d'astuces de mise en page nul.
 
-exception.null.legend.item.hints=Impossible d'obtenir le rendu d'élément de légende avec un objet d'astuces d'élément 'nul'.
+exception.null.legend.item.hints=Impossible d'obtenir le rendu d'Ã©lÃ©ment de lÃ©gende avec un objet d'astuces d'Ã©lÃ©ment 'nul'.
 
-info.elapsed.render.time=Durée pour le rendu de la totalité = {0} ms
+info.elapsed.render.time=DurÃ©e pour le rendu de la totalitÃ© = {0} ms
 
-info.elapsed.time.render=Durée pour le rendu de la totalité = {0} ms
+info.elapsed.time.render=DurÃ©e pour le rendu de la totalitÃ© = {0} ms
 
-info.eclenv.creating.dsp=(ENV-ECLIPSE) Création de DataSetProcessor {0}
+info.eclenv.creating.dsp=(ENV-ECLIPSE) CrÃ©ation de DataSetProcessor {0}
 
 info.datapoint.to.string={0}:{1}
-info.stdenv.creating.dsp=(ENV-AUTONOME) Création de DataSetProcessor {0}
+info.stdenv.creating.dsp=(ENV-AUTONOME) CrÃ©ation de DataSetProcessor {0}
 
-constant.undefined.string=<non défini>
+constant.undefined.string=<non dÃ©fini>
 
 constant.null.string=nul
 
-error.invalid.enumerator=La valeur ''{0}'' n''est pas un énumérateur correct de ''{1}''.
+error.invalid.enumerator=La valeur ''{0}'' n''est pas un Ã©numÃ©rateur correct de ''{1}''.
 
-error.invalid.classifier=Le type de données ''{0}'' n''est pas un classificateur correct.
+error.invalid.classifier=Le type de donnÃ©es ''{0}'' n''est pas un classificateur correct.
 
-error.invalid.argument.for.barSeries={0} est un argument incorrect pour BarSeriesImpl. Le modèle de graphique doit être une instance de org.eclipse.birt.chart.model.ChartWithAxes.
+error.invalid.argument.for.barSeries={0} est un argument incorrect pour BarSeriesImpl. Le modÃ¨le de graphique doit Ãªtre une instance de org.eclipse.birt.chart.model.ChartWithAxes.
 
-error.invalid.argument.for.lineSeries={0} est un argument incorrect pour LineSeriesImpl. Le modèle de graphique doit être une instance de org.eclipse.birt.chart.model.ChartWithAxes.
+error.invalid.argument.for.lineSeries={0} est un argument incorrect pour LineSeriesImpl. Le modÃ¨le de graphique doit Ãªtre une instance de org.eclipse.birt.chart.model.ChartWithAxes.
 
-error.invalid.argument.for.stockSeries={0} est un argument incorrect pour StockSeriesImpl. Le modèle de graphique doit être une instance de org.eclipse.birt.chart.model.ChartWithAxes.
+error.invalid.argument.for.stockSeries={0} est un argument incorrect pour StockSeriesImpl. Le modÃ¨le de graphique doit Ãªtre une instance de org.eclipse.birt.chart.model.ChartWithAxes.
 
-error.legend.position=La position du bloc de la légende doit être spécifiée pour que les composants du graphique soient correctement disposés.
+error.legend.position=La position du bloc de la lÃ©gende doit Ãªtre spÃ©cifiÃ©e pour que les composants du graphique soient correctement disposÃ©s.
 
-error.null.source=La valeur source ne peut pas être nulle.
+error.null.source=La valeur source ne peut pas Ãªtre nulle.
 
-error.unknown.palette=Palette demandée {0} inconnue. Palette par défaut utilisée.
+error.unknown.palette=Palette demandÃ©e {0} inconnue. Palette par dÃ©faut utilisÃ©e.
 
-error.type.not.set=Le TYPE n'a pas été défini pour cette instance de DateFormatSpecifier.
+error.type.not.set=Le TYPE n'a pas Ã©tÃ© dÃ©fini pour cette instance de DateFormatSpecifier.
 
-error.eclenv.cannot.find.dsp=(ENV-ECLIPSE) Impossible de détecter l''implémentation de DataSetProcessor pour {0}
+error.eclenv.cannot.find.dsp=(ENV-ECLIPSE) Impossible de dÃ©tecter l''implÃ©mentation de DataSetProcessor pour {0}
 
-error.stdenv.cannot.find.dsp=(ENV-AUTONOME) Impossible de détecter l''implémentation de DataSetProcessor pour {0}
+error.stdenv.cannot.find.dsp=(ENV-AUTONOME) Impossible de dÃ©tecter l''implÃ©mentation de DataSetProcessor pour {0}
 
-info.eclenv.creating.series.renderer=(ENV-ECLIPSE) Création de moteur de rendu de série {0}
+info.eclenv.creating.series.renderer=(ENV-ECLIPSE) CrÃ©ation de moteur de rendu de sÃ©rie {0}
 
-info.eclenv.creating.datapoint.definition=(ECLIPSE-ENV) Création de la définition du point de données {0}
+info.eclenv.creating.datapoint.definition=(ECLIPSE-ENV) CrÃ©ation de la dÃ©finition du point de donnÃ©es {0}
 
-error.eclenv.cannot.find.series.renderer=(ENV-ECLIPSE) Impossible de détecter l''implémentation du moteur de rendu de série pour {0}
+error.eclenv.cannot.find.series.renderer=(ENV-ECLIPSE) Impossible de dÃ©tecter l''implÃ©mentation du moteur de rendu de sÃ©rie pour {0}
 
-info.stdenv.creating.series.renderer=(ENV-AUTONOME) Création de moteur de rendu de série {0}
+info.stdenv.creating.series.renderer=(ENV-AUTONOME) CrÃ©ation de moteur de rendu de sÃ©rie {0}
 
-info.compute.elapsed.time.without.axes=Durée du calcul du tracé (sans axe) = {0} ms
+info.compute.elapsed.time.without.axes=DurÃ©e du calcul du tracÃ© (sans axe) = {0} ms
 
-info.compute.elapsed.time.with.axes=Durée du calcul du tracé avec axe) = {0} ms
+info.compute.elapsed.time.with.axes=DurÃ©e du calcul du tracÃ© avec axe) = {0} ms
 
-error.stdenv.cannot.find.series.renderer=(ENV-AUTONOME) Impossible de détecter l''implémentation du moteur de rendu de série pour {0}
+error.stdenv.cannot.find.series.renderer=(ENV-AUTONOME) Impossible de dÃ©tecter l''implÃ©mentation du moteur de rendu de sÃ©rie pour {0}
 
-error.stdenv.cannot.find.datapoint.definition=(ENV-AUTONOME) Impossible de détecter l''implémentation de la définition du point de données pour {0}
+error.stdenv.cannot.find.datapoint.definition=(ENV-AUTONOME) Impossible de dÃ©tecter l''implÃ©mentation de la dÃ©finition du point de donnÃ©es pour {0}
 
-error.eclenv.cannot.find.device=(ENV-ECLIPSE) Impossible de détecter l''implémentation du moteur de rendu de périphérique pour {0}
+error.eclenv.cannot.find.device=(ENV-ECLIPSE) Impossible de dÃ©tecter l''implÃ©mentation du moteur de rendu de pÃ©riphÃ©rique pour {0}
 
-error.stdenv.cannot.find.device=(ENV-AUTONOME) Impossible de détecter l''implémentation du moteur de rendu de périphérique pour {0}
+error.stdenv.cannot.find.device=(ENV-AUTONOME) Impossible de dÃ©tecter l''implÃ©mentation du moteur de rendu de pÃ©riphÃ©rique pour {0}
 
-error.eclenv.cannot.find.display=(ENV-ECLIPSE) Impossible de détecter l''implémentation du serveur d''affichage pour {0}
+error.eclenv.cannot.find.display=(ENV-ECLIPSE) Impossible de dÃ©tecter l''implÃ©mentation du serveur d''affichage pour {0}
 
-error.stdenv.cannot.find.display=(ENV-AUTONOME) Impossible de détecter l''implémentation du serveur d''affichage pour {0}
+error.stdenv.cannot.find.display=(ENV-AUTONOME) Impossible de dÃ©tecter l''implÃ©mentation du serveur d''affichage pour {0}
 
 info.log.script=[SCRIPT] : {0}
 
@@ -319,32 +319,32 @@ info.log.err=[ERR] : {0}
 info.log.fatal=[FATAL] : {0}
 
 prefix.marker.range.caption=[
-separator.marker.range.caption=\ à :
+separator.marker.range.caption=\ Ã  :
 
 suffix.marker.range.caption=]
-wrapped.instruction.to.string={0} : modèle={1} ; limites={2}
+wrapped.instruction.to.string={0} : modÃ¨le={1} ; limites={2}
 
-exception.mixed.data.types=La fonction d''agrégation {0} a détecté des données d''entrée de différents types à résumer
+exception.mixed.data.types=La fonction d''agrÃ©gation {0} a dÃ©tectÃ© des donnÃ©es d''entrÃ©e de diffÃ©rents types Ã  rÃ©sumer
 
-info.eclenv.creating.function=(ENV-ECLIPSE) Création de la fonction d''agrégation {0}
+info.eclenv.creating.function=(ENV-ECLIPSE) CrÃ©ation de la fonction d''agrÃ©gation {0}
 
-error.eclenv.cannot.find.function=(ENV-ECLIPSE) Impossible de détecter l''implémentation de la fonction d''agrégation pour {0}
+error.eclenv.cannot.find.function=(ENV-ECLIPSE) Impossible de dÃ©tecter l''implÃ©mentation de la fonction d''agrÃ©gation pour {0}
 
-info.stdenv.creating.function=(ENV-AUTONOME) Création de la fonction d''agrégation {0}
+info.stdenv.creating.function=(ENV-AUTONOME) CrÃ©ation de la fonction d''agrÃ©gation {0}
 
-error.stdenv.cannot.find.function=(ENV-AUTONOME) Impossible de détecter l''implémentation de la fonction d''agrégation pour {0}
+error.stdenv.cannot.find.function=(ENV-AUTONOME) Impossible de dÃ©tecter l''implÃ©mentation de la fonction d''agrÃ©gation pour {0}
 
-Info.try.load.java.handler=Tentative de chargement de la classe de gestionnaire d'événements Java de graphique...
+Info.try.load.java.handler=Tentative de chargement de la classe de gestionnaire d'Ã©vÃ©nements Java de graphique...
 
-Info.java.handler.loaded=Une classe de gestionnaire d''événements Java de graphique [{0}] a été chargée.
+Info.java.handler.loaded=Une classe de gestionnaire d''Ã©vÃ©nements Java de graphique [{0}] a Ã©tÃ© chargÃ©e.
 
-Info.invalid.java.handler=Une classe de gestionnaire d''événements Java de graphique [{0}] non valide a été détectée et ignorée.
+Info.invalid.java.handler=Une classe de gestionnaire d''Ã©vÃ©nements Java de graphique [{0}] non valide a Ã©tÃ© dÃ©tectÃ©e et ignorÃ©e.
 
 Info.try.register.javascript.content=Tentative de chargement du contenu JavaScript de graphique...
 
-Info.javascript.content.registered=Le contenu JavaScript de graphique a été chargé.
+Info.javascript.content.registered=Le contenu JavaScript de graphique a Ã©tÃ© chargÃ©.
 
-warn.unspecified.sorting=Le tri n''est pas spécifié pour {0}.
+warn.unspecified.sorting=Le tri n''est pas spÃ©cifiÃ© pour {0}.
 
 ##################################################
 # Attributes 
@@ -352,19 +352,19 @@ warn.unspecified.sorting=Le tri n''est pas spécifié pour {0}.
 # !!the key is bound to those attribute literal' name value, 
 # !!if that changes, this must be updated accordingly.
 #
-SeriesImpl.displayName=Série simple
+SeriesImpl.displayName=SÃ©rie simple
 
-AreaSeriesImpl.displayName=Séries d'aires
+AreaSeriesImpl.displayName=SÃ©ries d'aires
 
 BarSeriesImpl.displayName=Barres
 
-BarSeriesImpl.coneDisplayName=Série Cône
+BarSeriesImpl.coneDisplayName=SÃ©rie CÃ´ne
 
-BarSeriesImpl.tubeDisplayName=Série Tube
+BarSeriesImpl.tubeDisplayName=SÃ©rie Tube
 
-BarSeriesImpl.pyramidDisplayName=Série Pyramide
+BarSeriesImpl.pyramidDisplayName=SÃ©rie Pyramide
 
-DialSeriesImpl.displayName=Séries cadran
+DialSeriesImpl.displayName=SÃ©ries cadran
 
 LineSeriesImpl.displayName=Lignes
 
@@ -374,13 +374,13 @@ ScatterSeriesImpl.displayName=Nuage de points
 
 StockSeriesImpl.displayName=Boursier
 
-BubbleSeriesImpl.displayName=Série de bulles
+BubbleSeriesImpl.displayName=SÃ©rie de bulles
 
-GanttSeriesImpl.displayName=Série de barres de Gantt
+GanttSeriesImpl.displayName=SÃ©rie de barres de Gantt
 
-DifferenceSeriesImpl.displayName=Série de différences
+DifferenceSeriesImpl.displayName=SÃ©rie de diffÃ©rences
 
-AxisType.Linear.displayName=Linéaire
+AxisType.Linear.displayName=LinÃ©aire
 
 AxisType.Logarithmic.displayName=Logarithmique
 
@@ -407,15 +407,15 @@ ScaleUnitType.Months.displayName=Mois
 
 ScaleUnitType.Quarters.displayName=Trimestres
 
-ScaleUnitType.Years.displayName=Années
+ScaleUnitType.Years.displayName=AnnÃ©es
 
 SortOption.Ascending.displayName=Croissant
 
-SortOption.Descending.displayName=Décroissant
+SortOption.Descending.displayName=DÃ©croissant
 
-TriggerCondition.MouseHover.displayName=Pointage de la souris (désapprouvé)
+TriggerCondition.MouseHover.displayName=Pointage de la souris (dÃ©sapprouvÃ©)
 
-TriggerCondition.MouseClick.displayName=Clic de la souris (désapprouvé)
+TriggerCondition.MouseClick.displayName=Clic de la souris (dÃ©sapprouvÃ©)
 
 TriggerCondition.onclick.displayName=Clic de la souris
 
@@ -423,23 +423,23 @@ TriggerCondition.ondblclick.displayName=Double clic de la souris
 
 TriggerCondition.onmousedown.displayName=Enfoncement du bouton de la souris
 
-TriggerCondition.onmouseup.displayName=Relâchement du bouton de la souris
+TriggerCondition.onmouseup.displayName=RelÃ¢chement du bouton de la souris
 
-TriggerCondition.onmouseover.displayName=Déplacement de la souris sur l'élément
+TriggerCondition.onmouseover.displayName=DÃ©placement de la souris sur l'Ã©lÃ©ment
 
-TriggerCondition.onmousemove.displayName=Déplacement de la souris
+TriggerCondition.onmousemove.displayName=DÃ©placement de la souris
 
-TriggerCondition.onmouseout.displayName=Déplacement de la souris hors de l'élément
+TriggerCondition.onmouseout.displayName=DÃ©placement de la souris hors de l'Ã©lÃ©ment
 
-TriggerCondition.onfocus.displayName=Curseur sur l'élément
+TriggerCondition.onfocus.displayName=Curseur sur l'Ã©lÃ©ment
 
-TriggerCondition.onblur.displayName=Curseur hors de l'élément
+TriggerCondition.onblur.displayName=Curseur hors de l'Ã©lÃ©ment
 
 TriggerCondition.onkeydown.displayName=Enfoncement d'une touche du clavier
 
-TriggerCondition.onkeypress.displayName=Touche du clavier maintenue enfoncée
+TriggerCondition.onkeypress.displayName=Touche du clavier maintenue enfoncÃ©e
 
-TriggerCondition.onkeyup.displayName=Relâchement d'une touche du clavier
+TriggerCondition.onkeyup.displayName=RelÃ¢chement d'une touche du clavier
 
 TriggerCondition.onload.displayName=Charger
 
@@ -447,7 +447,7 @@ ActionType.URLRedirect.displayName=Lien hypertexte
 
 ActionType.ShowTooltip.displayName=Afficher l'infobulle
 
-ActionType.ToggleVisibility.displayName=Basculer la visibilité
+ActionType.ToggleVisibility.displayName=Basculer la visibilitÃ©
 
 ActionType.InvokeScript.displayName=Invoquer le script
 
@@ -455,7 +455,7 @@ ActionType.Highlight.displayName=Mise en surbrillance
 
 ActionType.CallBack.displayName=Rappel automatique
 
-ActionType.ToggleDataPointVisibility.displayName=Basculer la visibilité du point de données
+ActionType.ToggleDataPointVisibility.displayName=Basculer la visibilitÃ© du point de donnÃ©es
 
 TickStyle.Across.displayName=Horizontalement
 
@@ -467,19 +467,19 @@ TickStyle.Above.displayName=Au-dessus
 
 TickStyle.Below.displayName=En dessous
 
-DataPointComponentType.BaseValue.displayName=Données de catégorie
+DataPointComponentType.BaseValue.displayName=DonnÃ©es de catÃ©gorie
 
-DataPointComponentType.OrthogonalValue.displayName=Données de valeur
+DataPointComponentType.OrthogonalValue.displayName=DonnÃ©es de valeur
 
-DataPointComponentType.SeriesValue.displayName=Nom de série de valeurs
+DataPointComponentType.SeriesValue.displayName=Nom de sÃ©rie de valeurs
 
-DataPointComponentType.PercentileOrthogonalValue.displayName=Données de valeur centile
+DataPointComponentType.PercentileOrthogonalValue.displayName=DonnÃ©es de valeur centile
 
 LeaderLineStyle.FixedLength.displayName=Longueur fixe
 
-LeaderLineStyle.StretchToSide.displayName=Adapter à la largeur
+LeaderLineStyle.StretchToSide.displayName=Adapter Ã  la largeur
 
-MarkerType.Crosshair.displayName=Réticule
+MarkerType.Crosshair.displayName=RÃ©ticule
 
 MarkerType.Triangle.displayName=Triangle
 
@@ -487,7 +487,7 @@ MarkerType.Box.displayName=Case
 
 MarkerType.Circle.displayName=Cercle
 
-MarkerType.Icon.displayName=Icône
+MarkerType.Icon.displayName=IcÃ´ne
 
 MarkerType.Nabla.displayName=Nabla
 
@@ -515,23 +515,23 @@ RiserType.Triangle.displayName=Triangle
 
 RiserType.Tube.displayName=Barre
 
-RiserType.Cone.displayName=Cône
+RiserType.Cone.displayName=CÃ´ne
 
 Anchor.North.displayName=Haut
 
-Anchor.NorthEast.displayName=En haut à droite
+Anchor.NorthEast.displayName=En haut Ã  droite
 
 Anchor.East.displayName=Droite
 
-Anchor.SouthEast.displayName=En bas à droite
+Anchor.SouthEast.displayName=En bas Ã  droite
 
 Anchor.South.displayName=Bas
 
-Anchor.SouthWest.displayName=En bas à gauche
+Anchor.SouthWest.displayName=En bas Ã  gauche
 
 Anchor.West.displayName=Gauche
 
-Anchor.NorthWest.displayName=En haut à gauche
+Anchor.NorthWest.displayName=En haut Ã  gauche
 
 AnchorVertical.North.displayName=Haut
 
@@ -565,9 +565,9 @@ Direction.LeftRight.displayName=Gauche/droite
 
 Direction.TopBottom.displayName=Haut/bas
 
-LegendItemType.Series.displayName=Valeur de série
+LegendItemType.Series.displayName=Valeur de sÃ©rie
 
-LegendItemType.Categories.displayName=Catégories
+LegendItemType.Categories.displayName=CatÃ©gories
 
 Position.Above.displayName=Au-dessus
 
@@ -577,9 +577,9 @@ Position.Left.displayName=Gauche
 
 Position.Right.displayName=Droite
 
-Position.Inside.displayName=A l'intérieur
+Position.Inside.displayName=A l'intÃ©rieur
 
-Position.Outside.displayName=A l'extérieur
+Position.Outside.displayName=A l'extÃ©rieur
 
 UnitsOfMeasurement.Pixels.displayName=Pixels
 
@@ -587,9 +587,9 @@ UnitsOfMeasurement.Points.displayName=Points
 
 UnitsOfMeasurement.Inches.displayName=Pouces
 
-UnitsOfMeasurement.Centimeters.displayName=Centimètres
+UnitsOfMeasurement.Centimeters.displayName=CentimÃ¨tres
 
-DataType.Numeric.displayName=Numérique
+DataType.Numeric.displayName=NumÃ©rique
 
 DataType.DateTime.displayName=DateTime
 DataType.Text.displayName=Texte
@@ -606,13 +606,13 @@ GroupingUnitType.Weeks.displayName=Semaines
 
 GroupingUnitType.Months.displayName=Mois
 
-GroupingUnitType.Years.displayName=Années
+GroupingUnitType.Years.displayName=AnnÃ©es
 
 GroupingUnitType.Quarters.displayName=Trimestres
 
-GroupingUnitType.String.displayName=Chaîne
+GroupingUnitType.String.displayName=ChaÃ®ne
 
-GroupingUnitType.StringPrefix.displayName=PréfixeChaîne
+GroupingUnitType.StringPrefix.displayName=PrÃ©fixeChaÃ®ne
 
 DateFormatType.Long.displayName=Long
 
@@ -628,11 +628,11 @@ DateFormatDetail.DateTime.displayName=Date Heure
 
 ChartUtil.Text.Day='D'
 ChartUtil.Text.Week='W'
-DefaultValueProvider_BaseSeries=Série de base
+DefaultValueProvider_BaseSeries=SÃ©rie de base
 
 DefaultValueProvider_ChartSubType.Standard=Standard
 
-DefaultValueProvider_ChartSubType.StandardMeterChart=Graphique à cadrans standard
+DefaultValueProvider_ChartSubType.StandardMeterChart=Graphique Ã  cadrans standard
 
 DefaultValueProvider_ChartTitle=Titre du graphique
 
@@ -640,20 +640,20 @@ DefaultValueProvider_ChartUnits.Points=Points
 
 LegendBehaviorType.None.displayName=Aucun
 
-LegendBehaviorType.ToggleSerieVisibility.displayName=Basculer l'affichage des séries
+LegendBehaviorType.ToggleSerieVisibility.displayName=Basculer l'affichage des sÃ©ries
 
-LegendBehaviorType.HighlightSerie.displayName=Mettre les séries en surbrillance
+LegendBehaviorType.HighlightSerie.displayName=Mettre les sÃ©ries en surbrillance
 
 # Defines cursor display names.
 Cursor.Auto.displayName=Auto
 
-Cursor.Crosshair.displayName=Réticule
+Cursor.Crosshair.displayName=RÃ©ticule
 
-Cursor.Default.displayName=Par défaut
+Cursor.Default.displayName=Par dÃ©faut
 
 Cursor.Pointer.displayName=Main
 
-Cursor.Move.displayName=Déplacer
+Cursor.Move.displayName=DÃ©placer
 
 Cursor.Text.displayName=Texte
 
@@ -675,7 +675,7 @@ Cursor.SResize.displayName=Sud
 
 Cursor.WResize.displayName=Ouest
 
-Cursor.Custom.displayName=Personnalisée
+Cursor.Custom.displayName=PersonnalisÃ©e
 
 ActionType.URLRedirect.DisplayName=Rediriger l'URL
 
@@ -683,66 +683,66 @@ ActionType.InvokeScript.DisplayName=Invoquer le script
 
 ActionType.Highlight.DisplayName=Mise en surbrillance
 
-ActionType.ToggleVisibility.DisplayName=Basculer la visibilité
+ActionType.ToggleVisibility.DisplayName=Basculer la visibilitÃ©
 
-ActionType.ToggleDataPointVisibility.DisplayName=Basculer la visibilité du point de données
+ActionType.ToggleDataPointVisibility.DisplayName=Basculer la visibilitÃ© du point de donnÃ©es
 
 # End of Attributes
 ##################################################
-dataprocessor.log.baseSeriesDefn3=La définition de série de catégories ({0}) sera utilisée en tant qu''expression statique.
+dataprocessor.log.baseSeriesDefn3=La dÃ©finition de sÃ©rie de catÃ©gories ({0}) sera utilisÃ©e en tant qu''expression statique.
 
-dataprocessor.exception.CannotDecipher=Impossible de déchiffrer le contenu d'un graphique contenant plusieurs définitions de série de catégories.
+dataprocessor.exception.CannotDecipher=Impossible de dÃ©chiffrer le contenu d'un graphique contenant plusieurs dÃ©finitions de sÃ©rie de catÃ©gories.
 
-dataprocessor.exception.FoundDefnAssociatedWithX=Détection de {0} définition(s) de données associée(s) à l''expression de série de catégorie (X). Une seule définition de données de série de catégorie est prise en charge.
+dataprocessor.exception.FoundDefnAssociatedWithX=DÃ©tection de {0} dÃ©finition(s) de donnÃ©es associÃ©e(s) Ã  l''expression de sÃ©rie de catÃ©gorie (X). Une seule dÃ©finition de donnÃ©es de sÃ©rie de catÃ©gorie est prise en charge.
 
-dataprocessor.exception.DefinitionUnspecified=La définition de données pour la série de catégories n'a pas été spécifiée.
+dataprocessor.exception.DefinitionUnspecified=La dÃ©finition de donnÃ©es pour la sÃ©rie de catÃ©gories n'a pas Ã©tÃ© spÃ©cifiÃ©e.
 
-dataprocessor.exception.DefnExpMustAssociateY=Une expression de définition de données doit être associée à la série verticale de valeurs {0} définie par {1}.
+dataprocessor.exception.DefnExpMustAssociateY=Une expression de dÃ©finition de donnÃ©es doit Ãªtre associÃ©e Ã  la sÃ©rie verticale de valeurs {0} dÃ©finie par {1}.
 
-dataprocessor.exception.AtLeastOneDefnExpMustAssociateY=Au moins une expression de définition de données doit être associée à la série verticale de valeurs {0} définie par {1}.
+dataprocessor.exception.AtLeastOneDefnExpMustAssociateY=Au moins une expression de dÃ©finition de donnÃ©es doit Ãªtre associÃ©e Ã  la sÃ©rie verticale de valeurs {0} dÃ©finie par {1}.
 
-dataprocessor.exception.CannotDecipher2=Impossible de déchiffrer le contenu d'un graphique contenant plusieurs définitions de série de catégories.
+dataprocessor.exception.CannotDecipher2=Impossible de dÃ©chiffrer le contenu d'un graphique contenant plusieurs dÃ©finitions de sÃ©rie de catÃ©gories.
 
-dataprocessor.log.XSeriesDefn=La définition de série X ({0}) sera utilisée en tant qu''expression statique.
+dataprocessor.log.XSeriesDefn=La dÃ©finition de sÃ©rie X ({0}) sera utilisÃ©e en tant qu''expression statique.
 
-dataprocessor.exception.FoundMoreThanOneDefnAssociateX=Détection de {0} définition(s) de données associée(s) à l''expression de série X. Seule une définition de données de série X est prise en charge.
+dataprocessor.exception.FoundMoreThanOneDefnAssociateX=DÃ©tection de {0} dÃ©finition(s) de donnÃ©es associÃ©e(s) Ã  l''expression de sÃ©rie X. Seule une dÃ©finition de donnÃ©es de sÃ©rie X est prise en charge.
 
-edataprocessor.xception.definitionsAssociatedWithX=La définition de données pour la série X n'a pas été spécifiée.
+edataprocessor.xception.definitionsAssociatedWithX=La dÃ©finition de donnÃ©es pour la sÃ©rie X n'a pas Ã©tÃ© spÃ©cifiÃ©e.
 
-dataprocessor.log.baseSeriesDefnBeStatic=La définition de série de catégories ({0}) sera utilisée en tant qu''expression statique.
+dataprocessor.log.baseSeriesDefnBeStatic=La dÃ©finition de sÃ©rie de catÃ©gories ({0}) sera utilisÃ©e en tant qu''expression statique.
 
-exception.data.max.row.count=Impossible de rendre un graphique qui lie {0} lignes de données.
+exception.data.max.row.count=Impossible de rendre un graphique qui lie {0} lignes de donnÃ©es.
 
 
 # Default chart title
-BarChart.Title=Titre du graphique à barres
+BarChart.Title=Titre du graphique Ã  barres
 
-LineChart.Title=Titre du graphique à lignes
+LineChart.Title=Titre du graphique Ã  lignes
 
 AreaChart.Title=Zone du titre du graphique
 
-PieChart.Title=Titre du graphique à secteurs
+PieChart.Title=Titre du graphique Ã  secteurs
 
-MeterChart.Title=Titre du graphique à cadrans
+MeterChart.Title=Titre du graphique Ã  cadrans
 
-ScatterChart.Title=Titre du graphique à nuage de points
+ScatterChart.Title=Titre du graphique Ã  nuage de points
 
 StockChart.Title=Titre du graphique d'actions
 
-BubbleChart.Title=Titre du graphique à bulles
+BubbleChart.Title=Titre du graphique Ã  bulles
 
-DifferenceChart.Title=Titre du graphique de différence
+DifferenceChart.Title=Titre du graphique de diffÃ©rence
 
 GanttChart.Title=Titre du graphique de Gantt
 
-TubeChart.Title=Titre du graphique à cylindres
+TubeChart.Title=Titre du graphique Ã  cylindres
 
-PyramidChart.Title=Titre du graphique à pyramides
+PyramidChart.Title=Titre du graphique Ã  pyramides
 
-ConeChart.Title=Titre du graphique à cônes
+ConeChart.Title=Titre du graphique Ã  cÃ´nes
 
-RadarChart.Title=Titre du graphique à radar
+RadarChart.Title=Titre du graphique Ã  radar
 
-ColumnChart.Title=Titre du graphique à colonnes
+ColumnChart.Title=Titre du graphique Ã  colonnes
 
-DoughnutChart.Title=Titre du graphique à anneaux
+DoughnutChart.Title=Titre du graphique Ã  anneaux

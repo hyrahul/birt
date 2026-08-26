@@ -8,7 +8,7 @@ ScriptMainTab.msg.engine.home=Inicio de motor
 
 ScriptMainTab.msg.temp.folder=Carpeta de plantillas
 
-ScriptMainTab.msg.debug.type=Tipo de depuración
+ScriptMainTab.msg.debug.type=Tipo de depuraciÃ³n
 
 ScriptMainTab.msg.task.type=Tipo de tarea
 
@@ -50,9 +50,9 @@ ScriptMainTab.error.msg.no.report.file=Archivo de informe no especificado.
 
 ScriptMainTab.error.msg.nonexist.report.file=El archivo de informe no existe.
 
-ScriptMainTab.error.msg.invalid.report.file=El archivo seleccionado no es un archivo de diseño de informe válido.
+ScriptMainTab.error.msg.invalid.report.file=El archivo seleccionado no es un archivo de diseÃ±o de informe vÃ¡lido.
 
-ScriptMainTab.error.msg.invalid.document.file=El archivo seleccionado no es un archivo de documento de informe válido.
+ScriptMainTab.error.msg.invalid.document.file=El archivo seleccionado no es un archivo de documento de informe vÃ¡lido.
 
 ScriptMainTab.title.eclipse.home=Directorio principal de Eclipse
 
@@ -68,7 +68,7 @@ ScriptMainTab.msg.select.engine.home=Seleccione un directorio de inicio de motor
 
 ScriptMainTab.msg.select.report.file=Seleccione un archivo de informe
 
-ScriptMainTab.button.text.search=Búsqueda...
+ScriptMainTab.button.text.search=BÃºsqueda...
 
 ScriptMainTab.button.text.variables=Variables...
 

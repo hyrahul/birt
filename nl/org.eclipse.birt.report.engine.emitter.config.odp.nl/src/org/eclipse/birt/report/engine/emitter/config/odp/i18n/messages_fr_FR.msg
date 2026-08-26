@@ -11,23 +11,23 @@
 
 ###########################################################
 #ODP Emitter
-ODPEmitter.Description=Configurez les options pour un rendu de rapport au format Présentation OpenDocument.
+ODPEmitter.Description=Configurez les options pour un rendu de rapport au format PrÃ©sentation OpenDocument.
 
-ODPEmitter.DisplayName=Présentation OpenDocument
+ODPEmitter.DisplayName=PrÃ©sentation OpenDocument
 
 ###########################################################
 #Option Display Value
 OptionDisplayValue.BidiProcessing=Traitement BIDI
 
-OptionDisplayValue.TextWrapping=Retour à la ligne automatique
+OptionDisplayValue.TextWrapping=Retour Ã  la ligne automatique
 
-OptionDisplayValue.PageOverFlow=Traitement du dépassement de page
+OptionDisplayValue.PageOverFlow=Traitement du dÃ©passement de page
 
 OptionDisplayValue.CLIP_CONTENT=Recadrer le contenu
 
-OptionDisplayValue.FIT_TO_PAGE_SIZE=Adapter à la taille de la page
+OptionDisplayValue.FIT_TO_PAGE_SIZE=Adapter Ã  la taille de la page
 
-OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=Répartir sur plusieurs pages
+OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=RÃ©partir sur plusieurs pages
 
 OptionDisplayValue.ENLARGE_PAGE_SIZE=Agrandir la taille de la page
 
@@ -37,16 +37,16 @@ OptionDisplayValue.ChartDpi=DPI de graphique
 
 ###########################################################
 #Option Description
-OptionDescription.BidiProcessing=Traitement BIDI utilisé.
+OptionDescription.BidiProcessing=Traitement BIDI utilisÃ©.
 
-OptionDescription.TextWrapping=Un retour à la ligne est nécessaire.
+OptionDescription.TextWrapping=Un retour Ã  la ligne est nÃ©cessaire.
 
-OptionDescription.PageOverFlow=Vérifiez comment répartir le contenu.
+OptionDescription.PageOverFlow=VÃ©rifiez comment rÃ©partir le contenu.
 
-OptionDescription.FontSubstitution=Vérification nécessaire pour savoir si le caractère existe dans la police sélectionnée.
+OptionDescription.FontSubstitution=VÃ©rification nÃ©cessaire pour savoir si le caractÃ¨re existe dans la police sÃ©lectionnÃ©e.
 
-OptionDescription.ChartDpi=DPI utilisé pour générer un graphique.
+OptionDescription.ChartDpi=DPI utilisÃ© pour gÃ©nÃ©rer un graphique.
 
 ###########################################################
 #tooltip
-Tooltip.ChartDpi=DPI utilisé par le moteur de graphique pour générer des graphiques. Par exemple, 192.
+Tooltip.ChartDpi=DPI utilisÃ© par le moteur de graphique pour gÃ©nÃ©rer des graphiques. Par exemple, 192.

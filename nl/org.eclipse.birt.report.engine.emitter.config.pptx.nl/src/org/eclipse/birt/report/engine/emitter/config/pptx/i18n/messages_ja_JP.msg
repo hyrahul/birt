@@ -11,48 +11,48 @@
 
 ###########################################################
 #PPT Emitter
-PPTXEmitter.Description=�P��t�@�C�� Web �A�[�J�C�u (MHTML) �`���Ń��|�[�g�������_�����O���邽�߂̃I�v�V������ݒ肵�܂��B
+PPTXEmitter.Description=単一ファイル Web アーカイブ (MHTML) 形式でレポートをレンダリングするためのオプションを設定します。
 
 PPTXEmitter.DisplayName=PowerPoint (PPTX)
 
 ###########################################################
 #Option Display Value
-OptionDisplayValue.BidiProcessing=�o�����e�L�X�g�̏���
+OptionDisplayValue.BidiProcessing=双方向テキストの処理
 
-OptionDisplayValue.TextWrapping=������̐܂�Ԃ�
+OptionDisplayValue.TextWrapping=文字列の折り返し
 
-OptionDisplayValue.PageOverFlow=�I�[�o�[�t���[���Ă���y�[�W�̏���
+OptionDisplayValue.PageOverFlow=オーバーフローしているページの処理
 
-OptionDisplayValue.CLIP_CONTENT=�R���e���c�̃N���b�s���O
+OptionDisplayValue.CLIP_CONTENT=コンテンツのクリッピング
 
-OptionDisplayValue.FIT_TO_PAGE_SIZE=�y�[�W�T�C�Y�ɍ��킹��
+OptionDisplayValue.FIT_TO_PAGE_SIZE=ページサイズに合わせる
 
-OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=�����y�[�W���o��
+OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=複数ページを出力
 
-OptionDisplayValue.ENLARGE_PAGE_SIZE=�y�[�W�T�C�Y��傫������
+OptionDisplayValue.ENLARGE_PAGE_SIZE=ページサイズを大きくする
 
-OptionDisplayValue.FontSubstitution=�t�H���g�̒u������
+OptionDisplayValue.FontSubstitution=フォントの置き換え
 
-OptionDisplayValue.ChartDpi=�O���t�� DPI
+OptionDisplayValue.ChartDpi=グラフの DPI
 
-OptionDisplayValue.RepaginateForPDF=PPTX �̃����_�����O�̃y�[�W���Ċ��蓖��
-OptionDisplayValue.EditMode=�ҏW���[�h
+OptionDisplayValue.RepaginateForPDF=PPTX のレンダリングのページ数再割り当て
+OptionDisplayValue.EditMode=編集モード
 
 ###########################################################
 #Option Description
-OptionDescription.BidiProcessing=�o�����e�L�X�g���T�|�[�g���܂��B
+OptionDescription.BidiProcessing=双方向テキストをサポートします。
 
-OptionDescription.TextWrapping=�������܂�Ԃ����Ƃ��ł��邩�ǂ����������܂��B
+OptionDescription.TextWrapping=文字列を折り返すことができるかどうかを示します。
 
-OptionDescription.PageOverFlow=�R���e���c�̏o�͕��@�𐧌䂵�܂��B
+OptionDescription.PageOverFlow=コンテンツの出力方法を制御します。
 
-OptionDescription.FontSubstitution=�w�肳�ꂽ�t�H���g�ŕ\���ł��Ȃ�����������ꍇ�́A�t�H���g�������I�ɑI�����܂��B
+OptionDescription.FontSubstitution=指定されたフォントで表示できない文字がある場合は、フォントを自動的に選択します。
 
-OptionDescription.ChartDpi=�O���t�̐����Ɏg�p���� DPI �ł��B
+OptionDescription.ChartDpi=グラフの生成に使用する DPI です。
 
-OptionDescription.RepaginateForPDF=PPTX �̃����_�����O�̃y�[�W���Ċ��蓖�āB
-OptionDescription.EditMode=PPTX �ɂ���ҏW�\�ȃR���|�[�l���g
+OptionDescription.RepaginateForPDF=PPTX のレンダリングのページ数再割り当て。
+OptionDescription.EditMode=PPTX にある編集可能なコンポーネント
 
 ###########################################################
 #tooltip
-Tooltip.ChartDpi=�O���t�G���W�����O���t�̐����Ɏg�p���� DPI �ł��B��: 192�B
+Tooltip.ChartDpi=グラフエンジンがグラフの生成に使用する DPI です。例: 192。

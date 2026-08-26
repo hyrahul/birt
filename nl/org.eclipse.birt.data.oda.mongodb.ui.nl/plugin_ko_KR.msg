@@ -18,12 +18,12 @@ oda.data.source.id=org.eclipse.birt.data.oda.mongodb
 #
 plugin.name=MongoDB Data Source ODA Designer
 newwizard.name=MongoDB Data Source
-newwizard.description=MongoDB µ¥ÀÌÅÍ ¿øº» ¿¬°á ÇÁ·ÎÇÊ »ı¼º
+newwizard.description=MongoDB ë°ì´í„° ì›ë³¸ ì—°ê²° í”„ë¡œí•„ ìƒì„±
 
-wizard.window.title=»õ MongoDB µ¥ÀÌÅÍ ¿øº» ÇÁ·ÎÇÊ
+wizard.window.title=ìƒˆ MongoDB ë°ì´í„° ì›ë³¸ í”„ë¡œí•„
 
 wizard.data.source.page.title=MongoDB Data Source
 profile.propertypage.name=MongoDB Data Source Connection Properties
-wizard.data.set.window.title=»õ MongoDB µ¥ÀÌÅÍ ÁıÇÕ
+wizard.data.set.window.title=ìƒˆ MongoDB ë°ì´í„° ì§‘í•©
 
-wizard.data.set.page.title=Äõ¸®
+wizard.data.set.page.title=ì¿¼ë¦¬

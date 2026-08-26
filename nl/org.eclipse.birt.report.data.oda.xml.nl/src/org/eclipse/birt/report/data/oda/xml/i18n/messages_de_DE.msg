@@ -1,6 +1,6 @@
 Connection.PropertiesMissing=Einige Verbindungseigenschaften sind nicht vorhanden.
 
-Connection.InvalidAppContext=Ungültiges AppContext.
+Connection.InvalidAppContext=UngÃ¼ltiges AppContext.
 
 Constants.DriverName=ODA-XML-Treiber
 
@@ -10,10 +10,10 @@ Query.QueryHasNotBeenPrepared=Die Abfrage wurde noch nicht vorbereitet.
 
 Query.ResultSetClosed=Ergebnis ist geschlossen.
 
-Query.InvalidQueryText=Der Abfragetext ist ungültig.
+Query.InvalidQueryText=Der Abfragetext ist ungÃ¼ltig.
 
 RelationInformation.InputStringCannotBeNull=Die Eingabe-Zeichenfolge darf nicht leer oder gleich Null sein.
 
-RelationInformation.InvalidDataTypeName=Der angegebene Datentypname ist ungültig.
+RelationInformation.InvalidDataTypeName=Der angegebene Datentypname ist ungÃ¼ltig.
 
 DateUtil.ConvertFails=Konvertierung in Datum ist fehlgeschlagen. Quelle:

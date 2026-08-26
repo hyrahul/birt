@@ -7,223 +7,223 @@
 Error.Msg001=En: There is a {0} in the {1}.
 
 ###########################################################
-Error.OutputFormatNotSupported=Ãâ·Â Çü½Ä {0}ÀÌ(°¡) Áö¿øµÇÁö ¾Ê½À´Ï´Ù.
+Error.OutputFormatNotSupported=ì¶œë ¥ í˜•ì‹ {0}ì´(ê°€) ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-Error.NullOutputFormat=·»´õ¸µ ¿É¼Ç¿¡ ´ëÇÑ OutputFormatÀÌ ³Î(null)ÀÔ´Ï´Ù.
+Error.NullOutputFormat=ë Œë”ë§ ì˜µì…˜ì— ëŒ€í•œ OutputFormatì´ ë„(null)ìž…ë‹ˆë‹¤.
 
-Error.InvalidParameter=ÀÏºÎ ÇÊ¼ö ¸Å°³ º¯¼ö °ªÀÌ ¼³Á¤µÇ¾î ÀÖÁö ¾Ê°Å³ª ºñÈ£È¯ µ¥ÀÌÅÍ Çü½ÄÀ¸·Î ¼³Á¤µÇ¾î ÀÖ½À´Ï´Ù.
+Error.InvalidParameter=ì¼ë¶€ í•„ìˆ˜ ë§¤ê°œ ë³€ìˆ˜ ê°’ì´ ì„¤ì •ë˜ì–´ ìžˆì§€ ì•Šê±°ë‚˜ ë¹„í˜¸í™˜ ë°ì´í„° í˜•ì‹ìœ¼ë¡œ ì„¤ì •ë˜ì–´ ìžˆìŠµë‹ˆë‹¤.
 
-Error.InvalidGroupParameter=º¸°í¼­ ¿£Áø¿¡¼­ ÀÌ¸§ÀÌ "{0}"ÀÎ ¸Å°³ º¯¼ö ±×·ìÀ» °è»êÇÏÁö ¸øÇß½À´Ï´Ù.
+Error.InvalidGroupParameter=ë³´ê³ ì„œ ì—”ì§„ì—ì„œ ì´ë¦„ì´ "{0}"ì¸ ë§¤ê°œ ë³€ìˆ˜ ê·¸ë£¹ì„ ê³„ì‚°í•˜ì§€ ëª»í–ˆìŠµë‹ˆë‹¤.
 
-Error.ParameterTypeIsInvalid=¸Å°³ º¯¼ö "{0}"ÀÇ À¯ÇüÀº "{2}"ÀÌ(°¡) ¾Æ´Ñ "{1}"ÀÌ¾î¾ß ÇÕ´Ï´Ù.
+Error.ParameterTypeIsInvalid=ë§¤ê°œ ë³€ìˆ˜ "{0}"ì˜ ìœ í˜•ì€ "{2}"ì´(ê°€) ì•„ë‹Œ "{1}"ì´ì–´ì•¼ í•©ë‹ˆë‹¤.
 
-Error.ParamValidationFailure=¸Å°³ º¯¼ö "{0}"ÀÇ À¯È¿¼º °Ë»ç¿¡ ½ÇÆÐÇß½À´Ï´Ù.
+Error.ParamValidationFailure=ë§¤ê°œ ë³€ìˆ˜ "{0}"ì˜ ìœ íš¨ì„± ê²€ì‚¬ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.
 
-Error.ParameterValueIsNull=ÇÊ¼ö ¸Å°³ º¯¼ö {0}ÀÌ(°¡) ¼³Á¤µÇÁö ¾Ê¾Ò½À´Ï´Ù.
+Error.ParameterValueIsNull=í•„ìˆ˜ ë§¤ê°œ ë³€ìˆ˜ {0}ì´(ê°€) ì„¤ì •ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
 
-Error.ParameterValueIsBlank=ÇÊ¼ö ¸Å°³ º¯¼ö {0}ÀÌ(°¡) ºñ¾î ÀÖ½À´Ï´Ù.
+Error.ParameterValueIsBlank=í•„ìˆ˜ ë§¤ê°œ ë³€ìˆ˜ {0}ì´(ê°€) ë¹„ì–´ ìžˆìŠµë‹ˆë‹¤.
 
-Error.ParamScriptValidationError=¸Å°³ º¯¼ö "{0}" ½ºÅ©¸³Æ® ¿øº» À¯È¿¼º °Ë»ç ¿À·ù
+Error.ParamScriptValidationError=ë§¤ê°œ ë³€ìˆ˜ "{0}" ìŠ¤í¬ë¦½íŠ¸ ì›ë³¸ ìœ íš¨ì„± ê²€ì‚¬ ì˜¤ë¥˜
 
-Error.ParameterGroupIsNotFoundByGroupname=ÀÌ¸§ÀÌ "{0}"ÀÎ ¸Å°³ º¯¼ö ±×·ìÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.
+Error.ParameterGroupIsNotFoundByGroupname=ì´ë¦„ì´ "{0}"ì¸ ë§¤ê°œ ë³€ìˆ˜ ê·¸ë£¹ì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-Error.ParameterInvalidGroupLevel=±×·ì "{0}"ÀÇ ¼öÁØ ¼ö°¡ ÁöÁ¤ÇÑ ¼ö¿Í ÀÏÄ¡ÇÏÁö ¾Ê½À´Ï´Ù.
+Error.ParameterInvalidGroupLevel=ê·¸ë£¹ "{0}"ì˜ ìˆ˜ì¤€ ìˆ˜ê°€ ì§€ì •í•œ ìˆ˜ì™€ ì¼ì¹˜í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-Error.InvalidDesignFile=µðÀÚÀÎ ÆÄÀÏ {0}¿¡ ¿À·ù°¡ ÀÖÀ¸¸ç ½ÇÇàÇÒ ¼ö ¾ø½À´Ï´Ù.
+Error.InvalidDesignFile=ë””ìžì¸ íŒŒì¼ {0}ì— ì˜¤ë¥˜ê°€ ìžˆìœ¼ë©° ì‹¤í–‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-Error.DesignFileNotFound=µðÀÚÀÎ ÆÄÀÏ {0}À»(¸¦) Ã£À» ¼ö ¾ø½À´Ï´Ù.
+Error.DesignFileNotFound=ë””ìžì¸ íŒŒì¼ {0}ì„(ë¥¼) ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-Error.CannotCreateExtensionInstance=º¸°í¼­ ¿£ÁøÀÌ {0} ÀÌ¹ÌÅÍ¸¦ ÃÊ±âÈ­ÇÏÁö ¸øÇß½À´Ï´Ù. ¼³Ä¡µÈ ÀÌ¹ÌÅÍÀÇ ÇÊ¼ö ¶óÀÌºê·¯¸®¸¦ È®ÀÎÇÏ½Ê½Ã¿À.
+Error.CannotCreateExtensionInstance=ë³´ê³ ì„œ ì—”ì§„ì´ {0} ì´ë¯¸í„°ë¥¼ ì´ˆê¸°í™”í•˜ì§€ ëª»í–ˆìŠµë‹ˆë‹¤. ì„¤ì¹˜ëœ ì´ë¯¸í„°ì˜ í•„ìˆ˜ ë¼ì´ë¸ŒëŸ¬ë¦¬ë¥¼ í™•ì¸í•˜ì‹­ì‹œì˜¤.
 
-Error.MissingComputedColumnExpression=°è»êµÈ ¿­ {0}¿¡ ´ëÇÑ ½ÄÀÌ ´©¶ôµÇ¾ú½À´Ï´Ù.
+Error.MissingComputedColumnExpression=ê³„ì‚°ëœ ì—´ {0}ì— ëŒ€í•œ ì‹ì´ ëˆ„ë½ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-Error.ParameterInGroupIsnotScalar=¸Å°³ º¯¼ö ±×·ì "{0}"ÀÇ ¸Å°³ º¯¼ö´Â ½ºÄ®¶ó¿©¾ß ÇÕ´Ï´Ù.
+Error.ParameterInGroupIsnotScalar=ë§¤ê°œ ë³€ìˆ˜ ê·¸ë£¹ "{0}"ì˜ ë§¤ê°œ ë³€ìˆ˜ëŠ” ìŠ¤ì¹¼ë¼ì—¬ì•¼ í•©ë‹ˆë‹¤.
 
-Error.ParameterEvaluationError=¸Å°³ º¯¼ö ±×·ì "{0}" °è»ê¿¡ ½ÇÆÐÇß½À´Ï´Ù.
+Error.ParameterEvaluationError=ë§¤ê°œ ë³€ìˆ˜ ê·¸ë£¹ "{0}" ê³„ì‚°ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.
 
-Error.InvalidEmitterID = ·»´õ¸µ ¿É¼Ç¿¡ ´ëÇÑ EmitterID {0}ÀÌ(°¡) Àß¸øµÇ¾ú½À´Ï´Ù.
+Error.InvalidEmitterID = ë Œë”ë§ ì˜µì…˜ì— ëŒ€í•œ EmitterID {0}ì´(ê°€) ìž˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
 ###########################################################
-Error.ErrorsOnPage=º¸°í¼­¸¦ »ý¼ºÇÏ´Â µµÁß ¿À·ù°¡ ¹ß»ýÇß½À´Ï´Ù.
+Error.ErrorsOnPage=ë³´ê³ ì„œë¥¼ ìƒì„±í•˜ëŠ” ë„ì¤‘ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-Error.Error=¿À·ù
+Error.Error=ì˜¤ë¥˜
 
-Error.ScriptFileLoadError=½ºÅ©¸³Æ® ÆÄÀÏ {0}À»(¸¦) ·ÎµåÇÒ ¼ö ¾ø½À´Ï´Ù.
+Error.ScriptFileLoadError=ìŠ¤í¬ë¦½íŠ¸ íŒŒì¼ {0}ì„(ë¥¼) ë¡œë“œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-Error.ScriptEvaluationError=½ºÅ©¸³Æ® "{0}"À»(¸¦) Æò°¡ÇÏ´Â µµÁß ¿À·ù°¡ ¹ß»ýÇß½À´Ï´Ù.:\n{1}
+Error.ScriptEvaluationError=ìŠ¤í¬ë¦½íŠ¸ "{0}"ì„(ë¥¼) í‰ê°€í•˜ëŠ” ë„ì¤‘ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.:\n{1}
 
-Error.TextualItemProcessingError=ÅØ½ºÆ® Ç×¸ñ {0}À»(¸¦) Ã³¸®ÇÏ´Â µµÁß ¹®Á¦°¡ ¹ß»ýÇß½À´Ï´Ù.
+Error.TextualItemProcessingError=í…ìŠ¤íŠ¸ í•­ëª© {0}ì„(ë¥¼) ì²˜ë¦¬í•˜ëŠ” ë„ì¤‘ ë¬¸ì œê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-Error.TableItemProcessingError=Å×ÀÌºí {0}À»(¸¦) Ã³¸®ÇÏ´Â µµÁß ¹®Á¦°¡ ¹ß»ýÇß½À´Ï´Ù.
+Error.TableItemProcessingError=í…Œì´ë¸” {0}ì„(ë¥¼) ì²˜ë¦¬í•˜ëŠ” ë„ì¤‘ ë¬¸ì œê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-Error.ExtendedItemGenerationError=È®Àå Ç×¸ñ {0}À»(¸¦) »ý¼ºÇÏ´Â µµÁß ¹®Á¦°¡ ¹ß»ýÇß½À´Ï´Ù.
+Error.ExtendedItemGenerationError=í™•ìž¥ í•­ëª© {0}ì„(ë¥¼) ìƒì„±í•˜ëŠ” ë„ì¤‘ ë¬¸ì œê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-Error.ExtendedItemRenderingError={0}ÀÇ È®Àå Ç×¸ñ {1}À»(¸¦) ·»´õ¸µÇÏ´Â µµÁß ¹®Á¦°¡ ¹ß»ýÇß½À´Ï´Ù.
+Error.ExtendedItemRenderingError={0}ì˜ í™•ìž¥ í•­ëª© {1}ì„(ë¥¼) ë Œë”ë§í•˜ëŠ” ë„ì¤‘ ë¬¸ì œê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-Error.GridItemProcessingError=´«±Ý {0}À»(¸¦) Ã³¸®ÇÏ´Â µµÁß ¹®Á¦°¡ ¹ß»ýÇß½À´Ï´Ù.
+Error.GridItemProcessingError=ëˆˆê¸ˆ {0}ì„(ë¥¼) ì²˜ë¦¬í•˜ëŠ” ë„ì¤‘ ë¬¸ì œê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-Error.ImageItemProcessingError=ÀÌ¹ÌÁö {0}À»(¸¦) Ã³¸®ÇÏ´Â µµÁß ¹®Á¦°¡ ¹ß»ýÇß½À´Ï´Ù.
+Error.ImageItemProcessingError=ì´ë¯¸ì§€ {0}ì„(ë¥¼) ì²˜ë¦¬í•˜ëŠ” ë„ì¤‘ ë¬¸ì œê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-Error.MissingImageFileError=ÀÌ¹ÌÁö ÆÄÀÏÀÌ ´©¶ôµÇ¾ú½À´Ï´Ù.
+Error.MissingImageFileError=ì´ë¯¸ì§€ íŒŒì¼ì´ ëˆ„ë½ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-Error.InvalidImageSourceError=Àß¸øµÈ ÀÌ¹ÌÁö ¿øº» Çü½ÄÀÔ´Ï´Ù.
+Error.InvalidImageSourceError=ìž˜ëª»ëœ ì´ë¯¸ì§€ ì›ë³¸ í˜•ì‹ìž…ë‹ˆë‹¤.
 
-Error.InvalidDatabaseImageError=Àß¸øµÈ µ¥ÀÌÅÍº£ÀÌ½º ÀÌ¹ÌÁöÀÔ´Ï´Ù. ÀÌ¹ÌÁö ½ÄÀº "{0}"ÀÔ´Ï´Ù.
+Error.InvalidDatabaseImageError=ìž˜ëª»ëœ ë°ì´í„°ë² ì´ìŠ¤ ì´ë¯¸ì§€ìž…ë‹ˆë‹¤. ì´ë¯¸ì§€ ì‹ì€ "{0}"ìž…ë‹ˆë‹¤.
 
-Error.EmbeddedExpressionError=³»ÀåµÈ ½Ä "{0}"À»(¸¦) Æò°¡ÇÏ´Â µµÁß ¿À·ù°¡ ¹ß»ýÇß½À´Ï´Ù.
+Error.EmbeddedExpressionError=ë‚´ìž¥ëœ ì‹ "{0}"ì„(ë¥¼) í‰ê°€í•˜ëŠ” ë„ì¤‘ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-Error.EmbeddedImageError=³»ÀåµÈ ÀÌ¹ÌÁö¸¦ Ã³¸®ÇÏ´Â µµÁß ¿À·ù°¡ ¹ß»ýÇß½À´Ï´Ù.
+Error.EmbeddedImageError=ë‚´ìž¥ëœ ì´ë¯¸ì§€ë¥¼ ì²˜ë¦¬í•˜ëŠ” ë„ì¤‘ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-Error.HTMLImageError=HTML <img> ÅÂ±×¿¡¼­ ³»ÀåµÈ ÀÌ¹ÌÁö¸¦ Ã³¸®ÇÏ´Â µµÁß ¿À·ù°¡ ¹ß»ýÇß½À´Ï´Ù.
+Error.HTMLImageError=HTML <img> íƒœê·¸ì—ì„œ ë‚´ìž¥ëœ ì´ë¯¸ì§€ë¥¼ ì²˜ë¦¬í•˜ëŠ” ë„ì¤‘ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-Error.UndefinedDatasetError=º¸°í¼­¿¡¼­ "{0}" µ¥ÀÌÅÍ ÁýÇÕÀÌ Á¤ÀÇµÇÁö ¾Ê¾Ò½À´Ï´Ù.
+Error.UndefinedDatasetError=ë³´ê³ ì„œì—ì„œ "{0}" ë°ì´í„° ì§‘í•©ì´ ì •ì˜ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
 
-Error.InvalidExpressionError=½Ä "{0}"ÀÌ(°¡) Àß¸øµÇ¾ú½À´Ï´Ù.
+Error.InvalidExpressionError=ì‹ "{0}"ì´(ê°€) ìž˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-Error.ListProcessingError=¸ñ·Ï Ç×¸ñ {0}À»(¸¦) Ã³¸®ÇÏ´Â µµÁß ¹®Á¦°¡ ¹ß»ýÇß½À´Ï´Ù.
+Error.ListProcessingError=ëª©ë¡ í•­ëª© {0}ì„(ë¥¼) ì²˜ë¦¬í•˜ëŠ” ë„ì¤‘ ë¬¸ì œê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-Error.ErrorOnReportPage=´ÙÀ½ Ç×¸ñ¿¡ ¿À·ù°¡ ÀÖ½À´Ï´Ù:
+Error.ErrorOnReportPage=ë‹¤ìŒ í•­ëª©ì— ì˜¤ë¥˜ê°€ ìžˆìŠµë‹ˆë‹¤:
 
 Error.ReportErrorMessage = {0} {1}:
 
 Error.ReportErrorMessageWithID = {0}(ID = {1}):
 
-Error.ReportErrorID = {0}({1}¹ø)
+Error.ReportErrorID = {0}({1}ë²ˆ)
 
-Error.ReportErrorDetail = »ó¼¼ Á¤º¸:
+Error.ReportErrorDetail = ìƒì„¸ ì •ë³´:
 
-Error.JarNotFoundError = Jar {0}À»(¸¦) Ã£À» ¼ö ¾ø½À´Ï´Ù.
+Error.JarNotFoundError = Jar {0}ì„(ë¥¼) ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-Error.ScriptClassCastError = Å¬·¡½º {0}ÀÌ(°¡) {1} ÀÎÅÍÆäÀÌ½º¸¦ ±¸ÇöÇÏÁö ¾Ê½À´Ï´Ù.
+Error.ScriptClassCastError = í´ëž˜ìŠ¤ {0}ì´(ê°€) {1} ì¸í„°íŽ˜ì´ìŠ¤ë¥¼ êµ¬í˜„í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-Error.ScriptClassNotFoundError = Å¬·¡½º {0}À»(¸¦) Ã£À» ¼ö ¾ø½À´Ï´Ù.
+Error.ScriptClassNotFoundError = í´ëž˜ìŠ¤ {0}ì„(ë¥¼) ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-Error.ScriptClassIllegalAccessError = Å¬·¡½º {0}À»(¸¦) ·ÎµåÇÏ·Á´Â Áß Àß¸øµÈ ¾×¼¼½º ¿¹¿Ü°¡ ¹ß»ýÇß½À´Ï´Ù.
+Error.ScriptClassIllegalAccessError = í´ëž˜ìŠ¤ {0}ì„(ë¥¼) ë¡œë“œí•˜ë ¤ëŠ” ì¤‘ ìž˜ëª»ëœ ì•¡ì„¸ìŠ¤ ì˜ˆì™¸ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-Error.ScriptClassInstantiationError = Å¬·¡½º {0}À»(¸¦) ÀÎ½ºÅÏ½ºÈ­ÇÒ ¼ö ¾ø½À´Ï´Ù. ÀÎÅÍÆäÀÌ½º ¶Ç´Â Ãß»ó Å¬·¡½º°¡ ¾Æ´ÑÁö È®ÀÎÇÏ½Ê½Ã¿À.
+Error.ScriptClassInstantiationError = í´ëž˜ìŠ¤ {0}ì„(ë¥¼) ì¸ìŠ¤í„´ìŠ¤í™”í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. ì¸í„°íŽ˜ì´ìŠ¤ ë˜ëŠ” ì¶”ìƒ í´ëž˜ìŠ¤ê°€ ì•„ë‹Œì§€ í™•ì¸í•˜ì‹­ì‹œì˜¤.
 
-Error.UnhandledScriptError = ½ºÅ©¸³Æ®¸¦ ½ÇÇàÇÏ´Â Áß Ã³¸®µÇÁö ¾ÊÀº ¿¹¿Ü°¡ ¹ß»ýÇß½À´Ï´Ù.
-
-###########################################################
-Error.PageNotFoundError = ÆäÀÌÁö {0}À»(¸¦) Ã£À» ¼ö ¾ø½À´Ï´Ù.
-
-Error.PageNumberRangeError = Àß¸øµÈ ÆäÀÌÁö ¹üÀ§: {0}.
-
-Error.PageHintLoadingError = ÆäÀÌÁö ÈùÆ®¸¦ ·ÎµåÇÒ ¼ö ¾ø½À´Ï´Ù.
-
-Error.PagesLoadingError = ÆäÀÌÁö {0}À»(¸¦) ·ÎµåÇÒ ¼ö ¾ø½À´Ï´Ù.
-
-Error.InvalidGroupError = Àß¸øµÈ ±×·ì: {0}.
-
-Error.InvalidExtensionError = Àß¸øµÈ ½Ä ID: {0}, Àß¸øµÈ Çü½Ä: {1}.
-
-Error.InvalidColumnIndexError = Àß¸øµÈ ¿­ ÀÎµ¦½º
-
-Error.InvalidInstanceIDError = Àß¸øµÈ ÀÎ½ºÅÏ½º ID: {0}.
-
-Error.InvalidBookmarkError = Àß¸øµÈ Ã¥°¥ÇÇ: {0}.
-
-Error.ExpressionEvaluationError = ´ÙÀ½ Ç¥½Ã À¯Çü ½ÄÀÌ ¿Ã¹Ù¸¥ ºÎ¿ï °ªÀ¸·Î °è»êµÇÁö ¾Ê½À´Ï´Ù: {0}.
-
-Error.BookmarkNotFoundError = Ã¥°¥ÇÇ¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù: {0}.
-
-Error.DateError = ³¯Â¥ ¿À·ù: {0}.
-
-Error.CubePositionError = Å¥ºê À§Ä¡ °¡Á®¿À±â ¿À·ù
-
-Error.SubqueryCreateError = ÇÏÀ§ Äõ¸®´Â ´Ù¸¥ ÇÏÀ§ Äõ¸®/Äõ¸®¿¡¼­¸¸ ¸¸µé ¼ö ÀÖ½À´Ï´Ù.
-
-Error.BindDataRetrivingError = ¹ÙÀÎµù µ¥ÀÌÅÍ °Ë»ö ¿À·ù
-
-Error.DataSourceError = µ¥ÀÌÅÍ ÁýÇÕÀÇ µ¥ÀÌÅÍ ¿øº»Àº ³Î(null)ÀÏ ¼ö ¾ø½À´Ï´Ù.
-
-Error.UnsupportedQueryDefinitionError = Áö¿øµÇÁö ¾Ê´Â Äõ¸® Á¤ÀÇ {0}
-
-Error.ReportQueryLoadingError = º¸°í¼­ Äõ¸® ·Îµå Áß ¿À·ù°¡ ¹ß»ýÇß½À´Ï´Ù. º¸°í¼­¸¦ »ý¼ºÇÏ±â À§ÇÑ µ¥ÀÌÅÍ¸¦ °Ë»öÇÒ ¼ö ¾ø½À´Ï´Ù.
-
-Error.ReportQueryLoadingError2 = º¸°í¼­ Äõ¸®¸¦ ·ÎµåÇÒ ¼ö ¾ø½À´Ï´Ù: {0}. ID°¡ {1}ÀÎ º¸°í¼­ ¿ä¼Ò¿¡ ´ëÇÑ º¸°í¼­ ¹®¼­¸¦ »ý¼ºÇÏ´Â µµÁß ¿À·ù°¡ ¹ß»ýÇß½À´Ï´Ù.
-
-Error.ExtentionIDMissingError = µ¥ÀÌÅÍ ¿øº» Á¤ÀÇ {0}¿¡¼­ È®Àå ID°¡ ´©¶ôµÇ¾ú½À´Ï´Ù.
-
-Error.DataExportionError = ÀÎ½ºÅÏ½º ID·Î µ¥ÀÌÅÍ¸¦ ³»º¸³»Áö ¸øÇß½À´Ï´Ù: {0}.
-
-Error.UnsupportedDocumentVersionError = Áö¿øµÇÁö ¾Ê´Â ¹®¼­ ¹öÀü: {0}.
-
-Error.ResultsetIteratorError = °á°ú ÁýÇÕ ¹Ýº¹ÀÚ¸¦ ¿Ã¹Ù¸¥ ÇàÀ¸·Î ÀÌµ¿ÇØ¾ß ÇÕ´Ï´Ù.
-
-Error.ReportDesignNotFoundError = º¸°í¼­ ¹®¼­ {0}¿¡¼­ º¸°í¼­ µðÀÚÀÎÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.
-
-Error.PreparedQueryNotFoundError = ÁØºñµÈ Äõ¸® {0}À»(¸¦) Ã£À» ¼ö ¾ø½À´Ï´Ù.
-
-Error.IncorrectParentResultSetError = ÇÏÀ§ Äõ¸®¿¡ ´ëÇÑ »óÀ§ °á°ú ÁýÇÕÀÌ Àß¸øµÇ¾ú½À´Ï´Ù: {0}.
-
-Error.UnsupportedQueryTypeError = Áö¿øµÇÁö ¾Ê´Â Äõ¸® Çü½Ä {0}
-
-Error.QueryNotBuiltError = ¿ä¼Ò {0}¿¡ ´ëÇÑ Äõ¸®¸¦ ÀÛ¼ºÇÏÁö ¸øÇß½À´Ï´Ù.
-
-Error.RenderTaskNotFinishedError = ·»´õ¸µ ÀÛ¾÷ÀÌ ¿Ï·áµÇÁö ¾Ê¾Ò½À´Ï´Ù.
-
-Error.RenderOptionError = º¸°í¼­¸¦ ·»´õ¸µÇÏ·Á¸é ·»´õ¸µ ¿É¼ÇÀ» ÁöÁ¤ÇØ¾ß ÇÕ´Ï´Ù.
-
-Error.ReportArchiveError = º¸°í¼­¸¦ ½ÇÇàÇÏ´Â µ¿¾È º¸°í¼­ º¸°üÀ» ÁöÁ¤ÇÏÁö ¾Ê¾Ò½À´Ï´Ù.
-
-Error.ReportDocNameNotSpecifiedError = º¸°í¼­¸¦ ½ÇÇàÇÏ´Â µ¿¾È º¸°í¼­ ¹®¼­ ÀÌ¸§À» ÁöÁ¤ÇÏÁö ¾Ê¾Ò½À´Ï´Ù.
-
-Error.ReportRunError = º¸°í¼­¸¦ ½ÇÇàÇÏ´Â µ¿¾È ¿À·ù°¡ ¹ß»ýÇß½À´Ï´Ù.
-
-Error.ReportDocmentOpenError = º¸°í¼­ ¹®¼­¸¦ ¿­Áö ¸øÇß½À´Ï´Ù.
-
-Error.ReportArchiveOpenError = º¸°í¼­ º¸°üÀ» ¿­Áö ¸øÇß½À´Ï´Ù.
-
-Error.SkipError = °Ç³Ê¶Ù´Â Áß ¿À·ù°¡ ¹ß»ýÇß½À´Ï´Ù.
-
-Error.ResultsetExtractError = °á°ú ÁýÇÕÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.
-
-Error.FailedToInitializeEmitter = ÀÌ¹ÌÅÍ¸¦ ÃÊ±âÈ­ÇÏÁö ¸øÇß½À´Ï´Ù.
+Error.UnhandledScriptError = ìŠ¤í¬ë¦½íŠ¸ë¥¼ ì‹¤í–‰í•˜ëŠ” ì¤‘ ì²˜ë¦¬ë˜ì§€ ì•Šì€ ì˜ˆì™¸ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
 ###########################################################
-PDFCreator = iText {1}À»(¸¦) »ç¿ëÇÏ´Â BIRT º¸°í¼­ ¿£Áø {0}
+Error.PageNotFoundError = íŽ˜ì´ì§€ {0}ì„(ë¥¼) ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
+
+Error.PageNumberRangeError = ìž˜ëª»ëœ íŽ˜ì´ì§€ ë²”ìœ„: {0}.
+
+Error.PageHintLoadingError = íŽ˜ì´ì§€ ížŒíŠ¸ë¥¼ ë¡œë“œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
+
+Error.PagesLoadingError = íŽ˜ì´ì§€ {0}ì„(ë¥¼) ë¡œë“œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
+
+Error.InvalidGroupError = ìž˜ëª»ëœ ê·¸ë£¹: {0}.
+
+Error.InvalidExtensionError = ìž˜ëª»ëœ ì‹ ID: {0}, ìž˜ëª»ëœ í˜•ì‹: {1}.
+
+Error.InvalidColumnIndexError = ìž˜ëª»ëœ ì—´ ì¸ë±ìŠ¤
+
+Error.InvalidInstanceIDError = ìž˜ëª»ëœ ì¸ìŠ¤í„´ìŠ¤ ID: {0}.
+
+Error.InvalidBookmarkError = ìž˜ëª»ëœ ì±…ê°ˆí”¼: {0}.
+
+Error.ExpressionEvaluationError = ë‹¤ìŒ í‘œì‹œ ìœ í˜• ì‹ì´ ì˜¬ë°”ë¥¸ ë¶€ìš¸ ê°’ìœ¼ë¡œ ê³„ì‚°ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤: {0}.
+
+Error.BookmarkNotFoundError = ì±…ê°ˆí”¼ë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤: {0}.
+
+Error.DateError = ë‚ ì§œ ì˜¤ë¥˜: {0}.
+
+Error.CubePositionError = íë¸Œ ìœ„ì¹˜ ê°€ì ¸ì˜¤ê¸° ì˜¤ë¥˜
+
+Error.SubqueryCreateError = í•˜ìœ„ ì¿¼ë¦¬ëŠ” ë‹¤ë¥¸ í•˜ìœ„ ì¿¼ë¦¬/ì¿¼ë¦¬ì—ì„œë§Œ ë§Œë“¤ ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
+
+Error.BindDataRetrivingError = ë°”ì¸ë”© ë°ì´í„° ê²€ìƒ‰ ì˜¤ë¥˜
+
+Error.DataSourceError = ë°ì´í„° ì§‘í•©ì˜ ë°ì´í„° ì›ë³¸ì€ ë„(null)ì¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
+
+Error.UnsupportedQueryDefinitionError = ì§€ì›ë˜ì§€ ì•ŠëŠ” ì¿¼ë¦¬ ì •ì˜ {0}
+
+Error.ReportQueryLoadingError = ë³´ê³ ì„œ ì¿¼ë¦¬ ë¡œë“œ ì¤‘ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤. ë³´ê³ ì„œë¥¼ ìƒì„±í•˜ê¸° ìœ„í•œ ë°ì´í„°ë¥¼ ê²€ìƒ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
+
+Error.ReportQueryLoadingError2 = ë³´ê³ ì„œ ì¿¼ë¦¬ë¥¼ ë¡œë“œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤: {0}. IDê°€ {1}ì¸ ë³´ê³ ì„œ ìš”ì†Œì— ëŒ€í•œ ë³´ê³ ì„œ ë¬¸ì„œë¥¼ ìƒì„±í•˜ëŠ” ë„ì¤‘ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
+
+Error.ExtentionIDMissingError = ë°ì´í„° ì›ë³¸ ì •ì˜ {0}ì—ì„œ í™•ìž¥ IDê°€ ëˆ„ë½ë˜ì—ˆìŠµë‹ˆë‹¤.
+
+Error.DataExportionError = ì¸ìŠ¤í„´ìŠ¤ IDë¡œ ë°ì´í„°ë¥¼ ë‚´ë³´ë‚´ì§€ ëª»í–ˆìŠµë‹ˆë‹¤: {0}.
+
+Error.UnsupportedDocumentVersionError = ì§€ì›ë˜ì§€ ì•ŠëŠ” ë¬¸ì„œ ë²„ì „: {0}.
+
+Error.ResultsetIteratorError = ê²°ê³¼ ì§‘í•© ë°˜ë³µìžë¥¼ ì˜¬ë°”ë¥¸ í–‰ìœ¼ë¡œ ì´ë™í•´ì•¼ í•©ë‹ˆë‹¤.
+
+Error.ReportDesignNotFoundError = ë³´ê³ ì„œ ë¬¸ì„œ {0}ì—ì„œ ë³´ê³ ì„œ ë””ìžì¸ì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
+
+Error.PreparedQueryNotFoundError = ì¤€ë¹„ëœ ì¿¼ë¦¬ {0}ì„(ë¥¼) ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
+
+Error.IncorrectParentResultSetError = í•˜ìœ„ ì¿¼ë¦¬ì— ëŒ€í•œ ìƒìœ„ ê²°ê³¼ ì§‘í•©ì´ ìž˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤: {0}.
+
+Error.UnsupportedQueryTypeError = ì§€ì›ë˜ì§€ ì•ŠëŠ” ì¿¼ë¦¬ í˜•ì‹ {0}
+
+Error.QueryNotBuiltError = ìš”ì†Œ {0}ì— ëŒ€í•œ ì¿¼ë¦¬ë¥¼ ìž‘ì„±í•˜ì§€ ëª»í–ˆìŠµë‹ˆë‹¤.
+
+Error.RenderTaskNotFinishedError = ë Œë”ë§ ìž‘ì—…ì´ ì™„ë£Œë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
+
+Error.RenderOptionError = ë³´ê³ ì„œë¥¼ ë Œë”ë§í•˜ë ¤ë©´ ë Œë”ë§ ì˜µì…˜ì„ ì§€ì •í•´ì•¼ í•©ë‹ˆë‹¤.
+
+Error.ReportArchiveError = ë³´ê³ ì„œë¥¼ ì‹¤í–‰í•˜ëŠ” ë™ì•ˆ ë³´ê³ ì„œ ë³´ê´€ì„ ì§€ì •í•˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
+
+Error.ReportDocNameNotSpecifiedError = ë³´ê³ ì„œë¥¼ ì‹¤í–‰í•˜ëŠ” ë™ì•ˆ ë³´ê³ ì„œ ë¬¸ì„œ ì´ë¦„ì„ ì§€ì •í•˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
+
+Error.ReportRunError = ë³´ê³ ì„œë¥¼ ì‹¤í–‰í•˜ëŠ” ë™ì•ˆ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
+
+Error.ReportDocmentOpenError = ë³´ê³ ì„œ ë¬¸ì„œë¥¼ ì—´ì§€ ëª»í–ˆìŠµë‹ˆë‹¤.
+
+Error.ReportArchiveOpenError = ë³´ê³ ì„œ ë³´ê´€ì„ ì—´ì§€ ëª»í–ˆìŠµë‹ˆë‹¤.
+
+Error.SkipError = ê±´ë„ˆë›°ëŠ” ì¤‘ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
+
+Error.ResultsetExtractError = ê²°ê³¼ ì§‘í•©ì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
+
+Error.FailedToInitializeEmitter = ì´ë¯¸í„°ë¥¼ ì´ˆê¸°í™”í•˜ì§€ ëª»í–ˆìŠµë‹ˆë‹¤.
 
 ###########################################################
-Error.FlashObjectNotSupported = ÇÃ·¡½Ã °³Ã¼ º¸°í¼­ Ç×¸ñÀº ÀÌ º¸°í¼­ Çü½Ä¿¡¼­ Áö¿øµÇÁö ¾Ê½À´Ï´Ù.
-
-Error.ReportItemNotSupported = ÇöÀç º¸°í¼­ Ç×¸ñÀº ÀÌ º¸°í¼­ Çü½Ä¿¡¼­ Áö¿øµÇÁö ¾Ê½À´Ï´Ù.
-
-Error.ResourceUnreachable = ÀÌ ¸®Æ÷Æ® Ç×¸ñÀÇ ¸®¼Ò½º¿¡ ¿¬°áÇÒ ¼ö ¾ø½À´Ï´Ù.
-
-Error.UpdateUserAgent = PDF ÆÄÀÏ¿¡¼­ ÇÃ·¡½Ã ÄÜÅÙÃ÷¸¦ º¸·Á¸é ÇÃ·¡½Ã Áö¿øÀ» È°¼ºÈ­ÇÏ°Å³ª ÃÖ½Å ¹öÀüÀÇ Adobe Reader¸¦ ´Ù¿î·ÎµåÇÏ½Ê½Ã¿À.
+PDFCreator = iText {1}ì„(ë¥¼) ì‚¬ìš©í•˜ëŠ” BIRT ë³´ê³ ì„œ ì—”ì§„ {0}
 
 ###########################################################
-Error.ReportRunnableNotSet = ½ÇÇà °¡´ÉÇÑ º¸°í¼­°¡ ¼³Á¤µÇÁö ¾Ê¾Ò½À´Ï´Ù.
+Error.FlashObjectNotSupported = í”Œëž˜ì‹œ ê°œì²´ ë³´ê³ ì„œ í•­ëª©ì€ ì´ ë³´ê³ ì„œ í˜•ì‹ì—ì„œ ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-Error.FailedToLoadTOCTree = TOC Æ®¸®¸¦ ·ÎµåÇÏÁö ¸øÇß½À´Ï´Ù.
+Error.ReportItemNotSupported = í˜„ìž¬ ë³´ê³ ì„œ í•­ëª©ì€ ì´ ë³´ê³ ì„œ í˜•ì‹ì—ì„œ ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-Error.ExceptionOnFetchingBookmarks = Ã¥°¥ÇÇ¸¦ °¡Á®¿À´Â µµÁß ¿¹¿Ü°¡ ¹ß»ýÇß½À´Ï´Ù.
+Error.ResourceUnreachable = ì´ ë¦¬í¬íŠ¸ í•­ëª©ì˜ ë¦¬ì†ŒìŠ¤ì— ì—°ê²°í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-Error.FailedToSaveDesign = µðÀÚÀÎÀ» ÀúÀåÇÏÁö ¸øÇß½À´Ï´Ù.
-
-Error.ExceptionOnCopyingArchives = ¾ÆÄ«ÀÌºê¸¦ º¹»çÇÏ´Â µ¿¾È ¿¹¿Ü°¡ ¹ß»ýÇß½À´Ï´Ù.
-
-Error.UnsupportedCoreStreamVersion = Áö¿øµÇÁö ¾Ê´Â ÄÚ¾î ½ºÆ®¸² ¹öÀüÀÔ´Ï´Ù: {0}.
-
-Error.UnsupportedEngineExtension = Áö¿øµÇÁö ¾Ê´Â ¿£Áø È®Àå¸í {0}ÀÔ´Ï´Ù.
-
-Error.FailToCreateDataEngine = µ¥ÀÌÅÍ ¿£ÁøÀ» »ý¼ºÇÒ ¼ö ¾ø½À´Ï´Ù.
-
-Error.FailedToCreateTOC = TOC¸¦ »ý¼ºÇÏÁö ¸øÇß½À´Ï´Ù.
-
-Error.UnsupportedExprssionType = Áö¿øµÇÁö ¾Ê´Â ½Ä Çü½ÄÀÔ´Ï´Ù.
-
-Error.UnknownContentVersion = ¾Ë ¼ö ¾ø´Â ÄÜÅÙÃ÷ ¹öÀüÀÔ´Ï´Ù.
-
-Error.UnknownFieldID = ¾Ë ¼ö ¾ø´Â ÇÊµå IDÀÔ´Ï´Ù: {0}.
-
-Error.ResourceNotAccessible = {0}¿¡ ¾×¼¼½ºÇÒ ¼ö ¾ø½À´Ï´Ù.
-
-Error.ERROR_WITH_STATUS=¹®¼­¿¡ ¿À·ù°¡ ÀÖ½À´Ï´Ù: {0}.
+Error.UpdateUserAgent = PDF íŒŒì¼ì—ì„œ í”Œëž˜ì‹œ ì½˜í…ì¸ ë¥¼ ë³´ë ¤ë©´ í”Œëž˜ì‹œ ì§€ì›ì„ í™œì„±í™”í•˜ê±°ë‚˜ ìµœì‹  ë²„ì „ì˜ Adobe Readerë¥¼ ë‹¤ìš´ë¡œë“œí•˜ì‹­ì‹œì˜¤.
 
 ###########################################################
-Error.ElementID = ¿ä¼Ò ID
+Error.ReportRunnableNotSet = ì‹¤í–‰ ê°€ëŠ¥í•œ ë³´ê³ ì„œê°€ ì„¤ì •ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
+
+Error.FailedToLoadTOCTree = TOC íŠ¸ë¦¬ë¥¼ ë¡œë“œí•˜ì§€ ëª»í–ˆìŠµë‹ˆë‹¤.
+
+Error.ExceptionOnFetchingBookmarks = ì±…ê°ˆí”¼ë¥¼ ê°€ì ¸ì˜¤ëŠ” ë„ì¤‘ ì˜ˆì™¸ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
+
+Error.FailedToSaveDesign = ë””ìžì¸ì„ ì €ìž¥í•˜ì§€ ëª»í–ˆìŠµë‹ˆë‹¤.
+
+Error.ExceptionOnCopyingArchives = ì•„ì¹´ì´ë¸Œë¥¼ ë³µì‚¬í•˜ëŠ” ë™ì•ˆ ì˜ˆì™¸ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
+
+Error.UnsupportedCoreStreamVersion = ì§€ì›ë˜ì§€ ì•ŠëŠ” ì½”ì–´ ìŠ¤íŠ¸ë¦¼ ë²„ì „ìž…ë‹ˆë‹¤: {0}.
+
+Error.UnsupportedEngineExtension = ì§€ì›ë˜ì§€ ì•ŠëŠ” ì—”ì§„ í™•ìž¥ëª… {0}ìž…ë‹ˆë‹¤.
+
+Error.FailToCreateDataEngine = ë°ì´í„° ì—”ì§„ì„ ìƒì„±í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
+
+Error.FailedToCreateTOC = TOCë¥¼ ìƒì„±í•˜ì§€ ëª»í–ˆìŠµë‹ˆë‹¤.
+
+Error.UnsupportedExprssionType = ì§€ì›ë˜ì§€ ì•ŠëŠ” ì‹ í˜•ì‹ìž…ë‹ˆë‹¤.
+
+Error.UnknownContentVersion = ì•Œ ìˆ˜ ì—†ëŠ” ì½˜í…ì¸  ë²„ì „ìž…ë‹ˆë‹¤.
+
+Error.UnknownFieldID = ì•Œ ìˆ˜ ì—†ëŠ” í•„ë“œ IDìž…ë‹ˆë‹¤: {0}.
+
+Error.ResourceNotAccessible = {0}ì— ì•¡ì„¸ìŠ¤í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
+
+Error.ERROR_WITH_STATUS=ë¬¸ì„œì— ì˜¤ë¥˜ê°€ ìžˆìŠµë‹ˆë‹¤: {0}.
 
 ###########################################################
-Message.TaskCancel = ÀÛ¾÷ÀÌ Ãë¼ÒµÇ¾ú½À´Ï´Ù.
+Error.ElementID = ìš”ì†Œ ID
+
+###########################################################
+Message.TaskCancel = ìž‘ì—…ì´ ì·¨ì†Œë˜ì—ˆìŠµë‹ˆë‹¤.

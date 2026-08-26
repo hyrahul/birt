@@ -10,7 +10,7 @@
 #  
 #************************************************************************
 #
-mDbConnection_failedToOpenConn=Kann Verbindung mit den angegebenen Eigenschaften nicht öffnen.
+mDbConnection_failedToOpenConn=Kann Verbindung mit den angegebenen Eigenschaften nicht Ã¶ffnen.
 
 mDbConnection_invalidDatabaseName=Die angegebene Datenbank ({0}) existiert nicht.
 
@@ -22,72 +22,72 @@ mDbDriver_missingValueServerHost=Fehlender erforderlicher Wert in der Eigenschaf
 
 mDbDriver_nonDefinedDataType=Nicht definiert
 
-mDbDriver_readPrefNearest=nächstes
+mDbDriver_readPrefNearest=nÃ¤chstes
 
-mDbDriver_readPrefPrimary=primär
+mDbDriver_readPrefPrimary=primÃ¤r
 
 mDbDriver_readPrefPrimaryPreferred=primaryPreferred
-mDbDriver_readPrefSecondary=sekundär
+mDbDriver_readPrefSecondary=sekundÃ¤r
 
 mDbDriver_readPrefSecondaryPreferred=secondaryPreferred
 mDbDSMetaData_dataSourceName=MongoDB Data Source
-mDbMetaData_invalidCollectionName=Ungültiger Sammlungsname: {0}
+mDbMetaData_invalidCollectionName=UngÃ¼ltiger Sammlungsname: {0}
 
-mDbMetaData_missingCmdExprText=Fehlender Ausdruck für den {0} Befehlsvorgang.
+mDbMetaData_missingCmdExprText=Fehlender Ausdruck fÃ¼r den {0} Befehlsvorgang.
 
-mDbQuery_invalidQueryExecQuery=Die Abfrage ist ungültig und kann nicht ausgeführt werden.
+mDbQuery_invalidQueryExecQuery=Die Abfrage ist ungÃ¼ltig und kann nicht ausgefÃ¼hrt werden.
 
-mDbQuery_invalidQueryGetMD=Die Abfrage ist ungültig und kann die Metadata-Ergebnisse nicht vorbereiten.
+mDbQuery_invalidQueryGetMD=Die Abfrage ist ungÃ¼ltig und kann die Metadata-Ergebnisse nicht vorbereiten.
 
 driverUtil_invalidExpr=Unerwarteter Ausdruckstyp: {0}.
 
 driverUtil_parsingError=Fehler bei der Analyse des JSON-Ausdrucks: {0}
 
-mDbOp_aggrCmdFailed=Ausführen des Aggregatbefehlsvorgangs nicht möglich. \nPrüfen Sie, ob der verbundene MongoDB-Server Version 2.2 oder höher ist.
+mDbOp_aggrCmdFailed=AusfÃ¼hren des Aggregatbefehlsvorgangs nicht mÃ¶glich. \nPrÃ¼fen Sie, ob der verbundene MongoDB-Server Version 2.2 oder hÃ¶her ist.
 
-mDbOp_dbCmdFailed=Ausführen des Befehlsvorgangs ({0}) nicht möglich
+mDbOp_dbCmdFailed=AusfÃ¼hren des Befehlsvorgangs ({0}) nicht mÃ¶glich
 
-mDbOp_invalidQueryExpr=Ungültiger Abfrageausdruck; Ausführen der Abfrage nicht möglich.
+mDbOp_invalidQueryExpr=UngÃ¼ltiger Abfrageausdruck; AusfÃ¼hren der Abfrage nicht mÃ¶glich.
 
-mDbOp_mapReduceCmdFailed=Ausführen des MapReduce-Befehlsvorgangs ({0}) nicht möglich
+mDbOp_mapReduceCmdFailed=AusfÃ¼hren des MapReduce-Befehlsvorgangs ({0}) nicht mÃ¶glich
 
-mDbOp_noCmdResults=Keine Befehlsergebnisse verfügbar.
+mDbOp_noCmdResults=Keine Befehlsergebnisse verfÃ¼gbar.
 
 mDbResultSet_cannotConvertFieldData=Feldwert '{0}' ({1}) in Datentyp {2} kann nicht in Wert {3} konvertiert werden
 
 queryModel_emptyExprErrorMsg=<leerer Ausdruck>
 
-queryModel_invalidCollectionName=Ungültiger Sammlungsname (${0}).
+queryModel_invalidCollectionName=UngÃ¼ltiger Sammlungsname (${0}).
 
-queryModel_invalidDbCmdKeyValue=Der Datenbankbefehl ({0}) wird nur unterstützt mit: \n {1}
+queryModel_invalidDbCmdKeyValue=Der Datenbankbefehl ({0}) wird nur unterstÃ¼tzt mit: \n {1}
 
-queryModel_invalidModelToExec=Ungültige Abfragedefinition; Ausführen der Abfrage nicht möglich.
+queryModel_invalidModelToExec=UngÃ¼ltige Abfragedefinition; AusfÃ¼hren der Abfrage nicht mÃ¶glich.
 
-queryModel_invalidModelToPrepare=Ungültige Abfragedefinition; Vorbereiten der Abfrage nicht möglich.
+queryModel_invalidModelToPrepare=UngÃ¼ltige Abfragedefinition; Vorbereiten der Abfrage nicht mÃ¶glich.
 
-queryModel_invalidPipelineOp=Ungültiger Pipeline-Vorgang: {0}
+queryModel_invalidPipelineOp=UngÃ¼ltiger Pipeline-Vorgang: {0}
 
-queryModel_invalidQuerySortExpr=Ein Abfragesortierungsausdruck muss einen positiven oder negativen Wert für die Sortierungsreihenfolge angeben: \n {0}
+queryModel_invalidQuerySortExpr=Ein Abfragesortierungsausdruck muss einen positiven oder negativen Wert fÃ¼r die Sortierungsreihenfolge angeben: \n {0}
 
-queryModel_invalidSortAggrValue=Ein {0} Pipeline-Vorgang muss einen Wert von 1 oder -1 im Sortierschlüssel festlegen: \n {1}
+queryModel_invalidSortAggrValue=Ein {0} Pipeline-Vorgang muss einen Wert von 1 oder -1 im SortierschlÃ¼ssel festlegen: \n {1}
 
 queryModel_missingCollectionName=Es ist keine MongoDB-Sammlung in der Datensatz-Abfrage definiert.
 
 queryModel_missingGroupAggrKey=Ein {0} Pipeline-Vorgang muss ein {1} Feld festlegen: \n {2}
 
-queryModel_missingMapReduceKey=Der Befehlsausdruck fehlt im erforderlichen Schlüssel: {0}
+queryModel_missingMapReduceKey=Der Befehlsausdruck fehlt im erforderlichen SchlÃ¼ssel: {0}
 
-queryModel_missingMapReduceValue=Der Befehlsausdrucksschlüssel {0} erfordert einen Wert.
+queryModel_missingMapReduceValue=Der BefehlsausdrucksschlÃ¼ssel {0} erfordert einen Wert.
 
 queryModel_missingQueryProps=Es ist keine Abfrage im Datensatz definiert.
 
-queryModel_nonSupportedDbCmd=Der Datenbankbefehlstyp wird nicht unterstützt: \n {0}
+queryModel_nonSupportedDbCmd=Der Datenbankbefehlstyp wird nicht unterstÃ¼tzt: \n {0}
 
 queryProperties_aggrCmdName=Aggregat
 
-queryProperties_dbCmdName=Befehl 'Datenbank ausführen'
+queryProperties_dbCmdName=Befehl 'Datenbank ausfÃ¼hren'
 
-queryProperties_errDeSerializeDBObject=Deserialisieren des MongoDB-Ausdrucks nicht möglich: {0}
+queryProperties_errDeSerializeDBObject=Deserialisieren des MongoDB-Ausdrucks nicht mÃ¶glich: {0}
 
 queryProperties_mapReduceCmdName=MapReduce
-resultDataHandler_invalidFieldName=Ungültiger Feldname: {0}
+resultDataHandler_invalidFieldName=UngÃ¼ltiger Feldname: {0}

@@ -8,10 +8,10 @@
 # * Contributors:
 # *  Actuate Corporation  - initial API and implementation
 # *******************************************************************************/
-design.xmlsource=XML ソース(&X)
+design.xmlsource=XML 繧ｽ繝ｼ繧ｹ(&X)
 
-template.xmlsource=XML ソース(&X)
+template.xmlsource=XML 繧ｽ繝ｼ繧ｹ(&X)
 
-library.xmlsource=XML ソース(&X)
+library.xmlsource=XML 繧ｽ繝ｼ繧ｹ(&X)
 
-pageSet.source=XML ソースページ(&X)
+pageSet.source=XML 繧ｽ繝ｼ繧ｹ繝壹�ｼ繧ｸ(&X)

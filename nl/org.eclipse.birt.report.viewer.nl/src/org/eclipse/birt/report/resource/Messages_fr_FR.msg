@@ -14,83 +14,83 @@ birt.viewer.title.navigation=Navigation
 
 birt.viewer.title.error=Erreur
 
-birt.viewer.title.complete=Terminé
+birt.viewer.title.complete=TerminÃ©
 
 birt.viewer.title.message=Message
 
-birt.viewer.parameter=Paramètre
+birt.viewer.parameter=ParamÃ¨tre
 
-birt.viewer.runreport=Exécuter l'état
+birt.viewer.runreport=ExÃ©cuter l'Ã©tat
 
-birt.viewer.required=Les paramètres portant un <FONT COLOR="red">*</FONT> sont requis.
+birt.viewer.required=Les paramÃ¨tres portant un <FONT COLOR="red">*</FONT> sont requis.
 
 birt.viewer.viewinpdf=Afficher au format PDF
 
-birt.viewer.maximize=Masquer les paramètres de l'état
+birt.viewer.maximize=Masquer les paramÃ¨tres de l'Ã©tat
 
-birt.viewer.restore=Afficher les paramètres de l'état
+birt.viewer.restore=Afficher les paramÃ¨tres de l'Ã©tat
 
 birt.viewer.error=Message d'erreur
 
-birt.viewer.error.noparameter=Il n'existe aucun paramètre pour cet état.
+birt.viewer.error.noparameter=Il n'existe aucun paramÃ¨tre pour cet Ã©tat.
 
-birt.viewer.error.parameter.invalid=Le paramètre "{0}" n''est pas valide.
+birt.viewer.error.parameter.invalid=Le paramÃ¨tre "{0}" n''est pas valide.
 
 birt.viewer.error.noprinter=Impossible de trouver une imprimante disponible qui prend en charge le format postscript.
 
 birt.viewer.error.unknownerror=Erreur inconnue.
 
-birt.viewer.error.generatereportfirst=L'état doit être généré en premier.
+birt.viewer.error.generatereportfirst=L'Ã©tat doit Ãªtre gÃ©nÃ©rÃ© en premier.
 
 birt.viewer.error.copiesnumber=Saisissez un nombre de copies valide.
 
-birt.viewer.error.parameterrequired=La valeur du paramètre requis [{0}] n'est pas spécifiée.
+birt.viewer.error.parameterrequired=La valeur du paramÃ¨tre requis [{0}] n'est pas spÃ©cifiÃ©e.
 
-birt.viewer.error.parameternotallowblank=Le paramètre "{0}" doit être renseigné.
+birt.viewer.error.parameternotallowblank=Le paramÃ¨tre "{0}" doit Ãªtre renseignÃ©.
 
-birt.viewer.error.parameternotselected=Veuillez sélectionner une valeur pour le paramètre "{0}".
+birt.viewer.error.parameternotselected=Veuillez sÃ©lectionner une valeur pour le paramÃ¨tre "{0}".
 
-birt.viewer.error.noviewingsession=La session de visualisation n'est pas disponible ou a expiré.
+birt.viewer.error.noviewingsession=La session de visualisation n'est pas disponible ou a expirÃ©.
 
-birt.viewer.error.viewingsessionexpired=La session de visualisation a expiré.
+birt.viewer.error.viewingsessionexpired=La session de visualisation a expirÃ©.
 
-birt.viewer.error.viewingsessionlocked=La session de visualisation est verrouillée et ne peut pas être arrêtée.
+birt.viewer.error.viewingsessionlocked=La session de visualisation est verrouillÃ©e et ne peut pas Ãªtre arrÃªtÃ©e.
 
 birt.viewer.error.viewingsessionmaxreached=Vous avez atteint le nombre maximum de sessions de visualisation.
 
-birt.viewer.error.columnrequired=Aucune colonne sélectionnée, veuillez sélectionner au moins une colonne à exporter.
+birt.viewer.error.columnrequired=Aucune colonne sÃ©lectionnÃ©e, veuillez sÃ©lectionner au moins une colonne Ã  exporter.
 
-birt.viewer.message.taskcanceled=L'opération en cours a été annulée.
+birt.viewer.message.taskcanceled=L'opÃ©ration en cours a Ã©tÃ© annulÃ©e.
 
 ###############################################################################
 # Toolbar
 ###############################################################################
-birt.viewer.toolbar.print=Imprimer l'état
+birt.viewer.toolbar.print=Imprimer l'Ã©tat
 
-birt.viewer.toolbar.printserver=Imprimer l'état sur le serveur
+birt.viewer.toolbar.printserver=Imprimer l'Ã©tat sur le serveur
 
-birt.viewer.toolbar.toc=Afficher la table des matières
+birt.viewer.toolbar.toc=Afficher la table des matiÃ¨res
 
-birt.viewer.toolbar.parameter=Exécuter l'état
+birt.viewer.toolbar.parameter=ExÃ©cuter l'Ã©tat
 
-birt.viewer.toolbar.export=Exporter les données
+birt.viewer.toolbar.export=Exporter les donnÃ©es
 
 birt.viewer.toolbar.font=Modifier la police
 
 birt.viewer.toolbar.enableiv=Invoquer le visualiseur interactif
 
-birt.viewer.toolbar.exportreport=Exporter l'état
+birt.viewer.toolbar.exportreport=Exporter l'Ã©tat
 
 ###############################################################################
 # navbar
 ###############################################################################
-birt.viewer.navbar.first=Première page
+birt.viewer.navbar.first=PremiÃ¨re page
 
-birt.viewer.navbar.previous=Page précédente
+birt.viewer.navbar.previous=Page prÃ©cÃ©dente
 
 birt.viewer.navbar.next=Page suivante
 
-birt.viewer.navbar.last=Dernière page
+birt.viewer.navbar.last=DerniÃ¨re page
 
 birt.viewer.navbar.goto=Atteindre
 
@@ -100,14 +100,14 @@ birt.viewer.navbar.prompt.one=Affichage de la page
 
 birt.viewer.navbar.prompt.two=sur
 
-birt.viewer.navbar.error.blankpagenum=Entrez un numéro de page valide.
+birt.viewer.navbar.error.blankpagenum=Entrez un numÃ©ro de page valide.
 
 ###############################################################################
 # progress bar
 ###############################################################################
 birt.viewer.progressbar.prompt=Traitement en cours, patientez...
 
-birt.viewer.progressbar.confirmcanceltask=Souhaitez-vous annuler l'opération en cours ?
+birt.viewer.progressbar.confirmcanceltask=Souhaitez-vous annuler l'opÃ©ration en cours ?
 
 ###############################################################################
 # Dialog 
@@ -116,7 +116,7 @@ birt.viewer.dialog.ok=OK
 
 birt.viewer.dialog.cancel=Annuler
 
-birt.viewer.dialog.run=Exécuter l'état
+birt.viewer.dialog.run=ExÃ©cuter l'Ã©tat
 
 birt.viewer.dialog.close=Fermer
 
@@ -128,24 +128,24 @@ birt.viewer.dialog.page.current=Page en cours
 
 birt.viewer.dialog.page.range=Pages :
 
-birt.viewer.dialog.page.range.description=(Entrez le(s) numéro(s) de page et/ou la(les) série(s) de pages. Par exemple : 1-6 ou 1,3,6)
+birt.viewer.dialog.page.range.description=(Entrez le(s) numÃ©ro(s) de page et/ou la(les) sÃ©rie(s) de pages. Par exemple : 1-6 ou 1,3,6)
 
-birt.viewer.dialog.page.error.invalidpagerange=Série de page incorrecte
+birt.viewer.dialog.page.error.invalidpagerange=SÃ©rie de page incorrecte
 
 ###############################################################################
 # Dialog title
 ###############################################################################
 birt.viewer.dialog.exception.title=Exception
 
-birt.viewer.dialog.exportReport.title=Exporter l'état
+birt.viewer.dialog.exportReport.title=Exporter l'Ã©tat
 
-birt.viewer.dialog.parameter.title=Paramètre
+birt.viewer.dialog.parameter.title=ParamÃ¨tre
 
-birt.viewer.dialog.simpleExportData.title=Exporter les données
+birt.viewer.dialog.simpleExportData.title=Exporter les donnÃ©es
 
-birt.viewer.dialog.printReport.title=Imprimer l'état
+birt.viewer.dialog.printReport.title=Imprimer l'Ã©tat
 
-birt.viewer.dialog.printReportServer.title=Imprimer l'état sur le serveur
+birt.viewer.dialog.printReportServer.title=Imprimer l'Ã©tat sur le serveur
 
 ###############################################################################
 # Export report dialog 
@@ -154,23 +154,23 @@ birt.viewer.dialog.export.format=Format d'exportation :
 
 birt.viewer.dialog.export.format.pdf=PDF
 birt.viewer.dialog.export.format.excel=EXCEL
-birt.viewer.dialog.export.all=Exporter l'état détaillé
+birt.viewer.dialog.export.all=Exporter l'Ã©tat dÃ©taillÃ©
 
-birt.viewer.dialog.export.all.detail=Toutes les données d'état disponibles seront exportées quelles que soient<br>les modifications dans la vue en cours.
+birt.viewer.dialog.export.all.detail=Toutes les donnÃ©es d'Ã©tat disponibles seront exportÃ©es quelles que soient<br>les modifications dans la vue en cours.
 
-birt.viewer.dialog.export.modified=Exporter l'état avec les modifications en cours
+birt.viewer.dialog.export.modified=Exporter l'Ã©tat avec les modifications en cours
 
-birt.viewer.dialog.export.modified.detail=Seules les données visibles seront exportées. Les données<BR>filtrées ou masquées ne seront pas exportées.
+birt.viewer.dialog.export.modified.detail=Seules les donnÃ©es visibles seront exportÃ©es. Les donnÃ©es<BR>filtrÃ©es ou masquÃ©es ne seront pas exportÃ©es.
 
-birt.viewer.dialog.export.pdf.fitto=Ajuster à
+birt.viewer.dialog.export.pdf.fitto=Ajuster Ã 
 
 birt.viewer.dialog.export.pdf.fittoauto=Auto
 
-birt.viewer.dialog.export.pdf.fittoactual=Taille réelle
+birt.viewer.dialog.export.pdf.fittoactual=Taille rÃ©elle
 
-birt.viewer.dialog.export.pdf.fittowidth=Ajuster à la largeur de la page
+birt.viewer.dialog.export.pdf.fittowidth=Ajuster Ã  la largeur de la page
 
-birt.viewer.dialog.export.pdf.fittowhole=Ajuster à la page
+birt.viewer.dialog.export.pdf.fittowhole=Ajuster Ã  la page
 
 ###############################################################################
 # Print Report dialog 
@@ -179,7 +179,7 @@ birt.viewer.dialog.print.format=Format d'impression
 
 birt.viewer.dialog.print.format.html=HTML
 birt.viewer.dialog.print.format.pdf=PDF
-birt.viewer.dialog.print.printpreviewalreadyopen=Une fenêtre Aperçu avant impression est déjà ouverte.
+birt.viewer.dialog.print.printpreviewalreadyopen=Une fenÃªtre AperÃ§u avant impression est dÃ©jÃ  ouverte.
 
 ###############################################################################
 # Print report on the server dialog 
@@ -190,15 +190,15 @@ birt.viewer.dialog.printserver.printer=Imprimante :
 
 birt.viewer.dialog.printserver.status=Etat :
 
-birt.viewer.dialog.printserver.model=Modèle :
+birt.viewer.dialog.printserver.model=ModÃ¨le :
 
 birt.viewer.dialog.printserver.description=Description :
 
-birt.viewer.dialog.printserver.status.acceptingjobs=Acceptation des tâches
+birt.viewer.dialog.printserver.status.acceptingjobs=Acceptation des tÃ¢ches
 
-birt.viewer.dialog.printserver.status.notacceptingjobs=Tâches non acceptées
+birt.viewer.dialog.printserver.status.notacceptingjobs=TÃ¢ches non acceptÃ©es
 
-birt.viewer.dialog.printserver.settings=Spécifiez les paramètres d'impression
+birt.viewer.dialog.printserver.settings=SpÃ©cifiez les paramÃ¨tres d'impression
 
 birt.viewer.dialog.printserver.settings.copies=Nombre de copies :
 
@@ -222,7 +222,7 @@ birt.viewer.dialog.printserver.settings.pagesize=Format de papier :
 
 birt.viewer.dialog.printserver.settings.print=Imprimer :
 
-birt.viewer.dialog.printserver.complete=Fichier de document envoyé à l'imprimante sélectionnée sur le serveur.
+birt.viewer.dialog.printserver.complete=Fichier de document envoyÃ© Ã  l'imprimante sÃ©lectionnÃ©e sur le serveur.
 
 birt.viewer.dialog.printserver.error.noprinter=Aucune imprimante
 ###############################################################################
@@ -233,15 +233,15 @@ birt.viewer.dialog.confirmation.title=Confirmation
 ###############################################################################
 # Export data dialog 
 ###############################################################################
-birt.viewer.dialog.exportdata.tab.field=Champs de données
+birt.viewer.dialog.exportdata.tab.field=Champs de donnÃ©es
 
-birt.viewer.dialog.exportdata.tab.filter=Critères de filtrage
+birt.viewer.dialog.exportdata.tab.filter=CritÃ¨res de filtrage
 
-birt.viewer.dialog.exportdata.resultsets=Jeux de résultats disponibles
+birt.viewer.dialog.exportdata.resultsets=Jeux de rÃ©sultats disponibles
 
 birt.viewer.dialog.exportdata.availablecolumn=Colonnes disponibles
 
-birt.viewer.dialog.exportdata.selectedcolumn=Colonnes sélectionnées
+birt.viewer.dialog.exportdata.selectedcolumn=Colonnes sÃ©lectionnÃ©es
 
 birt.viewer.dialog.exportdata.extension=Format d'exportation :
 
@@ -263,13 +263,13 @@ birt.viewer.dialog.exportdata.up=Vers le haut
 
 birt.viewer.dialog.exportdata.down=Vers le bas
 
-birt.viewer.dialog.exportdata.separator=Séparateur :
+birt.viewer.dialog.exportdata.separator=SÃ©parateur :
 
-birt.viewer.dialog.exportdata.datatype=Exporter le type de données de la colonne
+birt.viewer.dialog.exportdata.datatype=Exporter le type de donnÃ©es de la colonne
 
-birt.viewer.dialog.exportdata.localeneutral=Exporter la colonne comme paramètres régionaux
+birt.viewer.dialog.exportdata.localeneutral=Exporter la colonne comme paramÃ¨tres rÃ©gionaux
 
-birt.viewer.dialog.exportdata.carriage_return=Exporter les données avec retour chariot
+birt.viewer.dialog.exportdata.carriage_return=Exporter les donnÃ©es avec retour chariot
 
 birt.viewer.sep.0=Virgule ( , )
 
@@ -286,44 +286,44 @@ birt.viewer.sep.4=Tabulation ( \\t )
 ###############################################################################
 birt.viewer.generalException.DOCUMENT_FILE_ERROR=Le fichier de document {0} n''existe pas ou contient des erreurs.
 
-birt.viewer.generalException.DOCUMENT_ACCESS_ERROR=Impossible d''accéder au fichier de document {0}.
+birt.viewer.generalException.DOCUMENT_ACCESS_ERROR=Impossible d''accÃ©der au fichier de document {0}.
 
-birt.viewer.generalException.REPORT_FILE_ERROR=Le fichier d''état {0} n''existe pas ou contient des erreurs.
+birt.viewer.generalException.REPORT_FILE_ERROR=Le fichier d''Ã©tat {0} n''existe pas ou contient des erreurs.
 
-birt.viewer.generalException.REPORT_ACCESS_ERROR=Impossible d''accéder au fichier d''état {0}.
+birt.viewer.generalException.REPORT_ACCESS_ERROR=Impossible d''accÃ©der au fichier d''Ã©tat {0}.
 
-birt.viewer.generalException.DOCUMENT_FILE_PROCESSING=Traitement du fichier de document en cours, veuillez réessayer ultérieurement.
+birt.viewer.generalException.DOCUMENT_FILE_PROCESSING=Traitement du fichier de document en cours, veuillez rÃ©essayer ultÃ©rieurement.
 
-birt.viewer.generalException.NO_REPORT_DESIGN=Aucun objet de modèle d'état n'est disponible.
+birt.viewer.generalException.NO_REPORT_DESIGN=Aucun objet de modÃ¨le d'Ã©tat n'est disponible.
 
 birt.viewer.generalException.MULTIPLE_EXCEPTIONS=Plusieurs exceptions se sont produites.
 
 ###############################################################################
 # Report service exception
 ###############################################################################
-birt.viewer.reportServiceException.EXTRACT_DATA_NO_DOCUMENT=Aucun fichier de document disponible pour l'extraction des données.
+birt.viewer.reportServiceException.EXTRACT_DATA_NO_DOCUMENT=Aucun fichier de document disponible pour l'extraction des donnÃ©es.
 
-birt.viewer.reportServiceException.EXTRACT_DATA_NO_RESULT_SET=Aucun ensemble de résultats disponible pour l'extraction des données.
+birt.viewer.reportServiceException.EXTRACT_DATA_NO_RESULT_SET=Aucun ensemble de rÃ©sultats disponible pour l'extraction des donnÃ©es.
 
 birt.viewer.reportServiceException.INVALID_TOC=Fichier TOC non valide.
 
-birt.viewer.reportServiceException.INVALID_PARAMETER=Paramètre non valide : {0} (non défini).
+birt.viewer.reportServiceException.INVALID_PARAMETER=ParamÃ¨tre non valide : {0} (non dÃ©fini).
 
-birt.viewer.reportServiceException.STARTUP_REPORTENGINE_ERROR=Une erreur fatale s'est produite lors de la tentative de lancement du moteur d'états.
+birt.viewer.reportServiceException.STARTUP_REPORTENGINE_ERROR=Une erreur fatale s'est produite lors de la tentative de lancement du moteur d'Ã©tats.
 
-birt.viewer.reportServiceException.INVALID_EXTRACTFORMAT=Le format d'extraction des données n'est pas valide ou n'est pas spécifié.
+birt.viewer.reportServiceException.INVALID_EXTRACTFORMAT=Le format d'extraction des donnÃ©es n'est pas valide ou n'est pas spÃ©cifiÃ©.
 
-birt.viewer.reportServiceException.INVALID_EXTRACTEXTENSION=L'extension .id d'extraction des données n'est pas valide.
+birt.viewer.reportServiceException.INVALID_EXTRACTEXTENSION=L'extension .id d'extraction des donnÃ©es n'est pas valide.
 ###############################################################################
 # Birt action handler exception
 ###############################################################################
 birt.viewer.actionException.NO_REPORT_DOCUMENT=Instance de document de rapport vide.
 
-birt.viewer.actionException.INVALID_BOOKMARK=Le signet {0} n''est pas valide. Vérifiez-le, puis réinitialisez le lien.
+birt.viewer.actionException.INVALID_BOOKMARK=Le signet {0} n''est pas valide. VÃ©rifiez-le, puis rÃ©initialisez le lien.
 
-birt.viewer.actionException.INVALID_PAGE_NUMBER=Numéro de page {0} sur {1} non valide.
+birt.viewer.actionException.INVALID_PAGE_NUMBER=NumÃ©ro de page {0} sur {1} non valide.
 
-birt.viewer.actionException.PAGE_NUMBER_PARSE_ERROR=Le numéro de page : {0} n'est pas valide.
+birt.viewer.actionException.PAGE_NUMBER_PARSE_ERROR=Le numÃ©ro de page : {0} n'est pas valide.
 
 birt.viewer.actionException.INVALID_ID_FORMAT=Format d'ID non valide. Id={0}.
 
@@ -332,12 +332,12 @@ birt.viewer.actionException.DOCUMENT_FILE_NO_EXIST=Expiration de la session ou a
 ###############################################################################
 # Birt soap bingding impl exception
 ###############################################################################
-birt.viewer.soapBindingException.NO_HANDLER_FOR_TARGET=Aucun gestionnaire trouvé pour cette cible. Cible : {0}.
+birt.viewer.soapBindingException.NO_HANDLER_FOR_TARGET=Aucun gestionnaire trouvÃ© pour cette cible. Cible : {0}.
 
 ###############################################################################
 # Component processor exception
 ###############################################################################
-birt.viewer.componentProcessorException.MISSING_OPERATOR=Erreur : Opérateur manquant !
+birt.viewer.componentProcessorException.MISSING_OPERATOR=Erreur : OpÃ©rateur manquant !
 
 ###############################################################################
 # Exception dialog
@@ -351,26 +351,26 @@ birt.viewer.exceptionDialog.hideStackTrace=Trace de la pile - Masquer l'exceptio
 ###############################################################################
 # Birt Viewer JSP Taglib
 ###############################################################################
-birt.viewer.taglib.NO_ATTR_ID=L'ID de l'attribut doit être spécifié.
+birt.viewer.taglib.NO_ATTR_ID=L'ID de l'attribut doit Ãªtre spÃ©cifiÃ©.
 
-birt.viewer.taglib.INVALID_ATTR_ID=L'ID de l'attribut contient des caractères non valides.
+birt.viewer.taglib.INVALID_ATTR_ID=L'ID de l'attribut contient des caractÃ¨res non valides.
 
-birt.viewer.taglib.ATTR_ID_DUPLICATE=L'ID de l'attribut doit être unique.
+birt.viewer.taglib.ATTR_ID_DUPLICATE=L'ID de l'attribut doit Ãªtre unique.
 
-birt.viewer.taglib.PARAM_NAME_DUPLICATE=Le nom du paramètre ne peut être dupliqué.
+birt.viewer.taglib.PARAM_NAME_DUPLICATE=Le nom du paramÃ¨tre ne peut Ãªtre dupliquÃ©.
 
-birt.viewer.taglib.NO_REPORT_SOURCE=Un modèle d'état ou un document doit être spécifié.
+birt.viewer.taglib.NO_REPORT_SOURCE=Un modÃ¨le d'Ã©tat ou un document doit Ãªtre spÃ©cifiÃ©.
 
-birt.viewer.taglib.NO_REPORT_DOCUMENT=L'état est requis par le reportlet.
+birt.viewer.taglib.NO_REPORT_DOCUMENT=L'Ã©tat est requis par le reportlet.
 
 birt.viewer.taglib.NO_REQUESTER_NAME=L'attribut "name" de la balise parameterPage est requis.
 
 ###############################################################################
 # Birt Viewer Message
 ###############################################################################
-birt.viewer.message.document.successful=Génération de l'état réussie.
+birt.viewer.message.document.successful=GÃ©nÃ©ration de l'Ã©tat rÃ©ussie.
 
 ###############################################################################
 # Birt Viewer General Exceptions
 ###############################################################################
-birt.viewer.exception.maybe_disabled_cookies=Cela peut être dû à la désactivation des cookies côté client.
+birt.viewer.exception.maybe_disabled_cookies=Cela peut Ãªtre dÃ» Ã  la dÃ©sactivation des cookies cÃ´tÃ© client.

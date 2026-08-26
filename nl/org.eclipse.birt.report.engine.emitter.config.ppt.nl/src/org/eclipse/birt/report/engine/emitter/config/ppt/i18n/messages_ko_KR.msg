@@ -11,46 +11,46 @@
 
 ###########################################################
 #PPT Emitter
-PPTEmitter.Description=À¥ º¸°ü ÆÄÀÏ(MHTML) Çü½ÄÀÇ º¸°í¼­ ·»´õ¸µ ¿É¼ÇÀ» ±¸¼ºÇÕ´Ï´Ù.
+PPTEmitter.Description=ì›¹ ë³´ê´€ íŒŒì¼(MHTML) í˜•ì‹ì˜ ë³´ê³ ì„œ ë Œë”ë§ ì˜µì…˜ì„ êµ¬ì„±í•©ë‹ˆë‹¤.
 
 PPTEmitter.DisplayName=PowerPoint (PPT)
 
 ###########################################################
 #Option Display Value
-OptionDisplayValue.BidiProcessing=BIDI Ã³¸®
+OptionDisplayValue.BidiProcessing=BIDI ì²˜ë¦¬
 
-OptionDisplayValue.TextWrapping=ÅØ½ºÆ® ¹èÄ¡
+OptionDisplayValue.TextWrapping=í…ìŠ¤íŠ¸ ë°°ì¹˜
 
-OptionDisplayValue.PageOverFlow=ÆäÀÌÁö ¿À¹öÇÃ·Î Ã³¸®
+OptionDisplayValue.PageOverFlow=íŽ˜ì´ì§€ ì˜¤ë²„í”Œë¡œ ì²˜ë¦¬
 
-OptionDisplayValue.CLIP_CONTENT=³»¿ë ÀÚ¸£±â
+OptionDisplayValue.CLIP_CONTENT=ë‚´ìš© ìžë¥´ê¸°
 
-OptionDisplayValue.FIT_TO_PAGE_SIZE=ÆäÀÌÁö Å©±â¿¡ ¸ÂÃß±â
+OptionDisplayValue.FIT_TO_PAGE_SIZE=íŽ˜ì´ì§€ í¬ê¸°ì— ë§žì¶”ê¸°
 
-OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=¿©·¯ ÆäÀÌÁö·Î Ãâ·Â
+OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=ì—¬ëŸ¬ íŽ˜ì´ì§€ë¡œ ì¶œë ¥
 
-OptionDisplayValue.ENLARGE_PAGE_SIZE=ÆäÀÌÁö Å©±â È®´ë
+OptionDisplayValue.ENLARGE_PAGE_SIZE=íŽ˜ì´ì§€ í¬ê¸° í™•ëŒ€
 
-OptionDisplayValue.FontSubstitution=±Û²Ã ´ëÃ¼
+OptionDisplayValue.FontSubstitution=ê¸€ê¼´ ëŒ€ì²´
 
-OptionDisplayValue.ChartDpi=Â÷Æ® DPI
+OptionDisplayValue.ChartDpi=ì°¨íŠ¸ DPI
 
-OptionDisplayValue.Export2Office2010And2013=Microsoft Office 2010/2013 Çü½ÄÀ¸·Î ÆÄÀÏ ³»º¸³»±â
+OptionDisplayValue.Export2Office2010And2013=Microsoft Office 2010/2013 í˜•ì‹ìœ¼ë¡œ íŒŒì¼ ë‚´ë³´ë‚´ê¸°
 
 ###########################################################
 #Option Description
-OptionDescription.BidiProcessing=¾ç¹æÇâ ÅØ½ºÆ®¸¦ Áö¿øÇÕ´Ï´Ù.
+OptionDescription.BidiProcessing=ì–‘ë°©í–¥ í…ìŠ¤íŠ¸ë¥¼ ì§€ì›í•©ë‹ˆë‹¤.
 
-OptionDescription.TextWrapping=ÅØ½ºÆ® ÁÙ ¹Ù²Þ °¡´É ¿©ºÎ¸¦ ³ªÅ¸³À´Ï´Ù.
+OptionDescription.TextWrapping=í…ìŠ¤íŠ¸ ì¤„ ë°”ê¿ˆ ê°€ëŠ¥ ì—¬ë¶€ë¥¼ ë‚˜íƒ€ëƒ…ë‹ˆë‹¤.
 
-OptionDescription.PageOverFlow=³»¿ë Ãâ·Â ¹æ½ÄÀ» Á¦¾îÇÕ´Ï´Ù.
+OptionDescription.PageOverFlow=ë‚´ìš© ì¶œë ¥ ë°©ì‹ì„ ì œì–´í•©ë‹ˆë‹¤.
 
-OptionDescription.FontSubstitution=ÁöÁ¤µÈ ±Û²ÃÀÌ ¹®ÀÚ¸¦ Ç¥½ÃÇÏÁö ¸øÇÏ´Â °æ¿ì ÀÚµ¿À¸·Î ±Û²ÃÀ» ¼±ÅÃÇÕ´Ï´Ù.
+OptionDescription.FontSubstitution=ì§€ì •ëœ ê¸€ê¼´ì´ ë¬¸ìžë¥¼ í‘œì‹œí•˜ì§€ ëª»í•˜ëŠ” ê²½ìš° ìžë™ìœ¼ë¡œ ê¸€ê¼´ì„ ì„ íƒí•©ë‹ˆë‹¤.
 
-OptionDescription.ChartDpi=DPI´Â Â÷Æ®¸¦ »ý¼ºÇÏ´Â µ¥ »ç¿ëÇÕ´Ï´Ù.
+OptionDescription.ChartDpi=DPIëŠ” ì°¨íŠ¸ë¥¼ ìƒì„±í•˜ëŠ” ë° ì‚¬ìš©í•©ë‹ˆë‹¤.
 
-OptionDescription.Export2Office2010And2013=Office 2010/2013 »ç¿ë ½Ã PPT¿¡¼­ .mht Çü½ÄÀ» Áö¿øÇÕ´Ï´Ù.
+OptionDescription.Export2Office2010And2013=Office 2010/2013 ì‚¬ìš© ì‹œ PPTì—ì„œ .mht í˜•ì‹ì„ ì§€ì›í•©ë‹ˆë‹¤.
 
 ###########################################################
 #tooltip
-Tooltip.ChartDpi=Â÷Æ® ¿£Áø¿¡¼­ Â÷Æ®¸¦ »ý¼ºÇÏ´Â µ¥ »ç¿ëÇÏ´Â DPIÀÔ´Ï´Ù. ¿¹: 192.
+Tooltip.ChartDpi=ì°¨íŠ¸ ì—”ì§„ì—ì„œ ì°¨íŠ¸ë¥¼ ìƒì„±í•˜ëŠ” ë° ì‚¬ìš©í•˜ëŠ” DPIìž…ë‹ˆë‹¤. ì˜ˆ: 192.

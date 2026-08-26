@@ -12,7 +12,7 @@ preference.crosstabPage=Kreuztabelle
 
 crosstab.menu=Kr&euztabelle
 
-Crosstab.desc=Fügen Sie eine Kreuztabelle ein, um aggregierte Daten im Zeilen-/Spalten-Format anzuzeigen.
+Crosstab.desc=FÃ¼gen Sie eine Kreuztabelle ein, um aggregierte Daten im Zeilen-/Spalten-Format anzuzeigen.
 
 newcube.menu=Neuer D&atenquader
 

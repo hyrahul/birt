@@ -18,7 +18,7 @@ dataset.property.rowFetchSize=Taille d'ext&raction de lignes
 #
 oda.data.source.name=Classic Models Inc. Sample Database
 
-connection.profile.name=Profil de connexion à la source de données de la BD exemple BIRT
+connection.profile.name=Profil de connexion Ã  la source de donnÃ©es de la BD exemple BIRT
 #
 #  Below NLS messages apply to all ODA data sources; should be re-factored
 #

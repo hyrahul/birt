@@ -17,7 +17,7 @@ oda.data.source.id=org.eclipse.birt.data.oda.pojo
 #
 plugin.name=BIRT POJO Data Source ODA Designer
 newwizard.name=BIRT POJO Data Source
-newwizard.description=Verbindungsprofil für BIRT POJO-Datenquelle erstellen
+newwizard.description=Verbindungsprofil fÃ¼r BIRT POJO-Datenquelle erstellen
 
 wizard.window.title=Neues BIRT POJO-Datenquellenprofil
 

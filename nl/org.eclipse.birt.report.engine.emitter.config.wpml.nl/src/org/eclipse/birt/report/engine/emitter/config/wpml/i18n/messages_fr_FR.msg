@@ -21,8 +21,8 @@ OptionDisplayValue.ChartDpi=DPI de graphique
 
 ###########################################################
 #Option Description
-OptionDescription.ChartDpi=DPI utilisé pour générer un graphique.
+OptionDescription.ChartDpi=DPI utilisÃ© pour gÃ©nÃ©rer un graphique.
 
 ###########################################################
 #tooltip
-Tooltip.ChartDpi=DPI utilisé par le moteur de graphique pour générer des graphiques. Par exemple, 192.
+Tooltip.ChartDpi=DPI utilisÃ© par le moteur de graphique pour gÃ©nÃ©rer des graphiques. Par exemple, 192.

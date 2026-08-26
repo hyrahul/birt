@@ -12,9 +12,9 @@
 ###############################################################################
 # NLS String
 ###############################################################################
-oda.xml.datasource=Source de données XML
+oda.xml.datasource=Source de donnÃ©es XML
 
-oda.xml.dataset=Jeu de données XML
+oda.xml.dataset=Jeu de donnÃ©es XML
 
 oda.xml.tablemapping=Mise en correspondance de table
 
@@ -28,21 +28,21 @@ oda.parent.category.id=org.eclipse.datatools.connectivity.oda.profileCategory
 # NLS messages
 #
 plugin.name=BIRT ODA XML Designer
-oda.data.source.name=Source de données XML héritée BIRT 2.1.x
+oda.data.source.name=Source de donnÃ©es XML hÃ©ritÃ©e BIRT 2.1.x
 
-connection.profile.name=Profil de connexion à la source de données XML
+connection.profile.name=Profil de connexion Ã  la source de donnÃ©es XML
 
-newwizard.name=Source de données XML héritée BIRT 2.1.x
+newwizard.name=Source de donnÃ©es XML hÃ©ritÃ©e BIRT 2.1.x
 
-newwizard.description=Créer un profil de connexion à une source de données XML BIRT 2.1.x
+newwizard.description=CrÃ©er un profil de connexion Ã  une source de donnÃ©es XML BIRT 2.1.x
 
-wizard.window.title=Nouveau profil de source de données XML
+wizard.window.title=Nouveau profil de source de donnÃ©es XML
 
-wizard.data.source.page.title=Définir les URL du fichier XML et les informations du schéma
+wizard.data.source.page.title=DÃ©finir les URL du fichier XML et les informations du schÃ©ma
 
-profile.propertypage.name=Propriétés de la connexion à la source de données XML
+profile.propertypage.name=PropriÃ©tÃ©s de la connexion Ã  la source de donnÃ©es XML
 
-preference.datasetpreview=Jeu de données XML
+preference.datasetpreview=Jeu de donnÃ©es XML
 #
 #  Below NLS messages apply to all ODA data sources; should be re-factored
 #

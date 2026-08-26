@@ -17,68 +17,68 @@ Build=@BUILD@
 ###############################################################################
 # General Info
 ###############################################################################
-ReportWizardDescription=ÀÌ ¸¶¹ı»ç´Â ¹Ì¸® Á¤ÀÇµÈ ÅÛÇÃ¸´¿¡¼­ »õ º¸°í¼­¸¦ »ı¼ºÇÕ´Ï´Ù.
+ReportWizardDescription=ì´ ë§ˆë²•ì‚¬ëŠ” ë¯¸ë¦¬ ì •ì˜ëœ í…œí”Œë¦¿ì—ì„œ ìƒˆ ë³´ê³ ì„œë¥¼ ìƒì„±í•©ë‹ˆë‹¤.
 
-ReportProjectWizardDescription=»õ º¸°í¼­ ÇÁ·ÎÁ§Æ®¸¦ »ı¼ºÇÕ´Ï´Ù.
+ReportProjectWizardDescription=ìƒˆ ë³´ê³ ì„œ í”„ë¡œì íŠ¸ë¥¼ ìƒì„±í•©ë‹ˆë‹¤.
 
-ReportPerspective=º¸°í¼­ µğÀÚÀÎ
+ReportPerspective=ë³´ê³ ì„œ ë””ìì¸
 
-ReportViews=º¸°í¼­ µğÀÚÀÎ
+ReportViews=ë³´ê³ ì„œ ë””ìì¸
 
 WizardCategoryName=Business Intelligence and Reporting Tools
-ReportWizard=º¸°í¼­
+ReportWizard=ë³´ê³ ì„œ
 
-ReportProjectWizard=º¸°í¼­ ÇÁ·ÎÁ§Æ®
+ReportProjectWizard=ë³´ê³ ì„œ í”„ë¡œì íŠ¸
 
-ReportEditor=º¸°í¼­ ÆíÁı±â
+ReportEditor=ë³´ê³ ì„œ í¸ì§‘ê¸°
 
 
 ###############################################################################
 # UI Framework
 ###############################################################################
-designer.ui.extensionPointName=º¸°í¼­ È®Àå ¿ä¼Ò UI
+designer.ui.extensionPointName=ë³´ê³ ì„œ í™•ì¥ ìš”ì†Œ UI
 
 ###############################################################################
 # Preference
 ###############################################################################
-preference.birt=º¸°í¼­ µğÀÚÀÎ
+preference.birt=ë³´ê³ ì„œ ë””ìì¸
 
-preference.datasetpreview=µ¥ÀÌÅÍ ÁıÇÕ ÆíÁı±â
+preference.datasetpreview=ë°ì´í„° ì§‘í•© í¸ì§‘ê¸°
 
-preference.preview=¹Ì¸® º¸±â
+preference.preview=ë¯¸ë¦¬ ë³´ê¸°
 
-preference.preview.server=¹Ì¸®º¸±â ¼­¹ö
+preference.preview.server=ë¯¸ë¦¬ë³´ê¸° ì„œë²„
 
-preference.elementnames=¿ä¼Ò ÀÌ¸§
+preference.elementnames=ìš”ì†Œ ì´ë¦„
 
-preference.library=¶óÀÌºê·¯¸®
+preference.library=ë¼ì´ë¸ŒëŸ¬ë¦¬
 
-preference.template=ÅÛÇÃ¸´
+preference.template=í…œí”Œë¦¿
 
-preference.resource=¸®¼Ò½º
+preference.resource=ë¦¬ì†ŒìŠ¤
 
-preference.commenttemplates=¼³¸í ÅÛÇÃ¸´
+preference.commenttemplates=ì„¤ëª… í…œí”Œë¦¿
 #hcg_bidi
-preference.bidiproperties=¾ç¹æÇâ ¼Ó¼º
+preference.bidiproperties=ì–‘ë°©í–¥ ì†ì„±
 
-preference.layout=·¹ÀÌ¾Æ¿ô
+preference.layout=ë ˆì´ì•„ì›ƒ
 
-preference.expressionsyntax=½Ä ±¸¹®
+preference.expressionsyntax=ì‹ êµ¬ë¬¸
 
-designer.action.undo.label=½ÇÇà Ãë¼Ò
+designer.action.undo.label=ì‹¤í–‰ ì·¨ì†Œ
 
-designer.action.redo.label=´Ù½Ã ½ÇÇà
+designer.action.redo.label=ë‹¤ì‹œ ì‹¤í–‰
 
-extension.odadatasource=ODA µ¥ÀÌÅÍ ¿øº» È®ÀåÁ¡
+extension.odadatasource=ODA ë°ì´í„° ì›ë³¸ í™•ì¥ì 
 
-publish.template=»õ º¸°í¼­ ¸¶¹ı»ç¸¦ ÅÛÇÃ¸´¿¡ µî·Ï(&Z)...
+publish.template=ìƒˆ ë³´ê³ ì„œ ë§ˆë²•ì‚¬ë¥¼ í…œí”Œë¦¿ì— ë“±ë¡(&Z)...
 
-publish.library=°øÀ¯ ¸®¼Ò½º Æú´õ·Î ¶óÀÌºê·¯¸® º¹»ç(&B)...
+publish.library=ê³µìœ  ë¦¬ì†ŒìŠ¤ í´ë”ë¡œ ë¼ì´ë¸ŒëŸ¬ë¦¬ ë³µì‚¬(&B)...
 
-ActionSet.Publish=¸®¼Ò½º °Ô½Ã
+ActionSet.Publish=ë¦¬ì†ŒìŠ¤ ê²Œì‹œ
 
 Dummy.label=
 
-preference.classpath=Å¬·¡½º °æ·Î
+preference.classpath=í´ë˜ìŠ¤ ê²½ë¡œ
 
-parameter.actions=»õ º¸°í¼­ ¸Å°³ º¯¼ö(&P)
+parameter.actions=ìƒˆ ë³´ê³ ì„œ ë§¤ê°œ ë³€ìˆ˜(&P)

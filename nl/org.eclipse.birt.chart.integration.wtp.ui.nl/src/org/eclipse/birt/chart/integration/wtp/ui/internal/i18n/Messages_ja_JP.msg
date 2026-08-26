@@ -12,22 +12,22 @@
 ###############################################################################
 # BIRT Wizard Configuration Page
 ###############################################################################
-BIRTProjectCreationWizard_title=BIRT ƒOƒ‰ƒtì¬ Web ƒvƒƒWƒFƒNƒg‚ÌV‹Kì¬
+BIRTProjectCreationWizard_title=BIRT ã‚°ãƒ©ãƒ•ä½œæˆ Web ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®æ–°è¦ä½œæˆ
 
 ###############################################################################
 # Overwrite Query Dialog
 ###############################################################################
-BIRTOverwriteQuery_title=ã‘‚«
+BIRTOverwriteQuery_title=ä¸Šæ›¸ã
 
-BIRTOverwriteQuery_message={0} ‚ğã‘‚«‚µ‚Ü‚·‚© ?
+BIRTOverwriteQuery_message={0} ã‚’ä¸Šæ›¸ãã—ã¾ã™ã‹ ?
 
-BIRTOverwriteQuery_webartifact_title=”z•z‹Lqq‚Ìã‘‚«
+BIRTOverwriteQuery_webartifact_title=é…å¸ƒè¨˜è¿°å­ã®ä¸Šæ›¸ã
 
-BIRTOverwriteQuery_webartifact_message=web.xml ‚É {0} ‚ª‘¶İ‚µ‚Ü‚·Bã‘‚«‚µ‚Ü‚·‚© ?
+BIRTOverwriteQuery_webartifact_message=web.xml ã« {0} ãŒå­˜åœ¨ã—ã¾ã™ã€‚ä¸Šæ›¸ãã—ã¾ã™ã‹ ?
 
 ###############################################################################
 # Error Message
 ###############################################################################
-BIRTErrors_miss_source=ƒCƒ“ƒ|[ƒgˆ—‚ª‹­§I—¹‚µ‚Ü‚µ‚½B³‚µ‚¢ƒ\[ƒX zip ƒtƒ@ƒCƒ‹‚ğæ“¾‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B
+BIRTErrors_miss_source=ã‚¤ãƒ³ãƒãƒ¼ãƒˆå‡¦ç†ãŒå¼·åˆ¶çµ‚äº†ã—ã¾ã—ãŸã€‚æ­£ã—ã„ã‚½ãƒ¼ã‚¹ zip ãƒ•ã‚¡ã‚¤ãƒ«ã‚’å–å¾—ã§ãã¾ã›ã‚“ã§ã—ãŸã€‚
 
-BIRTErrors_wrong_webcontent=³‚µ‚¢ Web ƒRƒ“ƒeƒ“ƒcƒtƒHƒ‹ƒ_‚ğæ“¾‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B
+BIRTErrors_wrong_webcontent=æ­£ã—ã„ Web ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ãƒ•ã‚©ãƒ«ãƒ€ã‚’å–å¾—ã§ãã¾ã›ã‚“ã§ã—ãŸã€‚

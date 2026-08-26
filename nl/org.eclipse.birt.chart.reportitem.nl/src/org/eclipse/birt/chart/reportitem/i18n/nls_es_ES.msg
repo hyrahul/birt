@@ -1,4 +1,4 @@
-ChartCubeQueryHelper.Error.MustBindCube=El diagrama debe vincular un cubo a los datos de alimentaci髇.
+ChartCubeQueryHelper.Error.MustBindCube=El diagrama debe vincular un cubo a los datos de alimentaci贸n.
 
 ChartReportItemPresentationImpl.error.NoData=El conjunto de datos enlazado al diagrama no ha devuelto ninguna fila.
 
@@ -8,17 +8,17 @@ ChartReportItemPresentationImpl.log.UnableToLocateWrapper=No se puede localizar 
 
 ChartReportItemPresentationImpl.log.onRowSetsStart=ChartReportItemGenerationImpl: onRowSets(...) - inicio
 
-ChartReportItemPresentationImpl.log.onRowSetsBuilding=ChartReportItemPresentationImpl: onRowSets(...) - diagrama de compilaci髇
+ChartReportItemPresentationImpl.log.onRowSetsBuilding=ChartReportItemPresentationImpl: onRowSets(...) - diagrama de compilaci贸n
 
 ChartReportItemPresentationImpl.log.WritingFile=Escribiendo el archivo {0} a las {1}
 
-ChartReportItemPresentationImpl.exception.tmpPngFileCreation=Creaci髇 de archivo PNG temporal
+ChartReportItemPresentationImpl.exception.tmpPngFileCreation=Creaci贸n de archivo PNG temporal
 
-ChartReportItemPresentationImpl.log.PresentationUsesBoundsBo=La presentaci髇 utiliza enlaces: {0}
+ChartReportItemPresentationImpl.log.PresentationUsesBoundsBo=La presentaci贸n utiliza enlaces: {0}
 
 ChartReportItemPresentationImpl.log.onRowSetsRendering=ChartReportItemPresentationImpl: onRowSets(...) - diagrama de procesamiento
 
-ChartReportItemPresentationImpl.exception.inputStreamCreation=creaci髇 de secuencia de entrada
+ChartReportItemPresentationImpl.exception.inputStreamCreation=creaci贸n de secuencia de entrada
 
 ChartReportItemPresentationImpl.log.onRowSetsFailed=ChartReportItemPresentationImpl: onRowSets(...) - error
 
@@ -30,7 +30,7 @@ ChartReportItemPresentationImpl.log.getSizeStart=ChartReportItemPresentationImpl
 
 ChartReportItemPresentationImpl.log.getSizeEnd=ChartReportItemPresentationImpl: getSize(...) - final
 
-ChartReportItemPresentationImpl.log.SuccessfullyDeletedTemp=Archivo {0} temporal eliminado con 閤ito en {1}.
+ChartReportItemPresentationImpl.log.SuccessfullyDeletedTemp=Archivo {0} temporal eliminado con 茅xito en {1}.
 
 ChartReportItemPresentationImpl.log.finishEnd=ChartReportItemPresentationImpl: finish(...) - final
 
@@ -40,7 +40,7 @@ ChartReportItemPresentationImpl.log.finishStart=ChartReportItemPresentationImpl:
 
 ChartReportItemPresentationImpl.log.CouldNotDeleteTemp=No se ha podido eliminar el archivo {0} temporal creado en {1}.
 
-ChartReportItemQueryImpl.log.getReportQueries.exception=ChartReportItemQueryImpl: getReportQueries(...) - excepci髇
+ChartReportItemQueryImpl.log.getReportQueries.exception=ChartReportItemQueryImpl: getReportQueries(...) - excepci贸n
 
 ChartReportItemQueryImpl.log.getReportQueries.end=ChartReportItemQueryImpl: getReportQueries(...) - final
 
@@ -55,19 +55,19 @@ ChartReportItemImpl.log.validate=validando(...)
 ChartReportItemImpl.log.getProperty=getProperty(...) - {0}
 ChartReportItemImpl.log.CannotSetState=No se puede establecer el estado 'transpuesto' en un diagrama sin ejes.
 
-ChartReportItemImpl.log.UnexpectedChoiceName=Encontrado nombre de selecci髇 inesperado:
+ChartReportItemImpl.log.UnexpectedChoiceName=Encontrado nombre de selecci贸n inesperado:
 
 ChartReportItemImpl.log.RequestForPropertyDefn=Se ha recibido la solicitud para las definiciones de propiedades antes de que se creara el modelo.
 
-ChartReportItemImpl.log.RequestForScriptPropertyDefn=Solicite la definici髇 de propiedades del script.
+ChartReportItemImpl.log.RequestForScriptPropertyDefn=Solicite la definici贸n de propiedades del script.
 
 ChartReportItemImpl.log.checkProperty=CheckProperty(...) - {0} con valor {1}
 
 ChartReportItemImpl.log.setProperty=SetProperty(...) - {0} con valor {1}
 
-QueryHelper.exception.UnexpectedNull=Definici髇 de consulta 'nula' inesperada proporcionada por el frame de la extesi髇: motor/generaci髇 de informe.
+QueryHelper.exception.UnexpectedNull=Definici贸n de consulta 'nula' inesperada proporcionada por el frame de la extesi贸n: motor/generaci贸n de informe.
 
-QueryHelper.Text.CategroySeries=Serie de categor韆
+QueryHelper.Text.CategroySeries=Serie de categor铆a
 
 QueryHelper.Text.ValueSeries=Serie del valor
 
@@ -75,9 +75,9 @@ QueryHelper.Text.XSeries=Serie X
 
 QueryHelper.Text.YSeries=Serie Y
 
-QueryHelper.NoDataDefinitionFor=No existen entradas de definici髇 de datos para {0}
+QueryHelper.NoDataDefinitionFor=No existen entradas de definici贸n de datos para {0}
 
-QueryHelper.dataDefnUndefined=No se ha definido una entrada de definici髇 de datos para {0}.
+QueryHelper.dataDefnUndefined=No se ha definido una entrada de definici贸n de datos para {0}.
 
 QueryHelper.InconsitentDataTypesForAxis=Todas las definiciones de datos del mismo eje Y deben ser del mismo tipo de datos.
 
@@ -85,7 +85,7 @@ QueryHelper.InconsitentDataTypesForValueSeries=Todas las definiciones de datos d
 
 ChartElementCommandImpl.editChart=Editar diagrama
 
-ChartElementCommandImpl.setProperty.chart.dimension=Establecer dimensi髇
+ChartElementCommandImpl.setProperty.chart.dimension=Establecer dimensi贸n
 
 ChartElementCommandImpl.setProperty.chart.instance=Establecer Modelo de diagrama
 
@@ -95,7 +95,7 @@ ChartElementCommandImpl.setProperty.script=Editar script de diagrama
 
 ChartElementCommandImpl.setProperty.onRender=Editar script de diagrama
 
-ChartImpl.error.DimensionUnitNotSupported=La unidad de dimensi髇 ({0}) no es compatible con el diagrama API simple.
+ChartImpl.error.DimensionUnitNotSupported=La unidad de dimensi贸n ({0}) no es compatible con el diagrama API simple.
 
 ################################################
 # Display names for report model extension 
@@ -106,7 +106,7 @@ Element.Chart.xmlRepresentation=Modelo XML
 
 Element.Chart.outputFormat=Formato de salida
 
-Element.Chart.action=Acci髇
+Element.Chart.action=Acci贸n
 
 Element.Chart.altText=Texto alternativo
 
@@ -121,15 +121,15 @@ property.category.general=General
 
 property.category.types=Tipos
 
-property.label.title.value=T韙ulo:
+property.label.title.value=T铆tulo:
 
-property.label.title.font.rotation=Rotaci髇 de t韙ulo:
+property.label.title.font.rotation=Rotaci贸n de t铆tulo:
 
-property.label.legend.position=Posici髇 de la leyenda:
+property.label.legend.position=Posici贸n de la leyenda:
 
 property.label.legend.anchor=Delimitador de la leyenda:
 
-property.label.chart.dimension=Dimensi髇:
+property.label.chart.dimension=Dimensi贸n:
 
 property.label.chart.plot.transposed=Transpuesto
 

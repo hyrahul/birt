@@ -29,7 +29,7 @@ TotalIrr.description=fonction Total.IRR()
 
 TotalIrr.displayName=IRR
 
-TotalIrr.param.intrate=Taux de rentabilité &interne
+TotalIrr.param.intrate=Taux de rentabilitÃ© &interne
 
 TotalLast.description=fonction Total.LAST()
 
@@ -57,7 +57,7 @@ TotalMirr.displayName=MIRR
 
 TotalMirr.param.finance_rate=Taux de &financement
 
-TotalMirr.param.reinvestment_rate=Taux de réi&nvestissement
+TotalMirr.param.reinvestment_rate=Taux de rÃ©i&nvestissement
 
 TotalMode.description=fonction Total.mode()
 
@@ -67,7 +67,7 @@ TotalMovingAve.description=fonction Total.MOVINGAVE()
 
 TotalMovingAve.displayName=MOVINGAVE
 
-TotalMovingAve.param.window=&Fenêtre
+TotalMovingAve.param.window=&FenÃªtre
 
 TotalNpv.description=fonction Total.NPV()
 
@@ -155,51 +155,51 @@ TotalConcatenate.description=fonction Total.CONCATENATE()
 
 TotalConcatenate.displayName=CONCATENATE
 
-TotalConcatenate.param.separator=Séparat&eur
+TotalConcatenate.param.separator=SÃ©parat&eur
 
 TotalConcatenate.param.maxLength=Longueur ma&ximale
 
 TotalConcatenate.param.showAllValues=A&fficher toutes les valeurs
 
-TotalConcatenate.paramDescription.expression=champ de données à regrouper
+TotalConcatenate.paramDescription.expression=champ de donnÃ©es Ã  regrouper
 
-TotalConcatenate.paramDescription.separator=séparateur de la chaîne concaténée
+TotalConcatenate.paramDescription.separator=sÃ©parateur de la chaÃ®ne concatÃ©nÃ©e
 
-TotalConcatenate.paramDescription.maxLength=nombre de caractères maximum de la valeur concaténée
+TotalConcatenate.paramDescription.maxLength=nombre de caractÃ¨res maximum de la valeur concatÃ©nÃ©e
 
-TotalConcatenate.paramDescription.showAllValues=permet de définir si toutes les valeurs doivent être affichées ou non
+TotalConcatenate.paramDescription.showAllValues=permet de dÃ©finir si toutes les valeurs doivent Ãªtre affichÃ©es ou non
 
 #aggregation error messages
-aggregation.BadOperandType=Type de données de l'opérande inattendu : {0}.
+aggregation.BadOperandType=Type de donnÃ©es de l'opÃ©rande inattendu : {0}.
 
-aggregation.DataConversionError=Une erreur s'est produite lors de la conversion du type de données.
+aggregation.DataConversionError=Une erreur s'est produite lors de la conversion du type de donnÃ©es.
 
-aggregation.InvalidPercentileColumn=Toutes les valeurs des centiles ne peuvent pas être nulles.
+aggregation.InvalidPercentileColumn=Toutes les valeurs des centiles ne peuvent pas Ãªtre nulles.
 
-aggregation.BadParameterCount=Le nombre de paramètres indiqué est incorrect.
+aggregation.BadParameterCount=Le nombre de paramÃ¨tres indiquÃ© est incorrect.
 
-aggregation.BadParameterType=Le type de données de l'un des paramètres est incorrect.
+aggregation.BadParameterType=Le type de donnÃ©es de l'un des paramÃ¨tres est incorrect.
 
-aggregation.NoIrrSolution=Impossible de trouver une solution pour la fonction Irr avec les données fournies.
+aggregation.NoIrrSolution=Impossible de trouver une solution pour la fonction Irr avec les donnÃ©es fournies.
 
-aggregation.InvalidTopBottomArgument=L'argument des filtres Top/Bottom doit être un nombre.
+aggregation.InvalidTopBottomArgument=L'argument des filtres Top/Bottom doit Ãªtre un nombre.
 
-aggregation.InvalidTopBottomNArgument=L'argument des filtres TopN/BottomN doit être zéro ou un entier positif.
+aggregation.InvalidTopBottomNArgument=L'argument des filtres TopN/BottomN doit Ãªtre zÃ©ro ou un entier positif.
 
-aggregation.InvalidTopBottomPercentArgument=L'argument des filtres TopPercent/BottomPercent doit être positif et inférieur ou égal à 100.
+aggregation.InvalidTopBottomPercentArgument=L'argument des filtres TopPercent/BottomPercent doit Ãªtre positif et infÃ©rieur ou Ã©gal Ã  100.
 
-aggregation.InvalidTopBottomN=Le nombre total de lignes à traiter ne doit pas dépasser {0}.
+aggregation.InvalidTopBottomN=Le nombre total de lignes Ã  traiter ne doit pas dÃ©passer {0}.
 
 aggregation.InvalidPercentileArgument=La fonction Total.Percentile n'accepte que les nombres compris entre 0 et 1 (inclus) pour son second argument.
 
 aggregation.InvalidQuartileArgument=La fonction Total.Quartile n'accepte que les entiers compris entre 0 et 4 (inclus) pour son second argument.
 
-aggregation.BadAggrFuncParam=Paramètre incorrect pour la fonction d'agrégation : {0}.
+aggregation.BadAggrFuncParam=ParamÃ¨tre incorrect pour la fonction d'agrÃ©gation : {0}.
 
-aggregation.ResetRateGuess=L'utilisateur devrait définir une nouvelle estimation de taux.
+aggregation.ResetRateGuess=L'utilisateur devrait dÃ©finir une nouvelle estimation de taux.
 
-aggregation.InvalidParameterType=Type de paramètre de l'agrégation incorrect : {0}
+aggregation.InvalidParameterType=Type de paramÃ¨tre de l'agrÃ©gation incorrect : {0}
 
-aggregation.InvalidParameterValue=La valeur du paramètre "{0}" dans une agrégation "{1}" est incorrecte : {2}.
+aggregation.InvalidParameterValue=La valeur du paramÃ¨tre "{0}" dans une agrÃ©gation "{1}" est incorrecte : {2}.
 
-aggregation.InvalidSeparator=Séparateur pour l'agrégation incorrect : {0}
+aggregation.InvalidSeparator=SÃ©parateur pour l'agrÃ©gation incorrect : {0}

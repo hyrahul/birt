@@ -14,11 +14,11 @@ select.dataset.name=SQL Select Query
 jdbc.driver.name=Classic Models Inc. SampleDB Driver
 dataset.property.queryTimeOut=&Query Time Out (in seconds)
 
-dataset.property.rowFetchSize=ĞĞÈ¡Êı´óĞ¡(&R)
+dataset.property.rowFetchSize=è¡Œå–æ•°å¤§å°(&R)
 #
 oda.data.source.name=Classic Models Inc. Sample Database
 
-connection.profile.name=BIRT Ê¾ÀıÊı¾İ¿âÊı¾İÔ´Á¬½ÓÅäÖÃÎÄ¼ş
+connection.profile.name=BIRT ç¤ºä¾‹æ•°æ®åº“æ•°æ®æºè¿æ¥é…ç½®æ–‡ä»¶
 #
 #  Below NLS messages apply to all ODA data sources; should be re-factored
 #

@@ -20,6 +20,6 @@ preference.preview.server=Vorschau-Server
 ###############################################################################
 Menu.Report=Berich&t
 
-Action.RunReport=Bericht aus&führen
+Action.RunReport=Bericht aus&fÃ¼hren
 
 Action.ViewDocument=Dokument an&zeigen

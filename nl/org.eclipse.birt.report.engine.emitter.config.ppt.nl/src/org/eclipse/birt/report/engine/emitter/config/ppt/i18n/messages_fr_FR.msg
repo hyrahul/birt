@@ -19,15 +19,15 @@ PPTEmitter.DisplayName=PowerPoint (PPT)
 #Option Display Value
 OptionDisplayValue.BidiProcessing=Traitement BIDI
 
-OptionDisplayValue.TextWrapping=Retour à la ligne automatique
+OptionDisplayValue.TextWrapping=Retour Ã  la ligne automatique
 
-OptionDisplayValue.PageOverFlow=Traitement du dépassement de page
+OptionDisplayValue.PageOverFlow=Traitement du dÃ©passement de page
 
 OptionDisplayValue.CLIP_CONTENT=Recadrer le contenu
 
-OptionDisplayValue.FIT_TO_PAGE_SIZE=Adapter à la taille de la page
+OptionDisplayValue.FIT_TO_PAGE_SIZE=Adapter Ã  la taille de la page
 
-OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=Répartir sur plusieurs pages
+OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=RÃ©partir sur plusieurs pages
 
 OptionDisplayValue.ENLARGE_PAGE_SIZE=Agrandir la taille de la page
 
@@ -41,16 +41,16 @@ OptionDisplayValue.Export2Office2010And2013=Fichier d'exportation pour Microsoft
 #Option Description
 OptionDescription.BidiProcessing=Prend en charge le texte bidirectionnel.
 
-OptionDescription.TextWrapping=Indique si le retour à la ligne est autorisé pour le texte.
+OptionDescription.TextWrapping=Indique si le retour Ã  la ligne est autorisÃ© pour le texte.
 
-OptionDescription.PageOverFlow=Contrôle le mode de répartition du contenu.
+OptionDescription.PageOverFlow=ContrÃ´le le mode de rÃ©partition du contenu.
 
-OptionDescription.FontSubstitution=Sélectionne des polices automatiquement lorsque la police spécifiée ne peut pas afficher le caractère.
+OptionDescription.FontSubstitution=SÃ©lectionne des polices automatiquement lorsque la police spÃ©cifiÃ©e ne peut pas afficher le caractÃ¨re.
 
-OptionDescription.ChartDpi=DPI utilisé pour générer un graphique.
+OptionDescription.ChartDpi=DPI utilisÃ© pour gÃ©nÃ©rer un graphique.
 
-OptionDescription.Export2Office2010And2013=Prend en charge le format .mht dans ppt lorsque Office 2010/2013 est utilisé.
+OptionDescription.Export2Office2010And2013=Prend en charge le format .mht dans ppt lorsque Office 2010/2013 est utilisÃ©.
 
 ###########################################################
 #tooltip
-Tooltip.ChartDpi=DPI utilisé par le moteur de graphique pour générer des graphiques. Par exemple, 192.
+Tooltip.ChartDpi=DPI utilisÃ© par le moteur de graphique pour gÃ©nÃ©rer des graphiques. Par exemple, 192.

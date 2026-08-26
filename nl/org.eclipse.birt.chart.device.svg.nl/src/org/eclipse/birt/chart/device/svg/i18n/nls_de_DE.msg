@@ -1,51 +1,51 @@
 SVGRendererImpl.exception.UnableToWriteChartImage=Diagrammbild konnte nicht in durch {0} definiertes SVG-Ausgabe-Handle geschrieben werden
 
-SVGGraphics2D.drawImage.image=SVG-Renderer – drawImage(Image arg0, AffineTransform arg1, ImageObserver arg2) – nicht unterstützt
+SVGGraphics2D.drawImage.image=SVG-Renderer â€“ drawImage(Image arg0, AffineTransform arg1, ImageObserver arg2) â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.drawImage.buffer=SVG-Renderer – drawImage(BufferedImage arg0, BufferedImageOp arg1, int arg2.\tint arg3) – nicht unterstützt
+SVGGraphics2D.drawImage.buffer=SVG-Renderer â€“ drawImage(BufferedImage arg0, BufferedImageOp arg1, int arg2.\tint arg3) â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.drawRenderImage.RenderImage=SVG-Renderer – drawRenderedImage(RenderedImage arg0, AffineTransform arg1) – nicht unterstützt
+SVGGraphics2D.drawRenderImage.RenderImage=SVG-Renderer â€“ drawRenderedImage(RenderedImage arg0, AffineTransform arg1) â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.drawRenderableImage.RenderableImage=SVG-Renderer – drawRenderableImage(RenderableImage arg0, AffineTransform arg1) – nicht unterstützt
+SVGGraphics2D.drawRenderableImage.RenderableImage=SVG-Renderer â€“ drawRenderableImage(RenderableImage arg0, AffineTransform arg1) â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.drawString.StringInt=SVG-Renderer – drawString(String arg0, int arg1, int arg2) – nicht unterstützt
+SVGGraphics2D.drawString.StringInt=SVG-Renderer â€“ drawString(String arg0, int arg1, int arg2) â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.drawString.StringFloat=SVG-Renderer – drawString(String arg0, float arg1, float arg2) – nicht unterstützt
+SVGGraphics2D.drawString.StringFloat=SVG-Renderer â€“ drawString(String arg0, float arg1, float arg2) â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.drawString.AttributeInt=SVG-Renderer – drawString(AttributedCharacterIterator arg0, int arg1, int arg2) – nicht unterstützt
+SVGGraphics2D.drawString.AttributeInt=SVG-Renderer â€“ drawString(AttributedCharacterIterator arg0, int arg1, int arg2) â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.drawString.AttributeFloat=SVG-Renderer – drawString(AttributedCharacterIterator arg0, float arg1, float arg2) – nicht unterstützt
+SVGGraphics2D.drawString.AttributeFloat=SVG-Renderer â€“ drawString(AttributedCharacterIterator arg0, float arg1, float arg2) â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.hit.Rectangle=SVG-Renderer – hit(Rectangle arg0, Shape arg1, boolean arg2) – nicht unterstützt
+SVGGraphics2D.hit.Rectangle=SVG-Renderer â€“ hit(Rectangle arg0, Shape arg1, boolean arg2) â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.getDeviceConfig=SVG-Renderer – GraphicsConfiguration getDeviceConfiguration() – nicht unterstützt
+SVGGraphics2D.getDeviceConfig=SVG-Renderer â€“ GraphicsConfiguration getDeviceConfiguration() â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.setComposite=SVG-Renderer – setComposite(Composite arg0) – nicht unterstützt
+SVGGraphics2D.setComposite=SVG-Renderer â€“ setComposite(Composite arg0) â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.getRenderingHint.Key=SVG-Renderer – getRenderingHint(Key arg0) – nicht unterstützt
+SVGGraphics2D.getRenderingHint.Key=SVG-Renderer â€“ getRenderingHint(Key arg0) â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.setRenderingHints.Map=SVG-Renderer – setRenderingHints(Map arg0) – nicht unterstützt
+SVGGraphics2D.setRenderingHints.Map=SVG-Renderer â€“ setRenderingHints(Map arg0) â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.ddRenderingHints.Map=SVG-Renderer – ddRenderingHints(Map arg0) – nicht unterstützt
+SVGGraphics2D.ddRenderingHints.Map=SVG-Renderer â€“ ddRenderingHints(Map arg0) â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.getRenderingHints=SVG-Renderer – getRenderingHints() – nicht unterstützt
+SVGGraphics2D.getRenderingHints=SVG-Renderer â€“ getRenderingHints() â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.transform.AffineTransform=SVG-Renderer – transform(AffineTransform arg0) – nicht unterstützt
+SVGGraphics2D.transform.AffineTransform=SVG-Renderer â€“ transform(AffineTransform arg0) â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.setTransform.Affine=SVG-Renderer – setTransform(AffineTransform arg0) – nicht unterstützt
+SVGGraphics2D.setTransform.Affine=SVG-Renderer â€“ setTransform(AffineTransform arg0) â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.getTransform=SVG-Renderer – AffineTransform getTransform() – nicht unterstützt
+SVGGraphics2D.getTransform=SVG-Renderer â€“ AffineTransform getTransform() â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.getComposite=SVG-Renderer – Composite getComposite() – nicht unterstützt
+SVGGraphics2D.getComposite=SVG-Renderer â€“ Composite getComposite() â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.setPaintMode=SVG-Renderer – setPaintMode() – nicht unterstützt
+SVGGraphics2D.setPaintMode=SVG-Renderer â€“ setPaintMode() â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.setXORModel.Color=SVG-Renderer – setXORMode(Color arg0) – nicht unterstützt
+SVGGraphics2D.setXORModel.Color=SVG-Renderer â€“ setXORMode(Color arg0) â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.getFontMetrics.Font=SVG-Renderer – FontMetrics getFontMetrics(Font arg0) – nicht unterstützt
+SVGGraphics2D.getFontMetrics.Font=SVG-Renderer â€“ FontMetrics getFontMetrics(Font arg0) â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.CopyArea.Int=SVG-Renderer – CcopyArea(int arg0, int arg1, int arg2, int arg3, int arg4, int arg5) – nicht unterstützt
+SVGGraphics2D.CopyArea.Int=SVG-Renderer â€“ CcopyArea(int arg0, int arg1, int arg2, int arg3, int arg4, int arg5) â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.clearRect.Int=SVG-Renderer – clearRect(int arg0, int arg1, int arg2, int arg3) – nicht unterstützt
+SVGGraphics2D.clearRect.Int=SVG-Renderer â€“ clearRect(int arg0, int arg1, int arg2, int arg3) â€“ nicht unterstÃ¼tzt
 
-SVGGraphics2D.drawPolyline.Int=SVG-Renderer – drawPolyline(int[] arg0, int[] arg1, int arg2) – nicht unterstützt
+SVGGraphics2D.drawPolyline.Int=SVG-Renderer â€“ drawPolyline(int[] arg0, int[] arg1, int arg2) â€“ nicht unterstÃ¼tzt

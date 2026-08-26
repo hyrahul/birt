@@ -4,7 +4,7 @@ TasksManager.Exception.DeregisterTask=No hay ninguna tarea con el ID {0} registr
 
 TasksManager.Excepion.RegisterWizard=El ID de asistente es nulo.
 
-WizardBase.Excepion.RegisterWizard=El ID de tarea {0} no est· registrado.
+WizardBase.Excepion.RegisterWizard=El ID de tarea {0} no est√° registrado.
 
 WizardBase.error.ErrorsEncountered=Se han encontrado errores
 
@@ -20,7 +20,7 @@ WizardBase.error.FollowingErrorsReportedByTask=El panel de tareas que acaba de a
 
 WizardBase.error.FollowingErrorEncountered=Se han detectado los siguientes errores
 
-WizardBase.error.FollowingErrorsReportedWhileVerifying=Se han detectado los siguientes errores al verificar la definiciÛn del diagrama
+WizardBase.error.FollowingErrorsReportedWhileVerifying=Se han detectado los siguientes errores al verificar la definici√≥n del diagrama
 
 ErrorDialog.text.ErrorList=Lista de errores:
 
@@ -32,7 +32,7 @@ ErrorDialog.text.FixIt=\ \ \ &Corregirlo
 
 ErrorDialog.text.ProceedWithoutFixing=&Continuar sin corregir
 
-ErrorDialog.text.Exception=ExcepciÛn:
+ErrorDialog.text.Exception=Excepci√≥n:
 
 ErrorDialog.text.ShowTrace=Mostrar rastreo...
 
@@ -50,4 +50,4 @@ SubtaskHistory.Tooltip.Forward=Seguir a {0}
 
 SubtaskHistory.Text.Forward=Siguiente
 
-SubtaskHistory.Text.Invalid=\#No v·lido
+SubtaskHistory.Text.Invalid=\#No v√°lido

@@ -2,101 +2,101 @@
 # the text of Design Engine exceptions.
 
 ###########################################################
-INVALID_TYPE=ƒf[ƒ^Œ^‚ª–³Œø‚Å‚·B
+INVALID_TYPE=ãƒ‡ãƒ¼ã‚¿åž‹ãŒç„¡åŠ¹ã§ã™ã€‚
 
-INVALID_EXPRSSION=JavaScript Ž®‚ª–³Œø‚Å‚· : {0}
+INVALID_EXPRSSION=JavaScript å¼ãŒç„¡åŠ¹ã§ã™ : {0}
 
-CONVERT_FAILS={0} ‚Ì’l‚ð {1} Œ^‚É•ÏŠ·‚Å‚«‚Ü‚¹‚ñB
+CONVERT_FAILS={0} ã®å€¤ã‚’ {1} åž‹ã«å¤‰æ›ã§ãã¾ã›ã‚“ã€‚
 
-birt.core.JavascriptCommonError=ƒXƒNƒŠƒvƒg "{0}" ‚Ì•]‰¿’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½ : \n{1}
+birt.core.JavascriptCommonError=ã‚¹ã‚¯ãƒªãƒ—ãƒˆ "{0}" ã®è©•ä¾¡ä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸ : \n{1}
 
 birt.core.JavascriptError={0}
-birt.core.Javascript.parameterNotExist=ƒŒƒ|[ƒgƒpƒ‰ƒƒ^ "{0}" ‚Í‘¶Ý‚µ‚Ü‚¹‚ñB
+birt.core.Javascript.parameterNotExist=ãƒ¬ãƒãƒ¼ãƒˆãƒ‘ãƒ©ãƒ¡ã‚¿ "{0}" ã¯å­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-birt.core.Javascript.variableNotExist=ƒŒƒ|[ƒg•Ï” "{0}" ‚Í‘¶Ý‚µ‚Ü‚¹‚ñB
+birt.core.Javascript.variableNotExist=ãƒ¬ãƒãƒ¼ãƒˆå¤‰æ•° "{0}" ã¯å­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-birt.core.Javascript.nativeNotFound={0} ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+birt.core.Javascript.nativeNotFound={0} ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-birt.core.BirtComp.invalidRegularExpression=–³Œø‚È³‹K•\Œ»‚Å‚·B
+birt.core.BirtComp.invalidRegularExpression=ç„¡åŠ¹ãªæ­£è¦è¡¨ç¾ã§ã™ã€‚
 
-error.NoSuchScriptExtension = ƒXƒNƒŠƒvƒgŠg’£ {0} ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+error.NoSuchScriptExtension = ã‚¹ã‚¯ãƒªãƒ—ãƒˆæ‹¡å¼µ {0} ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-error.InvalidSeekOffset = ˆÊ’u {0} ‚Í–³Œø‚Å‚·B
+error.InvalidSeekOffset = ä½ç½® {0} ã¯ç„¡åŠ¹ã§ã™ã€‚
 
-error.ExceedFileLength = ƒtƒ@ƒCƒ‹‚Ì’·‚³‚Ì’´‰ßB
+error.ExceedFileLength = ãƒ•ã‚¡ã‚¤ãƒ«ã®é•·ã•ã®è¶…éŽã€‚
 
-error.CanotchangeReadOnlyBuffer = “Ç‚ÝŽæ‚èê—pƒoƒbƒtƒ@‚ð•ÏX‚Å‚«‚Ü‚¹‚ñB
+error.CanotchangeReadOnlyBuffer = èª­ã¿å–ã‚Šå°‚ç”¨ãƒãƒƒãƒ•ã‚¡ã‚’å¤‰æ›´ã§ãã¾ã›ã‚“ã€‚
 
-error.FileOpenedInReadOnlyMode = ƒtƒ@ƒCƒ‹‚Í“Ç‚ÝŽæ‚èê—pƒ‚[ƒh‚ÅŠJ‚©‚ê‚Ä‚¢‚Ü‚·B
+error.FileOpenedInReadOnlyMode = ãƒ•ã‚¡ã‚¤ãƒ«ã¯èª­ã¿å–ã‚Šå°‚ç”¨ãƒ¢ãƒ¼ãƒ‰ã§é–‹ã‹ã‚Œã¦ã„ã¾ã™ã€‚
 
-error.FileHasBeenClosed = ƒA[ƒJƒCƒuƒtƒ@ƒCƒ‹‚Í‚·‚Å‚É•Â‚¶‚Ä‚¢‚Ü‚·B
+error.FileHasBeenClosed = ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ãƒ•ã‚¡ã‚¤ãƒ«ã¯ã™ã§ã«é–‰ã˜ã¦ã„ã¾ã™ã€‚
 
-error.UnparseableString = •¶Žš—ñ’l‚ð‰ðÍ‚Å‚«‚Ü‚¹‚ñ : "{0}"B
+error.UnparseableString = æ–‡å­—åˆ—å€¤ã‚’è§£æžã§ãã¾ã›ã‚“ : "{0}"ã€‚
 
-error.CannotStartupOSGIPlatform = OSGI ƒtƒŒ[ƒ€ƒ[ƒN‚ð‹N“®‚Å‚«‚Ü‚¹‚ñB
+error.CannotStartupOSGIPlatform = OSGI ãƒ•ãƒ¬ãƒ¼ãƒ ãƒ¯ãƒ¼ã‚¯ã‚’èµ·å‹•ã§ãã¾ã›ã‚“ã€‚
 
-error.UnsupportedFileMode = ƒtƒ@ƒCƒ‹ƒ‚[ƒh {0} ‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+error.UnsupportedFileMode = ãƒ•ã‚¡ã‚¤ãƒ«ãƒ¢ãƒ¼ãƒ‰ {0} ã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-error.FolderNameIsNull = ƒtƒHƒ‹ƒ_–¼‚ª null ‚Ü‚½‚Í‹ó”’•¶Žš—ñ‚Å‚·B
+error.FolderNameIsNull = ãƒ•ã‚©ãƒ«ãƒ€åãŒ null ã¾ãŸã¯ç©ºç™½æ–‡å­—åˆ—ã§ã™ã€‚
 
-error.FileNameIsNull = ƒtƒ@ƒCƒ‹–¼‚ª null ‚Ü‚½‚Í‹ó”’•¶Žš—ñ‚Å‚·B
+error.FileNameIsNull = ãƒ•ã‚¡ã‚¤ãƒ«åãŒ null ã¾ãŸã¯ç©ºç™½æ–‡å­—åˆ—ã§ã™ã€‚
 
-error.NotExt2Archive = Ext2 ƒA[ƒJƒCƒu‚Å‚Í‚ ‚è‚Ü‚¹‚ñBƒ}ƒWƒbƒNƒR[ƒh‚Í {0} ‚Å‚·B
+error.NotExt2Archive = Ext2 ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚ãƒžã‚¸ãƒƒã‚¯ã‚³ãƒ¼ãƒ‰ã¯ {0} ã§ã™ã€‚
 
-error.NotCompoundFile = •¡‡ƒtƒ@ƒCƒ‹‚Å‚Í‚ ‚è‚Ü‚¹‚ñBƒ}ƒWƒbƒNƒR[ƒh‚Í {0} ‚Å‚·B
+error.NotCompoundFile = è¤‡åˆãƒ•ã‚¡ã‚¤ãƒ«ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚ãƒžã‚¸ãƒƒã‚¯ã‚³ãƒ¼ãƒ‰ã¯ {0} ã§ã™ã€‚
 
-error.ReadOnlyArchive = “Ç‚ÝŽæ‚èê—pƒA[ƒJƒCƒu‚Å‚·B
+error.ReadOnlyArchive = èª­ã¿å–ã‚Šå°‚ç”¨ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ã§ã™ã€‚
 
-error.UnsupportedArchiveVersion = ƒA[ƒJƒCƒuƒo[ƒWƒ‡ƒ“ {0} ‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+error.UnsupportedArchiveVersion = ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ãƒãƒ¼ã‚¸ãƒ§ãƒ³ {0} ã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-error.UnsupportedBlockSize = ‚±‚ÌƒuƒƒbƒNƒTƒCƒY‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+error.UnsupportedBlockSize = ã“ã®ãƒ–ãƒ­ãƒƒã‚¯ã‚µã‚¤ã‚ºã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-error.InvalidIndex = ƒuƒƒbƒN {0} ‚ÌƒCƒ“ƒfƒbƒNƒX‚ª–³Œø‚Å‚·B
+error.InvalidIndex = ãƒ–ãƒ­ãƒƒã‚¯ {0} ã®ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ãŒç„¡åŠ¹ã§ã™ã€‚
 
-error.UnsupportedNodeType = ƒm[ƒh {1} ‚Å‚Íƒm[ƒhŒ^ {0} ‚ðŽg—p‚Å‚«‚Ü‚¹‚ñB
+error.UnsupportedNodeType = ãƒŽãƒ¼ãƒ‰ {1} ã§ã¯ãƒŽãƒ¼ãƒ‰åž‹ {0} ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-error.NotSerializable = ’¼—ñ‰»‚Å‚«‚Ü‚¹‚ñB
+error.NotSerializable = ç›´åˆ—åŒ–ã§ãã¾ã›ã‚“ã€‚
 
-error.UnsupportedDataType = ‚±‚Ìƒf[ƒ^Œ^‚Í‚Ü‚¾ƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚È‚¢‚©A’¼—ñ‰»‚Å‚«‚Ü‚¹‚ñB
+error.UnsupportedDataType = ã“ã®ãƒ‡ãƒ¼ã‚¿åž‹ã¯ã¾ã ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ãªã„ã‹ã€ç›´åˆ—åŒ–ã§ãã¾ã›ã‚“ã€‚
 
-error.InvalidLockType = ƒƒbƒN‚ÌŽí—Þ {0} ‚Í–³Œø‚Å‚·B
+error.InvalidLockType = ãƒ­ãƒƒã‚¯ã®ç¨®é¡ž {0} ã¯ç„¡åŠ¹ã§ã™ã€‚
 
-error.ArchiveOpenForWrite = ƒA[ƒJƒCƒu‚Í‘‚«ž‚Ý—p‚ÉŠJ‚¢‚Ä‚­‚¾‚³‚¢B ƒVƒXƒeƒ€ ID : {0}B
+error.ArchiveOpenForWrite = ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ã¯æ›¸ãè¾¼ã¿ç”¨ã«é–‹ã„ã¦ãã ã•ã„ã€‚ ã‚·ã‚¹ãƒ†ãƒ  ID : {0}ã€‚
 
-error.ExceedMaxBlockSize = ƒA[ƒJƒCƒuƒwƒbƒ_‚ÌƒTƒCƒY‚ÌãŒÀ‚Í {0} ‚Å‚·B
+error.ExceedMaxBlockSize = ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ãƒ˜ãƒƒãƒ€ã®ã‚µã‚¤ã‚ºã®ä¸Šé™ã¯ {0} ã§ã™ã€‚
 
-error.InvalidArchiveName= {0} ‚Í‘¶Ý‚µ‚È‚¢‚©AƒtƒHƒ‹ƒ_‚Å‚Í‚ ‚è‚Ü‚¹‚ñB
+error.InvalidArchiveName= {0} ã¯å­˜åœ¨ã—ãªã„ã‹ã€ãƒ•ã‚©ãƒ«ãƒ€ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚
 
-error.NullSource = ƒ\[ƒXƒA[ƒJƒCƒu‚Ü‚½‚Í•Û‘¶æ‚ª NULL ‚Å‚·B
+error.NullSource = ã‚½ãƒ¼ã‚¹ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ã¾ãŸã¯ä¿å­˜å…ˆãŒ NULL ã§ã™ã€‚
 
-error.OutOfRange = ŽQÆˆÊ’u‚ª”ÍˆÍŠO‚Å‚·B
+error.OutOfRange = å‚ç…§ä½ç½®ãŒç¯„å›²å¤–ã§ã™ã€‚
 
-error.ReadOnlyTree = “Ç‚ÝŽæ‚èê—pƒcƒŠ[‚É‚ÍƒGƒ“ƒgƒŠ‚ð‘}“ü‚Å‚«‚Ü‚¹‚ñB
+error.ReadOnlyTree = èª­ã¿å–ã‚Šå°‚ç”¨ãƒ„ãƒªãƒ¼ã«ã¯ã‚¨ãƒ³ãƒˆãƒªã‚’æŒ¿å…¥ã§ãã¾ã›ã‚“ã€‚
 
-error.CannotLoadNode = ƒm[ƒh {0} ‚ð“Ç‚Ýž‚ß‚Ü‚¹‚ñB
+error.CannotLoadNode = ãƒŽãƒ¼ãƒ‰ {0} ã‚’èª­ã¿è¾¼ã‚ã¾ã›ã‚“ã€‚
 
-error.KeySizeError = ƒL[ƒTƒCƒY‚Í {1} ‚Å‚Í‚È‚­ {0} ‚Å‚·B
+error.KeySizeError = ã‚­ãƒ¼ã‚µã‚¤ã‚ºã¯ {1} ã§ã¯ãªã {0} ã§ã™ã€‚
 
-error.MismatchKeyLength = ŒÅ’è’·ƒL[‚ÌƒL[‚Ì’·‚³‚Éˆê’v‚µ‚Ü‚¹‚ñB
+error.MismatchKeyLength = å›ºå®šé•·ã‚­ãƒ¼ã®ã‚­ãƒ¼ã®é•·ã•ã«ä¸€è‡´ã—ã¾ã›ã‚“ã€‚
 
-error.ValueSizeError = ’l‚ÌƒTƒCƒY‚Í {1} ‚Å‚Í‚È‚­ {0} ‚Å‚·B
+error.ValueSizeError = å€¤ã®ã‚µã‚¤ã‚ºã¯ {1} ã§ã¯ãªã {0} ã§ã™ã€‚
 
-error.MismatchValueLength = ŒÅ’è’·’l‚Ì’l‚Ì’·‚³‚Éˆê’v‚µ‚Ü‚¹‚ñB
+error.MismatchValueLength = å›ºå®šé•·å€¤ã®å€¤ã®é•·ã•ã«ä¸€è‡´ã—ã¾ã›ã‚“ã€‚
 
-error.InvaldMagicTag = ƒ}ƒWƒbƒNƒ^ƒO {0} ‚Í–³Œø‚Å‚·B
+error.InvaldMagicTag = ãƒžã‚¸ãƒƒã‚¯ã‚¿ã‚° {0} ã¯ç„¡åŠ¹ã§ã™ã€‚
 
-error.UnsupportedVersion = ƒo[ƒWƒ‡ƒ“ {0} ‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+error.UnsupportedVersion = ãƒãƒ¼ã‚¸ãƒ§ãƒ³ {0} ã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-error.InvalidCursor = ƒJ[ƒ\ƒ‹‚ª–³Œø‚Å‚·B
+error.InvalidCursor = ã‚«ãƒ¼ã‚½ãƒ«ãŒç„¡åŠ¹ã§ã™ã€‚
 
-error.CusorNotInitialized = Å‰‚ÉƒJ[ƒ\ƒ‹‚ð‰Šú‰»‚µ‚Ä‚­‚¾‚³‚¢B
+error.CusorNotInitialized = æœ€åˆã«ã‚«ãƒ¼ã‚½ãƒ«ã‚’åˆæœŸåŒ–ã—ã¦ãã ã•ã„ã€‚
 
-error.UnexpectedEqualKeys = “™†ƒL[‚ÍŽg—p‚Å‚«‚Ü‚¹‚ñB
+error.UnexpectedEqualKeys = ç­‰å·ã‚­ãƒ¼ã¯ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-error.UnknownValueType = ’l‚ÌŒ^ {0} ‚Í•s–¾‚Å‚·B
+error.UnknownValueType = å€¤ã®åž‹ {0} ã¯ä¸æ˜Žã§ã™ã€‚
 
-error.ExceedMaxBlock = {0} ‚Í RAM {1} ‚ÌÅ‘åƒuƒƒbƒN‚ð’´‚¦‚Ä‚¢‚Ü‚·B
+error.ExceedMaxBlock = {0} ã¯ RAM {1} ã®æœ€å¤§ãƒ–ãƒ­ãƒƒã‚¯ã‚’è¶…ãˆã¦ã„ã¾ã™ã€‚
 
-error.MalformedInputError = “ü—Í‚ªŠÔˆá‚Á‚Ä‚¢‚Ü‚·BÅŒã‚É•”•ª•¶Žš—ñ‚ª‚ ‚è‚Ü‚·B
+error.MalformedInputError = å…¥åŠ›ãŒé–“é•ã£ã¦ã„ã¾ã™ã€‚æœ€å¾Œã«éƒ¨åˆ†æ–‡å­—åˆ—ãŒã‚ã‚Šã¾ã™ã€‚
 
-error.MalformedInputAroundByte = ƒoƒCƒg {0} ‘OŒã‚Ì“ü—Í‚ªŠÔˆá‚Á‚Ä‚¢‚Ü‚·B>>>>>>> 1.8
+error.MalformedInputAroundByte = ãƒã‚¤ãƒˆ {0} å‰å¾Œã®å…¥åŠ›ãŒé–“é•ã£ã¦ã„ã¾ã™ã€‚>>>>>>> 1.8

@@ -1,25 +1,25 @@
 ###############################################################################
 # Preview Framework
 ###############################################################################
-designer.preview.previewtoolbarmenuaction.label=º¸°í¼­ º¸±â
+designer.preview.previewtoolbarmenuaction.label=ë³´ê³ ì„œ ë³´ê¸°
 
-designer.preview.previewcascadingmenugroup.label=º¸°í¼­ º¸±â(&R)
+designer.preview.previewcascadingmenugroup.label=ë³´ê³ ì„œ ë³´ê¸°(&R)
 
-ActionSet.Preview=¹Ì¸® º¸±â
+ActionSet.Preview=ë¯¸ë¦¬ ë³´ê¸°
 
-template.preview=»õ ¹Ì¸® º¸±â ÇÁ·ÎÅäÅ¸ÀÔ(&T)
+template.preview=ìƒˆ ë¯¸ë¦¬ ë³´ê¸° í”„ë¡œí† íƒ€ìž…(&T)
 
-design.preview=»õ ¹Ì¸® º¸±â ÇÁ·ÎÅäÅ¸ÀÔ(&T)
+design.preview=ìƒˆ ë¯¸ë¦¬ ë³´ê¸° í”„ë¡œí† íƒ€ìž…(&T)
 
-preference.preview=¹Ì¸® º¸±â
+preference.preview=ë¯¸ë¦¬ ë³´ê¸°
 
-preference.preview.server=¼­¹ö ¹Ì¸® º¸±â
+preference.preview.server=ì„œë²„ ë¯¸ë¦¬ ë³´ê¸°
 
 ###############################################################################
 # Actions
 ###############################################################################
-Menu.Report=º¸°í¼­(&T)
+Menu.Report=ë³´ê³ ì„œ(&T)
 
-Action.RunReport=º¸°í¼­ ½ÇÇà(&R)
+Action.RunReport=ë³´ê³ ì„œ ì‹¤í–‰(&R)
 
-Action.ViewDocument=¹®¼­ º¸±â(&V)
+Action.ViewDocument=ë¬¸ì„œ ë³´ê¸°(&V)

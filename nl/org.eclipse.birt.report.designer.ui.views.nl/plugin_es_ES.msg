@@ -19,7 +19,7 @@ Build=@BUILD@
 ###############################################################################
 QuickEditView=Editor de propiedades
 
-ReportViews=Diseño de informe
+ReportViews=DiseÃ±o de informe
 
 DataExplorerView=Explorador de datos
 

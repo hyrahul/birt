@@ -14,4 +14,4 @@ template.script=&Script
 
 library.script=&Script
 
-pageSet.script=Página de &Script
+pageSet.script=PÃ¡gina de &Script

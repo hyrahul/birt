@@ -1,115 +1,115 @@
 ###########################################################
 #Primitive Charts
-SideBySideBar=Les graphiques à barres côte à côte affichent les barres de chaque série l'une à côté de l'autre. Ces barres sont arrangées de sorte qu'elles aient la même largeur. La largeur des barres dépend du nombre de séries tracées.
+SideBySideBar=Les graphiques Ã  barres cÃ´te Ã  cÃ´te affichent les barres de chaque sÃ©rie l'une Ã  cÃ´tÃ© de l'autre. Ces barres sont arrangÃ©es de sorte qu'elles aient la mÃªme largeur. La largeur des barres dÃ©pend du nombre de sÃ©ries tracÃ©es.
 
-StackedBar=Les graphiques à barres empilées affichent des barres les unes sur les autres. Les valeurs positives et négatives sont empilées séparément au-dessus et au-dessous de l'origine.
+StackedBar=Les graphiques Ã  barres empilÃ©es affichent des barres les unes sur les autres. Les valeurs positives et nÃ©gatives sont empilÃ©es sÃ©parÃ©ment au-dessus et au-dessous de l'origine.
 
-PercentStackedBar=Les graphiques à barres empilées à pourcentage affichent les barres empilées les unes sur les autres, de sorte que la hauteur totale des barres empilées (du point le plus bas au point le plus haut) atteigne 100.
+PercentStackedBar=Les graphiques Ã  barres empilÃ©es Ã  pourcentage affichent les barres empilÃ©es les unes sur les autres, de sorte que la hauteur totale des barres empilÃ©es (du point le plus bas au point le plus haut) atteigne 100.
 
-OverlayLine=Les graphiques à lignes superposées affichent les lignes de chaque série indépendamment des autres. Les lignes regroupent les valeurs pour la série.
+OverlayLine=Les graphiques Ã  lignes superposÃ©es affichent les lignes de chaque sÃ©rie indÃ©pendamment des autres. Les lignes regroupent les valeurs pour la sÃ©rie.
 
-StackedLine=Les graphiques de lignes empilées affichent des lignes les unes sur les autres. Les valeurs positives et négatives sont empilées séparément au-dessus et au-dessous de l'origine.
+StackedLine=Les graphiques de lignes empilÃ©es affichent des lignes les unes sur les autres. Les valeurs positives et nÃ©gatives sont empilÃ©es sÃ©parÃ©ment au-dessus et au-dessous de l'origine.
 
-PercentStackedLine=Les graphiques de lignes empilées à pourcentage affichent des lignes empilées les unes sur les autres de telle manière que la hauteur totale des lignes (du point le plus bas au point le plus haut dans chaque unité) représente 100.
+PercentStackedLine=Les graphiques de lignes empilÃ©es Ã  pourcentage affichent des lignes empilÃ©es les unes sur les autres de telle maniÃ¨re que la hauteur totale des lignes (du point le plus bas au point le plus haut dans chaque unitÃ©) reprÃ©sente 100.
 
-OverlayArea=Les graphiques en aires superposées affichent les aires de chaque série indépendamment des autres. Les aires regroupent les valeurs pour la série.
+OverlayArea=Les graphiques en aires superposÃ©es affichent les aires de chaque sÃ©rie indÃ©pendamment des autres. Les aires regroupent les valeurs pour la sÃ©rie.
 
-StackedArea=Les graphiques en aires empilées affichent des aires les unes sur les autres. Les valeurs positives et négatives sont empilées séparément au-dessus et au-dessous de l'origine.
+StackedArea=Les graphiques en aires empilÃ©es affichent des aires les unes sur les autres. Les valeurs positives et nÃ©gatives sont empilÃ©es sÃ©parÃ©ment au-dessus et au-dessous de l'origine.
 
-PercentStackedArea=Les graphiques en aires empilées à pourcentage affichent des aires empilées les unes sur les autres de telle manière que la hauteur totale des aires (du point le plus bas au point le plus haut dans chaque unité) représente 100.
+PercentStackedArea=Les graphiques en aires empilÃ©es Ã  pourcentage affichent des aires empilÃ©es les unes sur les autres de telle maniÃ¨re que la hauteur totale des aires (du point le plus bas au point le plus haut dans chaque unitÃ©) reprÃ©sente 100.
 
-Pie=Les graphiques à secteurs affichent les valeurs sous la forme de tranches de secteur. La taille de chaque tranche est proportionnelle à la valeur qu'elle représente. Les graphiques à secteurs pour séries multiples sont tracés sous la forme de secteurs multiples, un secteur par série.
+Pie=Les graphiques Ã  secteurs affichent les valeurs sous la forme de tranches de secteur. La taille de chaque tranche est proportionnelle Ã  la valeur qu'elle reprÃ©sente. Les graphiques Ã  secteurs pour sÃ©ries multiples sont tracÃ©s sous la forme de secteurs multiples, un secteur par sÃ©rie.
 
-StandardMeter=Les graphiques à cadrans standard contiennent un seul cadran par zone(s). L'arrière-plan du cadran peut être divisé en zones de différentes couleurs.
+StandardMeter=Les graphiques Ã  cadrans standard contiennent un seul cadran par zone(s). L'arriÃ¨re-plan du cadran peut Ãªtre divisÃ© en zones de diffÃ©rentes couleurs.
 
-SuperImposedMeter=Les graphiques à cadrans superposés contiennent plusieurs cadrans avec des zones identiques. Les cadrans se chevauchent afin que plusieurs aiguilles apparaissent dans une même zone.
+SuperImposedMeter=Les graphiques Ã  cadrans superposÃ©s contiennent plusieurs cadrans avec des zones identiques. Les cadrans se chevauchent afin que plusieurs aiguilles apparaissent dans une mÃªme zone.
 
-Scatter=Les graphiques en nuage de points affichent les valeurs disposées sur le tracé en utilisant les données de catégorie et de valeur comme coordonnées. Chaque valeur de données est indiquée par un repère.
+Scatter=Les graphiques en nuage de points affichent les valeurs disposÃ©es sur le tracÃ© en utilisant les donnÃ©es de catÃ©gorie et de valeur comme coordonnÃ©es. Chaque valeur de donnÃ©es est indiquÃ©e par un repÃ¨re.
 
-BarStickStock=Un graphique boursier à barres contient une ligne verticale reliée à deux lignes horizontales. Les points supérieur et inférieur de la ligne verticale correspondent à la valeur boursière la plus élevée et la plus basse. Les deux lignes horizontales correspondent aux valeurs d'ouverture et de fermeture.
+BarStickStock=Un graphique boursier Ã  barres contient une ligne verticale reliÃ©e Ã  deux lignes horizontales. Les points supÃ©rieur et infÃ©rieur de la ligne verticale correspondent Ã  la valeur boursiÃ¨re la plus Ã©levÃ©e et la plus basse. Les deux lignes horizontales correspondent aux valeurs d'ouverture et de fermeture.
 
-CandleStickStock=Un graphique boursier en chandelier se présente sous la forme d'un cadre dont les côtés sont joints par des courbes. Les coins supérieurs et inférieurs du cadre correspondent aux valeurs d'ouverture et de fermeture. Les points supérieur et inférieur de la ligne correspondent à la valeur la plus élevée et la plus basse.
+CandleStickStock=Un graphique boursier en chandelier se prÃ©sente sous la forme d'un cadre dont les cÃ´tÃ©s sont joints par des courbes. Les coins supÃ©rieurs et infÃ©rieurs du cadre correspondent aux valeurs d'ouverture et de fermeture. Les points supÃ©rieur et infÃ©rieur de la ligne correspondent Ã  la valeur la plus Ã©levÃ©e et la plus basse.
 
-Bubble=Les graphiques à bulles sont une extension des graphiques à nuages de points : les points sont simplement remplacés par des bulles. Le diamètre des bulles correspond au tiers de la valeur des données et ne correspond en rien à l'abscisse et à l'ordonnée.
+Bubble=Les graphiques Ã  bulles sont une extension des graphiques Ã  nuages de pointsÂ : les points sont simplement remplacÃ©s par des bulles. Le diamÃ¨tre des bulles correspond au tiers de la valeur des donnÃ©es et ne correspond en rien Ã  l'abscisse et Ã  l'ordonnÃ©e.
 
-Difference=Les graphiques de différence représentent l'aire comprise entre deux lignes de valeurs. Ils héritent de toutes les propriétés des séries d'aires et peuvent également représenter une aire négative, à l'aide d'une couleur différente.
+Difference=Les graphiques de diffÃ©rence reprÃ©sentent l'aire comprise entre deux lignes de valeurs. Ils hÃ©ritent de toutes les propriÃ©tÃ©s des sÃ©ries d'aires et peuvent Ã©galement reprÃ©senter une aire nÃ©gative, Ã  l'aide d'une couleur diffÃ©rente.
 
-Gantt=Les graphiques de Gantt sont utilisés pour suivre la durée et la progression des tâches. Elle sont représentées sur un axe vertical dateheure, à l'aide de barres ayant une largeur personnalisée et des repères de début et de fin (en option). Chaque barre est définie par sa catégorie, son étiquette de tâches, son heure de début et son heure de fin. Il est possible de superposer plusieurs séries Gantt de différentes largeurs, par exemple, pour suivre le progrès réel des tâches planifiées.
+Gantt=Les graphiques de Gantt sont utilisÃ©s pour suivre la durÃ©e et la progression des tÃ¢ches. Elle sont reprÃ©sentÃ©es sur un axe vertical dateheure, Ã  l'aide de barres ayant une largeur personnalisÃ©e et des repÃ¨res de dÃ©but et de fin (en option). Chaque barre est dÃ©finie par sa catÃ©gorie, son Ã©tiquette de tÃ¢ches, son heure de dÃ©but et son heure de fin. Il est possible de superposer plusieurs sÃ©ries Gantt de diffÃ©rentes largeurs, par exemple, pour suivre le progrÃ¨s rÃ©el des tÃ¢ches planifiÃ©es.
 
-Tube=Les graphiques à cylindres ressemblent aux graphiques à barres, au détail près que les barres sont représentées par des cylindres.
+Tube=Les graphiques Ã  cylindres ressemblent aux graphiques Ã  barres, au dÃ©tail prÃ¨s que les barres sont reprÃ©sentÃ©es par des cylindres.
 
-Cone=Les graphiques à cônes ressemblent aux graphiques à barres, au détail près que les barres sont représentées par des cônes.
+Cone=Les graphiques Ã  cÃ´nes ressemblent aux graphiques Ã  barres, au dÃ©tail prÃ¨s que les barres sont reprÃ©sentÃ©es par des cÃ´nes.
 
-Pyramid=Les graphiques à pyramides ressemblent aux graphiques à barres, au détail près que les barres sont représentées par des pyramides.
+Pyramid=Les graphiques Ã  pyramides ressemblent aux graphiques Ã  barres, au dÃ©tail prÃ¨s que les barres sont reprÃ©sentÃ©es par des pyramides.
 
-Radar=Les graphiques en radar standard contiennent une grille circulaire superposée à un(e) ou plusieurs polygones/lignes de série.
+Radar=Les graphiques en radar standard contiennent une grille circulaire superposÃ©e Ã  un(e) ou plusieurs polygones/lignes de sÃ©rie.
 
 ###########################################################
 #3D Charts
-Bar=Graphique à barres côte à côte en 3 dimensions.
+Bar=Graphique Ã  barres cÃ´te Ã  cÃ´te en 3 dimensions.
 
-Line=Graphique à lignes superposées en 3 dimensions.
+Line=Graphique Ã  lignes superposÃ©es en 3 dimensions.
 
-Area=Graphique en aires superposées en 3 dimensions.
+Area=Graphique en aires superposÃ©es en 3 dimensions.
 
-Tube3D=Graphique à cylindres côte à côte en 3 dimensions.
+Tube3D=Graphique Ã  cylindres cÃ´te Ã  cÃ´te en 3 dimensions.
 
-Cone3D=Graphique à cônes côte à côte en 3 dimensions.
+Cone3D=Graphique Ã  cÃ´nes cÃ´te Ã  cÃ´te en 3 dimensions.
 
-Pyramid3D=Graphique à pyramides côte à côte en 3 dimensions.
+Pyramid3D=Graphique Ã  pyramides cÃ´te Ã  cÃ´te en 3 dimensions.
 
 ###########################################################
 #Combination Charts
-BarAndLine=Les graphiques à barres et à lignes contiennent 2 séries. Elles partagent la même valeur de catégorie.
+BarAndLine=Les graphiques Ã  barres et Ã  lignes contiennent 2 sÃ©ries. Elles partagent la mÃªme valeur de catÃ©gorie.
 
 
 ###########################################################
 #Formatted Charts
-AxisLabelFormat=Spécifiez le format des étiquettes d'axe : axe des Y($###,###) et axe des X(MM/dd/yyyy). Les utilisateurs ont également la possibilité de définir la couleur, la police, le contour ainsi que d'autres attributs d'étiquette.
+AxisLabelFormat=SpÃ©cifiez le format des Ã©tiquettes d'axe : axe des Y($###,###) et axe des X(MM/dd/yyyy). Les utilisateurs ont Ã©galement la possibilitÃ© de dÃ©finir la couleur, la police, le contour ainsi que d'autres attributs d'Ã©tiquette.
 
-AxisTitleFormat=Tous les attributs d'étiquette peuvent être appliqués au titre des axes.
+AxisTitleFormat=Tous les attributs d'Ã©tiquette peuvent Ãªtre appliquÃ©s au titre des axes.
 
-ColoredByCategorySeries=Définissez le type d'élément de légende en tant que catégorie.
+ColoredByCategorySeries=DÃ©finissez le type d'Ã©lÃ©ment de lÃ©gende en tant que catÃ©gorie.
 
-OpenJavaSourceAction.Text.Description=Ouvrir la source Java du répertoire correspondant
+OpenJavaSourceAction.Text.Description=Ouvrir la source Java du rÃ©pertoire correspondant
 
 OpenJavaSourceAction.Text.ToolTip=Ouvrir la source Java
 
-SaveXMLAction.MessageBox.Message=La source XML existe déjà dans ce répertoire. \nVoulez-vous la remplacer ?
+SaveXMLAction.MessageBox.Message=La source XML existe dÃ©jÃ  dans ce rÃ©pertoire. \nVoulez-vous la remplacer ?
 
 SaveXMLAction.MessageBox.Text=Enregistrer la source XML
 
-SaveXMLAction.Text.Description=Enregistrer la source XML dans le répertoire de votre choix
+SaveXMLAction.Text.Description=Enregistrer la source XML dans le rÃ©pertoire de votre choix
 
 SaveXMLAction.Text.ToolTip=Enregistrer la source XML
 
-ColoredByValueSeries=Définissez le type d'élément de légende en tant que série.
+ColoredByValueSeries=DÃ©finissez le type d'Ã©lÃ©ment de lÃ©gende en tant que sÃ©rie.
 
-CurveFittingArea=Activez l'attribut d'ajustement de courbe de la série d'aires.
+CurveFittingArea=Activez l'attribut d'ajustement de courbe de la sÃ©rie d'aires.
 
-CurveFittingBar=Créez une ligne d'ajustement de courbe pour la série de barres.
+CurveFittingBar=CrÃ©ez une ligne d'ajustement de courbe pour la sÃ©rie de barres.
 
-CurveFittingLine=Activez l'attribut d'ajustement de courbe de la série de lignes.
+CurveFittingLine=Activez l'attribut d'ajustement de courbe de la sÃ©rie de lignes.
 
-CurveFittingStock=Créez une ligne d'ajustement de courbe pour la série d'actions.
+CurveFittingStock=CrÃ©ez une ligne d'ajustement de courbe pour la sÃ©rie d'actions.
 
-LegendFormat=La légende peut être placée sur la gauche, sur la droite, en haut, en bas ou à l'intérieur. La zone client se trouve dans la légende. Elle contient les éléments de légende.
+LegendFormat=La lÃ©gende peut Ãªtre placÃ©e sur la gauche, sur la droite, en haut, en bas ou Ã  l'intÃ©rieur. La zone client se trouve dans la lÃ©gende. Elle contient les Ã©lÃ©ments de lÃ©gende.
 
-MarkerLine=La ligne de repères peut être créée pour l'axe des X et l'axe des Y (pour le type ChartWithAxes seulement).
+MarkerLine=La ligne de repÃ¨res peut Ãªtre crÃ©Ã©e pour l'axe des X et l'axe des Y (pour le type ChartWithAxes seulement).
 
-MarkerRange=La gamme de repères peut être créée pour l'axe des X et l'axe des Y (pour le type ChartWithAxes seulement).
+MarkerRange=La gamme de repÃ¨res peut Ãªtre crÃ©Ã©e pour l'axe des X et l'axe des Y (pour le type ChartWithAxes seulement).
 
-MultiplePie=Un graphique à secteurs contient plusieurs séries secteur. Elles peuvent constituer un groupe de secteurs représentant une comparaison de valeurs.
+MultiplePie=Un graphique Ã  secteurs contient plusieurs sÃ©ries secteur. Elles peuvent constituer un groupe de secteurs reprÃ©sentant une comparaison de valeurs.
 
-MDialSRegionMeter=Plusieurs aiguilles dans un même tableau à cadran.
+MDialSRegionMeter=Plusieurs aiguilles dans un mÃªme tableau Ã  cadran.
 
-SDialSRegionMeter=Une aiguille dans un seul tableau à cadran.
+SDialSRegionMeter=Une aiguille dans un seul tableau Ã  cadran.
 
-PercentageValueFormat=Représentez la valeur de série en tant que valeur de pourcentage.
+PercentageValueFormat=ReprÃ©sentez la valeur de sÃ©rie en tant que valeur de pourcentage.
 
-PlotFormat=Spécifiez l'apparence de la zone de tracé et de la zone client.
+PlotFormat=SpÃ©cifiez l'apparence de la zone de tracÃ© et de la zone client.
 
-SeriesValueFormat=Spécifiez le format des données de valeur ($###,###.00) et l'étiquette de l'axe horizontal (MM/jj/aaaa).
+SeriesValueFormat=SpÃ©cifiez le format des donnÃ©es de valeur ($###,###.00) et l'Ã©tiquette de l'axe horizontal (MM/jj/aaaa).
 
 ###########################################################
 #Scripted Charts
@@ -117,13 +117,13 @@ AxisLabelScript=beforeDrawAxisLabel() permet aux utilisateurs de manipuler les a
 
 AxisTitleScript=beforeDrawAxisTitle() permet aux utilisateurs de manipuler les attributs Axis et Label(Axis.getTitle()).
 
-BlockScript=beforeDrawBlock() permet aux utilisateurs de manipuler les attributs Block (par exemple, Tracé, Titre, Légende).
+BlockScript=beforeDrawBlock() permet aux utilisateurs de manipuler les attributs Block (par exemple, TracÃ©, Titre, LÃ©gende).
 
 CurveFittingScript=beforeDrawFittingCurve() permet aux utilisateurs de manipuler les attributs CurveFitting.
 
 DataPointLabelScript=beforeDrawDataPointLabel() permet aux utilisateurs de manipuler les attributs DataPointHints et Label.
 
-LegendScript=beforeDrawLegendItem() permet aux utilisateurs de manipuler les éléments de légende et les attributs de limites.
+LegendScript=beforeDrawLegendItem() permet aux utilisateurs de manipuler les Ã©lÃ©ments de lÃ©gende et les attributs de limites.
 
 MarkerLineScript=beforeDrawMarkerLine() permet aux utilisateurs de manipuler les attributs Axis et MarkerLine.
 
@@ -131,29 +131,29 @@ MarkerRangeScript=beforeDrawMarkerRange() permet aux utilisateurs de manipuler l
 
 SeriesScript=beforeDrawSeries() permet aux utilisateurs de manipuler les attributs Series et ISeriesRenderer(BaseRenderer ou AxesRenderer).
 
-SeriesTitleScript=beforeDrawSeriesTitle() permet aux utilisateurs de manipuler les attributs Series et Label(Series.getTitle()). Il s'applique uniquement aux graphiques à secteurs.
+SeriesTitleScript=beforeDrawSeriesTitle() permet aux utilisateurs de manipuler les attributs Series et Label(Series.getTitle()). Il s'applique uniquement aux graphiques Ã  secteurs.
 
 ###########################################################
 #Data Operations
-MinSlice=L'utilisateur peut spécifier une valeur minimale (valeur absolue ou pourcentage) pour une tranche. Les tranches de graphiques à secteurs peuvent être éclatées en définissant l'expression sur l'attribut d'éclatement.
+MinSlice=L'utilisateur peut spÃ©cifier une valeur minimale (valeur absolue ou pourcentage) pour une tranche. Les tranches de graphiques Ã  secteurs peuvent Ãªtre Ã©clatÃ©es en dÃ©finissant l'expression sur l'attribut d'Ã©clatement.
 
 MultipleYAxes=Un graphique peut contenir plusieurs axes des Y.
 
-MultipleYSeries=Un graphique peut contenir plusieurs séries (de valeurs) Y.
+MultipleYSeries=Un graphique peut contenir plusieurs sÃ©ries (de valeurs) Y.
 
-WorkingWithBIRTDataEngine=Un graphique fonctionne avec ODA/DtE (BIRT Data Engine) pour obtenir des données groupées / agrégées sans les grouper / les agréger lui-même.
+WorkingWithBIRTDataEngine=Un graphique fonctionne avec ODA/DtE (BIRT Data Engine) pour obtenir des donnÃ©es groupÃ©es / agrÃ©gÃ©es sans les grouper / les agrÃ©ger lui-mÃªme.
 
 ###########################################################
 #Default
-DefaultDescription=Sélectionnez un exemple dans les catégories
+DefaultDescription=SÃ©lectionnez un exemple dans les catÃ©gories
 
 ###########################################################
 #Example View labels
 ChartExamples.Description=Description
 
-ChartExamples.Preview=Aperçu
+ChartExamples.Preview=AperÃ§u
 
-ChartExamples.SelectExamples=Sélectionner Exemples
+ChartExamples.SelectExamples=SÃ©lectionner Exemples
 
 ############################################################
 #Category Names
@@ -163,52 +163,52 @@ SampleChartCategory.3DCharts=Graphiques en 3D
 
 SampleChartCategory.CombinationCharts=Graphiques de combinaison
 
-SampleChartCategory.FormattedCharts=Graphiques formatés
+SampleChartCategory.FormattedCharts=Graphiques formatÃ©s
 
-SampleChartCategory.ScriptedCharts=Graphiques nécessitant un script
+SampleChartCategory.ScriptedCharts=Graphiques nÃ©cessitant un script
 
-SampleChartCategory.DataOperations=Opérations de données
+SampleChartCategory.DataOperations=OpÃ©rations de donnÃ©es
 #Sample Chart Names
 #Primitive Charts
 SampleChartName.SideBySideBar=Barres adjacentes
 
-SampleChartName.StackedBar=Barres empilées
+SampleChartName.StackedBar=Barres empilÃ©es
 
-SampleChartName.PercentStackedBar=Barres empilées à pourcentage
+SampleChartName.PercentStackedBar=Barres empilÃ©es Ã  pourcentage
 
-SampleChartName.OverlayLine=Lignes superposées
+SampleChartName.OverlayLine=Lignes superposÃ©es
 
-SampleChartName.StackedLine=Lignes empilées
+SampleChartName.StackedLine=Lignes empilÃ©es
 
-SampleChartName.PercentStackedLine=Lignes empilées à pourcentage
+SampleChartName.PercentStackedLine=Lignes empilÃ©es Ã  pourcentage
 
-SampleChartName.OverlayArea=Aires superposées
+SampleChartName.OverlayArea=Aires superposÃ©es
 
-SampleChartName.StackedArea=Aires empilées
+SampleChartName.StackedArea=Aires empilÃ©es
 
-SampleChartName.PercentStackedArea=Aires empilées à pourcentage
+SampleChartName.PercentStackedArea=Aires empilÃ©es Ã  pourcentage
 
 SampleChartName.Pie=Secteur
 
 SampleChartName.StandardMeter=Cadrans standard
 
-SampleChartName.SuperImposedMeter=Cadrans superposés
+SampleChartName.SuperImposedMeter=Cadrans superposÃ©s
 
 SampleChartName.Scatter=Nuage de points
 
-SampleChartName.BarStickStock=Graphique boursier à barres
+SampleChartName.BarStickStock=Graphique boursier Ã  barres
 
 SampleChartName.CandleStickStock=Graphique boursier en chandelier
 
 SampleChartName.Bubble=Bulle
 
-SampleChartName.Difference=Différence
+SampleChartName.Difference=DiffÃ©rence
 
 SampleChartName.Gantt=Gantt
 
 SampleChartName.Tube=Cylindre
 
-SampleChartName.Cone=Cône
+SampleChartName.Cone=CÃ´ne
 
 SampleChartName.Pyramid=Pyramide
 
@@ -222,19 +222,19 @@ SampleChartName.Area=Aire
 
 SampleChartName.Tube3D=Cylindre
 
-SampleChartName.Cone3D=Cône
+SampleChartName.Cone3D=CÃ´ne
 
 SampleChartName.Pyramid3D=Pyramide
 #Combination Charts
 SampleChartName.BarAndLine=Barres et lignes
 #Formatted Charts
-SampleChartName.AxisLabelFormat=Format de l'étiquette de l'axe
+SampleChartName.AxisLabelFormat=Format de l'Ã©tiquette de l'axe
 
 SampleChartName.AxisTitleFormat=Format du titre de l'axe
 
-SampleChartName.ColoredByCategorySeries=Couleur par série de catégories
+SampleChartName.ColoredByCategorySeries=Couleur par sÃ©rie de catÃ©gories
 
-SampleChartName.ColoredByValueSeries=Couleur par série de valeurs
+SampleChartName.ColoredByValueSeries=Couleur par sÃ©rie de valeurs
 
 SampleChartName.CurveFittingArea=Aire d'ajustement de courbe
 
@@ -244,25 +244,25 @@ SampleChartName.CurveFittingLine=Ligne d'ajustement de courbe
 
 SampleChartName.CurveFittingStock=Action d'ajustement de courbe
 
-SampleChartName.LegendFormat=Format de la légende
+SampleChartName.LegendFormat=Format de la lÃ©gende
 
-SampleChartName.MarkerLine=Ligne de repères
+SampleChartName.MarkerLine=Ligne de repÃ¨res
 
-SampleChartName.MarkerRange=Gamme de repères
+SampleChartName.MarkerRange=Gamme de repÃ¨res
 
 SampleChartName.MultiplePie=Secteur multiple
 
-SampleChartName.MDialSRegionMeter=Cadran par zone unique à aiguilles multiples
+SampleChartName.MDialSRegionMeter=Cadran par zone unique Ã  aiguilles multiples
 
-SampleChartName.SDialSRegionMeter=Cadran par zone unique à aiguille unique
+SampleChartName.SDialSRegionMeter=Cadran par zone unique Ã  aiguille unique
 
 SampleChartName.PercentageValueFormat=Format de la valeur en pourcentage
 
-SampleChartName.PlotFormat=Format du tracé
+SampleChartName.PlotFormat=Format du tracÃ©
 
-SampleChartName.SeriesValueFormat=Format de la valeur de série
+SampleChartName.SeriesValueFormat=Format de la valeur de sÃ©rie
 #Scripted Charts
-SampleChartName.AxisLabelScript=Script de l'étiquette de l'axe
+SampleChartName.AxisLabelScript=Script de l'Ã©tiquette de l'axe
 
 SampleChartName.AxisTitleScript=Script du titre de l'axe
 
@@ -270,23 +270,23 @@ SampleChartName.BlockScript=Script du bloc
 
 SampleChartName.CurveFittingScript=Script d'ajustement de courbe
 
-SampleChartName.DataPointLabelScript=Script de l'étiquette de point de données
+SampleChartName.DataPointLabelScript=Script de l'Ã©tiquette de point de donnÃ©es
 
-SampleChartName.LegendScript=Script de la légende
+SampleChartName.LegendScript=Script de la lÃ©gende
 
-SampleChartName.MarkerLineScript=Script de la ligne de repères
+SampleChartName.MarkerLineScript=Script de la ligne de repÃ¨res
 
-SampleChartName.MarkerRangeScript=Script de la gamme de repères
+SampleChartName.MarkerRangeScript=Script de la gamme de repÃ¨res
 
-SampleChartName.SeriesScript=Script de la série
+SampleChartName.SeriesScript=Script de la sÃ©rie
 
-SampleChartName.SeriesTitleScript=Script du titre de la série
+SampleChartName.SeriesTitleScript=Script du titre de la sÃ©rie
 #Data Operations
 SampleChartName.MinSlice=Tranche Min
 
 SampleChartName.MultipleYAxes=Axes Y multiples
 
-SampleChartName.MultipleYSeries=Séries Y multiples
+SampleChartName.MultipleYSeries=SÃ©ries Y multiples
 
 SampleChartName.WorkingWithBIRTDataEngine=Utilisation de BIRT Data Engine
 

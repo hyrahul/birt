@@ -1,164 +1,164 @@
-exception.base.orthogonal.null.datadefinition=ÁöÁ¤ÇÑ µ¥ÀÌÅÍ Á¤ÀÇ ½ÄÀÌ Àß¸øµÇ¾ú½À´Ï´Ù.
+exception.base.orthogonal.null.datadefinition=ì§€ì •í•œ ë°ì´í„° ì •ì˜ ì‹ì´ ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-exception.dataset.stockseries=ÁÖ½ÄÇü °è¿­¿¡ ¹ÙÀÎµùµÈ µ¥ÀÌÅÍ Ç×¸ñÀÌ ºÒ¿ÏÀüÇÕ´Ï´Ù. ÀÌ Ç×¸ñ¿¡´Â ³ôÀ½, ³·À½, ¿­±â ¹× ´İ±â °ªÀÌ ÀÖ¾î¾ß ÇÕ´Ï´Ù.
+exception.dataset.stockseries=ì£¼ì‹í˜• ê³„ì—´ì— ë°”ì¸ë”©ëœ ë°ì´í„° í•­ëª©ì´ ë¶ˆì™„ì „í•©ë‹ˆë‹¤. ì´ í•­ëª©ì—ëŠ” ë†’ìŒ, ë‚®ìŒ, ì—´ê¸° ë° ë‹«ê¸° ê°’ì´ ìˆì–´ì•¼ í•©ë‹ˆë‹¤.
 
-exception.dataset.null.stockentry=µ¥ÀÌÅÍ Ç×¸ñ¿¡ Àß¸øµÈ ³Î(null) °ªÀÌ ÀÖ°Å³ª ¼ıÀÚ°¡ ¾Æ´Ñ °ªÀÌ ÀÖ½À´Ï´Ù.
+exception.dataset.null.stockentry=ë°ì´í„° í•­ëª©ì— ì˜ëª»ëœ ë„(null) ê°’ì´ ìˆê±°ë‚˜ ìˆ«ìê°€ ì•„ë‹Œ ê°’ì´ ìˆìŠµë‹ˆë‹¤.
 
-exception.dataset.invalid.ganttentry=µ¥ÀÌÅÍ Ç×¸ñ¿¡ Àß¸øµÈ Çü½ÄÀÇ °ªÀÌ ÀÖ½À´Ï´Ù.
+exception.dataset.invalid.ganttentry=ë°ì´í„° í•­ëª©ì— ì˜ëª»ëœ í˜•ì‹ì˜ ê°’ì´ ìˆìŠµë‹ˆë‹¤.
 
-exception.empty.dataset=ºó µ¥ÀÌÅÍ ÁıÇÕÀÌ ÀÖ½À´Ï´Ù.
+exception.empty.dataset=ë¹ˆ ë°ì´í„° ì§‘í•©ì´ ìˆìŠµë‹ˆë‹¤.
 
-exception.empty.palette=°è¿­ {0}°ú(¿Í) ¿¬°áµÈ »ö»óÇ¥°¡ ºñ¾î ÀÖ½À´Ï´Ù.
+exception.empty.palette=ê³„ì—´ {0}ê³¼(ì™€) ì—°ê²°ëœ ìƒ‰ìƒí‘œê°€ ë¹„ì–´ ìˆìŠµë‹ˆë‹¤.
 
-exception.null.values=ÇÃ·Ô¿¡¼­ '¸ğµç ³Î(null)' °ªÀ» Á¤ÀÇÇÒ ¼ö ¾ø½À´Ï´Ù.
+exception.null.values=í”Œë¡¯ì—ì„œ 'ëª¨ë“  ë„(null)' ê°’ì„ ì •ì˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-exception.unknown.datatype=Â÷Æ®¿¡¼­ »ç¿ëµÈ µ¥ÀÌÅÍ ÁıÇÕÀÌ Àß¸øµÇ¾ú½À´Ï´Ù.
+exception.unknown.datatype=ì°¨íŠ¸ì—ì„œ ì‚¬ìš©ëœ ë°ì´í„° ì§‘í•©ì´ ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-exception.dataset.booleantype=ºÎ¿ï Çü½ÄÀº Çã¿ëµÇÁö ¾Ê½À´Ï´Ù.
+exception.dataset.booleantype=ë¶€ìš¸ í˜•ì‹ì€ í—ˆìš©ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-exception.undefined.riser=¸·´ëÇü °è¿­ {0}¿¡¼­ °è´Ü Çü½ÄÀÌ Á¤ÀÇµÇÁö ¾Ê¾Ò½À´Ï´Ù.
+exception.undefined.riser=ë§‰ëŒ€í˜• ê³„ì—´ {0}ì—ì„œ ê³„ë‹¨ í˜•ì‹ì´ ì •ì˜ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
 
-exception.stock.entry.invalid.highlow=ÁÖ½Ä Ç×¸ñÀÌ Àß¸øµÇ¾ú½À´Ï´Ù. °í°¡ {0}ÀÌ(°¡) Àú°¡{1}º¸´Ù ÀÛ½À´Ï´Ù.
+exception.stock.entry.invalid.highlow=ì£¼ì‹ í•­ëª©ì´ ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤. ê³ ê°€ {0}ì´(ê°€) ì €ê°€{1}ë³´ë‹¤ ì‘ìŠµë‹ˆë‹¤.
 
-exception.stock.entry.invalid.high=ÁÖ½Ä Ç×¸ñÀÌ Àß¸øµÇ¾ú½À´Ï´Ù. °í°¡ {0}ÀÌ(°¡) ½Ã°¡/Á¾°¡ {1}º¸´Ù ÀÛ½À´Ï´Ù.
+exception.stock.entry.invalid.high=ì£¼ì‹ í•­ëª©ì´ ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤. ê³ ê°€ {0}ì´(ê°€) ì‹œê°€/ì¢…ê°€ {1}ë³´ë‹¤ ì‘ìŠµë‹ˆë‹¤.
 
-exception.stock.entry.invalid.low=ÁÖ½Ä Ç×¸ñÀÌ Àß¸øµÇ¾ú½À´Ï´Ù. Àú°¡ {0}ÀÌ(°¡) ½Ã°¡/Á¾°¡ {1}º¸´Ù Å®´Ï´Ù.
+exception.stock.entry.invalid.low=ì£¼ì‹ í•­ëª©ì´ ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤. ì €ê°€ {0}ì´(ê°€) ì‹œê°€/ì¢…ê°€ {1}ë³´ë‹¤ í½ë‹ˆë‹¤.
 
-exception.series.visibility=°è¿­ {0}¿¡ ´ëÇÑ Ç¥½Ã À¯ÇüÀÌ ¸íÈ®È÷ ¼³Á¤µÇÁö ¾Ê¾Ò½À´Ï´Ù.
+exception.series.visibility=ê³„ì—´ {0}ì— ëŒ€í•œ í‘œì‹œ ìœ í˜•ì´ ëª…í™•íˆ ì„¤ì •ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
 
-exception.xvalue.scale.bars=¸·´ë¸¦ °ª ¹èÀ²·Î ·»´õ¸µÇÒ ¼ö ¾ø½À´Ï´Ù.
+exception.xvalue.scale.bars=ë§‰ëŒ€ë¥¼ ê°’ ë°°ìœ¨ë¡œ ë Œë”ë§í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-exception.xvalue.scale.lines=¼±À» °ª ¹èÀ²·Î ·»´õ¸µÇÒ ¼ö ¾ø½À´Ï´Ù.
+exception.xvalue.scale.lines=ì„ ì„ ê°’ ë°°ìœ¨ë¡œ ë Œë”ë§í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-exception.xvalue.scale.stock=¿øÅëÇüÀ» °ª ¹èÀ²·Î ·»´õ¸µÇÒ ¼ö ¾ø½À´Ï´Ù.
+exception.xvalue.scale.stock=ì›í†µí˜•ì„ ê°’ ë°°ìœ¨ë¡œ ë Œë”ë§í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-exception.invalid.tick.style.dial=´ÙÀÌ¾ó ½Ã¸®Áî¿¡ ÁöÁ¤µÈ Æ½ ½ºÅ¸ÀÏÀÌ Àß¸øµÇ¾ú½À´Ï´Ù.
+exception.invalid.tick.style.dial=ë‹¤ì´ì–¼ ì‹œë¦¬ì¦ˆì— ì§€ì •ëœ í‹± ìŠ¤íƒ€ì¼ì´ ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-exception.unknown.custom.dataset={1}¿¡¼­ Á¤ÀÇµÈ »ç¿ëÀÚ ÁöÁ¤ µ¥ÀÌÅÍ ÁıÇÕ {0}À»(¸¦) ¾ÏÈ£ ÇØµ¶ÇÒ ¼ö ¾ø½À´Ï´Ù.
+exception.unknown.custom.dataset={1}ì—ì„œ ì •ì˜ëœ ì‚¬ìš©ì ì§€ì • ë°ì´í„° ì§‘í•© {0}ì„(ë¥¼) ì•”í˜¸ í•´ë…í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-exception.curve.visibility.unset=°î¼±ÀÇ ¼± Æ¯¼º¿¡ ´ëÇÑ Ç¥½Ã À¯ÇüÀ» ¼³Á¤ÇØ¾ß ÇÕ´Ï´Ù.
+exception.curve.visibility.unset=ê³¡ì„ ì˜ ì„  íŠ¹ì„±ì— ëŒ€í•œ í‘œì‹œ ìœ í˜•ì„ ì„¤ì •í•´ì•¼ í•©ë‹ˆë‹¤.
 
-exception.visibility.line.unset=¼±ÀÇ ¼± Æ¯¼º¿¡ ´ëÇÑ Ç¥½Ã À¯ÇüÀ» ¼³Á¤ÇØ¾ß ÇÕ´Ï´Ù.
+exception.visibility.line.unset=ì„ ì˜ ì„  íŠ¹ì„±ì— ëŒ€í•œ í‘œì‹œ ìœ í˜•ì„ ì„¤ì •í•´ì•¼ í•©ë‹ˆë‹¤.
 
-exception.cannot.parse.sample=°è¿­ µ¥ÀÌÅÍ ÁıÇÕ°ú ¿¬°áÇÒ »ùÇÃ µ¥ÀÌÅÍ °ªÀ» ±¸¹® ºĞ¼®ÇÒ ¼ö ¾ø½À´Ï´Ù.
+exception.cannot.parse.sample=ê³„ì—´ ë°ì´í„° ì§‘í•©ê³¼ ì—°ê²°í•  ìƒ˜í”Œ ë°ì´í„° ê°’ì„ êµ¬ë¬¸ ë¶„ì„í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-exception.no.stack.percent.3D.chart=3D Â÷Æ®¿¡ ´ëÇØ ½ºÅÃ ¹× ÆÛ¼¾Æ® ±â´ÉÀÌ Áö¿øµÇÁö ¾Ê½À´Ï´Ù.
+exception.no.stack.percent.3D.chart=3D ì°¨íŠ¸ì— ëŒ€í•´ ìŠ¤íƒ ë° í¼ì„¼íŠ¸ ê¸°ëŠ¥ì´ ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-exception.dial.dimension=''{0}''Àº(´Â) ´ÙÀÌ¾ó ½Ã¸®Áî¿¡¼­ Áö¿øµÇÁö ¾Ê½À´Ï´Ù.
+exception.dial.dimension=''{0}''ì€(ëŠ”) ë‹¤ì´ì–¼ ì‹œë¦¬ì¦ˆì—ì„œ ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-exception.pie.dimension=''{0}''Àº(´Â) ¿øÇü ½Ã¸®Áî¿¡¼­ Áö¿øµÇÁö ¾Ê½À´Ï´Ù.
+exception.pie.dimension=''{0}''ì€(ëŠ”) ì›í˜• ì‹œë¦¬ì¦ˆì—ì„œ ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-exception.scatter.dimension=''{0}''Àº(´Â) ºĞ»êÇü ½Ã¸®Áî¿¡¼­ Áö¿øµÇÁö ¾Ê½À´Ï´Ù.
+exception.scatter.dimension=''{0}''ì€(ëŠ”) ë¶„ì‚°í˜• ì‹œë¦¬ì¦ˆì—ì„œ ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-exception.stock.dimension=Â÷¿ø {0}À»(¸¦) »ç¿ëÇÏ¿© ÁÖ½ÄÇü °è¿­À» ·»´õ¸µÇÒ ¼ö ¾ø½À´Ï´Ù.
+exception.stock.dimension=ì°¨ì› {0}ì„(ë¥¼) ì‚¬ìš©í•˜ì—¬ ì£¼ì‹í˜• ê³„ì—´ì„ ë Œë”ë§í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-exception.multi.orthogonal.3D.not.supported=´ÙÁß °ª ÃàÀº 3D Â÷Æ®¿¡¼­ Áö¿øµÇÁö ¾Ê½À´Ï´Ù.
+exception.multi.orthogonal.3D.not.supported=ë‹¤ì¤‘ ê°’ ì¶•ì€ 3D ì°¨íŠ¸ì—ì„œ ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-exception.scatter.3D.not.supported=ºĞ»êÇü ¹üÁÖ ÃàÀº 3D Â÷Æ®¿¡¼­ Áö¿øµÇÁö ¾Ê½À´Ï´Ù.
+exception.scatter.3D.not.supported=ë¶„ì‚°í˜• ë²”ì£¼ ì¶•ì€ 3D ì°¨íŠ¸ì—ì„œ ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-exception.no.transposed.3D.chart=ÀüÀ§´Â 3D Â÷Æ®¿¡¼­ Áö¿øµÇÁö ¾Ê½À´Ï´Ù.
+exception.no.transposed.3D.chart=ì „ìœ„ëŠ” 3D ì°¨íŠ¸ì—ì„œ ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-exception.no.transposed.stock.chart=ÀüÀ§´Â ÁÖ½ÄÇü Â÷Æ®¿¡¼­ Áö¿øµÇÁö ¾Ê½À´Ï´Ù.
+exception.no.transposed.stock.chart=ì „ìœ„ëŠ” ì£¼ì‹í˜• ì°¨íŠ¸ì—ì„œ ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-exception.no.transposed.gantt.chart=ÀüÀ§´Â °£Æ® Â÷Æ®¿¡¼­¸¸ Áö¿øµË´Ï´Ù.
+exception.no.transposed.gantt.chart=ì „ìœ„ëŠ” ê°„íŠ¸ ì°¨íŠ¸ì—ì„œë§Œ ì§€ì›ë©ë‹ˆë‹¤.
 
-exception.3D.points.length.less.than.3=3D ·»´õ¸µ ÀÌº¥Æ®¿¡ ´ëÇÑ Æ÷ÀÎÆ® ¸ñ·Ï ±æÀÌ´Â 3 ÀÌ»óÀÌ¾î¾ß ÇÕ´Ï´Ù(>=3).
+exception.3D.points.length.less.than.3=3D ë Œë”ë§ ì´ë²¤íŠ¸ì— ëŒ€í•œ í¬ì¸íŠ¸ ëª©ë¡ ê¸¸ì´ëŠ” 3 ì´ìƒì´ì–´ì•¼ í•©ë‹ˆë‹¤(>=3).
 
-exception.empty.icon.list=Ç¥Áö¿¡ ´ëÇÑ ¾ÆÀÌÄÜ »ö»óÇ¥ ¸ñ·ÏÀÌ ºñ¾î ÀÖ½À´Ï´Ù.
+exception.empty.icon.list=í‘œì§€ì— ëŒ€í•œ ì•„ì´ì½˜ ìƒ‰ìƒí‘œ ëª©ë¡ì´ ë¹„ì–´ ìˆìŠµë‹ˆë‹¤.
 
-info.sample.formats=¿¹\n¼ıÀÚ: 1,2,3\n³¯Â¥: 05-01-26,05-01-27,05-01-28\nÅØ½ºÆ®: 'a,b,c'\nº¹¼ö °ªÀº ¸ğµÎ ½°Ç¥·Î ºĞ¸®µË´Ï´Ù.
+info.sample.formats=ì˜ˆ\nìˆ«ì: 1,2,3\në‚ ì§œ: 05-01-26,05-01-27,05-01-28\ní…ìŠ¤íŠ¸: 'a,b,c'\në³µìˆ˜ ê°’ì€ ëª¨ë‘ ì‰¼í‘œë¡œ ë¶„ë¦¬ë©ë‹ˆë‹¤.
 
 info.render.series={0}: renderSeries() [{1}/{2}]
-info.stock.sample.format=¿¹: H2.30 L4.50 O1.53 C7.01, H5.4 L3.5 O2.9 C6.7
+info.stock.sample.format=ì˜ˆ: H2.30 L4.50 O1.53 C7.01, H5.4 L3.5 O2.9 C6.7
 
-info.datapoint.BubbleValue=°ÅÇ° °ª
+info.datapoint.BubbleValue=ê±°í’ˆ ê°’
 
-info.datapoint.BubbleSize=°ÅÇ° Å©±â
+info.datapoint.BubbleSize=ê±°í’ˆ í¬ê¸°
 
-info.datapoint.PositiveValue=¾ç¼ö °ª
+info.datapoint.PositiveValue=ì–‘ìˆ˜ ê°’
 
-info.datapoint.NegativeValue=À½¼ö °ª
+info.datapoint.NegativeValue=ìŒìˆ˜ ê°’
 
-info.datapoint.GanttStartDate=½ÃÀÛ ³¯Â¥
+info.datapoint.GanttStartDate=ì‹œì‘ ë‚ ì§œ
 
-info.datapoint.GanttEndDate=Á¾·á ³¯Â¥
+info.datapoint.GanttEndDate=ì¢…ë£Œ ë‚ ì§œ
 
-info.datapoint.GanttDecorationLabel=ÀÛ¾÷ ·¹ÀÌºí
+info.datapoint.GanttDecorationLabel=ì‘ì—… ë ˆì´ë¸”
 
-info.datapoint.High=³ôÀ½
+info.datapoint.High=ë†’ìŒ
 
-info.datapoint.Low=³·À½
+info.datapoint.Low=ë‚®ìŒ
 
-info.datapoint.Open=¿­±â
+info.datapoint.Open=ì—´ê¸°
 
-info.datapoint.Close=´İ±â
+info.datapoint.Close=ë‹«ê¸°
 
-exception.missing.series.for.palette.index=»ö»óÇ¥ ÀÎµ¦½º¸¦ °è»êÇÏ´Â µ¥ ÇÊ¿äÇÑ ´ë·Î °è¿­ Á¤ÀÇ {1}¿¡¼­ °è¿­ {0}À»(¸¦) Ã£À» ¼ö ¾ø½À´Ï´Ù.
+exception.missing.series.for.palette.index=ìƒ‰ìƒí‘œ ì¸ë±ìŠ¤ë¥¼ ê³„ì‚°í•˜ëŠ” ë° í•„ìš”í•œ ëŒ€ë¡œ ê³„ì—´ ì •ì˜ {1}ì—ì„œ ê³„ì—´ {0}ì„(ë¥¼) ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-exception.pie.negative.dataset.values=¿øÇü °è¿­ÀÇ µ¥ÀÌÅÍ ÁıÇÕ¿¡´Â À½¼ö °ªÀÌ Æ÷ÇÔµÉ ¼ö ¾ø½À´Ï´Ù.
+exception.pie.negative.dataset.values=ì›í˜• ê³„ì—´ì˜ ë°ì´í„° ì§‘í•©ì—ëŠ” ìŒìˆ˜ ê°’ì´ í¬í•¨ë  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-exception.stock.lineattr.visibility=ÁÖ½ÄÇü ¿ä¼ÒÀÇ ¼± Æ¯¼ºÀº Ç¥½Ã·Î ¼³Á¤µÇ¾î¾ß ÇÕ´Ï´Ù.
+exception.stock.lineattr.visibility=ì£¼ì‹í˜• ìš”ì†Œì˜ ì„  íŠ¹ì„±ì€ í‘œì‹œë¡œ ì„¤ì •ë˜ì–´ì•¼ í•©ë‹ˆë‹¤.
 
-exception.legend.graphic.unknown.riser=¾Ë ¼ö ¾ø´Â °è´Ü Çü½Ä {0}¿¡ ´ëÇÑ ¹ü·Ê ±×·¡ÇÈÀ» ·»´õ¸µÇÒ ¼ö ¾ø½À´Ï´Ù.
+exception.legend.graphic.unknown.riser=ì•Œ ìˆ˜ ì—†ëŠ” ê³„ë‹¨ í˜•ì‹ {0}ì— ëŒ€í•œ ë²”ë¡€ ê·¸ë˜í”½ì„ ë Œë”ë§í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-exception.unspecified.visible.series.title=Ç¥½ÃµÇ´Â °è¿­ Á¦¸ñ¿¡ ´ëÇÑ °è¿­ Á¦¸ñ À§Ä¡°¡ ÁöÁ¤µÇÁö ¾Ê¾Ò½À´Ï´Ù.
+exception.unspecified.visible.series.title=í‘œì‹œë˜ëŠ” ê³„ì—´ ì œëª©ì— ëŒ€í•œ ê³„ì—´ ì œëª© ìœ„ì¹˜ê°€ ì§€ì •ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
 
-exception.unspecified.riser.type=¾Ë ¼ö ¾ø´Â °è´Ü Çü½Ä {0}ÀÌ(°¡) ÁöÁ¤µÇ¾ú½À´Ï´Ù.
+exception.unspecified.riser.type=ì•Œ ìˆ˜ ì—†ëŠ” ê³„ë‹¨ í˜•ì‹ {0}ì´(ê°€) ì§€ì •ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-exception.invalid.data.point.position.scatter=ºĞ»êÇü °è¿­¿¡¼­ ·»´õ¸µÇÒ ¶§´Â µ¥ÀÌÅÍ ¿ä¼Ò ·¹ÀÌºí À§Ä¡ {0}ÀÌ(°¡) Áö¿øµÇÁö ¾Ê½À´Ï´Ù. Çã¿ëµÇ´Â °ªÀº ABOVE, BELOW, LEFT ¹× RIGHTÀÔ´Ï´Ù.
+exception.invalid.data.point.position.scatter=ë¶„ì‚°í˜• ê³„ì—´ì—ì„œ ë Œë”ë§í•  ë•ŒëŠ” ë°ì´í„° ìš”ì†Œ ë ˆì´ë¸” ìœ„ì¹˜ {0}ì´(ê°€) ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤. í—ˆìš©ë˜ëŠ” ê°’ì€ ABOVE, BELOW, LEFT ë° RIGHTì…ë‹ˆë‹¤.
 
-exception.invalid.data.point.position.bubble=°ÅÇ°Çü °è¿­¿¡¼­ ·»´õ¸µÇÒ ¶§´Â µ¥ÀÌÅÍ ¿ä¼Ò ·¹ÀÌºí À§Ä¡ {0}ÀÌ(°¡) Áö¿øµÇÁö ¾Ê½À´Ï´Ù. Çã¿ëµÇ´Â °ªÀº ABOVE, BELOW, LEFT ¹× RIGHTÀÔ´Ï´Ù.
+exception.invalid.data.point.position.bubble=ê±°í’ˆí˜• ê³„ì—´ì—ì„œ ë Œë”ë§í•  ë•ŒëŠ” ë°ì´í„° ìš”ì†Œ ë ˆì´ë¸” ìœ„ì¹˜ {0}ì´(ê°€) ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤. í—ˆìš©ë˜ëŠ” ê°’ì€ ABOVE, BELOW, LEFT ë° RIGHTì…ë‹ˆë‹¤.
 
-exception.invalid.data.point.outbound.bubble=¾î¶² °ÅÇ°µµ ÇÃ·Ô ¿µ¿ª¿¡ ÀÖÁö ¾Ê½À´Ï´Ù. Ãà ¹èÀ²À» È®ÀÎÇÏ½Ê½Ã¿À.
+exception.invalid.data.point.outbound.bubble=ì–´ë–¤ ê±°í’ˆë„ í”Œë¡¯ ì˜ì—­ì— ìˆì§€ ì•ŠìŠµë‹ˆë‹¤. ì¶• ë°°ìœ¨ì„ í™•ì¸í•˜ì‹­ì‹œì˜¤.
 
-exception.illegal.pie.series.title.position=°è¿­ Á¦¸ñ À§Ä¡ = {0}¿¡ Àß¸øµÈ °ªÀÌ ÁöÁ¤µÇ¾ú½À´Ï´Ù.
+exception.illegal.pie.series.title.position=ê³„ì—´ ì œëª© ìœ„ì¹˜ = {0}ì— ì˜ëª»ëœ ê°’ì´ ì§€ì •ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-exception.illegal.datapoint.position.bar=¸·´ëÇü °è¿­¿¡¼­ ·»´õ¸µÇÒ ¶§´Â µ¥ÀÌÅÍ ¿ä¼Ò ·¹ÀÌºí À§Ä¡ {0}ÀÌ(°¡) Áö¿øµÇÁö ¾Ê½À´Ï´Ù. Çã¿ëµÇ´Â °ªÀº OUTSIDE ¹× INSIDEÀÔ´Ï´Ù.
+exception.illegal.datapoint.position.bar=ë§‰ëŒ€í˜• ê³„ì—´ì—ì„œ ë Œë”ë§í•  ë•ŒëŠ” ë°ì´í„° ìš”ì†Œ ë ˆì´ë¸” ìœ„ì¹˜ {0}ì´(ê°€) ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤. í—ˆìš©ë˜ëŠ” ê°’ì€ OUTSIDE ë° INSIDEì…ë‹ˆë‹¤.
 
-exception.illegal.datapoint.position.line=¼±Çü °è¿­¿¡¼­ ·»´õ¸µÇÒ ¶§´Â µ¥ÀÌÅÍ ¿ä¼Ò ·¹ÀÌºí À§Ä¡ {0}ÀÌ(°¡) Áö¿øµÇÁö ¾Ê½À´Ï´Ù. Çã¿ëµÇ´Â °ªÀº ABOVE, BELOW, LEFT ¹× RIGHTÀÔ´Ï´Ù.
+exception.illegal.datapoint.position.line=ì„ í˜• ê³„ì—´ì—ì„œ ë Œë”ë§í•  ë•ŒëŠ” ë°ì´í„° ìš”ì†Œ ë ˆì´ë¸” ìœ„ì¹˜ {0}ì´(ê°€) ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤. í—ˆìš©ë˜ëŠ” ê°’ì€ ABOVE, BELOW, LEFT ë° RIGHTì…ë‹ˆë‹¤.
 
-exception.illegal.datapoint.position.stock=ÁÖ½ÄÇü °è¿­¿¡¼­ ·»´õ¸µÇÒ ¶§´Â µ¥ÀÌÅÍ ¿ä¼Ò ·¹ÀÌºí À§Ä¡ {0}ÀÌ(°¡) Áö¿øµÇÁö ¾Ê½À´Ï´Ù. Çã¿ëµÇ´Â °ªÀº ABOVE, BELOW, LEFT ¹× RIGHTÀÔ´Ï´Ù.
+exception.illegal.datapoint.position.stock=ì£¼ì‹í˜• ê³„ì—´ì—ì„œ ë Œë”ë§í•  ë•ŒëŠ” ë°ì´í„° ìš”ì†Œ ë ˆì´ë¸” ìœ„ì¹˜ {0}ì´(ê°€) ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤. í—ˆìš©ë˜ëŠ” ê°’ì€ ABOVE, BELOW, LEFT ë° RIGHTì…ë‹ˆë‹¤.
 
-exception.unspecified.datapoint.visibility.pie=°è¿­ {0}¿¡ ´ëÇÑ µ¥ÀÌÅÍ ¿ä¼Ò Ç¥½Ã À¯ÇüÀÌ ¼³Á¤µÇÁö ¾Ê¾Ò½À´Ï´Ù.
+exception.unspecified.datapoint.visibility.pie=ê³„ì—´ {0}ì— ëŒ€í•œ ë°ì´í„° ìš”ì†Œ í‘œì‹œ ìœ í˜•ì´ ì„¤ì •ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
 
-exception.invalid.datapoint.position.pie=µ¥ÀÌÅÍ ¿ä¼Ò ·¹ÀÌºí À§Ä¡ {0}ÀÌ(°¡) Àß¸øµÇ¾ú½À´Ï´Ù.
+exception.invalid.datapoint.position.pie=ë°ì´í„° ìš”ì†Œ ë ˆì´ë¸” ìœ„ì¹˜ {0}ì´(ê°€) ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-exception.invalid.datapoint.dial=³Î(null) ¶Ç´Â ¼ıÀÚ°¡ ¾Æ´Ñ µ¥ÀÌÅÍ ¿ä¼Ò·Î ÃøÁ¤±â °è¿­À» ±×¸± ¼ö ¾ø½À´Ï´Ù.
+exception.invalid.datapoint.dial=ë„(null) ë˜ëŠ” ìˆ«ìê°€ ì•„ë‹Œ ë°ì´í„° ìš”ì†Œë¡œ ì¸¡ì •ê¸° ê³„ì—´ì„ ê·¸ë¦´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-exception.unspecified.pie.series.title.visibility={0}ÀÇ ¸ğµ¨¿¡ °è¿­ Á¦¸ñ Ç¥½Ã À¯ÇüÀÌ ¼³Á¤µÇÁö ¾Ê¾Ò½À´Ï´Ù.
+exception.unspecified.pie.series.title.visibility={0}ì˜ ëª¨ë¸ì— ê³„ì—´ ì œëª© í‘œì‹œ ìœ í˜•ì´ ì„¤ì •ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
 
-exception.unspecified.marker.linestyle.visibility=Ç¥Áö¼± ½ºÅ¸ÀÏ Ç¥½Ã À¯ÇüÀÌ ¼³Á¤µÇÁö ¾Ê¾Ò½À´Ï´Ù.
+exception.unspecified.marker.linestyle.visibility=í‘œì§€ì„  ìŠ¤íƒ€ì¼ í‘œì‹œ ìœ í˜•ì´ ì„¤ì •ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
 
-exception.unsupported.aggregate.function.input=Áı°è ÇÔ¼ö {0}¿¡ Áö¿øµÇÁö ¾Ê´Â µ¥ÀÌÅÍ Çü½ÄÀÌ ÀÖ½À´Ï´Ù.
+exception.unsupported.aggregate.function.input=ì§‘ê³„ í•¨ìˆ˜ {0}ì— ì§€ì›ë˜ì§€ ì•ŠëŠ” ë°ì´í„° í˜•ì‹ì´ ìˆìŠµë‹ˆë‹¤.
 
-exception.illegal.datapoint.position.bar3d=3D ¸·´ë Â÷Æ®´Â Â÷Æ® ³»¿¡ °è¿­ ·¹ÀÌºíÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.
+exception.illegal.datapoint.position.bar3d=3D ë§‰ëŒ€ ì°¨íŠ¸ëŠ” ì°¨íŠ¸ ë‚´ì— ê³„ì—´ ë ˆì´ë¸”ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
 Irr.AggregateFunction.Parameters.Label.Intrate=INTRATE
 
-Mirr.AggregateFunction.Parameters.Label.FinanceRate=±İÀ¶ ±İ¸®
+Mirr.AggregateFunction.Parameters.Label.FinanceRate=ê¸ˆìœµ ê¸ˆë¦¬
 
-Mirr.AggregateFunction.Parameters.Label.ReinvestmentRate=ÀçÅõÀÚ ±İ¸®
+Mirr.AggregateFunction.Parameters.Label.ReinvestmentRate=ì¬íˆ¬ì ê¸ˆë¦¬
 
-Npv.AggregateFunction.Parameters.Label.Rate=±İ¸®
+Npv.AggregateFunction.Parameters.Label.Rate=ê¸ˆë¦¬
 
-Percentile.AggregateFunction.Parameters.Label.Percentage=¹éºĞÀ²
+Percentile.AggregateFunction.Parameters.Label.Percentage=ë°±ë¶„ìœ¨
 
-Quartile.AggregateFunction.Parameters.Label.Quart=4ºĞÀ§¼ö
+Quartile.AggregateFunction.Parameters.Label.Quart=4ë¶„ìœ„ìˆ˜
 
-WeightedAverage.AggregateFunction.Parameters.Label.Weight=°¡ÁßÄ¡
+WeightedAverage.AggregateFunction.Parameters.Label.Weight=ê°€ì¤‘ì¹˜
 
-MovingAverage.AggregateFunction.Parameters.Label.Window=Ã¢
+MovingAverage.AggregateFunction.Parameters.Label.Window=ì°½
 
-RunningNpv.AggregateFunction.Parameters.Label.Rate=±İ¸®
+RunningNpv.AggregateFunction.Parameters.Label.Rate=ê¸ˆë¦¬
 
-Rank.AggregateFunction.Parameters.Label.Ascending=¿À¸§Â÷¼ø
+Rank.AggregateFunction.Parameters.Label.Ascending=ì˜¤ë¦„ì°¨ìˆœ
 
-Top.AggregateFunction.Parameters.Label.N=»óÀ§ n
+Top.AggregateFunction.Parameters.Label.N=ìƒìœ„ n
 
-TopPercent.AggregateFunction.Parameters.Label.Percentage=¹éºĞÀ²
+TopPercent.AggregateFunction.Parameters.Label.Percentage=ë°±ë¶„ìœ¨
 
-Bottom.AggregateFunction.Parameters.Label.N=ÇÏÀ§ n
+Bottom.AggregateFunction.Parameters.Label.N=í•˜ìœ„ n
 
-BottomPercent.AggregateFunction.Parameters.Label.Percentage=¹éºĞÀ²
+BottomPercent.AggregateFunction.Parameters.Label.Percentage=ë°±ë¶„ìœ¨
 
-DataSetProcessorImpl_exception.dataset.receivednumeric=¹ŞÀº µ¥ÀÌÅÍ Çü½ÄÀº ¼ıÀÚ¿©¾ß ÇÕ´Ï´Ù.
+DataSetProcessorImpl_exception.dataset.receivednumeric=ë°›ì€ ë°ì´í„° í˜•ì‹ì€ ìˆ«ìì—¬ì•¼ í•©ë‹ˆë‹¤.

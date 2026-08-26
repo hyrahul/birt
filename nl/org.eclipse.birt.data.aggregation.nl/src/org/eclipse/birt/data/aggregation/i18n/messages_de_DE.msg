@@ -157,7 +157,7 @@ TotalConcatenate.displayName=CONCATENATE
 
 TotalConcatenate.param.separator=&Trennzeichen
 
-TotalConcatenate.param.maxLength=Ma&ximal zulässige Länge
+TotalConcatenate.param.maxLength=Ma&ximal zulÃ¤ssige LÃ¤nge
 
 TotalConcatenate.param.showAllValues=Alle &Werte anzeigen
 
@@ -165,7 +165,7 @@ TotalConcatenate.paramDescription.expression=Das zu aggregierende Datenfeld.
 
 TotalConcatenate.paramDescription.separator=Das Trennzeichen der verbundenen Zeichenfolge.
 
-TotalConcatenate.paramDescription.maxLength=Die maximal zulässige Zeichenanzahl für die verbundene Zeichenfolge.
+TotalConcatenate.paramDescription.maxLength=Die maximal zulÃ¤ssige Zeichenanzahl fÃ¼r die verbundene Zeichenfolge.
 
 TotalConcatenate.paramDescription.showAllValues=Angabe, ob alle Werte angezeigt werden sollen.
 
@@ -174,13 +174,13 @@ aggregation.BadOperandType=Unerwarteter Operanden-Datentyp: {0}.
 
 aggregation.DataConversionError=Fehler bei der Konvertierung des Datentyps.
 
-aggregation.InvalidPercentileColumn=Nicht alle Perzentilwerte können Null sein.
+aggregation.InvalidPercentileColumn=Nicht alle Perzentilwerte kÃ¶nnen Null sein.
 
 aggregation.BadParameterCount=Es wurde eine falsche Parameteranzahl angegeben.
 
 aggregation.BadParameterType=Der Datentyp eines Parameters ist falsch.
 
-aggregation.NoIrrSolution=Lösung für die IRR-Funktion (Internal Rate of Return) kann mit den angegebenen Daten nicht gefunden werden.
+aggregation.NoIrrSolution=LÃ¶sung fÃ¼r die IRR-Funktion (Internal Rate of Return) kann mit den angegebenen Daten nicht gefunden werden.
 
 aggregation.InvalidTopBottomArgument=Das Argument der Filter 'Top/Bottom' muss eine Zahl sein.
 
@@ -188,18 +188,18 @@ aggregation.InvalidTopBottomNArgument=Das Argument der Filter 'TopN/BottomN' mus
 
 aggregation.InvalidTopBottomPercentArgument=Das Argument der Filter 'TopPercent/BottomPercent' muss sowohl positiv als auch kleiner als oder gleich 100 sein.
 
-aggregation.InvalidTopBottomN=Die Gesamtzahl der Zeilen darf {0} nicht überschreiten.
+aggregation.InvalidTopBottomN=Die Gesamtzahl der Zeilen darf {0} nicht Ã¼berschreiten.
 
-aggregation.InvalidPercentileArgument=Für die Funktion 'Total.Percentile' sind als zweites Argument nur Zahlenwerte zwischen 0 und 1 (einschließlich) zulässig.
+aggregation.InvalidPercentileArgument=FÃ¼r die Funktion 'Total.Percentile' sind als zweites Argument nur Zahlenwerte zwischen 0 und 1 (einschlieÃŸlich) zulÃ¤ssig.
 
-aggregation.InvalidQuartileArgument=Für die Funktion 'Total.Quartile' sind als zweites Argument nur Zahlenwerte zwischen 0 und 4 (einschließlich) zulässig.
+aggregation.InvalidQuartileArgument=FÃ¼r die Funktion 'Total.Quartile' sind als zweites Argument nur Zahlenwerte zwischen 0 und 4 (einschlieÃŸlich) zulÃ¤ssig.
 
-aggregation.BadAggrFuncParam=Unzulässiger Parameter für Aggregatfunktion: {0}.
+aggregation.BadAggrFuncParam=UnzulÃ¤ssiger Parameter fÃ¼r Aggregatfunktion: {0}.
 
-aggregation.ResetRateGuess=Benutzer sollte den neuen Wert für 'Rate Guess' zurücksetzen.
+aggregation.ResetRateGuess=Benutzer sollte den neuen Wert fÃ¼r 'Rate Guess' zurÃ¼cksetzen.
 
-aggregation.InvalidParameterType=Ungültiger Parametertyp von Aggregat: {0}
+aggregation.InvalidParameterType=UngÃ¼ltiger Parametertyp von Aggregat: {0}
 
-aggregation.InvalidParameterValue=Der Wert des Parameters '{0}' in einem Aggregat '{1}' ist ungültig: {2}.
+aggregation.InvalidParameterValue=Der Wert des Parameters '{0}' in einem Aggregat '{1}' ist ungÃ¼ltig: {2}.
 
-aggregation.InvalidSeparator=Ungültiges Trennzeichen für Aggregat: {0}
+aggregation.InvalidSeparator=UngÃ¼ltiges Trennzeichen fÃ¼r Aggregat: {0}

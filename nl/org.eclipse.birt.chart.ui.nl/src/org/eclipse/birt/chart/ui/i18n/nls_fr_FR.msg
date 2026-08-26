@@ -6,21 +6,21 @@ Shared.Lbl.OK=\ \ \ OK
 
 Shared.Lbl.Cancel=Annuler
 
-ButtonPanel.Lbl.SelectChartType=<< Sélectionner le type de graphique
+ButtonPanel.Lbl.SelectChartType=<< SÃ©lectionner le type de graphique
 
 ButtonPanel.Lbl.Previous=< Retour
 
 ButtonPanel.Lbl.Next=Suivant >
 
-ChartAdapter.Info.NotificationRecieved=ChartAdapter : notification reçue pour {0}
+ChartAdapter.Info.NotificationRecieved=ChartAdapter : notification reÃ§ue pour {0}
 
 ChartAdapter.Info.NewValue=ChartAdapter : la nouvelle valeur est {0}
 
 ChartSelector.Lbl.ChartSubtypes=Sous-types de graphique
 
-ChartDlg.Msg.ValidationErrors=Erreurs détectées pendant la vérification de la définition du graphique.\nVeuillez corriger ces problèmes avant d'afficher le rapport.\n\n
+ChartDlg.Msg.ValidationErrors=Erreurs dÃ©tectÃ©es pendant la vÃ©rification de la dÃ©finition du graphique.\nVeuillez corriger ces problÃ¨mes avant d'afficher le rapport.\n\n
 
-ChartDlg.Msg.AskCorrectLater=\nSouhaitez-vous fermer le générateur de graphiques quand même\net corriger ces problèmes plus tard ?
+ChartDlg.Msg.AskCorrectLater=\nSouhaitez-vous fermer le gÃ©nÃ©rateur de graphiques quand mÃªme\net corriger ces problÃ¨mes plus tard ?
 
 ChartDlg.Info.ChartDimension=Dimension :
 
@@ -28,41 +28,41 @@ ChartDlg.Info.AxisOrientation=\tOrientation :
 
 ChartSelector.Lbl.ChartTypes2=Types de graphiques
 
-ChartSelector.Lbl.DefineChart=Définir le graphique >>
+ChartSelector.Lbl.DefineChart=DÃ©finir le graphique >>
 
-ChartDlg.Info.AssociatedAxis=\t\tAxe associé :
+ChartDlg.Info.AssociatedAxis=\t\tAxe associÃ© :
 
 ChartDlg.Info.LineThickness2=\tEpaisseur de la ligne :
 
 ChartSelector.Lbl.ChartTypes=Types de graphiques :
 
-ChartSelector.Lbl.Transposed=Transposé
+ChartSelector.Lbl.Transposed=TransposÃ©
 
 ChartAdapter.Exception.Exception=Exception :
 
-ChartAdapter.Exception.WrappedIn=Réparti dans :
+ChartAdapter.Exception.WrappedIn=RÃ©parti dans :
 
-ChartUIUtil.Exception.NoValueReturned=Aucune valeur renvoyée. Spécifiez un jeu de données valide.
+ChartUIUtil.Exception.NoValueReturned=Aucune valeur renvoyÃ©e. SpÃ©cifiez un jeu de donnÃ©es valide.
 
 ChartAdapter.Exception.Message=Message :
 
-ChartDlg.Info.CannotChangeSelection=REMARQUE : Vous ne pouvez pas modifier la sélection de graphique si le type et le sous-type du graphique actuel ne sont pas réglés.
+ChartDlg.Info.CannotChangeSelection=REMARQUE : Vous ne pouvez pas modifier la sÃ©lection de graphique si le type et le sous-type du graphique actuel ne sont pas rÃ©glÃ©s.
 
 ChartAdapter.Exception.Trace=Trace :
 
-ChartSelector.Title.ChartSelector=Dispositif de sélection du graphique
+ChartSelector.Title.ChartSelector=Dispositif de sÃ©lection du graphique
 
-ChartDlg.Title.ValidationResults=Résultats de validation
+ChartDlg.Title.ValidationResults=RÃ©sultats de validation
 
-ChartDlg.Title.ChartBuilder=Boîte de dialogue du graphique
+ChartDlg.Title.ChartBuilder=BoÃ®te de dialogue du graphique
 
-DefaultChartTypeImpl.Label.ValueDefinitionName=Séries (&Y) de valeur :
+DefaultChartTypeImpl.Label.ValueDefinitionName=SÃ©ries (&Y) de valeur :
 
-DefaultUIServiceProviderImpl.Warn.Placeholder=DefaultUIServiceProviderImpl : ceci est une classe de marque de réservation et n'a pas de conséquence.
+DefaultUIServiceProviderImpl.Warn.Placeholder=DefaultUIServiceProviderImpl : ceci est une classe de marque de rÃ©servation et n'a pas de consÃ©quence.
 
-SheetPlaceHolder.Lbl.Placeholder=Il s'agit d'une marque de réservation pour {0}
+SheetPlaceHolder.Lbl.Placeholder=Il s'agit d'une marque de rÃ©servation pour {0}
 
-ChartDlg.Info.ChartStart=--------------------------- Début des propriétés du graphique -------------------------
+ChartDlg.Info.ChartStart=--------------------------- DÃ©but des propriÃ©tÃ©s du graphique -------------------------
 
 ChartDlg.Info.ChartType=Type :
 
@@ -76,13 +76,13 @@ ChartDlg.Info.AxisStart=--------------------------- Infos axes -----------------
 
 ChartDlg.Info.AxisTitle=\tTitre :
 
-ChartDlg.Info.SeriesCount=\tNombre de séries :
+ChartDlg.Info.SeriesCount=\tNombre de sÃ©ries :
 
-ChartDlg.Info.SeriesStart=--------------------------- Infos série ----------------------------
+ChartDlg.Info.SeriesStart=--------------------------- Infos sÃ©rie ----------------------------
 
-ChartDlg.Info.DataSource=\t\tPremière source :
+ChartDlg.Info.DataSource=\t\tPremiÃ¨re source :
 
-ChartDlg.Info.SeriesType=\t\tType de séries :
+ChartDlg.Info.SeriesType=\t\tType de sÃ©ries :
 
 ChartDlg.Info.Riser=\t\tBarre ascendante :
 
@@ -96,21 +96,21 @@ ChartDlg.Info.Values=\t\tValeurs :
 
 ChartDlg.Info.AxisEnd=--------------------------- Infos axes ----------------------------
 
-ChartDlg.Info.ChartEnd=--------------------------- Fin des propriétés du graphique -------------------------
+ChartDlg.Info.ChartEnd=--------------------------- Fin des propriÃ©tÃ©s du graphique -------------------------
 
-ChartDlg.Info.ChartStart2=--------------------------- Début des propriétés du graphique -------------------------
+ChartDlg.Info.ChartStart2=--------------------------- DÃ©but des propriÃ©tÃ©s du graphique -------------------------
 
 ChartDlg.Info.ChartType2=Type :
 
 ChartSelector.Lbl.Accept=Accepter
 
-ChartWizard.Title.ChartBuilder=Générateur de graphiques
+ChartWizard.Title.ChartBuilder=GÃ©nÃ©rateur de graphiques
 
 ChartWizard.Title.NewChart=Nouveau graphique
 
 ChartWizard.Title.EditChart=Modifier le graphique
 
-ChartUIUtil.SeriesLabel=Série {0}
+ChartUIUtil.SeriesLabel=SÃ©rie {0}
 
 ChartUIUtil.StockExp.Low=Faible
 
@@ -124,19 +124,19 @@ ChartSelector.Lbl.EditChart=Modifier le graphique >>
 
 ChartDlg.Info.Dimension=Dimension :
 
-ChartDlg.Info.SeriesCount2=Nº de série :
+ChartDlg.Info.SeriesCount2=NÂº de sÃ©rie :
 
-ChartDlg.Info.SeriesStart2=--------------------------- Infos série ----------------------------
+ChartDlg.Info.SeriesStart2=--------------------------- Infos sÃ©rie ----------------------------
 
 ChartSelector.Lbl.Subtypes=Sous-types :
 
 ChartUIUtil.StockExp.Close=Fermer
 
-ChartDlg.Info.DataSource2=\tPremière source :
+ChartDlg.Info.DataSource2=\tPremiÃ¨re source :
 
-ChartDlg.Info.SeriesType2=\tType de série :
+ChartDlg.Info.SeriesType2=\tType de sÃ©rie :
 
-ChartUIUtil.StockExp.High=Elevé
+ChartUIUtil.StockExp.High=ElevÃ©
 
 ChartUIUtil.StockExp.Open=Ouvrir
 
@@ -144,7 +144,7 @@ ChartDlg.Info.Riser2=\tBarre ascendante :
 
 ChartDlg.Info.Values2=\tValeurs :
 
-ChartDlg.Info.ChartEnd2=--------------------------- Fin des propriétés du graphique -------------------------
+ChartDlg.Info.ChartEnd2=--------------------------- Fin des propriÃ©tÃ©s du graphique -------------------------
 
 PreviewButtonPanel.Lbl.ShowPreview=Exemple de graphique >>
 
@@ -152,19 +152,19 @@ PreviewButtonPanel.Lbl.HidePreview=<< Exemple de graphique
 
 PreviewPanel.Title.Preview=Exemple de graphique
 
-ChartWizard.Label.SelectChartTypeDataFormat=Sélectionner le type de graphique, les données et le format.
+ChartWizard.Label.SelectChartTypeDataFormat=SÃ©lectionner le type de graphique, les donnÃ©es et le format.
 
-TaskSelectData.Warning.CategoryGroupTypeCheck=Le type de groupe {0} est incompatible avec le type de données de série de catégorie.
+TaskSelectData.Warning.CategoryGroupTypeCheck=Le type de groupe {0} est incompatible avec le type de donnÃ©es de sÃ©rie de catÃ©gorie.
 
-TaskSelectData.Warning.YGroupTypeCheck=Le type de groupe {0} est incompatible avec le type de données de regroupement de séries verticales.
+TaskSelectData.Warning.YGroupTypeCheck=Le type de groupe {0} est incompatible avec le type de donnÃ©es de regroupement de sÃ©ries verticales.
 
 TaskSelectType.Caption.OverlayAxis1=Titre de l'axe des y
 
 ApplyButtonHandler.Label.Apply=Appl&iquer
 
-ChartUIUtil.GanttExp.Label=Etiquette de tâches
+ChartUIUtil.GanttExp.Label=Etiquette de tÃ¢ches
 
-ChartUIUtil.GanttExp.Start=Date de début
+ChartUIUtil.GanttExp.Start=Date de dÃ©but
 
 ChartUIUtil.GanttExp.End=Date de fin
 
@@ -174,15 +174,15 @@ ChartUIUtil.BubbleExp.Size=Taille
 
 ChartUIUtil.DifferenceExp.Postive=Positif
 
-ChartUIUtil.DifferenceExp.Negative=Négatif
+ChartUIUtil.DifferenceExp.Negative=NÃ©gatif
 
-ChartUIUtil.TaskSelectData.Warning.CheckAgg.Aggregation=\ agrégation.
+ChartUIUtil.TaskSelectData.Warning.CheckAgg.Aggregation=\ agrÃ©gation.
 
-ChartUIUtil.TaskSelectData.Warning.CheckAgg.DefaultAggregate=défaut
+ChartUIUtil.TaskSelectData.Warning.CheckAgg.DefaultAggregate=dÃ©faut
 
 ChartUIUtil.TaskSelectData.Warning.CheckAgg.GanttChart=Le graphique de Gantt ne permet pas
 
-ChartUIUtil.TaskSelectData.Warning.CheckAgg.ValueSeriesAggregate=séries de valeurs
+ChartUIUtil.TaskSelectData.Warning.CheckAgg.ValueSeriesAggregate=sÃ©ries de valeurs
 
 ChartUIUtil.TaskSelectData.Warning.CheckAggAs=\ comme
 
@@ -191,18 +191,18 @@ SimpleHyperlinkBuilder.Label.RadioNone=Auc&un lien
 SimpleHyperlinkBuilder.Label.RadioURI=&URI
 SimpleHyperlinkBuilder.Title=Options de lien hypertexte
 
-SimpleHyperlinkBuilder.Label.SelectType=Sélectionner un type de lien hypertexte :
+SimpleHyperlinkBuilder.Label.SelectType=SÃ©lectionner un type de lien hypertexte :
 
 SimpleHyperlinkBuilder.Label.Location=Emp&lacement :
 
 SimpleHyperlinkBuilder.Label.Target=&Cible :
 
-CustomPreviewTable.Exception.InvalidColumnIndexNotDefined=Index de colonne {0} incorrect ou colonnes non définies \!
+CustomPreviewTable.Exception.InvalidColumnIndexNotDefined=Index de colonne {0} incorrect ou colonnes non dÃ©finies \!
 
-CustomPreviewTable.Exception.InvalidColumnIndexSpecified=Index de colonne spécifié incorrect \!
+CustomPreviewTable.Exception.InvalidColumnIndexSpecified=Index de colonne spÃ©cifiÃ© incorrect \!
 
 CustomPreviewTable.Exception.InvalidColumnIndexSpecifiedOnly=Index de colonne {0} incorrect \! La table ne comporte que {1} colonnes \!
 
-CustomPreviewTable.Exception.RowIndexGreaterThan0=L'index de ligne doit être supérieur ou égal à 0 \!
+CustomPreviewTable.Exception.RowIndexGreaterThan0=L'index de ligne doit Ãªtre supÃ©rieur ou Ã©gal Ã  0 \!
 
-ExprEditComposite.InvokeExpressionBuilder=Appeler le Générateur d'expression
+ExprEditComposite.InvokeExpressionBuilder=Appeler le GÃ©nÃ©rateur d'expression

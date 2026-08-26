@@ -14,781 +14,781 @@
 
 ###########################################################
 #for test only
-Error.Msg001={0} ‚É {0} ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+Error.Msg001={0} ã« {0} ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
 ###########################################################
 
 # DTE error code
-data.engine.UndefinedDataSource=ƒf[ƒ^ƒ\[ƒX‚ª’è‹`‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ : {0}
+data.engine.UndefinedDataSource=ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ãŒå®šç¾©ã•ã‚Œã¦ã„ã¾ã›ã‚“ : {0}
 
-data.engine.UndefinedDataSet=ƒf[ƒ^ƒZƒbƒg‚ª’è‹`‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ : {0}
+data.engine.UndefinedDataSet=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆãŒå®šç¾©ã•ã‚Œã¦ã„ã¾ã›ã‚“ : {0}
 
-data.engine.UnsupportedDataSourceType=ƒf[ƒ^ƒ\[ƒX "{0}" ‚ÌŒ^‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+data.engine.UnsupportedDataSourceType=ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ "{0}" ã®å‹ã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-data.engine.UnsupportedDataSetType=ƒf[ƒ^ƒZƒbƒg "{0}" ‚ÌŒ^‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+data.engine.UnsupportedDataSetType=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆ "{0}" ã®å‹ã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-data.engine.UnsupportedGroupOnClobAndBLOB=CLOB ƒf[ƒ^‚Ü‚½‚Í BLOB ƒf[ƒ^ "{0}" ‚ÍƒOƒ‹[ƒv‰»‚Å‚«‚Ü‚¹‚ñB
+data.engine.UnsupportedGroupOnClobAndBLOB=CLOB ãƒ‡ãƒ¼ã‚¿ã¾ãŸã¯ BLOB ãƒ‡ãƒ¼ã‚¿ "{0}" ã¯ã‚°ãƒ«ãƒ¼ãƒ—åŒ–ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.UnsupportedSortOnClobAndBLOB=CLOB ƒf[ƒ^‚Ü‚½‚Í BLOB ƒf[ƒ^ "{0}" ‚Íƒ\[ƒg‚Å‚«‚Ü‚¹‚ñB
+data.engine.UnsupportedSortOnClobAndBLOB=CLOB ãƒ‡ãƒ¼ã‚¿ã¾ãŸã¯ BLOB ãƒ‡ãƒ¼ã‚¿ "{0}" ã¯ã‚½ãƒ¼ãƒˆã§ãã¾ã›ã‚“ã€‚
 
-data.engine.EndOfGroupOnly=‚±‚ÌWŒv®‚ÍAƒOƒ‹[ƒv‚ÌÅŒã‚Å‚µ‚©g—p‚Å‚«‚Ü‚¹‚ñB
+data.engine.EndOfGroupOnly=ã“ã®é›†è¨ˆå¼ã¯ã€ã‚°ãƒ«ãƒ¼ãƒ—ã®æœ€å¾Œã§ã—ã‹ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.InvalidAggregation=WŒv‚Ì’è‹`‚ª–³Œø‚Å‚·: {0}B
+data.engine.InvalidAggregation=é›†è¨ˆã®å®šç¾©ãŒç„¡åŠ¹ã§ã™: {0}ã€‚
 
-data.engine.InvalidAggrGroup=WŒvŠÖ”‚ÌƒOƒ‹[ƒvƒŒƒxƒ‹‚ª–³Œø‚Å‚· : {0}
+data.engine.InvalidAggrGroup=é›†è¨ˆé–¢æ•°ã®ã‚°ãƒ«ãƒ¼ãƒ—ãƒ¬ãƒ™ãƒ«ãŒç„¡åŠ¹ã§ã™ : {0}
 
-data.engine.WrongNumAggrArgs=WŒvŠÖ”‚Ìˆø”‚Ì”‚ª³‚µ‚­‚ ‚è‚Ü‚¹‚ñ : {0}
+data.engine.WrongNumAggrArgs=é›†è¨ˆé–¢æ•°ã®å¼•æ•°ã®æ•°ãŒæ­£ã—ãã‚ã‚Šã¾ã›ã‚“ : {0}
 
-data.engine.AggrParamGroupLevelInconsistent=ƒlƒXƒg‚³‚ê‚½WŒv "{0}" ‚Å‚ÍA’è”ˆÈŠO‚Ì‚·‚×‚Ä‚Ì®‚ª“¯‚¶ƒOƒ‹[ƒvƒŒƒxƒ‹‚Å‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB
+data.engine.AggrParamGroupLevelInconsistent=ãƒã‚¹ãƒˆã•ã‚ŒãŸé›†è¨ˆ "{0}" ã§ã¯ã€å®šæ•°ä»¥å¤–ã®ã™ã¹ã¦ã®å¼ãŒåŒã˜ã‚°ãƒ«ãƒ¼ãƒ—ãƒ¬ãƒ™ãƒ«ã§ãªã‘ã‚Œã°ãªã‚Šã¾ã›ã‚“ã€‚
 
-data.engine.DupPropertyName=ƒvƒƒpƒeƒB–¼‚ªd•¡‚µ‚Ä‚¢‚Ü‚· : {0}
+data.engine.DupPropertyName=ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£åãŒé‡è¤‡ã—ã¦ã„ã¾ã™ : {0}
 
-data.engine.NoSubQueryName={0} ‚Æ‚¢‚¤–¼‘O‚ÌƒTƒuƒNƒGƒŠ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+data.engine.NoSubQueryName={0} ã¨ã„ã†åå‰ã®ã‚µãƒ–ã‚¯ã‚¨ãƒªãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-data.engine.DataSourceMissingExtId=ƒf[ƒ^ƒ\[ƒX {0} ‚ÉŠg’£ ID ‚ª’è‹`‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+data.engine.DataSourceMissingExtId=ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ {0} ã«æ‹¡å¼µ ID ãŒå®šç¾©ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-data.engine.NullGroupStart=ƒOƒ‹[ƒv‚ÌŠJn’l‚Í null ‚É‚Å‚«‚Ü‚¹‚ñB
+data.engine.NullGroupStart=ã‚°ãƒ«ãƒ¼ãƒ—ã®é–‹å§‹å€¤ã¯ null ã«ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.UnsupportedDirectNestedAggregate=WŒv‚ğ’¼ÚƒlƒXƒg‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+data.engine.UnsupportedDirectNestedAggregate=é›†è¨ˆã‚’ç›´æ¥ãƒã‚¹ãƒˆã™ã‚‹ã“ã¨ã¯ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.ResultClosed=QueryResults ‚Ü‚½‚Í‚»‚Ì”½•œq‚ª•Â‚¶‚ç‚ê‚Ä‚¢‚Ü‚·B
+data.engine.ResultClosed=QueryResults ã¾ãŸã¯ãã®åå¾©å­ãŒé–‰ã˜ã‚‰ã‚Œã¦ã„ã¾ã™ã€‚
 
-data.engine.NoCurrentRow=Result Iterator ‚É‚ÍŒ»İ‚Ìs‚ª‚ ‚è‚Ü‚¹‚ñB‚Ü‚¾ŠJn‚µ‚Ä‚¢‚È‚¢‚©AI—¹‚µ‚Ü‚µ‚½B
+data.engine.NoCurrentRow=Result Iterator ã«ã¯ç¾åœ¨ã®è¡ŒãŒã‚ã‚Šã¾ã›ã‚“ã€‚ã¾ã é–‹å§‹ã—ã¦ã„ãªã„ã‹ã€çµ‚äº†ã—ã¾ã—ãŸã€‚
 
-data.engine.InvalidJSExpr=JavaScript ®‚ª–³Œø‚Å‚· : {0}
+data.engine.InvalidJSExpr=JavaScript å¼ãŒç„¡åŠ¹ã§ã™ : {0}
 
-data.engine.InvalidTotalFuncName=‡ŒvŠÖ”‚Ì–¼‘O‚ª–³Œø‚Å‚· : {0}
+data.engine.InvalidTotalFuncName=åˆè¨ˆé–¢æ•°ã®åå‰ãŒç„¡åŠ¹ã§ã™ : {0}
 
-data.engine.InvalidTotalFunc=‡ŒvŠÖ”‚ª–³Œø‚Å‚·B
+data.engine.InvalidTotalFunc=åˆè¨ˆé–¢æ•°ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.engine.NoAggrFunc=‚±‚Ì®‚Å‚ÍAWŒvŠÖ”‚ÌŒÄ‚Ño‚µ‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+data.engine.NoAggrFunc=ã“ã®å¼ã§ã¯ã€é›†è¨ˆé–¢æ•°ã®å‘¼ã³å‡ºã—ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.InvalidExprHandle=®ƒnƒ“ƒhƒ‹‚ª–³Œø‚Å‚·B
+data.engine.InvalidExprHandle=å¼ãƒãƒ³ãƒ‰ãƒ«ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.engine.InvalidAggrGroupExpression=WŒvŠÖ”‚ÌƒOƒ‹[ƒv®‚ªŠÔˆá‚Á‚Ä‚¢‚Ü‚· : {0}
+data.engine.InvalidAggrGroupExpression=é›†è¨ˆé–¢æ•°ã®ã‚°ãƒ«ãƒ¼ãƒ—å¼ãŒé–“é•ã£ã¦ã„ã¾ã™ : {0}
 
-data.engine.InvalidSortKeyColumn=ƒ\[ƒgƒL[—ñ‚ª–³Œø‚Å‚· : {0}
+data.engine.InvalidSortKeyColumn=ã‚½ãƒ¼ãƒˆã‚­ãƒ¼åˆ—ãŒç„¡åŠ¹ã§ã™ : {0}
 
-data.engine.InvalidGroupLevel= ‘wŒ`® {0} ‚ÌƒOƒ‹[ƒvƒŒƒxƒ‹‚ª–³Œø‚Å‚·B
+data.engine.InvalidGroupLevel= å±¤å½¢å¼ {0} ã®ã‚°ãƒ«ãƒ¼ãƒ—ãƒ¬ãƒ™ãƒ«ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.engine.InvalidGroupKeyName=—ñ {0} ‚Å‚ÌƒOƒ‹[ƒv‰»‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚é‘€ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB
+data.engine.InvalidGroupKeyName=åˆ— {0} ã§ã®ã‚°ãƒ«ãƒ¼ãƒ—åŒ–ã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã‚‹æ“ä½œã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚
 
-data.engine.BadCloseScript=CustomDataSet ‚Ì closeScript ‚ğ•]‰¿‚Å‚«‚Ü‚¹‚ñB
+data.engine.BadCloseScript=CustomDataSet ã® closeScript ã‚’è©•ä¾¡ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.InvalidCustomFieldIdx=ƒJƒXƒ^ƒ€ƒtƒB[ƒ‹ƒh‚ÌƒCƒ“ƒfƒbƒNƒX‚ª–³Œø‚Å‚· : {0}
+data.engine.InvalidCustomFieldIdx=ã‚«ã‚¹ã‚¿ãƒ ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã®ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ãŒç„¡åŠ¹ã§ã™ : {0}
 
-data.engine.InvalidGroupName=ƒOƒ‹[ƒv–¼‚ª–³Œø‚Å‚·B
+data.engine.InvalidGroupName=ã‚°ãƒ«ãƒ¼ãƒ—åãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.engine.DuplicateGroupName=ƒOƒ‹[ƒv–¼‚ªd•¡‚µ‚Ä‚¢‚Ü‚·B
+data.engine.DuplicateGroupName=ã‚°ãƒ«ãƒ¼ãƒ—åãŒé‡è¤‡ã—ã¦ã„ã¾ã™ã€‚
 
-data.engine.BadOpenScript=CustomDataSet ‚Ì openScript ‚ğ•]‰¿‚Å‚«‚Ü‚¹‚ñB
+data.engine.BadOpenScript=CustomDataSet ã® openScript ã‚’è©•ä¾¡ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.DataSourceIsOpen=ƒf[ƒ^ƒ\[ƒX‚ª‚·‚Å‚ÉŠJ‚¢‚Ä‚¢‚Ü‚·B
+data.engine.DataSourceIsOpen=ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ãŒã™ã§ã«é–‹ã„ã¦ã„ã¾ã™ã€‚
 
-data.engine.DataSourceNotOpen=ƒf[ƒ^ƒ\[ƒX‚ªŠJ‚¢‚Ä‚¢‚Ü‚¹‚ñB
+data.engine.DataSourceNotOpen=ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ãŒé–‹ã„ã¦ã„ã¾ã›ã‚“ã€‚
 
-data.engine.EmptyCustomFieldName=ƒJƒXƒ^ƒ€ƒtƒB[ƒ‹ƒh–¼‚Í‹ó”’‚É‚Å‚«‚Ü‚¹‚ñB
+data.engine.EmptyCustomFieldName=ã‚«ã‚¹ã‚¿ãƒ ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰åã¯ç©ºç™½ã«ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.DupCustomFieldName=ƒJƒXƒ^ƒ€ƒtƒB[ƒ‹ƒh–¼‚ªd•¡‚µ‚Ä‚¢‚Ü‚· : {0}
+data.engine.DupCustomFieldName=ã‚«ã‚¹ã‚¿ãƒ ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰åãŒé‡è¤‡ã—ã¦ã„ã¾ã™ : {0}
 
-data.engine.NoResultSet=ƒNƒGƒŠ‚ğÀs‚µ‚Ä‚àAŒ‹‰ÊƒZƒbƒg‚ª•Ô‚³‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B
+data.engine.NoResultSet=ã‚¯ã‚¨ãƒªã‚’å®Ÿè¡Œã—ã¦ã‚‚ã€çµæœã‚»ãƒƒãƒˆãŒè¿”ã•ã‚Œã¾ã›ã‚“ã§ã—ãŸã€‚
 
-data.engine.NoResultMetadata=Œ‹‰Ê‚Ìƒƒ^ƒf[ƒ^‚ª‚ ‚è‚Ü‚¹‚ñB
+data.engine.NoResultMetadata=çµæœã®ãƒ¡ã‚¿ãƒ‡ãƒ¼ã‚¿ãŒã‚ã‚Šã¾ã›ã‚“ã€‚
 
-data.engine.QueryAlreadyPrepared=ƒNƒGƒŠ‚Í‚·‚Å‚É‹LqÏ‚İ‚Å‚·B
+data.engine.QueryAlreadyPrepared=ã‚¯ã‚¨ãƒªã¯ã™ã§ã«è¨˜è¿°æ¸ˆã¿ã§ã™ã€‚
 
-data.engine.QueryNotPrepared=ƒNƒGƒŠ‚Í‚Ü‚¾‹Lq‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+data.engine.QueryNotPrepared=ã‚¯ã‚¨ãƒªã¯ã¾ã è¨˜è¿°ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-data.engine.InvalidFieldName=ƒtƒB[ƒ‹ƒh–¼‚ª–³Œø‚Å‚· : {0}
+data.engine.InvalidFieldName=ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰åãŒç„¡åŠ¹ã§ã™ : {0}
 
-data.engine.DupColumnName=—ñ–¼‚ªd•¡‚µ‚Ä‚¢‚Ü‚· : {0}
+data.engine.DupColumnName=åˆ—åãŒé‡è¤‡ã—ã¦ã„ã¾ã™ : {0}
 
-data.engine.DupAlias=—ñ–¼‚Ü‚½‚ÍƒGƒCƒŠƒAƒX‚ªd•¡‚µ‚Ä‚¢‚Ü‚· : {0}
+data.engine.DupAlias=åˆ—åã¾ãŸã¯ã‚¨ã‚¤ãƒªã‚¢ã‚¹ãŒé‡è¤‡ã—ã¦ã„ã¾ã™ : {0}
 
-data.engine.InvalidFieldIndex=ƒtƒB[ƒ‹ƒh‚ÌƒCƒ“ƒfƒbƒNƒX‚ª–³Œø‚Å‚· : {0}
+data.engine.InvalidFieldIndex=ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã®ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ãŒç„¡åŠ¹ã§ã™ : {0}
 
-data.engine.fail.prepareExecution=ƒf[ƒ^ƒZƒbƒg‚ÉƒNƒGƒŠ‚ÌÀs‚ğ€”õ‚Å‚«‚Ü‚¹‚ñ : {0}
+data.engine.fail.prepareExecution=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã«ã‚¯ã‚¨ãƒªã®å®Ÿè¡Œã‚’æº–å‚™ã§ãã¾ã›ã‚“ : {0}
 
-data.engine.groupIncrementalUpdate.IllegalGroupOrderState=ƒOƒ‹[ƒv‚ÌXV‚Ìó‘Ô‚ª³‚µ‚­‚ ‚è‚Ü‚¹‚ñBŒ»İ‚ÌƒOƒ‹[ƒv <{0}> ‚ªƒvƒƒZƒXƒOƒ‹[ƒv <{1}> ‚æ‚è‘½‚­‚È‚Á‚Ä‚¢‚Ü‚·B
+data.engine.groupIncrementalUpdate.IllegalGroupOrderState=ã‚°ãƒ«ãƒ¼ãƒ—ã®æ›´æ–°ã®çŠ¶æ…‹ãŒæ­£ã—ãã‚ã‚Šã¾ã›ã‚“ã€‚ç¾åœ¨ã®ã‚°ãƒ«ãƒ¼ãƒ— <{0}> ãŒãƒ—ãƒ­ã‚»ã‚¹ã‚°ãƒ«ãƒ¼ãƒ— <{1}> ã‚ˆã‚Šå¤šããªã£ã¦ã„ã¾ã™ã€‚
 
-data.engine.MatchError=ƒpƒ^[ƒ“‚Ì\•¶‚ğŠm”F‚µ‚Ä‚­‚¾‚³‚¢B•¶š—ñ‚Æƒpƒ^[ƒ“‚ğÆ‡’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½ : {0}
+data.engine.MatchError=ãƒ‘ã‚¿ãƒ¼ãƒ³ã®æ§‹æ–‡ã‚’ç¢ºèªã—ã¦ãã ã•ã„ã€‚æ–‡å­—åˆ—ã¨ãƒ‘ã‚¿ãƒ¼ãƒ³ã‚’ç…§åˆä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸ : {0}
 
-data.engine.ExpectBooleanReturnType=ƒXƒNƒŠƒvƒgƒf[ƒ^ƒZƒbƒg‚Ì {0} ƒXƒNƒŠƒvƒg‚Í˜_—’l‚ğ•Ô‚·•K—v‚ª‚ ‚è‚Ü‚·B
+data.engine.ExpectBooleanReturnType=ã‚¹ã‚¯ãƒªãƒ—ãƒˆãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã® {0} ã‚¹ã‚¯ãƒªãƒ—ãƒˆã¯è«–ç†å€¤ã‚’è¿”ã™å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
-data.engine.BadIntervalUnit=Interval ‚Ì’PˆÊ’l‚ª–³Œø‚Å‚· : {0}
+data.engine.BadIntervalUnit=Interval ã®å˜ä½å€¤ãŒç„¡åŠ¹ã§ã™ : {0}
 
-data.engine.BadGroupKeyType=‚±‚Ìƒf[ƒ^Œ^‚ÌƒOƒ‹[ƒvƒL[‚Íg—p‚Å‚«‚Ü‚¹‚ñ : {0}
+data.engine.BadGroupKeyType=ã“ã®ãƒ‡ãƒ¼ã‚¿å‹ã®ã‚°ãƒ«ãƒ¼ãƒ—ã‚­ãƒ¼ã¯ä½¿ç”¨ã§ãã¾ã›ã‚“ : {0}
 
-data.engine.group.interval={1} Œ^‚Ì—ñ‚É‚ÍA{0} ‚ÌŠÔŠu‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+data.engine.group.interval={1} å‹ã®åˆ—ã«ã¯ã€{0} ã®é–“éš”ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-data.engine.group.interval.Rowid=ROWID —ñ‚É‚ÍA”’lˆÈŠO‚ÌŒ^‚ÌŠÔŠu‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+data.engine.group.interval.Rowid=ROWID åˆ—ã«ã¯ã€æ•°å€¤ä»¥å¤–ã®å‹ã®é–“éš”ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-data.engine.group.interval.invalid=w’è‚µ‚½ŠÔŠu‚Í–³Œø‚Å‚·B
+data.engine.group.interval.invalid=æŒ‡å®šã—ãŸé–“éš”ã¯ç„¡åŠ¹ã§ã™ã€‚
 
-data.engine.group.intervalRange.invalid=ŠÔŠu‚Ì”ÍˆÍ {0} ‚ª–³Œø‚Å‚·B
+data.engine.group.intervalRange.invalid=é–“éš”ã®ç¯„å›² {0} ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.engine.NoSupportFilterOnGroup=Œ»İ‚ÍƒOƒ‹[ƒv‚ÉƒtƒBƒ‹ƒ^‚ğ“K—p‚Å‚«‚Ü‚¹‚ñB
+data.engine.NoSupportFilterOnGroup=ç¾åœ¨ã¯ã‚°ãƒ«ãƒ¼ãƒ—ã«ãƒ•ã‚£ãƒ«ã‚¿ã‚’é©ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.InvalidTopBottomArgument=Top ‚Æ Bottom ‚ÌƒtƒBƒ‹ƒ^‚Ìˆø”‚É‚ÍA”’l‚ğw’è‚µ‚Ä‚­‚¾‚³‚¢B
+data.engine.InvalidTopBottomArgument=Top ã¨ Bottom ã®ãƒ•ã‚£ãƒ«ã‚¿ã®å¼•æ•°ã«ã¯ã€æ•°å€¤ã‚’æŒ‡å®šã—ã¦ãã ã•ã„ã€‚
 
-data.engine.InvalidTopBottomNArgument=TopN ‚Æ BottomN ‚ÌƒtƒBƒ‹ƒ^‚Ìˆø”‚ÍAƒ[ƒ‚Ü‚½‚Í³‚Ì®”‚Å‚ ‚é•K—v‚ª‚ ‚è‚Ü‚·B
+data.engine.InvalidTopBottomNArgument=TopN ã¨ BottomN ã®ãƒ•ã‚£ãƒ«ã‚¿ã®å¼•æ•°ã¯ã€ã‚¼ãƒ­ã¾ãŸã¯æ­£ã®æ•´æ•°ã§ã‚ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
-data.engine.InvalidTopBottomPercentArgument=TopPercent ‚Æ BottomPercent ‚ÌƒtƒBƒ‹ƒ^‚Ìˆø”‚ÍA—¼•û‚Æ‚à 100 ˆÈ‰º‚Ì³”‚Å‚ ‚é•K—v‚ª‚ ‚è‚Ü‚·B
+data.engine.InvalidTopBottomPercentArgument=TopPercent ã¨ BottomPercent ã®ãƒ•ã‚£ãƒ«ã‚¿ã®å¼•æ•°ã¯ã€ä¸¡æ–¹ã¨ã‚‚ 100 ä»¥ä¸‹ã®æ­£æ•°ã§ã‚ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
-data.engine.UnsupportedCondOp=ğŒ‰‰Zq‚Íg—p‚Å‚«‚Ü‚¹‚ñ : {0}
+data.engine.UnsupportedCondOp=æ¡ä»¶æ¼”ç®—å­ã¯ä½¿ç”¨ã§ãã¾ã›ã‚“ : {0}
 
-data.engine.EmptyExpression=®‚Í null ‚Ü‚½‚Í‹ó”’‚É‚Í‚Å‚«‚Ü‚¹‚ñB
+data.engine.EmptyExpression=å¼ã¯ null ã¾ãŸã¯ç©ºç™½ã«ã¯ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.AggregationBinding.EmptyArgument=WŒvƒoƒCƒ“ƒh "{1}" ‚É‚Íˆø” "{0}" ‚ª•K—v‚Å‚·B
+data.engine.AggregationBinding.EmptyArgument=é›†è¨ˆãƒã‚¤ãƒ³ãƒ‰ "{1}" ã«ã¯å¼•æ•° "{0}" ãŒå¿…è¦ã§ã™ã€‚
 
-data.engine.InvalidJoinType=ƒWƒ‡ƒCƒ“‚ÌŒ^‚ª–³Œø‚Å‚·B
+data.engine.InvalidJoinType=ã‚¸ãƒ§ã‚¤ãƒ³ã®å‹ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.engine.InvalidJoinOperator=ƒWƒ‡ƒCƒ“‚Ì‰‰Zq‚ª–³Œø‚Å‚·B
+data.engine.InvalidJoinOperator=ã‚¸ãƒ§ã‚¤ãƒ³ã®æ¼”ç®—å­ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.engine.BadDataSetParamName=ƒf[ƒ^ƒZƒbƒg‚Ì–¢’è‹`ƒpƒ‰ƒƒ^ : {0}
+data.engine.BadDataSetParamName=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®æœªå®šç¾©ãƒ‘ãƒ©ãƒ¡ã‚¿ : {0}
 
-data.engine.FailComputeOutputParameterValue=o—Íƒpƒ‰ƒƒ^’l‚Ì•]‰¿ƒGƒ‰[ : {0}
+data.engine.FailComputeOutputParameterValue=å‡ºåŠ›ãƒ‘ãƒ©ãƒ¡ã‚¿å€¤ã®è©•ä¾¡ã‚¨ãƒ©ãƒ¼ : {0}
 
-data.engine.LinkedReportParamAllowMultiValues=•¡”‚Ì’l‚ğg—p‚Å‚«‚éƒŒƒ|[ƒgƒpƒ‰ƒƒ^ "{0}" ‚ÍAƒf[ƒ^ƒZƒbƒgƒpƒ‰ƒƒ^ "{1}" ‚ÌƒŠƒ“ƒN‚É‚Íg—p‚Å‚«‚Ü‚¹‚ñB
+data.engine.LinkedReportParamAllowMultiValues=è¤‡æ•°ã®å€¤ã‚’ä½¿ç”¨ã§ãã‚‹ãƒ¬ãƒãƒ¼ãƒˆãƒ‘ãƒ©ãƒ¡ã‚¿ "{0}" ã¯ã€ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆãƒ‘ãƒ©ãƒ¡ã‚¿ "{1}" ã®ãƒªãƒ³ã‚¯ã«ã¯ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
 #column binding
-data.engine.EmptyBindingName=ƒoƒCƒ“ƒh–¼‚Í null ‚Ü‚½‚Í‹ó”’‚É‚Å‚«‚Ü‚¹‚ñB
+data.engine.EmptyBindingName=ãƒã‚¤ãƒ³ãƒ‰åã¯ null ã¾ãŸã¯ç©ºç™½ã«ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.InvalidBoundColumnName=ƒoƒCƒ“ƒh‚³‚ê‚½ƒJƒ‰ƒ€‚Ì–¼‘O‚ª–³Œø‚Å‚· : {0}
+data.engine.InvalidBoundColumnName=ãƒã‚¤ãƒ³ãƒ‰ã•ã‚ŒãŸã‚«ãƒ©ãƒ ã®åå‰ãŒç„¡åŠ¹ã§ã™ : {0}
 
-data.engine.InvalidGroupKey=ƒOƒ‹[ƒv {1} ‚ÌƒOƒ‹[ƒvƒL[ "{0}" ‚ÍA‚»‚ê‚æ‚è‰ºˆÊ‚ÌƒOƒ‹[ƒv‚Å’è‹`‚³‚ê‚Ä‚¢‚éƒJƒ‰ƒ€ƒoƒCƒ“ƒh‚ÉˆË‘¶‚³‚¹‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+data.engine.InvalidGroupKey=ã‚°ãƒ«ãƒ¼ãƒ— {1} ã®ã‚°ãƒ«ãƒ¼ãƒ—ã‚­ãƒ¼ "{0}" ã¯ã€ãã‚Œã‚ˆã‚Šä¸‹ä½ã®ã‚°ãƒ«ãƒ¼ãƒ—ã§å®šç¾©ã•ã‚Œã¦ã„ã‚‹ã‚«ãƒ©ãƒ ãƒã‚¤ãƒ³ãƒ‰ã«ä¾å­˜ã•ã›ã‚‹ã“ã¨ã¯ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.ColumnBindingNotExist=ƒoƒCƒ“ƒh "{0}" ‚Í‘¶İ‚µ‚Ü‚¹‚ñB
+data.engine.ColumnBindingNotExist=ãƒã‚¤ãƒ³ãƒ‰ "{0}" ã¯å­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-data.engine.ColumnBindingCycle=ƒoƒCƒ“ƒh "{0}" ‚ÌˆË‘¶ŠÖŒW‚ªzŠÂQÆ‚É‚È‚Á‚Ä‚¢‚Ü‚·B
+data.engine.ColumnBindingCycle=ãƒã‚¤ãƒ³ãƒ‰ "{0}" ã®ä¾å­˜é–¢ä¿‚ãŒå¾ªç’°å‚ç…§ã«ãªã£ã¦ã„ã¾ã™ã€‚
 
-data.engine.ColumnBindingReferToInexistColumn=—ñƒoƒCƒ“ƒh "{0}" ‚ÍA‘¶İ‚µ‚È‚¢ƒoƒCƒ“ƒh "{1}" ‚ğQÆ‚µ‚Ä‚¢‚Ü‚·B
+data.engine.ColumnBindingReferToInexistColumn=åˆ—ãƒã‚¤ãƒ³ãƒ‰ "{0}" ã¯ã€å­˜åœ¨ã—ãªã„ãƒã‚¤ãƒ³ãƒ‰ "{1}" ã‚’å‚ç…§ã—ã¦ã„ã¾ã™ã€‚
 
-data.engine.ColumnBindingReferToInexistBinding=—ñƒoƒCƒ“ƒh "{0}" ‚ÍA‘¶İ‚µ‚È‚¢ƒf[ƒ^ƒZƒbƒg—ñ "{1}" ‚ğQÆ‚µ‚Ä‚¢‚Ü‚·B
+data.engine.ColumnBindingReferToInexistBinding=åˆ—ãƒã‚¤ãƒ³ãƒ‰ "{0}" ã¯ã€å­˜åœ¨ã—ãªã„ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆåˆ— "{1}" ã‚’å‚ç…§ã—ã¦ã„ã¾ã™ã€‚
 
-data.engine.ColumnBindingReferToAggregationColumnBindingInParentQuery=—ñƒoƒCƒ“ƒh "{0}" ‚ª³‚µ‚­‚ ‚è‚Ü‚¹‚ñBeƒNƒGƒŠ‚Ì—ñƒoƒCƒ“ƒh‚ÉWŒv‚ªŠÜ‚Ü‚ê‚Ä‚¢‚Ü‚·‚ªAƒTƒuƒNƒGƒŠ‚Ì—ñƒoƒCƒ“ƒh‚É‚Íg—p‚Å‚«‚Ü‚¹‚ñB
+data.engine.ColumnBindingReferToAggregationColumnBindingInParentQuery=åˆ—ãƒã‚¤ãƒ³ãƒ‰ "{0}" ãŒæ­£ã—ãã‚ã‚Šã¾ã›ã‚“ã€‚è¦ªã‚¯ã‚¨ãƒªã®åˆ—ãƒã‚¤ãƒ³ãƒ‰ã«é›†è¨ˆãŒå«ã¾ã‚Œã¦ã„ã¾ã™ãŒã€ã‚µãƒ–ã‚¯ã‚¨ãƒªã®åˆ—ãƒã‚¤ãƒ³ãƒ‰ã«ã¯ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.ReadColumnValueFromDocumentError=—ñ {0} ‚Ì’l‚ğ“Ç‚İæ‚è’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½BƒoƒCƒ“ƒh‚Ì® (ƒ[ƒœZƒGƒ‰[) ‚ğ•]‰¿’†‚ÉÀsƒGƒ‰[‚ª”­¶‚µ‚½‰Â”\«‚ª‚ ‚è‚Ü‚·B
+data.engine.ReadColumnValueFromDocumentError=åˆ— {0} ã®å€¤ã‚’èª­ã¿å–ã‚Šä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚ãƒã‚¤ãƒ³ãƒ‰ã®å¼ (ã‚¼ãƒ­é™¤ç®—ã‚¨ãƒ©ãƒ¼) ã‚’è©•ä¾¡ä¸­ã«å®Ÿè¡Œæ™‚ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ãŸå¯èƒ½æ€§ãŒã‚ã‚Šã¾ã™ã€‚
 
-data.engine.NoOuterResultsExist=ŠO•”ƒNƒGƒŠ‚ÌŒ‹‰Ê‚ª‘¶İ‚µ‚Ü‚¹‚ñB‚±‚ê‚ÍAƒNƒGƒŠ‚Å "_outer" ‚ªQÆ‚³‚ê‚Ä‚¢‚é‚Ì‚ÉeƒNƒGƒŠ‚ª‚È‚¢‚±‚Æ‚ªŒ´ˆö‚Æl‚¦‚ç‚ê‚Ü‚·B
+data.engine.NoOuterResultsExist=å¤–éƒ¨ã‚¯ã‚¨ãƒªã®çµæœãŒå­˜åœ¨ã—ã¾ã›ã‚“ã€‚ã“ã‚Œã¯ã€ã‚¯ã‚¨ãƒªã§ "_outer" ãŒå‚ç…§ã•ã‚Œã¦ã„ã‚‹ã®ã«è¦ªã‚¯ã‚¨ãƒªãŒãªã„ã“ã¨ãŒåŸå› ã¨è€ƒãˆã‚‰ã‚Œã¾ã™ã€‚
 
-data.engine.DuplicatedBindingName=ƒoƒCƒ“ƒh–¼ {0} ‚ªd•¡‚µ‚Ä‚¢‚Ü‚·B
+data.engine.DuplicatedBindingName=ãƒã‚¤ãƒ³ãƒ‰å {0} ãŒé‡è¤‡ã—ã¦ã„ã¾ã™ã€‚
 
-data.engine.InvalidAggrLevelKeyInSummaryQuery=WŒv {0} ‚Í³‚µ‚­‚È‚¢ƒOƒ‹[ƒv–¼‚ğQÆ‚µ‚Ä‚¢‚Ü‚·B
+data.engine.InvalidAggrLevelKeyInSummaryQuery=é›†è¨ˆ {0} ã¯æ­£ã—ããªã„ã‚°ãƒ«ãƒ¼ãƒ—åã‚’å‚ç…§ã—ã¦ã„ã¾ã™ã€‚
 #computed column value
-data.engine.BadCompColExpr=ŒvZ—ñ "{0}" ‚Ì®‚ª–³Œø‚Å‚·B
+data.engine.BadCompColExpr=è¨ˆç®—åˆ— "{0}" ã®å¼ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.engine.CompCol.FailRetrieveValueComputedColumn=ŒvZ—ñ "{0}" ‚Ì’l‚ğŒvZ‚Å‚«‚Ü‚¹‚ñB
+data.engine.CompCol.FailRetrieveValueComputedColumn=è¨ˆç®—åˆ— "{0}" ã®å€¤ã‚’è¨ˆç®—ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.ScriptResult.WrongSystemComputedColumn=ƒ\[ƒgAƒOƒ‹[ƒv‰»AƒtƒBƒ‹ƒ^A‚Ü‚½‚ÍƒoƒCƒ“ƒh‚Ì®‚ğ•]‰¿‚Å‚«‚Ü‚¹‚ñB ®‚Åg—p‚³‚ê‚Ä‚¢‚éƒf[ƒ^ƒtƒB[ƒ‹ƒh‚ªƒe[ƒ^ƒZƒbƒg‚É‘¶İ‚µ‚Ü‚¹‚ñB
+data.engine.ScriptResult.WrongSystemComputedColumn=ã‚½ãƒ¼ãƒˆã€ã‚°ãƒ«ãƒ¼ãƒ—åŒ–ã€ãƒ•ã‚£ãƒ«ã‚¿ã€ã¾ãŸã¯ãƒã‚¤ãƒ³ãƒ‰ã®å¼ã‚’è©•ä¾¡ã§ãã¾ã›ã‚“ã€‚ å¼ã§ä½¿ç”¨ã•ã‚Œã¦ã„ã‚‹ãƒ‡ãƒ¼ã‚¿ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ãŒãƒ†ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã«å­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-data.engine.ComputedColumnCycle=ŒvZ—ñ "{0}" ‚ÌˆË‘¶ŠÖŒW‚ªzŠÂQÆ‚É‚È‚Á‚Ä‚¢‚Ü‚·B
+data.engine.ComputedColumnCycle=è¨ˆç®—åˆ— "{0}" ã®ä¾å­˜é–¢ä¿‚ãŒå¾ªç’°å‚ç…§ã«ãªã£ã¦ã„ã¾ã™ã€‚
 
-data.engine.SortOnAggregation=ƒOƒ‹[ƒv‰»‚³‚ê‚Ä‚¢‚È‚¢WŒv‚ğg—p‚·‚éƒ\[ƒgA‚Ü‚½‚ÍWŒv "{0}" ‚ğQÆ‚·‚éŒvZ®‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+data.engine.SortOnAggregation=ã‚°ãƒ«ãƒ¼ãƒ—åŒ–ã•ã‚Œã¦ã„ãªã„é›†è¨ˆã‚’ä½¿ç”¨ã™ã‚‹ã‚½ãƒ¼ãƒˆã€ã¾ãŸã¯é›†è¨ˆ "{0}" ã‚’å‚ç…§ã™ã‚‹è¨ˆç®—å¼ã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-data.engine.BadFilterExpr=ƒtƒBƒ‹ƒ^® "{0}" ‚ª–³Œø‚Å‚·B
+data.engine.BadFilterExpr=ãƒ•ã‚£ãƒ«ã‚¿å¼ "{0}" ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.engine.BadFilterDefn=® "{0}" ‚ÉŠî‚Ã‚­ƒtƒBƒ‹ƒ^‚ğ•]‰¿‚Å‚«‚Ü‚¹‚ñB
+data.engine.BadFilterDefn=å¼ "{0}" ã«åŸºã¥ããƒ•ã‚£ãƒ«ã‚¿ã‚’è©•ä¾¡ã§ãã¾ã›ã‚“ã€‚
 
 #clob and blob error
-data.engine.opencloberror=CLOB •¶šƒXƒgƒŠ[ƒ€‚ğŠJ‚­‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+data.engine.opencloberror=CLOB æ–‡å­—ã‚¹ãƒˆãƒªãƒ¼ãƒ ã‚’é–‹ãã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-data.engine.readcloberror=CLOB •¶šƒXƒgƒŠ[ƒ€‚ğ“Ç‚İæ‚ê‚Ü‚¹‚ñB
+data.engine.readcloberror=CLOB æ–‡å­—ã‚¹ãƒˆãƒªãƒ¼ãƒ ã‚’èª­ã¿å–ã‚Œã¾ã›ã‚“ã€‚
 
-data.engine.openbloberror=BLOB ƒoƒCƒiƒŠƒXƒgƒŠ[ƒ€‚ğŠJ‚­‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+data.engine.openbloberror=BLOB ãƒã‚¤ãƒŠãƒªã‚¹ãƒˆãƒªãƒ¼ãƒ ã‚’é–‹ãã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-data.engine.readbloberror=BLOB ƒoƒCƒiƒŠƒXƒgƒŠ[ƒ€‚ğ“Ç‚İæ‚ê‚Ü‚¹‚ñB
+data.engine.readbloberror=BLOB ãƒã‚¤ãƒŠãƒªã‚¹ãƒˆãƒªãƒ¼ãƒ ã‚’èª­ã¿å–ã‚Œã¾ã›ã‚“ã€‚
 
 #resultsetcache exception
-data.engine.BadDestIndex=destIndex ‚Ì’l {0} ‚Í–³Œø‚Å‚·B0 ` {1} ‚Ü‚Å‚Ì”’l‚ğw’è‚µ‚Ä‚­‚¾‚³‚¢B
+data.engine.BadDestIndex=destIndex ã®å€¤ {0} ã¯ç„¡åŠ¹ã§ã™ã€‚0 ã€œ {1} ã¾ã§ã®æ•°å€¤ã‚’æŒ‡å®šã—ã¦ãã ã•ã„ã€‚
 
-data.engine.WriteTempError=ˆêƒtƒ@ƒCƒ‹‚É‘å‚«‚Èƒf[ƒ^ƒZƒbƒg‚ğ‘‚«‚İ’†‚É—áŠO‚ª”­¶‚µ‚Ü‚µ‚½B
+data.engine.WriteTempError=ä¸€æ™‚ãƒ•ã‚¡ã‚¤ãƒ«ã«å¤§ããªãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã‚’æ›¸ãè¾¼ã¿ä¸­ã«ä¾‹å¤–ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-data.engine.ReadTempError=ˆêƒtƒ@ƒCƒ‹‚©‚ç‘å‚«‚Èƒf[ƒ^ƒZƒbƒg‚ğ“Ç‚İ‚İ’†‚É—áŠO‚ª”­¶‚µ‚Ü‚µ‚½B
+data.engine.ReadTempError=ä¸€æ™‚ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰å¤§ããªãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã‚’èª­ã¿è¾¼ã¿ä¸­ã«ä¾‹å¤–ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
 #resultiterator cache exception
-data.engine.CreateCacheTempError=Œ‹‰Ês‚ğƒLƒƒƒbƒVƒ…‚·‚é‚½‚ß‚Ìˆêƒtƒ@ƒCƒ‹‚ğì¬’†‚É—áŠO‚ª”­¶‚µ‚Ü‚µ‚½B
+data.engine.CreateCacheTempError=çµæœè¡Œã‚’ã‚­ãƒ£ãƒƒã‚·ãƒ¥ã™ã‚‹ãŸã‚ã®ä¸€æ™‚ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä½œæˆä¸­ã«ä¾‹å¤–ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-data.engine.OpenCacheTempError=Œ‹‰Ês‚ğƒLƒƒƒbƒVƒ…‚·‚é‚½‚ß‚Ìˆêƒtƒ@ƒCƒ‹‚ğŠJ‚¢‚Ä‚¢‚é‚Æ‚«‚É—áŠO‚ª”­¶‚µ‚Ü‚µ‚½B
+data.engine.OpenCacheTempError=çµæœè¡Œã‚’ã‚­ãƒ£ãƒƒã‚·ãƒ¥ã™ã‚‹ãŸã‚ã®ä¸€æ™‚ãƒ•ã‚¡ã‚¤ãƒ«ã‚’é–‹ã„ã¦ã„ã‚‹ã¨ãã«ä¾‹å¤–ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-data.engine.WriteCacheTempError=Œ‹‰Ês‚ğƒLƒƒƒbƒVƒ…‚·‚é‚½‚ß‚Ìˆêƒtƒ@ƒCƒ‹‚É‘‚«‚ñ‚Å‚¢‚é‚Æ‚«‚É—áŠO‚ª”­¶‚µ‚Ü‚µ‚½B
+data.engine.WriteCacheTempError=çµæœè¡Œã‚’ã‚­ãƒ£ãƒƒã‚·ãƒ¥ã™ã‚‹ãŸã‚ã®ä¸€æ™‚ãƒ•ã‚¡ã‚¤ãƒ«ã«æ›¸ãè¾¼ã‚“ã§ã„ã‚‹ã¨ãã«ä¾‹å¤–ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-data.engine.ReadCacheTempError=Œ‹‰Ês‚ğƒLƒƒƒbƒVƒ…‚·‚é‚½‚ß‚Ìˆêƒtƒ@ƒCƒ‹‚ğ“Ç‚İ‚ñ‚Å‚¢‚é‚Æ‚«‚É—áŠO‚ª”­¶‚µ‚Ü‚µ‚½B
+data.engine.ReadCacheTempError=çµæœè¡Œã‚’ã‚­ãƒ£ãƒƒã‚·ãƒ¥ã™ã‚‹ãŸã‚ã®ä¸€æ™‚ãƒ•ã‚¡ã‚¤ãƒ«ã‚’èª­ã¿è¾¼ã‚“ã§ã„ã‚‹ã¨ãã«ä¾‹å¤–ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-data.engine.CloseCacheTempError=Œ‹‰Ês‚ğƒLƒƒƒbƒVƒ…‚·‚é‚½‚ß‚Ìˆêƒtƒ@ƒCƒ‹‚ğ•Â‚¶‚Ä‚¢‚é‚Æ‚«‚É—áŠO‚ª”­¶‚µ‚Ü‚µ‚½B
+data.engine.CloseCacheTempError=çµæœè¡Œã‚’ã‚­ãƒ£ãƒƒã‚·ãƒ¥ã™ã‚‹ãŸã‚ã®ä¸€æ™‚ãƒ•ã‚¡ã‚¤ãƒ«ã‚’é–‰ã˜ã¦ã„ã‚‹ã¨ãã«ä¾‹å¤–ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-data.engine.FailedLoadColumnValue="{0}" Œ^‚Ì—ñ "{1}" ‚Ì’l‚ğ“Ç‚İ‚ß‚Ü‚¹‚ñB
+data.engine.FailedLoadColumnValue="{0}" å‹ã®åˆ— "{1}" ã®å€¤ã‚’èª­ã¿è¾¼ã‚ã¾ã›ã‚“ã€‚
 
-data.engine.FailedLoadClass="{1}" Œ^‚Ì—ñ "{2}" ‚ÌƒNƒ‰ƒX "{0}" ‚ğ“Ç‚İ‚ß‚Ü‚¹‚ñB ƒNƒ‰ƒX "{0}"‚ªABIRT ƒGƒ“ƒWƒ“‚ÌƒNƒ‰ƒX“Ç‚İ‚İƒpƒX‚ÉŠÜ‚Ü‚ê‚Ä‚¢‚é‚±‚Æ‚ğŠm”F‚µ‚Ä‚­‚¾‚³‚¢B
+data.engine.FailedLoadClass="{1}" å‹ã®åˆ— "{2}" ã®ã‚¯ãƒ©ã‚¹ "{0}" ã‚’èª­ã¿è¾¼ã‚ã¾ã›ã‚“ã€‚ ã‚¯ãƒ©ã‚¹ "{0}"ãŒã€BIRT ã‚¨ãƒ³ã‚¸ãƒ³ã®ã‚¯ãƒ©ã‚¹èª­ã¿è¾¼ã¿ãƒ‘ã‚¹ã«å«ã¾ã‚Œã¦ã„ã‚‹ã“ã¨ã‚’ç¢ºèªã—ã¦ãã ã•ã„ã€‚
 
 #load data engine factory exception
-load.factory.error=ƒf[ƒ^ƒGƒ“ƒWƒ“‚Ìƒtƒ@ƒNƒgƒŠ‚ğ“Ç‚İ‚ß‚Ü‚¹‚ñB
+load.factory.error=ãƒ‡ãƒ¼ã‚¿ã‚¨ãƒ³ã‚¸ãƒ³ã®ãƒ•ã‚¡ã‚¯ãƒˆãƒªã‚’èª­ã¿è¾¼ã‚ã¾ã›ã‚“ã€‚
 
 # Wrapped Error
-data.engine.DataConversionError=ƒf[ƒ^Œ^‚ğ•ÏŠ·’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+data.engine.DataConversionError=ãƒ‡ãƒ¼ã‚¿å‹ã‚’å¤‰æ›ä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-data.engine.BadCompareExpr="{0}" ‚ğ "{1}" ‚Æ”äŠr‚Å‚«‚Ü‚¹‚ñB
+data.engine.BadCompareExpr="{0}" ã‚’ "{1}" ã¨æ¯”è¼ƒã§ãã¾ã›ã‚“ã€‚
 
-data.engine.BadCompareSingleValueWithMultiValues=1 ‚Â‚Ì’l‚ğ [{0}] ‚Ì•¡”‚Ì’l‚Æ”äŠr‚·‚éƒtƒBƒ‹ƒ^ğŒ‚ª–³Œø‚Å‚ ‚é‚½‚ßAƒtƒBƒ‹ƒ^‚ğ“K—p‚Å‚«‚Ü‚¹‚ñB\n‚±‚ÌƒtƒBƒ‹ƒ^‚Å‚Í’l‚ğ 1 ‚Â‚¾‚¯İ’è‚µ‚Ä‚­‚¾‚³‚¢B
+data.engine.BadCompareSingleValueWithMultiValues=1 ã¤ã®å€¤ã‚’ [{0}] ã®è¤‡æ•°ã®å€¤ã¨æ¯”è¼ƒã™ã‚‹ãƒ•ã‚£ãƒ«ã‚¿æ¡ä»¶ãŒç„¡åŠ¹ã§ã‚ã‚‹ãŸã‚ã€ãƒ•ã‚£ãƒ«ã‚¿ã‚’é©ç”¨ã§ãã¾ã›ã‚“ã€‚\nã“ã®ãƒ•ã‚£ãƒ«ã‚¿ã§ã¯å€¤ã‚’ 1 ã¤ã ã‘è¨­å®šã—ã¦ãã ã•ã„ã€‚
 
-data.engine.BirtException=BIRT ‚Å—áŠO‚ª”­¶‚µ‚Ü‚µ‚½B Ú‚µ‚­‚ÍAŸ‚Ì—áŠO‚ğQÆ‚µ‚Ä‚­‚¾‚³‚¢B
+data.engine.BirtException=BIRT ã§ä¾‹å¤–ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚ è©³ã—ãã¯ã€æ¬¡ã®ä¾‹å¤–ã‚’å‚ç…§ã—ã¦ãã ã•ã„ã€‚
 
 # data set cache error
-data.engine.datasetcache.save.error=ƒf[ƒ^ƒZƒbƒgƒLƒƒƒbƒVƒ…‚Ìƒtƒ@ƒCƒ‹‚ğ•Û‘¶‚Å‚«‚Ü‚¹‚ñB
+data.engine.datasetcache.save.error=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã‚­ãƒ£ãƒƒã‚·ãƒ¥ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä¿å­˜ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.datasetcache.load.error=ƒf[ƒ^ƒZƒbƒgƒLƒƒƒbƒVƒ…‚Ìƒtƒ@ƒCƒ‹‚ğ“Ç‚İ‚ß‚Ü‚¹‚ñB
+data.engine.datasetcache.load.error=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã‚­ãƒ£ãƒƒã‚·ãƒ¥ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚’èª­ã¿è¾¼ã‚ã¾ã›ã‚“ã€‚
 
-data.engine.exceed.max.data.object.row=ƒNƒGƒŠ‚ğˆ—‚Å‚«‚Ü‚¹‚ñB ƒNƒGƒŠ‚ğÀs‚·‚é‚É‚ÍAŒ‹‰ÊƒZƒbƒg‚Ìƒoƒbƒtƒ@ƒTƒCƒY‚ğ‘‚â‚·‚©AƒNƒGƒŠ‚ği‚è‚Ş•K—v‚ª‚ ‚è‚Ü‚·B
+data.engine.exceed.max.data.object.row=ã‚¯ã‚¨ãƒªã‚’å‡¦ç†ã§ãã¾ã›ã‚“ã€‚ ã‚¯ã‚¨ãƒªã‚’å®Ÿè¡Œã™ã‚‹ã«ã¯ã€çµæœã‚»ãƒƒãƒˆã®ãƒãƒƒãƒ•ã‚¡ã‚µã‚¤ã‚ºã‚’å¢—ã‚„ã™ã‹ã€ã‚¯ã‚¨ãƒªã‚’çµã‚Šè¾¼ã‚€å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
 # error related with data engine context
-data.engine.InvalidMode=ƒf[ƒ^ƒGƒ“ƒWƒ“ƒRƒ“ƒeƒLƒXƒg‚Ìƒ‚[ƒh‚Ì’l {0} ‚ª–³Œø‚Å‚·B
+data.engine.InvalidMode=ãƒ‡ãƒ¼ã‚¿ã‚¨ãƒ³ã‚¸ãƒ³ã‚³ãƒ³ãƒ†ã‚­ã‚¹ãƒˆã®ãƒ¢ãƒ¼ãƒ‰ã®å€¤ {0} ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.engine.InvalidArchive=ì¬‚Ü‚½‚ÍƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‚ÍAƒŒƒ|[ƒgƒA[ƒJƒCƒu‚ğ null ‚É‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+data.engine.InvalidArchive=ä½œæˆæ™‚ã¾ãŸã¯ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³æ™‚ã¯ã€ãƒ¬ãƒãƒ¼ãƒˆã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ã‚’ null ã«ã™ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-data.engine.SaveReportDocumentError=ƒŒƒ|[ƒg•¶‘‚ğ•Û‘¶’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½ : {0}
+data.engine.SaveReportDocumentError=ãƒ¬ãƒãƒ¼ãƒˆæ–‡æ›¸ã‚’ä¿å­˜ä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸ : {0}
 
-data.engine.LoadReportDocumentError=ƒŒƒ|[ƒg•¶‘‚ğ“Ç‚İ‚İ’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½ : {0}
+data.engine.LoadReportDocumentError=ãƒ¬ãƒãƒ¼ãƒˆæ–‡æ›¸ã‚’èª­ã¿è¾¼ã¿ä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸ : {0}
 
-data.engine.GetSaveStreamError=•Û‘¶ƒXƒgƒŠ[ƒ€‚ğæ“¾‚·‚éÛ‚ÉƒŒƒ|[ƒg•¶‘‚ÅƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+data.engine.GetSaveStreamError=ä¿å­˜ã‚¹ãƒˆãƒªãƒ¼ãƒ ã‚’å–å¾—ã™ã‚‹éš›ã«ãƒ¬ãƒãƒ¼ãƒˆæ–‡æ›¸ã§ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-data.engine.GetLoadStreamError=“Ç‚İ‚İƒXƒgƒŠ[ƒ€‚ğæ“¾‚·‚éÛ‚ÉƒŒƒ|[ƒg•¶‘‚ÅƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+data.engine.GetLoadStreamError=èª­ã¿è¾¼ã¿ã‚¹ãƒˆãƒªãƒ¼ãƒ ã‚’å–å¾—ã™ã‚‹éš›ã«ãƒ¬ãƒãƒ¼ãƒˆæ–‡æ›¸ã§ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-data.engine.NullExpr=ƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‚Ì’l‚ğæ“¾‚·‚é‚É‚ÍA®‚ğ null ‚É‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+data.engine.NullExpr=ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã®å€¤ã‚’å–å¾—ã™ã‚‹ã«ã¯ã€å¼ã‚’ null ã«ã™ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-data.engine.InValidExpr=®‚ª–³Œø‚È‚½‚ßAƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+data.engine.InValidExpr=å¼ãŒç„¡åŠ¹ãªãŸã‚ã€ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.BadGroupExpr=ƒOƒ‹[ƒv®‚Í‹ó”’‚É‚Å‚«‚Ü‚¹‚ñB
+data.engine.BadGroupExpr=ã‚°ãƒ«ãƒ¼ãƒ—å¼ã¯ç©ºç™½ã«ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.filterExprContainRowNum=ƒtƒBƒ‹ƒ^®‚Å‚ÍAJava ƒXƒNƒŠƒvƒgƒIƒuƒWƒFƒNƒg "row.__num" ‚ğQÆ‚Å‚«‚Ü‚¹‚ñB
+data.engine.filterExprContainRowNum=ãƒ•ã‚£ãƒ«ã‚¿å¼ã§ã¯ã€Java ã‚¹ã‚¯ãƒªãƒ—ãƒˆã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆ "row.__num" ã‚’å‚ç…§ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.sortExprContainRowNum=ƒ\[ƒg®‚Å‚ÍAJava ƒXƒNƒŠƒvƒgƒIƒuƒWƒFƒNƒg "row.__num" ‚ğQÆ‚Å‚«‚Ü‚¹‚ñB
+data.engine.sortExprContainRowNum=ã‚½ãƒ¼ãƒˆå¼ã§ã¯ã€Java ã‚¹ã‚¯ãƒªãƒ—ãƒˆã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆ "row.__num" ã‚’å‚ç…§ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.ResultSetNotStart=Œ‹‰ÊƒZƒbƒg‚Í‚Ü‚¾ŠJn‚µ‚Ä‚¢‚Ü‚¹‚ñB
+data.engine.ResultSetNotStart=çµæœã‚»ãƒƒãƒˆã¯ã¾ã é–‹å§‹ã—ã¦ã„ã¾ã›ã‚“ã€‚
 
-data.engine.GetLevelMemberError=‚±‚Ìƒf[ƒ^ƒoƒCƒ“ƒh‚Í—˜—p‰Â”\‚ÈƒXƒR[ƒv‚ÌŠO•”‚Åg—p‚³‚ê‚Ü‚·B
+data.engine.GetLevelMemberError=ã“ã®ãƒ‡ãƒ¼ã‚¿ãƒã‚¤ãƒ³ãƒ‰ã¯åˆ©ç”¨å¯èƒ½ãªã‚¹ã‚³ãƒ¼ãƒ—ã®å¤–éƒ¨ã§ä½¿ç”¨ã•ã‚Œã¾ã™ã€‚
 
-data.engine.invalidRowIndex=s‚ÌƒCƒ“ƒfƒbƒNƒX’l‚ª–³Œø‚Å‚· : {0}
+data.engine.invalidRowIndex=è¡Œã®ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹å€¤ãŒç„¡åŠ¹ã§ã™ : {0}
 
-data.engine.backwardSeekError=‚±‚Ìƒo[ƒWƒ‡ƒ“‚Å‚ÍAŒã•ûƒV[ƒN‚ğÀs‚Å‚«‚Ü‚¹‚ñB
+data.engine.backwardSeekError=ã“ã®ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã¯ã€å¾Œæ–¹ã‚·ãƒ¼ã‚¯ã‚’å®Ÿè¡Œã§ãã¾ã›ã‚“ã€‚
 
-data.engine.startError=æ‚ÉAŸ‚Ìƒƒ\ƒbƒh‚ğŒÄ‚Ño‚µ‚Ä‚­‚¾‚³‚¢B
+data.engine.startError=å…ˆã«ã€æ¬¡ã®ãƒ¡ã‚½ãƒƒãƒ‰ã‚’å‘¼ã³å‡ºã—ã¦ãã ã•ã„ã€‚
 
 # query running based on report document
-data.engine.rd.errorfilters=ƒNƒGƒŠ‚É’è‹`‚µ‚½ƒtƒBƒ‹ƒ^‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+data.engine.rd.errorfilters=ã‚¯ã‚¨ãƒªã«å®šç¾©ã—ãŸãƒ•ã‚£ãƒ«ã‚¿ã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
 # other error
-data.engine.ScriptEvalError=ƒXƒNƒŠƒvƒg‚Ì•]‰¿ƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½ (ƒ\[ƒX : {0}As : {1}:  {2}B
+data.engine.ScriptEvalError=ã‚¹ã‚¯ãƒªãƒ—ãƒˆã®è©•ä¾¡ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸ (ã‚½ãƒ¼ã‚¹ : {0}ã€è¡Œ : {1}:  {2}ã€‚
 
-data.engine.PreparedQueryClosed=PreparedQuery ƒCƒ“ƒXƒ^ƒ“ƒX‚ğ•Â‚¶‚Ü‚µ‚½B
+data.engine.PreparedQueryClosed=PreparedQuery ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹ã‚’é–‰ã˜ã¾ã—ãŸã€‚
 
-data.engine.NullDefaultInParamValue=“ü—Íƒpƒ‰ƒƒ^‚ÌƒfƒtƒHƒ‹ƒg’l‚Í null ‚É‚Å‚«‚Ü‚¹‚ñB
+data.engine.NullDefaultInParamValue=å…¥åŠ›ãƒ‘ãƒ©ãƒ¡ã‚¿ã®ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆå€¤ã¯ null ã«ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.BadGroupKeyExpr=ƒOƒ‹[ƒvƒL[‚Ì® {0} ‚ª–³Œø‚Å‚·B
+data.engine.BadGroupKeyExpr=ã‚°ãƒ«ãƒ¼ãƒ—ã‚­ãƒ¼ã®å¼ {0} ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.engine.GroupNotExist=—ñ {1} ‚Åg‚í‚ê‚Ä‚¢‚éƒOƒ‹[ƒv "{0}" ‚Í‘¶İ‚µ‚Ü‚¹‚ñB
+data.engine.GroupNotExist=åˆ— {1} ã§ä½¿ã‚ã‚Œã¦ã„ã‚‹ã‚°ãƒ«ãƒ¼ãƒ— "{0}" ã¯å­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-data.engine.BadSortKeyExpr=ƒ\[ƒgƒL[‚Ì® {0} ‚ª–³Œø‚Å‚·B
+data.engine.BadSortKeyExpr=ã‚½ãƒ¼ãƒˆã‚­ãƒ¼ã®å¼ {0} ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.engine.NoParamMetaForDataSource=‚±‚ÌŒ^‚Ìƒf[ƒ^ƒ\[ƒX‚É‚ÍAƒpƒ‰ƒƒ^ƒƒ^ƒf[ƒ^‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+data.engine.NoParamMetaForDataSource=ã“ã®å‹ã®ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ã«ã¯ã€ãƒ‘ãƒ©ãƒ¡ã‚¿ãƒ¡ã‚¿ãƒ‡ãƒ¼ã‚¿ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.UnexpectedError=—áŠO‚ª”­¶‚µ‚½‚½‚ßAƒf[ƒ^ƒGƒ“ƒWƒ“‚ğ‘€ì‚Å‚«‚Ü‚¹‚ñB
+data.engine.UnexpectedError=ä¾‹å¤–ãŒç™ºç”Ÿã—ãŸãŸã‚ã€ãƒ‡ãƒ¼ã‚¿ã‚¨ãƒ³ã‚¸ãƒ³ã‚’æ“ä½œã§ãã¾ã›ã‚“ã€‚
 
-data.engine.ConvertDataTypeError=ƒpƒ‰ƒƒ^’l {0} ‚ğ {1} Œ^‚É•ÏŠ·‚Å‚«‚Ü‚¹‚ñB
+data.engine.ConvertDataTypeError=ãƒ‘ãƒ©ãƒ¡ã‚¿å€¤ {0} ã‚’ {1} å‹ã«å¤‰æ›ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.CannotInstantiateAggregationFactory=WŒvƒtƒ@ƒNƒgƒŠ {0} ‚ğƒCƒ“ƒXƒ^ƒ“ƒX‰»‚Å‚«‚Ü‚¹‚ñB
+data.engine.CannotInstantiateAggregationFactory=é›†è¨ˆãƒ•ã‚¡ã‚¯ãƒˆãƒª {0} ã‚’ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹åŒ–ã§ãã¾ã›ã‚“ã€‚
 
-date.engine.DuplicateAggregationName=WŒv–¼‚ªd•¡‚µ‚Ä‚¢‚Ü‚· : {0}
+date.engine.DuplicateAggregationName=é›†è¨ˆåãŒé‡è¤‡ã—ã¦ã„ã¾ã™ : {0}
 
-data.engine.InconsistentAggregationArgumentDefinition=WŒvŠg’£ƒNƒ‰ƒX‚ÌÀ‘•‚É’è‹`‚³‚ê‚½WŒvˆø”‚ªAplugin.xml ‚É’è‹`‚³‚ê‚½ˆø”‚Æˆê’v‚µ‚Ü‚¹‚ñB
+data.engine.InconsistentAggregationArgumentDefinition=é›†è¨ˆæ‹¡å¼µã‚¯ãƒ©ã‚¹ã®å®Ÿè£…ã«å®šç¾©ã•ã‚ŒãŸé›†è¨ˆå¼•æ•°ãŒã€plugin.xml ã«å®šç¾©ã•ã‚ŒãŸå¼•æ•°ã¨ä¸€è‡´ã—ã¾ã›ã‚“ã€‚
 
-data.engine.incorrectGroupKeyValues=ƒOƒ‹[ƒvƒL[‚Ì’l‚Ì”z—ñ‚ªŠÔˆá‚Á‚Ä‚¢‚Ü‚·B
+data.engine.incorrectGroupKeyValues=ã‚°ãƒ«ãƒ¼ãƒ—ã‚­ãƒ¼ã®å€¤ã®é…åˆ—ãŒé–“é•ã£ã¦ã„ã¾ã™ã€‚
 
-data.engine.NoExpressionProcessorAvailable=ExpressionProcessor ‚ª‚ ‚è‚Ü‚¹‚ñB
+data.engine.NoExpressionProcessorAvailable=ExpressionProcessor ãŒã‚ã‚Šã¾ã›ã‚“ã€‚
 
-data.engine.InconvertibleDatatype=’l {0} ‚ÌŒ³‚Ìƒf[ƒ^Œ^‚Í {1} ‚Ì‚½‚ßAŠ„‚è“–‚Ä‚ç‚ê‚½Œ^ {2} ‚Ìƒf[ƒ^‚É‚Í•ÏŠ·‚Å‚«‚Ü‚¹‚ñB
+data.engine.InconvertibleDatatype=å€¤ {0} ã®å…ƒã®ãƒ‡ãƒ¼ã‚¿å‹ã¯ {1} ã®ãŸã‚ã€å‰²ã‚Šå½“ã¦ã‚‰ã‚ŒãŸå‹ {2} ã®ãƒ‡ãƒ¼ã‚¿ã«ã¯å¤‰æ›ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.ConvertToDataTypeError={0} ‚ğ {1} ‚É•ÏŠ·‚Å‚«‚Ü‚¹‚ñB
+data.engine.ConvertToDataTypeError={0} ã‚’ {1} ã«å¤‰æ›ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.NoRowUpdate=Œ»“_‚Íƒf[ƒ^s‚ğXV‚Å‚«‚Ü‚¹‚ñB
+data.engine.NoRowUpdate=ç¾æ™‚ç‚¹ã¯ãƒ‡ãƒ¼ã‚¿è¡Œã‚’æ›´æ–°ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.BadDataType=‚±‚Ìƒf[ƒ^Œ^‚Íg—p‚Å‚«‚Ü‚¹‚ñ {0}B
+data.engine.BadDataType=ã“ã®ãƒ‡ãƒ¼ã‚¿å‹ã¯ä½¿ç”¨ã§ãã¾ã›ã‚“ {0}ã€‚
 
-data.engine.NotSerializableClass=ƒNƒ‰ƒX {0} ‚ÍƒVƒŠƒAƒ‰ƒCƒY‚Å‚«‚Ü‚¹‚ñB
+data.engine.NotSerializableClass=ã‚¯ãƒ©ã‚¹ {0} ã¯ã‚·ãƒªã‚¢ãƒ©ã‚¤ã‚ºã§ãã¾ã›ã‚“ã€‚
 
-data.engine.BadDataExpression=ƒf[ƒ^®‚Í null ‚É‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+data.engine.BadDataExpression=ãƒ‡ãƒ¼ã‚¿å¼ã¯ null ã«ã™ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-data.engine.aggregation.InvalidBindingExpression=ƒƒWƒƒ[’l‚ÍAWŒv‚ÌƒoƒCƒ“ƒh "{0}" ‚É‚Íg—p‚Å‚«‚Ü‚¹‚ñB
+data.engine.aggregation.InvalidBindingExpression=ãƒ¡ã‚¸ãƒ£ãƒ¼å€¤ã¯ã€é›†è¨ˆã®ãƒã‚¤ãƒ³ãƒ‰ "{0}" ã«ã¯ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.InvalidExpression=® "{0}" ‚ª–³Œø‚Å‚·B
+data.engine.InvalidExpression=å¼ "{0}" ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.engine.BadFetchScriptReturnType=ƒf[ƒ^ƒZƒbƒg‚ÌƒXƒNƒŠƒvƒgƒƒ\ƒbƒh "{0}" ‚Í {1} ‚ğ•Ô‚µ‚Ü‚µ‚½B˜_—’l‚ğw’è‚µ‚Ä‚­‚¾‚³‚¢B
+data.engine.BadFetchScriptReturnType=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®ã‚¹ã‚¯ãƒªãƒ—ãƒˆãƒ¡ã‚½ãƒƒãƒ‰ "{0}" ã¯ {1} ã‚’è¿”ã—ã¾ã—ãŸã€‚è«–ç†å€¤ã‚’æŒ‡å®šã—ã¦ãã ã•ã„ã€‚
 
-data.engine.FailToExecuteScript=ŠÖ” {0}() “à‚ÌƒXƒNƒŠƒvƒg‚ÌÀs‚É¸”s‚µ‚Ü‚µ‚½B ƒ\[ƒX :\n------\n" + {1} + "\n-----
+data.engine.FailToExecuteScript=é–¢æ•° {0}() å†…ã®ã‚¹ã‚¯ãƒªãƒ—ãƒˆã®å®Ÿè¡Œã«å¤±æ•—ã—ã¾ã—ãŸã€‚ ã‚½ãƒ¼ã‚¹ :\n------\n" + {1} + "\n-----
 
-data.engine.cacheFunctionWrongMode=ƒLƒƒƒbƒVƒ…‹@”\‚ÍADIRECT_PRESENTATION ƒ‚[ƒh‚Å‚µ‚©g—p‚Å‚«‚Ü‚¹‚ñB
+data.engine.cacheFunctionWrongMode=ã‚­ãƒ£ãƒƒã‚·ãƒ¥æ©Ÿèƒ½ã¯ã€DIRECT_PRESENTATION ãƒ¢ãƒ¼ãƒ‰ã§ã—ã‹ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.document.invalidIndexArray=ƒCƒ“ƒfƒbƒNƒX‚Ì”z—ñ‚ª–³Œø‚Å‚·B
+data.engine.document.invalidIndexArray=ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ã®é…åˆ—ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.engine.document.invalidGroupItem=íœ‚µ‚½ƒOƒ‹[ƒv€–Ú‚ª³‚µ‚­‚ ‚è‚Ü‚¹‚ñB
+data.engine.document.invalidGroupItem=å‰Šé™¤ã—ãŸã‚°ãƒ«ãƒ¼ãƒ—é …ç›®ãŒæ­£ã—ãã‚ã‚Šã¾ã›ã‚“ã€‚
 
-data.engine.resultIteratorNotOpen=Result Iterator ‚Í‚Ü‚¾ŠJ‚¢‚Ä‚¢‚Ü‚¹‚ñB
+data.engine.resultIteratorNotOpen=Result Iterator ã¯ã¾ã é–‹ã„ã¦ã„ã¾ã›ã‚“ã€‚
 
-data.engine.resultIteratorClosed=Result Iterator ‚Í‚·‚Å‚É•Â‚¶‚Ä‚¢‚Ü‚·B
+data.engine.resultIteratorClosed=Result Iterator ã¯ã™ã§ã«é–‰ã˜ã¦ã„ã¾ã™ã€‚
 
-data.engine.invalidOutputParameterIndex=o—Íƒpƒ‰ƒƒ^‚ÌƒCƒ“ƒfƒbƒNƒX {0} ‚ª–³Œø‚Å‚·B
+data.engine.invalidOutputParameterIndex=å‡ºåŠ›ãƒ‘ãƒ©ãƒ¡ã‚¿ã®ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ {0} ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.engine.outputParameterOutOfBound=o—Íƒpƒ‰ƒƒ^‚ÌƒCƒ“ƒfƒbƒNƒX {0} ‚ª”ÍˆÍ“à‚É‚ ‚è‚Ü‚¹‚ñB
+data.engine.outputParameterOutOfBound=å‡ºåŠ›ãƒ‘ãƒ©ãƒ¡ã‚¿ã®ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ {0} ãŒç¯„å›²å†…ã«ã‚ã‚Šã¾ã›ã‚“ã€‚
 
-data.engine.invalidOutputParameterName=o—Íƒpƒ‰ƒƒ^‚Ì–¼‘O {0} ‚ª–³Œø‚Å‚·B
+data.engine.invalidOutputParameterName=å‡ºåŠ›ãƒ‘ãƒ©ãƒ¡ã‚¿ã®åå‰ {0} ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.engine.document.notSupportInPresentation=ƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‚Å‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+data.engine.document.notSupportInPresentation=ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã§ã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-data.engine.wrongStatus=ƒXƒe[ƒ^ƒX‚ª³‚µ‚­‚ ‚è‚Ü‚¹‚ñB
+data.engine.wrongStatus=ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ãŒæ­£ã—ãã‚ã‚Šã¾ã›ã‚“ã€‚
 
-data.engine.wrongVersion=2.1 ‚æ‚è‚àŒÃ‚¢ƒo[ƒWƒ‡ƒ“‚Å‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+data.engine.wrongVersion=2.1 ã‚ˆã‚Šã‚‚å¤ã„ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-data.engine.unsupportOperationException=‚±‚Ì‘€ì‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+data.engine.unsupportOperationException=ã“ã®æ“ä½œã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-data.engine.possibleMixedDataTypeInColumn=ƒf[ƒ^‚ğûW’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B‚±‚ê‚ÍA"ANY" Œ^‚Ì—ñ‚É•¡”‚ÌŒ^‚Ìƒf[ƒ^‚ğ¬‡‚³‚¹‚½‚±‚Æ‚ªŒ´ˆö‚Æv‚í‚ê‚Ü‚·B
+data.engine.possibleMixedDataTypeInColumn=ãƒ‡ãƒ¼ã‚¿ã‚’åé›†ä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚ã“ã‚Œã¯ã€"ANY" å‹ã®åˆ—ã«è¤‡æ•°ã®å‹ã®ãƒ‡ãƒ¼ã‚¿ã‚’æ··åˆã•ã›ãŸã“ã¨ãŒåŸå› ã¨æ€ã‚ã‚Œã¾ã™ã€‚
 
-data.engine.resultClassSaveError=—ñ‚ÌQÆ {0} ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+data.engine.resultClassSaveError=åˆ—ã®å‚ç…§ {0} ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-data.engine.invalidMemBufferSize=ƒƒ‚ƒŠƒoƒbƒtƒ@ƒTƒCƒY "{0}" ‚ª–³Œø‚Å‚·Bƒƒ‚ƒŠƒoƒbƒtƒ@ƒTƒCƒY‚É‚ÍA1 ˆÈã‚Ì®”‚ğw’è‚µ‚Ä‚­‚¾‚³‚¢B
+data.engine.invalidMemBufferSize=ãƒ¡ãƒ¢ãƒªãƒãƒƒãƒ•ã‚¡ã‚µã‚¤ã‚º "{0}" ãŒç„¡åŠ¹ã§ã™ã€‚ãƒ¡ãƒ¢ãƒªãƒãƒƒãƒ•ã‚¡ã‚µã‚¤ã‚ºã«ã¯ã€1 ä»¥ä¸Šã®æ•´æ•°ã‚’æŒ‡å®šã—ã¦ãã ã•ã„ã€‚
 
-data.engine.document.error.cannotLoadStream=•¶‘ƒXƒgƒŠ[ƒ€ "{0}" ‚ª–³Œø‚Å‚·B
+data.engine.document.error.cannotLoadStream=æ–‡æ›¸ã‚¹ãƒˆãƒªãƒ¼ãƒ  "{0}" ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.engine.failToCreateTempDir="{0}" ‚ÉˆêƒfƒBƒŒƒNƒgƒŠ‚ğì¬‚Å‚«‚Ü‚¹‚ñB
+data.engine.failToCreateTempDir="{0}" ã«ä¸€æ™‚ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚’ä½œæˆã§ãã¾ã›ã‚“ã€‚
 
-data.engine.reportItem.SubQuery.Unsupported=ƒTƒuƒNƒGƒŠ‚É‚ÍƒŒƒ|[ƒg€–Ú‚ğ‹¤—L‚Å‚«‚Ü‚¹‚ñB
+data.engine.reportItem.SubQuery.Unsupported=ã‚µãƒ–ã‚¯ã‚¨ãƒªã«ã¯ãƒ¬ãƒãƒ¼ãƒˆé …ç›®ã‚’å…±æœ‰ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.emptyResultSet=Œ‹‰ÊƒZƒbƒg‚Í‹ó‚Å‚·B
+data.engine.emptyResultSet=çµæœã‚»ãƒƒãƒˆã¯ç©ºã§ã™ã€‚
 
-data.engine.errorHappenWhenRetrieveResultSet=Œ‹‰ÊƒZƒbƒg "{0}" ‚Ì•\¦’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½Bw’è‚µ‚½Œ‹‰ÊƒZƒbƒg‚ª‘¶İ‚µ‚È‚¢‰Â”\«‚ª‚ ‚è‚Ü‚·B
+data.engine.errorHappenWhenRetrieveResultSet=çµæœã‚»ãƒƒãƒˆ "{0}" ã®è¡¨ç¤ºä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚æŒ‡å®šã—ãŸçµæœã‚»ãƒƒãƒˆãŒå­˜åœ¨ã—ãªã„å¯èƒ½æ€§ãŒã‚ã‚Šã¾ã™ã€‚
 
-data.engine.invalidAggregationBindingForPLSReport=ƒy[ƒWƒŒƒxƒ‹ƒZƒLƒ…ƒŠƒeƒB‚ª—LŒø‚Èê‡AWŒvƒoƒCƒ“ƒh "{0}" ‚Í–³Œø‚Å‚·B
+data.engine.invalidAggregationBindingForPLSReport=ãƒšãƒ¼ã‚¸ãƒ¬ãƒ™ãƒ«ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£ãŒæœ‰åŠ¹ãªå ´åˆã€é›†è¨ˆãƒã‚¤ãƒ³ãƒ‰ "{0}" ã¯ç„¡åŠ¹ã§ã™ã€‚
 
-data.engine.acl.dataSetCannotBeAccessed=ƒf[ƒ^ƒZƒbƒg "{0}" ‚ÉƒAƒNƒZƒX‚Å‚«‚Ü‚¹‚ñB
+data.engine.acl.dataSetCannotBeAccessed=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆ "{0}" ã«ã‚¢ã‚¯ã‚»ã‚¹ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.acl.dataSetColumnCannotBeAccessed=ƒf[ƒ^ƒZƒbƒg—ñ "{0}" ‚ÉƒAƒNƒZƒX‚Å‚«‚Ü‚¹‚ñB
+data.engine.acl.dataSetColumnCannotBeAccessed=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆåˆ— "{0}" ã«ã‚¢ã‚¯ã‚»ã‚¹ã§ãã¾ã›ã‚“ã€‚
 
-data.engine.acl.cubeCannotBeAccessed=ƒ†[ƒU‚É‚ÍƒLƒ…[ƒu "{0}" ‚ÉƒAƒNƒZƒX‚·‚éŒ ŒÀ‚ª‚ ‚è‚Ü‚¹‚ñB
+data.engine.acl.cubeCannotBeAccessed=ãƒ¦ãƒ¼ã‚¶ã«ã¯ã‚­ãƒ¥ãƒ¼ãƒ– "{0}" ã«ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹æ¨©é™ãŒã‚ã‚Šã¾ã›ã‚“ã€‚
 
-data.engine.acl.cubeLevelCannotBeAccessed=ƒ†[ƒU‚É‚ÍƒŒƒxƒ‹ "{0}" ‚ÉƒAƒNƒZƒX‚·‚éŒ ŒÀ‚ª‚ ‚è‚Ü‚¹‚ñB
+data.engine.acl.cubeLevelCannotBeAccessed=ãƒ¦ãƒ¼ã‚¶ã«ã¯ãƒ¬ãƒ™ãƒ« "{0}" ã«ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹æ¨©é™ãŒã‚ã‚Šã¾ã›ã‚“ã€‚
 
-data.engine.acl.cubeMeasureCannotBeAccessed=ƒ†[ƒU‚É‚ÍƒƒWƒƒ[ "{0}" ‚ÉƒAƒNƒZƒX‚·‚éŒ ŒÀ‚ª‚ ‚è‚Ü‚¹‚ñB
+data.engine.acl.cubeMeasureCannotBeAccessed=ãƒ¦ãƒ¼ã‚¶ã«ã¯ãƒ¡ã‚¸ãƒ£ãƒ¼ "{0}" ã«ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹æ¨©é™ãŒã‚ã‚Šã¾ã›ã‚“ã€‚
 
-data.engine.acl.cubeDimensionCannotBeAccessed=ƒ†[ƒU‚É‚ÍƒfƒBƒƒ“ƒVƒ‡ƒ“ "{0}" ‚ÉƒAƒNƒZƒX‚·‚éŒ ŒÀ‚ª‚ ‚è‚Ü‚¹‚ñB
+data.engine.acl.cubeDimensionCannotBeAccessed=ãƒ¦ãƒ¼ã‚¶ã«ã¯ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³ "{0}" ã«ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹æ¨©é™ãŒã‚ã‚Šã¾ã›ã‚“ã€‚
 # oda consumer errors
-odaconsumer.ColumnNameCannotBeEmptyOrNull=—ñ–¼‚Í‹ó”’‚Ü‚½‚Í null ‚É‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.ColumnNameCannotBeEmptyOrNull=åˆ—åã¯ç©ºç™½ã¾ãŸã¯ null ã«ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.ColumnPositionIsOneBased=—ñ‚ÌˆÊ’u‚Í 1 ƒx[ƒX‚Å‚ ‚èA1 ‚æ‚è¬‚³‚¢’l‚ğw’è‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.ColumnPositionIsOneBased=åˆ—ã®ä½ç½®ã¯ 1 ãƒ™ãƒ¼ã‚¹ã§ã‚ã‚Šã€1 ã‚ˆã‚Šå°ã•ã„å€¤ã‚’æŒ‡å®šã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.ColumnAliasCannotBeEmpty=—ñ‚ÌƒGƒCƒŠƒAƒX‚ÍA‹ó”’•¶š—ñ‚É‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.ColumnAliasCannotBeEmpty=åˆ—ã®ã‚¨ã‚¤ãƒªã‚¢ã‚¹ã¯ã€ç©ºç™½æ–‡å­—åˆ—ã«ã™ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotProcessDriverConfig={0} ƒhƒ‰ƒCƒo‚Ìƒf[ƒ^ƒ\[ƒXŠg’£‚Ìİ’è‚ªŒ©‚Â‚©‚ç‚È‚¢‚©Aˆ—‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotProcessDriverConfig={0} ãƒ‰ãƒ©ã‚¤ãƒã®ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹æ‹¡å¼µã®è¨­å®šãŒè¦‹ã¤ã‹ã‚‰ãªã„ã‹ã€å‡¦ç†ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.OdaInitEntryNotFound=ƒhƒ‰ƒCƒo {0} ‚Ì‰ŠúƒGƒ“ƒgƒŠƒ|ƒCƒ“ƒg‚ªŒ©‚Â‚©‚ç‚È‚¢‚©AƒCƒ“ƒXƒ^ƒ“ƒX‰»‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.OdaInitEntryNotFound=ãƒ‰ãƒ©ã‚¤ãƒ {0} ã®åˆæœŸã‚¨ãƒ³ãƒˆãƒªãƒã‚¤ãƒ³ãƒˆãŒè¦‹ã¤ã‹ã‚‰ãªã„ã‹ã€ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹åŒ–ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.OdaDriverOnUnsupportedPlatform=ƒhƒ‰ƒCƒo {0} ‚Å‚ÍA{1} ‚ªƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+odaconsumer.OdaDriverOnUnsupportedPlatform=ãƒ‰ãƒ©ã‚¤ãƒ {0} ã§ã¯ã€{1} ãŒã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGenerateUrl=ƒNƒ‰ƒXƒ[ƒ_‚É URL {0} ‚ğ¶¬‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGenerateUrl=ã‚¯ãƒ©ã‚¹ãƒ­ãƒ¼ãƒ€ã« URL {0} ã‚’ç”Ÿæˆã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.UnsupportedNativeType=ƒlƒCƒeƒBƒuŒ^ {0} ‚ÍAƒf[ƒ^ƒZƒbƒg‚ÌŒ^ {1} ‚Ìƒhƒ‰ƒCƒo {2} ‚Å‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+odaconsumer.UnsupportedNativeType=ãƒã‚¤ãƒ†ã‚£ãƒ–å‹ {0} ã¯ã€ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®å‹ {1} ã®ãƒ‰ãƒ©ã‚¤ãƒ {2} ã§ã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-odaconsumer.UnsupportedDataSetType=ƒf[ƒ^ƒZƒbƒg‚ÌŒ^ {0} ‚ÍAƒhƒ‰ƒCƒo {1} ‚Å‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+odaconsumer.UnsupportedDataSetType=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®å‹ {0} ã¯ã€ãƒ‰ãƒ©ã‚¤ãƒ {1} ã§ã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotDetermineDefaultDataSetType=ƒf[ƒ^ƒZƒbƒg‚ÌŒ^‚ª null ‚Ì‚½‚ßAƒhƒ‰ƒCƒo {0} ‚ÌƒfƒtƒHƒ‹ƒg‚Ìƒf[ƒ^ƒZƒbƒg‚ÌŒ^‚ğ¯•Ê‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotDetermineDefaultDataSetType=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®å‹ãŒ null ã®ãŸã‚ã€ãƒ‰ãƒ©ã‚¤ãƒ {0} ã®ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã®ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®å‹ã‚’è­˜åˆ¥ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.InvalidDataSetType=ƒf[ƒ^ƒZƒbƒg‚ÌŒ^ {0} ‚ª–³Œø‚Å‚·Bƒf[ƒ^ƒZƒbƒg {1} ‚ÌƒfƒtƒHƒ‹ƒg‚ÌŒ^‚ğ¯•Ê‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.InvalidDataSetType=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®å‹ {0} ãŒç„¡åŠ¹ã§ã™ã€‚ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆ {1} ã®ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã®å‹ã‚’è­˜åˆ¥ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.ParameterNameCannotBeEmptyOrNull=ƒpƒ‰ƒƒ^–¼‚Í‹ó”’‚Ü‚½‚Í null ‚É‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.ParameterNameCannotBeEmptyOrNull=ãƒ‘ãƒ©ãƒ¡ã‚¿åã¯ç©ºç™½ã¾ãŸã¯ null ã«ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.ParameterPositionIsOneBased=ƒpƒ‰ƒƒ^‚ÌˆÊ’u‚É‚Í 1 ‚æ‚è¬‚³‚¢’l‚ğw’è‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.ParameterPositionIsOneBased=ãƒ‘ãƒ©ãƒ¡ã‚¿ã®ä½ç½®ã«ã¯ 1 ã‚ˆã‚Šå°ã•ã„å€¤ã‚’æŒ‡å®šã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetParameterNativeName=ƒpƒ‰ƒƒ^ {0} ‚Ìƒhƒ‰ƒCƒo‚Å’è‹`‚³‚ê‚½–¼‘O‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetParameterNativeName=ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ã®ãƒ‰ãƒ©ã‚¤ãƒã§å®šç¾©ã•ã‚ŒãŸåå‰ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetParameterType=ƒpƒ‰ƒƒ^ {0} ‚ÌŒ^‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetParameterType=ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ã®å‹ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetParameterTypeName=ƒpƒ‰ƒƒ^ {0} ‚ÌŒ^–¼‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetParameterTypeName=ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ã®å‹åã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetParameterMode=ƒpƒ‰ƒƒ^ {0} ‚Ìƒ‚[ƒh‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetParameterMode=ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ã®ãƒ¢ãƒ¼ãƒ‰ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetParameterScale=ƒpƒ‰ƒƒ^ {0} ‚ÌƒXƒP[ƒ‹‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetParameterScale=ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ã®ã‚¹ã‚±ãƒ¼ãƒ«ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetParameterPrecision=ƒpƒ‰ƒƒ^ {0} ‚Ì¸“x‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetParameterPrecision=ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ã®ç²¾åº¦ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetParameterIsNullable=ƒpƒ‰ƒƒ^ {0} ‚Ì NULL ’l‚Ì‹–—e‘®«‚ğ¯•Ê‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetParameterIsNullable=ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ã® NULL å€¤ã®è¨±å®¹å±æ€§ã‚’è­˜åˆ¥ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.SameParamNameForDifferentHints=‚±‚Ìƒf[ƒ^ƒZƒbƒg“à‚ÉA“¯‚¶–¼‘O {0} ‚Ìƒpƒ‰ƒƒ^‚ª‚ ‚è‚Ü‚·B
+odaconsumer.SameParamNameForDifferentHints=ã“ã®ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆå†…ã«ã€åŒã˜åå‰ {0} ã®ãƒ‘ãƒ©ãƒ¡ã‚¿ãŒã‚ã‚Šã¾ã™ã€‚
 
-odaconsumer.DifferentParamNameForSamePosition=‚±‚Ìƒf[ƒ^ƒZƒbƒg“à‚Ì“¯‚¶êŠ {1} ‚ÉA“¯‚¶–¼‘O {0} ‚Ìƒpƒ‰ƒƒ^‚ª‚ ‚è‚Ü‚·B
+odaconsumer.DifferentParamNameForSamePosition=ã“ã®ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆå†…ã®åŒã˜å ´æ‰€ {1} ã«ã€åŒã˜åå‰ {0} ã®ãƒ‘ãƒ©ãƒ¡ã‚¿ãŒã‚ã‚Šã¾ã™ã€‚
 
-odaconsumer.ParameterValueIsNull=ƒpƒ‰ƒƒ^’l‚ª null ‚Å‚·B
+odaconsumer.ParameterValueIsNull=ãƒ‘ãƒ©ãƒ¡ã‚¿å€¤ãŒ null ã§ã™ã€‚
 
-odaconsumer.UnsupportedParameterValueType=ƒpƒ‰ƒƒ^’l‚ÌŒ^ {0} ‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+odaconsumer.UnsupportedParameterValueType=ãƒ‘ãƒ©ãƒ¡ã‚¿å€¤ã®å‹ {0} ã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-odaconsumer.UnknownExceptionThrown=ÅŒã‚Ì setter ŒÄ‚Ño‚µ‚Å•s–¾‚È—áŠO‚ª”­¶‚µ‚Ü‚µ‚½B
+odaconsumer.UnknownExceptionThrown=æœ€å¾Œã® setter å‘¼ã³å‡ºã—ã§ä¸æ˜ãªä¾‹å¤–ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-odaconsumer.CannotConvertIndexedParameterValue=ƒCƒ“ƒfƒbƒNƒX {1} ‚É‚ ‚éƒpƒ‰ƒƒ^‚Ì’l {0} ‚ğA’l‚ÌŒ^ {2} ‚©‚ç ODA ‚ÌŒ^ {3} ‚É•ÏŠ·‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotConvertIndexedParameterValue=ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ {1} ã«ã‚ã‚‹ãƒ‘ãƒ©ãƒ¡ã‚¿ã®å€¤ {0} ã‚’ã€å€¤ã®å‹ {2} ã‹ã‚‰ ODA ã®å‹ {3} ã«å¤‰æ›ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotConvertNamedParameterValue={1} ‚Æ‚¢‚¤–¼‘O‚Ìƒpƒ‰ƒƒ^‚Ì’l {0} ‚ğA’l‚ÌŒ^ {2} ‚©‚ç ODA ‚ÌŒ^ {3} ‚É•ÏŠ·‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotConvertNamedParameterValue={1} ã¨ã„ã†åå‰ã®ãƒ‘ãƒ©ãƒ¡ã‚¿ã®å€¤ {0} ã‚’ã€å€¤ã®å‹ {2} ã‹ã‚‰ ODA ã®å‹ {3} ã«å¤‰æ›ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.UnrecognizedProjectedColumnName=“Š‰e‚³‚ê‚½—ñ–¼ {0} ‚ğ”F¯‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.UnrecognizedProjectedColumnName=æŠ•å½±ã•ã‚ŒãŸåˆ—å {0} ã‚’èªè­˜ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.ColumnNameOrAliasAlreadyUsed=V‚µ‚¢—ñ‚Ì–¼‘O‚Ü‚½‚ÍƒGƒCƒŠƒAƒX {0} ‚ÍA‚·‚Å‚ÉƒCƒ“ƒfƒbƒNƒX {1} ‚Ì—ñ‚Åg—p‚³‚ê‚Ä‚¢‚Ü‚·B
+odaconsumer.ColumnNameOrAliasAlreadyUsed=æ–°ã—ã„åˆ—ã®åå‰ã¾ãŸã¯ã‚¨ã‚¤ãƒªã‚¢ã‚¹ {0} ã¯ã€ã™ã§ã«ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ {1} ã®åˆ—ã§ä½¿ç”¨ã•ã‚Œã¦ã„ã¾ã™ã€‚
 
-odaconsumer.NamedResultSetsUnsupported=‚±‚Ì•¶‚Å‚ÍA–¼‘O•t‚«‚ÌŒ‹‰ÊƒZƒbƒg‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.NamedResultSetsUnsupported=ã“ã®æ–‡ã§ã¯ã€åå‰ä»˜ãã®çµæœã‚»ãƒƒãƒˆã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.OutputParameterUnsupported=‚±‚Ì•¶‚Å‚ÍAo—Íƒpƒ‰ƒƒ^‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.OutputParameterUnsupported=ã“ã®æ–‡ã§ã¯ã€å‡ºåŠ›ãƒ‘ãƒ©ãƒ¡ã‚¿ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.UnsupportedMultipleResultSets=‚±‚Ì•¶‚Å‚ÍA•¡”‚ÌŒ‹‰ÊƒZƒbƒg‚ğg—p‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.UnsupportedMultipleResultSets=ã“ã®æ–‡ã§ã¯ã€è¤‡æ•°ã®çµæœã‚»ãƒƒãƒˆã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetConnectionMetaData=Ú‘±ƒƒ^ƒf[ƒ^‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetConnectionMetaData=æ¥ç¶šãƒ¡ã‚¿ãƒ‡ãƒ¼ã‚¿ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetMaxConnections=ƒf[ƒ^ƒ\[ƒX‚ÌÚ‘±‚ÌÅ‘å”‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetMaxConnections=ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ã®æ¥ç¶šã®æœ€å¤§æ•°ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetMaxStatements=ƒf[ƒ^ƒ\[ƒX‚ÌƒNƒGƒŠ‚ÌÅ‘å”‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetMaxStatements=ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ã®ã‚¯ã‚¨ãƒªã®æœ€å¤§æ•°ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetDataSetMetaData=ƒf[ƒ^ƒZƒbƒg‚Ìƒƒ^ƒf[ƒ^ {0} ‚ğƒf[ƒ^ƒ\[ƒX‚©‚çæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetDataSetMetaData=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®ãƒ¡ã‚¿ãƒ‡ãƒ¼ã‚¿ {0} ã‚’ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ã‹ã‚‰å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotPrepareStatement=ƒf[ƒ^ƒZƒbƒg‚ÌŒ^ ({1}) ‚ÉAŸ‚ÌƒNƒGƒŠ‚ğ‹Lq‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B \n[{0}]
+odaconsumer.CannotPrepareStatement=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®å‹ ({1}) ã«ã€æ¬¡ã®ã‚¯ã‚¨ãƒªã‚’è¨˜è¿°ã§ãã¾ã›ã‚“ã§ã—ãŸã€‚ \n[{0}]
 
-odaconsumer.CannotCloseConnection=Ú‘±‚ğ•Â‚¶‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotCloseConnection=æ¥ç¶šã‚’é–‰ã˜ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotOpenConnection=ƒhƒ‰ƒCƒo {0} ‚ÌÚ‘±‚ğŠJ‚¯‚Ü‚¹‚ñB
+odaconsumer.CannotOpenConnection=ãƒ‰ãƒ©ã‚¤ãƒ {0} ã®æ¥ç¶šã‚’é–‹ã‘ã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotDetermineSupportForMultipleOpenResults=•¡”‚ÌŒ‹‰Ê‚ğŠJ‚¯‚é‚©‚Ç‚¤‚©‚ğ¯•Ê‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotDetermineSupportForMultipleOpenResults=è¤‡æ•°ã®çµæœã‚’é–‹ã‘ã‚‹ã‹ã©ã†ã‹ã‚’è­˜åˆ¥ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotDetermineSupportForMultipleResultSets=•¡”‚ÌŒ‹‰ÊƒZƒbƒg‚ÌƒTƒ|[ƒg‘®«‚ğ¯•Ê‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotDetermineSupportForMultipleResultSets=è¤‡æ•°ã®çµæœã‚»ãƒƒãƒˆã®ã‚µãƒãƒ¼ãƒˆå±æ€§ã‚’è­˜åˆ¥ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotDetermineSupportForNamedResultSets=–¼‘O•t‚«Œ‹‰ÊƒZƒbƒg‚ÌƒTƒ|[ƒg‘®«‚ğ¯•Ê‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotDetermineSupportForNamedResultSets=åå‰ä»˜ãçµæœã‚»ãƒƒãƒˆã®ã‚µãƒãƒ¼ãƒˆå±æ€§ã‚’è­˜åˆ¥ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotDetermineSupportForNamedParameters=–¼‘O•t‚«ƒpƒ‰ƒƒ^‚ÌƒTƒ|[ƒg‘®«‚ğ¯•Ê‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotDetermineSupportForNamedParameters=åå‰ä»˜ããƒ‘ãƒ©ãƒ¡ã‚¿ã®ã‚µãƒãƒ¼ãƒˆå±æ€§ã‚’è­˜åˆ¥ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotDetermineSupportForInParameters=“ü—Íƒpƒ‰ƒƒ^‚ÌƒTƒ|[ƒg‘®«‚ğ¯•Ê‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotDetermineSupportForInParameters=å…¥åŠ›ãƒ‘ãƒ©ãƒ¡ã‚¿ã®ã‚µãƒãƒ¼ãƒˆå±æ€§ã‚’è­˜åˆ¥ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotDetermineSupportForOutParameters=o—Íƒpƒ‰ƒƒ^‚ÌƒTƒ|[ƒg‘®«‚ğ¯•Ê‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotDetermineSupportForOutParameters=å‡ºåŠ›ãƒ‘ãƒ©ãƒ¡ã‚¿ã®ã‚µãƒãƒ¼ãƒˆå±æ€§ã‚’è­˜åˆ¥ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotSetStatementProperty=•¶‚ÌƒvƒƒpƒeƒB‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotSetStatementProperty=æ–‡ã®ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotSetSortSpec=ƒ\[ƒg‡‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotSetSortSpec=ã‚½ãƒ¼ãƒˆé †ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotSetMaxRows=s‚ÌÅ‘å”‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotSetMaxRows=è¡Œã®æœ€å¤§æ•°ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetResultSetMetaData=Œ‹‰ÊƒZƒbƒg‚Ìƒƒ^ƒf[ƒ^‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetResultSetMetaData=çµæœã‚»ãƒƒãƒˆã®ãƒ¡ã‚¿ãƒ‡ãƒ¼ã‚¿ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetMetaDataForNamedResultSet=–¼‘O•t‚«Œ‹‰ÊƒZƒbƒg {0} ‚Ìƒƒ^ƒf[ƒ^‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetMetaDataForNamedResultSet=åå‰ä»˜ãçµæœã‚»ãƒƒãƒˆ {0} ã®ãƒ¡ã‚¿ãƒ‡ãƒ¼ã‚¿ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotExecuteStatement=•¶‚ğÀs‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotExecuteStatement=æ–‡ã‚’å®Ÿè¡Œã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetResultSet=Œ‹‰ÊƒZƒbƒg‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetResultSet=çµæœã‚»ãƒƒãƒˆã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetNamedResultSet=–¼‘O•t‚«Œ‹‰ÊƒZƒbƒg {0} ‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetNamedResultSet=åå‰ä»˜ãçµæœã‚»ãƒƒãƒˆ {0} ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetMoreResults=•¶‚©‚ç‚±‚êˆÈã‚ÌŒ‹‰ÊƒZƒbƒg‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetMoreResults=æ–‡ã‹ã‚‰ã“ã‚Œä»¥ä¸Šã®çµæœã‚»ãƒƒãƒˆã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotFindOutParameter=o—Íƒpƒ‰ƒƒ^ {0} ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+odaconsumer.CannotFindOutParameter=å‡ºåŠ›ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotCloseStatement=•¶‚ğ•Â‚¶‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotCloseStatement=æ–‡ã‚’é–‰ã˜ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotCancelStatement=•¶‚ğƒLƒƒƒ“ƒZƒ‹‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotCancelStatement=æ–‡ã‚’ã‚­ãƒ£ãƒ³ã‚»ãƒ«ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetColumnCount=—ñ‚Ì”‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetColumnCount=åˆ—ã®æ•°ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetColumnName=—ñ {0} ‚Ì–¼‘O‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetColumnName=åˆ— {0} ã®åå‰ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetColumnLabel=—ñ {0} ‚Ìƒ‰ƒxƒ‹‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetColumnLabel=åˆ— {0} ã®ãƒ©ãƒ™ãƒ«ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetColumnType=—ñ {0} ‚ÌŒ^‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetColumnType=åˆ— {0} ã®å‹ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotFetchNextRow=Ÿ‚Ìƒf[ƒ^s‚ğƒtƒFƒbƒ`‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotFetchNextRow=æ¬¡ã®ãƒ‡ãƒ¼ã‚¿è¡Œã‚’ãƒ•ã‚§ãƒƒãƒã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotDetermineWasNull=ÅŒã‚Éæ“¾‚µ‚½’l‚ª null ‚Å‚ ‚Á‚½‚©‚Ç‚¤‚©‚ğ¯•Ê‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotDetermineWasNull=æœ€å¾Œã«å–å¾—ã—ãŸå€¤ãŒ null ã§ã‚ã£ãŸã‹ã©ã†ã‹ã‚’è­˜åˆ¥ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetIntFromColumn=—ñ {0} ‚©‚ç®”‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetIntFromColumn=åˆ— {0} ã‹ã‚‰æ•´æ•°ã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetDoubleFromColumn=—ñ {0} ‚©‚ç”{¸“x‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetDoubleFromColumn=åˆ— {0} ã‹ã‚‰å€ç²¾åº¦ã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetStringFromColumn=—ñ {0} ‚©‚ç•¶š—ñ‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetStringFromColumn=åˆ— {0} ã‹ã‚‰æ–‡å­—åˆ—ã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetBigDecimalFromColumn=—ñ {0} ‚©‚ç10i”‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetBigDecimalFromColumn=åˆ— {0} ã‹ã‚‰10é€²æ•°ã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetDateFromColumn=—ñ {0} ‚©‚ç“ú•t‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetDateFromColumn=åˆ— {0} ã‹ã‚‰æ—¥ä»˜ã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetTimeFromColumn=—ñ {0} ‚©‚ç‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetTimeFromColumn=åˆ— {0} ã‹ã‚‰æ™‚åˆ»ã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetTimestampFromColumn=—ñ {0} ‚©‚çƒ^ƒCƒ€ƒXƒ^ƒ“ƒv‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetTimestampFromColumn=åˆ— {0} ã‹ã‚‰ã‚¿ã‚¤ãƒ ã‚¹ã‚¿ãƒ³ãƒ—ã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetClobFromColumn=—ñ {0} ‚©‚ç CLOB ‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetClobFromColumn=åˆ— {0} ã‹ã‚‰ CLOB ã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetBlobFromColumn=—ñ {0} ‚©‚ç BLOB ‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetBlobFromColumn=åˆ— {0} ã‹ã‚‰ BLOB ã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetBooleanFromColumn=—ñ {0} ‚©‚ç˜_—’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetBooleanFromColumn=åˆ— {0} ã‹ã‚‰è«–ç†å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetObjectFromColumn=—ñ {0} ‚©‚çƒIƒuƒWƒFƒNƒg‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetObjectFromColumn=åˆ— {0} ã‹ã‚‰ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetRowPosition=Œ»İ‚Ìs‚ÌˆÊ’u‚ğæ“¾‚Å‚«‚Ü‚¹‚ñ
+odaconsumer.CannotGetRowPosition=ç¾åœ¨ã®è¡Œã®ä½ç½®ã‚’å–å¾—ã§ãã¾ã›ã‚“
 
-odaconsumer.CannotCloseResultSet=Œ‹‰ÊƒZƒbƒg‚ğ•Â‚¶‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotCloseResultSet=çµæœã‚»ãƒƒãƒˆã‚’é–‰ã˜ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetParameterCount=ƒpƒ‰ƒƒ^‚Ì”‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetParameterCount=ãƒ‘ãƒ©ãƒ¡ã‚¿ã®æ•°ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetIntFromParameter=ƒpƒ‰ƒƒ^ {0} ‚©‚ç®”‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetIntFromParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ã‹ã‚‰æ•´æ•°ã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetDoubleFromParameter=ƒpƒ‰ƒƒ^ {0} ‚©‚ç”{¸“x‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetDoubleFromParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ã‹ã‚‰å€ç²¾åº¦ã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetStringFromParameter=ƒpƒ‰ƒƒ^ {0} ‚©‚ç•¶š—ñ‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetStringFromParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ã‹ã‚‰æ–‡å­—åˆ—ã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetBigDecimalFromParameter=ƒpƒ‰ƒƒ^ {0} ‚©‚ç10i”‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetBigDecimalFromParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ã‹ã‚‰10é€²æ•°ã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetDateFromParameter=ƒpƒ‰ƒƒ^ {0} ‚©‚ç“ú•t‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetDateFromParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ã‹ã‚‰æ—¥ä»˜ã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetTimeFromParameter=ƒpƒ‰ƒƒ^ {0} ‚©‚ç‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetTimeFromParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ã‹ã‚‰æ™‚åˆ»ã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetTimestampFromParameter=ƒpƒ‰ƒƒ^ {0} ‚©‚çƒ^ƒCƒ€ƒXƒ^ƒ“ƒv‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetTimestampFromParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ã‹ã‚‰ã‚¿ã‚¤ãƒ ã‚¹ã‚¿ãƒ³ãƒ—ã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetBlobFromParameter=ƒpƒ‰ƒƒ^ {0} ‚©‚ç BLOB ‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetBlobFromParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ã‹ã‚‰ BLOB ã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetClobFromParameter=ƒpƒ‰ƒƒ^ {0} ‚©‚ç CLOB ‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetClobFromParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ã‹ã‚‰ CLOB ã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetBooleanFromParameter=ƒpƒ‰ƒƒ^ {0} ‚©‚ç ˜_—’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetBooleanFromParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ã‹ã‚‰ è«–ç†å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetObjectFromParameter=ƒpƒ‰ƒƒ^ {0} ‚©‚çƒIƒuƒWƒFƒNƒg‚Ì’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetObjectFromParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ã‹ã‚‰ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆã®å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotFindInParameter=“ü—Íƒpƒ‰ƒƒ^ {0} ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+odaconsumer.CannotFindInParameter=å…¥åŠ›ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotSetIntParameter=ƒpƒ‰ƒƒ^ {1} ‚É‚Í®”‚Ì’l ({0}) ‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotSetIntParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {1} ã«ã¯æ•´æ•°ã®å€¤ ({0}) ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotSetDoubleParameter=ƒpƒ‰ƒƒ^ {1} ‚É‚Í”{¸“x‚Ì’l ({0}) ‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotSetDoubleParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {1} ã«ã¯å€ç²¾åº¦ã®å€¤ ({0}) ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotSetStringParameter=ƒpƒ‰ƒƒ^ {1} ‚É‚Í•¶š—ñ’l ({0}) ‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotSetStringParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {1} ã«ã¯æ–‡å­—åˆ—å€¤ ({0}) ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotSetBigDecimalParameter=ƒpƒ‰ƒƒ^ {1} ‚É‚Í10i”‚Ì’l ({0}) ‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotSetBigDecimalParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {1} ã«ã¯10é€²æ•°ã®å€¤ ({0}) ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotSetDateParameter=ƒpƒ‰ƒƒ^ {1} ‚É‚Í“ú•t‚Ì’l ({0}) ‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotSetDateParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {1} ã«ã¯æ—¥ä»˜ã®å€¤ ({0}) ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotSetTimeParameter=ƒpƒ‰ƒƒ^ {1} ‚É‚ÍŠÔ‚Ì’l ({0}) ‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotSetTimeParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {1} ã«ã¯æ™‚é–“ã®å€¤ ({0}) ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotSetTimestampParameter=ƒpƒ‰ƒƒ^ {1} ‚É‚Íƒ^ƒCƒ€ƒXƒ^ƒ“ƒv‚Ì’l ({0}) ‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotSetTimestampParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {1} ã«ã¯ã‚¿ã‚¤ãƒ ã‚¹ã‚¿ãƒ³ãƒ—ã®å€¤ ({0}) ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotSetBooleanParameter=ƒpƒ‰ƒƒ^ {1} ‚É‚Í˜_—’l ({0}) ‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotSetBooleanParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {1} ã«ã¯è«–ç†å€¤ ({0}) ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotSetObjectParameter=ƒpƒ‰ƒƒ^ {1} ‚É‚ÍƒIƒuƒWƒFƒNƒg‚Ì’l ({0}) ‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotSetObjectParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {1} ã«ã¯ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆã®å€¤ ({0}) ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotSetNullParameter=ƒpƒ‰ƒƒ^ {0} ‚É‚Í NULL ’l‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotSetNullParameter=ãƒ‘ãƒ©ãƒ¡ã‚¿ {0} ã«ã¯ NULL å€¤ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotClearInParameters=“ü—Íƒpƒ‰ƒƒ^‚Ì’l‚ğƒNƒŠƒA‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotClearInParameters=å…¥åŠ›ãƒ‘ãƒ©ãƒ¡ã‚¿ã®å€¤ã‚’ã‚¯ãƒªã‚¢ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.UnrecognizedOdaType=ODA ƒf[ƒ^‚ÌŒ^ {0} ‚ğ¯•Ê‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.UnrecognizedOdaType=ODA ãƒ‡ãƒ¼ã‚¿ã®å‹ {0} ã‚’è­˜åˆ¥ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetColumnNativeDataTypeName=—ñ {0} ‚ÌƒlƒCƒeƒBƒuƒf[ƒ^Œ^‚Ì–¼‘O‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetColumnNativeDataTypeName=åˆ— {0} ã®ãƒã‚¤ãƒ†ã‚£ãƒ–ãƒ‡ãƒ¼ã‚¿å‹ã®åå‰ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotGetParameterMetaData=ODA ƒhƒ‰ƒCƒo‚Ìƒpƒ‰ƒƒ^‚Ìƒƒ^ƒf[ƒ^‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotGetParameterMetaData=ODA ãƒ‰ãƒ©ã‚¤ãƒã®ãƒ‘ãƒ©ãƒ¡ã‚¿ã®ãƒ¡ã‚¿ãƒ‡ãƒ¼ã‚¿ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotLoadOdaAdapter={0} ƒhƒ‰ƒCƒo‚ğ“Ç‚İ‚ß‚Ü‚¹‚ñBDTP-to-BIRT ODA ƒAƒ_ƒvƒ^‚Ìƒvƒ‰ƒOƒCƒ“ {1} ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+odaconsumer.CannotLoadOdaAdapter={0} ãƒ‰ãƒ©ã‚¤ãƒã‚’èª­ã¿è¾¼ã‚ã¾ã›ã‚“ã€‚DTP-to-BIRT ODA ã‚¢ãƒ€ãƒ—ã‚¿ã®ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ {1} ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-odaconsumer.MustSpecifyColumnName=—ñ‚Ìƒqƒ“ƒg‚ğ’Ç‰Á‚·‚é‚Æ‚«‚ÍA—ñ–¼‚ğw’è‚µ‚Ä‚­‚¾‚³‚¢B
+odaconsumer.MustSpecifyColumnName=åˆ—ã®ãƒ’ãƒ³ãƒˆã‚’è¿½åŠ ã™ã‚‹ã¨ãã¯ã€åˆ—åã‚’æŒ‡å®šã—ã¦ãã ã•ã„ã€‚
 
-odaconsumer.CannotFindLogDirectory=ƒƒOƒfƒBƒŒƒNƒgƒŠ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+odaconsumer.CannotFindLogDirectory=ãƒ­ã‚°ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-odaconsumer.ParameterNames=\n‚±‚Ìƒpƒ‰ƒƒ^‚É‚ÍAƒ‚ƒfƒ‹–¼ ({0}) ‚Æƒhƒ‰ƒCƒo‚Å’è‹`‚³‚ê‚½–¼‘O ({1}) ‚ª•t‚¢‚Ä‚¢‚Ü‚·B
+odaconsumer.ParameterNames=\nã“ã®ãƒ‘ãƒ©ãƒ¡ã‚¿ã«ã¯ã€ãƒ¢ãƒ‡ãƒ«å ({0}) ã¨ãƒ‰ãƒ©ã‚¤ãƒã§å®šç¾©ã•ã‚ŒãŸåå‰ ({1}) ãŒä»˜ã„ã¦ã„ã¾ã™ã€‚
 
-odaconsumer.InvalidArgument=–³Œø‚Èˆø” ({1}) ‚Åƒƒ\ƒbƒh ({0}) ‚ğŒÄ‚Ño‚µ‚Ü‚µ‚½B
+odaconsumer.InvalidArgument=ç„¡åŠ¹ãªå¼•æ•° ({1}) ã§ãƒ¡ã‚½ãƒƒãƒ‰ ({0}) ã‚’å‘¼ã³å‡ºã—ã¾ã—ãŸã€‚
 
-odaconsumer.CannotSetConnectionLocale=Ú‘±ƒƒP[ƒ‹ ({0}) ‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotSetConnectionLocale=æ¥ç¶šãƒ­ã‚±ãƒ¼ãƒ« ({0}) ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.CannotCheckOpenConnection=Ú‘±‚ª‚·‚Å‚ÉŠJ‚¢‚Ä‚¢‚é‚©‚Ç‚¤‚©‚ğŠm”F‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.CannotCheckOpenConnection=æ¥ç¶šãŒã™ã§ã«é–‹ã„ã¦ã„ã‚‹ã‹ã©ã†ã‹ã‚’ç¢ºèªã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.manager.CannotGetNamedResultsAfterExecuteQuery=executeQuery() ‚ğŒÄ‚Ño‚µ‚½Œã‚ÍAŒ‹‰ÊƒZƒbƒg‚ğ–¼‘O‚Åæ“¾‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.manager.CannotGetNamedResultsAfterExecuteQuery=executeQuery() ã‚’å‘¼ã³å‡ºã—ãŸå¾Œã¯ã€çµæœã‚»ãƒƒãƒˆã‚’åå‰ã§å–å¾—ã™ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.manager.CannotSetParamBeforePrepare=•¶‚ğ‹Lq‚·‚é‘O‚Í“ü—Íƒpƒ‰ƒƒ^‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.manager.CannotSetParamBeforePrepare=æ–‡ã‚’è¨˜è¿°ã™ã‚‹å‰ã¯å…¥åŠ›ãƒ‘ãƒ©ãƒ¡ã‚¿ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.manager.CannotGetParamBeforeExecute=•¶‚ğÀs‚·‚é‘O‚Ío—Íƒpƒ‰ƒƒ^‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.manager.CannotGetParamBeforeExecute=æ–‡ã‚’å®Ÿè¡Œã™ã‚‹å‰ã¯å‡ºåŠ›ãƒ‘ãƒ©ãƒ¡ã‚¿ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.manager.CannotGetParamMdBeforePrepare=•¶‚ğ‹Lq‚·‚é‘O‚Íƒpƒ‰ƒƒ^‚Ìƒƒ^ƒf[ƒ^‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.manager.CannotGetParamMdBeforePrepare=æ–‡ã‚’è¨˜è¿°ã™ã‚‹å‰ã¯ãƒ‘ãƒ©ãƒ¡ã‚¿ã®ãƒ¡ã‚¿ãƒ‡ãƒ¼ã‚¿ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.manager.CannotSetSortSpecBeforePrepare=•¶‚ğ‹Lq‚·‚é‘O‚Íƒ\[ƒg‡‚ğİ’è‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.manager.CannotSetSortSpecBeforePrepare=æ–‡ã‚’è¨˜è¿°ã™ã‚‹å‰ã¯ã‚½ãƒ¼ãƒˆé †ã‚’è¨­å®šã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.manager.MaxConcurrentConnectionsReached=ƒAƒNƒeƒBƒu‚Ì“¯Ú‘±‚ª§ŒÀ”‚É’B‚µ‚Ü‚µ‚½B
+odaconsumer.manager.MaxConcurrentConnectionsReached=ã‚¢ã‚¯ãƒ†ã‚£ãƒ–ã®åŒæ™‚æ¥ç¶šãŒåˆ¶é™æ•°ã«é”ã—ã¾ã—ãŸã€‚
 
-odaconsumer.manager.ConnectionFailed=Ú‘±‚ğŠJ‚¯‚Ü‚¹‚ñB
+odaconsumer.manager.ConnectionFailed=æ¥ç¶šã‚’é–‹ã‘ã¾ã›ã‚“ã€‚
 
-odaconsumer.manager.CannotConstructConnectionFactory=ODA ƒhƒ‰ƒCƒo‚ÌÚ‘±ƒtƒ@ƒNƒgƒŠ‚ğì¬‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.manager.CannotConstructConnectionFactory=ODA ãƒ‰ãƒ©ã‚¤ãƒã®æ¥ç¶šãƒ•ã‚¡ã‚¯ãƒˆãƒªã‚’ä½œæˆã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.manager.InadequatePermissionsForCompatibility=•K—v‚ÈŒ ŒÀ‚ª‚È‚¢‚½‚ßA‰ºˆÊŒİŠ·«‚ª–³Œø‚Å‚·B
+odaconsumer.manager.InadequatePermissionsForCompatibility=å¿…è¦ãªæ¨©é™ãŒãªã„ãŸã‚ã€ä¸‹ä½äº’æ›æ€§ãŒç„¡åŠ¹ã§ã™ã€‚
 
-odaconsumer.manager.ConnectionIsInactive=ƒf[ƒ^ƒ\[ƒX‚Ö‚ÌŠm—§Ï‚İ‚ÌÚ‘±‚ªAƒAƒNƒeƒBƒu‚Èó‘Ô‚É‚È‚Á‚Ä‚¢‚Ü‚¹‚ñB
+odaconsumer.manager.ConnectionIsInactive=ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ã¸ã®ç¢ºç«‹æ¸ˆã¿ã®æ¥ç¶šãŒã€ã‚¢ã‚¯ãƒ†ã‚£ãƒ–ãªçŠ¶æ…‹ã«ãªã£ã¦ã„ã¾ã›ã‚“ã€‚
 
-odaconsumer.manager.MaxConcurrentStatementsReached=‚±‚ÌÚ‘±‚Å‚ÍAƒAƒNƒeƒBƒu‚Ì“¯Às•¶‚ª§ŒÀ”‚É’B‚µ‚Ä‚¢‚Ü‚·B
+odaconsumer.manager.MaxConcurrentStatementsReached=ã“ã®æ¥ç¶šã§ã¯ã€ã‚¢ã‚¯ãƒ†ã‚£ãƒ–ã®åŒæ™‚å®Ÿè¡Œæ–‡ãŒåˆ¶é™æ•°ã«é”ã—ã¦ã„ã¾ã™ã€‚
 
-odaconsumer.manager.PrepareFailed=€”õ‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B
+odaconsumer.manager.PrepareFailed=æº–å‚™ã§ãã¾ã›ã‚“ã§ã—ãŸã€‚
 
-odaconsumer.manager.CannotGetResultSetMdBeforePrepare=•¶‚ğ‹Lq‚·‚é‘O‚ÍŒ‹‰ÊƒZƒbƒg‚Ìƒƒ^ƒf[ƒ^‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.manager.CannotGetResultSetMdBeforePrepare=æ–‡ã‚’è¨˜è¿°ã™ã‚‹å‰ã¯çµæœã‚»ãƒƒãƒˆã®ãƒ¡ã‚¿ãƒ‡ãƒ¼ã‚¿ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-odaconsumer.manager.CannotExecuteBeforePrepare=•¶‚ğ‹Lq‚·‚é‘O‚Í•¶‚ğÀs‚Å‚«‚Ü‚¹‚ñB
+odaconsumer.manager.CannotExecuteBeforePrepare=æ–‡ã‚’è¨˜è¿°ã™ã‚‹å‰ã¯æ–‡ã‚’å®Ÿè¡Œã§ãã¾ã›ã‚“ã€‚
 
 
 # Data Olap error code
-data.olap.OlapDirCreateFail={0} ƒfƒBƒŒƒNƒgƒŠ‚ğì¬‚Å‚«‚Ü‚¹‚ñB
+data.olap.OlapDirCreateFail={0} ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚’ä½œæˆã§ãã¾ã›ã‚“ã€‚
 
-data.olap.OlapFileCreateFail=ƒtƒ@ƒCƒ‹ {0} ‚ğì¬‚Å‚«‚Ü‚¹‚ñB
+data.olap.OlapFileCreateFail=ãƒ•ã‚¡ã‚¤ãƒ« {0} ã‚’ä½œæˆã§ãã¾ã›ã‚“ã€‚
 
-data.olap.OlapFileNotFound=OLAP ƒtƒ@ƒCƒ‹ {0} ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+data.olap.OlapFileNotFound=OLAP ãƒ•ã‚¡ã‚¤ãƒ« {0} ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-data.olap.OlapFileFormatInvalid=ƒtƒ@ƒCƒ‹Œ`®‚ª–³Œø‚Å‚·Bƒf[ƒ^ƒIƒuƒWƒFƒNƒg–¼ : {0}
+data.olap.OlapFileFormatInvalid=ãƒ•ã‚¡ã‚¤ãƒ«å½¢å¼ãŒç„¡åŠ¹ã§ã™ã€‚ãƒ‡ãƒ¼ã‚¿ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆå : {0}
 
-data.olap.DimensionNotExist=ƒfƒBƒƒ“ƒVƒ‡ƒ“ {0} ‚ª‘¶İ‚µ‚Ü‚¹‚ñB
+data.olap.DimensionNotExist=ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³ {0} ãŒå­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-data.olap.KeyValueCanNotBeNull=ƒL[—ñ‚Ì’l‚Í NULL ‚É‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñBƒL[—ñ : {0}
+data.olap.KeyValueCanNotBeNull=ã‚­ãƒ¼åˆ—ã®å€¤ã¯ NULL ã«ã™ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚ã‚­ãƒ¼åˆ— : {0}
 
-data.olap.DetailMemberHaveMultiParent=Ú×ƒƒ“ƒo {0} ‚É‚Í•¡”‚Ìe‚ª‚ ‚è‚Ü‚·B
+data.olap.DetailMemberHaveMultiParent=è©³ç´°ãƒ¡ãƒ³ãƒ {0} ã«ã¯è¤‡æ•°ã®è¦ªãŒã‚ã‚Šã¾ã™ã€‚
 
-data.olap.OlapFileDataError=ƒf[ƒ^ƒIƒuƒWƒFƒNƒg {0} ‚Ìƒf[ƒ^‚ª–³Œø‚Å‚·B
+data.olap.OlapFileDataError=ãƒ‡ãƒ¼ã‚¿ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆ {0} ã®ãƒ‡ãƒ¼ã‚¿ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.olap.DocumentObjectAlreadyExists =ƒhƒLƒ…ƒƒ“ƒgƒIƒuƒWƒFƒNƒg‚ª‚·‚Å‚É‘¶İ‚·‚é‚½‚ßAƒf[ƒ^ƒIƒuƒWƒFƒNƒg {0} ‚ğì¬‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B
+data.olap.DocumentObjectAlreadyExists =ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆãŒã™ã§ã«å­˜åœ¨ã™ã‚‹ãŸã‚ã€ãƒ‡ãƒ¼ã‚¿ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆ {0} ã‚’ä½œæˆã§ãã¾ã›ã‚“ã§ã—ãŸã€‚
 
-data.olap.DocumentObjectNotExists =ƒLƒ…[ƒu "{0}" ‚ğ•¶‘‚©‚ç“Ç‚İ‚ß‚Å‚«‚Ü‚¹‚ñB•¶‘ƒIƒuƒWƒFƒNƒg‚ª‘¶İ‚µ‚Ü‚¹‚ñB
+data.olap.DocumentObjectNotExists =ã‚­ãƒ¥ãƒ¼ãƒ– "{0}" ã‚’æ–‡æ›¸ã‹ã‚‰èª­ã¿è¾¼ã‚ã§ãã¾ã›ã‚“ã€‚æ–‡æ›¸ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆãŒå­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-data.olap.FacttableRowNotDistinct=ƒtƒ@ƒNƒgƒe[ƒuƒ‹‚Å‚Ís‚ªŒÅ—L‚Å‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚ªA"{0}" ‚ª•¡”‚ ‚è‚Ü‚·B
+data.olap.FacttableRowNotDistinct=ãƒ•ã‚¡ã‚¯ãƒˆãƒ†ãƒ¼ãƒ–ãƒ«ã§ã¯è¡ŒãŒå›ºæœ‰ã§ãªã‘ã‚Œã°ãªã‚Šã¾ã›ã‚“ãŒã€"{0}" ãŒè¤‡æ•°ã‚ã‚Šã¾ã™ã€‚
 
-data.olap.FacttableJointColumnNotExist=ƒWƒ‡ƒCƒ“ƒg—ñ "{0}" ‚ÍƒfƒBƒƒ“ƒVƒ‡ƒ“‚É‚ ‚è‚Ü‚¹‚ñB
+data.olap.FacttableJointColumnNotExist=ã‚¸ãƒ§ã‚¤ãƒ³ãƒˆåˆ— "{0}" ã¯ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³ã«ã‚ã‚Šã¾ã›ã‚“ã€‚
 
-data.olap.ParameterColumnOfAggregationNotExist=ƒpƒ‰ƒƒ^—ñ "{0}" ‚ÍƒfƒBƒƒ“ƒVƒ‡ƒ“‚É‚ ‚è‚Ü‚¹‚ñB
+data.olap.ParameterColumnOfAggregationNotExist=ãƒ‘ãƒ©ãƒ¡ã‚¿åˆ— "{0}" ã¯ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³ã«ã‚ã‚Šã¾ã›ã‚“ã€‚
 
-data.olap.FacttableNullMeasureValue=ƒƒWƒƒ[—ñ‚Ì’l‚ª NULL ‚Å‚·B"{0}"
+data.olap.FacttableNullMeasureValue=ãƒ¡ã‚¸ãƒ£ãƒ¼åˆ—ã®å€¤ãŒ NULL ã§ã™ã€‚"{0}"
 
-data.olap.InvalidDimensionPositionFacttableRow=ƒLƒ…[ƒu "{0}" ‚Ìƒtƒ@ƒNƒgƒe[ƒuƒ‹‚ÉA–³Œø‚Èƒf[ƒ^s‚ª‚ ‚è‚Ü‚·BƒfƒBƒƒ“ƒVƒ‡ƒ“ƒL[ "{1}" ‚Ì’l‚Å‚ ‚é "{2}" ‚ÍAƒfƒBƒƒ“ƒVƒ‡ƒ“ "{3}" ‚É‘¶İ‚µ‚Ü‚¹‚ñB
+data.olap.InvalidDimensionPositionFacttableRow=ã‚­ãƒ¥ãƒ¼ãƒ– "{0}" ã®ãƒ•ã‚¡ã‚¯ãƒˆãƒ†ãƒ¼ãƒ–ãƒ«ã«ã€ç„¡åŠ¹ãªãƒ‡ãƒ¼ã‚¿è¡ŒãŒã‚ã‚Šã¾ã™ã€‚ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³ã‚­ãƒ¼ "{1}" ã®å€¤ã§ã‚ã‚‹ "{2}" ã¯ã€ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³ "{3}" ã«å­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-data.olap.measureNameNotFound=ƒƒWƒƒ[–¼ "{0}" ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+data.olap.measureNameNotFound=ãƒ¡ã‚¸ãƒ£ãƒ¼å "{0}" ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-data.olap.levelNameNotFound=ƒŒƒxƒ‹–¼ "{0}" ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+data.olap.levelNameNotFound=ãƒ¬ãƒ™ãƒ«å "{0}" ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-data.olap.dimensionNameNotFound=ƒLƒ…[ƒuƒNƒGƒŠ‚ÉƒfƒBƒƒ“ƒVƒ‡ƒ“ "{0}" ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB‚±‚ÌƒfƒBƒƒ“ƒVƒ‡ƒ“‚Í‘¶İ‚µ‚È‚¢‚©A–³Œø‚Å‚·B
+data.olap.dimensionNameNotFound=ã‚­ãƒ¥ãƒ¼ãƒ–ã‚¯ã‚¨ãƒªã«ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³ "{0}" ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚ã“ã®ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³ã¯å­˜åœ¨ã—ãªã„ã‹ã€ç„¡åŠ¹ã§ã™ã€‚
 
-data.olap.ReferencedDimensionNotFound=QÆ‚µ‚½ƒfƒBƒƒ“ƒVƒ‡ƒ“’è‹` {0} ‚Í‘¶İ‚µ‚Ü‚¹‚ñB
+data.olap.ReferencedDimensionNotFound=å‚ç…§ã—ãŸãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³å®šç¾© {0} ã¯å­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-data.olap.ReferencedLevelNotFound=QÆ‚µ‚½ƒŒƒxƒ‹‚Í‘¶İ‚µ‚Ü‚¹‚ñB
+data.olap.ReferencedLevelNotFound=å‚ç…§ã—ãŸãƒ¬ãƒ™ãƒ«ã¯å­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-data.olap.cursorPositionError=ƒJ[ƒ\ƒ‹‚Å‚Í–Ú“I‚ÌˆÊ’u‚ÉƒiƒrƒQ[ƒg‚Å‚«‚Ü‚¹‚ñB
+data.olap.cursorPositionError=ã‚«ãƒ¼ã‚½ãƒ«ã§ã¯ç›®çš„ã®ä½ç½®ã«ãƒŠãƒ“ã‚²ãƒ¼ãƒˆã§ãã¾ã›ã‚“ã€‚
 
-data.olap.cursorSeekError=ƒJ[ƒ\ƒ‹‚Å‚ÍQÆ‚ÌˆÊ’u‚ÉƒiƒrƒQ[ƒg‚Å‚«‚Ü‚¹‚ñB
+data.olap.cursorSeekError=ã‚«ãƒ¼ã‚½ãƒ«ã§ã¯å‚ç…§ã®ä½ç½®ã«ãƒŠãƒ“ã‚²ãƒ¼ãƒˆã§ãã¾ã›ã‚“ã€‚
 
-data.olap.CannotGetMeasureValue=ƒLƒ…[ƒu‚ÉƒƒWƒƒ[ "{0}" ‚Ì’è‹`‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB‚±‚ÌƒƒWƒƒ[‚Í‘¶İ‚µ‚È‚¢‚©A–³Œø‚Å‚·B
+data.olap.CannotGetMeasureValue=ã‚­ãƒ¥ãƒ¼ãƒ–ã«ãƒ¡ã‚¸ãƒ£ãƒ¼ "{0}" ã®å®šç¾©ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚ã“ã®ãƒ¡ã‚¸ãƒ£ãƒ¼ã¯å­˜åœ¨ã—ãªã„ã‹ã€ç„¡åŠ¹ã§ã™ã€‚
 
-data.olap.CannotFindLevel=ƒfƒBƒƒ“ƒVƒ‡ƒ“ "{1}" ‚É "{0}" ƒŒƒxƒ‹‚Ì’è‹`‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+data.olap.CannotFindLevel=ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³ "{1}" ã« "{0}" ãƒ¬ãƒ™ãƒ«ã®å®šç¾©ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-data.olap.tryToAddIdenticalAggrGroup=’l "{0}" ‚ÍA‚·‚Å‚ÉƒoƒCƒ“ƒh‚Ìˆê—— "{1}" ‚ÌWŒv‚É‘¶İ‚µ‚Ü‚·B
+data.olap.tryToAddIdenticalAggrGroup=å€¤ "{0}" ã¯ã€ã™ã§ã«ãƒã‚¤ãƒ³ãƒ‰ã®ä¸€è¦§ "{1}" ã®é›†è¨ˆã«å­˜åœ¨ã—ã¾ã™ã€‚
 
-data.olap.NoEdgeDefinitionFound=s‚Æ—ñ‚Ì‚Ç‚¿‚ç‚ÌƒGƒbƒW‚à’è‹`‚³‚ê‚Ä‚¢‚È‚¢‚½‚ßAƒNƒGƒŠ‚ğÀs‚Å‚«‚Ü‚¹‚ñB­‚È‚­‚Æ‚à‚¢‚¸‚ê‚©ˆê•û‚ÌƒGƒbƒW‚ğ’è‹`‚µ‚Ä‚­‚¾‚³‚¢B
+data.olap.NoEdgeDefinitionFound=è¡Œã¨åˆ—ã®ã©ã¡ã‚‰ã®ã‚¨ãƒƒã‚¸ã‚‚å®šç¾©ã•ã‚Œã¦ã„ãªã„ãŸã‚ã€ã‚¯ã‚¨ãƒªã‚’å®Ÿè¡Œã§ãã¾ã›ã‚“ã€‚å°‘ãªãã¨ã‚‚ã„ãšã‚Œã‹ä¸€æ–¹ã®ã‚¨ãƒƒã‚¸ã‚’å®šç¾©ã—ã¦ãã ã•ã„ã€‚
 
-data.olap.invalidSortDefinition=ƒ\[ƒg‚Ì’è‹`‚ª–³Œø‚Å‚·B
+data.olap.invalidSortDefinition=ã‚½ãƒ¼ãƒˆã®å®šç¾©ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.olap.invalidMeasureRef="{0}" ‚ÍA—LŒø‚ÈƒƒWƒƒ[QÆ®‚Å‚Í‚ ‚è‚Ü‚¹‚ñB
+data.olap.invalidMeasureRef="{0}" ã¯ã€æœ‰åŠ¹ãªãƒ¡ã‚¸ãƒ£ãƒ¼å‚ç…§å¼ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚
 
-data.olap.invalidLevelAttr=‘®«‚ª–³Œø‚Å‚·B
+data.olap.invalidLevelAttr=å±æ€§ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.olap.referencedBindingNotExist=QÆæ‚ÌƒoƒCƒ“ƒh "{0}" ‚Í‘¶İ‚µ‚Ü‚¹‚ñB
+data.olap.referencedBindingNotExist=å‚ç…§å…ˆã®ãƒã‚¤ãƒ³ãƒ‰ "{0}" ã¯å­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-data.olap.invalidBindingReferToInexitDim=ƒoƒCƒ“ƒh "{0}" ‚ÅQÆ‚µ‚Ä‚¢‚éƒŒƒxƒ‹‚ª–³Œø‚Å‚·B
+data.olap.invalidBindingReferToInexitDim=ãƒã‚¤ãƒ³ãƒ‰ "{0}" ã§å‚ç…§ã—ã¦ã„ã‚‹ãƒ¬ãƒ™ãƒ«ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.olap.invalidBindingReferToInexitMeasure=ƒoƒCƒ“ƒh "{0}" ‚ÅQÆ‚µ‚Ä‚¢‚éƒƒWƒƒ[‚ª–³Œø‚Å‚·B
+data.olap.invalidBindingReferToInexitMeasure=ãƒã‚¤ãƒ³ãƒ‰ "{0}" ã§å‚ç…§ã—ã¦ã„ã‚‹ãƒ¡ã‚¸ãƒ£ãƒ¼ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.olap.invalidBindingMissingAggrFunc=ƒoƒCƒ“ƒh "{0}" ‚ÉWŒvŠÖ”‚ª‚ ‚è‚Ü‚¹‚ñB
+data.olap.invalidBindingMissingAggrFunc=ãƒã‚¤ãƒ³ãƒ‰ "{0}" ã«é›†è¨ˆé–¢æ•°ãŒã‚ã‚Šã¾ã›ã‚“ã€‚
 
-data.olap.invalidAggrArgument=WŒvˆø”‚Éw’è‚Å‚«‚é‚Ì‚ÍƒŒƒxƒ‹‚Ì‘®«‚¾‚¯‚Å‚·B
+data.olap.invalidAggrArgument=é›†è¨ˆå¼•æ•°ã«æŒ‡å®šã§ãã‚‹ã®ã¯ãƒ¬ãƒ™ãƒ«ã®å±æ€§ã ã‘ã§ã™ã€‚
 
-data.olap.axis.level.CantBeNull=—ñƒƒ“ƒo‚ÌƒŒƒxƒ‹‚Í null ‚É‚Å‚«‚Ü‚¹‚ñB
+data.olap.axis.level.CantBeNull=åˆ—ãƒ¡ãƒ³ãƒã®ãƒ¬ãƒ™ãƒ«ã¯ null ã«ã§ãã¾ã›ã‚“ã€‚
 
-data.olap.axis.value.CantBeNull=—ñƒƒ“ƒo‚ÌƒŒƒxƒ‹ \"{0}\" ‚Ì’l‚Í null ‚É‚Å‚«‚Ü‚¹‚ñB
+data.olap.axis.value.CantBeNull=åˆ—ãƒ¡ãƒ³ãƒã®ãƒ¬ãƒ™ãƒ« \"{0}\" ã®å€¤ã¯ null ã«ã§ãã¾ã›ã‚“ã€‚
 
-data.olap.fetchlimitWarning=Œ‹‰ÊƒZƒbƒg‚Ì‘S‘Ì‚ÌƒTƒCƒY‚Í [{1}] ‚Å‚·‚ªA{0} ‚µ‚©ƒtƒFƒbƒ`‚³‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B
+data.olap.fetchlimitWarning=çµæœã‚»ãƒƒãƒˆã®å…¨ä½“ã®ã‚µã‚¤ã‚ºã¯ [{1}] ã§ã™ãŒã€{0} ã—ã‹ãƒ•ã‚§ãƒƒãƒã•ã‚Œã¾ã›ã‚“ã§ã—ãŸã€‚
 
-data.olap.failComputeComputedMeasureValue=ƒƒWƒƒ[’l‚ğŒvZ‚Å‚«‚Ü‚¹‚ñB
+data.olap.failComputeComputedMeasureValue=ãƒ¡ã‚¸ãƒ£ãƒ¼å€¤ã‚’è¨ˆç®—ã§ãã¾ã›ã‚“ã€‚
 
-data.olap.duplicateMeasureName=ƒƒWƒƒ[–¼ \"{0}\" ‚ªd•¡‚µ‚Ä‚¢‚Ü‚·B
+data.olap.duplicateMeasureName=ãƒ¡ã‚¸ãƒ£ãƒ¼å \"{0}\" ãŒé‡è¤‡ã—ã¦ã„ã¾ã™ã€‚
 
-data.olap.dataBindingExpressionEmpty=ƒf[ƒ^‚ÌƒoƒCƒ“ƒh®‚Í NULL ‚â‹ó”’‚É‚Å‚«‚Ü‚¹‚ñB
+data.olap.dataBindingExpressionEmpty=ãƒ‡ãƒ¼ã‚¿ã®ãƒã‚¤ãƒ³ãƒ‰å¼ã¯ NULL ã‚„ç©ºç™½ã«ã§ãã¾ã›ã‚“ã€‚
 
-data.olap.missingParentCursor=eŒ‹‰ÊƒZƒbƒg‚ª‘¶İ‚µ‚Ü‚¹‚ñB
+data.olap.missingParentCursor=è¦ªçµæœã‚»ãƒƒãƒˆãŒå­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-data.olap.CannotAccessNullDimensionRow=Null ƒfƒBƒƒ“ƒVƒ‡ƒ“‚Ìs‚É‚ÍƒAƒNƒZƒX‚Å‚«‚Ü‚¹‚ñB
+data.olap.CannotAccessNullDimensionRow=Null ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³ã®è¡Œã«ã¯ã‚¢ã‚¯ã‚»ã‚¹ã§ãã¾ã›ã‚“ã€‚
 
-data.olap.NonexistentDimension=‘¶İ‚µ‚È‚¢ƒfƒBƒƒ“ƒVƒ‡ƒ“ :
+data.olap.NonexistentDimension=å­˜åœ¨ã—ãªã„ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³ :
 
-data.olap.NonexistentLevel=‘¶İ‚µ‚È‚¢ƒŒƒxƒ‹ :
+data.olap.NonexistentLevel=å­˜åœ¨ã—ãªã„ãƒ¬ãƒ™ãƒ« :
 
-data.olap.NonexistentKeyOrAttr=‘¶İ‚µ‚È‚¢ƒL[‚Ü‚½‚Í‘®« :
+data.olap.NonexistentKeyOrAttr=å­˜åœ¨ã—ãªã„ã‚­ãƒ¼ã¾ãŸã¯å±æ€§ :
 
-data.olap.UnsupportedFunction=ƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚È‚¢ŠÖ” :
+data.olap.UnsupportedFunction=ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ãªã„é–¢æ•° :
 
-data.olap.UnspecifiedBindingName=ƒoƒCƒ“ƒh–¼‚ªw’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+data.olap.UnspecifiedBindingName=ãƒã‚¤ãƒ³ãƒ‰åãŒæŒ‡å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-data.olap.NotNestAggregationBinding=ƒLƒ…[ƒuƒlƒXƒg‚³‚ê‚½WŒv‚ÌƒoƒCƒ“ƒh‚Å‚Í‚ ‚è‚Ü‚¹‚ñ : {0}
+data.olap.NotNestAggregationBinding=ã‚­ãƒ¥ãƒ¼ãƒ–ãƒã‚¹ãƒˆã•ã‚ŒãŸé›†è¨ˆã®ãƒã‚¤ãƒ³ãƒ‰ã§ã¯ã‚ã‚Šã¾ã›ã‚“ : {0}
 
-data.olap.InvalidNestAggregationExpression=ƒLƒ…[ƒuƒlƒXƒg‚³‚ê‚½WŒv‚Ì®‚ª–³Œø‚Å‚·B
+data.olap.InvalidNestAggregationExpression=ã‚­ãƒ¥ãƒ¼ãƒ–ãƒã‚¹ãƒˆã•ã‚ŒãŸé›†è¨ˆã®å¼ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.olap.InvalidNestAggregationOn=ƒŒƒxƒ‹‚ÌWŒv‚ªƒx[ƒX‚Æ‚È‚éWŒv‚É‘¶İ‚µ‚È‚¢‚½‚ßAƒlƒXƒg‚³‚ê‚½WŒv "{0}"‚ğŒvZ‚Å‚«‚Ü‚¹‚ñB
+data.olap.InvalidNestAggregationOn=ãƒ¬ãƒ™ãƒ«ã®é›†è¨ˆãŒãƒ™ãƒ¼ã‚¹ã¨ãªã‚‹é›†è¨ˆã«å­˜åœ¨ã—ãªã„ãŸã‚ã€ãƒã‚¹ãƒˆã•ã‚ŒãŸé›†è¨ˆ "{0}"ã‚’è¨ˆç®—ã§ãã¾ã›ã‚“ã€‚
 
-data.olap.InvalidAggregationFilterExpr=ƒtƒBƒ‹ƒ^® "{0}" ‚ª–³Œø‚Å‚·B WŒvƒoƒCƒ“ƒh "{1}" ‚Ì aggregationOn ƒŠƒXƒg‚ÉAQÆ‚·‚éƒfƒBƒƒ“ƒVƒ‡ƒ“ƒŒƒxƒ‹ "{2}" ‚ªŠÜ‚Ü‚ê‚Ä‚¢‚Ü‚¹‚ñB
+data.olap.InvalidAggregationFilterExpr=ãƒ•ã‚£ãƒ«ã‚¿å¼ "{0}" ãŒç„¡åŠ¹ã§ã™ã€‚ é›†è¨ˆãƒã‚¤ãƒ³ãƒ‰ "{1}" ã® aggregationOn ãƒªã‚¹ãƒˆã«ã€å‚ç…§ã™ã‚‹ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³ãƒ¬ãƒ™ãƒ« "{2}" ãŒå«ã¾ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-data.olap.sort.exprError=QÆ‚·‚éƒfƒBƒƒ“ƒVƒ‡ƒ“ƒŒƒxƒ‹‚É‚Â‚« 1 ‚Â‚ÌƒŒƒxƒ‹‚µ‚©ŠÜ‚ß‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+data.olap.sort.exprError=å‚ç…§ã™ã‚‹ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³ãƒ¬ãƒ™ãƒ«ã«ã¤ã 1 ã¤ã®ãƒ¬ãƒ™ãƒ«ã—ã‹å«ã‚ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-data.olap.query.noCubeBinding=ƒLƒ…[ƒu‚ÌƒoƒCƒ“ƒh‚ªg—p‚Å‚«‚È‚¢‚½‚ßAƒLƒ…[ƒuƒNƒGƒŠ‚ğÀs‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B
+data.olap.query.noCubeBinding=ã‚­ãƒ¥ãƒ¼ãƒ–ã®ãƒã‚¤ãƒ³ãƒ‰ãŒä½¿ç”¨ã§ããªã„ãŸã‚ã€ã‚­ãƒ¥ãƒ¼ãƒ–ã‚¯ã‚¨ãƒªã‚’å®Ÿè¡Œã§ãã¾ã›ã‚“ã§ã—ãŸã€‚
 
-data.olap.FailLoadCube=ƒLƒ…[ƒu‚ğ“Ç‚İ‚ß‚Ü‚¹‚ñ : "{0}"
+data.olap.FailLoadCube=ã‚­ãƒ¥ãƒ¼ãƒ–ã‚’èª­ã¿è¾¼ã‚ã¾ã›ã‚“ : "{0}"
 
-data.olap.MissingDimensionInCube=ƒLƒ…[ƒu "{0}" ‚É‚Í­‚È‚­‚Æ‚à 1 ‚Â‚ÌƒfƒBƒƒ“ƒVƒ‡ƒ“‚ª•K—v‚Å‚·B
+data.olap.MissingDimensionInCube=ã‚­ãƒ¥ãƒ¼ãƒ– "{0}" ã«ã¯å°‘ãªãã¨ã‚‚ 1 ã¤ã®ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³ãŒå¿…è¦ã§ã™ã€‚
 
-data.olap.ExceedIntegerLimit= Œ‹‰ÊƒZƒbƒg‚Ì’·‚³‚ª Integer.MAX ‚ğ’´‚¦‚Ä‚¢‚Ü‚·B
+data.olap.ExceedIntegerLimit= çµæœã‚»ãƒƒãƒˆã®é•·ã•ãŒ Integer.MAX ã‚’è¶…ãˆã¦ã„ã¾ã™ã€‚
 
-data.olap.ExceedColumnLimit= —ñ‚ÌƒGƒbƒW‚É‚ ‚éŒ‹‰ÊƒZƒbƒg‚Ì’·‚³‚ªƒTƒCƒY‚Ì§ŒÀ {0} ‚ğ’´‚¦‚Ä‚¢‚Ü‚·B
+data.olap.ExceedColumnLimit= åˆ—ã®ã‚¨ãƒƒã‚¸ã«ã‚ã‚‹çµæœã‚»ãƒƒãƒˆã®é•·ã•ãŒã‚µã‚¤ã‚ºã®åˆ¶é™ {0} ã‚’è¶…ãˆã¦ã„ã¾ã™ã€‚
 
-data.olap.ExceedRowLimit= s‚ÌƒGƒbƒW‚É‚ ‚éŒ‹‰ÊƒZƒbƒg‚Ì’·‚³‚ªƒTƒCƒY‚Ì§ŒÀ {0} ‚ğ’´‚¦‚Ä‚¢‚Ü‚·B
+data.olap.ExceedRowLimit= è¡Œã®ã‚¨ãƒƒã‚¸ã«ã‚ã‚‹çµæœã‚»ãƒƒãƒˆã®é•·ã•ãŒã‚µã‚¤ã‚ºã®åˆ¶é™ {0} ã‚’è¶…ãˆã¦ã„ã¾ã™ã€‚
 
-data.cache.UnsupportedIncrementalCacheMode=‘•ªƒLƒƒƒbƒVƒ…‚Ì \"{0}\" ƒ‚[ƒh‚Í‚Ü‚¾ƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+data.cache.UnsupportedIncrementalCacheMode=å¢—åˆ†ã‚­ãƒ£ãƒƒã‚·ãƒ¥ã® \"{0}\" ãƒ¢ãƒ¼ãƒ‰ã¯ã¾ã ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 # Configuration file parser error code
-data.executor.configFileParser.getModeByID=ƒf[ƒ^ƒZƒbƒg–¼‚©‚ç‘•ªƒLƒƒƒbƒVƒ…‚Ìƒ‚[ƒh‚ğæ“¾‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B
+data.executor.configFileParser.getModeByID=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆåã‹ã‚‰å¢—åˆ†ã‚­ãƒ£ãƒƒã‚·ãƒ¥ã®ãƒ¢ãƒ¼ãƒ‰ã‚’å–å¾—ã§ãã¾ã›ã‚“ã§ã—ãŸã€‚
 
-data.executor.configFileParser.getTSFormatByID=İ’èƒtƒ@ƒCƒ‹‚Åw’è‚µ‚½ƒf[ƒ^ƒZƒbƒg–¼‚©‚çƒ^ƒCƒ€ƒXƒ^ƒ“ƒv‚Ì‘®‚ğ‰ğÍ‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B
+data.executor.configFileParser.getTSFormatByID=è¨­å®šãƒ•ã‚¡ã‚¤ãƒ«ã§æŒ‡å®šã—ãŸãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆåã‹ã‚‰ã‚¿ã‚¤ãƒ ã‚¹ã‚¿ãƒ³ãƒ—ã®æ›¸å¼ã‚’è§£æã§ãã¾ã›ã‚“ã§ã—ãŸã€‚
 
-data.executor.configFileParser.getTimeStampColumnByID=İ’èƒtƒ@ƒCƒ‹‚Åw’è‚µ‚½ƒf[ƒ^ƒZƒbƒg–¼‚©‚çƒ^ƒCƒ€ƒXƒ^ƒ“ƒv‚Ì‘®‚ğ‰ğÍ‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B
+data.executor.configFileParser.getTimeStampColumnByID=è¨­å®šãƒ•ã‚¡ã‚¤ãƒ«ã§æŒ‡å®šã—ãŸãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆåã‹ã‚‰ã‚¿ã‚¤ãƒ ã‚¹ã‚¿ãƒ³ãƒ—ã®æ›¸å¼ã‚’è§£æã§ãã¾ã›ã‚“ã§ã—ãŸã€‚
 
-data.executor.configFileParser.getQueryTextByID=İ’èƒtƒ@ƒCƒ‹‚Åw’è‚µ‚½ƒf[ƒ^ƒZƒbƒg–¼‚©‚çƒNƒGƒŠƒeƒLƒXƒg‚ğæ“¾‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B
+data.executor.configFileParser.getQueryTextByID=è¨­å®šãƒ•ã‚¡ã‚¤ãƒ«ã§æŒ‡å®šã—ãŸãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆåã‹ã‚‰ã‚¯ã‚¨ãƒªãƒ†ã‚­ã‚¹ãƒˆã‚’å–å¾—ã§ãã¾ã›ã‚“ã§ã—ãŸã€‚
 
-data.executor.configFileParser.getParametersByID=İ’èƒtƒ@ƒCƒ‹‚Åw’è‚µ‚½ƒf[ƒ^ƒZƒbƒg–¼‚©‚çƒpƒ‰ƒƒ^‚ğæ“¾‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B
+data.executor.configFileParser.getParametersByID=è¨­å®šãƒ•ã‚¡ã‚¤ãƒ«ã§æŒ‡å®šã—ãŸãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆåã‹ã‚‰ãƒ‘ãƒ©ãƒ¡ã‚¿ã‚’å–å¾—ã§ãã¾ã›ã‚“ã§ã—ãŸã€‚
 
-data.aggregation.expression.displayName=®
+data.aggregation.expression.displayName=å¼
 
-data.aggregation.argumentError=WŒv \"{1}\" ‚Ìˆø”® \"{0}\" ‚ª null ‚Ü‚½‚Í‹ó”’‚Å‚·B
+data.aggregation.argumentError=é›†è¨ˆ \"{1}\" ã®å¼•æ•°å¼ \"{0}\" ãŒ null ã¾ãŸã¯ç©ºç™½ã§ã™ã€‚
 
-data.olap.InvalidAggrTypeOnMeasure=ƒLƒ…[ƒu‚ÌƒƒWƒƒ[‚É‘Î‚·‚éWŒv‚Å‚Í‚±‚ÌŒ^‚Íg—p‚Å‚«‚Ü‚¹‚ñ : "{0}"
+data.olap.InvalidAggrTypeOnMeasure=ã‚­ãƒ¥ãƒ¼ãƒ–ã®ãƒ¡ã‚¸ãƒ£ãƒ¼ã«å¯¾ã™ã‚‹é›†è¨ˆã§ã¯ã“ã®å‹ã¯ä½¿ç”¨ã§ãã¾ã›ã‚“ : "{0}"
 
 #derived dataSet
-data.derivedDataSet.columnNotExist=—ñ \"{0}\" ‚ª‘¶İ‚µ‚Ü‚¹‚ñB
+data.derivedDataSet.columnNotExist=åˆ— \"{0}\" ãŒå­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-data.derivedDataSet.UnionQueryTextParseError=ƒ†ƒjƒIƒ“ƒNƒGƒŠ‚ğ‰ğÍ‚Å‚«‚Ü‚¹‚ñB\"{0}\" \"{0}\"
+data.derivedDataSet.UnionQueryTextParseError=ãƒ¦ãƒ‹ã‚ªãƒ³ã‚¯ã‚¨ãƒªã‚’è§£æã§ãã¾ã›ã‚“ã€‚\"{0}\" \"{0}\"
 
-data.derivedDataSet.JoinQueryTextParseError=ƒWƒ‡ƒCƒ“ƒNƒGƒŠ‚ğ‰ğÍ‚Å‚«‚Ü‚¹‚ñB\"{0}\" \"{0}\"
+data.derivedDataSet.JoinQueryTextParseError=ã‚¸ãƒ§ã‚¤ãƒ³ã‚¯ã‚¨ãƒªã‚’è§£æã§ãã¾ã›ã‚“ã€‚\"{0}\" \"{0}\"
 
-data.derivedDataSet.illegalClassInstance=‰Šú‰»‚·‚éƒNƒ‰ƒXƒCƒ“ƒXƒ^ƒ“ƒX‚ª–³Œø‚Å‚·B
+data.derivedDataSet.illegalClassInstance=åˆæœŸåŒ–ã™ã‚‹ã‚¯ãƒ©ã‚¹ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹ãŒç„¡åŠ¹ã§ã™ã€‚
 
-data.derivedDataSet.classLoadError=ƒNƒ‰ƒXƒCƒ“ƒXƒ^ƒ“ƒX‚ğƒ[ƒh‚Å‚«‚Ü‚¹‚ñB
+data.derivedDataSet.classLoadError=ã‚¯ãƒ©ã‚¹ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹ã‚’ãƒ­ãƒ¼ãƒ‰ã§ãã¾ã›ã‚“ã€‚
 
-data.derivedDataSet.calculatorNotExist=ŒvZ‚ª’è‹`‚³‚ê‚Ä‚¢‚È‚¢‚©AŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+data.derivedDataSet.calculatorNotExist=è¨ˆç®—ãŒå®šç¾©ã•ã‚Œã¦ã„ãªã„ã‹ã€è¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-data.derivedDataSet.invalidQueryText=ƒNƒGƒŠƒeƒLƒXƒg‚ª–³Œø‚Å‚·B
+data.derivedDataSet.invalidQueryText=ã‚¯ã‚¨ãƒªãƒ†ã‚­ã‚¹ãƒˆãŒç„¡åŠ¹ã§ã™ã€‚
 
 #data mart data source
-data.datamart.failLoadDataSet = ƒf[ƒ^ƒIƒuƒWƒFƒNƒgƒf[ƒ^ƒZƒbƒg "{0}" ‚ğ“Ç‚İ‚ß‚Ü‚¹‚ñB
+data.datamart.failLoadDataSet = ãƒ‡ãƒ¼ã‚¿ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆ "{0}" ã‚’èª­ã¿è¾¼ã‚ã¾ã›ã‚“ã€‚
 
-data.datamart.originalDataSetNotExist = ‘•ªXV‚Å‚«‚Ü‚¹‚ñB Œ³‚Ìƒf[ƒ^ƒZƒbƒg "{0}" ‚ª‘¶İ‚µ‚Ü‚¹‚ñB
+data.datamart.originalDataSetNotExist = å¢—åˆ†æ›´æ–°ã§ãã¾ã›ã‚“ã€‚ å…ƒã®ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆ "{0}" ãŒå­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-data.datamart.incrementalDatasetMetaDataError = ‘•ªXV‚Å‚«‚Ü‚¹‚ñB ’Ç‰Á‚Ìƒf[ƒ^ƒZƒbƒg "{0}" ‚Ìƒƒ^ƒf[ƒ^‚ªAŒ³‚Ìƒf[ƒ^ƒZƒbƒg‚Ì‚à‚Ì‚ÆˆÙ‚È‚è‚Ü‚·B
+data.datamart.incrementalDatasetMetaDataError = å¢—åˆ†æ›´æ–°ã§ãã¾ã›ã‚“ã€‚ è¿½åŠ ã®ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆ "{0}" ã®ãƒ¡ã‚¿ãƒ‡ãƒ¼ã‚¿ãŒã€å…ƒã®ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®ã‚‚ã®ã¨ç•°ãªã‚Šã¾ã™ã€‚
 
-data.datamart.collation=ˆÈ‘O‚Ì»•i‚Å‚ÍAÆ‡‚ğİ’è‚µ‚½ê‡‚Å‚àƒf[ƒ^ƒIƒuƒWƒFƒNƒg‚ÌƒCƒ“ƒfƒbƒNƒX‚ÅÆ‡‚Íg—p‚³‚ê‚Ü‚¹‚ñB Œ»İ‚ÍÆ‡‚ªƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚é‚Ì‚ÅAƒf[ƒ^ƒZƒbƒg‚ÅÆ‡‚ğİ’è‚µ‚½ê‡‚Íƒf[ƒ^ƒIƒuƒWƒFƒNƒg‚ğÄ¶¬‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B
+data.datamart.collation=ä»¥å‰ã®è£½å“ã§ã¯ã€ç…§åˆã‚’è¨­å®šã—ãŸå ´åˆã§ã‚‚ãƒ‡ãƒ¼ã‚¿ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆã®ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ã§ç…§åˆã¯ä½¿ç”¨ã•ã‚Œã¾ã›ã‚“ã€‚ ç¾åœ¨ã¯ç…§åˆãŒã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã‚‹ã®ã§ã€ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã§ç…§åˆã‚’è¨­å®šã—ãŸå ´åˆã¯ãƒ‡ãƒ¼ã‚¿ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆã‚’å†ç”Ÿæˆã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
-data.filter.pushDownFail= ODA Šg’£‘¤‚Å‚Ì‚İƒTƒ|[ƒg‚³‚ê‚éƒtƒBƒ‹ƒ^‚ğƒvƒbƒVƒ… (‰º‚Ö) ‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B
+data.filter.pushDownFail= ODA æ‹¡å¼µå´ã§ã®ã¿ã‚µãƒãƒ¼ãƒˆã•ã‚Œã‚‹ãƒ•ã‚£ãƒ«ã‚¿ã‚’ãƒ—ãƒƒã‚·ãƒ¥ (ä¸‹ã¸) ã§ãã¾ã›ã‚“ã§ã—ãŸã€‚
 
-data.query.exprReferInvalidColumn=ƒNƒGƒŠ‚ğÀs‚Å‚«‚Ü‚¹‚ñB——R: –³Œø‚Èƒf[ƒ^ƒZƒbƒg‚Ì—ñ "{0}" ‚ğQÆ‚·‚é–³Œø‚È®‚ªƒNƒGƒŠ‚ÉŠÜ‚Ü‚ê‚Ä‚¢‚Ü‚·B
+data.query.exprReferInvalidColumn=ã‚¯ã‚¨ãƒªã‚’å®Ÿè¡Œã§ãã¾ã›ã‚“ã€‚ç†ç”±: ç„¡åŠ¹ãªãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®åˆ— "{0}" ã‚’å‚ç…§ã™ã‚‹ç„¡åŠ¹ãªå¼ãŒã‚¯ã‚¨ãƒªã«å«ã¾ã‚Œã¦ã„ã¾ã™ã€‚
 
-data.query.invalidColumnBinding=—ñƒoƒCƒ“ƒh "{0}" ‚ª–³Œø‚Å‚·B
+data.query.invalidColumnBinding=åˆ—ãƒã‚¤ãƒ³ãƒ‰ "{0}" ãŒç„¡åŠ¹ã§ã™ã€‚

@@ -2,29 +2,29 @@ Shared.Lbl.OK=\ \ \ OK
 
 Shared.Lbl.Cancel=Annuler
 
-Shared.Lbl.Triggers=Déclencheurs
+Shared.Lbl.Triggers=DÃ©clencheurs
 
-Shared.Tooltip.FormatSpecifier=Appeler l'éditeur de spécification de format
+Shared.Tooltip.FormatSpecifier=Appeler l'Ã©diteur de spÃ©cification de format
 
 Shared.mne.Visibile_v=&Visible
 
 Shared.mne.Visibile_s=Vi&sible
 
-Shared.mne.Background_K=A&rrière-plan :
+Shared.mne.Background_K=A&rriÃ¨re-plan :
 
 ChartWithAxesImpl.Z_Axis.title=Titre de l'axe des z
 
 ChartSheetImpl.Buttom.Auto=A&uto
 
-ChartSheetImpl.Button.AutoHide=Masquer le graphique s'il n'y a pas de &données à afficher.
+ChartSheetImpl.Button.AutoHide=Masquer le graphique s'il n'y a pas de &donnÃ©es Ã  afficher.
 
-ChartSheetImpl.Button.EnableStudyLayout=Activer la mise en page de l'étude
+ChartSheetImpl.Button.EnableStudyLayout=Activer la mise en page de l'Ã©tude
 
 ChartSheetImpl.Button.ShowEmptyMsg=Afficher le graphique avec le &message suivant :
 
-ChartSheetImpl.Group.EmptyMessage=Visibilité
+ChartSheetImpl.Group.EmptyMessage=VisibilitÃ©
 
-ChartSheetImpl.Group.EmptyMessage&=&Visibilité
+ChartSheetImpl.Group.EmptyMessage&=&VisibilitÃ©
 
 ChartSheetImpl.Label.Outline=Contour :
 
@@ -36,7 +36,7 @@ ChartPlotSheetImpl.Label.Visible=&Visible
 
 ChartPlotSheetImpl.Label.Visible2=V&isible
 
-ChartPlotSheetImpl.Label.PlotArea=Zone de tracé
+ChartPlotSheetImpl.Label.PlotArea=Zone de tracÃ©
 
 ChartPlotSheetImpl.Label.AreaFormat=Format de la zone
 
@@ -44,7 +44,7 @@ ChartPlotSheetImpl.Label.AreaFormat&=&Format de la zone
 
 ChartTitleSheetImpl.Label.ChartTitle=Titre du grap&hique :
 
-ChartTitleSheetImpl.Label.Interactivity=Interactivité du titre
+ChartTitleSheetImpl.Label.Interactivity=InteractivitÃ© du titre
 
 ChartTitleSheetImpl.Titel.Tooltip=Titre de l'infobulle
 
@@ -52,25 +52,25 @@ ChartTitleSheetImpl.Label.Tooltip=Infobulle :
 
 ScriptSheetImpl.Lbl.Script=Script :
 
-ScriptSheetImpl.Lbl.Update=Mettre à jour
+ScriptSheetImpl.Lbl.Update=Mettre Ã  jour
 
-ScriptSheetImpl.Title.SheetTitle=Scripts - Définir/Modifier les scripts du graphique
+ScriptSheetImpl.Title.SheetTitle=Scripts - DÃ©finir/Modifier les scripts du graphique
 
 GeneralSheetImpl.Lbl.ChartTitle=Titre du graphique :
 
 GeneralSheetImpl.Lbl.Description=&Description :
 
-GeneralSheetImpl.Lbl.GeneralProperties=Propriétés générales
+GeneralSheetImpl.Lbl.GeneralProperties=PropriÃ©tÃ©s gÃ©nÃ©rales
 
 GeneralSheetImpl.Lbl.Type=Type :
 
 GeneralSheetImpl.Lbl.Subtype=Sous-type :
 
-GeneralSheetImpl.Lbl.Units=Unités :
+GeneralSheetImpl.Lbl.Units=UnitÃ©s :
 
 GeneralSheetImpl.Lbl.ColumnCount=Nombre de\ncolonnes :
 
-GeneralSheetImpl.Lbl.ChartBackground=Arrière-plan :
+GeneralSheetImpl.Lbl.ChartBackground=ArriÃ¨re-plan :
 
 GeneralSheetImpl.Lbl.ChartWall=Parois :
 
@@ -78,13 +78,13 @@ GeneralSheetImpl.Lbl.ChartFloor=Base :
 
 GeneralSheetImpl.Lbl.ChartOutline=Contour du graphique
 
-GeneralSheetImpl.Lbl.TitleProperties=Propriétés du titre
+GeneralSheetImpl.Lbl.TitleProperties=PropriÃ©tÃ©s du titre
 
-GeneralSheetImpl.Lbl.ExtendedProperties=Propriétés étendues
+GeneralSheetImpl.Lbl.ExtendedProperties=PropriÃ©tÃ©s Ã©tendues
 
-GeneralSheetImpl.Lbl.SeriesWidth=&Profondeur de la série : \n ({0})
+GeneralSheetImpl.Lbl.SeriesWidth=&Profondeur de la sÃ©rie : \n ({0})
 
-GeneralSheetImpl.Title.SheetTitle=Général - Définir les propriétés générales du graphique
+GeneralSheetImpl.Title.SheetTitle=GÃ©nÃ©ral - DÃ©finir les propriÃ©tÃ©s gÃ©nÃ©rales du graphique
 
 BaseAxisDataSheetImpl.Lbl.Type=Type :
 
@@ -96,7 +96,7 @@ BaseAxisDataSheetImpl.Lbl.Value=Vale&ur :
 
 BaseAxisDataSheetImpl.Lbl.YAxisCount=Nombre d'axes Y :
 
-AbstractScaleSheet.AutoExpand=Développer a&utomatiquement
+AbstractScaleSheet.AutoExpand=DÃ©velopper a&utomatiquement
 
 AbstractScaleSheet.Label.Step=Escalier
 
@@ -106,21 +106,21 @@ AbstractScaleSheet.Label.Factor=&Facteur (Valeur/Points) :
 
 BaseAxisDataSheetImpl.Lbl.Minimum=&Min :
 
-BaseAxisDataSheetImpl.Lbl.MajorGridStepNum=&Numéro de l'escalier de la grille principale :
+BaseAxisDataSheetImpl.Lbl.MajorGridStepNum=&NumÃ©ro de l'escalier de la grille principale :
 
 BaseAxisDataSheetImpl.Lbl.Maximum=Ma&x :
 
-AbstractScaleSheet.Label.StepSize=Intervalle d'étape :
+AbstractScaleSheet.Label.StepSize=Intervalle d'Ã©tape :
 
-BaseAxisDataSheetImpl.Lbl.Unit=&Unité :
+BaseAxisDataSheetImpl.Lbl.Unit=&UnitÃ© :
 
-BaseAxisDataSheetImpl.Lbl.MinorGridCount=&Nombre de grilles secondaires par unité :
+BaseAxisDataSheetImpl.Lbl.MinorGridCount=&Nombre de grilles secondaires par unitÃ© :
 
-BaseAxisDataSheetImpl.Lbl.BaseAxis=Axe de catégories
+BaseAxisDataSheetImpl.Lbl.BaseAxis=Axe de catÃ©gories
 
-BaseAxisDataSheetImpl.Title.SheetTitle=Données > Axe horizontal - Définir les données de l'axe horizontal
+BaseAxisDataSheetImpl.Title.SheetTitle=DonnÃ©es > Axe horizontal - DÃ©finir les donnÃ©es de l'axe horizontal
 
-BaseAxisDataSheetImpl.Lbl.BaseAxis2=Axe de catégories ({0})
+BaseAxisDataSheetImpl.Lbl.BaseAxis2=Axe de catÃ©gories ({0})
 
 BaseAxisAttributeSheetImpl.Lbl.GapWidth=Largeur de l'intervalle :
 
@@ -133,11 +133,11 @@ BaseAxisAttributeSheetImpl.Lbl.Orientation=Orientation
 BaseAxisAttributeSheetImpl.Lbl.PercentSign=%
 BaseAxisAttributeSheetImpl.Lbl.ShowAxisLine=Afficher la ligne de l'a&xe
 
-BaseAxisAttributeSheetImpl.Lbl.IsTickBetweenCategories=Croi&sement entre des catégories
+BaseAxisAttributeSheetImpl.Lbl.IsTickBetweenCategories=Croi&sement entre des catÃ©gories
 
 BaseAxisAttributeSheetImpl.Lbl.AxisLineColor=&Couleur de la ligne de l'axe :
 
-BaseAxisAttributeSheetImpl.Exception.IllegalArgument=Argument non valide pour la feuille d'attribut d'axe... Le graphique doit être de type ChartWithAxes
+BaseAxisAttributeSheetImpl.Exception.IllegalArgument=Argument non valide pour la feuille d'attribut d'axe... Le graphique doit Ãªtre de type ChartWithAxes
 
 BaseAxisAttributeSheetImpl.Title.SheetTitle=Attributs > Axe horizontal - Personnaliser les attributs de l'axe horizontal
 
@@ -151,11 +151,11 @@ BaseAxisLabelAttributeSheetImpl.Lbl.Label=Etiquette
 
 BaseAxisLabelAttributeSheetImpl.Lbl.Title=Titre
 
-BaseAxisLabelAttributeSheetImpl.Exception.IllegalArgument=Argument non valide pour la feuille d'attribut d'étiquette d'axe... Le graphique doit être de type ChartWithAxes
+BaseAxisLabelAttributeSheetImpl.Exception.IllegalArgument=Argument non valide pour la feuille d'attribut d'Ã©tiquette d'axe... Le graphique doit Ãªtre de type ChartWithAxes
 
-BaseAxisLabelAttributeSheetImpl.Lbl.ShowLabelsStaggered=Afficher les étiquettes de façon échelonnée
+BaseAxisLabelAttributeSheetImpl.Lbl.ShowLabelsStaggered=Afficher les Ã©tiquettes de faÃ§on Ã©chelonnÃ©e
 
-BaseAxisLabelAttributeSheetImpl.Title.SheetTitle=Attributs > Axe horizontal > Etiquettes - Personnaliser les étiquettes de l'axe horizontal
+BaseAxisLabelAttributeSheetImpl.Title.SheetTitle=Attributs > Axe horizontal > Etiquettes - Personnaliser les Ã©tiquettes de l'axe horizontal
 
 BaseAxisMarkerAttributeSheetImpl.Lbl.AddLine=&Ajouter une ligne
 
@@ -163,9 +163,9 @@ BaseAxisMarkerAttributeSheetImpl.Lbl.AddRange=A&jouter une plage
 
 BaseAxisMarkerAttributeSheetImpl.Lbl.AddRegion=&Ajouter une zone
 
-BaseAxisMarkerAttributeSheetImpl.Lbl.RemoveEntry=&Retirer une entrée
+BaseAxisMarkerAttributeSheetImpl.Lbl.RemoveEntry=&Retirer une entrÃ©e
 
-BaseAxisMarkerAttributeSheetImpl.Lbl.StartValue=Valeur de débu&t :
+BaseAxisMarkerAttributeSheetImpl.Lbl.StartValue=Valeur de dÃ©bu&t :
 
 BaseAxisMarkerAttributeSheetImpl.Lbl.EndValue=&Valeur de fin :
 
@@ -173,59 +173,59 @@ BaseAxisMarkerAttributeSheetImpl.Lbl.RangeOutline=Contour de la gamme
 
 BaseAxisMarkerAttributeSheetImpl.Lbl.ForAxis=\ pour axe
 
-BaseAxisMarkerAttributeSheetImpl.Lbl.MarkerLineAttributes=Attributs de lignes de repères
+BaseAxisMarkerAttributeSheetImpl.Lbl.MarkerLineAttributes=Attributs de lignes de repÃ¨res
 
-BaseAxisMarkerAttributeSheetImpl.Lbl.MarkerProperties=Propriétés de repères
+BaseAxisMarkerAttributeSheetImpl.Lbl.MarkerProperties=PropriÃ©tÃ©s de repÃ¨res
 
 BaseAxisMarkerAttributeSheetImpl.Lbl.MarkerLine=MarkerLine {0} {1}
 BaseAxisMarkerAttributeSheetImpl.Lbl.MarkerRange=MarkerRange {0} {1}
-BaseAxisMarkerAttributeSheetImpl.Title.SheetTitle=Attributs > Axe horizontal > Repères - Définir les repères de l'axe horizontal
+BaseAxisMarkerAttributeSheetImpl.Title.SheetTitle=Attributs > Axe horizontal > RepÃ¨res - DÃ©finir les repÃ¨res de l'axe horizontal
 
 BaseAxisMarkerAttributeSheetImpl.Lbl.InnerRadius=Rayon &interne :
 
 BaseAxisMarkerAttributeSheetImpl.Lbl.OuterRadius=Rayon &externe :
 
-BaseAxisMarkerAttributeSheetImpl.Lbl.DialProperties=Propriétés de la zone
+BaseAxisMarkerAttributeSheetImpl.Lbl.DialProperties=PropriÃ©tÃ©s de la zone
 
-BaseAxisMarkerAttributeSheetImpl.Lbl.DialLabelProperties=Propriétés de l'étiquette de la zone
+BaseAxisMarkerAttributeSheetImpl.Lbl.DialLabelProperties=PropriÃ©tÃ©s de l'Ã©tiquette de la zone
 
-BaseAxisMarkerAttributeSheetImpl.Lbl.MarkerLabelProperties=Propriétés de l'étiquette du repère
+BaseAxisMarkerAttributeSheetImpl.Lbl.MarkerLabelProperties=PropriÃ©tÃ©s de l'Ã©tiquette du repÃ¨re
 
 BaseAxisMarkerAttributeSheetImpl.Lbl.MoveDown=&Vers le bas
 
 BaseAxisMarkerAttributeSheetImpl.Lbl.MoveUp=Vers le &haut
 
-BaseAxisMarkerAttributeSheetImpl.Exception.IllegalArgument=Argument non valide pour la feuille d'attribut de repère d'axe... Le graphique doit être de type ChartWithAxes
+BaseAxisMarkerAttributeSheetImpl.Exception.IllegalArgument=Argument non valide pour la feuille d'attribut de repÃ¨re d'axe... Le graphique doit Ãªtre de type ChartWithAxes
 
-BaseSeriesDataSheetImpl.Choice.Unsorted=Non trié
+BaseSeriesDataSheetImpl.Choice.Unsorted=Non triÃ©
 
-BaseSeriesDataSheetImpl.Lbl.DataSorting=Tri des &données :
+BaseSeriesDataSheetImpl.Lbl.DataSorting=Tri des &donnÃ©es :
 
-BaseSeriesDataSheetImpl.Lbl.YSeriesCount=Nombre de série Y :
+BaseSeriesDataSheetImpl.Lbl.YSeriesCount=Nombre de sÃ©rie Y :
 
 BaseSeriesAttributeSheetImpl.Lbl.Palette=Palette
 
-BaseAxisDataSheetImpl.Exception.IllegalArgument=Argument non valide pour la feuille d'attribut d'axe... Le graphique doit être de type ChartWithAxes
+BaseAxisDataSheetImpl.Exception.IllegalArgument=Argument non valide pour la feuille d'attribut d'axe... Le graphique doit Ãªtre de type ChartWithAxes
 
-BaseSeriesAttributeSheetImpl.Lbl.SeriesType=Type de séries :
+BaseSeriesAttributeSheetImpl.Lbl.SeriesType=Type de sÃ©ries :
 
-BaseSeriesAttributeSheetImpl.Title.SheetTitle=Attributs > Série X - Personnaliser les attributs de la série de catégorie (X)
+BaseSeriesAttributeSheetImpl.Title.SheetTitle=Attributs > SÃ©rie X - Personnaliser les attributs de la sÃ©rie de catÃ©gorie (X)
 
-BaseSeriesDataSheetImpl.Lbl.DataDefinitions=Définitions de données
+BaseSeriesDataSheetImpl.Lbl.DataDefinitions=DÃ©finitions de donnÃ©es
 
-BaseSeriesDataSheetImpl.Lbl.OrthogonalSeriesDefinitions=Définitions de séries de valeurs
+BaseSeriesDataSheetImpl.Lbl.OrthogonalSeriesDefinitions=DÃ©finitions de sÃ©ries de valeurs
 
-BaseSeriesDataSheetImpl.Lbl.OrthogonalSeriesDefinition=Définition de série de valeurs
+BaseSeriesDataSheetImpl.Lbl.OrthogonalSeriesDefinition=DÃ©finition de sÃ©rie de valeurs
 
-BaseSeriesDataSheetImpl.Title.SheetTitle=Données > Série horizontale de catégories - Définir les données de la série horizontale de catégories
+BaseSeriesDataSheetImpl.Title.SheetTitle=DonnÃ©es > SÃ©rie horizontale de catÃ©gories - DÃ©finir les donnÃ©es de la sÃ©rie horizontale de catÃ©gories
 
 BaseSeriesDataSheetImpl.Lbl.DialSeriesCount=Nombre de cadrans :
 
-BaseSeriesDataSheetImpl.Lbl.DialSeriesDefinitions=Définitions de séries de cadrans
+BaseSeriesDataSheetImpl.Lbl.DialSeriesDefinitions=DÃ©finitions de sÃ©ries de cadrans
 
 DialScaleDialog.Title.DialScale=Echelle du cadran
 
-DialTicksDialog.Title.DialTicks=Repères du cadran
+DialTicksDialog.Title.DialTicks=RepÃ¨res du cadran
 
 OrthogonalAxisAttributeSheetImpl.Lbl.HideAxisLine=Masquer la ligne d'axe
 
@@ -240,7 +240,7 @@ OrthogonalAxisAttributeSheetImpl.Lbl.MinorGrid=Grille secondaire
 
 OrthogonalAxisAttributeSheetImpl.Lbl.AxisLineColor=Couleur de la ligne de l'axe :
 
-OrthogonalAxisAttributeSheetImpl.Exception.IllegalArgument=Argument non valide pour la feuille d'attribut d'axe... Le graphique doit être de type ChartWithAxes
+OrthogonalAxisAttributeSheetImpl.Exception.IllegalArgument=Argument non valide pour la feuille d'attribut d'axe... Le graphique doit Ãªtre de type ChartWithAxes
 
 OrthogonalAxisAttributeSheetImpl.Title.SheetTitle=Attributs > Axe vertical - Personnaliser les attributs de l'axe vertical
 
@@ -262,29 +262,29 @@ OrthogonalAxisDataSheetImpl.Lbl.Maximum=Max :
 
 OrthogonalAxisDataSheetImpl.Lbl.Step=Escalier :
 
-OrthogonalAxisDataSheetImpl.Lbl.Unit=Unité :
+OrthogonalAxisDataSheetImpl.Lbl.Unit=UnitÃ© :
 
-OrthogonalAxisDataSheetImpl.Lbl.MinorGridCount=Nombre de grilles secondaires par unité :
+OrthogonalAxisDataSheetImpl.Lbl.MinorGridCount=Nombre de grilles secondaires par unitÃ© :
 
-OrthogonalAxisDataSheetImpl.Lbl.SeriesDefinitionCount=Nombre de définitions de série :
+OrthogonalAxisDataSheetImpl.Lbl.SeriesDefinitionCount=Nombre de dÃ©finitions de sÃ©rie :
 
-OrthogonalAxisDataSheetImpl.Lbl.SeriesGroupingKey=Clé de groupe de séries (facultatif)
+OrthogonalAxisDataSheetImpl.Lbl.SeriesGroupingKey=ClÃ© de groupe de sÃ©ries (facultatif)
 
 OrthogonalAxisDataSheetImpl.Lbl.OrthogonalAxis=Axe de valeurs
 
-OrthogonalAxisDataSheetImpl.Exception.IllegalArgument=Argument non valide pour la feuille d'attribut d'axe... Le graphique doit être de type ChartWithAxes
+OrthogonalAxisDataSheetImpl.Exception.IllegalArgument=Argument non valide pour la feuille d'attribut d'axe... Le graphique doit Ãªtre de type ChartWithAxes
 
-OrthogonalAxisDataSheetImpl.Title.SheetTitle=Données > Axe vertical - Définir les données de l'axe vertical
+OrthogonalAxisDataSheetImpl.Title.SheetTitle=DonnÃ©es > Axe vertical - DÃ©finir les donnÃ©es de l'axe vertical
 
 OrthogonalAxisLabelAttributeSheetImpl.Lbl.Label=Etiquette
 
 OrthogonalAxisLabelAttributeSheetImpl.Lbl.Title=Titre
 
-OrthogonalAxisLabelAttributeSheetImpl.Lbl.ShowLabelsStaggered=Afficher les étiquettes de façon échelonnée
+OrthogonalAxisLabelAttributeSheetImpl.Lbl.ShowLabelsStaggered=Afficher les Ã©tiquettes de faÃ§on Ã©chelonnÃ©e
 
-OrthogonalAxisLabelAttributeSheetImpl.Title.SheetTitle=Attributs > Axe vertical > Etiquettes - Personnaliser les étiquettes de l'axe vertical
+OrthogonalAxisLabelAttributeSheetImpl.Title.SheetTitle=Attributs > Axe vertical > Etiquettes - Personnaliser les Ã©tiquettes de l'axe vertical
 
-OrthogonalAxisLabelAttributeSheetImpl.Exception.IllegalArgument=Argument non valide pour la feuille d'attribut d'étiquette d'axe... Le graphique doit être de type ChartWithAxes
+OrthogonalAxisLabelAttributeSheetImpl.Exception.IllegalArgument=Argument non valide pour la feuille d'attribut d'Ã©tiquette d'axe... Le graphique doit Ãªtre de type ChartWithAxes
 
 OrthogonalAxisMarkerAttributeSheetImpl.Lbl.Values=Valeur :
 
@@ -298,9 +298,9 @@ OrthogonalAxisMarkerAttributeSheetImpl.Lbl.EndValue=Valeur de fin :
 
 OrthogonalAxisMarkerAttributeSheetImpl.Lbl.ForAxis=\ pour axe {0}
 
-OrthogonalAxisMarkerAttributeSheetImpl.Lbl.RemoveEntry=Retirer une entrée
+OrthogonalAxisMarkerAttributeSheetImpl.Lbl.RemoveEntry=Retirer une entrÃ©e
 
-OrthogonalAxisMarkerAttributeSheetImpl.Lbl.StartValue=Valeur de début :
+OrthogonalAxisMarkerAttributeSheetImpl.Lbl.StartValue=Valeur de dÃ©but :
 
 OrthogonalAxisMarkerAttributeSheetImpl.Lbl.RangeOutline=Contour de la gamme
 
@@ -308,13 +308,13 @@ OrthogonalAxisMarkerAttributeSheetImpl.Lbl.MarkerLine=MarkerLine {0,number,integ
 OrthogonalAxisMarkerAttributeSheetImpl.Lbl.MarkerRange=MarkerRange 
 OrthogonalAxisMarkerAttributeSheetImpl.Lbl.Fill=Remplissage :
 
-OrthogonalAxisMarkerAttributeSheetImpl.Lbl.MarkerProperties=Propriétés de repères
+OrthogonalAxisMarkerAttributeSheetImpl.Lbl.MarkerProperties=PropriÃ©tÃ©s de repÃ¨res
 
-OrthogonalAxisMarkerAttributeSheetImpl.Lbl.MarkerLineAttributes=Attributs de lignes de repères
+OrthogonalAxisMarkerAttributeSheetImpl.Lbl.MarkerLineAttributes=Attributs de lignes de repÃ¨res
 
-OrthogonalAxisMarkerAttributeSheetImpl.Lbl.MarkerLabelProperties=Propriétés de l'étiquette du repère
+OrthogonalAxisMarkerAttributeSheetImpl.Lbl.MarkerLabelProperties=PropriÃ©tÃ©s de l'Ã©tiquette du repÃ¨re
 
-OrthogonalAxisMarkerAttributeSheetImpl.Exception.IllegalArgument=Argument non valide pour la feuille d'attribut de repère d'axe... Le graphique doit être de type ChartWithAxes
+OrthogonalAxisMarkerAttributeSheetImpl.Exception.IllegalArgument=Argument non valide pour la feuille d'attribut de repÃ¨re d'axe... Le graphique doit Ãªtre de type ChartWithAxes
 
 OrthogonalSeriesAttributeSheetImpl.Lbl.Remove=&Supprimer
 
@@ -324,33 +324,33 @@ OrthogonalSeriesAttributeSheetImpl.Lbl.Up=Vers le ha&ut
 
 OrthogonalSeriesAttributeSheetImpl.Lbl.Down=&Vers le bas
 
-OrthogonalSeriesAttributeSheetImpl.Lbl.Prefix=Pré&fixe :
+OrthogonalSeriesAttributeSheetImpl.Lbl.Prefix=PrÃ©&fixe :
 
 OrthogonalSeriesAttributeSheetImpl.Lbl.Suffix=Suffi&xe :
 
-OrthogonalSeriesAttributeSheetImpl.Lbl.SeriesType=Type de séries :
+OrthogonalSeriesAttributeSheetImpl.Lbl.SeriesType=Type de sÃ©ries :
 
-OrthogonalSeriesAttributeSheetImpl.Lbl.HideSeries=Masquer séries
+OrthogonalSeriesAttributeSheetImpl.Lbl.HideSeries=Masquer sÃ©ries
 
 OrthogonalSeriesAttributeSheetImpl.Lbl.Palette=Palette
 
-OrthogonalSeriesAttributeSheetImpl.Lbl.DataPoint=Point de données
+OrthogonalSeriesAttributeSheetImpl.Lbl.DataPoint=Point de donnÃ©es
 
-OrthogonalSeriesAttributeSheetImpl.Lbl.Separator=Séparat&eur :
+OrthogonalSeriesAttributeSheetImpl.Lbl.Separator=SÃ©parat&eur :
 
-OrthogonalSeriesAttributeSheetImpl.Lbl.SeriesDetails=Détails de séries
+OrthogonalSeriesAttributeSheetImpl.Lbl.SeriesDetails=DÃ©tails de sÃ©ries
 
 OrthogonalSeriesAttributeSheetImpl.Lbl.SeriesDataPoint=Series DataPoint
 
-OrthogonalSeriesAttributeSheetImpl.Lbl.SeriesDataPointComponent=Composant de DataPoint de série - {0}
+OrthogonalSeriesAttributeSheetImpl.Lbl.SeriesDataPointComponent=Composant de DataPoint de sÃ©rie - {0}
 
-OrthogonalSeriesAttributeSheetImpl.Lbl.StackSeriesElements=Eléments de série empilés
+OrthogonalSeriesAttributeSheetImpl.Lbl.StackSeriesElements=ElÃ©ments de sÃ©rie empilÃ©s
 
-OrthogonalSeriesAttributeSheetImpl.Title.SheetTitle=Attributs > Série verticale - Personnaliser les attributs de la série verticale de valeurs
+OrthogonalSeriesAttributeSheetImpl.Title.SheetTitle=Attributs > SÃ©rie verticale - Personnaliser les attributs de la sÃ©rie verticale de valeurs
 
-OrthogonalSeriesDataSheetImpl.Lbl.Triggers=Interactivité...
+OrthogonalSeriesDataSheetImpl.Lbl.Triggers=InteractivitÃ©...
 
-OrthogonalSeriesDataSheetImpl.Lbl.DataDefinitions=Définitions de données
+OrthogonalSeriesDataSheetImpl.Lbl.DataDefinitions=DÃ©finitions de donnÃ©es
 
 OrthogonalSeriesDataSheetImpl.Lbl.Scale=Echelle
 
@@ -360,61 +360,61 @@ OrthogonalSeriesDataSheetImpl.Lbl.Maximum=Ma&x :
 
 OrthogonalSeriesDataSheetImpl.Lbl.Step=&Escalier :
 
-OrthogonalSeriesDataSheetImpl.Lbl.Unit=Unité :
+OrthogonalSeriesDataSheetImpl.Lbl.Unit=UnitÃ© :
 
-OrthogonalSeriesDataSheetImpl.Lbl.MinorGridCount=Nombre de grilles secondaires par &unité :
+OrthogonalSeriesDataSheetImpl.Lbl.MinorGridCount=Nombre de grilles secondaires par &unitÃ© :
 
 OrthogonalSeriesDataSheetImpl.Lbl.MajorGrid=Grille principale
 
 OrthogonalSeriesDataSheetImpl.Lbl.MinorGrid=Grille secondaire
 
-OrthogonalSeriesDataSheetImpl.Title.SheetTitle=Données > Série verticale de valeurs - Définir les données de la série verticale de valeurs
+OrthogonalSeriesDataSheetImpl.Title.SheetTitle=DonnÃ©es > SÃ©rie verticale de valeurs - DÃ©finir les donnÃ©es de la sÃ©rie verticale de valeurs
 
 OrthogonalSeriesLabelAttributeSheetImpl.Lbl.Label=Etiquette
 
 OrthogonalSeriesLabelAttributeSheetImpl.Lbl.Title=Titre
 
-OrthogonalSeriesLabelAttributeSheetImpl.Title.SheetTitle=Attributs > Série verticale > Etiquettes - Personnaliser les étiquettes de la série verticale de valeurs
+OrthogonalSeriesLabelAttributeSheetImpl.Title.SheetTitle=Attributs > SÃ©rie verticale > Etiquettes - Personnaliser les Ã©tiquettes de la sÃ©rie verticale de valeurs
 
-AreaChart.Txt.PercentStackedDescription=Les graphiques en aires empilées à pourcentage affichent des aires empilées les unes sur les autres de telle manière \nque la hauteur totale des aires (du point le plus bas au point le plus haut dans chaque unité) représente 100.
+AreaChart.Txt.PercentStackedDescription=Les graphiques en aires empilÃ©es Ã  pourcentage affichent des aires empilÃ©es les unes sur les autres de telle maniÃ¨re \nque la hauteur totale des aires (du point le plus bas au point le plus haut dans chaque unitÃ©) reprÃ©sente 100.
 
-AreaChart.Txt.StackedDescription=Les graphiques en aires empilées affichent des aires les unes sur les autres. \nLes valeurs positives et négatives sont empilées séparément au-dessus et au-dessous de l'origine.
+AreaChart.Txt.StackedDescription=Les graphiques en aires empilÃ©es affichent des aires les unes sur les autres. \nLes valeurs positives et nÃ©gatives sont empilÃ©es sÃ©parÃ©ment au-dessus et au-dessous de l'origine.
 
-AreaChart.Txt.OverlayDescription=Les graphiques en aires superposées affichent les aires de chaque série indépendamment des autres. \nLes aires regroupent les valeurs pour la série.
+AreaChart.Txt.OverlayDescription=Les graphiques en aires superposÃ©es affichent les aires de chaque sÃ©rie indÃ©pendamment des autres. \nLes aires regroupent les valeurs pour la sÃ©rie.
 
-AreaChart.Txt.HelpText=Une aire représente chaque série en cours de rendu. Vous pouvez utiliser des repères facultatifs pour mettre en surbrillance les points pour lesquels les données sont tracées. Les aires empilées affichent chaque point de catégorie par rapport à l'emplacement du point de données de série de la ligne inférieure. Les aires de pourcentage empilées affichent chaque valeur de donnée sous la forme d'un pourcentage du total de la catégorie.
+AreaChart.Txt.HelpText=Une aire reprÃ©sente chaque sÃ©rie en cours de rendu. Vous pouvez utiliser des repÃ¨res facultatifs pour mettre en surbrillance les points pour lesquels les donnÃ©es sont tracÃ©es. Les aires empilÃ©es affichent chaque point de catÃ©gorie par rapport Ã  l'emplacement du point de donnÃ©es de sÃ©rie de la ligne infÃ©rieure. Les aires de pourcentage empilÃ©es affichent chaque valeur de donnÃ©e sous la forme d'un pourcentage du total de la catÃ©gorie.
 
 AreaChart.Txt.DefaultAreaChartTitle=Zone du titre du graphique
 
 AreaChart.Txt.DisplayName=Zone
 
-AreaChart.SubType.Stacked=Empilé
+AreaChart.SubType.Stacked=EmpilÃ©
 
-AreaChart.SubType.PercentStacked=Empilé à pourcentage
+AreaChart.SubType.PercentStacked=EmpilÃ© Ã  pourcentage
 
 AreaChart.SubType.Overlay=Superposition
 
-AreaSeriesUIProvider.Lbl.SeriesDefinition=Définition de la série
+AreaSeriesUIProvider.Lbl.SeriesDefinition=DÃ©finition de la sÃ©rie
 
-MeterChart.Txt.DefaultMeterChartTitle=Titre de graphique à cadrans
+MeterChart.Txt.DefaultMeterChartTitle=Titre de graphique Ã  cadrans
 
 MeterChart.Txt.DisplayName=Valeur
 
-MeterChart.SubType.Standard=Graphique à cadrans standard
+MeterChart.SubType.Standard=Graphique Ã  cadrans standard
 
-MeterChart.SubType.Superimposed=Graphique à cadrans superposé
+MeterChart.SubType.Superimposed=Graphique Ã  cadrans superposÃ©
 
-MeterChart.Tooltip.InputExpression=Entrer une expression affichée comme texte de légende pour chaque élément
+MeterChart.Tooltip.InputExpression=Entrer une expression affichÃ©e comme texte de lÃ©gende pour chaque Ã©lÃ©ment
 
-MeterChart.Txt.HelpText=Les graphiques à cadrans indiquent la valeur de données actuelle d'une mesure spécifique. Les zones de différentes couleurs représentent les plages de valeurs de mesure. Une aiguille est associée à chaque cadran et en indique la valeur.
+MeterChart.Txt.HelpText=Les graphiques Ã  cadrans indiquent la valeur de donnÃ©es actuelle d'une mesure spÃ©cifique. Les zones de diffÃ©rentes couleurs reprÃ©sentent les plages de valeurs de mesure. Une aiguille est associÃ©e Ã  chaque cadran et en indique la valeur.
 
-MeterChart.Txt.Description=Les graphiques à cadrans standard contiennent un seul cadran par zone(s). \nL'arrière-plan du cadran peut être divisé en zones de différentes couleurs.
+MeterChart.Txt.Description=Les graphiques Ã  cadrans standard contiennent un seul cadran par zone(s). \nL'arriÃ¨re-plan du cadran peut Ãªtre divisÃ© en zones de diffÃ©rentes couleurs.
 
-MeterChart.Txt.SuperimposedDescription=Les graphiques à cadrans superposés contiennent plusieurs cadrans avec des zones identiques. \nLes cadrans se chevauchent afin que plusieurs aiguilles apparaissent dans une même zone.
+MeterChart.Txt.SuperimposedDescription=Les graphiques Ã  cadrans superposÃ©s contiennent plusieurs cadrans avec des zones identiques. \nLes cadrans se chevauchent afin que plusieurs aiguilles apparaissent dans une mÃªme zone.
 
 MeterSeriesAttributeComposite.Lbl.Radius=Ray&on :
 
-MeterSeriesAttributeComposite.Lbl.StartAngle=An&gle de départ :
+MeterSeriesAttributeComposite.Lbl.StartAngle=An&gle de dÃ©part :
 
 MeterSeriesAttributeComposite.Lbl.StopAngle=Angl&e de fin :
 
@@ -422,31 +422,31 @@ MeterSeriesAttributeSheetImpl.Lbl.Type=Type :
 
 MeterSeriesAttributeSheetImpl.Lbl.Fill=Rempl&issage :
 
-MeterSeriesAttributeComposite.Lbl.DialTicks=&Repères
+MeterSeriesAttributeComposite.Lbl.DialTicks=&RepÃ¨res
 
 MeterSeriesAttributeComposite.Lbl.DialScale=E&chelle
 
-BarSeriesAttributeComposite.Exception.IllegalArgument=La série de type {0} est un argument non valide pour BarSeriesAttributeComposite.
+BarSeriesAttributeComposite.Exception.IllegalArgument=La sÃ©rie de type {0} est un argument non valide pour BarSeriesAttributeComposite.
 
-BarSeriesUIProvider.Lbl.SeriesDefinition=Définition de la série
+BarSeriesUIProvider.Lbl.SeriesDefinition=DÃ©finition de la sÃ©rie
 
-BarSeriesAttributeComposite.Lbl.SeriesOutline=C&ontour de la série :
+BarSeriesAttributeComposite.Lbl.SeriesOutline=C&ontour de la sÃ©rie :
 
-BarBottomAreaComponent.Label.CategoryXSeries=Série horizontale de &catégories :
+BarBottomAreaComponent.Label.CategoryXSeries=SÃ©rie horizontale de &catÃ©gories :
 
-StockSeriesAttributeComposite.Exception.IllegalArgument=La série de type {0} est un argument non valide pour StockSeriesAttributeComposite.
+StockSeriesAttributeComposite.Exception.IllegalArgument=La sÃ©rie de type {0} est un argument non valide pour StockSeriesAttributeComposite.
 
-StockSeriesDataDefinitionComposite.Lbl.StockSeriesDefinition=Définitions de séries d'actions
+StockSeriesDataDefinitionComposite.Lbl.StockSeriesDefinition=DÃ©finitions de sÃ©ries d'actions
 
 StockSeriesAttributeComposite.Lbl.CandleFill=Remplissage bougie :
 
-StockSeriesAttributeComposite.Lbl.StickLength=Longueur du bâton :
+StockSeriesAttributeComposite.Lbl.StickLength=Longueur du bÃ¢ton :
 
 StockSeriesAttributeComposite.Lbl.Line=Ligne
 
-StockSeriesDataDefinitionComposite.Lbl.High=Elevé :
+StockSeriesDataDefinitionComposite.Lbl.High=ElevÃ© :
 
-StockSeriesDataDefinitionComposite.Lbl.HighValue=\ - Valeur élevée :
+StockSeriesDataDefinitionComposite.Lbl.HighValue=\ - Valeur Ã©levÃ©e :
 
 StockSeriesDataDefinitionComposite.Lbl.Low=Faible :
 
@@ -456,23 +456,23 @@ StockSeriesDataDefinitionComposite.Lbl.Open=Ouverte :
 
 StockSeriesDataDefinitionComposite.Lbl.OpenValue=\ - Valeur ouverte :
 
-StockSeriesDataDefinitionComposite.Lbl.Close=Fermée :
+StockSeriesDataDefinitionComposite.Lbl.Close=FermÃ©e :
 
-StockSeriesDataDefinitionComposite.Lbl.CloseValue=\ - Valeur fermée :
+StockSeriesDataDefinitionComposite.Lbl.CloseValue=\ - Valeur fermÃ©e :
 
 StockChart.Txt.DefaultStockChartTitle=Titre de graphique d'actions
 
 StockChart.Txt.DisplayName=Action
 
-StockChart.Txt.BarStickDescription=Un graphique boursier à barres se présente sous la forme d'une ligne verticale et de deux lignes horizontales associées. \nLes points supérieurs et inférieurs de la ligne verticale correspondent aux valeurs d'ouverture et de fermeture. \nLes deux lignes horizontales correspondent à la valeur la plus élevée et la plus basse.
+StockChart.Txt.BarStickDescription=Un graphique boursier Ã  barres se prÃ©sente sous la forme d'une ligne verticale et de deux lignes horizontales associÃ©es. \nLes points supÃ©rieurs et infÃ©rieurs de la ligne verticale correspondent aux valeurs d'ouverture et de fermeture. \nLes deux lignes horizontales correspondent Ã  la valeur la plus Ã©levÃ©e et la plus basse.
 
-StockChart.Txt.CandleStickDescription=Un graphique boursier en chandelier se présente sous la forme d'un cadre dont les côtés sont joints par des courbes. \nLes coins supérieurs et inférieurs du cadre correspondent aux valeurs d'ouverture et de fermeture. \nLes points supérieur et inférieur de la ligne correspondent à la valeur la plus élevée et la plus basse.
+StockChart.Txt.CandleStickDescription=Un graphique boursier en chandelier se prÃ©sente sous la forme d'un cadre dont les cÃ´tÃ©s sont joints par des courbes. \nLes coins supÃ©rieurs et infÃ©rieurs du cadre correspondent aux valeurs d'ouverture et de fermeture. \nLes points supÃ©rieur et infÃ©rieur de la ligne correspondent Ã  la valeur la plus Ã©levÃ©e et la plus basse.
 
-StockChart.Txt.HelpText=Les graphiques boursiers présentent des éléments graphiques où chaque élément représente une session de transactions unique. L'extrémité supérieure de la ligne indique la valeur la plus élevée de la session. L'extrémité inférieure de la ligne indique la valeur la plus basse de la session. Une barre connecte les valeurs d'ouverture et de fermeture.
+StockChart.Txt.HelpText=Les graphiques boursiers prÃ©sentent des Ã©lÃ©ments graphiques oÃ¹ chaque Ã©lÃ©ment reprÃ©sente une session de transactions unique. L'extrÃ©mitÃ© supÃ©rieure de la ligne indique la valeur la plus Ã©levÃ©e de la session. L'extrÃ©mitÃ© infÃ©rieure de la ligne indique la valeur la plus basse de la session. Une barre connecte les valeurs d'ouverture et de fermeture.
 
 StockChart.SubType.CandleStick=Graphique boursier en chandelier
 
-StockChart.SubType.BarStick=Graphique boursier à barres
+StockChart.SubType.BarStick=Graphique boursier Ã  barres
 
 LineAttributesComposite.Lbl.Style=Style :
 
@@ -482,13 +482,13 @@ LineAttributesComposite.Lbl.Color=Couleur :
 
 LineAttributesComposite.Lbl.IsVisible=Visible
 
-LineSeriesUIProvider.Lbl.SeriesDefinition=Définition de la série
+LineSeriesUIProvider.Lbl.SeriesDefinition=DÃ©finition de la sÃ©rie
 
 LineSeriesAttributeComposite.Lbl.ShadowColor=O&mbre :
 
-LineSeriesAttributeComposite.Lbl.Marker=Repère
+LineSeriesAttributeComposite.Lbl.Marker=RepÃ¨re
 
-LineChart.Txt.PercentStackedDescription=Les graphiques de lignes empilées à pourcentage affichent des lignes empilées les unes sur les autres de telle manière \nque la hauteur totale des lignes (du point le plus bas au point le plus haut dans chaque unité) représente 100.
+LineChart.Txt.PercentStackedDescription=Les graphiques de lignes empilÃ©es Ã  pourcentage affichent des lignes empilÃ©es les unes sur les autres de telle maniÃ¨re \nque la hauteur totale des lignes (du point le plus bas au point le plus haut dans chaque unitÃ©) reprÃ©sente 100.
 
 LineSeriesAttributeComposite.Lbl.IsVisible=&Visible
 
@@ -498,41 +498,41 @@ LineSeriesAttributeComposite.Lbl.Size=&Format :
 
 LineSeriesAttributeComposite.Lbl.Line=Ligne
 
-LineSeriesMarkerSheet.Label.Markers=Repères
+LineSeriesMarkerSheet.Label.Markers=RepÃ¨res
 
 LineSeriesMarkerSheet.Label.Add=&Ajouter
 
 LineSeriesMarkerSheet.Label.Remove=&Supprimer
 
-LineSeriesAttributeComposite.Lbl.LinePalette=Utiliser la &palette de séries pour la couleur de trait
+LineSeriesAttributeComposite.Lbl.LinePalette=Utiliser la &palette de sÃ©ries pour la couleur de trait
 
-LineChart.Txt.DefaultLineChartTitle=Titre de graphique à ligne
+LineChart.Txt.DefaultLineChartTitle=Titre de graphique Ã  ligne
 
 LineSeriesAttributeComposite.Lbl.ConnectMissingValue=C&onnecter les valeurs manquantes
 
 LineChart.Txt.DisplayName=Ligne
 
-LineChart.SubType.Stacked=Empilé
+LineChart.SubType.Stacked=EmpilÃ©
 
-LineChart.SubType.PercentStacked=Empilé à pourcentage
+LineChart.SubType.PercentStacked=EmpilÃ© Ã  pourcentage
 
 LineChart.SubType.Overlay=Superposition
 
-LineChart.Txt.StackedDescription=Les graphiques de lignes empilées affichent des lignes les unes sur les autres. \nLes valeurs positives et négatives sont empilées séparément au-dessus et au-dessous de l'origine.
+LineChart.Txt.StackedDescription=Les graphiques de lignes empilÃ©es affichent des lignes les unes sur les autres. \nLes valeurs positives et nÃ©gatives sont empilÃ©es sÃ©parÃ©ment au-dessus et au-dessous de l'origine.
 
-LineChart.Txt.OverlayDescription=Les graphiques à lignes superposées affichent les lignes de chaque série indépendamment des autres. \nLes lignes regroupent les valeurs pour la série.
+LineChart.Txt.OverlayDescription=Les graphiques Ã  lignes superposÃ©es affichent les lignes de chaque sÃ©rie indÃ©pendamment des autres. \nLes lignes regroupent les valeurs pour la sÃ©rie.
 
-LineSeriesAttributeComposite.Exception.IllegalArgument=La série de type {0} est un argument non valide pour LineSeriesAttributeComposite.
+LineSeriesAttributeComposite.Exception.IllegalArgument=La sÃ©rie de type {0} est un argument non valide pour LineSeriesAttributeComposite.
 
 LineSeriesAttributeComposite.Lbl.ShowLinesAsCurves=A&fficher les lignes sous la forme de courbes
 
-LineChart.Txt.HelpText=Une ligne représente chaque série en cours de rendu. Vous pouvez utiliser des repères facultatifs pour mettre en surbrillance les points pour lesquels les données sont tracées. Les lignes empilées affichent chaque point de catégorie par rapport à l'emplacement du point de données de série de la ligne inférieure. Les lignes de pourcentage empilées affichent chaque valeur de donnée sous la forme d'un pourcentage du total de la catégorie.
+LineChart.Txt.HelpText=Une ligne reprÃ©sente chaque sÃ©rie en cours de rendu. Vous pouvez utiliser des repÃ¨res facultatifs pour mettre en surbrillance les points pour lesquels les donnÃ©es sont tracÃ©es. Les lignes empilÃ©es affichent chaque point de catÃ©gorie par rapport Ã  l'emplacement du point de donnÃ©es de sÃ©rie de la ligne infÃ©rieure. Les lignes de pourcentage empilÃ©es affichent chaque valeur de donnÃ©e sous la forme d'un pourcentage du total de la catÃ©gorie.
 
-ScatterChart.Txt.Description=Les graphiques en nuage de points affichent les valeurs disposées sur le tracé en utilisant les données de catégorie et de valeur comme coordonnées. \nChaque valeur de données est indiquée par un repère.
+ScatterChart.Txt.Description=Les graphiques en nuage de points affichent les valeurs disposÃ©es sur le tracÃ© en utilisant les donnÃ©es de catÃ©gorie et de valeur comme coordonnÃ©es. \nChaque valeur de donnÃ©es est indiquÃ©e par un repÃ¨re.
 
-ScatterChart.Txt.HelpText=Les graphiques en nuage de points affichent des valeurs de données espacées au hasard associées à des axes sans rapport avec les catégories. Chaque point de données est associé à l'échelle de l'axe des X et des Y.
+ScatterChart.Txt.HelpText=Les graphiques en nuage de points affichent des valeurs de donnÃ©es espacÃ©es au hasard associÃ©es Ã  des axes sans rapport avec les catÃ©gories. Chaque point de donnÃ©es est associÃ© Ã  l'Ã©chelle de l'axe des X et des Y.
 
-ScatterSeriesUIProvider.Lbl.SeriesDefinition=Définition de la série
+ScatterSeriesUIProvider.Lbl.SeriesDefinition=DÃ©finition de la sÃ©rie
 
 ScatterChart.Txt.DefaultScatterChartTitle=Titre de graphique en nuage de points
 
@@ -540,93 +540,93 @@ ScatterChart.Txt.DisplayName=Nuage de points
 
 ScatterChart.SubType.Standard=Graphique en nuage de points standard
 
-BarChart.Txt.DefaultBarChartTitle=Titre du graphique à barres
+BarChart.Txt.DefaultBarChartTitle=Titre du graphique Ã  barres
 
 BarChart.Txt.DisplayName=Barre
 
-BarChart.SubType.Stacked=Empilé
+BarChart.SubType.Stacked=EmpilÃ©
 
-BarChart.SubType.PercentStacked=Empilé à pourcentage
+BarChart.SubType.PercentStacked=EmpilÃ© Ã  pourcentage
 
-BarChart.SubType.Side=Côte à côte
+BarChart.SubType.Side=CÃ´te Ã  cÃ´te
 
-BarChart.Txt.StackedDescription=Les graphiques à barres empilées affichent des barres les unes sur les autres. \nLes valeurs positives et négatives sont empilées séparément au-dessus et au-dessous de l'origine.
+BarChart.Txt.StackedDescription=Les graphiques Ã  barres empilÃ©es affichent des barres les unes sur les autres. \nLes valeurs positives et nÃ©gatives sont empilÃ©es sÃ©parÃ©ment au-dessus et au-dessous de l'origine.
 
-BarChart.Txt.PercentStackedDescription=Les graphiques à barres empilées à pourcentage affichent les barres empilées les unes sur les autres, de sorte \nque la hauteur totale des barres empilées (du point le plus bas au point le plus haut) atteigne 100.
+BarChart.Txt.PercentStackedDescription=Les graphiques Ã  barres empilÃ©es Ã  pourcentage affichent les barres empilÃ©es les unes sur les autres, de sorte \nque la hauteur totale des barres empilÃ©es (du point le plus bas au point le plus haut) atteigne 100.
 
-BarChart.Txt.HelpText=Les graphiques à barres sont créés afin de comparer des classes ou groupes de données. Les valeurs de données de séries différentes dans la même catégorie s'affichent les unes à côté des autres dans des colonnes séparées ou les unes sous les autres dans une seule colonne (en fonction du sous-type sélectionné).
+BarChart.Txt.HelpText=Les graphiques Ã  barres sont crÃ©Ã©s afin de comparer des classes ou groupes de donnÃ©es. Les valeurs de donnÃ©es de sÃ©ries diffÃ©rentes dans la mÃªme catÃ©gorie s'affichent les unes Ã  cÃ´tÃ© des autres dans des colonnes sÃ©parÃ©es ou les unes sous les autres dans une seule colonne (en fonction du sous-type sÃ©lectionnÃ©).
 
-BarChart.Txt.SideBySideDescription=Les graphiques à barres côte à côte affichent les barres de chaque série l'une à côté de l'autre. \nCes barres sont arrangées de sorte qu'elles aient la même largeur. \nLa largeur des barres dépend du nombre de séries tracées.
+BarChart.Txt.SideBySideDescription=Les graphiques Ã  barres cÃ´te Ã  cÃ´te affichent les barres de chaque sÃ©rie l'une Ã  cÃ´tÃ© de l'autre. \nCes barres sont arrangÃ©es de sorte qu'elles aient la mÃªme largeur. \nLa largeur des barres dÃ©pend du nombre de sÃ©ries tracÃ©es.
 
-TubeChart.Txt.DefaultTubeChartTitle=Titre du graphique à cylindres
+TubeChart.Txt.DefaultTubeChartTitle=Titre du graphique Ã  cylindres
 
 TubeChart.Txt.DisplayName=Cylindre
 
-TubeChart.SubType.Stacked=Empilé
+TubeChart.SubType.Stacked=EmpilÃ©
 
-TubeChart.SubType.PercentStacked=Empilé à pourcentage
+TubeChart.SubType.PercentStacked=EmpilÃ© Ã  pourcentage
 
-TubeChart.SubType.Side=Côte à côte
+TubeChart.SubType.Side=CÃ´te Ã  cÃ´te
 
-TubeChart.Txt.StackedDescription=Les graphiques à cylindres empilés affichent des cylindres empilés les uns sur les autres. \nLes valeurs positives et négatives sont empilées séparément au-dessus et au-dessous de l'origine.
+TubeChart.Txt.StackedDescription=Les graphiques Ã  cylindres empilÃ©s affichent des cylindres empilÃ©s les uns sur les autres. \nLes valeurs positives et nÃ©gatives sont empilÃ©es sÃ©parÃ©ment au-dessus et au-dessous de l'origine.
 
-TubeChart.Txt.PercentStackedDescription=Les graphiques à cylindres empilés à pourcentage affichent les cylindres empilés les uns sur les autres, de sorte \nque la hauteur totale des cylindres empilés (du point le plus bas au point le plus haut) atteigne 100.
+TubeChart.Txt.PercentStackedDescription=Les graphiques Ã  cylindres empilÃ©s Ã  pourcentage affichent les cylindres empilÃ©s les uns sur les autres, de sorte \nque la hauteur totale des cylindres empilÃ©s (du point le plus bas au point le plus haut) atteigne 100.
 
-TubeChart.Txt.HelpText=Les graphiques à cylindres sont créés afin de comparer des classes ou groupes de données. Les valeurs de données de séries différentes dans la même catégorie s'affichent les unes à côté des autres dans des colonnes séparées ou les unes sous les autres dans une seule colonne (en fonction du sous-type sélectionné).
+TubeChart.Txt.HelpText=Les graphiques Ã  cylindres sont crÃ©Ã©s afin de comparer des classes ou groupes de donnÃ©es. Les valeurs de donnÃ©es de sÃ©ries diffÃ©rentes dans la mÃªme catÃ©gorie s'affichent les unes Ã  cÃ´tÃ© des autres dans des colonnes sÃ©parÃ©es ou les unes sous les autres dans une seule colonne (en fonction du sous-type sÃ©lectionnÃ©).
 
-TubeChart.Txt.SideBySideDescription=Les graphiques à cylindres côte à côte affichent les cylindres de chaque série l'un à côté de l'autre. \nCes cylindres sont arrangés de sorte qu'ils aient la même largeur. \nLa largeur des cylindres dépend du nombre de séries tracées.
+TubeChart.Txt.SideBySideDescription=Les graphiques Ã  cylindres cÃ´te Ã  cÃ´te affichent les cylindres de chaque sÃ©rie l'un Ã  cÃ´tÃ© de l'autre. \nCes cylindres sont arrangÃ©s de sorte qu'ils aient la mÃªme largeur. \nLa largeur des cylindres dÃ©pend du nombre de sÃ©ries tracÃ©es.
 
-ConeChart.Txt.DefaultConeChartTitle=Titre du graphique à cônes
+ConeChart.Txt.DefaultConeChartTitle=Titre du graphique Ã  cÃ´nes
 
-ConeChart.Txt.DisplayName=Cône
+ConeChart.Txt.DisplayName=CÃ´ne
 
-ConeChart.SubType.Stacked=Empilé
+ConeChart.SubType.Stacked=EmpilÃ©
 
-ConeChart.SubType.PercentStacked=Empilé à pourcentage
+ConeChart.SubType.PercentStacked=EmpilÃ© Ã  pourcentage
 
-ConeChart.SubType.Side=Côte à côte
+ConeChart.SubType.Side=CÃ´te Ã  cÃ´te
 
-ConeChart.Txt.StackedDescription=Les graphiques à cônes empilés affichent des cônes empilés les uns sur les autres. \nLes valeurs positives et négatives sont empilées séparément au-dessus et au-dessous de l'origine.
+ConeChart.Txt.StackedDescription=Les graphiques Ã  cÃ´nes empilÃ©s affichent des cÃ´nes empilÃ©s les uns sur les autres. \nLes valeurs positives et nÃ©gatives sont empilÃ©es sÃ©parÃ©ment au-dessus et au-dessous de l'origine.
 
-ConeChart.Txt.PercentStackedDescription=Les graphiques à cônes empilés à pourcentage affichent les cônes empilés les uns sur les autres, de sorte \nque la hauteur totale des cônes empilés (du point le plus bas au point le plus haut) atteigne 100.
+ConeChart.Txt.PercentStackedDescription=Les graphiques Ã  cÃ´nes empilÃ©s Ã  pourcentage affichent les cÃ´nes empilÃ©s les uns sur les autres, de sorte \nque la hauteur totale des cÃ´nes empilÃ©s (du point le plus bas au point le plus haut) atteigne 100.
 
-ConeChart.Txt.HelpText=Les graphiques à cônes sont créés afin de comparer des classes ou groupes de données. Les valeurs de données de séries différentes dans la même catégorie s'affichent les unes à côté des autres dans des colonnes séparées ou les unes sous les autres dans une seule colonne (en fonction du sous-type sélectionné).
+ConeChart.Txt.HelpText=Les graphiques Ã  cÃ´nes sont crÃ©Ã©s afin de comparer des classes ou groupes de donnÃ©es. Les valeurs de donnÃ©es de sÃ©ries diffÃ©rentes dans la mÃªme catÃ©gorie s'affichent les unes Ã  cÃ´tÃ© des autres dans des colonnes sÃ©parÃ©es ou les unes sous les autres dans une seule colonne (en fonction du sous-type sÃ©lectionnÃ©).
 
-ConeChart.Txt.SideBySideDescription=Les graphiques à cônes côte à côte affichent les cônes de chaque série l'un à côté de l'autre. \nCes cônes sont arrangés de sorte qu'ils aient la même largeur. \nLa largeur des cônes dépend du nombre de séries tracées.
+ConeChart.Txt.SideBySideDescription=Les graphiques Ã  cÃ´nes cÃ´te Ã  cÃ´te affichent les cÃ´nes de chaque sÃ©rie l'un Ã  cÃ´tÃ© de l'autre. \nCes cÃ´nes sont arrangÃ©s de sorte qu'ils aient la mÃªme largeur. \nLa largeur des cÃ´nes dÃ©pend du nombre de sÃ©ries tracÃ©es.
 
-PyramidChart.Txt.DefaultPyramidChartTitle=Titre du graphique à pyramides
+PyramidChart.Txt.DefaultPyramidChartTitle=Titre du graphique Ã  pyramides
 
 PyramidChart.Txt.DisplayName=Pyramide
 
-PyramidChart.SubType.Stacked=Empilée
+PyramidChart.SubType.Stacked=EmpilÃ©e
 
-PyramidChart.SubType.PercentStacked=Empilée à pourcentage
+PyramidChart.SubType.PercentStacked=EmpilÃ©e Ã  pourcentage
 
-PyramidChart.SubType.Side=Côte à côte
+PyramidChart.SubType.Side=CÃ´te Ã  cÃ´te
 
-PyramidChart.Txt.StackedDescription=Les graphiques à pyramides empilées affichent des pyramides empilées les unes sur les autres. \nLes valeurs positives et négatives sont empilées séparément au-dessus et au-dessous de l'origine.
+PyramidChart.Txt.StackedDescription=Les graphiques Ã  pyramides empilÃ©es affichent des pyramides empilÃ©es les unes sur les autres. \nLes valeurs positives et nÃ©gatives sont empilÃ©es sÃ©parÃ©ment au-dessus et au-dessous de l'origine.
 
-PyramidChart.Txt.PercentStackedDescription=Les graphiques à pyramides empilées à pourcentage affichent les pyramides empilées les unes sur les autres, de sorte \nque la hauteur totale des pyramides empilées (du point le plus bas au point le plus haut) atteigne 100.
+PyramidChart.Txt.PercentStackedDescription=Les graphiques Ã  pyramides empilÃ©es Ã  pourcentage affichent les pyramides empilÃ©es les unes sur les autres, de sorte \nque la hauteur totale des pyramides empilÃ©es (du point le plus bas au point le plus haut) atteigne 100.
 
-PyramidChart.Txt.HelpText=Les graphiques à pyramides sont créés afin de comparer des classes ou groupes de données. Les valeurs de données de séries différentes dans la même catégorie s'affichent les unes à côté des autres dans des colonnes séparées ou les unes sous les autres dans une seule colonne (en fonction du sous-type sélectionné).
+PyramidChart.Txt.HelpText=Les graphiques Ã  pyramides sont crÃ©Ã©s afin de comparer des classes ou groupes de donnÃ©es. Les valeurs de donnÃ©es de sÃ©ries diffÃ©rentes dans la mÃªme catÃ©gorie s'affichent les unes Ã  cÃ´tÃ© des autres dans des colonnes sÃ©parÃ©es ou les unes sous les autres dans une seule colonne (en fonction du sous-type sÃ©lectionnÃ©).
 
-PyramidChart.Txt.SideBySideDescription=Les graphiques à pyramides côte à côte affichent les pyramides de chaque série l'une à côté de l'autre. \nCes pyramides sont arrangées de sorte qu'elles aient la même largeur. \nLa largeur des pyramides dépend du nombre de séries tracées.
+PyramidChart.Txt.SideBySideDescription=Les graphiques Ã  pyramides cÃ´te Ã  cÃ´te affichent les pyramides de chaque sÃ©rie l'une Ã  cÃ´tÃ© de l'autre. \nCes pyramides sont arrangÃ©es de sorte qu'elles aient la mÃªme largeur. \nLa largeur des pyramides dÃ©pend du nombre de sÃ©ries tracÃ©es.
 
-PieChart.Txt.DefaultPieChartTitle=Titre de graphique à secteurs
+PieChart.Txt.DefaultPieChartTitle=Titre de graphique Ã  secteurs
 
 PieChart.Txt.DisplayName=Secteur
 
-PieChart.SubType.Standard=Graphique à secteurs standard
+PieChart.SubType.Standard=Graphique Ã  secteurs standard
 
 PieSeriesUIProvider.Lbl.OrthogonalPrefix=Valeur
 
-PieSeriesUIProvider.Lbl.SeriesDefinition=Définition de la série
+PieSeriesUIProvider.Lbl.SeriesDefinition=DÃ©finition de la sÃ©rie
 
 PieBottomAreaComponent.Label.Percentage=Pourcentage
 
 PieSeriesAttributeComposite.Button.Direction=Sens des aiguilles d'une montre
 
-PieSeriesAttributeComposite.Button.Direction.ToolTipText=Indique si les secteurs sont affichés dans le sens des aiguilles d'une montre.
+PieSeriesAttributeComposite.Button.Direction.ToolTipText=Indique si les secteurs sont affichÃ©s dans le sens des aiguilles d'une montre.
 
 PieSeriesAttributeComposite.Button.InnerRadius=Rayon interne :
 
@@ -634,33 +634,33 @@ PieSeriesAttributeComposite.Grp.Slice=Tranche
 
 PieSeriesAttributeComposite.Lbl.SliceOutline=C&ontour de la tranche :
 
-PieSeriesAttributeComposite.Lbl.LeaderLine=Première ligne
+PieSeriesAttributeComposite.Lbl.LeaderLine=PremiÃ¨re ligne
 
-PieSeriesAttributeComposite.Lbl.LeaderLineStyle=Style de l&a première ligne :
+PieSeriesAttributeComposite.Lbl.LeaderLineStyle=Style de l&a premiÃ¨re ligne :
 
-PieSeriesAttributeComposite.Lbl.LeaderLineLength=&Longueur de la première ligne :
+PieSeriesAttributeComposite.Lbl.LeaderLineLength=&Longueur de la premiÃ¨re ligne :
 
-PieBottomAreaComponent.Label.AnySliceWithASize=Les tranches dont la taille est inférieure à l'entrée seront combinées dans une autre catégorie.
+PieBottomAreaComponent.Label.AnySliceWithASize=Les tranches dont la taille est infÃ©rieure Ã  l'entrÃ©e seront combinÃ©es dans une autre catÃ©gorie.
 
 PieBottomAreaComponent.Label.ExplodeSliceWhen=E&clater la tranche quand :
 
 PieBottomAreaComponent.Label.ByDistance=Par &distance :
 
-PieBaseSeriesComponent.Label.CategoryDefinition=Définition de &catégorie :
+PieBaseSeriesComponent.Label.CategoryDefinition=DÃ©finition de &catÃ©gorie :
 
-PieBaseSeriesComponent.Text.SpecifyExplodeSlice=Spécifier l'éclatement de la tranche
+PieBaseSeriesComponent.Text.SpecifyExplodeSlice=SpÃ©cifier l'Ã©clatement de la tranche
 
-PieBaseSeriesComponent.Tooltip.EnterBooleanExpression=Entrez une expression booléenne pour contrôler les tranches à éclater. Si le champ reste vierge, la distance d'éclatement s'appliquera à toutes les tranches.
+PieBaseSeriesComponent.Tooltip.EnterBooleanExpression=Entrez une expression boolÃ©enne pour contrÃ´ler les tranches Ã  Ã©clater. Si le champ reste vierge, la distance d'Ã©clatement s'appliquera Ã  toutes les tranches.
 
-PieLeftAreaComponent.Label.SliceSizeDefinition=Définition de la taille de tranche :
+PieLeftAreaComponent.Label.SliceSizeDefinition=DÃ©finition de la taille de tranche :
 
-PieSeriesAttributeComposite.Exception.IllegalArgument=La série de type {0} est un argument non valide pour PieSeriesAttributeComposite.
+PieSeriesAttributeComposite.Exception.IllegalArgument=La sÃ©rie de type {0} est un argument non valide pour PieSeriesAttributeComposite.
 
 PieSeriesAttributeComposite.InnerRadiusType.Points=Points
 
 PieSeriesAttributeComposite.Lbl.Explosion=Explosion :
 
-PiesBottomAreaComponent.Label.TheRotationOfTheChart=Rotation du secteur : angle de départ du premier secteur
+PiesBottomAreaComponent.Label.TheRotationOfTheChart=Rotation du secteur : angle de dÃ©part du premier secteur
 
 PieBottomAreaComponent.Label.Rotation=Rotatio&n du secteur :
 
@@ -668,7 +668,7 @@ PieBottomAreaComponent.Label.MinimumSlice=&Tranche minimale :
 
 PieBottomAreaComponent.Label.MinSliceLabel=&Etiquette de tranche :
 
-PieSeriesUIProvider.Lbl.BasePrefix=Catégorie
+PieSeriesUIProvider.Lbl.BasePrefix=CatÃ©gorie
 
 PieBottomAreaComponent.Label.Value=Valeur
 
@@ -676,25 +676,25 @@ PieBottomAreaComponent.Label.Ratio=&Proportions du secteur :
 
 PieBottomAreaComponent.Label.TheRatioOfTheChart=Proportions du secteur : rapport hauteur/largeur (0 : ajustement automatique)
 
-PieChart.Txt.Description=Les graphiques à secteurs affichent les valeurs sous la forme de tranches de secteur. \nLa taille de chaque tranche est proportionnelle à la valeur qu'elle représente. \nLes graphiques à secteurs pour séries multiples sont tracés sous la forme de secteurs multiples, un secteur par série.
+PieChart.Txt.Description=Les graphiques Ã  secteurs affichent les valeurs sous la forme de tranches de secteur. \nLa taille de chaque tranche est proportionnelle Ã  la valeur qu'elle reprÃ©sente. \nLes graphiques Ã  secteurs pour sÃ©ries multiples sont tracÃ©s sous la forme de secteurs multiples, un secteur par sÃ©rie.
 
-PieChart.Txt.HelpText=Les graphiques à secteurs affichent des valeurs de données pour une série ou une catégorie sous la forme d'un pourcentage de tranche du secteur entier. Les séries secteur multiples sont représentées dans une grille.
+PieChart.Txt.HelpText=Les graphiques Ã  secteurs affichent des valeurs de donnÃ©es pour une sÃ©rie ou une catÃ©gorie sous la forme d'un pourcentage de tranche du secteur entier. Les sÃ©ries secteur multiples sont reprÃ©sentÃ©es dans une grille.
 
 SeriesUIProvider.Lbl.OrthogonalPrefix=Valeur
 
-SeriesUIProvider.Lbl.SeriesDefinition=Définition de la série
+SeriesUIProvider.Lbl.SeriesDefinition=DÃ©finition de la sÃ©rie
 
-SeriesSheetImpl.Label.CategoryBaseSeries=Série de catégories
+SeriesSheetImpl.Label.CategoryBaseSeries=SÃ©rie de catÃ©gories
 
-SeriesUIProvider.Lbl.BasePrefix=Catégorie
+SeriesUIProvider.Lbl.BasePrefix=CatÃ©gorie
 
 SeriesSheetImpl.Label.Title=Titre
 
 SeriesSheetImpl.Label.Visible=Visible
 
-SeriesSheetImpl.Label.Stacked=Empilé
+SeriesSheetImpl.Label.Stacked=EmpilÃ©
 
-SeriesSheetImpl.Label.Series=Série
+SeriesSheetImpl.Label.Series=SÃ©rie
 
 SeriesYSheetImpl.Label.Needles=Aiguilles
 
@@ -702,9 +702,9 @@ SeriesYSheetImpl.Label.Needles&=&Aiguilles
 
 SeriesYSheetImpl.Label.Region=Zones
 
-SeriesYSheetImpl.Label.Region&=Régi&ons
+SeriesYSheetImpl.Label.Region&=RÃ©gi&ons
 
-SeriesYSheetImpl.Label.Labels=Etiquettes de séries
+SeriesYSheetImpl.Label.Labels=Etiquettes de sÃ©ries
 
 SeriesYSheetImpl.Label.Labels&=Eti&quettes
 
@@ -716,21 +716,21 @@ SeriesYSheetImpl.Label.Titles=Titres
 
 SeriesYSheetImpl.Label.Titles&=&Titres
 
-SeriesYSheetImpl.Label.Markers=Repères de série
+SeriesYSheetImpl.Label.Markers=RepÃ¨res de sÃ©rie
 
-SeriesYSheetImpl.Label.PositiveMarkers=Repères positifs
+SeriesYSheetImpl.Label.PositiveMarkers=RepÃ¨res positifs
 
-SeriesYSheetImpl.Label.NegativeMarkers=Repères négatifs
+SeriesYSheetImpl.Label.NegativeMarkers=RepÃ¨res nÃ©gatifs
 
-SeriesYSheetImpl.Label.Markers&=&Repères
+SeriesYSheetImpl.Label.Markers&=&RepÃ¨res
 
-SeriesYSheetImpl.Label.PositiveMarkers&=Repères &positifs
+SeriesYSheetImpl.Label.PositiveMarkers&=RepÃ¨res &positifs
 
-SeriesYSheetImpl.Label.NegativeMarkers&=Repères &négatifs
+SeriesYSheetImpl.Label.NegativeMarkers&=RepÃ¨res &nÃ©gatifs
 
-SeriesYSheetImpl.Label.Decoration=Tâches
+SeriesYSheetImpl.Label.Decoration=TÃ¢ches
 
-SeriesYSheetImpl.Label.Decoration&=Etiquettes de &tâches
+SeriesYSheetImpl.Label.Decoration&=Etiquettes de &tÃ¢ches
 
 SeriesLabelSheet.Label.Format=Format
 
@@ -738,7 +738,7 @@ SeriesLabelSheet.Label.Values=Valeurs
 
 SeriesGroupingComposite.Lbl.Type=&Type :
 
-SeriesGroupingComposite.Lbl.Unit=&Unité :
+SeriesGroupingComposite.Lbl.Unit=&UnitÃ© :
 
 SeriesYSheetImpl.Label.Trendline=Ligne d'ajustement de courbe
 
@@ -750,17 +750,17 @@ SeriesTrendlineSheet.Label.Label&=&Etiquette :
 
 SeriesGroupingComposite.Lbl.Grouping=Regroupement
 
-SeriesGroupingComposite.Lbl.Enabled=&Activé
+SeriesGroupingComposite.Lbl.Enabled=&ActivÃ©
 
-SeriesSheetImpl.Label.ValueYSeries=Série verticale de valeurs
+SeriesSheetImpl.Label.ValueYSeries=SÃ©rie verticale de valeurs
 
 SeriesSheetImpl.Label.Translucent=Translucide
 
-SeriesSheetImpl.Label.SeriesPalette=Palette de série
+SeriesSheetImpl.Label.SeriesPalette=Palette de sÃ©rie
 
-SeriesSheetImpl.Label.SeriesPalette&=&Palette de séries
+SeriesSheetImpl.Label.SeriesPalette&=&Palette de sÃ©ries
 
-SeriesYSheetImpl.Label.DataPoint=Point de données
+SeriesYSheetImpl.Label.DataPoint=Point de donnÃ©es
 
 SeriesTrendlineSheet.Label.Outline=Contour
 
@@ -768,62 +768,62 @@ SeriesTrendlineSheet.SeriesTrendlineSheet.Lbl.IsVisible=V&isible
 
 SeriesGroupingComposite.Lbl.Interval=&Intervalle :
 
-SeriesYSheetImpl.Label.ShowLabels=Afficher les étiquettes de &séries
+SeriesYSheetImpl.Label.ShowLabels=Afficher les Ã©tiquettes de &sÃ©ries
 
-SeriesYSheetImpl.Label.ShowDialLabels=Afficher les étiquette&s de cadran
+SeriesYSheetImpl.Label.ShowDialLabels=Afficher les Ã©tiquette&s de cadran
 
-SeriesYSheetImpl.Label.ShowDecoLabels=A&fficher les étiquettes de tâches
+SeriesYSheetImpl.Label.ShowDecoLabels=A&fficher les Ã©tiquettes de tÃ¢ches
 
 SeriesYSheetImpl.Label.ShowTrendline=&Afficher la ligne d'ajustement de courbe
 
-SeriesYSheetImpl.Label.Interactivity&=Inte&ractivité
+SeriesYSheetImpl.Label.Interactivity&=Inte&ractivitÃ©
 
-SeriesYSheetImpl.Label.Interactivity=Interactivité de séries
+SeriesYSheetImpl.Label.Interactivity=InteractivitÃ© de sÃ©ries
 
 SeriesGroupingComposite.Lbl.AggregateExpression=&Fonction :
-SeriesGroupingComposite.Tooltip.SelectIntervalForGrouping=Sélectionnez l'intervalle de regroupement. 0 indique un regroupement par X/valeur de catégorie
+SeriesGroupingComposite.Tooltip.SelectIntervalForGrouping=SÃ©lectionnez l'intervalle de regroupement. 0 indique un regroupement par X/valeur de catÃ©gorie
 
 SeriesPaletteSheet.Label.Auto=Au&to
 
 SeriesPaletteSheet.Tab.Axis=Axe
 
-SeriesPaletteSheet.Tab.Series=Série
+SeriesPaletteSheet.Tab.Series=SÃ©rie
 
-SeriesSheetImpl.Label.ValueOrthogonalSeries=Valeur de série
+SeriesSheetImpl.Label.ValueOrthogonalSeries=Valeur de sÃ©rie
 
-TitleBlockAttributeSheetImpl.Lbl.Caption=Légende d'étiquette :
+TitleBlockAttributeSheetImpl.Lbl.Caption=LÃ©gende d'Ã©tiquette :
 
-TitleBlockAttributeSheetImpl.Lbl.BlockProperties=Propriétés du bloc
+TitleBlockAttributeSheetImpl.Lbl.BlockProperties=PropriÃ©tÃ©s du bloc
 
-TitleBlockAttributeSheetImpl.Lbl.IsBlockVisible=Visibilité du bloc
+TitleBlockAttributeSheetImpl.Lbl.IsBlockVisible=VisibilitÃ© du bloc
 
 TitleBlockAttributeSheetImpl.Lbl.Anchor=Ancre :
 
 TitleBlockAttributeSheetImpl.Lbl.Stretch=Adapter :
 
-TitleBlockAttributeSheetImpl.Lbl.Background=Arrière-plan :
+TitleBlockAttributeSheetImpl.Lbl.Background=ArriÃ¨re-plan :
 
 TitleBlockAttributeSheetImpl.Lbl.Insets=En 3D vers l'avant
 
 TitlePropertiesSheet.Label.TitleArea=Zone de titre
 
-TitlePropertiesSheet.Label.Background=&Arrière-plan :
+TitlePropertiesSheet.Label.Background=&ArriÃ¨re-plan :
 
 TitleBlockAttributeSheetImpl.Lbl.Outline=Contour
 
-TitlePropertiesSheet.Label.Interactivity=Interactivité
+TitlePropertiesSheet.Label.Interactivity=InteractivitÃ©
 
-TitleBlockAttributeSheetImpl.Lbl.LabelProperties=Propriétés de l'étiquette
+TitleBlockAttributeSheetImpl.Lbl.LabelProperties=PropriÃ©tÃ©s de l'Ã©tiquette
 
 TitleBlockAttributeSheetImpl.Lbl.ChartTitle=Titre du graphique
 
 TitleBlockAttributeSheetImpl.Title.SheetTitle=Mise en page > Bloc du titre - Formater la zone de titre du graphique
 
-LegendAttributeSheetImpl.Lbl.GeneralProperties=Propriétés générales - Zone entourant les légendes
+LegendAttributeSheetImpl.Lbl.GeneralProperties=PropriÃ©tÃ©s gÃ©nÃ©rales - Zone entourant les lÃ©gendes
 
-LegendAttributeSheetImpl.Lbl.ClientAreaProperties=Propriétés de la zone client - Zone des légendes
+LegendAttributeSheetImpl.Lbl.ClientAreaProperties=PropriÃ©tÃ©s de la zone client - Zone des lÃ©gendes
 
-LegendAttributeSheetImpl.Title.SheetTitle=Mise en page > Légende - Formater la zone de légende
+LegendAttributeSheetImpl.Title.SheetTitle=Mise en page > LÃ©gende - Formater la zone de lÃ©gende
 
 LegendLayoutSheet.Label.TitlePercent=Pourcentage de &titre :
 
@@ -831,37 +831,37 @@ LegendLayoutSheet.Label.MaxPercent=Pourcentage &maximum :
 
 LegendLayoutSheet.Label.WrappingWidth=&Largeur d'habillage :
 
-SampleDataSheetImpl.Lbl.XSeries=Série X
+SampleDataSheetImpl.Lbl.XSeries=SÃ©rie X
 
 SampleDataSheetImpl.Lbl.BaseSampleValues=Exemples de valeurs :\n {0}
 
 SampleDataSheetImpl.Lbl.SampleValues=Exemples de valeurs :
 
-SampleDataSheetImpl.Lbl.YSeries=Série Y
+SampleDataSheetImpl.Lbl.YSeries=SÃ©rie Y
 
-SampleDataSheetImpl.Lbl.SimulateSeriesCount=Simuler nombre de série :
+SampleDataSheetImpl.Lbl.SimulateSeriesCount=Simuler nombre de sÃ©rie :
 
-SampleDataSheetImpl.Lbl.Update=Mettre à jour
+SampleDataSheetImpl.Lbl.Update=Mettre Ã  jour
 
-SampleDataSheetImpl.Title.SheetTitle=Données > Exemple - Définir les exemples de données de prévisualisation
+SampleDataSheetImpl.Title.SheetTitle=DonnÃ©es > Exemple - DÃ©finir les exemples de donnÃ©es de prÃ©visualisation
 
-PlotAttributeSheetImpl.Lbl.GeneralProperties=Propriétés générales - Zone incluant les axes
+PlotAttributeSheetImpl.Lbl.GeneralProperties=PropriÃ©tÃ©s gÃ©nÃ©rales - Zone incluant les axes
 
-PlotAttributeSheetImpl.Lbl.ClientAreaProperties=Propriétés de la zone client - Zone comprise entre les axes
+PlotAttributeSheetImpl.Lbl.ClientAreaProperties=PropriÃ©tÃ©s de la zone client - Zone comprise entre les axes
 
-PlotAttributeSheetImpl.Title.SheetTitle=Mise en page > Tracé - Formater la zone de tracé
+PlotAttributeSheetImpl.Title.SheetTitle=Mise en page > TracÃ© - Formater la zone de tracÃ©
 
-LabelBlockAttributeSheetImpl.Lbl.LabelCaption=Légende d'étiquette :
+LabelBlockAttributeSheetImpl.Lbl.LabelCaption=LÃ©gende d'Ã©tiquette :
 
-LabelBlockAttributeSheetImpl.Lbl.BlockProperties=Propriétés du bloc
+LabelBlockAttributeSheetImpl.Lbl.BlockProperties=PropriÃ©tÃ©s du bloc
 
-LabelBlockAttributeSheetImpl.Lbl.IsBlockVisible=Visibilité du bloc
+LabelBlockAttributeSheetImpl.Lbl.IsBlockVisible=VisibilitÃ© du bloc
 
 LabelBlockAttributeSheetImpl.Lbl.Anchor=Ancre :
 
 LabelBlockAttributeSheetImpl.Lbl.Stretch=Adapter :
 
-LabelBlockAttributeSheetImpl.Lbl.Background=Arrière-plan :
+LabelBlockAttributeSheetImpl.Lbl.Background=ArriÃ¨re-plan :
 
 LabelBlockAttributeSheetImpl.Lbl.Insets=En 3D vers l'avant
 
@@ -871,25 +871,25 @@ LabelAttributesComposite.Lbl.IsVisible2=Visibl&e
 
 LabelAttributesComposite.Lbl.Position=&Position :
 
-LabelAttributesComposite.Lbl.Background=&Arrière-plan :
+LabelAttributesComposite.Lbl.Background=&ArriÃ¨re-plan :
 
 LabelAttributesComposite.Lbl.Outline=Contour
 
 LabelBlockAttributeSheetImpl.Lbl.Outline=Contour
 
-LabelBlockAttributeSheetImpl.Lbl.LabelProperties=Propriétés de l'étiquette
+LabelBlockAttributeSheetImpl.Lbl.LabelProperties=PropriÃ©tÃ©s de l'Ã©tiquette
 
-LabelBlockAttributeSheetImpl.Lbl.LabelBlock=Bloc de l'étiquette
+LabelBlockAttributeSheetImpl.Lbl.LabelBlock=Bloc de l'Ã©tiquette
 
-DataDefinitionComposite.Tooltip.InvokeExpressionBuilder=Appeler le Générateur d'expression
+DataDefinitionComposite.Tooltip.InvokeExpressionBuilder=Appeler le GÃ©nÃ©rateur d'expression
 
 DataDefinitionSelector.Exception.NotSupportedForMultipleAxes=\ n'est pas pris en charge pour plusieurs axes\!
 
-DataDefinitionComposite.Tooltip.InvokeRuleEditor=Appeler l'éditeur de règles
+DataDefinitionComposite.Tooltip.InvokeRuleEditor=Appeler l'Ã©diteur de rÃ¨gles
 
-RuleEditorDialog.Title.RuleEditor=Editeur de règles - {0}
+RuleEditorDialog.Title.RuleEditor=Editeur de rÃ¨gles - {0}
 
-RuleEditorDialog.Lbl.Rules=Règles
+RuleEditorDialog.Lbl.Rules=RÃ¨gles
 
 RuleEditorDialog.Lbl.Type=Type :
 
@@ -899,31 +899,31 @@ RuleEditorDialog.Lbl.Remove=Supprimer
 
 RuleEditorDialog.Lbl.Add=Ajouter
 
-RuleEditorDialog.Lbl.Update=Mettre à jour
+RuleEditorDialog.Lbl.Update=Mettre Ã  jour
 
-RuleEditorDialog.Exception.InvalidRule=ERREUR\! Index de règles non valide transmis.
+RuleEditorDialog.Exception.InvalidRule=ERREUR\! Index de rÃ¨gles non valide transmis.
 
 FillCanvas.Transparent=Transparent
 
 FillCanvas.Auto=Auto
 
-FillChooserComposite.Button.Pattern=Modèle
+FillChooserComposite.Button.Pattern=ModÃ¨le
 
-FillChooserComposite.Lbl.Opacity=Opacité : {0, number, integer}
+FillChooserComposite.Lbl.Opacity=OpacitÃ© : {0, number, integer}
 
-FillChooserComposite.Lbl.Gradient=Dégradé
+FillChooserComposite.Lbl.Gradient=DÃ©gradÃ©
 
 FillChooserComposite.Lbl.Transparent=Transparent
 
-FillChooserComposite.Lbl.CustomColor=Couleur personnalisée
+FillChooserComposite.Lbl.CustomColor=Couleur personnalisÃ©e
 
 FillChooserComposite.Lbl.Image=Image
 
-FillChooserComposite.Lbl.PositiveNegative=Positif/Négatif
+FillChooserComposite.Lbl.PositiveNegative=Positif/NÃ©gatif
 
 FillChooserComposite.Lbl.Auto=Auto
 
-ClientAreaAttributeComposite.Lbl.Background=Arrière-plan :
+ClientAreaAttributeComposite.Lbl.Background=ArriÃ¨re-plan :
 
 ClientAreaAttributeComposite.Lbl.Shadow=O&mbre :
 
@@ -939,27 +939,27 @@ InsetsComposite.Lbl.Bottom=Ba&s :
 
 InsetsComposite.Lbl.Right=&Droite :
 
-InsetsEditorDialog.Title.InsetsEditor=Boîte de dialogue de l'éditeur 3D
+InsetsEditorDialog.Title.InsetsEditor=BoÃ®te de dialogue de l'Ã©diteur 3D
 
-InsetsEditorDialog.Lbl.UnitsMessage=* Toutes les valeurs sont données en {0}
+InsetsEditorDialog.Lbl.UnitsMessage=* Toutes les valeurs sont donnÃ©es en {0}
 
 ExternalizedTextEditorDialog.Title.ExternalizeText=Externaliser le texte
 
 ExternalizedTextEditorDialog.Lbl.ExternalizeText=E&xternaliser le texte
 
-ExternalizedTextEditorComposite.Warn.KeyNotFound=Impossible de trouver la clé dans le fichier de propriétés... ou le fichier de propriétés n'est pas présent.
+ExternalizedTextEditorComposite.Warn.KeyNotFound=Impossible de trouver la clÃ© dans le fichier de propriÃ©tÃ©s... ou le fichier de propriÃ©tÃ©s n'est pas prÃ©sent.
 
-ExternalizedTextEditorComposite.Lbl.EditText=Appeler l'Editeur de texte externalisé
+ExternalizedTextEditorComposite.Lbl.EditText=Appeler l'Editeur de texte externalisÃ©
 
-ExternalizedTextEditorDialog.Lbl.LookupKey=&Clé de recherche :
+ExternalizedTextEditorDialog.Lbl.LookupKey=&ClÃ© de recherche :
 
-ExternalizedTextEditorDialog.Lbl.DefaultValue=&Valeur par défaut :
+ExternalizedTextEditorDialog.Lbl.DefaultValue=&Valeur par dÃ©faut :
 
-ExternalizedTextEditorDialog.Lbl.ExternalizedValue=Valeur externalisée :
+ExternalizedTextEditorDialog.Lbl.ExternalizedValue=Valeur externalisÃ©e :
 
-ExternalizedTextEditorDialog.Warn.KeyNotFound=Impossible de trouver la clé dans le fichier de propriétés... ou le fichier de propriétés n'est pas présent.
+ExternalizedTextEditorDialog.Warn.KeyNotFound=Impossible de trouver la clÃ© dans le fichier de propriÃ©tÃ©s... ou le fichier de propriÃ©tÃ©s n'est pas prÃ©sent.
 
-ExternalizedTextEditorDialog.Lbl.Value=<Valeur de la clé ''{0}''>
+ExternalizedTextEditorDialog.Lbl.Value=<Valeur de la clÃ© ''{0}''>
 
 Format.Button.Label=Format
 
@@ -967,61 +967,61 @@ Format.Button.Lbl&=For&mat
 
 FormatSpecifierComposite.error.Title=Erreur d'indicateur de format
 
-FormatSpecifierComposite.error.Message=Valeur du paramètre de l''indicateur de format incorrecte : "{0}"
+FormatSpecifierComposite.error.Message=Valeur du paramÃ¨tre de l''indicateur de format incorrecte : "{0}"
 
-FormatSpecifierComposite.Label.DenominatorDigits=Chiffres du dénominateur
+FormatSpecifierComposite.Label.DenominatorDigits=Chiffres du dÃ©nominateur
 
-FormatSpecifierComposite.Label.NumeratorValue=Valeur du numérateur
+FormatSpecifierComposite.Label.NumeratorValue=Valeur du numÃ©rateur
 
-FormatSpecifierComposite.Lbl.DataType=Type &de données :
+FormatSpecifierComposite.Lbl.DataType=Type &de donnÃ©es :
 
 FormatSpecifierComposite.Lbl.DateTime=Date/heure
 
 FormatSpecifierComposite.Lbl.Undefined=Aucu&n
 
-FormatSpecifierComposite.Lbl.Numerator=&Valeur du numérateur (1-100) :
+FormatSpecifierComposite.Lbl.Numerator=&Valeur du numÃ©rateur (1-100) :
 
 FormatSpecifierComposite.Lbl.Standard=&Standard
 
-FormatSpecifierComposite.Lbl.String=Chaîne
+FormatSpecifierComposite.Lbl.String=ChaÃ®ne
 
 FormatSpecifierComposite.Lbl.Type=T&ype :
 
 FormatSpecifierComposite.Lbl.None=<Aucun>
 
-FormatSpecifierComposite.Lbl.Details=Dét&ails :
+FormatSpecifierComposite.Lbl.Details=DÃ©t&ails :
 
-FormatSpecifierComposite.Lbl.Delimiter=Délimit&eur :
+FormatSpecifierComposite.Lbl.Delimiter=DÃ©limit&eur :
 
 FormatSpecifierComposite.Lbl.Pattern=&Correspondance :
 
-FormatSpecifierComposite.Lbl.Prefix=&Préfixe :
+FormatSpecifierComposite.Lbl.Prefix=&PrÃ©fixe :
 
-FormatSpecifierComposite.Lbl.Preview=Aperçu :
+FormatSpecifierComposite.Lbl.Preview=AperÃ§u :
 
 FormatSpecifierComposite.Lbl.Approximate=App&roximation :
 
 FormatSpecifierComposite.Lbl.Suffix=Suffi&xe :
 
-FormatSpecifierComposite.Lbl.Number=Numéro
+FormatSpecifierComposite.Lbl.Number=NumÃ©ro
 
-FormatSpecifierPreview.Lbl.NoFormat=Aucun format spécifié.
+FormatSpecifierPreview.Lbl.NoFormat=Aucun format spÃ©cifiÃ©.
 
 FormatSpecifierComposite.Lbl.Multiplier=&Multiplicateur :
 
 FormatSpecifierComposite.Lbl.FractionDigits=Fracti&ons :
 
-FormatSpecifierComposite.Tooltip.InputAPositiveInteger=Veuillez saisir un entier positif comme numérateur fixe
+FormatSpecifierComposite.Tooltip.InputAPositiveInteger=Veuillez saisir un entier positif comme numÃ©rateur fixe
 
-FormatSpecifierComposite.Tooltip.FractionDigits=Propriétés avancées : utilisé pour définir la précision approximative
+FormatSpecifierComposite.Tooltip.FractionDigits=PropriÃ©tÃ©s avancÃ©es : utilisÃ© pour dÃ©finir la prÃ©cision approximative
 
-FormatSpecifierComposite.Lbl.MaxRecursionTimes=Chiffres maximals du dén&ominateur (1-8) :
+FormatSpecifierComposite.Lbl.MaxRecursionTimes=Chiffres maximals du dÃ©n&ominateur (1-8) :
 
 FormatSpecifierComposite.Lbl.Fraction=&Fraction
 
 FormatSpecifierDialog.Title.EditFormat=Modifier le format
 
-FormatSpecifierComposite.Lbl.Advanced=&Avancé
+FormatSpecifierComposite.Lbl.Advanced=&AvancÃ©
 
 FormatSpecifierComposite.Lbl.DatePattern=&Correspondance :
 
@@ -1031,9 +1031,9 @@ FormatSpecifierComposite.Lbl.NumberPattern=&Correspondance :
 
 FormatSpecifierComposite.StringFormat.LowerCase=Minuscules
 
-FormatSpecifierComposite.StringFormat.PhoneNumber=Numéro de téléphone
+FormatSpecifierComposite.StringFormat.PhoneNumber=NumÃ©ro de tÃ©lÃ©phone
 
-FormatSpecifierComposite.StringFormat.SocialSNumber=Numéro de sécurité sociale
+FormatSpecifierComposite.StringFormat.SocialSNumber=NumÃ©ro de sÃ©curitÃ© sociale
 
 FormatSpecifierComposite.StringFormat.UpperCase=Majuscules
 
@@ -1043,7 +1043,7 @@ FormatSpecifierComposite.StringFormat.ZipCode=Code postal + 4
 
 FormatSpecifierPreview.Lbl.NotAvailable=N/D
 
-GridAttributesComposite.Lbl.Ticks=Repères
+GridAttributesComposite.Lbl.Ticks=RepÃ¨res
 
 GridAttributesComposite.Lbl.Style=Style :
 
@@ -1063,11 +1063,11 @@ FontDefinitionDialog.Tooltip.AlignTopCenter=Alignement - Centre haut
 
 FontDefinitionDialog.Tooltip.AlignCenter=Alignement - Centre
 
-FontDefinitionDialog.Tooltip.Underline=Texte souligné
+FontDefinitionDialog.Tooltip.Underline=Texte soulignÃ©
 
 FontDefinitionDialog.Tooltip.AlignTopRight=Alignement - Haut droit
 
-FontDefinitionDialog.Tooltip.Strikethrough=Barré
+FontDefinitionDialog.Tooltip.Strikethrough=BarrÃ©
 
 FontDefinitionDialog.Title.FontDescriptor=Modifier la police
 
@@ -1081,13 +1081,13 @@ FontDefinitionDialog.Lbl.Style=Style :
 
 FontDefinitionDialog.Lbl.Format=Format :
 
-FontDefinitionDialog.Lbl.Wrap=Retour à la ligne
+FontDefinitionDialog.Lbl.Wrap=Retour Ã  la ligne
 
-FontDefinitionDialog.Lbl.Preview=Aperçu:
+FontDefinitionDialog.Lbl.Preview=AperÃ§u:
 
 FontDefinitionDialog.Lbl.Alignment=Alignement:
 
-FontDefinitionDialog.Label.Degree=&Degré :
+FontDefinitionDialog.Label.Degree=&DegrÃ© :
 
 FontDefinitionDialog.Tooltip.AlignTopLeft=Alignement - Haut gauche
 
@@ -1101,47 +1101,47 @@ FontDefinitionDialog.Tooltip.AlignBottomCenter=Alignement - Bas centre
 
 FontDefinitionDialog.Tooltip.AlignBottomRight=Alignement - Bas droit
 
-FontDefinitionDialog.Lbl.Strikethrough=&Barré
+FontDefinitionDialog.Lbl.Strikethrough=&BarrÃ©
 
 FontDefinitionComposite.Tooltip.FontDialog=Appeler l'Editeur de police
 
 TriggerEditorDialog.Title.TriggerEditor=Editeur d''interaction - {0}
 
-TriggerDataComposite.Lbl.ActionDetails=Détails de l'action
+TriggerDataComposite.Lbl.ActionDetails=DÃ©tails de l'action
 
-TriggerDataComposite.Lbl.SeriesDefinition=Définition de la série :
+TriggerDataComposite.Lbl.SeriesDefinition=DÃ©finition de la sÃ©rie :
 
-TriggerDataComposite.Label.CallbackDescription=L'action de rappel automatique est destinée à une utilisation API dans un rendu SWT ou Swing et vous permet de lier un gestionnaire d'événements java.
+TriggerDataComposite.Label.CallbackDescription=L'action de rappel automatique est destinÃ©e Ã  une utilisation API dans un rendu SWT ou Swing et vous permet de lier un gestionnaire d'Ã©vÃ©nements java.
 
-TriggerDataComposite.Label.HighlightDescription=Met en surbrillance l'élément de données correspondant, le cas échéant.
+TriggerDataComposite.Label.HighlightDescription=Met en surbrillance l'Ã©lÃ©ment de donnÃ©es correspondant, le cas Ã©chÃ©ant.
 
-TriggerDataComposite.Label.VisiblityDescription=Bascule la visibilité de l'élément de données correspondant, le cas échéant.
+TriggerDataComposite.Label.VisiblityDescription=Bascule la visibilitÃ© de l'Ã©lÃ©ment de donnÃ©es correspondant, le cas Ã©chÃ©ant.
 
-TriggerDataComposite.Label.Description=Modifiez l'URL en fonction de son type, y compris les paramètres suivants : URI, Signet Interne et Extraire.
+TriggerDataComposite.Label.Description=Modifiez l'URL en fonction de son type, y compris les paramÃ¨tres suivants : URI, Signet Interne et Extraire.
 
-TriggerDataComposite.Label.DPVisibilityDescription=Bascule la visibilité de l'étiquette de l'élément de données correspondant, le cas échéant.
+TriggerDataComposite.Label.DPVisibilityDescription=Bascule la visibilitÃ© de l'Ã©tiquette de l'Ã©lÃ©ment de donnÃ©es correspondant, le cas Ã©chÃ©ant.
 
-TriggerDataComposite.Label.OptionalURLParameters=Nommez les paramètres URL optionnels qui représentent, pour chaque point de données, les valeurs suivantes :
+TriggerDataComposite.Label.OptionalURLParameters=Nommez les paramÃ¨tres URL optionnels qui reprÃ©sentent, pour chaque point de donnÃ©es, les valeurs suivantes :
 
-TriggerDataComposite.Label.TooltipUsingDataLabelOfSeries=Si le texte infobulle reste annulé, il utilisera l'étiquette de données de la série correspondante à la place.
+TriggerDataComposite.Label.TooltipUsingDataLabelOfSeries=Si le texte infobulle reste annulÃ©, il utilisera l'Ã©tiquette de donnÃ©es de la sÃ©rie correspondante Ã  la place.
 
-TriggerDataComposite.Tooltip.InvokeURLBuilder=Invoquer le générateur d'URL
+TriggerDataComposite.Tooltip.InvokeURLBuilder=Invoquer le gÃ©nÃ©rateur d'URL
 
-TriggerDataComposite.Tooltip.Advanced=Afficher les paramètres URL optionnels
+TriggerDataComposite.Tooltip.Advanced=Afficher les paramÃ¨tres URL optionnels
 
 TriggerDataComposite.Label.None=Aucun
 
-TriggerDataComposite.Tooltip.ParameterCategory=Nom de paramètre pour la catégorie :
+TriggerDataComposite.Tooltip.ParameterCategory=Nom de paramÃ¨tre pour la catÃ©gorie :
 
-TriggerDataComposite.Tooltip.ParameterValue=Nom de paramètre pour la valeur :
+TriggerDataComposite.Tooltip.ParameterValue=Nom de paramÃ¨tre pour la valeur :
 
-TriggerDataComposite.Tooltip.ParameterSeries=Nom de paramètre pour la série :
+TriggerDataComposite.Tooltip.ParameterSeries=Nom de paramÃ¨tre pour la sÃ©rie :
 
 TriggerDataComposite.Lbl.TooltipDelay=Retard &infobulle (en ms) :
 
-TriggerDataComposite.Lbl.ParameterNames=Paramètres URL de points de données optionnels
+TriggerDataComposite.Lbl.ParameterNames=ParamÃ¨tres URL de points de donnÃ©es optionnels
 
-TriggerDataComposite.Lbl.CategorySeries=Série de &catégories :
+TriggerDataComposite.Lbl.CategorySeries=SÃ©rie de &catÃ©gories :
 
 TriggerDataComposite.Lbl.Cursor=Cur&seur :
 
@@ -1149,21 +1149,21 @@ TriggerDataComposite.TemporaryName.Hyperlink=Lien hypertexte
 
 TriggerDataComposite.Text.EditBaseURL=Modifier l'&URL de base...
 
-TriggerDataComposite.Text.Advanced=&Avancé>>
+TriggerDataComposite.Text.Advanced=&AvancÃ©>>
 
-TriggerDataComposite.Text.OpenAdvanced=&Avancé<<
+TriggerDataComposite.Text.OpenAdvanced=&AvancÃ©<<
 
-TriggerDataComposite.Lbl.ValueSeries=Série de &valeurs :
+TriggerDataComposite.Lbl.ValueSeries=SÃ©rie de &valeurs :
 
-TriggerDataComposite.Lbl.ValueSeriesName=&Nom de série de valeurs :
+TriggerDataComposite.Lbl.ValueSeriesName=&Nom de sÃ©rie de valeurs :
 
-TriggerDataComposite.Tooltip.InputScript=\ Entrez un script (le plus souvent JavaScript) à exécuter dans l'environnement de rendu.
+TriggerDataComposite.Tooltip.InputScript=\ Entrez un script (le plus souvent JavaScript) Ã  exÃ©cuter dans l'environnement de rendu.
 
 TriggerEditorComposite.Lbl.Remove=&Supprimer
 
 TriggerEditorComposite.Lbl.Add=&Ajouter
 
-TriggerDataComposite.Lbl.Event=E&vénement :
+TriggerDataComposite.Lbl.Event=E&vÃ©nement :
 
 TriggerDataComposite.Lbl.None.accessibility=<Aucun>
 
@@ -1203,7 +1203,7 @@ TriggerDataComposite.Lbl.Script=Scri&pt :
 
 TriggerDataComposite.Lbl.Target=Cible :
 
-TriggerEditorComposite.Lbl.Update=<< &Mettre à jour
+TriggerEditorComposite.Lbl.Update=<< &Mettre Ã  jour
 
 TriggerDataComposite.Lbl.TooltipText=Te&xte infobulle :
 
@@ -1213,11 +1213,11 @@ TriggerDataComposite.Lbl.BaseURL=Modifier l'URL de base :
 
 TriggerDataComposite.Lbl.Image=&Image
 
-GradientEditorDialog.Lbl.GradientEditor=Editeur de dégradé
+GradientEditorDialog.Lbl.GradientEditor=Editeur de dÃ©gradÃ©
 
-GradientEditorDialog.Lbl.StartColor=Couleur de début :
+GradientEditorDialog.Lbl.StartColor=Couleur de dÃ©but :
 
-GradientEditorDialog.Lbl.Preview=Aperçu
+GradientEditorDialog.Lbl.Preview=AperÃ§u
 
 PaletteEditorComposite.Label.EditColor=Modifier la couleur
 
@@ -1235,13 +1235,13 @@ PatternImageEditorDialog.Button.OK=&OK
 
 PatternImageEditorDialog.Group.Color=Couleur :
 
-PatternImageEditorDialog.Group.Pattern=Modèle :
+PatternImageEditorDialog.Group.Pattern=ModÃ¨le :
 
-PatternImageEditorDialog.Label.Background=A&rrière-plan :
+PatternImageEditorDialog.Label.Background=A&rriÃ¨re-plan :
 
 PatternImageEditorDialog.Label.Foreground=&Premier plan :
 
-PatternImageEditorDialog.Title.PatternFillEditor=Editeur d'images modèles
+PatternImageEditorDialog.Title.PatternFillEditor=Editeur d'images modÃ¨les
 
 LabelAttributesComposite.Lbl.Label=Etiquette
 
@@ -1249,9 +1249,9 @@ LabelAttributesComposite.Lbl.Font=P&olice :
 
 LabelAttributesComposite.Lbl.Shadow=&Ombre :
 
-LabelBlockAttributeSheetImpl.Title.SheetTitle=Mise en page > Bloc de l'étiquette - Formater la zone de bloc de l'étiquette
+LabelBlockAttributeSheetImpl.Title.SheetTitle=Mise en page > Bloc de l'Ã©tiquette - Formater la zone de bloc de l'Ã©tiquette
 
-BlockAttributeComposite.Lbl.IsBlockVisible=Visibilité du bloc
+BlockAttributeComposite.Lbl.IsBlockVisible=VisibilitÃ© du bloc
 
 BlockAttributeComposite.Lbl.Anchor=&Ancre :
 
@@ -1273,21 +1273,21 @@ BlockAttributeComposite.Lbl.Direction=&Direction :
 
 BlockAttributeComposite.Lbl.Position=&Position :
 
-BlockAttributeComposite.Lbl.ItemType=Type d'élément :
+BlockAttributeComposite.Lbl.ItemType=Type d'Ã©lÃ©ment :
 
-BlockAttributeComposite.Title.PlotBlock=Bloc du tracé
+BlockAttributeComposite.Title.PlotBlock=Bloc du tracÃ©
 
-BlockAttributeComposite.Title.LegendBlock=Bloc de la légende
+BlockAttributeComposite.Title.LegendBlock=Bloc de la lÃ©gende
 
 BlockAttributeComposite.Title.TitleBlock=Bloc du titre
 
-BlockAttributeComposite.Title.LabelBlock=Bloc de l'étiquette
+BlockAttributeComposite.Title.LabelBlock=Bloc de l'Ã©tiquette
 
-BlockPropertiesSheet.Label.Interactivity=Interactivité
+BlockPropertiesSheet.Label.Interactivity=InteractivitÃ©
 
-LayoutSheetImpl.Lbl.ChartProperties=Propriétés des blocs du graphique
+LayoutSheetImpl.Lbl.ChartProperties=PropriÃ©tÃ©s des blocs du graphique
 
-LayoutSheetImpl.Lbl.Background=Arrière-plan :
+LayoutSheetImpl.Lbl.Background=ArriÃ¨re-plan :
 
 LayoutSheetImpl.Lbl.Insets=En 3D vers l'avant
 
@@ -1295,31 +1295,31 @@ LayoutSheetImpl.Lbl.Outline=Contour
 
 LayoutSheetImpl.Title.SheetTitle=Mise en page - Formater le bloc du graphique
 
-AttributeSheetImpl.Lbl.ChartProperties=Propriétés du graphique
+AttributeSheetImpl.Lbl.ChartProperties=PropriÃ©tÃ©s du graphique
 
 AttributeSheetImpl.Lbl.Type=Type :
 
 AttributeSheetImpl.Lbl.Subtype=Sous-type :
 
-AttributeSheetImpl.Lbl.Units=&Unités :
+AttributeSheetImpl.Lbl.Units=&UnitÃ©s :
 
 AttributeSheetImpl.Lbl.ColumnCount=Nombre de &colonnes de grille :
 
-AttributeSheetImpl.Lbl.ChartBackground=Arrière-plan du graphique :
+AttributeSheetImpl.Lbl.ChartBackground=ArriÃ¨re-plan du graphique :
 
-AttributeSheetImpl.Lbl.PropertyEditorDialog=Propriétés étendues
+AttributeSheetImpl.Lbl.PropertyEditorDialog=PropriÃ©tÃ©s Ã©tendues
 
 AttributeSheetImpl.Lbl.ChartWall=&Paroi du graphique :
 
 AttributeSheetImpl.Lbl.ChartFloor=Base du grap&hique :
 
-AttributeSheetImpl.Lbl.UnitSpacing=&Espacement des unités (0-100) :
+AttributeSheetImpl.Lbl.UnitSpacing=&Espacement des unitÃ©s (0-100) :
 
 AttributeSheetImpl.Title.SheetTitle=Attributs - Personnaliser les attributs du graphique
 
-PropertyEditorDialog.Title.PropertyEditorDialog=Editeur de propriété étendue
+PropertyEditorDialog.Title.PropertyEditorDialog=Editeur de propriÃ©tÃ© Ã©tendue
 
-PropertyEditorDialog.Lbl.Key=Clé
+PropertyEditorDialog.Lbl.Key=ClÃ©
 
 PropertyEditorDialog.Lbl.Value=Valeur
 
@@ -1329,9 +1329,9 @@ PropertyEditorDialog.Lbl.Remove=&Supprimer
 
 HeadStyleAttributeComposite.Lbl.HeadStyle=Style de pointe :
 
-HyperlinkEditorDialog.BaseURL.Message=Veuillez définir l'URL de base.
+HyperlinkEditorDialog.BaseURL.Message=Veuillez dÃ©finir l'URL de base.
 
-HyperlinkEditorDialog.ErrorMessage.ExistingText=Le nom existe déjà, veuillez le modifier.
+HyperlinkEditorDialog.ErrorMessage.ExistingText=Le nom existe dÃ©jÃ , veuillez le modifier.
 
 HyperlinkEditorDialog.ErrorMessage.NullText=Le nom ne doit pas rester vierge.
 
@@ -1341,9 +1341,9 @@ HyperlinkEditorDialog.Text.MenuLabel=&Nom :
 
 HyperlinkEditorDialog.Title.HyperlinkEditor=Editeur du lien hypertexte
 
-TaskSelectType.TaskExp=Sélectionner le type de graphique
+TaskSelectType.TaskExp=SÃ©lectionner le type de graphique
 
-TaskSelectType.Label.Preview=Aperçu du graphique
+TaskSelectType.Label.Preview=AperÃ§u du graphique
 
 TaskSelectType.Label.Oritention=Orientation
 
@@ -1357,17 +1357,17 @@ TaskSelectType.Label.AddSecondaryAxis=Ajouter un axe secondaire
 
 TaskSelectType.Selection.SecondaryAxis=Axe secondaire
 
-TaskSelectType.Label.SeriesType=Type de &séries :
+TaskSelectType.Label.SeriesType=Type de &sÃ©ries :
 
-TaskSelectType.Task.Description=Sélectionner le type de graphique et choisir un format de sortie.
+TaskSelectType.Task.Description=SÃ©lectionner le type de graphique et choisir un format de sortie.
 
 TaskSelectType.Label.OutputFormat=Format de s&ortie :
 
-TaskSelectType.Selection.MoreAxes=Axes supplémentaires
+TaskSelectType.Selection.MoreAxes=Axes supplÃ©mentaires
 
-TaskSelectType.Label.SelectChartType=Sélectionner le type de graphique
+TaskSelectType.Label.SelectChartType=SÃ©lectionner le type de graphique
 
-TaskSelectType.Label.SelectSubtype=Sélectionner le sous-type
+TaskSelectType.Label.SelectSubtype=SÃ©lectionner le sous-type
 
 TaskSelectType.Exception.CannotSupportAxes=Prise en charge des axes impossible dans ChartWithoutAxes \!
 
@@ -1379,85 +1379,85 @@ TaskSelectType.Label.Dimension=&Dimension :
 
 TaskSelectType.Label.ChartSubtypes=Sous-types de graphique
 
-TaskSelectData.TaskExp=Sélectionner des données
+TaskSelectData.TaskExp=SÃ©lectionner des donnÃ©es
 
-TaskSelectData.Label.ToBindADataColumn=Utiliser le menu contextuel ou faites glisser la colonne dans les champs de série.
+TaskSelectData.Label.ToBindADataColumn=Utiliser le menu contextuel ou faites glisser la colonne dans les champs de sÃ©rie.
 
-TaskSelectData.Label.ChartPreview=Aperçu du graphique
+TaskSelectData.Label.ChartPreview=AperÃ§u du graphique
 
-TaskSelectData.Label.SelectDataSet=Sélectionner des données
+TaskSelectData.Label.SelectDataSet=SÃ©lectionner des donnÃ©es
 
-TaskSelectData.Label.UseReportData=&Hériter les données du conteneur
+TaskSelectData.Label.UseReportData=&HÃ©riter les donnÃ©es du conteneur
 
-TaskSelectData.Label.UseReportItem=Utiliser un élément de &rapport
+TaskSelectData.Label.UseReportItem=Utiliser un Ã©lÃ©ment de &rapport
 
-TaskSelectData.Label.UseDataSet=Utiliser le jeu de &données
+TaskSelectData.Label.UseDataSet=Utiliser le jeu de &donnÃ©es
 
-TaskSelectData.Label.CreateNew=&Créer...
+TaskSelectData.Label.CreateNew=&CrÃ©er...
 
-TaskSelectData.Label.DataPreview=Prévisualisation des données
+TaskSelectData.Label.DataPreview=PrÃ©visualisation des donnÃ©es
 
-TaskSelectData.Label.DataBinding=Li&aison de données...
+TaskSelectData.Label.DataBinding=Li&aison de donnÃ©es...
 
-TaskSelectData.Warning.TypeCheck=Le type de données de {0} est incompatible avec {1}, corrigez l'expression.
+TaskSelectData.Warning.TypeCheck=Le type de donnÃ©es de {0} est incompatible avec {1}, corrigez l'expression.
 
 TaskSelectData.Label.Filters=Fil&tres...
 
-TaskSelectData.Label.Parameters=&Paramètres...
+TaskSelectData.Label.Parameters=&ParamÃ¨tres...
 
-TaskSelectData.Task.Description=Sélectionner les données à afficher dans le graphique et les lier à la série.
+TaskSelectData.Task.Description=SÃ©lectionner les donnÃ©es Ã  afficher dans le graphique et les lier Ã  la sÃ©rie.
 
-TaskSelectData.Exception.UnableToSwitchToDataset=Impossible d'utiliser le jeu de données
+TaskSelectData.Exception.UnableToSwitchToDataset=Impossible d'utiliser le jeu de donnÃ©es
 
-TaskSelectData.Label.InsertAggregation=Insérer une agrégation
+TaskSelectData.Label.InsertAggregation=InsÃ©rer une agrÃ©gation
 
-TaskSelectData.Label.DataExpressionBuilder=Générateur d'expression de données
+TaskSelectData.Label.DataExpressionBuilder=GÃ©nÃ©rateur d'expression de donnÃ©es
 
 TaskSelectData.Label.Component=\ Composant
 
 TaskSelectData.Label.Overlay=Superposition
 
-TaskSelectData.Label.Series=Série
+TaskSelectData.Label.Series=SÃ©rie
 
-TaskSelectData.Label.UseAsCategoryXAxis=Utiliser comme axe horizontal de catégories
+TaskSelectData.Label.UseAsCategoryXAxis=Utiliser comme axe horizontal de catÃ©gories
 
-TaskSelectData.Label.UseAsCategorySeries=Utiliser comme série de catégories
+TaskSelectData.Label.UseAsCategorySeries=Utiliser comme sÃ©rie de catÃ©gories
 
-TaskSelectData.Label.PlotAsValueYSeries=Tracer une série verticale de valeurs
+TaskSelectData.Label.PlotAsValueYSeries=Tracer une sÃ©rie verticale de valeurs
 
-TaskSelectData.Tooltip.CreateNewDataset=Créer un nouveau jeu de données
+TaskSelectData.Tooltip.CreateNewDataset=CrÃ©er un nouveau jeu de donnÃ©es
 
 TaskSelectData.Label.PlotAsGaugeValue=Tracer une valeur de mesure
 
-TaskSelectData.Label.PlotAsValueSeries=Tracer une série de valeurs
+TaskSelectData.Label.PlotAsValueSeries=Tracer une sÃ©rie de valeurs
 
-TaskSelectData.Label.UseToGroupYSeries=Utiliser la série verticale de groupes
+TaskSelectData.Label.UseToGroupYSeries=Utiliser la sÃ©rie verticale de groupes
 
-TaskSelectData.Label.EnableLivePreview=Activer l'aperçu direct du graphique
+TaskSelectData.Label.EnableLivePreview=Activer l'aperÃ§u direct du graphique
 
-TaskSelectData.Label.UseToGroupValueSeries=Utiliser la série de valeurs de groupes
+TaskSelectData.Label.UseToGroupValueSeries=Utiliser la sÃ©rie de valeurs de groupes
 
-TaskFormatChart.TaskExp=Sélectionner le format de graphique
+TaskFormatChart.TaskExp=SÃ©lectionner le format de graphique
 
-TaskFormatChart.Label.Preview=Aperçu du graphique
+TaskFormatChart.Label.Preview=AperÃ§u du graphique
 
-TaskFormatChart.LivePreviewTask.BindData=Récupération et liaison des données pour l'aperçu du graphique
+TaskFormatChart.LivePreviewTask.BindData=RÃ©cupÃ©ration et liaison des donnÃ©es pour l'aperÃ§u du graphique
 
-TaskFormatChart.Task.Description=Ajuster votre graphique en définissant l'interactivité, la mise en page et les propriétés de la série, ainsi que le format général du texte, des ombres, de l'arrière-plan et des bordures.
+TaskFormatChart.Task.Description=Ajuster votre graphique en dÃ©finissant l'interactivitÃ©, la mise en page et les propriÃ©tÃ©s de la sÃ©rie, ainsi que le format gÃ©nÃ©ral du texte, des ombres, de l'arriÃ¨re-plan et des bordures.
 
-CustomPreviewTable.Exception.InvalidColumnIndexNotDefined=Index de colonne {0} incorrect ou colonnes non définies \!
+CustomPreviewTable.Exception.InvalidColumnIndexNotDefined=Index de colonne {0} incorrect ou colonnes non dÃ©finies \!
 
-CustomPreviewTable.Exception.InvalidColumnIndexSpecified=Index de colonne spécifié incorrect \!
+CustomPreviewTable.Exception.InvalidColumnIndexSpecified=Index de colonne spÃ©cifiÃ© incorrect \!
 
 CustomPreviewTable.Exception.InvalidColumnIndexSpecifiedOnly=Index de colonne {0} incorrect \! La table ne comporte que {1} colonnes \!
 
-CustomPreviewTable.Exception.RowIndexGreaterThan0=L'index de ligne doit être supérieur ou égal à 0 \!
+CustomPreviewTable.Exception.RowIndexGreaterThan0=L'index de ligne doit Ãªtre supÃ©rieur ou Ã©gal Ã  0 \!
 
-AbstractSelectDataCustomizeUI.Label.SeriesGrouping=Regroupement de séries
+AbstractSelectDataCustomizeUI.Label.SeriesGrouping=Regroupement de sÃ©ries
 
 AbstractSelectDataCustomizeUI.Label.YAxis=Axe vertical
 
-AbstractSelectDataCustomizeUI.Label.Series=Série
+AbstractSelectDataCustomizeUI.Label.Series=SÃ©rie
 
 AbstractScaleSheet.Label.ShowValuesOutside=Afficher les valeurs en deh&ors de l'intervalle de l'axe
 
@@ -1469,7 +1469,7 @@ MultipleHyperlinksComposite.Btn.Down=&Vers le bas
 
 MultipleHyperlinksComposite.Btn.Edit=Modifi&er
 
-MultipleHyperlinksComposite.Btn.Properties=&Propriétés
+MultipleHyperlinksComposite.Btn.Properties=&PropriÃ©tÃ©s
 
 MultipleHyperlinksComposite.Btn.Up=Vers le ha&ut
 
@@ -1477,7 +1477,7 @@ MultipleHyperlinksComposite.Group.Hyperlinks=Liens hypertextes
 
 MultipleHyperlinksComposite.Label.Tooltip=&Info-bulle :
 
-MultipleSeriesComponent.Label.OptionalYSeriesGrouping=Regr&oupement de séries verticales facultatif :
+MultipleSeriesComponent.Label.OptionalYSeriesGrouping=Regr&oupement de sÃ©ries verticales facultatif :
 
 MultipleSeriesComponent.Label.OptionalOverlayGrouping=Regr&oupement de superpositions facultatif :
 
@@ -1485,21 +1485,21 @@ MultipleSeriesComponent.Label.OptionalGrouping=Regr&oupement facultatif :
 
 MultipleSeriesComponent.Label.GroupSorting=Tri des &groupes :
 
-SelectDataChartWithAxisUI.Label.ValueYSeries=Série verticale de valeurs :
+SelectDataChartWithAxisUI.Label.ValueYSeries=SÃ©rie verticale de valeurs :
 
-MultipleSeriesComponent.Label.Series=Série
+MultipleSeriesComponent.Label.Series=SÃ©rie
 
-SelectDataChartWithoutAxisUI.Label.Series=Série
+SelectDataChartWithoutAxisUI.Label.Series=SÃ©rie
 
-DataDefinitionSelector.Label.Series=Série
+DataDefinitionSelector.Label.Series=SÃ©rie
 
-DataDefinitionSelector.Text.NewSeries=<Nouvelle série...>
+DataDefinitionSelector.Text.NewSeries=<Nouvelle sÃ©rie...>
 
 DataDefinitionSelector.Text.NewAxis=<Nouvel axe...>
 
-DataDefinitionSelector.Tooltip.RemoveSeries=Supprimer la série sélectionnée
+DataDefinitionSelector.Tooltip.RemoveSeries=Supprimer la sÃ©rie sÃ©lectionnÃ©e
 
-DataDefinitionSelector.Tooltip.RemoveAxis=Supprimer l'axe sélectionné
+DataDefinitionSelector.Tooltip.RemoveAxis=Supprimer l'axe sÃ©lectionnÃ©
 
 DataDefinitionSelector.Label.YAxis=Axe vertical
 
@@ -1507,15 +1507,15 @@ DataDefinitionSelector.Label.Axis=Axe
 
 DataDefinitionSelector.Label.DeleteAxis=Supprimer l'axe
 
-DataDefinitionSelector.Label.DeleteSeries=Supprimer la série
+DataDefinitionSelector.Label.DeleteSeries=Supprimer la sÃ©rie
 
 DialBottomAreaComponent.Label.Dial=Cadran
 
-DialBottomAreaComponent.Label.GaugeValueDefinition=Définition d'une valeur de mesure :
+DialBottomAreaComponent.Label.GaugeValueDefinition=DÃ©finition d'une valeur de mesure :
 
-PieBottomAreaComponent.Label.TheExplosionCondition=La condition d'éclatement permet un éclatement par tranche en fonction de la condition.
+PieBottomAreaComponent.Label.TheExplosionCondition=La condition d'Ã©clatement permet un Ã©clatement par tranche en fonction de la condition.
 
-PieBottomAreaComponent.Label.TheAmplitudeOfTheExplosion=L'amplitude de l'éclatement détermine l'étendue sur laquelle la tranche peut être éclatée.
+PieBottomAreaComponent.Label.TheAmplitudeOfTheExplosion=L'amplitude de l'Ã©clatement dÃ©termine l'Ã©tendue sur laquelle la tranche peut Ãªtre Ã©clatÃ©e.
 
 AxisGridLinesSheet.MajorLabel.LineIsVisible=&Visible
 
@@ -1527,9 +1527,9 @@ AxisGridLinesSheet.MinorLabel.TickIsVisible=Visib&le
 
 AxisLabelSheet.Label.Ellipsis=Po&ints de suspension :
 
-AxisLabelSheet.Label.Ellipsis.Tooltip=définit le nombre minimum de caractères qui seront affichés avant que les points de suspension ne soient affichés.
+AxisLabelSheet.Label.Ellipsis.Tooltip=dÃ©finit le nombre minimum de caractÃ¨res qui seront affichÃ©s avant que les points de suspension ne soient affichÃ©s.
 
-AxisSheetImpl.Label.Aligned=Aligné
+AxisSheetImpl.Label.Aligned=AlignÃ©
 
 AxisSheetImpl.Label.Axis=Axe
 
@@ -1551,11 +1551,11 @@ AxisYSheetImpl.Label.Scale=Echelle de l'axe
 
 AxisYSheetImpl.Label.Scale&=&Echelle :
 
-AxisSheetImpl.Label.CategoryX=Catégorie (X)
+AxisSheetImpl.Label.CategoryX=CatÃ©gorie (X)
 
 AxisSheetImpl.Label.AncillaryZ=Auxiliaire (Z)
 
-AxisSheetImpl.Label.SideBySide=Juxtaposé
+AxisSheetImpl.Label.SideBySide=JuxtaposÃ©
 
 AxisXSheetImpl.Label.Visible=Visible
 
@@ -1573,45 +1573,45 @@ AxisYSheetImpl.Label.Gridlines&=Qua&drillage
 
 AbstractAxisSubtask.Button.Fixed=Fixe
 
-AbstractAxisSubtask.Lbl.IsCategoryAxis=A&xe de catégorie
+AbstractAxisSubtask.Lbl.IsCategoryAxis=A&xe de catÃ©gorie
 
 AbstractAxisSubtask.Label.Visible2=V&isible
 
-AbstractScaleSheet.Label.StepNumber=&Nombre d'étapes :
+AbstractScaleSheet.Label.StepNumber=&Nombre d'Ã©tapes :
 
-AxisYSheetImpl.Label.Markers=Repère des axes
+AxisYSheetImpl.Label.Markers=RepÃ¨re des axes
 
-AxisYSheetImpl.Label.Markers&=&Repères
+AxisYSheetImpl.Label.Markers&=&RepÃ¨res
 
 AxisZSheetImpl.Label.Visible=&Visible
 
-AxisXSheetImpl.Label.AxisData=Données de l'axe
+AxisXSheetImpl.Label.AxisData=DonnÃ©es de l'axe
 
-AbstractAxisSubtask.Label.Stagger=Déf&inir plusieurs niveaux
+AbstractAxisSubtask.Label.Stagger=DÃ©f&inir plusieurs niveaux
 
-AbstractAxisSubtask.Label.Interactivity=Interactivité de l'axe
+AbstractAxisSubtask.Label.Interactivity=InteractivitÃ© de l'axe
 
-AbstractAxisSubtask.Label.LabelSpan=&Plage de l'étiquette :
+AbstractAxisSubtask.Label.LabelSpan=&Plage de l'Ã©tiquette :
 
 AbstractAxisSubtask.Label.Points=(Points)
 
-AbstractAxisSubtask.Label.ReverseCategory=Inverser les &catégories
+AbstractAxisSubtask.Label.ReverseCategory=Inverser les &catÃ©gories
 
 AxisTextSheet.Label.Interval=Int&ervalle :
 
-AxisMarkersSheet.Title.MarkerLine=Ligne de repères
+AxisMarkersSheet.Title.MarkerLine=Ligne de repÃ¨res
 
 AxisMarkersSheet.Label.Label=&Etiquette :
 
-AxisMarkersSheet.Title.MarkerRange=Gamme de repères
+AxisMarkersSheet.Title.MarkerRange=Gamme de repÃ¨res
 
 ChartLegendSheetImpl.Label.Outline=Contour :
 
 ChartLegendSheetImpl.Label.ShowValue=Affic&her la valeur
 
-ChartPlotSheetImpl.Label.Background=A&rrière-plan :
+ChartPlotSheetImpl.Label.Background=A&rriÃ¨re-plan :
 
-ChartPlotSheetImpl.Label.Background2=Arrière-p&lan :
+ChartPlotSheetImpl.Label.Background2=ArriÃ¨re-p&lan :
 
 ChartPlotSheetImpl.Label.ClientArea=Zone client
 
@@ -1635,41 +1635,41 @@ ChartSheetImpl.Label.ColorBy=&Couleur par :
 
 ChartSheetImpl.Label.Coverage=Couvert&ure :
 
-ChartSheetImpl.Label.Background=A&rrière-plan :
+ChartSheetImpl.Label.Background=A&rriÃ¨re-plan :
 
-ChartLegendSheetImpl.Label.Entries=&Entrées
+ChartLegendSheetImpl.Label.Entries=&EntrÃ©es
 
 ChartLegendSheetImpl.Label.LegendTitle&=&Titre
 
-ChartLegendSheetImpl.Title.LegendLayout=Mise en page de la légende
+ChartLegendSheetImpl.Title.LegendLayout=Mise en page de la lÃ©gende
 
-ChartLegendSheetImpl.Tooltip.ShowDataPointValue=Affiche la valeur de point de données de la première ligne au-dessous du texte de légende saisi pour chaque entrée de légende.
+ChartLegendSheetImpl.Tooltip.ShowDataPointValue=Affiche la valeur de point de donnÃ©es de la premiÃ¨re ligne au-dessous du texte de lÃ©gende saisi pour chaque entrÃ©e de lÃ©gende.
 
-ChartLegendSheetImpl.Title.LegendEntries=Entrées de légende
+ChartLegendSheetImpl.Title.LegendEntries=EntrÃ©es de lÃ©gende
 
-ChartLegendSheetImpl.Title.LegendTitle=Titre de légende
+ChartLegendSheetImpl.Title.LegendTitle=Titre de lÃ©gende
 
 ChartLegendSheetImpl.Label.Layout=Mise en p&age
 
-ChartLegendSheetImpl.Label.Legend=Légende
+ChartLegendSheetImpl.Label.Legend=LÃ©gende
 
 ChartLegendSheetImpl.Label.Title=Tit&re :
 
 ChartLegendSheetImpl.Label.Value=Valeur :
 
-ChartLegendSheetImpl.Title.Tooltip=Légende de l'infobulle
+ChartLegendSheetImpl.Title.Tooltip=LÃ©gende de l'infobulle
 
-ChartLegendSheetImpl.Label.Interactivity=Interactivité de légende
+ChartLegendSheetImpl.Label.Interactivity=InteractivitÃ© de lÃ©gende
 
 ChartPlotSheetImpl.Label.AreaIncludingAxes=Zone contenant des axes
 
-ChartSheetImpl.Label.EnableInPreview=A&perçu
+ChartSheetImpl.Label.EnableInPreview=A&perÃ§u
 
 ChartSheetImpl.Label.Font=&Police :
 
-ChartSheetImpl.Label.ResetValue=Réinitialiser la &valeur
+ChartSheetImpl.Label.ResetValue=RÃ©initialiser la &valeur
 
-ChartPlotSheetImpl.Label.AreaWithinAxes=Zone délimitée par des axes
+ChartPlotSheetImpl.Label.AreaWithinAxes=Zone dÃ©limitÃ©e par des axes
 
 ChartSheetImpl.Label.Style=&Style :
 
@@ -1679,21 +1679,21 @@ ChartSheetImpl.Text.Outline=Contour
 
 ChartSheetImpl.Text.Outline&=&Contour
 
-ChartSheetImpl.Text.GeneralProperties=Propriétés générales
+ChartSheetImpl.Text.GeneralProperties=PropriÃ©tÃ©s gÃ©nÃ©rales
 
-ChartSheetImpl.Text.GeneralProperties&=Propriétés &générales
+ChartSheetImpl.Text.GeneralProperties&=PropriÃ©tÃ©s &gÃ©nÃ©rales
 
-ChartSheetImpl.Text.TitleInteractivity=&Interactivité du titre
+ChartSheetImpl.Text.TitleInteractivity=&InteractivitÃ© du titre
 
-ChartSheetImpl.Text.CustomProperties=Propriétés personnalisées
+ChartSheetImpl.Text.CustomProperties=PropriÃ©tÃ©s personnalisÃ©es
 
-ChartSheetImpl.Text.CustomProperties&=&Propriétés personnalisées
+ChartSheetImpl.Text.CustomProperties&=&PropriÃ©tÃ©s personnalisÃ©es
 
-ChartSheetImpl.Text.ChartAreaInteractivity=Interactivité de la &zone graphique
+ChartSheetImpl.Text.ChartAreaInteractivity=InteractivitÃ© de la &zone graphique
 
-ChartSheetImpl.Label.Interactivity=Interactivité de la zone graphique
+ChartSheetImpl.Label.Interactivity=InteractivitÃ© de la zone graphique
 
-ChartSheetImpl.Label.InteractivityEnable=Activer l'int&eractivité du graphique
+ChartSheetImpl.Label.InteractivityEnable=Activer l'int&eractivitÃ© du graphique
 
 ChartSheetImpl.Label.Text=Te&xte :
 
@@ -1701,7 +1701,7 @@ ChartLegendSheetImpl.Label.LegendBehaviorType=C&omportement :
 
 ChartLivePreviewThread_Text.PleaseWait=, veuillez patienter...
 
-ChartLivePreviewThread.ErrorMessage.NoDataEngine=Aucun moteur de données pour traiter les données. Veuillez vous reporter à la précédente exception pour obtenir plus de détails.
+ChartLivePreviewThread.ErrorMessage.NoDataEngine=Aucun moteur de donnÃ©es pour traiter les donnÃ©es. Veuillez vous reporter Ã  la prÃ©cÃ©dente exception pour obtenir plus de dÃ©tails.
 
 SeriesSheetImpl.Label.Type=Type
 
@@ -1711,21 +1711,21 @@ LegendTextSheet.Label.Ellipsis=Points de susp&ension :
 
 LegendTextSheet.Label.Font=&Police :
 
-LegendTextSheet.Label.Separator=Séparateur
+LegendTextSheet.Label.Separator=SÃ©parateur
 
-LegendTextSheet.Tooltip.Ellipsis=Définit le nombre minimum de caractères qui seront affichés avant que les points de suspension ne soient affichés.
+LegendTextSheet.Tooltip.Ellipsis=DÃ©finit le nombre minimum de caractÃ¨res qui seront affichÃ©s avant que les points de suspension ne soient affichÃ©s.
 
 MoreOptionsChartLegendSheet.Label.TextArea=Zone de texte
 
 MoreOptionsChartLegendSheet.Label.Outline=Contour
 
-MoreOptionsChartLegendSheet.Label.LegendArea=Zone de légende
+MoreOptionsChartLegendSheet.Label.LegendArea=Zone de lÃ©gende
 
 MoreOptionsChartPlotSheet.Label.AreaIncludingAxes=Zone contenant des axes
 
-MoreOptionsChartPlotSheet.Label.Interactivity=Interactivité
+MoreOptionsChartPlotSheet.Label.Interactivity=InteractivitÃ©
 
-MoreOptionsChartPlotSheet.Label.AreaWithinAxes=Zone délimitée par des axes
+MoreOptionsChartPlotSheet.Label.AreaWithinAxes=Zone dÃ©limitÃ©e par des axes
 
 MoreOptionsChartPlotSheet.Label.Anchor=&Ancre :
 
@@ -1745,14 +1745,14 @@ TitlePropertiesSheet.Label.Outline=Contour
 
 TitlePropertiesSheet.Label.Text=Texte
 
-BaseDataDefinitionComponent.Text.SpecifyDataDefinition=Spécifier la définition de données
+BaseDataDefinitionComponent.Text.SpecifyDataDefinition=SpÃ©cifier la dÃ©finition de donnÃ©es
 
 BaseDataDefinitionComponent.Label.EditGroupSorting=Modifier le regroupement et le tri
-BaseDataDefinitionComponent.Tooltip.InputValueExpression=Expression de la valeur d'entrée
+BaseDataDefinitionComponent.Tooltip.InputValueExpression=Expression de la valeur d'entrÃ©e
 
 BaseDataDefinitionComponent.Text.EditFormat=Modifier le format
 
-BaseDataDefinitionComponent.WarningMessage.ExpressionsForbidden=Impossible de sélectionner des expressions d'une dimension permettant de définir des séries de catégories et des séries verticales facultatives en une seule fois.
+BaseDataDefinitionComponent.WarningMessage.ExpressionsForbidden=Impossible de sÃ©lectionner des expressions d'une dimension permettant de dÃ©finir des sÃ©ries de catÃ©gories et des sÃ©ries verticales facultatives en une seule fois.
 
 BaseGroupSortingDialog.Label.SortOn=Trier sel&on :
 
@@ -1760,31 +1760,31 @@ MarkerEditorComposite.Button.Outline=&Contour
 
 MarkerEditorComposite.Label.MarkerType=Type
 
-MarkerIconDialog.Button.EmbeddedImage=I&mage incorporée
+MarkerIconDialog.Button.EmbeddedImage=I&mage incorporÃ©e
 
-MarkerIconDialog.Title.MarkerIconSelector=Dispositif de sélection d'icône de repère
+MarkerIconDialog.Title.MarkerIconSelector=Dispositif de sÃ©lection d'icÃ´ne de repÃ¨re
 
-MarkerIconDialog.Label.Description.EmbeddedImage=Sélectionner l'image incorporée comme icône de repère.
+MarkerIconDialog.Label.Description.EmbeddedImage=SÃ©lectionner l'image incorporÃ©e comme icÃ´ne de repÃ¨re.
 
-MarkerIconDialog.Lbl.SelectIconFrom=Sélectionner l'icône de :
+MarkerIconDialog.Lbl.SelectIconFrom=SÃ©lectionner l'icÃ´ne de :
 
 MarkerIconDialog.Lbl.URL=&URL
 
-MarkerIconDialog.Lbl.Local=&Paramètres régionaux
+MarkerIconDialog.Lbl.Local=&ParamÃ¨tres rÃ©gionaux
 
 MarkerIconDialog.Lbl.EnterURL=&Entrer l'URL :
 
 MarkerIconDialog.Lbl.Browse=&Parcourir
 
-MarkerIconDialog.Lbl.Preview=A&perçu
+MarkerIconDialog.Lbl.Preview=A&perÃ§u
 
 MarkerIconDialog.Lbl.Add=Ajouter
 
-MarkerIconDialog.Chooser.Title=Sélecteur d'icône de repère
+MarkerIconDialog.Chooser.Title=SÃ©lecteur d'icÃ´ne de repÃ¨re
 
 MarkerIconDialog.Lbl.Remove=Supprimer
 
-MarkerIconDialog.Lbl.Description=Importer l'icône de repère à partir des fichiers image en local.
+MarkerIconDialog.Lbl.Description=Importer l'icÃ´ne de repÃ¨re Ã  partir des fichiers image en local.
 
 MarkerIconDialog.Exception.ImageNotAvailable=L'image n'est pas disponible actuellement.
 
@@ -1792,44 +1792,44 @@ MarkerIconDialog.Exception.InvalidURL=URL non valide. Veuillez la corriger.
 
 MarkerIconDialog.ImageNotAvailableWarning=Avertissement
 
-MarkerIconDialog.ImageNotAvailableWarningMessage=Souhaitez-vous l'utiliser quand même ?
-exception.data.DataBindingsAreNull=Au moins une liaison de données est nulle.\
+MarkerIconDialog.ImageNotAvailableWarningMessage=Souhaitez-vous l'utiliser quand mÃªme ?
+exception.data.DataBindingsAreNull=Au moins une liaison de donnÃ©es est nulle.\
 
 DialLabelSheet.Label.Format=Format :
 
 ImageDialog.AddImage=&Ajouter une image...
 
-ImageDialog.FileExist=Le nom de fichier existe déjà, veuillez le modifier et le charger à nouveau.
+ImageDialog.FileExist=Le nom de fichier existe dÃ©jÃ , veuillez le modifier et le charger Ã  nouveau.
 
 ImageDialog.ImportFail=Echec de l'importation
 
-ImageDialog.label.SelectImageType=Sélectionner un type d'image :
+ImageDialog.label.SelectImageType=SÃ©lectionner un type d'image :
 
 ImageDialog.label.URLImage=&Image de l'URL
 
-ImageDialog.label.EmbeddedImage=I&mage incorporée
+ImageDialog.label.EmbeddedImage=I&mage incorporÃ©e
 
 ImageDialog.label.EnterURL=&Entrer l'URI de l'image :
 
-ImageDialog.label.EnterEmbed=&Entrez le chemin de l'image à incorporer :
+ImageDialog.label.EnterEmbed=&Entrez le chemin de l'image Ã  incorporer :
 
 ImageDialog.label.Browse=&Parcourir...
 
-ImageDialog.label.SelectFile=Sélectionner un fichier
+ImageDialog.label.SelectFile=SÃ©lectionner un fichier
 
-ImageDialog.label.Preview=&Aperçu
+ImageDialog.label.Preview=&AperÃ§u
 
-ImageDialog.Label.ResourceImage=Fichier &image dans les ressources partagées
+ImageDialog.Label.ResourceImage=Fichier &image dans les ressources partagÃ©es
 
-ImageDialog.label.SelectImage=Sélectionner une image
+ImageDialog.label.SelectImage=SÃ©lectionner une image
 
 ImageDialog.uri.tooltip=(Exemples : http://host/cursor.gif, uri/cursor.gif)
 
 ImageDialog.label.LocalImage=Fichier image l&ocal
 
-ImageDialog.label.EnterLocal=&Entrez le chemin d'accès de l'image locale :
+ImageDialog.label.EnterLocal=&Entrez le chemin d'accÃ¨s de l'image locale :
 
-TextEditorComposite.Tooltip.EnterDecimalOrFractionValue=Entrez un nombre entier ou une valeur décimale ou fractionnelle
+TextEditorComposite.Tooltip.EnterDecimalOrFractionValue=Entrez un nombre entier ou une valeur dÃ©cimale ou fractionnelle
 
 PlotClientAreaSheet.Btn.Auto=A&uto
 
@@ -1842,7 +1842,7 @@ PlotClientAreaSheet.Label.WidthHint=Indication de &largeur :
 
 AxisMarkersSheet.MarkerLine.displayName=MarkerLine
 AxisMarkersSheet.MarkerRange.displayName=MarkerRange
-AxisMarkersSheet.Label.Interactivity=&Interactivité
+AxisMarkersSheet.Label.Interactivity=&InteractivitÃ©
 
 AxisMarkersSheet.Label.IsVisible=Vi&sible
 
@@ -1850,31 +1850,31 @@ AbstractPopupSheet.Label.Close=Fermer
 
 AbstractPopupSheet.Label.Help=Aide
 
-AggregateEditorComposite.Aggregate.Enabled=Activé
+AggregateEditorComposite.Aggregate.Enabled=ActivÃ©
 
-AggregateEditorComposite.AggregateDisplayName.Default=Par défaut
+AggregateEditorComposite.AggregateDisplayName.Default=Par dÃ©faut
 
 AggregateEditorComposite.AggregateDisplayName.None=Aucun
 
-AggregateEditorComposite.AggregateParameterDefinition.Title=Regrouper les définitions de paramètre
+AggregateEditorComposite.AggregateParameterDefinition.Title=Regrouper les dÃ©finitions de paramÃ¨tre
 
 AggregateEditorComposite.Button.Cancel=Annuler
 
 AggregateEditorComposite.Button.OK=OK
 
-AggregateEditorComposite.Tooltip.SetAggregateFunction=Définir la fonction d'agrégation
+AggregateEditorComposite.Tooltip.SetAggregateFunction=DÃ©finir la fonction d'agrÃ©gation
 
 LocalizedNumberEditorComposite.error.Title=Erreur de format des nombres
 
 LocalizedNumberEditorComposite.error.Message=Valeur de nombre non valide : "{0}"
 
-SeriesRegionSheet.message.dialRegion=Région de l'indicatif -
+SeriesRegionSheet.message.dialRegion=RÃ©gion de l'indicatif -
 
 GroupSortingDialog.Composite.Group.Sorting=Tri en cours
 
 GroupSortingDialog.Composite.Label.SortLocale=&Local :
 
-GroupSortingDialog.Composite.Label.SortStrength=Intensi&té :
+GroupSortingDialog.Composite.Label.SortStrength=Intensi&tÃ© :
 
 GroupSortingDialog.Label.GroupAndSorting=Regroupement et tri
 GroupSortingDialog.Sort.Locale.Auto=Auto
@@ -1892,23 +1892,23 @@ GroupSortingDialog.Sort.Strength.TERTIARY=TERTIAIRE
 
 GroupSortingDialog.Sort.SortOn.Warning.Title=Avertissement SortOn
 
-GroupSortingDialog.Sort.SortOn.Warning.Message=L'expression SortOn ne peut pas être vide.
+GroupSortingDialog.Sort.SortOn.Warning.Message=L'expression SortOn ne peut pas Ãªtre vide.
 
-GanttSeriesAttributeComposite.Exception.IllegalArgument=La série de type {0} est un argument non valide pour GanttSeriesAttributeComposite.
+GanttSeriesAttributeComposite.Exception.IllegalArgument=La sÃ©rie de type {0} est un argument non valide pour GanttSeriesAttributeComposite.
 
 GanttChart.Txt.DefaultGanttChartTitle=Titre du graphique de Gantt
 
 GanttChart.Txt.DisplayName=Gantt
 
-GanttChart.Txt.Description=Les graphiques de Gantt standard comportent une ligne de liaison avec des repères de début et de fin.
+GanttChart.Txt.Description=Les graphiques de Gantt standard comportent une ligne de liaison avec des repÃ¨res de dÃ©but et de fin.
 
-GanttChart.Txt.HelpText=Les graphiques de Gantt permettent de représenter la répartition de tâches ou d'activités sur un axe de temps.
+GanttChart.Txt.HelpText=Les graphiques de Gantt permettent de reprÃ©senter la rÃ©partition de tÃ¢ches ou d'activitÃ©s sur un axe de temps.
 
 GanttChart.SubType.Standard=Graphique de Gantt standard
 
-GanttSeriesAttributeComposite.Lbl.Marker=Repères
+GanttSeriesAttributeComposite.Lbl.Marker=RepÃ¨res
 
-GanttSeriesAttributeComposite.Lbl.Start=Début :
+GanttSeriesAttributeComposite.Lbl.Start=DÃ©but :
 
 GanttSeriesAttributeComposite.Lbl.End=Fin :
 
@@ -1918,23 +1918,23 @@ GanttSeriesAttributeComposite.Lbl.Outline=Contour
 
 GanttSeriesAttributeComposite.Lbl.OutlineFill=Remplissage du contour :
 
-GanttSeriesAttributeComposite.Lbl.BarPalette=Utiliser la &palette de séries pour la couleur de barre
+GanttSeriesAttributeComposite.Lbl.BarPalette=Utiliser la &palette de sÃ©ries pour la couleur de barre
 
-DecorationSheet.Label.DecorationLabels=Etiquettes de tâches
+DecorationSheet.Label.DecorationLabels=Etiquettes de tÃ¢ches
 
-BubbleChart.Txt.DefaultBubbleChartTitle=Titre du graphique à bulles
+BubbleChart.Txt.DefaultBubbleChartTitle=Titre du graphique Ã  bulles
 
-BubbleChart.Txt.Description=Les graphiques à bulles affichent les valeurs disposées sur le tracé en utilisant les données de catégorie et de valeur comme coordonnées. \nChaque valeur de données est indiquée par un repère.
+BubbleChart.Txt.Description=Les graphiques Ã  bulles affichent les valeurs disposÃ©es sur le tracÃ© en utilisant les donnÃ©es de catÃ©gorie et de valeur comme coordonnÃ©es. \nChaque valeur de donnÃ©es est indiquÃ©e par un repÃ¨re.
 
-BubbleChart.Txt.HelpText=Les graphiques à bulles affichent des valeurs de données espacées au hasard associées à des axes sans rapport avec les catégories. Chaque point de données est associé à l'échelle de l'axe des X et des Y.
+BubbleChart.Txt.HelpText=Les graphiques Ã  bulles affichent des valeurs de donnÃ©es espacÃ©es au hasard associÃ©es Ã  des axes sans rapport avec les catÃ©gories. Chaque point de donnÃ©es est associÃ© Ã  l'Ã©chelle de l'axe des X et des Y.
 
 BubbleChart.Txt.DisplayName=Bulle
 
-BubbleChart.SubType.Standard=Graphique à bulles standard
+BubbleChart.SubType.Standard=Graphique Ã  bulles standard
 
 BubbleSeriesAttributeComposite.Lbl.ShadowColor=O&mbre :
 
-BubbleSeriesAttributeComposite.Lbl.Marker=Repère
+BubbleSeriesAttributeComposite.Lbl.Marker=RepÃ¨re
 
 BubbleSeriesAttributeComposite.Lbl.IsVisible=Visible
 
@@ -1944,62 +1944,62 @@ BubbleSeriesAttributeComposite.Lbl.Size=Taille :
 
 BubbleSeriesAttributeComposite.Lbl.Line=Ligne
 
-BubbleSeriesAttributeComposite.Lbl.AccLine=Ligne d'accélération
+BubbleSeriesAttributeComposite.Lbl.AccLine=Ligne d'accÃ©lÃ©ration
 
-BubbleSeriesAttributeComposite.Lbl.LinePalette=Utiliser la &palette de séries pour la couleur de trait
+BubbleSeriesAttributeComposite.Lbl.LinePalette=Utiliser la &palette de sÃ©ries pour la couleur de trait
 
-BubbleSeriesAttributeComposite.Exception.IllegalArgument=La série de type {0} est un argument non valide pour BubbleSeriesAttributeComposite.
+BubbleSeriesAttributeComposite.Exception.IllegalArgument=La sÃ©rie de type {0} est un argument non valide pour BubbleSeriesAttributeComposite.
 
 BubbleSeriesAttributeComposite.Lbl.ShowLinesAsCurves=Afficher les lignes sous la forme de cour&bes
 
 BubbleSeriesAttributeComposite.Lbl.Orientation=&Orientation
 
-DifferenceChart.Txt.DefaultDifferenceChartTitle=Titre du graphique de différence
+DifferenceChart.Txt.DefaultDifferenceChartTitle=Titre du graphique de diffÃ©rence
 
-DifferenceChart.Txt.Description=Les graphiques de différence utilisent deux remplissages pour représenter les zones positives et négatives.
+DifferenceChart.Txt.Description=Les graphiques de diffÃ©rence utilisent deux remplissages pour reprÃ©senter les zones positives et nÃ©gatives.
 
-DifferenceChart.Txt.HelpText=Les graphiques de différence servent généralement à représenter la différence entre deux champs de données.
+DifferenceChart.Txt.HelpText=Les graphiques de diffÃ©rence servent gÃ©nÃ©ralement Ã  reprÃ©senter la diffÃ©rence entre deux champs de donnÃ©es.
 
-DifferenceChart.Txt.DisplayName=Différence
+DifferenceChart.Txt.DisplayName=DiffÃ©rence
 
-DifferenceChart.SubType.Standard=Graphique de différence standard
+DifferenceChart.SubType.Standard=Graphique de diffÃ©rence standard
 
-DifferenceSeriesAttributeComposite.Exception.IllegalArgument=La série de type {0} est un argument non valide pour DifferenceSeriesAttributeComposite.
+DifferenceSeriesAttributeComposite.Exception.IllegalArgument=La sÃ©rie de type {0} est un argument non valide pour DifferenceSeriesAttributeComposite.
 
 DifferenceSeriesAttributeComposite.Lbl.Line=Lignes
 
 DifferenceSeriesAttributeComposite.Lbl.PositiveLine=Positif
 
-DifferenceSeriesAttributeComposite.Lbl.NegativeLine=Négatif
+DifferenceSeriesAttributeComposite.Lbl.NegativeLine=NÃ©gatif
 
 DifferenceSeriesAttributeComposite.Lbl.ShowLinesAsCurves=Afficher les lignes sous la forme de &courbes
 
-DifferenceSeriesAttributeComposite.Lbl.LinePalette=&Utiliser la palette de séries pour la couleur de trait
+DifferenceSeriesAttributeComposite.Lbl.LinePalette=&Utiliser la palette de sÃ©ries pour la couleur de trait
 
-PositiveNegativeColorDialog.Lbl.PositiveNegativeColorEditor=Editeur de couleurs positives/négatives
+PositiveNegativeColorDialog.Lbl.PositiveNegativeColorEditor=Editeur de couleurs positives/nÃ©gatives
 
 PositiveNegativeColorDialog.Lbl.PositiveColor=Couleur positive
 
-PositiveNegativeColorDialog.Lbl.NegativeColor=Couleur négative
+PositiveNegativeColorDialog.Lbl.NegativeColor=Couleur nÃ©gative
 
-PositiveNegativeColorDialog.Lbl.Preview=Aperçu
+PositiveNegativeColorDialog.Lbl.Preview=AperÃ§u
 
 ########### Field Assist Preferences ###########################
-ssPreferencesContentAssistKey= Clé de l'assistant de contenu :
+ssPreferencesContentAssistKey= ClÃ© de l'assistant de contenu :
 
 ssPreferencesContentAssistKeyCtlSpace= Ctrl+E&space
 
-ssPreferencesContentAssistKeyAsterisk= * (Astéris&que)
+ssPreferencesContentAssistKeyAsterisk= * (AstÃ©ris&que)
 
-ssPreferencesContentAssistKeyAnyKey= Touche alp&hanumérique (sur retard d'auto-activation)
+ssPreferencesContentAssistKeyAnyKey= Touche alp&hanumÃ©rique (sur retard d'auto-activation)
 
-ssPreferencesContentAssistKeyCustom= Perso&nnalisée
+ssPreferencesContentAssistKeyCustom= Perso&nnalisÃ©e
 
-ssPreferencesContentAssistKeyPropagate= &Propager les touches pour vérifier que la fenêtre contextuelle est active
+ssPreferencesContentAssistKeyPropagate= &Propager les touches pour vÃ©rifier que la fenÃªtre contextuelle est active
 
-ssPreferencesContentAssistDelay= R&etard (en millisecondes) lorsque la fonction d'attribution de contenu est auto-activée :
+ssPreferencesContentAssistDelay= R&etard (en millisecondes) lorsque la fonction d'attribution de contenu est auto-activÃ©e :
 
-ssPreferencesDescription= Cette page regroupe les décorations utilisées dans la boîte de dialogue du générateur de graphiques.
+ssPreferencesDescription= Cette page regroupe les dÃ©corations utilisÃ©es dans la boÃ®te de dialogue du gÃ©nÃ©rateur de graphiques.
 
 ssPreferencesDecoratorVert= Emplacement vertical :
 
@@ -2017,19 +2017,19 @@ ssPreferencesDecoratorRight= &Droite
 
 ssPreferencesDecoratorMargin= Largeur de &marge :
 
-ssPreferencesContentAssistDescription= Cette page décrit le comportement de l'assistant de contenu.
+ssPreferencesContentAssistDescription= Cette page dÃ©crit le comportement de l'assistant de contenu.
 
-ssPreferencesContentAssistResult= Lorsqu'une proposition de contenu est sélectionnée :
+ssPreferencesContentAssistResult= Lorsqu'une proposition de contenu est sÃ©lectionnÃ©e :
 
 ssPreferencesContentAssistResultReplace= &Remplacer le contenu du champ
 
-ssPreferencesContentAssistResultInsert= &Insérer dans le contenu du champ
+ssPreferencesContentAssistResultInsert= &InsÃ©rer dans le contenu du champ
 
-ssPreferencesContentAssistFilter= Lorsque vous saisissez des informations alors que la fenêtre contextuelle est ouverte :
+ssPreferencesContentAssistFilter= Lorsque vous saisissez des informations alors que la fenÃªtre contextuelle est ouverte :
 
-ssPreferencesContentAssistFilterCumulative= Fi&ltrage du contenu de la fenêtre avec une saisie cumulée
+ssPreferencesContentAssistFilterCumulative= Fi&ltrage du contenu de la fenÃªtre avec une saisie cumulÃ©e
 
-ssPreferencesContentAssistFilterCharacter= Fil&trage de la fenêtre en fonction du dernier caractère saisi
+ssPreferencesContentAssistFilterCharacter= Fil&trage de la fenÃªtre en fonction du dernier caractÃ¨re saisi
 
 ssPreferencesContentAssistFilterNone= &Pas de filtrage
 
@@ -2039,21 +2039,21 @@ ssPreferencesAssistSymbol= Emplacement du symbole d'assistance
 
 ssDecoratorContentAssist= Un assistant de contenu est disponible sur ce champ, appuyez sur {0}
 
-ssDecorationMenuItem=Supprimer les caractères incorrects
+ssDecorationMenuItem=Supprimer les caractÃ¨res incorrects
 
 
 ### Multiple Hyperlinks ###
-MenuStyleDialog.Column.Properties=Propriétés
+MenuStyleDialog.Column.Properties=PropriÃ©tÃ©s
 
 MenuStyleDialog.Column.Value=Valeur
 
 MenuStyleDialog.Style.Menu=Menu
 
-MenuStyleDialog.Style.MenuItem=Elément de menu
+MenuStyleDialog.Style.MenuItem=ElÃ©ment de menu
 
-MenuStyleDialog.Style.OnMouseOver=Lors du déplacement de la souris sur l'élément
+MenuStyleDialog.Style.OnMouseOver=Lors du dÃ©placement de la souris sur l'Ã©lÃ©ment
 
-MenuStyleDialog.Style.OnMouseOut=Lors du déplacement de la souris hors de l'élément
+MenuStyleDialog.Style.OnMouseOut=Lors du dÃ©placement de la souris hors de l'Ã©lÃ©ment
 
 MenuStylesDialog.Btn.Add=&Ajouter
 
@@ -2061,7 +2061,7 @@ MenuStylesDialog.Btn.Remove=Supp&rimer
 
 MenuStylesDialog.Label.Style=&Style :
 
-MenuStylesDialog.title=Propriétés du menu de lien hypertexte
+MenuStylesDialog.title=PropriÃ©tÃ©s du menu de lien hypertexte
 
 MenuStylesDialog.Title=Styles de menu de lien hypertexte
 

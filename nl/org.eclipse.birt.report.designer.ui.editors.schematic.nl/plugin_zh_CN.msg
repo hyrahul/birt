@@ -8,28 +8,28 @@
 # * Contributors:
 # *  Actuate Corporation  - initial API and implementation
 # *******************************************************************************/
-design.layout=²¼¾Ö(&O)
+design.layout=å¸ƒå±€(&O)
 
-design.masterPage=Ö÷Ò³(&M)
+design.masterPage=ä¸»é¡µ(&M)
 
-design.script=½Å±¾(&S)
+design.script=è„šæœ¬(&S)
 
-design.xmlsource=XML Ô´(&X)
+design.xmlsource=XML æº(&X)
 
-template.layout=²¼¾Ö(&O)
+template.layout=å¸ƒå±€(&O)
 
-template.masterPage=Ö÷Ò³(&M)
+template.masterPage=ä¸»é¡µ(&M)
 
-template.script=½Å±¾(&S)
+template.script=è„šæœ¬(&S)
 
-template.xmlsource=XML Ô´(&X)
+template.xmlsource=XML æº(&X)
 
-pageSet.layout=²¼¾ÖÒ³(&L)
+pageSet.layout=å¸ƒå±€é¡µ(&L)
 
-pageSet.master=Ö÷Ò³(&M)
+pageSet.master=ä¸»é¡µ(&M)
 
-pageSet.preview=Ô¤ÀÀÒ³(&P)
+pageSet.preview=é¢„è§ˆé¡µ(&P)
 
-pageSet.script=½Å±¾Ò³(&S)
+pageSet.script=è„šæœ¬é¡µ(&S)
 
-pageSet.source=XML Ô´Ò³(&X)
+pageSet.source=XML æºé¡µ(&X)

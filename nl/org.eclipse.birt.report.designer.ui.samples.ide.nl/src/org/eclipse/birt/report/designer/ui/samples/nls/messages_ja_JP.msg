@@ -1,62 +1,62 @@
 ###########################################################
 #Sample Reports View properties
-SampleReportsView.defautDescription=ƒTƒ“ƒvƒ‹ƒŒƒ|[ƒg‚ğƒJƒeƒSƒŠ‚©‚ç‘I‘ğ‚µ‚Ä‚­‚¾‚³‚¢B
+SampleReportsView.defautDescription=ã‚µãƒ³ãƒ—ãƒ«ãƒ¬ãƒãƒ¼ãƒˆã‚’ã‚«ãƒ†ã‚´ãƒªã‹ã‚‰é¸æŠã—ã¦ãã ã•ã„ã€‚
 
-SampleReportsView.Text.Explorer=ƒTƒ“ƒvƒ‹ƒŒƒ|[ƒg
+SampleReportsView.Text.Explorer=ã‚µãƒ³ãƒ—ãƒ«ãƒ¬ãƒãƒ¼ãƒˆ
 
-SampleReportsView.Text.Preview=ƒvƒŒƒrƒ…[
+SampleReportsView.Text.Preview=ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼
 
-SampleReportsView.Text.Description=à–¾
+SampleReportsView.Text.Description=èª¬æ˜
 
-SampleReportsView.MessageDialog.Title=¿–â
+SampleReportsView.MessageDialog.Title=è³ªå•
 
-SampleReportsView.MessageDialog.Message=''{0}'' ‚Í‚·‚Å‚É‘¶İ‚µ‚Ü‚·B’u‚«Š·‚¦‚Ü‚·‚© ?
+SampleReportsView.MessageDialog.Message=''{0}'' ã¯ã™ã§ã«å­˜åœ¨ã—ã¾ã™ã€‚ç½®ãæ›ãˆã¾ã™ã‹ ?
 
-SampleReportsView.Action.exportSampleReport=•Û‘¶
+SampleReportsView.Action.exportSampleReport=ä¿å­˜
 
-SampleReportsView.Action.openSampleReport=ŠJ‚­(&O)
+SampleReportsView.Action.openSampleReport=é–‹ã(&O)
 
-SampleReportsView.Action.exportSampleReport.toolTipText=‘I‘ğ‚µ‚½ƒTƒ“ƒvƒ‹ƒŒƒ|[ƒg‚ğƒGƒNƒXƒ|[ƒg‚µ‚Ü‚·
+SampleReportsView.Action.exportSampleReport.toolTipText=é¸æŠã—ãŸã‚µãƒ³ãƒ—ãƒ«ãƒ¬ãƒãƒ¼ãƒˆã‚’ã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆã—ã¾ã™
 
-SampleReportsView.Action.openSampleReport.toolTipText.ide=ƒŒƒ|[ƒgƒvƒƒWƒFƒNƒg‚ğì¬‚µ‚ÄAƒŒƒ|[ƒg‚ğƒvƒƒWƒFƒNƒgƒtƒHƒ‹ƒ_‚É”z’u‚µ‚Ü‚·
+SampleReportsView.Action.openSampleReport.toolTipText.ide=ãƒ¬ãƒãƒ¼ãƒˆãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ä½œæˆã—ã¦ã€ãƒ¬ãƒãƒ¼ãƒˆã‚’ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆãƒ•ã‚©ãƒ«ãƒ€ã«é…ç½®ã—ã¾ã™
 
-SampleReportsView.Action.openSampleReport.toolTipText.rcp=‘I‘ğ‚µ‚½ƒTƒ“ƒvƒ‹ƒŒƒ|[ƒg‚ğ RCP ì‹ÆƒtƒHƒ‹ƒ_‚É’¼ÚƒGƒNƒXƒ|[ƒg‚µ‚Ü‚·
+SampleReportsView.Action.openSampleReport.toolTipText.rcp=é¸æŠã—ãŸã‚µãƒ³ãƒ—ãƒ«ãƒ¬ãƒãƒ¼ãƒˆã‚’ RCP ä½œæ¥­ãƒ•ã‚©ãƒ«ãƒ€ã«ç›´æ¥ã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆã—ã¾ã™
 
-SampleReportsView.Text.Contribute_Samples=ƒTƒ“ƒvƒ‹‚Ì’ñ‹Ÿ
+SampleReportsView.Text.Contribute_Samples=ã‚µãƒ³ãƒ—ãƒ«ã®æä¾›
 
-IDEOpenSampleReportAction.ProjectNameDialog.Label.PrjectName=ƒvƒƒWƒFƒNƒg–¼(&N) :
+IDEOpenSampleReportAction.ProjectNameDialog.Label.PrjectName=ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆå(&N) :
 
-IDEOpenSampleReportAction.ProjectNameDialog.Title.PrjectName=ƒvƒƒWƒFƒNƒg–¼
+IDEOpenSampleReportAction.ProjectNameDialog.Title.PrjectName=ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆå
 
-IDEOpenSampleReportAction.MessageDialog.ProjectExists.Title=ƒvƒƒWƒFƒNƒg‚ª‘¶İ‚µ‚Ü‚·
+IDEOpenSampleReportAction.MessageDialog.ProjectExists.Title=ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆãŒå­˜åœ¨ã—ã¾ã™
 
-IDEOpenSampleReportAction.MessageDialog.ProjectExists.Message=‚·‚Å‚ÉƒvƒƒWƒFƒNƒg‚ª‘¶İ‚µ‚Ü‚·B‚±‚ÌƒvƒƒWƒFƒNƒg‚ğg—p‚·‚é‚É‚ÍA''{0}'' ‚ğƒNƒŠƒbƒN‚µ‚Ä‚­‚¾‚³‚¢BŠù‘¶‚ÌƒvƒƒWƒFƒNƒg‚ğƒNƒŠƒA‚µ‚ÄV‚µ‚¢ƒvƒƒWƒFƒNƒg‚ğì¬‚·‚é‚É‚ÍA''{1}'' ‚ğƒNƒŠƒbƒN‚µ‚Ä‚­‚¾‚³‚¢BƒLƒƒƒ“ƒZƒ‹‚·‚é‚É‚Í ''{2}'' ‚ğƒNƒŠƒbƒN‚µ‚Ä‚­‚¾‚³‚¢B
+IDEOpenSampleReportAction.MessageDialog.ProjectExists.Message=ã™ã§ã«ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆãŒå­˜åœ¨ã—ã¾ã™ã€‚ã“ã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ä½¿ç”¨ã™ã‚‹ã«ã¯ã€''{0}'' ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¦ãã ã•ã„ã€‚æ—¢å­˜ã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ã‚¯ãƒªã‚¢ã—ã¦æ–°ã—ã„ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ä½œæˆã™ã‚‹ã«ã¯ã€''{1}'' ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¦ãã ã•ã„ã€‚ã‚­ãƒ£ãƒ³ã‚»ãƒ«ã™ã‚‹ã«ã¯ ''{2}'' ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¦ãã ã•ã„ã€‚
 
-IDEOpenSampleReportAction.MessageDialog.ProjectExists.ButtonText=ã‘‚«(&O)
+IDEOpenSampleReportAction.MessageDialog.ProjectExists.ButtonText=ä¸Šæ›¸ã(&O)
 
 ###########################################################
 #NewReportProjectWizard properties
 
 NewReportProjectWizard.bin=bin
-NewReportProjectWizard.caseVariantExistsError=ƒtƒ@ƒCƒ‹ƒVƒXƒeƒ€‚Å‚ÍA‘å•¶š‚Æ¬•¶š‚ª‹æ•Ê‚³‚ê‚È‚¢‚½‚ßAŠù‘¶‚ÌƒvƒƒWƒFƒNƒg‚Æ“¯‚¶–¼‘O "{0}" ‚Íg—p‚Å‚«‚Ü‚¹‚ñB
+NewReportProjectWizard.caseVariantExistsError=ãƒ•ã‚¡ã‚¤ãƒ«ã‚·ã‚¹ãƒ†ãƒ ã§ã¯ã€å¤§æ–‡å­—ã¨å°æ–‡å­—ãŒåŒºåˆ¥ã•ã‚Œãªã„ãŸã‚ã€æ—¢å­˜ã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã¨åŒã˜åå‰ "{0}" ã¯ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-NewReportProjectWizard.description=V‚µ‚¢ƒŒƒ|[ƒgƒvƒƒWƒFƒNƒg‚ğì¬‚µ‚Ü‚·B
+NewReportProjectWizard.description=æ–°ã—ã„ãƒ¬ãƒãƒ¼ãƒˆãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ä½œæˆã—ã¾ã™ã€‚
 
-NewReportProjectWizard.errorMessage=V‚µ‚¢ƒŒƒ|[ƒgƒvƒƒWƒFƒNƒg‚ğì¬’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+NewReportProjectWizard.errorMessage=æ–°ã—ã„ãƒ¬ãƒãƒ¼ãƒˆãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ä½œæˆä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-NewReportProjectWizard.errorOpeningWindow=ƒEƒBƒ“ƒhƒE‚ğŠJ‚¯‚Ü‚¹‚ñ‚Å‚µ‚½B
+NewReportProjectWizard.errorOpeningWindow=ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã‚’é–‹ã‘ã¾ã›ã‚“ã§ã—ãŸã€‚
 
-NewReportProjectWizard.internalError=“à•”ƒGƒ‰[ : {0}
+NewReportProjectWizard.internalError=å†…éƒ¨ã‚¨ãƒ©ãƒ¼ : {0}
 
-NewReportProjectWizard.javaProject=Java ƒvƒƒWƒFƒNƒg‚Ìì¬
+NewReportProjectWizard.javaProject=Java ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®ä½œæˆ
 
-NewReportProjectWizard.perspSwitchMessage=‚±‚Ìí—Ş‚ÌƒvƒƒWƒFƒNƒg‚Í {0} ƒp[ƒXƒyƒNƒeƒBƒu‚ÉŠÖ˜A•t‚¯‚ç‚ê‚Ä‚¢‚Ü‚·B¡‚·‚®‚±‚Ìƒp[ƒXƒyƒNƒeƒBƒu‚ÉØ‚è‘Ö‚¦‚Ü‚·‚© ?
+NewReportProjectWizard.perspSwitchMessage=ã“ã®ç¨®é¡ã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã¯ {0} ãƒ‘ãƒ¼ã‚¹ãƒšã‚¯ãƒ†ã‚£ãƒ–ã«é–¢é€£ä»˜ã‘ã‚‰ã‚Œã¦ã„ã¾ã™ã€‚ä»Šã™ãã“ã®ãƒ‘ãƒ¼ã‚¹ãƒšã‚¯ãƒ†ã‚£ãƒ–ã«åˆ‡ã‚Šæ›¿ãˆã¾ã™ã‹ ?
 
-NewReportProjectWizard.perspSwitchTitle=ƒp[ƒXƒyƒNƒeƒBƒu‚ÌØ‚è‘Ö‚¦Šm”F
+NewReportProjectWizard.perspSwitchTitle=ãƒ‘ãƒ¼ã‚¹ãƒšã‚¯ãƒ†ã‚£ãƒ–ã®åˆ‡ã‚Šæ›¿ãˆç¢ºèª
 
-NewReportProjectWizard.projectSetting=ƒvƒƒWƒFƒNƒg‚Ìİ’è
+NewReportProjectWizard.projectSetting=ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®è¨­å®š
 
 NewReportProjectWizard.src=src
-NewReportProjectWizard.title=ƒŒƒ|[ƒgƒvƒƒWƒFƒNƒg
+NewReportProjectWizard.title=ãƒ¬ãƒãƒ¼ãƒˆãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ
 
-NewReportProjectWizard.windowTitle=V‹KƒŒƒ|[ƒgƒvƒƒWƒFƒNƒg
+NewReportProjectWizard.windowTitle=æ–°è¦ãƒ¬ãƒãƒ¼ãƒˆãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ

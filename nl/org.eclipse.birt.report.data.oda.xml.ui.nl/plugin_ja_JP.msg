@@ -12,13 +12,13 @@
 ###############################################################################
 # NLS String
 ###############################################################################
-oda.xml.datasource=XML ƒf[ƒ^ƒ\[ƒX
+oda.xml.datasource=XML ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹
 
-oda.xml.dataset=XML ƒf[ƒ^ƒZƒbƒg
+oda.xml.dataset=XML ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆ
 
-oda.xml.tablemapping=ƒe[ƒuƒ‹‚Ìƒ}ƒbƒsƒ“ƒO
+oda.xml.tablemapping=ãƒ†ãƒ¼ãƒ–ãƒ«ã®ãƒãƒƒãƒ”ãƒ³ã‚°
 
-oda.xml.columnmapping=—ñ‚Ìƒ}ƒbƒsƒ“ƒO
+oda.xml.columnmapping=åˆ—ã®ãƒãƒƒãƒ”ãƒ³ã‚°
 
 
 oda.data.source.id=org.eclipse.birt.report.data.oda.xml
@@ -28,21 +28,21 @@ oda.parent.category.id=org.eclipse.datatools.connectivity.oda.profileCategory
 # NLS messages
 #
 plugin.name=BIRT ODA XML Designer
-oda.data.source.name=BIRT 2.1.x XML ‚Ì‹Œƒf[ƒ^ƒ\[ƒX
+oda.data.source.name=BIRT 2.1.x XML ã®æ—§ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹
 
-connection.profile.name=XML ƒf[ƒ^ƒ\[ƒXÚ‘±ƒvƒƒtƒ@ƒCƒ‹
+connection.profile.name=XML ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹æ¥ç¶šãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«
 
-newwizard.name=BIRT 2.1.x XML ‚Ì‹Œƒf[ƒ^ƒ\[ƒX
+newwizard.name=BIRT 2.1.x XML ã®æ—§ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹
 
-newwizard.description=BIRT 2.1.x XML ƒf[ƒ^ƒ\[ƒXÚ‘±ƒvƒƒtƒ@ƒCƒ‹‚Ìì¬
+newwizard.description=BIRT 2.1.x XML ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹æ¥ç¶šãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«ã®ä½œæˆ
 
-wizard.window.title=XML ƒf[ƒ^ƒ\[ƒXƒvƒƒtƒ@ƒCƒ‹‚ÌV‹Kì¬
+wizard.window.title=XML ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«ã®æ–°è¦ä½œæˆ
 
-wizard.data.source.page.title=XML ƒtƒ@ƒCƒ‹‚ÆƒXƒL[ƒ}î•ñ‚Ö‚Ì URL ‚ğ’è‹`‚µ‚Ä‚­‚¾‚³‚¢B
+wizard.data.source.page.title=XML ãƒ•ã‚¡ã‚¤ãƒ«ã¨ã‚¹ã‚­ãƒ¼ãƒæƒ…å ±ã¸ã® URL ã‚’å®šç¾©ã—ã¦ãã ã•ã„ã€‚
 
-profile.propertypage.name=XML ƒf[ƒ^ƒ\[ƒX‚ÌÚ‘±ƒvƒƒpƒeƒB
+profile.propertypage.name=XML ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ã®æ¥ç¶šãƒ—ãƒ­ãƒ‘ãƒ†ã‚£
 
-preference.datasetpreview=XML ƒf[ƒ^ƒZƒbƒg
+preference.datasetpreview=XML ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆ
 #
 #  Below NLS messages apply to all ODA data sources; should be re-factored
 #

@@ -17,7 +17,7 @@ oda.data.source.id=org.eclipse.birt.data.oda.pojo
 #
 plugin.name=BIRT POJO Data Source ODA Designer
 newwizard.name=BIRT POJO Data Source
-newwizard.description=Crear un perfil de conexión a la fuente de datos POJO de BIRT
+newwizard.description=Crear un perfil de conexiÃ³n a la fuente de datos POJO de BIRT
 
 wizard.window.title=Nuevo perfil de la fuente de datos POJO de BIRT
 
@@ -27,4 +27,4 @@ wizard.data.set.window.title=Nuevo conjunto de datos POJO de BIRT
 
 wizard.data.set.propertiesPage.title=Propiedades
 
-wizard.data.set.columnMappingPage.title=Asignación de columnas
+wizard.data.set.columnMappingPage.title=AsignaciÃ³n de columnas

@@ -1,3 +1,3 @@
-birt.viewer.problem.marker=Problème de visualiseur BIRT
+birt.viewer.problem.marker=ProblÃ¨me de visualiseur BIRT
 
 birt.viewer.extension.appcontext=Point d'extension Viewer AppContext

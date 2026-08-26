@@ -9,31 +9,31 @@
 #  Actuate Corporation  - initial API and implementation
 ###############################################################################
 #Summary aggregates.
-Sum.displayName=ÇÕ
+Sum.displayName=í•©
 
-Average.displayName=Æò±Õ
+Average.displayName=í‰ê· 
 
-Count.displayName=Ä«¿îÆ®
+Count.displayName=ì¹´ìš´íŠ¸
 
-DistinctCount.displayName=°íÀ¯ Ä«¿îÆ®
+DistinctCount.displayName=ê³ ìœ  ì¹´ìš´íŠ¸
 
-First.displayName=Ã¹Â°
+First.displayName=ì²«ì§¸
 
-Last.displayName=¸¶Áö¸·
+Last.displayName=ë§ˆì§€ë§‰
 
-Min.displayName=ÃÖ¼Ò°ª
+Min.displayName=ìµœì†Œê°’
 
-Max.displayName=ÃÖ´ë°ª
+Max.displayName=ìµœëŒ€ê°’
 
-WeightedAverage.displayName=°¡Áß Æò±Õ
+WeightedAverage.displayName=ê°€ì¤‘ í‰ê· 
 
-Median.displayName=Áß¾Ó°ª
+Median.displayName=ì¤‘ì•™ê°’
 
-Mode.displayName=ÃÖºó°ª
+Mode.displayName=ìµœë¹ˆê°’
 
 STDDEV.displayName=STDDEV
 
-Variance.displayName=ºĞ»ê
+Variance.displayName=ë¶„ì‚°
 
 Irr.displayName=IRR
 
@@ -41,28 +41,28 @@ Mirr.displayName=MIRR
 
 NPV.displayName=NPV
 
-Percentile.displayName=¹éºĞÀ§¼ö
+Percentile.displayName=ë°±ë¶„ìœ„ìˆ˜
 
-Quartile.displayName=»çºĞÀ§¼ö
+Quartile.displayName=ì‚¬ë¶„ìœ„ìˆ˜
 #Running aggregates.
-MovingAverage.displayName=ÀÌµ¿ Æò±Õ
+MovingAverage.displayName=ì´ë™ í‰ê· 
 
-RunningSum.displayName=´©Àû ÇÕ°è
+RunningSum.displayName=ëˆ„ì  í•©ê³„
 
-RunningNPV.displayName=´©Àû NPV
+RunningNPV.displayName=ëˆ„ì  NPV
 
-Rank.displayName=µî±Ş
+Rank.displayName=ë“±ê¸‰
 
-Top.displayName=»óÀ§ N
+Top.displayName=ìƒìœ„ N
 
-TopPercent.displayName=»óÀ§ N ¹éºĞÀ²
+TopPercent.displayName=ìƒìœ„ N ë°±ë¶„ìœ¨
 
-Bottom.displayName=ÇÏÀ§ N
+Bottom.displayName=í•˜ìœ„ N
 
-BottomPercent.displayName=ÇÏÀ§ N ¹éºĞÀ²
+BottomPercent.displayName=í•˜ìœ„ N ë°±ë¶„ìœ¨
 
-PercentRank.displayName=¹éºĞÀ² µî±Ş
+PercentRank.displayName=ë°±ë¶„ìœ¨ ë“±ê¸‰
 
-PercentSum.displayName=¹éºĞÀ² ÇÕ°è
+PercentSum.displayName=ë°±ë¶„ìœ¨ í•©ê³„
 
-RunningCount.displayName=´©Àû Ä«¿îÆ®
+RunningCount.displayName=ëˆ„ì  ì¹´ìš´íŠ¸

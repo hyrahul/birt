@@ -2,101 +2,101 @@
 # the text of Design Engine exceptions.
 
 ###########################################################
-INVALID_TYPE=Àß¸øµÈ µ¥ÀÌÅÍ Çü½ÄÀÔ´Ï´Ù.
+INVALID_TYPE=ìž˜ëª»ëœ ë°ì´í„° í˜•ì‹ìž…ë‹ˆë‹¤.
 
-INVALID_EXPRSSION=Àß¸øµÈ Javascript ½Ä: {0}
+INVALID_EXPRSSION=ìž˜ëª»ëœ Javascript ì‹: {0}
 
-CONVERT_FAILS={0} °ªÀ» {1} Çü½ÄÀ¸·Îº¯È¯ÇÒ ¼ö ¾ø½À´Ï´Ù.
+CONVERT_FAILS={0} ê°’ì„ {1} í˜•ì‹ìœ¼ë¡œë³€í™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-birt.core.JavascriptCommonError=½ºÅ©¸³Æ® "{0}"À»(¸¦) Æò°¡ÇÏ´Â µµÁß ¿À·ù°¡ ¹ß»ýÇß½À´Ï´Ù.\n{1}
+birt.core.JavascriptCommonError=ìŠ¤í¬ë¦½íŠ¸ "{0}"ì„(ë¥¼) í‰ê°€í•˜ëŠ” ë„ì¤‘ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.\n{1}
 
 birt.core.JavascriptError={0}
-birt.core.Javascript.parameterNotExist=º¸°í¼­ ¸Å°³ º¯¼ö "{0}"ÀÌ(°¡) ¾ø½À´Ï´Ù.
+birt.core.Javascript.parameterNotExist=ë³´ê³ ì„œ ë§¤ê°œ ë³€ìˆ˜ "{0}"ì´(ê°€) ì—†ìŠµë‹ˆë‹¤.
 
-birt.core.Javascript.variableNotExist=º¸°í¼­ º¯¼ö "{0}"ÀÌ(°¡) ¾ø½À´Ï´Ù.
+birt.core.Javascript.variableNotExist=ë³´ê³ ì„œ ë³€ìˆ˜ "{0}"ì´(ê°€) ì—†ìŠµë‹ˆë‹¤.
 
-birt.core.Javascript.nativeNotFound={0}À»(¸¦) Ã£À» ¼ö ¾ø½À´Ï´Ù.
+birt.core.Javascript.nativeNotFound={0}ì„(ë¥¼) ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-birt.core.BirtComp.invalidRegularExpression=Àß¸øµÈ Á¤±Ô½ÄÀÔ´Ï´Ù.
+birt.core.BirtComp.invalidRegularExpression=ìž˜ëª»ëœ ì •ê·œì‹ìž…ë‹ˆë‹¤.
 
-error.NoSuchScriptExtension = ½ºÅ©¸³Æ® È®Àå¸íÀÌ ¾ø½À´Ï´Ù: {0}.
+error.NoSuchScriptExtension = ìŠ¤í¬ë¦½íŠ¸ í™•ìž¥ëª…ì´ ì—†ìŠµë‹ˆë‹¤: {0}.
 
-error.InvalidSeekOffset = À§Ä¡ {0}ÀÌ(°¡) Àß¸øµÇ¾ú½À´Ï´Ù.
+error.InvalidSeekOffset = ìœ„ì¹˜ {0}ì´(ê°€) ìž˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-error.ExceedFileLength = ÆÄÀÏ ±æÀÌ¸¦ ÃÊ°úÇß½À´Ï´Ù.
+error.ExceedFileLength = íŒŒì¼ ê¸¸ì´ë¥¼ ì´ˆê³¼í–ˆìŠµë‹ˆë‹¤.
 
-error.CanotchangeReadOnlyBuffer = ÀÐ±â Àü¿ë ¹öÆÛ¸¦ º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.
+error.CanotchangeReadOnlyBuffer = ì½ê¸° ì „ìš© ë²„í¼ë¥¼ ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-error.FileOpenedInReadOnlyMode = ÆÄÀÏÀÌ ÀÐ±â Àü¿ë ¸ðµå·Î ¿­·Á ÀÖ½À´Ï´Ù.
+error.FileOpenedInReadOnlyMode = íŒŒì¼ì´ ì½ê¸° ì „ìš© ëª¨ë“œë¡œ ì—´ë ¤ ìžˆìŠµë‹ˆë‹¤.
 
-error.FileHasBeenClosed = ¾ÆÄ«ÀÌºê ÆÄÀÏÀÌ ´ÝÇû½À´Ï´Ù.
+error.FileHasBeenClosed = ì•„ì¹´ì´ë¸Œ íŒŒì¼ì´ ë‹«í˜”ìŠµë‹ˆë‹¤.
 
-error.UnparseableString = ¹®ÀÚ¿­ °ªÀ» ±¸¹® ºÐ¼®ÇÒ ¼ö ¾ø½À´Ï´Ù: "{0}".
+error.UnparseableString = ë¬¸ìžì—´ ê°’ì„ êµ¬ë¬¸ ë¶„ì„í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤: "{0}".
 
-error.CannotStartupOSGIPlatform = OSGI ÇÁ·¹ÀÓ¿öÅ©¸¦ ½ÃÀÛÇÒ ¼ö ¾ø½À´Ï´Ù.
+error.CannotStartupOSGIPlatform = OSGI í”„ë ˆìž„ì›Œí¬ë¥¼ ì‹œìž‘í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-error.UnsupportedFileMode = Áö¿øµÇÁö ¾Ê´Â ÆÄÀÏ ¸ðµåÀÔ´Ï´Ù: {0}.
+error.UnsupportedFileMode = ì§€ì›ë˜ì§€ ì•ŠëŠ” íŒŒì¼ ëª¨ë“œìž…ë‹ˆë‹¤: {0}.
 
-error.FolderNameIsNull = Æú´õ ÀÌ¸§ÀÌ ³Î(null)ÀÌ°Å³ª ºó ¹®ÀÚ¿­ÀÔ´Ï´Ù..
+error.FolderNameIsNull = í´ë” ì´ë¦„ì´ ë„(null)ì´ê±°ë‚˜ ë¹ˆ ë¬¸ìžì—´ìž…ë‹ˆë‹¤..
 
-error.FileNameIsNull = ÆÄÀÏ ÀÌ¸§ÀÌ ³Î(null)ÀÌ°Å³ª ºó ¹®ÀÚ¿­ÀÔ´Ï´Ù.
+error.FileNameIsNull = íŒŒì¼ ì´ë¦„ì´ ë„(null)ì´ê±°ë‚˜ ë¹ˆ ë¬¸ìžì—´ìž…ë‹ˆë‹¤.
 
-error.NotExt2Archive = Ext2 ¾ÆÄ«ÀÌºê°¡ ¾Æ´Ï¸ç ¸ÅÁ÷ ÄÚµå´Â ´ÙÀ½°ú °°½À´Ï´Ù: {0}.
+error.NotExt2Archive = Ext2 ì•„ì¹´ì´ë¸Œê°€ ì•„ë‹ˆë©° ë§¤ì§ ì½”ë“œëŠ” ë‹¤ìŒê³¼ ê°™ìŠµë‹ˆë‹¤: {0}.
 
-error.NotCompoundFile = º¹ÇÕ ÆÄÀÏÀÌ ¾Æ´Ï¸ç ¸ÅÁ÷ ÄÚµå´Â ´ÙÀ½°ú °°½À´Ï´Ù: {0}.
+error.NotCompoundFile = ë³µí•© íŒŒì¼ì´ ì•„ë‹ˆë©° ë§¤ì§ ì½”ë“œëŠ” ë‹¤ìŒê³¼ ê°™ìŠµë‹ˆë‹¤: {0}.
 
-error.ReadOnlyArchive = ÀÐ±â Àü¿ë ¾ÆÄ«ÀÌºêÀÔ´Ï´Ù.
+error.ReadOnlyArchive = ì½ê¸° ì „ìš© ì•„ì¹´ì´ë¸Œìž…ë‹ˆë‹¤.
 
-error.UnsupportedArchiveVersion = Áö¿øµÇÁö ¾Ê´Â ¾ÆÄ«ÀÌºê ¹öÀü {0}ÀÔ´Ï´Ù.
+error.UnsupportedArchiveVersion = ì§€ì›ë˜ì§€ ì•ŠëŠ” ì•„ì¹´ì´ë¸Œ ë²„ì „ {0}ìž…ë‹ˆë‹¤.
 
-error.UnsupportedBlockSize = Áö¿øµÇÁö ¾Ê´Â ºí·Ï Å©±âÀÔ´Ï´Ù.
+error.UnsupportedBlockSize = ì§€ì›ë˜ì§€ ì•ŠëŠ” ë¸”ë¡ í¬ê¸°ìž…ë‹ˆë‹¤.
 
-error.InvalidIndex = ºí·Ï {0}¿¡¼­ ÀÎµ¦½º°¡ Àß¸øµÇ¾ú½À´Ï´Ù.
+error.InvalidIndex = ë¸”ë¡ {0}ì—ì„œ ì¸ë±ìŠ¤ê°€ ìž˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-error.UnsupportedNodeType = ¿¹±âÁö ¾ÊÀº ³ëµå Çü½ÄÀÔ´Ï´Ù: {1} ³ëµåÀÇ {0}ÀÔ´Ï´Ù.
+error.UnsupportedNodeType = ì˜ˆê¸°ì§€ ì•Šì€ ë…¸ë“œ í˜•ì‹ìž…ë‹ˆë‹¤: {1} ë…¸ë“œì˜ {0}ìž…ë‹ˆë‹¤.
 
-error.NotSerializable = Á÷·ÄÈ­ÇÒ ¼ö ¾ø½À´Ï´Ù.
+error.NotSerializable = ì§ë ¬í™”í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-error.UnsupportedDataType = ÀÌ µ¥ÀÌÅÍ Çü½ÄÀº ¾ÆÁ÷ Áö¿øµÇÁö ¾Ê°Å³ª Á÷·ÄÈ­ÇÒ ¼ö ¾ø½À´Ï´Ù.
+error.UnsupportedDataType = ì´ ë°ì´í„° í˜•ì‹ì€ ì•„ì§ ì§€ì›ë˜ì§€ ì•Šê±°ë‚˜ ì§ë ¬í™”í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-error.InvalidLockType = Àß¸øµÈ Àá±Ý Çü½ÄÀÔ´Ï´Ù: {0}.
+error.InvalidLockType = ìž˜ëª»ëœ ìž ê¸ˆ í˜•ì‹ìž…ë‹ˆë‹¤: {0}.
 
-error.ArchiveOpenForWrite = ¾ÆÄ«ÀÌºê´Â ¾µ ¼ö ÀÖ´Â »óÅÂ·Î ¿­·Á¾ß ÇÕ´Ï´Ù. ½Ã½ºÅÛ ID: {0}.
+error.ArchiveOpenForWrite = ì•„ì¹´ì´ë¸ŒëŠ” ì“¸ ìˆ˜ ìžˆëŠ” ìƒíƒœë¡œ ì—´ë ¤ì•¼ í•©ë‹ˆë‹¤. ì‹œìŠ¤í…œ ID: {0}.
 
-error.ExceedMaxBlockSize = ¾ÆÄ«ÀÌºê Çì´õ Å©±â´Â ´ÙÀ½º¸´Ù ÀÛ¾Æ¾ß ÇÕ´Ï´Ù: {0}.
+error.ExceedMaxBlockSize = ì•„ì¹´ì´ë¸Œ í—¤ë” í¬ê¸°ëŠ” ë‹¤ìŒë³´ë‹¤ ìž‘ì•„ì•¼ í•©ë‹ˆë‹¤: {0}.
 
-error.InvalidArchiveName= {0}ÀÌ(°¡) ¾ø°Å³ª ¶Ç´Â Æú´õ°¡ ¾Æ´Õ´Ï´Ù.
+error.InvalidArchiveName= {0}ì´(ê°€) ì—†ê±°ë‚˜ ë˜ëŠ” í´ë”ê°€ ì•„ë‹™ë‹ˆë‹¤.
 
-error.NullSource = ¿øº» ¾ÆÄ«ÀÌºê ¶Ç´Â ´ë»óÀÌ ³Î(null)ÀÔ´Ï´Ù.
+error.NullSource = ì›ë³¸ ì•„ì¹´ì´ë¸Œ ë˜ëŠ” ëŒ€ìƒì´ ë„(null)ìž…ë‹ˆë‹¤.
 
-error.OutOfRange = °Ë»ö À§Ä¡°¡ ¹üÀ§¸¦ ¹þ¾î³µ½À´Ï´Ù.
+error.OutOfRange = ê²€ìƒ‰ ìœ„ì¹˜ê°€ ë²”ìœ„ë¥¼ ë²—ì–´ë‚¬ìŠµë‹ˆë‹¤.
 
-error.ReadOnlyTree = Ç×¸ñÀ» ÀÐ±â Àü¿ë Æ®¸®·Î »ðÀÔÇÒ ¼ö ¾ø½À´Ï´Ù.
+error.ReadOnlyTree = í•­ëª©ì„ ì½ê¸° ì „ìš© íŠ¸ë¦¬ë¡œ ì‚½ìž…í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-error.CannotLoadNode = ³ëµå¸¦ ·ÎµåÇÒ ¼ö ¾ø½À´Ï´Ù: {0}.
+error.CannotLoadNode = ë…¸ë“œë¥¼ ë¡œë“œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤: {0}.
 
-error.KeySizeError = Å° Å©±â´Â {1} ´ë½Å {0}ÀÔ´Ï´Ù.
+error.KeySizeError = í‚¤ í¬ê¸°ëŠ” {1} ëŒ€ì‹  {0}ìž…ë‹ˆë‹¤.
 
-error.MismatchKeyLength = Å° ±æÀÌ°¡ °íÁ¤ ±æÀÌ Å°¿Í ÀÏÄ¡ÇÏÁö ¾Ê½À´Ï´Ù.
+error.MismatchKeyLength = í‚¤ ê¸¸ì´ê°€ ê³ ì • ê¸¸ì´ í‚¤ì™€ ì¼ì¹˜í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-error.ValueSizeError = °ª Å©±â´Â {1} ´ë½Å {0}ÀÔ´Ï´Ù.
+error.ValueSizeError = ê°’ í¬ê¸°ëŠ” {1} ëŒ€ì‹  {0}ìž…ë‹ˆë‹¤.
 
-error.MismatchValueLength = °ª ±æÀÌ°¡ °íÁ¤ ±æÀÌ °ª°ú ÀÏÄ¡ÇÏÁö ¾Ê½À´Ï´Ù.
+error.MismatchValueLength = ê°’ ê¸¸ì´ê°€ ê³ ì • ê¸¸ì´ ê°’ê³¼ ì¼ì¹˜í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-error.InvaldMagicTag = Àß¸øµÈ ¸ÅÁ÷ ÅÂ±×ÀÔ´Ï´Ù: {0}.
+error.InvaldMagicTag = ìž˜ëª»ëœ ë§¤ì§ íƒœê·¸ìž…ë‹ˆë‹¤: {0}.
 
-error.UnsupportedVersion = Áö¿øµÇÁö ¾Ê´Â ¹öÀüÀÔ´Ï´Ù: {0}.
+error.UnsupportedVersion = ì§€ì›ë˜ì§€ ì•ŠëŠ” ë²„ì „ìž…ë‹ˆë‹¤: {0}.
 
-error.InvalidCursor = Àß¸øµÈ Ä¿¼­ÀÔ´Ï´Ù.
+error.InvalidCursor = ìž˜ëª»ëœ ì»¤ì„œìž…ë‹ˆë‹¤.
 
-error.CusorNotInitialized = Ä¿¼­¸¦ ¸ÕÀú ÃÊ±âÈ­ÇØ¾ß ÇÕ´Ï´Ù.
+error.CusorNotInitialized = ì»¤ì„œë¥¼ ë¨¼ì € ì´ˆê¸°í™”í•´ì•¼ í•©ë‹ˆë‹¤.
 
-error.UnexpectedEqualKeys = ¿¹±âÄ¡ ¾ÊÀº µ¿ÀÏÇÑ Å°ÀÔ´Ï´Ù.
+error.UnexpectedEqualKeys = ì˜ˆê¸°ì¹˜ ì•Šì€ ë™ì¼í•œ í‚¤ìž…ë‹ˆë‹¤.
 
-error.UnknownValueType = ¾Ë ¼ö ¾ø´Â °ª Çü½ÄÀÔ´Ï´Ù: {0}.
+error.UnknownValueType = ì•Œ ìˆ˜ ì—†ëŠ” ê°’ í˜•ì‹ìž…ë‹ˆë‹¤: {0}.
 
-error.ExceedMaxBlock = RAM {1}¿¡¼­ {0}ÀÌ(°¡) ÃÖ´ë ºí·ÏÀ» ÃÊ°úÇÕ´Ï´Ù.
+error.ExceedMaxBlock = RAM {1}ì—ì„œ {0}ì´(ê°€) ìµœëŒ€ ë¸”ë¡ì„ ì´ˆê³¼í•©ë‹ˆë‹¤.
 
-error.MalformedInputError = Àß¸øµÈ ÀÔ·Â: ³¡ÀÇ ÀÏºÎ ¹®ÀÚ
+error.MalformedInputError = ìž˜ëª»ëœ ìž…ë ¥: ëì˜ ì¼ë¶€ ë¬¸ìž
 
-error.MalformedInputAroundByte = {0}¹ÙÀÌÆ® ÁÖº¯¿¡ ÀÔ·ÂÀÌ Àß¸øµÇ¾ú½À´Ï´Ù.>>>>>>> 1.8
+error.MalformedInputAroundByte = {0}ë°”ì´íŠ¸ ì£¼ë³€ì— ìž…ë ¥ì´ ìž˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.>>>>>>> 1.8

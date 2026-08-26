@@ -11,30 +11,30 @@
 
 ###########################################################
 #Excel Emitter
-ExcelEmitter.Description=ÅäÖÃÓÃÓÚÒÔ XML Spreadsheet 2003 ¸ñÊ½³ÊÏÖ±¨±íµÄÑ¡Ïî¡£
+ExcelEmitter.Description=é…ç½®ç”¨äºä»¥ XML Spreadsheet 2003 æ ¼å¼å‘ˆç°æŠ¥è¡¨çš„é€‰é¡¹ã€‚
 
 ExcelEmitter.DisplayName=Excel (XLS)
 
 ###########################################################
 #Option Display Value
-OptionDisplayValue.WrappingText=ÆôÓÃ×Ô¶¯»»ĞĞ
+OptionDisplayValue.WrappingText=å¯ç”¨è‡ªåŠ¨æ¢è¡Œ
 
-OptionDisplayValue.OfficeVersion=Êä³ö°æ±¾:
+OptionDisplayValue.OfficeVersion=è¾“å‡ºç‰ˆæœ¬:
 
 OptionDisplayValue.Office2003=Microsoft Office 2003
 OptionDisplayValue.Office2007=Microsoft Office 2007
-OptionDisplayValue.ChartDpi=Í¼±í DPI
+OptionDisplayValue.ChartDpi=å›¾è¡¨ DPI
 
-OptionDisplayValue.HideGridlines=Òş²ØÍø¸ñÏß
+OptionDisplayValue.HideGridlines=éšè—ç½‘æ ¼çº¿
 
 ###########################################################
 #Option Description
-OptionDescription.WrappingText=±íÊ¾ÎÄ±¾ÊÇ·ñ¿É×Ô¶¯»»ĞĞ¡£
+OptionDescription.WrappingText=è¡¨ç¤ºæ–‡æœ¬æ˜¯å¦å¯è‡ªåŠ¨æ¢è¡Œã€‚
 
-OptionDescription.ChartDpi=DPI ÓÃÓÚÉú³ÉÍ¼±í¡£
+OptionDescription.ChartDpi=DPI ç”¨äºç”Ÿæˆå›¾è¡¨ã€‚
 
-OptionDescription.HideGridlines=Òş²ØÍø¸ñÏß¡£
+OptionDescription.HideGridlines=éšè—ç½‘æ ¼çº¿ã€‚
 
 ###########################################################
 #tooltip
-Tooltip.ChartDpi=Í¼±íÒıÇæÓÃÓÚÉú³ÉÍ¼±íµÄ DPI¡£ ÀıÈç£¬192¡£
+Tooltip.ChartDpi=å›¾è¡¨å¼•æ“ç”¨äºç”Ÿæˆå›¾è¡¨çš„ DPIã€‚ ä¾‹å¦‚ï¼Œ192ã€‚

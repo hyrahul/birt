@@ -11,8 +11,8 @@
 #  
 #************************************************************************
 #
-connection_nullProfile=�f�[�^�\�[�X�̐ڑ��v���p�e�B�ŎQ�Ƃ��ꂽ�ڑ��v���t�@�C����������܂���B
+connection_nullProfile=データソースの接続プロパティで参照された接続プロファイルが見つかりません。
 
-connection_openFailed=�f�[�^�x�[�X�ڑ��v���t�@�C���Ƃ̐ڑ����J�����Ƃ��ł��܂���B
+connection_openFailed=データベース接続プロファイルとの接続を開くことができません。
 
-dBProfileStatement_nullPropertyNameArg={0} �ɂ�Null �v���p�e�B���������w�肳��Ă��܂��B
+dBProfileStatement_nullPropertyNameArg={0} にはNull プロパティ名引数が指定されています。

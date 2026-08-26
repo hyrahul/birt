@@ -24,7 +24,7 @@ providerName=Eclipse.org
 updateSiteName=Business Intellegence and Reporting Tool (BIRT) Updates
 
 # "description" property - description of the feature
-description=Eclipse Business Intelligence & Reporting Tools (BIRT) Plug-Ins f�r Report Designer, Runtime und Benutzerdokumentation.
+description=Eclipse Business Intelligence & Reporting Tools (BIRT) Plug-Ins fï¿½r Report Designer, Runtime und Benutzerdokumentation.
 
 # "copyright" property
 copyrightURL=https://eclipse-birt.github.io/birt-website

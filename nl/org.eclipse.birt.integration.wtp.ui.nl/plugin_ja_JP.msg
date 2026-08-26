@@ -1,28 +1,28 @@
-birt.web.category.name=ƒrƒWƒlƒXƒCƒ“ƒeƒŠƒWƒFƒ“ƒX‚ÆƒŒƒ|[ƒgì¬ƒc[ƒ‹(&B)
+birt.web.category.name=ãƒ“ã‚¸ãƒã‚¹ã‚¤ãƒ³ãƒ†ãƒªã‚¸ã‚§ãƒ³ã‚¹ã¨ãƒ¬ãƒãƒ¼ãƒˆä½œæˆãƒ„ãƒ¼ãƒ«(&B)
 
-birt.web.project.name=BIRT ƒ‰ƒ“ƒ^ƒCƒ€•t‚« Web ƒvƒƒWƒFƒNƒg
+birt.web.project.name=BIRT ãƒ©ãƒ³ã‚¿ã‚¤ãƒ ä»˜ã Web ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ
 
-birt.web.project.description=BIRT ƒ‰ƒ“ƒ^ƒCƒ€ƒRƒ“ƒ|[ƒlƒ“ƒg‚ðŠÜ‚Þ Web ƒvƒƒWƒFƒNƒg‚ðì¬‚µ‚Ü‚·B
+birt.web.project.description=BIRT ãƒ©ãƒ³ã‚¿ã‚¤ãƒ ã‚³ãƒ³ãƒãƒ¼ãƒãƒ³ãƒˆã‚’å«ã‚€ Web ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ä½œæˆã—ã¾ã™ã€‚
 
-birt.web.actionsets.description=BIRT Web ƒvƒƒWƒFƒNƒg‚Å‚Ì‘€ì
+birt.web.actionsets.description=BIRT Web ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã§ã®æ“ä½œ
 
-create.birt.web.module=BIRT Web ƒ‚ƒWƒ…[ƒ‹‚Ìì¬
+create.birt.web.module=BIRT Web ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã®ä½œæˆ
 
-BIRT_FACET_LABEL=BIRT ƒŒƒ|[ƒgì¬ƒ‰ƒ“ƒ^ƒCƒ€ƒRƒ“ƒ|[ƒlƒ“ƒg
+BIRT_FACET_LABEL=BIRT ãƒ¬ãƒãƒ¼ãƒˆä½œæˆãƒ©ãƒ³ã‚¿ã‚¤ãƒ ã‚³ãƒ³ãƒãƒ¼ãƒãƒ³ãƒˆ
 
-BIRT_FACET_DESCRIPTION=BIRT ƒŒƒ|[ƒgì¬ƒ‰ƒ“ƒ^ƒCƒ€ƒRƒ“ƒ|[ƒlƒ“ƒg
+BIRT_FACET_DESCRIPTION=BIRT ãƒ¬ãƒãƒ¼ãƒˆä½œæˆãƒ©ãƒ³ã‚¿ã‚¤ãƒ ã‚³ãƒ³ãƒãƒ¼ãƒãƒ³ãƒˆ
 
-BIRT_FACET_TEMPLATE_LABEL=BIRT ƒŒƒ|[ƒgì¬ Web ƒvƒƒWƒFƒNƒg
+BIRT_FACET_TEMPLATE_LABEL=BIRT ãƒ¬ãƒãƒ¼ãƒˆä½œæˆ Web ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ
 
-BIRT_FACET_TEMPLATE_DESCRIPTION=BIRT ƒŒƒ|[ƒgì¬ƒ‰ƒ“ƒ^ƒCƒ€ƒRƒ“ƒ|[ƒlƒ“ƒg‚Ì Web ƒvƒƒWƒFƒNƒg
+BIRT_FACET_TEMPLATE_DESCRIPTION=BIRT ãƒ¬ãƒãƒ¼ãƒˆä½œæˆãƒ©ãƒ³ã‚¿ã‚¤ãƒ ã‚³ãƒ³ãƒãƒ¼ãƒãƒ³ãƒˆã® Web ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ
 
-JSP_New_context_type_Extension_Element.name=V‹K JSP (BIRT ƒ^ƒO‚ðŽg—p)
+JSP_New_context_type_Extension_Element.name=æ–°è¦ JSP (BIRT ã‚¿ã‚°ã‚’ä½¿ç”¨)
 
-JSP_Tag_context_type_Extension_Element.name=V‹K BIRT JSP ƒ^ƒO
+JSP_Tag_context_type_Extension_Element.name=æ–°è¦ BIRT JSP ã‚¿ã‚°
 
-BirtResourcesDefinition= BIRT Web ƒAƒvƒŠƒP[ƒVƒ‡ƒ“ƒŠƒ\[ƒX‚Ì’è‹`
+BirtResourcesDefinition= BIRT Web ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ãƒªã‚½ãƒ¼ã‚¹ã®å®šç¾©
 
-birt.action.importruntime.name=BIRT ƒ‰ƒ“ƒ^ƒCƒ€ƒRƒ“ƒ|[ƒlƒ“ƒg‚ÌƒCƒ“ƒ|[ƒg(&B)...
+birt.action.importruntime.name=BIRT ãƒ©ãƒ³ã‚¿ã‚¤ãƒ ã‚³ãƒ³ãƒãƒ¼ãƒãƒ³ãƒˆã®ã‚¤ãƒ³ãƒãƒ¼ãƒˆ(&B)...
 
 
 plugin.version=4.4.0

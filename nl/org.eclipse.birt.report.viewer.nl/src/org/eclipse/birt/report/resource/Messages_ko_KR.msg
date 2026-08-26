@@ -10,367 +10,367 @@
 ###############################################################################
 
 birt.viewer.title=BIRT Report Viewer
-birt.viewer.title.navigation=Å½»ö
+birt.viewer.title.navigation=íƒìƒ‰
 
-birt.viewer.title.error=¿À·ù
+birt.viewer.title.error=ì˜¤ë¥˜
 
-birt.viewer.title.complete=¿Ï·á
+birt.viewer.title.complete=ì™„ë£Œ
 
-birt.viewer.title.message=¸Ş½ÃÁö
+birt.viewer.title.message=ë©”ì‹œì§€
 
-birt.viewer.parameter=¸Å°³ º¯¼ö
+birt.viewer.parameter=ë§¤ê°œ ë³€ìˆ˜
 
-birt.viewer.runreport=º¸°í¼­ ½ÇÇà
+birt.viewer.runreport=ë³´ê³ ì„œ ì‹¤í–‰
 
-birt.viewer.required=<FONT COLOR="red">*</FONT>°¡ Ç¥½ÃµÈ ¸Å°³ º¯¼ö°¡ ÇÊ¿äÇÕ´Ï´Ù.
+birt.viewer.required=<FONT COLOR="red">*</FONT>ê°€ í‘œì‹œëœ ë§¤ê°œ ë³€ìˆ˜ê°€ í•„ìš”í•©ë‹ˆë‹¤.
 
-birt.viewer.viewinpdf=PDF¿¡¼­ º¸±â
+birt.viewer.viewinpdf=PDFì—ì„œ ë³´ê¸°
 
-birt.viewer.maximize=º¸°í¼­ ¸Å°³ º¯¼ö ¼û±â±â
+birt.viewer.maximize=ë³´ê³ ì„œ ë§¤ê°œ ë³€ìˆ˜ ìˆ¨ê¸°ê¸°
 
-birt.viewer.restore=º¸°í¼­ ¸Å°³ º¯¼ö Ç¥½Ã
+birt.viewer.restore=ë³´ê³ ì„œ ë§¤ê°œ ë³€ìˆ˜ í‘œì‹œ
 
-birt.viewer.error=¿À·ù ¸Ş½ÃÁö
+birt.viewer.error=ì˜¤ë¥˜ ë©”ì‹œì§€
 
-birt.viewer.error.noparameter=ÀÌ º¸°í¼­¿¡ ´ëÇÑ ¸Å°³ º¯¼ö°¡ ¾ø½À´Ï´Ù.
+birt.viewer.error.noparameter=ì´ ë³´ê³ ì„œì— ëŒ€í•œ ë§¤ê°œ ë³€ìˆ˜ê°€ ì—†ìŠµë‹ˆë‹¤.
 
-birt.viewer.error.parameter.invalid=¸Å°³º¯¼ö "{0}"ÀÌ(°¡) Àß¸øµÇ¾ú½À´Ï´Ù.
+birt.viewer.error.parameter.invalid=ë§¤ê°œë³€ìˆ˜ "{0}"ì´(ê°€) ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-birt.viewer.error.noprinter=PostScript Çü½ÄÀ» Áö¿øÇÏ´Â ÇÁ¸°ÅÍ¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù.
+birt.viewer.error.noprinter=PostScript í˜•ì‹ì„ ì§€ì›í•˜ëŠ” í”„ë¦°í„°ë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-birt.viewer.error.unknownerror=¾Ë ¼ö ¾ø´Â ¿À·ùÀÔ´Ï´Ù.
+birt.viewer.error.unknownerror=ì•Œ ìˆ˜ ì—†ëŠ” ì˜¤ë¥˜ì…ë‹ˆë‹¤.
 
-birt.viewer.error.generatereportfirst=º¸°í¼­ ¹®¼­°¡ ¸ÕÀú »ı¼ºµÇ¾î¾ß ÇÕ´Ï´Ù.
+birt.viewer.error.generatereportfirst=ë³´ê³ ì„œ ë¬¸ì„œê°€ ë¨¼ì € ìƒì„±ë˜ì–´ì•¼ í•©ë‹ˆë‹¤.
 
-birt.viewer.error.copiesnumber=¿Ã¹Ù¸¥ ÀÎ¼â ¸Å¼ö¸¦ ÀÔ·ÂÇÏ½Ê½Ã¿À.
+birt.viewer.error.copiesnumber=ì˜¬ë°”ë¥¸ ì¸ì‡„ ë§¤ìˆ˜ë¥¼ ì…ë ¥í•˜ì‹­ì‹œì˜¤.
 
-birt.viewer.error.parameterrequired=ÇÊ¼ö ¸Å°³ º¯¼ö [{0}]ÀÇ °ªÀÌ ÁöÁ¤µÇÁö ¾Ê¾Ò½À´Ï´Ù.
+birt.viewer.error.parameterrequired=í•„ìˆ˜ ë§¤ê°œ ë³€ìˆ˜ [{0}]ì˜ ê°’ì´ ì§€ì •ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
 
-birt.viewer.error.parameternotallowblank=¸Å°³º¯¼ö "{0}"Àº(´Â) ºñ¿öµÑ ¼ö ¾ø½À´Ï´Ù.
+birt.viewer.error.parameternotallowblank=ë§¤ê°œë³€ìˆ˜ "{0}"ì€(ëŠ”) ë¹„ì›Œë‘˜ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-birt.viewer.error.parameternotselected=¸Å°³º¯¼ö "{0}" °ªÀ» ¼±ÅÃÇÏ½Ê½Ã¿À.
+birt.viewer.error.parameternotselected=ë§¤ê°œë³€ìˆ˜ "{0}" ê°’ì„ ì„ íƒí•˜ì‹­ì‹œì˜¤.
 
-birt.viewer.error.noviewingsession=º¸±â ¼¼¼ÇÀ» »ç¿ëÇÒ ¼ö ¾ø°Å³ª ¼¼¼ÇÀÌ ¸¸·áµÇ¾ú½À´Ï´Ù.
+birt.viewer.error.noviewingsession=ë³´ê¸° ì„¸ì…˜ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ê±°ë‚˜ ì„¸ì…˜ì´ ë§Œë£Œë˜ì—ˆìŠµë‹ˆë‹¤.
 
-birt.viewer.error.viewingsessionexpired=º¸±â ¼¼¼ÇÀÌ ¸¸·áµÇ¾ú½À´Ï´Ù.
+birt.viewer.error.viewingsessionexpired=ë³´ê¸° ì„¸ì…˜ì´ ë§Œë£Œë˜ì—ˆìŠµë‹ˆë‹¤.
 
-birt.viewer.error.viewingsessionlocked=º¸±â ¼¼¼ÇÀÌ Àá°Ü ÀÖ¾î Á¾·áÇÒ ¼ö ¾ø½À´Ï´Ù.
+birt.viewer.error.viewingsessionlocked=ë³´ê¸° ì„¸ì…˜ì´ ì ê²¨ ìˆì–´ ì¢…ë£Œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-birt.viewer.error.viewingsessionmaxreached=ÃÖ´ë º¸±â ¼¼¼Ç ¼ö¿¡ µµ´ŞÇß½À´Ï´Ù.
+birt.viewer.error.viewingsessionmaxreached=ìµœëŒ€ ë³´ê¸° ì„¸ì…˜ ìˆ˜ì— ë„ë‹¬í–ˆìŠµë‹ˆë‹¤.
 
-birt.viewer.error.columnrequired=¿­ÀÌ ¼±ÅÃµÇÁö ¾Ê¾Ò½À´Ï´Ù. ³»º¸³¾ ¿­À» ÇÑ °³ ÀÌ»ó ¼±ÅÃÇÏ½Ê½Ã¿À.
+birt.viewer.error.columnrequired=ì—´ì´ ì„ íƒë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤. ë‚´ë³´ë‚¼ ì—´ì„ í•œ ê°œ ì´ìƒ ì„ íƒí•˜ì‹­ì‹œì˜¤.
 
-birt.viewer.message.taskcanceled=ÇöÀç ÀÛ¾÷ÀÌ Ãë¼ÒµÇ¾ú½À´Ï´Ù.
+birt.viewer.message.taskcanceled=í˜„ì¬ ì‘ì—…ì´ ì·¨ì†Œë˜ì—ˆìŠµë‹ˆë‹¤.
 
 ###############################################################################
 # Toolbar
 ###############################################################################
-birt.viewer.toolbar.print=º¸°í¼­ ÀÎ¼â
+birt.viewer.toolbar.print=ë³´ê³ ì„œ ì¸ì‡„
 
-birt.viewer.toolbar.printserver=¼­¹ö¿¡¼­ º¸°í¼­ ÀÎ¼â
+birt.viewer.toolbar.printserver=ì„œë²„ì—ì„œ ë³´ê³ ì„œ ì¸ì‡„
 
-birt.viewer.toolbar.toc=¸ñÂ÷ Ç¥½Ã
+birt.viewer.toolbar.toc=ëª©ì°¨ í‘œì‹œ
 
-birt.viewer.toolbar.parameter=º¸°í¼­ ½ÇÇà
+birt.viewer.toolbar.parameter=ë³´ê³ ì„œ ì‹¤í–‰
 
-birt.viewer.toolbar.export=µ¥ÀÌÅÍ ³»º¸³»±â
+birt.viewer.toolbar.export=ë°ì´í„° ë‚´ë³´ë‚´ê¸°
 
-birt.viewer.toolbar.font=±Û²Ã º¯°æ
+birt.viewer.toolbar.font=ê¸€ê¼´ ë³€ê²½
 
-birt.viewer.toolbar.enableiv=´ëÈ­Çü ºä¾î È£Ãâ
+birt.viewer.toolbar.enableiv=ëŒ€í™”í˜• ë·°ì–´ í˜¸ì¶œ
 
-birt.viewer.toolbar.exportreport=º¸°í¼­ ³»º¸³»±â
+birt.viewer.toolbar.exportreport=ë³´ê³ ì„œ ë‚´ë³´ë‚´ê¸°
 
 ###############################################################################
 # navbar
 ###############################################################################
-birt.viewer.navbar.first=Ã¹ ÆäÀÌÁö
+birt.viewer.navbar.first=ì²« í˜ì´ì§€
 
-birt.viewer.navbar.previous=ÀÌÀü ÆäÀÌÁö
+birt.viewer.navbar.previous=ì´ì „ í˜ì´ì§€
 
-birt.viewer.navbar.next=´ÙÀ½ ÆäÀÌÁö
+birt.viewer.navbar.next=ë‹¤ìŒ í˜ì´ì§€
 
-birt.viewer.navbar.last=¸¶Áö¸· ÆäÀÌÁö
+birt.viewer.navbar.last=ë§ˆì§€ë§‰ í˜ì´ì§€
 
-birt.viewer.navbar.goto=ÀÌµ¿
+birt.viewer.navbar.goto=ì´ë™
 
-birt.viewer.navbar.lable.goto=ÆäÀÌÁö·Î ÀÌµ¿:
+birt.viewer.navbar.lable.goto=í˜ì´ì§€ë¡œ ì´ë™:
 
-birt.viewer.navbar.prompt.one=ÆäÀÌÁö Ç¥½Ã
+birt.viewer.navbar.prompt.one=í˜ì´ì§€ í‘œì‹œ
 
 birt.viewer.navbar.prompt.two=/
 
-birt.viewer.navbar.error.blankpagenum=¿Ã¹Ù¸¥ ÆäÀÌÁö ¹øÈ£¸¦ ÀÔ·ÂÇÏ½Ê½Ã¿À.
+birt.viewer.navbar.error.blankpagenum=ì˜¬ë°”ë¥¸ í˜ì´ì§€ ë²ˆí˜¸ë¥¼ ì…ë ¥í•˜ì‹­ì‹œì˜¤.
 
 ###############################################################################
 # progress bar
 ###############################################################################
-birt.viewer.progressbar.prompt=Ã³¸® ÁßÀÔ´Ï´Ù. Àá½Ã ±â´Ù·Á ÁÖ½Ê½Ã¿À...
+birt.viewer.progressbar.prompt=ì²˜ë¦¬ ì¤‘ì…ë‹ˆë‹¤. ì ì‹œ ê¸°ë‹¤ë ¤ ì£¼ì‹­ì‹œì˜¤...
 
-birt.viewer.progressbar.confirmcanceltask=ÇöÀç ÀÛ¾÷À» Ãë¼ÒÇÏ½Ã°Ú½À´Ï±î?
+birt.viewer.progressbar.confirmcanceltask=í˜„ì¬ ì‘ì—…ì„ ì·¨ì†Œí•˜ì‹œê² ìŠµë‹ˆê¹Œ?
 
 ###############################################################################
 # Dialog 
 ###############################################################################
-birt.viewer.dialog.ok=È®ÀÎ
+birt.viewer.dialog.ok=í™•ì¸
 
-birt.viewer.dialog.cancel=Ãë¼Ò
+birt.viewer.dialog.cancel=ì·¨ì†Œ
 
-birt.viewer.dialog.run=º¸°í¼­ ½ÇÇà
+birt.viewer.dialog.run=ë³´ê³ ì„œ ì‹¤í–‰
 
-birt.viewer.dialog.close=´İ±â
+birt.viewer.dialog.close=ë‹«ê¸°
 
-birt.viewer.dialog.page=ÆäÀÌÁö
+birt.viewer.dialog.page=í˜ì´ì§€
 
-birt.viewer.dialog.page.all=¸ğµç ÆäÀÌÁö
+birt.viewer.dialog.page.all=ëª¨ë“  í˜ì´ì§€
 
-birt.viewer.dialog.page.current=ÇöÀç ÆäÀÌÁö
+birt.viewer.dialog.page.current=í˜„ì¬ í˜ì´ì§€
 
-birt.viewer.dialog.page.range=ÆäÀÌÁö:
+birt.viewer.dialog.page.range=í˜ì´ì§€:
 
-birt.viewer.dialog.page.range.description=(¿©·¯ ÆäÀÌÁö ¹øÈ£ ¹×/¶Ç´Â ¿©·¯ ¹øÈ£ ¹üÀ§ ÀÔ·Â. ¿¹: 1-6 ¶Ç´Â 1,3,6)
+birt.viewer.dialog.page.range.description=(ì—¬ëŸ¬ í˜ì´ì§€ ë²ˆí˜¸ ë°/ë˜ëŠ” ì—¬ëŸ¬ ë²ˆí˜¸ ë²”ìœ„ ì…ë ¥. ì˜ˆ: 1-6 ë˜ëŠ” 1,3,6)
 
-birt.viewer.dialog.page.error.invalidpagerange=Àß¸øµÈ ÆäÀÌÁö ¹üÀ§
+birt.viewer.dialog.page.error.invalidpagerange=ì˜ëª»ëœ í˜ì´ì§€ ë²”ìœ„
 
 ###############################################################################
 # Dialog title
 ###############################################################################
-birt.viewer.dialog.exception.title=¿¹¿Ü
+birt.viewer.dialog.exception.title=ì˜ˆì™¸
 
-birt.viewer.dialog.exportReport.title=º¸°í¼­ ³»º¸³»±â
+birt.viewer.dialog.exportReport.title=ë³´ê³ ì„œ ë‚´ë³´ë‚´ê¸°
 
-birt.viewer.dialog.parameter.title=¸Å°³ º¯¼ö
+birt.viewer.dialog.parameter.title=ë§¤ê°œ ë³€ìˆ˜
 
-birt.viewer.dialog.simpleExportData.title=µ¥ÀÌÅÍ ³»º¸³»±â
+birt.viewer.dialog.simpleExportData.title=ë°ì´í„° ë‚´ë³´ë‚´ê¸°
 
-birt.viewer.dialog.printReport.title=º¸°í¼­ ÀÎ¼â
+birt.viewer.dialog.printReport.title=ë³´ê³ ì„œ ì¸ì‡„
 
-birt.viewer.dialog.printReportServer.title=¼­¹ö¿¡¼­ º¸°í¼­ ÀÎ¼â
+birt.viewer.dialog.printReportServer.title=ì„œë²„ì—ì„œ ë³´ê³ ì„œ ì¸ì‡„
 
 ###############################################################################
 # Export report dialog 
 ###############################################################################
-birt.viewer.dialog.export.format=³»º¸³»±â Çü½Ä:
+birt.viewer.dialog.export.format=ë‚´ë³´ë‚´ê¸° í˜•ì‹:
 
 birt.viewer.dialog.export.format.pdf=PDF
 birt.viewer.dialog.export.format.excel=EXCEL
-birt.viewer.dialog.export.all=»ó¼¼ º¸°í¼­ ³»º¸³»±â
+birt.viewer.dialog.export.all=ìƒì„¸ ë³´ê³ ì„œ ë‚´ë³´ë‚´ê¸°
 
-birt.viewer.dialog.export.all.detail=ÇöÀç º¸±â ¼öÁ¤ »çÇ×¿¡ °ü°è ¾øÀÌ<br>»ç¿ë °¡´ÉÇÑ ¸ğµç º¸°í¼­ µ¥ÀÌÅÍ°¡ ³»º¸³»Áı´Ï´Ù.
+birt.viewer.dialog.export.all.detail=í˜„ì¬ ë³´ê¸° ìˆ˜ì • ì‚¬í•­ì— ê´€ê³„ ì—†ì´<br>ì‚¬ìš© ê°€ëŠ¥í•œ ëª¨ë“  ë³´ê³ ì„œ ë°ì´í„°ê°€ ë‚´ë³´ë‚´ì§‘ë‹ˆë‹¤.
 
-birt.viewer.dialog.export.modified=ÇöÀç ¼öÁ¤ »çÇ×À» Æ÷ÇÔÇÏ¿© º¸°í¼­ ³»º¸³»±â
+birt.viewer.dialog.export.modified=í˜„ì¬ ìˆ˜ì • ì‚¬í•­ì„ í¬í•¨í•˜ì—¬ ë³´ê³ ì„œ ë‚´ë³´ë‚´ê¸°
 
-birt.viewer.dialog.export.modified.detail=Ç¥½ÃµÈ µ¥ÀÌÅÍ¸¸ ³»º¸³»Áı´Ï´Ù. ÇÊÅÍ¸µµÇ¾ú°Å³ª<BR>¼û°ÜÁø µ¥ÀÌÅÍ´Â ³»º¸³»ÁöÁö ¾Ê½À´Ï´Ù.
+birt.viewer.dialog.export.modified.detail=í‘œì‹œëœ ë°ì´í„°ë§Œ ë‚´ë³´ë‚´ì§‘ë‹ˆë‹¤. í•„í„°ë§ë˜ì—ˆê±°ë‚˜<BR>ìˆ¨ê²¨ì§„ ë°ì´í„°ëŠ” ë‚´ë³´ë‚´ì§€ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-birt.viewer.dialog.export.pdf.fitto=¸ÂÃß±â
+birt.viewer.dialog.export.pdf.fitto=ë§ì¶”ê¸°
 
-birt.viewer.dialog.export.pdf.fittoauto=ÀÚµ¿
+birt.viewer.dialog.export.pdf.fittoauto=ìë™
 
-birt.viewer.dialog.export.pdf.fittoactual=½ÇÁ¦ Å©±â
+birt.viewer.dialog.export.pdf.fittoactual=ì‹¤ì œ í¬ê¸°
 
-birt.viewer.dialog.export.pdf.fittowidth=ÆäÀÌÁö ³Êºñ¿¡ ¸ÂÃß±â
+birt.viewer.dialog.export.pdf.fittowidth=í˜ì´ì§€ ë„ˆë¹„ì— ë§ì¶”ê¸°
 
-birt.viewer.dialog.export.pdf.fittowhole=ÆäÀÌÁö ÀüÃ¼¿¡ ¸ÂÃß±â
+birt.viewer.dialog.export.pdf.fittowhole=í˜ì´ì§€ ì „ì²´ì— ë§ì¶”ê¸°
 
 ###############################################################################
 # Print Report dialog 
 ###############################################################################
-birt.viewer.dialog.print.format=ÀÎ¼â Çü½Ä
+birt.viewer.dialog.print.format=ì¸ì‡„ í˜•ì‹
 
 birt.viewer.dialog.print.format.html=HTML
 birt.viewer.dialog.print.format.pdf=PDF
-birt.viewer.dialog.print.printpreviewalreadyopen=ÀÎ¼â ¹Ì¸® º¸±â Ã¢ÀÌ ÀÌ¹Ì ¿­·Á ÀÖ½À´Ï´Ù.
+birt.viewer.dialog.print.printpreviewalreadyopen=ì¸ì‡„ ë¯¸ë¦¬ ë³´ê¸° ì°½ì´ ì´ë¯¸ ì—´ë ¤ ìˆìŠµë‹ˆë‹¤.
 
 ###############################################################################
 # Print report on the server dialog 
 ###############################################################################
-birt.viewer.dialog.printserver.onserver=¼­¹ö¿¡¼­ Ãâ·Â ¹®¼­ ÆÄÀÏ ÀÎ¼â
+birt.viewer.dialog.printserver.onserver=ì„œë²„ì—ì„œ ì¶œë ¥ ë¬¸ì„œ íŒŒì¼ ì¸ì‡„
 
-birt.viewer.dialog.printserver.printer=ÇÁ¸°ÅÍ:
+birt.viewer.dialog.printserver.printer=í”„ë¦°í„°:
 
-birt.viewer.dialog.printserver.status=»óÅÂ:
+birt.viewer.dialog.printserver.status=ìƒíƒœ:
 
-birt.viewer.dialog.printserver.model=¸ğµ¨:
+birt.viewer.dialog.printserver.model=ëª¨ë¸:
 
-birt.viewer.dialog.printserver.description=¼³¸í:
+birt.viewer.dialog.printserver.description=ì„¤ëª…:
 
-birt.viewer.dialog.printserver.status.acceptingjobs=ÀÛ¾÷À» ¹Ş¾ÆµéÀÌ´Â Áß
+birt.viewer.dialog.printserver.status.acceptingjobs=ì‘ì—…ì„ ë°›ì•„ë“¤ì´ëŠ” ì¤‘
 
-birt.viewer.dialog.printserver.status.notacceptingjobs=ÀÛ¾÷À» ¼ö¶ôÇÏÁö ¾Ê´Â Áß
+birt.viewer.dialog.printserver.status.notacceptingjobs=ì‘ì—…ì„ ìˆ˜ë½í•˜ì§€ ì•ŠëŠ” ì¤‘
 
-birt.viewer.dialog.printserver.settings=ÀÎ¼â ¼³Á¤À» ÁöÁ¤ÇÏ½Ê½Ã¿À.
+birt.viewer.dialog.printserver.settings=ì¸ì‡„ ì„¤ì •ì„ ì§€ì •í•˜ì‹­ì‹œì˜¤.
 
-birt.viewer.dialog.printserver.settings.copies=º¹»çº» ¼ö:
+birt.viewer.dialog.printserver.settings.copies=ë³µì‚¬ë³¸ ìˆ˜:
 
-birt.viewer.dialog.printserver.settings.collate=ÇÑ ºÎ¾¿ ÀÎ¼â:
+birt.viewer.dialog.printserver.settings.collate=í•œ ë¶€ì”© ì¸ì‡„:
 
-birt.viewer.dialog.printserver.settings.mode=¸ğµå:
+birt.viewer.dialog.printserver.settings.mode=ëª¨ë“œ:
 
-birt.viewer.dialog.printserver.settings.mode.bw=Èæ¹é
+birt.viewer.dialog.printserver.settings.mode.bw=í‘ë°±
 
-birt.viewer.dialog.printserver.settings.mode.color=»ö
+birt.viewer.dialog.printserver.settings.mode.color=ìƒ‰
 
-birt.viewer.dialog.printserver.settings.duplex=¾ç¸é:
+birt.viewer.dialog.printserver.settings.duplex=ì–‘ë©´:
 
-birt.viewer.dialog.printserver.settings.duplex.simplex=´Ü¸é
+birt.viewer.dialog.printserver.settings.duplex.simplex=ë‹¨ë©´
 
-birt.viewer.dialog.printserver.settings.duplex.horizontal=°¡·Î
+birt.viewer.dialog.printserver.settings.duplex.horizontal=ê°€ë¡œ
 
-birt.viewer.dialog.printserver.settings.duplex.vertical=¼¼·Î
+birt.viewer.dialog.printserver.settings.duplex.vertical=ì„¸ë¡œ
 
-birt.viewer.dialog.printserver.settings.pagesize=ÆäÀÌÁö Å©±â:
+birt.viewer.dialog.printserver.settings.pagesize=í˜ì´ì§€ í¬ê¸°:
 
-birt.viewer.dialog.printserver.settings.print=ÀÎ¼â:
+birt.viewer.dialog.printserver.settings.print=ì¸ì‡„:
 
-birt.viewer.dialog.printserver.complete=¹®¼­ ÆÄÀÏÀ» ¼­¹öÀÇ ¼±ÅÃµÈ ÇÁ¸°ÅÍ¿¡ º¸³Â½À´Ï´Ù.
+birt.viewer.dialog.printserver.complete=ë¬¸ì„œ íŒŒì¼ì„ ì„œë²„ì˜ ì„ íƒëœ í”„ë¦°í„°ì— ë³´ëƒˆìŠµë‹ˆë‹¤.
 
-birt.viewer.dialog.printserver.error.noprinter=ÇÁ¸°ÅÍ ¾øÀ½
+birt.viewer.dialog.printserver.error.noprinter=í”„ë¦°í„° ì—†ìŒ
 ###############################################################################
 # Confirmation dialog 
 ###############################################################################
-birt.viewer.dialog.confirmation.title=È®ÀÎ
+birt.viewer.dialog.confirmation.title=í™•ì¸
  
 ###############################################################################
 # Export data dialog 
 ###############################################################################
-birt.viewer.dialog.exportdata.tab.field=µ¥ÀÌÅÍ ÇÊµå
+birt.viewer.dialog.exportdata.tab.field=ë°ì´í„° í•„ë“œ
 
-birt.viewer.dialog.exportdata.tab.filter=ÇÊÅÍ¸µ ±âÁØ
+birt.viewer.dialog.exportdata.tab.filter=í•„í„°ë§ ê¸°ì¤€
 
-birt.viewer.dialog.exportdata.resultsets=»ç¿ë °¡´ÉÇÑ °á°ú ÁıÇÕ
+birt.viewer.dialog.exportdata.resultsets=ì‚¬ìš© ê°€ëŠ¥í•œ ê²°ê³¼ ì§‘í•©
 
-birt.viewer.dialog.exportdata.availablecolumn=»ç¿ë °¡´ÉÇÑ ¿­
+birt.viewer.dialog.exportdata.availablecolumn=ì‚¬ìš© ê°€ëŠ¥í•œ ì—´
 
-birt.viewer.dialog.exportdata.selectedcolumn=¼±ÅÃÇÑ ¿­
+birt.viewer.dialog.exportdata.selectedcolumn=ì„ íƒí•œ ì—´
 
-birt.viewer.dialog.exportdata.extension=³»º¸³»±â Çü½Ä:
+birt.viewer.dialog.exportdata.extension=ë‚´ë³´ë‚´ê¸° í˜•ì‹:
 
-birt.viewer.dialog.exportdata.encoding=Ãâ·Â ÀÎÄÚµù :
+birt.viewer.dialog.exportdata.encoding=ì¶œë ¥ ì¸ì½”ë”© :
 
-birt.viewer.dialog.exportdata.encoding.other=±âÅ¸
+birt.viewer.dialog.exportdata.encoding.other=ê¸°íƒ€
 
-birt.viewer.dialog.exportdata.encoding.comment=(ºñ¾î ÀÖ´Ù¸é ·ÎÄÃ ÀÎÄÚµùÀ» »ç¿ëÇÏ½Ê½Ã¿À)
+birt.viewer.dialog.exportdata.encoding.comment=(ë¹„ì–´ ìˆë‹¤ë©´ ë¡œì»¬ ì¸ì½”ë”©ì„ ì‚¬ìš©í•˜ì‹­ì‹œì˜¤)
 
-birt.viewer.dialog.exportdata.addall=¸ğµÎ Ãß°¡
+birt.viewer.dialog.exportdata.addall=ëª¨ë‘ ì¶”ê°€
 
-birt.viewer.dialog.exportdata.add=Ãß°¡
+birt.viewer.dialog.exportdata.add=ì¶”ê°€
 
-birt.viewer.dialog.exportdata.removeall=¸ğµÎ Á¦°Å
+birt.viewer.dialog.exportdata.removeall=ëª¨ë‘ ì œê±°
 
-birt.viewer.dialog.exportdata.remove=Á¦°Å
+birt.viewer.dialog.exportdata.remove=ì œê±°
 
-birt.viewer.dialog.exportdata.up=À§·Î
+birt.viewer.dialog.exportdata.up=ìœ„ë¡œ
 
-birt.viewer.dialog.exportdata.down=¾Æ·¡·Î
+birt.viewer.dialog.exportdata.down=ì•„ë˜ë¡œ
 
-birt.viewer.dialog.exportdata.separator=±¸ºĞ ±âÈ£:
+birt.viewer.dialog.exportdata.separator=êµ¬ë¶„ ê¸°í˜¸:
 
-birt.viewer.dialog.exportdata.datatype=¿­ µ¥ÀÌÅÍ Çü½Ä ³»º¸³»±â
+birt.viewer.dialog.exportdata.datatype=ì—´ ë°ì´í„° í˜•ì‹ ë‚´ë³´ë‚´ê¸°
 
-birt.viewer.dialog.exportdata.localeneutral=·ÎÄÉÀÏ Áß¸³À¸·Î ¿­ ³»º¸³»±â
+birt.viewer.dialog.exportdata.localeneutral=ë¡œì¼€ì¼ ì¤‘ë¦½ìœ¼ë¡œ ì—´ ë‚´ë³´ë‚´ê¸°
 
-birt.viewer.dialog.exportdata.carriage_return=Ä³¸®Áö ¸®ÅÏÀ» »ç¿ëÇÏ¿© µ¥ÀÌÅÍ ³»º¸³»±â
+birt.viewer.dialog.exportdata.carriage_return=ìºë¦¬ì§€ ë¦¬í„´ì„ ì‚¬ìš©í•˜ì—¬ ë°ì´í„° ë‚´ë³´ë‚´ê¸°
 
-birt.viewer.sep.0=½°Ç¥( , )
+birt.viewer.sep.0=ì‰¼í‘œ( , )
 
-birt.viewer.sep.1=¼¼¹ÌÄİ·Ğ( ; )
+birt.viewer.sep.1=ì„¸ë¯¸ì½œë¡ ( ; )
 
-birt.viewer.sep.2=Äİ·Ğ( : )
+birt.viewer.sep.2=ì½œë¡ ( : )
 
-birt.viewer.sep.3=¼öÁ÷¼±( | )
+birt.viewer.sep.3=ìˆ˜ì§ì„ ( | )
 
-birt.viewer.sep.4=ÅÇ( \\t )
+birt.viewer.sep.4=íƒ­( \\t )
 
 ###############################################################################
 # General exception
 ###############################################################################
-birt.viewer.generalException.DOCUMENT_FILE_ERROR=¹®¼­ ÆÄÀÏ: {0}ÀÌ(°¡) ¾ø°Å³ª ¿À·ù°¡ ÀÖ½À´Ï´Ù.
+birt.viewer.generalException.DOCUMENT_FILE_ERROR=ë¬¸ì„œ íŒŒì¼: {0}ì´(ê°€) ì—†ê±°ë‚˜ ì˜¤ë¥˜ê°€ ìˆìŠµë‹ˆë‹¤.
 
-birt.viewer.generalException.DOCUMENT_ACCESS_ERROR=¹®¼­ ÆÄÀÏ: {0}¿¡ ¾×¼¼½ºÇÒ ¼ö ¾ø½À´Ï´Ù.
+birt.viewer.generalException.DOCUMENT_ACCESS_ERROR=ë¬¸ì„œ íŒŒì¼: {0}ì— ì•¡ì„¸ìŠ¤í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-birt.viewer.generalException.REPORT_FILE_ERROR=º¸°í¼­ ÆÄÀÏ: {0}ÀÌ(°¡) ¾ø°Å³ª ¿À·ù°¡ ÀÖ½À´Ï´Ù.
+birt.viewer.generalException.REPORT_FILE_ERROR=ë³´ê³ ì„œ íŒŒì¼: {0}ì´(ê°€) ì—†ê±°ë‚˜ ì˜¤ë¥˜ê°€ ìˆìŠµë‹ˆë‹¤.
 
-birt.viewer.generalException.REPORT_ACCESS_ERROR=º¸°í¼­ ÆÄÀÏ: {0}¿¡ ¾×¼¼½ºÇÒ ¼ö ¾ø½À´Ï´Ù.
+birt.viewer.generalException.REPORT_ACCESS_ERROR=ë³´ê³ ì„œ íŒŒì¼: {0}ì— ì•¡ì„¸ìŠ¤í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-birt.viewer.generalException.DOCUMENT_FILE_PROCESSING=¹®¼­ ÆÄÀÏÀ» Ã³¸® ÁßÀÔ´Ï´Ù. ³ªÁß¿¡ ´Ù½Ã ½ÃµµÇÏ½Ê½Ã¿À.
+birt.viewer.generalException.DOCUMENT_FILE_PROCESSING=ë¬¸ì„œ íŒŒì¼ì„ ì²˜ë¦¬ ì¤‘ì…ë‹ˆë‹¤. ë‚˜ì¤‘ì— ë‹¤ì‹œ ì‹œë„í•˜ì‹­ì‹œì˜¤.
 
-birt.viewer.generalException.NO_REPORT_DESIGN=»ç¿ë °¡´ÉÇÑ º¸°í¼­ µğÀÚÀÎ °³Ã¼°¡ ¾ø½À´Ï´Ù.
+birt.viewer.generalException.NO_REPORT_DESIGN=ì‚¬ìš© ê°€ëŠ¥í•œ ë³´ê³ ì„œ ë””ìì¸ ê°œì²´ê°€ ì—†ìŠµë‹ˆë‹¤.
 
-birt.viewer.generalException.MULTIPLE_EXCEPTIONS=¿©·¯ ¿¹¿Ü°¡ ¹ß»ıÇß½À´Ï´Ù.
+birt.viewer.generalException.MULTIPLE_EXCEPTIONS=ì—¬ëŸ¬ ì˜ˆì™¸ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
 ###############################################################################
 # Report service exception
 ###############################################################################
-birt.viewer.reportServiceException.EXTRACT_DATA_NO_DOCUMENT=µ¥ÀÌÅÍ¸¦ ÃßÃâÇÒ ¼ö ÀÖ´Â ¹®¼­ ÆÄÀÏÀÌ ¾ø½À´Ï´Ù.
+birt.viewer.reportServiceException.EXTRACT_DATA_NO_DOCUMENT=ë°ì´í„°ë¥¼ ì¶”ì¶œí•  ìˆ˜ ìˆëŠ” ë¬¸ì„œ íŒŒì¼ì´ ì—†ìŠµë‹ˆë‹¤.
 
-birt.viewer.reportServiceException.EXTRACT_DATA_NO_RESULT_SET=µ¥ÀÌÅÍ¸¦ ÃßÃâÇÒ ¼ö ÀÖ´Â °á°ú ÁıÇÕÀÌ ¾ø½À´Ï´Ù.
+birt.viewer.reportServiceException.EXTRACT_DATA_NO_RESULT_SET=ë°ì´í„°ë¥¼ ì¶”ì¶œí•  ìˆ˜ ìˆëŠ” ê²°ê³¼ ì§‘í•©ì´ ì—†ìŠµë‹ˆë‹¤.
 
-birt.viewer.reportServiceException.INVALID_TOC=Àß¸øµÈ TOC Äõ¸®
+birt.viewer.reportServiceException.INVALID_TOC=ì˜ëª»ëœ TOC ì¿¼ë¦¬
 
-birt.viewer.reportServiceException.INVALID_PARAMETER=Àß¸øµÈ ¸Å°³ º¯¼ö: {0}, Á¤ÀÇµÇÁö ¾ÊÀ½
+birt.viewer.reportServiceException.INVALID_PARAMETER=ì˜ëª»ëœ ë§¤ê°œ ë³€ìˆ˜: {0}, ì •ì˜ë˜ì§€ ì•ŠìŒ
 
-birt.viewer.reportServiceException.STARTUP_REPORTENGINE_ERROR=º¸°í¼­ ¿£Áø ½ÃÀÛ ½Ã Ä¡¸íÀûÀÎ ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+birt.viewer.reportServiceException.STARTUP_REPORTENGINE_ERROR=ë³´ê³ ì„œ ì—”ì§„ ì‹œì‘ ì‹œ ì¹˜ëª…ì ì¸ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-birt.viewer.reportServiceException.INVALID_EXTRACTFORMAT=µ¥ÀÌÅÍ ÃßÃâ Çü½ÄÀÌ Àß¸øµÇ¾ú°Å³ª ÁöÁ¤µÇÁö ¾Ê¾Ò½À´Ï´Ù.
+birt.viewer.reportServiceException.INVALID_EXTRACTFORMAT=ë°ì´í„° ì¶”ì¶œ í˜•ì‹ì´ ì˜ëª»ë˜ì—ˆê±°ë‚˜ ì§€ì •ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
 
-birt.viewer.reportServiceException.INVALID_EXTRACTEXTENSION=µ¥ÀÌÅÍ ÃßÃâ È®Àå¸í ID°¡ Àß¸øµÇ¾ú½À´Ï´Ù.
+birt.viewer.reportServiceException.INVALID_EXTRACTEXTENSION=ë°ì´í„° ì¶”ì¶œ í™•ì¥ëª… IDê°€ ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 ###############################################################################
 # Birt action handler exception
 ###############################################################################
-birt.viewer.actionException.NO_REPORT_DOCUMENT=º¸°í¼­ ¹®¼­ Ç×¸ñÀÌ ºñ¾î ÀÖ½À´Ï´Ù.
+birt.viewer.actionException.NO_REPORT_DOCUMENT=ë³´ê³ ì„œ ë¬¸ì„œ í•­ëª©ì´ ë¹„ì–´ ìˆìŠµë‹ˆë‹¤.
 
-birt.viewer.actionException.INVALID_BOOKMARK=Ã¥°¥ÇÇ {0}ÀÌ[°¡] Àß¸øµÇ¾ú½À´Ï´Ù. ¸µÅ©¸¦ È®ÀÎÇÏ¿© ´Ù½Ã ¼³Á¤ÇÏ½Ê½Ã¿À.
+birt.viewer.actionException.INVALID_BOOKMARK=ì±…ê°ˆí”¼ {0}ì´[ê°€] ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤. ë§í¬ë¥¼ í™•ì¸í•˜ì—¬ ë‹¤ì‹œ ì„¤ì •í•˜ì‹­ì‹œì˜¤.
 
-birt.viewer.actionException.INVALID_PAGE_NUMBER=ÆäÀÌÁö ¹øÈ£ {0}/{1}ÀÌ(°¡) Àß¸øµÇ¾ú½À´Ï´Ù.
+birt.viewer.actionException.INVALID_PAGE_NUMBER=í˜ì´ì§€ ë²ˆí˜¸ {0}/{1}ì´(ê°€) ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-birt.viewer.actionException.PAGE_NUMBER_PARSE_ERROR=ÆäÀÌÁö ¹øÈ£: {0}ÀÌ(°¡) Àß¸øµÇ¾ú½À´Ï´Ù.
+birt.viewer.actionException.PAGE_NUMBER_PARSE_ERROR=í˜ì´ì§€ ë²ˆí˜¸: {0}ì´(ê°€) ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-birt.viewer.actionException.INVALID_ID_FORMAT=Àß¸øµÈ ID Çü½Ä. Id={0}
+birt.viewer.actionException.INVALID_ID_FORMAT=ì˜ëª»ëœ ID í˜•ì‹. Id={0}
 
-birt.viewer.actionException.DOCUMENT_FILE_NO_EXIST=¼¼¼Ç ½Ã°£À» ÃÊ°úÇß°Å³ª »ç¿ë °¡´ÉÇÑ ¹®¼­ ÆÄÀÏÀÌ ¾ø½À´Ï´Ù.
+birt.viewer.actionException.DOCUMENT_FILE_NO_EXIST=ì„¸ì…˜ ì‹œê°„ì„ ì´ˆê³¼í–ˆê±°ë‚˜ ì‚¬ìš© ê°€ëŠ¥í•œ ë¬¸ì„œ íŒŒì¼ì´ ì—†ìŠµë‹ˆë‹¤.
 
 ###############################################################################
 # Birt soap bingding impl exception
 ###############################################################################
-birt.viewer.soapBindingException.NO_HANDLER_FOR_TARGET=ÀÌ ´ë»ó¿¡ ´ëÇÑ Ã³¸®±â°¡ ¾ø½À´Ï´Ù. ´ë»ó: {0}
+birt.viewer.soapBindingException.NO_HANDLER_FOR_TARGET=ì´ ëŒ€ìƒì— ëŒ€í•œ ì²˜ë¦¬ê¸°ê°€ ì—†ìŠµë‹ˆë‹¤. ëŒ€ìƒ: {0}
 
 ###############################################################################
 # Component processor exception
 ###############################################################################
-birt.viewer.componentProcessorException.MISSING_OPERATOR=¿À·ù: ¿¬»êÀÚ ´©¶ô!!!
+birt.viewer.componentProcessorException.MISSING_OPERATOR=ì˜¤ë¥˜: ì—°ì‚°ì ëˆ„ë½!!!
 
 ###############################################################################
 # Exception dialog
 ###############################################################################
-birt.viewer.exceptionDialog.stackTrace=ÃßÀû ´©Àû:
+birt.viewer.exceptionDialog.stackTrace=ì¶”ì  ëˆ„ì :
 
-birt.viewer.exceptionDialog.showStackTrace=¿¹¿Ü ½ºÅÃ ÃßÀû Ç¥½Ã
+birt.viewer.exceptionDialog.showStackTrace=ì˜ˆì™¸ ìŠ¤íƒ ì¶”ì  í‘œì‹œ
 
-birt.viewer.exceptionDialog.hideStackTrace=¿¹¿Ü ½ºÅÃ ÃßÀû ¼û±â±â
+birt.viewer.exceptionDialog.hideStackTrace=ì˜ˆì™¸ ìŠ¤íƒ ì¶”ì  ìˆ¨ê¸°ê¸°
 
 ###############################################################################
 # Birt Viewer JSP Taglib
 ###############################################################################
-birt.viewer.taglib.NO_ATTR_ID=Æ¯¼º ID¸¦ ÁöÁ¤ÇØ¾ß ÇÕ´Ï´Ù.
+birt.viewer.taglib.NO_ATTR_ID=íŠ¹ì„± IDë¥¼ ì§€ì •í•´ì•¼ í•©ë‹ˆë‹¤.
 
-birt.viewer.taglib.INVALID_ATTR_ID=Æ¯¼º ID¿¡ Àß¸øµÈ ¹®ÀÚ°¡ Æ÷ÇÔµÇ¾î ÀÖ½À´Ï´Ù.
+birt.viewer.taglib.INVALID_ATTR_ID=íŠ¹ì„± IDì— ì˜ëª»ëœ ë¬¸ìê°€ í¬í•¨ë˜ì–´ ìˆìŠµë‹ˆë‹¤.
 
-birt.viewer.taglib.ATTR_ID_DUPLICATE=Æ¯¼º ID´Â °íÀ¯ÇØ¾ß ÇÕ´Ï´Ù.
+birt.viewer.taglib.ATTR_ID_DUPLICATE=íŠ¹ì„± IDëŠ” ê³ ìœ í•´ì•¼ í•©ë‹ˆë‹¤.
 
-birt.viewer.taglib.PARAM_NAME_DUPLICATE=¸Å°³ º¯¼ö ÀÌ¸§Àº Áßº¹µÉ ¼ö ¾ø½À´Ï´Ù.
+birt.viewer.taglib.PARAM_NAME_DUPLICATE=ë§¤ê°œ ë³€ìˆ˜ ì´ë¦„ì€ ì¤‘ë³µë  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-birt.viewer.taglib.NO_REPORT_SOURCE=º¸°í¼­ µğÀÚÀÎ ¶Ç´Â ¹®¼­ ÆÄÀÏÀ» ÁöÁ¤ÇØ¾ß ÇÕ´Ï´Ù.
+birt.viewer.taglib.NO_REPORT_SOURCE=ë³´ê³ ì„œ ë””ìì¸ ë˜ëŠ” ë¬¸ì„œ íŒŒì¼ì„ ì§€ì •í•´ì•¼ í•©ë‹ˆë‹¤.
 
-birt.viewer.taglib.NO_REPORT_DOCUMENT=¸®Æ÷Æ²¸´Àº º¸°í¼­ ¹®¼­ ÆÄÀÏÀÌ ÇÊ¿äÇÕ´Ï´Ù.
+birt.viewer.taglib.NO_REPORT_DOCUMENT=ë¦¬í¬í‹€ë¦¿ì€ ë³´ê³ ì„œ ë¬¸ì„œ íŒŒì¼ì´ í•„ìš”í•©ë‹ˆë‹¤.
 
-birt.viewer.taglib.NO_REQUESTER_NAME=parameterPage ÅÂ±×ÀÇ "name" ¼Ó¼ºÀÌ ÇÊ¿äÇÕ´Ï´Ù.
+birt.viewer.taglib.NO_REQUESTER_NAME=parameterPage íƒœê·¸ì˜ "name" ì†ì„±ì´ í•„ìš”í•©ë‹ˆë‹¤.
 
 ###############################################################################
 # Birt Viewer Message
 ###############################################################################
-birt.viewer.message.document.successful=º¸°í¼­ ¹®¼­ ÆÄÀÏÀÌ ¼º°øÀûÀ¸·Î »ı¼ºµÇ¾ú½À´Ï´Ù.
+birt.viewer.message.document.successful=ë³´ê³ ì„œ ë¬¸ì„œ íŒŒì¼ì´ ì„±ê³µì ìœ¼ë¡œ ìƒì„±ë˜ì—ˆìŠµë‹ˆë‹¤.
 
 ###############################################################################
 # Birt Viewer General Exceptions
 ###############################################################################
-birt.viewer.exception.maybe_disabled_cookies=Å¬¶óÀÌ¾ğÆ® ÂÊ¿¡ »ç¿ëÇÒ ¼ö ¾ø´Â ÄíÅ° ¶§¹®ÀÏ ¼ö ÀÖ½À´Ï´Ù.
+birt.viewer.exception.maybe_disabled_cookies=í´ë¼ì´ì–¸íŠ¸ ìª½ì— ì‚¬ìš©í•  ìˆ˜ ì—†ëŠ” ì¿ í‚¤ ë•Œë¬¸ì¼ ìˆ˜ ìˆìŠµë‹ˆë‹¤.

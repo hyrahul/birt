@@ -21,27 +21,27 @@ birt-viewer-driver-path=birt/plugins/org.eclipse.birt.report.data.oda.jdbc/drive
 ###############################################################################
 # NLS String
 ###############################################################################
-dataset.editor.page.query=Requête
+dataset.editor.page.query=RequÃªte
 
-datasource.name=Source de données JDBC
+datasource.name=Source de donnÃ©es JDBC
 
 dataset.jdbcselect=SQL SELECT via JDBC
 
-datasource.editor.page.connection=Connexion à une source de données
+datasource.editor.page.connection=Connexion Ã  une source de donnÃ©es
 
-preference.datasetpreview=Jeu de données JDBC
+preference.datasetpreview=Jeu de donnÃ©es JDBC
 
-preference.bidi.datasource.title =Source de données JDBC
+preference.bidi.datasource.title =Source de donnÃ©es JDBC
 
-wizard.data.set.title=Nouveau jeu de données
+wizard.data.set.title=Nouveau jeu de donnÃ©es
 
 
 plugin.name=BIRT JDBC UI Plug-in
 newwizard.name=BIRT JDBC Data Source
-newwizard.description=Créer un profil de connexion JDBC BIRT
+newwizard.description=CrÃ©er un profil de connexion JDBC BIRT
 
-wizard.window.title=Nouveau profil de source de données JDBC
+wizard.window.title=Nouveau profil de source de donnÃ©es JDBC
 
-wizard.data.source.page.title=Créer une nouvelle source de données
+wizard.data.source.page.title=CrÃ©er une nouvelle source de donnÃ©es
 
 profile.propertypage.name=BIRT JDBC Data Source

@@ -8,7 +8,7 @@ ValueSeries=Wert-Datenreihe
 
 Needle=Nadel
 
-ChartArea=Diagrammfl‰che
+ChartArea=Diagrammfl√§che
 
 Axis=Achse
 

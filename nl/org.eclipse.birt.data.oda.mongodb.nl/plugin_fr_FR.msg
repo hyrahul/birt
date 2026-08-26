@@ -16,7 +16,7 @@ plugin.name=MongoDB Data Source ODA Runtime Driver
 data.source.name=MongoDB Data Source
 data.set.name=MongoDB Data Set
 
-connection.profile.name=Profil de connexion à la source de données MongoDB
+connection.profile.name=Profil de connexion Ã  la source de donnÃ©es MongoDB
 
 # Data source properties
 datasource.property.mongoDbUri=&Mongo Database URI
@@ -39,7 +39,7 @@ datasource.property.useRequestSession=Consistent &Request Session
 
 datasource.property.group.uriElements=Mongo Database URI &Elements
 
-datasource.property.group.options=Paramètre(s) de client &supplémentaire
+datasource.property.group.options=ParamÃ¨tre(s) de client &supplÃ©mentaire
 
 # Data set properties - query definition
 dataset.property.collectionName=&Collection name
@@ -70,7 +70,7 @@ dataset.property.noTimeOut=&No cursor time out
 
 dataset.property.allowsPartialResults=Allows &partial results
 
-dataset.property.flattenCollections=&Aplatir les collections imbriquées
+dataset.property.flattenCollections=&Aplatir les collections imbriquÃ©es
 #
 dataset.property.value.readPrefPrimary=primary
 

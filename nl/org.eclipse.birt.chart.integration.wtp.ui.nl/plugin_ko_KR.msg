@@ -1,28 +1,28 @@
-birt.web.category.name=Business Intelligence ¹× º¸°í µµ±¸(&B)
+birt.web.category.name=Business Intelligence ë° ë³´ê³  ë„êµ¬(&B)
 
-birt.web.project.name=Â÷Æ® ·±Å¸ÀÓÀÌ Æ÷ÇÔµÈ À¥ ÇÁ·ÎÁ§Æ®
+birt.web.project.name=ì°¨íŠ¸ ëŸ°íƒ€ì„ì´ í¬í•¨ëœ ì›¹ í”„ë¡œì íŠ¸
 
-birt.web.project.description=BIRT Â÷Æ® ±¸¼º ¿ä¼Ò¸¦ Æ÷ÇÔÇÑ À¥ ÇÁ·ÎÁ§Æ® »ı¼º
+birt.web.project.description=BIRT ì°¨íŠ¸ êµ¬ì„± ìš”ì†Œë¥¼ í¬í•¨í•œ ì›¹ í”„ë¡œì íŠ¸ ìƒì„±
 
-birt.web.actionsets.description=BIRT Â÷Æ® À¥ ÇÁ·ÎÁ§Æ® ÀÛ¾÷
+birt.web.actionsets.description=BIRT ì°¨íŠ¸ ì›¹ í”„ë¡œì íŠ¸ ì‘ì—…
 
-create.birt.web.module=BIRT Â÷Æ® À¥ ¸ğµâ »ı¼º
+create.birt.web.module=BIRT ì°¨íŠ¸ ì›¹ ëª¨ë“ˆ ìƒì„±
 
-BIRT_FACET_LABEL=BIRT Â÷Æ® ·±Å¸ÀÓ ±¸¼º ¿ä¼Ò
+BIRT_FACET_LABEL=BIRT ì°¨íŠ¸ ëŸ°íƒ€ì„ êµ¬ì„± ìš”ì†Œ
 
-BIRT_FACET_DESCRIPTION=BIRT Â÷Æ® ·±Å¸ÀÓ ±¸¼º ¿ä¼Ò
+BIRT_FACET_DESCRIPTION=BIRT ì°¨íŠ¸ ëŸ°íƒ€ì„ êµ¬ì„± ìš”ì†Œ
 
-BIRT_FACET_TEMPLATE_LABEL=BIRT Â÷Æ® À¥ ÇÁ·ÎÁ§Æ®
+BIRT_FACET_TEMPLATE_LABEL=BIRT ì°¨íŠ¸ ì›¹ í”„ë¡œì íŠ¸
 
-BIRT_FACET_TEMPLATE_DESCRIPTION=BIRT Â÷Æ® ·±Å¸ÀÓ ±¸¼º ¿ä¼Ò°¡ Æ÷ÇÔµÈ À¥ ÇÁ·ÎÁ§Æ®
+BIRT_FACET_TEMPLATE_DESCRIPTION=BIRT ì°¨íŠ¸ ëŸ°íƒ€ì„ êµ¬ì„± ìš”ì†Œê°€ í¬í•¨ëœ ì›¹ í”„ë¡œì íŠ¸
 
-JSP_New_context_type_Extension_Element.name=BIRT Â÷Æ® ÅÂ±×¸¦ »ç¿ëÇÑ »õ JSP
+JSP_New_context_type_Extension_Element.name=BIRT ì°¨íŠ¸ íƒœê·¸ë¥¼ ì‚¬ìš©í•œ ìƒˆ JSP
 
-JSP_Tag_context_type_Extension_Element.name=»õ BIRT Â÷Æ® JSP ÅÂ±×
+JSP_Tag_context_type_Extension_Element.name=ìƒˆ BIRT ì°¨íŠ¸ JSP íƒœê·¸
 
-birtResourcesDefinition= Â÷Æ® À¥ ÀÀ¿ë ÇÁ·Î±×·¥ ¸®¼Ò½º Á¤ÀÇ
+birtResourcesDefinition= ì°¨íŠ¸ ì›¹ ì‘ìš© í”„ë¡œê·¸ë¨ ë¦¬ì†ŒìŠ¤ ì •ì˜
 
-birt.action.importruntime.name=Â÷Æ® ·±Å¸ÀÓ ±¸¼º ¿ä¼Ò °¡Á®¿À±â(&C)...
+birt.action.importruntime.name=ì°¨íŠ¸ ëŸ°íƒ€ì„ êµ¬ì„± ìš”ì†Œ ê°€ì ¸ì˜¤ê¸°(&C)...
 
 ##################Do not externalize the version number
 runtime.version=4.3.1

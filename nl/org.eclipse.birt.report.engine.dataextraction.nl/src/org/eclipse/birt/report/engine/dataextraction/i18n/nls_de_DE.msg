@@ -4,4 +4,4 @@ exception.dataextraction.missing_implementation=Die output()-Methode muss von de
 
 exception.dataextraction.exception_occured=Ausnahme beim Extrahieren von Daten.
 
-exception.dataextraction.no_extraction_result_error=Keine Ergebnisse in der Ausführungsaufgabe gefunden.
+exception.dataextraction.no_extraction_result_error=Keine Ergebnisse in der AusfÃ¼hrungsaufgabe gefunden.

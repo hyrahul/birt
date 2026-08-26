@@ -14,21 +14,21 @@
 # General Info
 ###############################################################################
 LibPerspective=Lib Design
-LibraryEditor=ƒ‰ƒCƒuƒ‰ƒŠƒGƒfƒBƒ^
+LibraryEditor=ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã‚¨ãƒ‡ã‚£ã‚¿
 
 WizardCategoryName=Business Intelligence and Reporting Tools
-LibraryWizard=ƒ‰ƒCƒuƒ‰ƒŠ
+LibraryWizard=ãƒ©ã‚¤ãƒ–ãƒ©ãƒª
 
-LibraryWizardDescription=‚±‚ÌƒEƒBƒU[ƒh‚Å‚ÍAV‚µ‚¢ƒ‰ƒCƒuƒ‰ƒŠ‚ğì¬‚µ‚Ü‚·B
+LibraryWizardDescription=ã“ã®ã‚¦ã‚£ã‚¶ãƒ¼ãƒ‰ã§ã¯ã€æ–°ã—ã„ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã‚’ä½œæˆã—ã¾ã™ã€‚
 
-LibraryProjectWizard=ƒ‰ƒCƒuƒ‰ƒŠƒvƒƒWƒFƒNƒg
+LibraryProjectWizard=ãƒ©ã‚¤ãƒ–ãƒ©ãƒªãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ
 
-LibraryProjectWizardDescription=V‚µ‚¢ƒ‰ƒCƒuƒ‰ƒŠƒvƒƒWƒFƒNƒg‚ğì¬‚µ‚Ü‚·B
+LibraryProjectWizardDescription=æ–°ã—ã„ãƒ©ã‚¤ãƒ–ãƒ©ãƒªãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ä½œæˆã—ã¾ã™ã€‚
 
-library.layout=ƒŒƒCƒAƒEƒg(&O)
+library.layout=ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆ(&O)
 
-library.script=ƒXƒNƒŠƒvƒg(&S)
+library.script=ã‚¹ã‚¯ãƒªãƒ—ãƒˆ(&S)
 
-library.xmlsource=XML ƒ\[ƒX(&X)
+library.xmlsource=XML ã‚½ãƒ¼ã‚¹(&X)
 
-design.masterPage=ƒ}ƒXƒ^ƒy[ƒW(&M)
+design.masterPage=ãƒã‚¹ã‚¿ãƒšãƒ¼ã‚¸(&M)

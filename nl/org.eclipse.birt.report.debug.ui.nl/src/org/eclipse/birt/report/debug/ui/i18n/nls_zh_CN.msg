@@ -1,77 +1,77 @@
-ScriptMainTab.title.report=Ö÷Òª
+ScriptMainTab.title.report=ä¸»è¦
 
-ScriptMainTab.msg.report.file.name=±¨±íÎÄ¼şÃû
+ScriptMainTab.msg.report.file.name=æŠ¥è¡¨æ–‡ä»¶å
 
-ScriptMainTab.msg.eclipse.home=ÈÕÊ´Ö÷Ò³
+ScriptMainTab.msg.eclipse.home=æ—¥èš€ä¸»é¡µ
 
-ScriptMainTab.msg.engine.home=ÒıÇæÖ÷Ò³
+ScriptMainTab.msg.engine.home=å¼•æ“ä¸»é¡µ
 
-ScriptMainTab.msg.temp.folder=Temp ÎÄ¼ş¼Ğ
+ScriptMainTab.msg.temp.folder=Temp æ–‡ä»¶å¤¹
 
-ScriptMainTab.msg.debug.type=µ÷ÊÔÀàĞÍ
+ScriptMainTab.msg.debug.type=è°ƒè¯•ç±»å‹
 
-ScriptMainTab.msg.task.type=ÈÎÎñÀàĞÍ
+ScriptMainTab.msg.task.type=ä»»åŠ¡ç±»å‹
 
-ScriptMainTab.msg.output=Êä³ö
+ScriptMainTab.msg.output=è¾“å‡º
 
-ScriptMainTab.msg.format=¸ñÊ½:
+ScriptMainTab.msg.format=æ ¼å¼:
 
-ScriptMainTab.msg.debug.type.all=È«²¿
+ScriptMainTab.msg.debug.type.all=å…¨éƒ¨
 
 ScriptMainTab.msg.debug.type.java=Java
 ScriptMainTab.msg.debug.type.script=Java Script
-ScriptMainTab.msg.task.type.run.and.render=ÔËĞĞºÍ³ÊÏÖ
+ScriptMainTab.msg.task.type.run.and.render=è¿è¡Œå’Œå‘ˆç°
 
-ScriptMainTab.msg.task.type.run=ÔËĞĞ
+ScriptMainTab.msg.task.type.run=è¿è¡Œ
 
-ScriptMainTab.msg.task.type.render=³ÊÏÖ
+ScriptMainTab.msg.task.type.render=å‘ˆç°
 
-ScriptMainTab.msg.task.type.run.plus.render=ÔËĞĞ + ³ÊÏÖ
+ScriptMainTab.msg.task.type.run.plus.render=è¿è¡Œ + å‘ˆç°
 
-ScriptMainTab.error.msg.no.eclipse.home=Î´Ö¸¶¨ÈÕÊ´Ö÷Ò³¡£
+ScriptMainTab.error.msg.no.eclipse.home=æœªæŒ‡å®šæ—¥èš€ä¸»é¡µã€‚
 
-ScriptMainTab.error.msg.nonexist.eclipse.home=ÈÕÊ´Ö÷Ò³²»´æÔÚ¡£
+ScriptMainTab.error.msg.nonexist.eclipse.home=æ—¥èš€ä¸»é¡µä¸å­˜åœ¨ã€‚
 
-ScriptMainTab.error.msg.invalid.eclipse.home=ÈÕÊ´Ö÷Ò³±ØĞëÎªÄ¿Â¼¡£
+ScriptMainTab.error.msg.invalid.eclipse.home=æ—¥èš€ä¸»é¡µå¿…é¡»ä¸ºç›®å½•ã€‚
 
-ScriptMainTab.error.msg.no.engine.home=Î´Ö¸¶¨ÒıÇæÖ÷Ò³¡£
+ScriptMainTab.error.msg.no.engine.home=æœªæŒ‡å®šå¼•æ“ä¸»é¡µã€‚
 
-ScriptMainTab.error.msg.nonexist.engine.home=ÒıÇæÖ÷Ò³²»´æÔÚ¡£
+ScriptMainTab.error.msg.nonexist.engine.home=å¼•æ“ä¸»é¡µä¸å­˜åœ¨ã€‚
 
-ScriptMainTab.error.msg.invalid.engine.home=ÒıÇæÖ÷Ò³±ØĞëÎªÄ¿Â¼¡£
+ScriptMainTab.error.msg.invalid.engine.home=å¼•æ“ä¸»é¡µå¿…é¡»ä¸ºç›®å½•ã€‚
 
-ScriptMainTab.error.msg.no.temp.folder=Î´Ö¸¶¨ Temp ÎÄ¼ş¼Ğ¡£
+ScriptMainTab.error.msg.no.temp.folder=æœªæŒ‡å®š Temp æ–‡ä»¶å¤¹ã€‚
 
-ScriptMainTab.error.msg.nonexist.temp.folder=Temp ÎÄ¼ş¼Ğ²»´æÔÚ¡£
+ScriptMainTab.error.msg.nonexist.temp.folder=Temp æ–‡ä»¶å¤¹ä¸å­˜åœ¨ã€‚
 
-ScriptMainTab.error.msg.invalid.temp.folder=Temp ÎÄ¼ş¼Ğ±ØĞëÎªÄ¿Â¼¡£
+ScriptMainTab.error.msg.invalid.temp.folder=Temp æ–‡ä»¶å¤¹å¿…é¡»ä¸ºç›®å½•ã€‚
 
-ScriptMainTab.error.msg.no.report.file=Î´Ö¸¶¨±¨±íÎÄ¼ş¡£
+ScriptMainTab.error.msg.no.report.file=æœªæŒ‡å®šæŠ¥è¡¨æ–‡ä»¶ã€‚
 
-ScriptMainTab.error.msg.nonexist.report.file=±¨±íÎÄ¼ş²»´æÔÚ¡£
+ScriptMainTab.error.msg.nonexist.report.file=æŠ¥è¡¨æ–‡ä»¶ä¸å­˜åœ¨ã€‚
 
-ScriptMainTab.error.msg.invalid.report.file=Ñ¡ÔñµÄÎÄ¼ş²»ÊÇÓĞĞ§µÄ±¨±íÉè¼ÆÎÄ¼ş¡£
+ScriptMainTab.error.msg.invalid.report.file=é€‰æ‹©çš„æ–‡ä»¶ä¸æ˜¯æœ‰æ•ˆçš„æŠ¥è¡¨è®¾è®¡æ–‡ä»¶ã€‚
 
-ScriptMainTab.error.msg.invalid.document.file=Ñ¡ÔñµÄÎÄ¼ş²»ÊÇÓĞĞ§µÄ±¨±íÎÄµµÎÄ¼ş¡£
+ScriptMainTab.error.msg.invalid.document.file=é€‰æ‹©çš„æ–‡ä»¶ä¸æ˜¯æœ‰æ•ˆçš„æŠ¥è¡¨æ–‡æ¡£æ–‡ä»¶ã€‚
 
-ScriptMainTab.title.eclipse.home=ÈÕÊ´Ö÷Ò³Ä¿Â¼
+ScriptMainTab.title.eclipse.home=æ—¥èš€ä¸»é¡µç›®å½•
 
-ScriptMainTab.msg.select.eclipse.home=Ñ¡ÔñÈÕÊ´Ö÷Ò³µÄÄ¿Â¼
+ScriptMainTab.msg.select.eclipse.home=é€‰æ‹©æ—¥èš€ä¸»é¡µçš„ç›®å½•
 
-ScriptMainTab.title.temp.folder=Temp ÎÄ¼ş¼ĞÄ¿Â¼
+ScriptMainTab.title.temp.folder=Temp æ–‡ä»¶å¤¹ç›®å½•
 
-ScriptMainTab.msg.select.temp.folder=Ñ¡Ôñ temp ÎÄ¼ş¼ĞµÄÄ¿Â¼
+ScriptMainTab.msg.select.temp.folder=é€‰æ‹© temp æ–‡ä»¶å¤¹çš„ç›®å½•
 
-ScriptMainTab.title.engine.home=ÒıÇæÖ÷Ò³Ä¿Â¼
+ScriptMainTab.title.engine.home=å¼•æ“ä¸»é¡µç›®å½•
 
-ScriptMainTab.msg.select.engine.home=Ñ¡ÔñÒıÇæÖ÷Ò³µÄÄ¿Â¼
+ScriptMainTab.msg.select.engine.home=é€‰æ‹©å¼•æ“ä¸»é¡µçš„ç›®å½•
 
-ScriptMainTab.msg.select.report.file=Ñ¡Ôñ±¨±íÎÄ¼ş
+ScriptMainTab.msg.select.report.file=é€‰æ‹©æŠ¥è¡¨æ–‡ä»¶
 
-ScriptMainTab.button.text.search=ËÑË÷...
+ScriptMainTab.button.text.search=æœç´¢...
 
-ScriptMainTab.button.text.variables=±äÁ¿...
+ScriptMainTab.button.text.variables=å˜é‡...
 
-ScriptMainTab.msg.open.target.file=Íê³ÉÊ±´ò¿ªÉú³ÉµÄÎÄ¼ş
+ScriptMainTab.msg.open.target.file=å®Œæˆæ—¶æ‰“å¼€ç”Ÿæˆçš„æ–‡ä»¶
 
-ScriptMainTab.msg.use.default.engine.home=Ê¹ÓÃÄ¬ÈÏÒıÇæÖ÷Ò³
+ScriptMainTab.msg.use.default.engine.home=ä½¿ç”¨é»˜è®¤å¼•æ“ä¸»é¡µ

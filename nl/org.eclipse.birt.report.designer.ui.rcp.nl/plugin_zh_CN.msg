@@ -17,28 +17,28 @@ Build=@BUILD@
 About=Business Intelligence and Reporting Tools
 ApplicationName=BIRT Report Designer
 ReportPerspective=BIRT Report Designer
-CHEAT_SHEETS=±¸Íüµ¥
+CHEAT_SHEETS=å¤‡å¿˜å•
 
-CHEAT_SHEETS_MENU=±¸Íüµ¥(&C)...
+CHEAT_SHEETS_MENU=å¤‡å¿˜å•(&C)...
 
-ReportEditor=±¨±í±à¼­Æ÷
+ReportEditor=æŠ¥è¡¨ç¼–è¾‘å™¨
 
-ReportDocumentEditor=±¨±íÎÄµµ±à¼­Æ÷
+ReportDocumentEditor=æŠ¥è¡¨æ–‡æ¡£ç¼–è¾‘å™¨
 
-LibraryEditor=¿â±à¼­Æ÷
+LibraryEditor=åº“ç¼–è¾‘å™¨
 
-TemplateEditor=Ä£°å±à¼­Æ÷
+TemplateEditor=æ¨¡æ¿ç¼–è¾‘å™¨
 
 
 WizardCategoryName=Business Intelligence and Reporting Tools
-ReportWizard=±¨±í
+ReportWizard=æŠ¥è¡¨
 
-ReportWizardDescription=´ËÏòµ¼Ê¹ÓÃÔ¤¶¨ÒåÄ£°å´´½¨ĞÂµÄ BIRT ±¨±í¡£
+ReportWizardDescription=æ­¤å‘å¯¼ä½¿ç”¨é¢„å®šä¹‰æ¨¡æ¿åˆ›å»ºæ–°çš„ BIRT æŠ¥è¡¨ã€‚
 
-TemplateWizard=Ä£°å
+TemplateWizard=æ¨¡æ¿
 
-TemplateWizardDescription=´ËÏòµ¼´´½¨ĞÂµÄ BIRT Ä£°å¡£
+TemplateWizardDescription=æ­¤å‘å¯¼åˆ›å»ºæ–°çš„ BIRT æ¨¡æ¿ã€‚
 
-LibraryWizard=¿â
+LibraryWizard=åº“
 
-LibraryWizardDescription=´ËÏòµ¼´´½¨ĞÂµÄ BIRT ±¨±í¿â¡£
+LibraryWizardDescription=æ­¤å‘å¯¼åˆ›å»ºæ–°çš„ BIRT æŠ¥è¡¨åº“ã€‚

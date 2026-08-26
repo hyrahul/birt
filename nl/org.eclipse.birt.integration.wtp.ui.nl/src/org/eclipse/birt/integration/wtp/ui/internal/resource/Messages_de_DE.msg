@@ -16,17 +16,17 @@ BIRTProjectCreationWizard_title=Neues BIRT-Webprojekt
 
 BIRTProjectConfigurationPage_title=BIRT-Konfiguration
 
-BIRTProjectConfigurationPage_desc=In Datei "web.xml" definierte Einstellungen für BIRT-Bereitstellung konfigurieren
+BIRTProjectConfigurationPage_desc=In Datei "web.xml" definierte Einstellungen fÃ¼r BIRT-Bereitstellung konfigurieren
 
 ###############################################################################
 # BIRT Configuration Dialog
 ###############################################################################
-BIRTConfigurationDialog_title=Einstellungen für BIRT-Bereitstellung konfigurieren
+BIRTConfigurationDialog_title=Einstellungen fÃ¼r BIRT-Bereitstellung konfigurieren
 
 ###############################################################################
 # BIRT Configuration Components
 ###############################################################################
-BIRTConfiguration_group_paths=Einstellungen für Bereitstellungsordner
+BIRTConfiguration_group_paths=Einstellungen fÃ¼r Bereitstellungsordner
 
 BIRTConfiguration_group_others=Andere Einstellungen
 
@@ -46,51 +46,51 @@ BIRTConfiguration_resource_label=Resso&urcenordner:
 
 BIRTConfiguration_resource_dialog_title=Nach Ressourcenordner suchen
 
-BIRTConfiguration_resource_dialog_message=Wählen Sie den Standard-Ressourcenordner:
+BIRTConfiguration_resource_dialog_message=WÃ¤hlen Sie den Standard-Ressourcenordner:
 
 BIRTConfiguration_working_label=Arbei&tsordner:
 
 BIRTConfiguration_working_dialog_title=Nach Arbeitsordner suchen
 
-BIRTConfiguration_working_dialog_message=Wählen Sie den Standard-Arbeitsordner:
+BIRTConfiguration_working_dialog_message=WÃ¤hlen Sie den Standard-Arbeitsordner:
 
-BIRTConfiguration_document_label=Temporärer &Dokumentordner:
+BIRTConfiguration_document_label=TemporÃ¤rer &Dokumentordner:
 
-BIRTConfiguration_document_dialog_title=Nach temporärem Dokumentordner durchsuchen
+BIRTConfiguration_document_dialog_title=Nach temporÃ¤rem Dokumentordner durchsuchen
 
-BIRTConfiguration_document_dialog_message=Wählen Sie den standardmäßigen temporären Dokumentordner:
+BIRTConfiguration_document_dialog_message=WÃ¤hlen Sie den standardmÃ¤ÃŸigen temporÃ¤ren Dokumentordner:
 
-BIRTConfiguration_image_label=Temporärer B&ildordner:
+BIRTConfiguration_image_label=TemporÃ¤rer B&ildordner:
 
-BIRTConfiguration_image_dialog_title=Nach temporärem Bildordner durchsuchen
+BIRTConfiguration_image_dialog_title=Nach temporÃ¤rem Bildordner durchsuchen
 
-BIRTConfiguration_image_dialog_message=Wählen Sie den standardmäßigen temporären Bildordner:
+BIRTConfiguration_image_dialog_message=WÃ¤hlen Sie den standardmÃ¤ÃŸigen temporÃ¤ren Bildordner:
 
 BIRTConfiguration_scriptlib_label=ScriptLib-Ordner&:
 
 BIRTConfiguration_scriptlib_dialog_title=Nach ScriptLib-Ordner suchen
 
-BIRTConfiguration_scriptlib_dialog_message=Wählen Sie den Standard-ScriptLib-Ordner:
+BIRTConfiguration_scriptlib_dialog_message=WÃ¤hlen Sie den Standard-ScriptLib-Ordner:
 
 BIRTConfiguration_log_label=Protoko&llordner:
 
 BIRTConfiguration_log_dialog_title=Nach Protokollordner suchen
 
-BIRTConfiguration_log_dialog_message=Wählen Sie den Standard-Protokollordner:
+BIRTConfiguration_log_dialog_message=WÃ¤hlen Sie den Standard-Protokollordner:
 
 BIRTConfiguration_report_access_message=Nu&r auf den Bericht und das Dokument im Arbeitsordner zugreifen
 
-BIRTConfiguration_overwrite_message=Die erstellte Dokumentdatei &immer überschreiben
+BIRTConfiguration_overwrite_message=Die erstellte Dokumentdatei &immer Ã¼berschreiben
 
 BIRTConfiguration_maxrows_label=Maximale &Datensatzzeilen:
 
-BIRTConfiguration_maxrowlevels_label=&Maximale Abrufzeilenebenen für Quader:
+BIRTConfiguration_maxrowlevels_label=&Maximale Abrufzeilenebenen fÃ¼r Quader:
 
-BIRTConfiguration_maxcolumnlevels_label=Ma&ximale Abrufspaltenebenen für Quader:
+BIRTConfiguration_maxcolumnlevels_label=Ma&ximale Abrufspaltenebenen fÃ¼r Quader:
 
-BIRTConfiguration_cubememsize_label=Maximale Speicherg&röße zum Erstellen von Quadern:
+BIRTConfiguration_cubememsize_label=Maximale Speicherg&rÃ¶ÃŸe zum Erstellen von Quadern:
 
-BIRTConfiguration_loglevel_label=Protokolle&bene auswählen:
+BIRTConfiguration_loglevel_label=Protokolle&bene auswÃ¤hlen:
 
 BIRTConfiguration_loglevel_all=ALLE
 
@@ -112,18 +112,18 @@ BIRTConfiguration_loglevel_off=AUS
 
 BIRTConfiguration_printserver_label=&Bericht auf Server drucken:
 
-BIRTConfiguration_import_clear_message=&Alte BIRT Runtime-Dateien löschen.
+BIRTConfiguration_import_clear_message=&Alte BIRT Runtime-Dateien lÃ¶schen.
 
 ###############################################################################
 # Overwrite Query Dialog
 ###############################################################################
-BIRTOverwriteQuery_title=Dialogfeld "Überschreiben"
+BIRTOverwriteQuery_title=Dialogfeld "Ãœberschreiben"
 
-BIRTOverwriteQuery_message={0} überschreiben?
+BIRTOverwriteQuery_message={0} Ã¼berschreiben?
 
-BIRTOverwriteQuery_webartifact_title=Dialogfeld "Bereitstellungs-Deskriptor überschreiben"
+BIRTOverwriteQuery_webartifact_title=Dialogfeld "Bereitstellungs-Deskriptor Ã¼berschreiben"
 
-BIRTOverwriteQuery_webartifact_message={0} ist in der Datei "web.xml" bereits vorhanden. Überschreiben?
+BIRTOverwriteQuery_webartifact_message={0} ist in der Datei "web.xml" bereits vorhanden. Ãœberschreiben?
 
 ###############################################################################
 # Error Message

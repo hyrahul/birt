@@ -1,268 +1,268 @@
 ###########################################################
 # Crosstab Action mame and trans name
-AddLevelHandleAction_Displayname=±×·ì ¼öÁØ Ç¥½Ã/¼û±â±â(&G)
+AddLevelHandleAction_Displayname=ê·¸ë£¹ ìˆ˜ì¤€ í‘œì‹œ/ìˆ¨ê¸°ê¸°(&G)
 
-AddLevelHandleAction_TransName=±×·ì ¼öÁØ Ç¥½Ã/¼û±â±â
+AddLevelHandleAction_TransName=ê·¸ë£¹ ìˆ˜ì¤€ í‘œì‹œ/ìˆ¨ê¸°ê¸°
 
-AddMesureViewHandleAction.DisplayName=ÃøÁ¤°ª Ç¥½Ã/¼û±â±â(&M)
+AddMesureViewHandleAction.DisplayName=ì¸¡ì •ê°’ í‘œì‹œ/ìˆ¨ê¸°ê¸°(&M)
 
-AddMesureViewHandleAction.TransName=ÃøÁ¤ Ç¥½Ã/¼û±â±â
+AddMesureViewHandleAction.TransName=ì¸¡ì • í‘œì‹œ/ìˆ¨ê¸°ê¸°
 
-AddSubTotalAction.LabelName=ÃÑÇÕ°è
+AddSubTotalAction.LabelName=ì´í•©ê³„
 
-AddSubTotalAction.TransName=ÇÕ°è ÆíÁı
+AddSubTotalAction.TransName=í•©ê³„ í¸ì§‘
 
-AddSubTotalAction.DisplayName=ÇÕ°è(&L)
+AddSubTotalAction.DisplayName=í•©ê³„(&L)
 
-AddSubTotalAction.TotalName=ÇÕ°è
+AddSubTotalAction.TotalName=í•©ê³„
 
-CrosstabMenuBuilder.EditCubeAction.DisplayName=µ¥ÀÌÅÍ Å¥ºê ÆíÁı(&E)
+CrosstabMenuBuilder.EditCubeAction.DisplayName=ë°ì´í„° íë¸Œ í¸ì§‘(&E)
 
-DeleteDimensionViewHandleAction.TransName=Â÷¿ø »èÁ¦
+DeleteDimensionViewHandleAction.TransName=ì°¨ì› ì‚­ì œ
 
-DeleteDimensionViewHandleAction.DisplayName=Á¦°Å(&V)
+DeleteDimensionViewHandleAction.DisplayName=ì œê±°(&V)
 
-DeleteMeasureHandleAction.DisplayName=Á¦°Å(&V)
+DeleteMeasureHandleAction.DisplayName=ì œê±°(&V)
 
-DeleteMeasureHandleAction.TransName=ÃøÁ¤°ª »èÁ¦
+DeleteMeasureHandleAction.TransName=ì¸¡ì •ê°’ ì‚­ì œ
 
-AddComputedMesureHandleAction.DisplayName=ÆÄ»ı ÃøÁ¤°ª Ãß°¡(&M)
+AddComputedMesureHandleAction.DisplayName=íŒŒìƒ ì¸¡ì •ê°’ ì¶”ê°€(&M)
 
-AddComputedMesureHandleAction.TransName=ÆÄ»ı ÃøÁ¤°ª Ãß°¡
+AddComputedMesureHandleAction.TransName=íŒŒìƒ ì¸¡ì •ê°’ ì¶”ê°€
 
-AddComputedSummaryDialog.Title=ÆÄ»ı ÃøÁ¤°ª
+AddComputedSummaryDialog.Title=íŒŒìƒ ì¸¡ì •ê°’
 
-AddComputedSummaryDialog.Label.Name=ÀÌ¸§(&N):
+AddComputedSummaryDialog.Label.Name=ì´ë¦„(&N):
 
-AddComputedSummaryDialog.Label.Expression=½Ä(&E):
+AddComputedSummaryDialog.Label.Expression=ì‹(&E):
 
-AddComputedSummaryDialog.Label.DataType=µ¥ÀÌÅÍ Çü½Ä(&D):
+AddComputedSummaryDialog.Label.DataType=ë°ì´í„° í˜•ì‹(&D):
 
-AddComputedSummaryDialog.ErrMsg.Msg1=ÃøÁ¤°ª ÀÌ¸§Àº ºñ¾î ÀÖÀ¸¸é ¾È µË´Ï´Ù.
+AddComputedSummaryDialog.ErrMsg.Msg1=ì¸¡ì •ê°’ ì´ë¦„ì€ ë¹„ì–´ ìˆìœ¼ë©´ ì•ˆ ë©ë‹ˆë‹¤.
 
-AddComputedSummaryDialog.ErrMsg.Msg2=ÃøÁ¤°ª ÀÌ¸§ÀÌ ÀÌ¹Ì ÀÖ½À´Ï´Ù.
+AddComputedSummaryDialog.ErrMsg.Msg2=ì¸¡ì •ê°’ ì´ë¦„ì´ ì´ë¯¸ ìˆìŠµë‹ˆë‹¤.
 
-AddComputedSummaryDialog.ErrMsg.Msg3=½ÄÀº ºñ¾î ÀÖÀ¸¸é ¾È µË´Ï´Ù.
+AddComputedSummaryDialog.ErrMsg.Msg3=ì‹ì€ ë¹„ì–´ ìˆìœ¼ë©´ ì•ˆ ë©ë‹ˆë‹¤.
 
-ShowAsViewAction.DisplayName=Ç¥½Ã
+ShowAsViewAction.DisplayName=í‘œì‹œ
 
-ShowAsViewAction.TransName=Ç¥½Ã
+ShowAsViewAction.TransName=í‘œì‹œ
 
-MeasureComboPropertyDescriptorProvider.TransName=Å©·Î½º ÅÇ ¹æÇâ º¯°æ
+MeasureComboPropertyDescriptorProvider.TransName=í¬ë¡œìŠ¤ íƒ­ ë°©í–¥ ë³€ê²½
 
-MeasureHandleDropAdapter_trans_name=ÃøÁ¤°ª Ãß°¡
+MeasureHandleDropAdapter_trans_name=ì¸¡ì •ê°’ ì¶”ê°€
 
 ###########################################################
 # Crosstab Command trans name
-AddDimensionViewHandleCommand.TransName=Â÷¿ø Ãß°¡
+AddDimensionViewHandleCommand.TransName=ì°¨ì› ì¶”ê°€
 
-AddMeasureViewHandleCommand.TransName=ÃøÁ¤°ª Ãß°¡
+AddMeasureViewHandleCommand.TransName=ì¸¡ì •ê°’ ì¶”ê°€
 
-AddRelativeTimePeriodAction_action_label=»ó´ë ½Ã°£ Ãß°¡(&L)
+AddRelativeTimePeriodAction_action_label=ìƒëŒ€ ì‹œê°„ ì¶”ê°€(&L)
 
-AddRelativeTimePeriodAction_trans_label=»ó´ë ½Ã°£ Ãß°¡
+AddRelativeTimePeriodAction_trans_label=ìƒëŒ€ ì‹œê°„ ì¶”ê°€
 
-ChangeAreaCommand.TransName=Â÷¿ø ³õ±â
+ChangeAreaCommand.TransName=ì°¨ì› ë†“ê¸°
 
-ChangeMeasureOrderCommand.TransName=ÃøÁ¤°ª ¼ø¼­ º¯°æ
+ChangeMeasureOrderCommand.TransName=ì¸¡ì •ê°’ ìˆœì„œ ë³€ê²½
 
-CreateDimensionViewCommand.TransName=Â÷¿ø »ı¼º
+CreateDimensionViewCommand.TransName=ì°¨ì› ìƒì„±
 
-CreateMeasureViewCommand.TransName=ÃøÁ¤°ª »ı¼º
+CreateMeasureViewCommand.TransName=ì¸¡ì •ê°’ ìƒì„±
 
-MergeCrosstabHeaderCellAction_name=¸Ó¸®±Û ¼¿ º´ÇÕ(&M)
+MergeCrosstabHeaderCellAction_name=ë¨¸ë¦¬ê¸€ ì…€ ë³‘í•©(&M)
 
-SplitCrosstabHeadCellAction_name=¸Ó¸®±Û ¼¿ ºĞÇÒ(&S)
+SplitCrosstabHeadCellAction_name=ë¨¸ë¦¬ê¸€ ì…€ ë¶„í• (&S)
 
-ExtendedDataColumnXtabDropAdapter.trans.add={0} Ãß°¡
+ExtendedDataColumnXtabDropAdapter.trans.add={0} ì¶”ê°€
 
 ###########################################################
 # Crosstab EditPart
 ###########################################################
 # Crosstab Command trans name
-CrosstabTableEditPart.GuideText=Å©·Î½º ÅÇ
+CrosstabTableEditPart.GuideText=í¬ë¡œìŠ¤ íƒ­
 ###########################################################
 # Crosstab Dialog trans name
-GrandTotalProvider.Column.AggregateOn=Áı°è ´ë»ó
+GrandTotalProvider.Column.AggregateOn=ì§‘ê³„ ëŒ€ìƒ
 
-GrandTotalProvider.Column.DataField=µ¥ÀÌÅÍ ÇÊµå
+GrandTotalProvider.Column.DataField=ë°ì´í„° í•„ë“œ
 
-GrandTotalProvider.Column.View=º¸±â
+GrandTotalProvider.Column.View=ë³´ê¸°
 
-GrandTotalProvider.Column.Position=À§Ä¡
+GrandTotalProvider.Column.Position=ìœ„ì¹˜
 
-GrandTotalProvider.Column.Function=ÇÔ¼ö
+GrandTotalProvider.Column.Function=í•¨ìˆ˜
 
-GrandTotalProvider.ViewStatus=ÇöÀç º¸±â À¯Áö
+GrandTotalProvider.ViewStatus=í˜„ì¬ ë³´ê¸° ìœ ì§€
 
-GrandTotalProvider.ShowAs={0}(À¸)·Î Ç¥½Ã
+GrandTotalProvider.ShowAs={0}(ìœ¼)ë¡œ í‘œì‹œ
 
-SubTotalProvider.Column.DataField=µ¥ÀÌÅÍ ÇÊµå
+SubTotalProvider.Column.DataField=ë°ì´í„° í•„ë“œ
 
-SubTotalProvider.Column.Function=ÇÔ¼ö
+SubTotalProvider.Column.Function=í•¨ìˆ˜
 
-SubTotalProvider.Column.AggregateOn=Áı°è ´ë»ó:
+SubTotalProvider.Column.AggregateOn=ì§‘ê³„ ëŒ€ìƒ:
 
-SubTotalProvider.Column.ViewStatus=ÇöÀç º¸±â À¯Áö
+SubTotalProvider.Column.ViewStatus=í˜„ì¬ ë³´ê¸° ìœ ì§€
 
-SubTotalProvider.Column.View=º¸±â
+SubTotalProvider.Column.View=ë³´ê¸°
 
-SubTotalProvider.Column.Position=À§Ä¡
+SubTotalProvider.Column.Position=ìœ„ì¹˜
 
-SubTotalProvider.ShowAs={0}(À¸)·Î Ç¥½Ã
+SubTotalProvider.ShowAs={0}(ìœ¼)ë¡œ í‘œì‹œ
 
-LevelViewDialog.Title=±×·ì ¼öÁØ Ç¥½Ã/¼û±â±â
+LevelViewDialog.Title=ê·¸ë£¹ ìˆ˜ì¤€ í‘œì‹œ/ìˆ¨ê¸°ê¸°
 
-LevelViewDialog.Label.Info=Å©·Î½º ÅÇ¿¡ Ç¥½ÃÇÒ ¼öÁØ ¼±ÅÃ:
+LevelViewDialog.Label.Info=í¬ë¡œìŠ¤ íƒ­ì— í‘œì‹œí•  ìˆ˜ì¤€ ì„ íƒ:
 
-LevelViewDialog.Button.Regular.Text=ÀÏ¹İ ±×·ì(&R)
+LevelViewDialog.Button.Regular.Text=ì¼ë°˜ ê·¸ë£¹(&R)
 
-LevelViewDialog.Button.Date.Text=³¯Â¥ ±×·ì(&D)
+LevelViewDialog.Button.Date.Text=ë‚ ì§œ ê·¸ë£¹(&D)
 
-AggregationDialog.Title=ÀüÃ¼
+AggregationDialog.Title=ì „ì²´
 
-AggregationDialog.Label.Grand=ÃÑÇÕ°è:
+AggregationDialog.Label.Grand=ì´í•©ê³„:
 
-AggregationDialog.Label.Sub=ºÎºĞÇÕ:
+AggregationDialog.Label.Sub=ë¶€ë¶„í•©:
 
-AggregationDialog.TabItem.Title.RowArea=Çà ¿µ¿ª
+AggregationDialog.TabItem.Title.RowArea=í–‰ ì˜ì—­
 
-AggregationDialog.TabItem.Title.ColumnArea=¿­ ¿µ¿ª
+AggregationDialog.TabItem.Title.ColumnArea=ì—´ ì˜ì—­
 
-ShowSummaryFieldDialog.Title=ÃøÁ¤ Ç¥½Ã/¼û±â±â
+ShowSummaryFieldDialog.Title=ì¸¡ì • í‘œì‹œ/ìˆ¨ê¸°ê¸°
 
-ShowSummaryFieldDialog.Label.Info=Å©·Î½º ÅÇ¿¡ Ç¥½ÃÇÒ ÃøÁ¤°ª ¼±ÅÃ:
+ShowSummaryFieldDialog.Label.Info=í¬ë¡œìŠ¤ íƒ­ì— í‘œì‹œí•  ì¸¡ì •ê°’ ì„ íƒ:
 
-ShowSummaryFieldDialog.Column.Measures=ÃøÁ¤°ª
+ShowSummaryFieldDialog.Column.Measures=ì¸¡ì •ê°’
 
-ShowSummaryFieldDialog.Column.View=º¸±â
+ShowSummaryFieldDialog.Column.View=ë³´ê¸°
 
-ShowSummaryFieldDialog.ViewStatus=ÇöÀç º¸±â À¯Áö
+ShowSummaryFieldDialog.ViewStatus=í˜„ì¬ ë³´ê¸° ìœ ì§€
 
-DeleteBindingDialog.Title=»ç¿ëÇÏÁö ¾Ê´Â ¹ÙÀÎµùÀ» Á¦°ÅÇÏ½Ã°Ú½À´Ï±î?
+DeleteBindingDialog.Title=ì‚¬ìš©í•˜ì§€ ì•ŠëŠ” ë°”ì¸ë”©ì„ ì œê±°í•˜ì‹œê² ìŠµë‹ˆê¹Œ?
 
-DeleteBindingDialog.Message=ÀÌ ÀÛ¾÷À» ¼öÇàÇÏ¸é »ç¿ëÇÏÁö ¾Ê´Â µ¥ÀÌÅÍ ¹ÙÀÎµùÀÌ ¹ß»ıÇÕ´Ï´Ù.\n\n»ç¿ëÇÏÁö ¾Ê´Â ¹ÙÀÎµùÀ» Á¦°ÅÇÏ½Ã°Ú½À´Ï±î?
+DeleteBindingDialog.Message=ì´ ì‘ì—…ì„ ìˆ˜í–‰í•˜ë©´ ì‚¬ìš©í•˜ì§€ ì•ŠëŠ” ë°ì´í„° ë°”ì¸ë”©ì´ ë°œìƒí•©ë‹ˆë‹¤.\n\nì‚¬ìš©í•˜ì§€ ì•ŠëŠ” ë°”ì¸ë”©ì„ ì œê±°í•˜ì‹œê² ìŠµë‹ˆê¹Œ?
 
-DeleteBindingDialog.ToggleMessage=¼±ÅÃ ÀúÀå(&R)
+DeleteBindingDialog.ToggleMessage=ì„ íƒ ì €ì¥(&R)
 ###########################################################
 # Crosstab Outline Node
-AreaNodeProvider.ColumnArea=¿­ ¿µ¿ª
+AreaNodeProvider.ColumnArea=ì—´ ì˜ì—­
 
-AreaNodeProvider.RowArea=Çà ¿µ¿ª
+AreaNodeProvider.RowArea=í–‰ ì˜ì—­
 
-AreaNodeProvider.DetailArea=¼¼ºÎ ¿µ¿ª
+AreaNodeProvider.DetailArea=ì„¸ë¶€ ì˜ì—­
 
-CrossTabViewNodeProvider.ColumnArea=¿­ ¿µ¿ª
+CrossTabViewNodeProvider.ColumnArea=ì—´ ì˜ì—­
 
-CrossTabViewNodeProvider.RowArea=Çà ¿µ¿ª
+CrossTabViewNodeProvider.RowArea=í–‰ ì˜ì—­
 
-CrossTabCellNodeProvider.Cell=¼¿
+CrossTabCellNodeProvider.Cell=ì…€
 
-CrossTabLevelNodeProvider.Level=¼öÁØ -
+CrossTabLevelNodeProvider.Level=ìˆ˜ì¤€ -
 
-CrossTabMeasureNodeProvider.Detail=»ó¼¼ Á¤º¸ -
+CrossTabMeasureNodeProvider.Detail=ìƒì„¸ ì •ë³´ -
 
-MeasureSubNodeProvider.Header=¸Ó¸®±Û
+MeasureSubNodeProvider.Header=ë¨¸ë¦¬ê¸€
 
-MeasureSubNodeProvider.Detail=»ó¼¼ Á¤º¸
+MeasureSubNodeProvider.Detail=ìƒì„¸ ì •ë³´
 
-MeasureSubNodeProvider.Aggregation=Áı°è
+MeasureSubNodeProvider.Aggregation=ì§‘ê³„
 
-CrosstabSortingModelProvider.ColumnName.GroupLevel=±×·ì ¼öÁØ
+CrosstabSortingModelProvider.ColumnName.GroupLevel=ê·¸ë£¹ ìˆ˜ì¤€
 
-SortkeyBuilder.DialogTitle.Error.SetSortKey.Title=¿À·ù
+SortkeyBuilder.DialogTitle.Error.SetSortKey.Title=ì˜¤ë¥˜
 
-SortkeyBuilder.DialogTitle.Label.Key=Å°(&K):
+SortkeyBuilder.DialogTitle.Label.Key=í‚¤(&K):
 
-CrosstabFilterModelProvider.ColumnName.GroupLevelOrMeasure=´ë»ó
+CrosstabFilterModelProvider.ColumnName.GroupLevelOrMeasure=ëŒ€ìƒ
 
-CrosstabSortkeyBuilder.DialogTitle.Label.GroupLevel=±×·ì ¼öÁØ(&G):
+CrosstabSortkeyBuilder.DialogTitle.Label.GroupLevel=ê·¸ë£¹ ìˆ˜ì¤€(&G):
 
-SortkeyBuilder.DialogTitle.Button.ExpressionBuilder=½Ä ºô´õ¸¦ È£ÃâÇÏ·Á¸é ´©¸¨´Ï´Ù.
+SortkeyBuilder.DialogTitle.Button.ExpressionBuilder=ì‹ ë¹Œë”ë¥¼ í˜¸ì¶œí•˜ë ¤ë©´ ëˆ„ë¦…ë‹ˆë‹¤.
 
-SortkeyBuilder.DialogTitle.Label.Direction=¹æÇâ(&D):
+SortkeyBuilder.DialogTitle.Label.Direction=ë°©í–¥(&D):
 
-SortkeyBuilder.Label.Locale=·ÎÄÉÀÏ(&L):
+SortkeyBuilder.Label.Locale=ë¡œì¼€ì¼(&L):
 
-SortkeyBuilder.Label.Strength=¼öÁØ(&S):
+SortkeyBuilder.Label.Strength=ìˆ˜ì¤€(&S):
 
-SortkeyBuilder.Locale.Auto=ÀÚµ¿
+SortkeyBuilder.Locale.Auto=ìë™
 
 ###########################################################
 #GrossTabPageGenerator properties
-CrosstabPageGenerator.List.General=ÀÏ¹İ
+CrosstabPageGenerator.List.General=ì¼ë°˜
 
-CrosstabPageGenerator.List.Margin=¿©¹é
+CrosstabPageGenerator.List.Margin=ì—¬ë°±
 
-CrosstabPageGenerator.List.Font=±Û²Ã
+CrosstabPageGenerator.List.Font=ê¸€ê¼´
 
-CrosstabPageGenerator.List.Borders=Å×µÎ¸®
+CrosstabPageGenerator.List.Borders=í…Œë‘ë¦¬
 
-CrosstabPageGenerator.List.Section=ÆäÀÌÁö ³ª´©±â
+CrosstabPageGenerator.List.Section=í˜ì´ì§€ ë‚˜ëˆ„ê¸°
 
-CrosstabPageGenerator.List.Visibility=Ç¥½Ã À¯Çü
+CrosstabPageGenerator.List.Visibility=í‘œì‹œ ìœ í˜•
 
-CrosstabPageGenerator.List.TOC=¸ñÂ÷
+CrosstabPageGenerator.List.TOC=ëª©ì°¨
 
-CrosstabPageGenerator.List.Bookmark=Ã¥°¥ÇÇ
+CrosstabPageGenerator.List.Bookmark=ì±…ê°ˆí”¼
 
-CrosstabPageGenerator.List.NamedExpressions=¸í¸íµÈ ½Ä
+CrosstabPageGenerator.List.NamedExpressions=ëª…ëª…ëœ ì‹
 
-CrosstabPageGenerator.List.UserProperties=»ç¿ëÀÚ ¼Ó¼º
+CrosstabPageGenerator.List.UserProperties=ì‚¬ìš©ì ì†ì„±
 
-CrosstabPageGenerator.List.AdvancedProperty=°í±Ş
+CrosstabPageGenerator.List.AdvancedProperty=ê³ ê¸‰
 
-CrosstabPageGenerator.List.EmptyRowColumn=ºó Çà/¿­
+CrosstabPageGenerator.List.EmptyRowColumn=ë¹ˆ í–‰/ì—´
 
-CrosstabPageGenerator.TabItem.Binding=¹ÙÀÎµù
+CrosstabPageGenerator.TabItem.Binding=ë°”ì¸ë”©
 
-CrosstabPageGenerator.TabItem.RowArea=Çà ¿µ¿ª
+CrosstabPageGenerator.TabItem.RowArea=í–‰ ì˜ì—­
 
-CrosstabPageGenerator.TabItem.ColumnArea=¿­ ¿µ¿ª
+CrosstabPageGenerator.TabItem.ColumnArea=ì—´ ì˜ì—­
 
-CrosstabPageGenerator.TabItem.DetailArea=¼¼ºÎ ¿µ¿ª
+CrosstabPageGenerator.TabItem.DetailArea=ì„¸ë¶€ ì˜ì—­
 
-CrosstabPageGenerator.TabItem.Filters=ÇÊÅÍ
+CrosstabPageGenerator.TabItem.Filters=í•„í„°
 
-CrosstabPageGenerator.TabItem.Highlights=°­Á¶
+CrosstabPageGenerator.TabItem.Highlights=ê°•ì¡°
 
-CrosstabPageGenerator.TabItem.map=¸Ê
+CrosstabPageGenerator.TabItem.map=ë§µ
 
-CrosstabPageGenerator.TabItem.Sorting=Á¤·Ä
+CrosstabPageGenerator.TabItem.Sorting=ì •ë ¬
 
-CrosstabGeneralPage.ForEmptyCell=ºó ¼¿ÀÇ °æ¿ì Ç¥½Ã(&S):
+CrosstabGeneralPage.ForEmptyCell=ë¹ˆ ì…€ì˜ ê²½ìš° í‘œì‹œ(&S):
 
-LayoutMeasuresSection.DisplayName=¹æÇâ(&R):
+LayoutMeasuresSection.DisplayName=ë°©í–¥(&R):
 
-CrosstabGeneralPage.HideMeasureHeader=ÃøÁ¤°ª ¸Ó¸®±Û ¼û±â±â(&H)
+CrosstabGeneralPage.HideMeasureHeader=ì¸¡ì •ê°’ ë¨¸ë¦¬ê¸€ ìˆ¨ê¸°ê¸°(&H)
 
 ###########################################################
 #CrosstabEventHandlerPage properties
-CrosstabEventHandlerPage.dialog.Browse=Ã£¾Æº¸±â(&B)...
+CrosstabEventHandlerPage.dialog.Browse=ì°¾ì•„ë³´ê¸°(&B)...
 
 ###########################################################
 #SortingHandleProvider properties
-SortingHandleProvider.Label.SortOn=Á¤·Ä ¹æ¹ı:
+SortingHandleProvider.Label.SortOn=ì •ë ¬ ë°©ë²•:
 
-Element.ReportItem.dataSet=µ¥ÀÌÅÍ ÁıÇÕ:
+Element.ReportItem.dataSet=ë°ì´í„° ì§‘í•©:
 
-Element.ReportElement.Cube=µ¥ÀÌÅÍ(&T):
+Element.ReportElement.Cube=ë°ì´í„°(&T):
 
-BindingPage.None=¾øÀ½
+BindingPage.None=ì—†ìŒ
 
-FilterHandleProvider.Label.Filterby=ÇÊÅÍ¸µ ±âÁØ:
+FilterHandleProvider.Label.Filterby=í•„í„°ë§ ê¸°ì¤€:
 
 ###########################################################
 #EmptyRowColumnProvider properties
-EmptyRowColumnPage.Label.Text=È®ÀÎ¶õÀ» »ç¿ëÇÏ¿© ºñ¾î ÀÖ´Â Çà°ú ¿­À» Å©·Î½º ÅÇ ¼öÁØ¿¡ Ç¥½ÃÇÒÁö ¿©ºÎ¸¦ ¼±ÅÃÇÕ´Ï´Ù.
+EmptyRowColumnPage.Label.Text=í™•ì¸ë€ì„ ì‚¬ìš©í•˜ì—¬ ë¹„ì–´ ìˆëŠ” í–‰ê³¼ ì—´ì„ í¬ë¡œìŠ¤ íƒ­ ìˆ˜ì¤€ì— í‘œì‹œí• ì§€ ì—¬ë¶€ë¥¼ ì„ íƒí•©ë‹ˆë‹¤.
 
-EmptyRowColumnProvider.RowView.Button.Text=ºó Çà Ç¥½Ã(&R)
+EmptyRowColumnProvider.RowView.Button.Text=ë¹ˆ í–‰ í‘œì‹œ(&R)
 
-EmptyRowColumnProvider.ColumnView.Button.Text=ºó ¿­ Ç¥½Ã(&C)
+EmptyRowColumnProvider.ColumnView.Button.Text=ë¹ˆ ì—´ í‘œì‹œ(&C)
 
 ###########################################################
 #CategoryPageGenerator properties
-CategoryPageGenerator.TabItem.Attributes=¼Ó¼º
+CategoryPageGenerator.TabItem.Attributes=ì†ì„±
 
 
 ###########################################################
@@ -271,295 +271,295 @@ FilterConditionBuilder.DialogMessage.Edit=
 
 FilterConditionBuilder.DialogMessage.New=
 
-FilterConditionBuilder.DialogTitle.New=»õ ÇÊÅÍ Á¶°Ç
+FilterConditionBuilder.DialogTitle.New=ìƒˆ í•„í„° ì¡°ê±´
 
-FilterConditionBuilder.DialogTitle.Edit=ÇÊÅÍ Á¶°Ç ÆíÁı
+FilterConditionBuilder.DialogTitle.Edit=í•„í„° ì¡°ê±´ í¸ì§‘
 
-FilterConditionBuilder.choice.ValueOfThisDataItem=ÀÌ µ¥ÀÌÅÍ Ç×¸ñ °ª
+FilterConditionBuilder.choice.ValueOfThisDataItem=ì´ ë°ì´í„° í•­ëª© ê°’
 
-FilterConditionBuilder.tooltip.ExpBuilder=½Ä ºô´õ¸¦ È£ÃâÇÏ·Á¸é ´©¸¨´Ï´Ù.
+FilterConditionBuilder.tooltip.ExpBuilder=ì‹ ë¹Œë”ë¥¼ í˜¸ì¶œí•˜ë ¤ë©´ ëˆ„ë¦…ë‹ˆë‹¤.
 
-FilterConditionBuilder.text.AND=¹×
+FilterConditionBuilder.text.AND=ë°
 
-FilterConditionBuilder.text.Condition=ÇÊÅÍ Á¶°Ç(&C):
+FilterConditionBuilder.text.Condition=í•„í„° ì¡°ê±´(&C):
 
-FilterConditionBuilder.text.GroupLevel=±×·ì ¼öÁØ(&L):
+FilterConditionBuilder.text.GroupLevel=ê·¸ë£¹ ìˆ˜ì¤€(&L):
 
-FilterConditionBuilder.list.item1=°ª
+FilterConditionBuilder.list.item1=ê°’
 
-FilterConditionBuilder.button.edit=ÆíÁı(&E)...
+FilterConditionBuilder.button.edit=í¸ì§‘(&E)...
 
-FilterConditionBuilder.button.delete=Á¦°Å(&M)
+FilterConditionBuilder.button.delete=ì œê±°(&M)
 
-FilterConditionBuilder.button.deleteall=¸ğµÎ Á¦°Å(&O)
+FilterConditionBuilder.button.deleteall=ëª¨ë‘ ì œê±°(&O)
 
-FilterConditionBuilder.button.add=Ãß°¡(&A)
+FilterConditionBuilder.button.add=ì¶”ê°€(&A)
 
-FilterConditionBuilder.button.edit.tooltip=°ª ¸ñ·Ï¿¡¼­ ¼±ÅÃÇÑ °ª ÆíÁı
+FilterConditionBuilder.button.edit.tooltip=ê°’ ëª©ë¡ì—ì„œ ì„ íƒí•œ ê°’ í¸ì§‘
 
-FilterConditionBuilder.button.delete.tooltip=¸ñ·Ï¿¡¼­ ¼±ÅÃÇÑ °ª »èÁ¦
+FilterConditionBuilder.button.delete.tooltip=ëª©ë¡ì—ì„œ ì„ íƒí•œ ê°’ ì‚­ì œ
 
-FilterConditionBuilder.button.deleteall.tooltip=¸ñ·Ï¿¡¼­ ¸ğµç °ª »èÁ¦
+FilterConditionBuilder.button.deleteall.tooltip=ëª©ë¡ì—ì„œ ëª¨ë“  ê°’ ì‚­ì œ
 
-FilterConditionBuilder.button.add.tooltip=°ª ¸ñ·Ï¿¡ °ª Ãß°¡
+FilterConditionBuilder.button.add.tooltip=ê°’ ëª©ë¡ì— ê°’ ì¶”ê°€
 
 CrosstabFilterConditionBuilder.Item.Decorator=--------
 
-CrosstabFilterConditionBuilder.Button.Detal=»ó¼¼ Á¤º¸(&D)
+CrosstabFilterConditionBuilder.Button.Detal=ìƒì„¸ ì •ë³´(&D)
 
-CrosstabFilterConditionBuilder.Item.SelectLevel=---¼öÁØ ¼±ÅÃ---
+CrosstabFilterConditionBuilder.Item.SelectLevel=---ìˆ˜ì¤€ ì„ íƒ---
 
-CrosstabFilterConditionBuilder.Item.SelectMeasure=---ÃøÁ¤°ª ¼±ÅÃ---
+CrosstabFilterConditionBuilder.Item.SelectMeasure=---ì¸¡ì •ê°’ ì„ íƒ---
 
-CrosstabFilterConditionBuilder.DialogMessage.New=ÇÊÅÍ¸¦ Àû¿ëÇÒ ´ë»ó ±×·ì ¼öÁØ ¶Ç´Â ÃøÁ¤°ªÀ» ¼±ÅÃÇÑ ´ÙÀ½ ÇÊÅÍ Á¶°ÇÀ» ¼³Á¤ÇÕ´Ï´Ù.
+CrosstabFilterConditionBuilder.DialogMessage.New=í•„í„°ë¥¼ ì ìš©í•  ëŒ€ìƒ ê·¸ë£¹ ìˆ˜ì¤€ ë˜ëŠ” ì¸¡ì •ê°’ì„ ì„ íƒí•œ ë‹¤ìŒ í•„í„° ì¡°ê±´ì„ ì„¤ì •í•©ë‹ˆë‹¤.
 
-CrosstabFilterConditionBuilder.DialogMessage.Edit=ÇÊÅÍ¸¦ Àû¿ëÇÒ ´ë»ó ±×·ì ¼öÁØ ¶Ç´Â ÃøÁ¤°ªÀ» ¼±ÅÃÇÑ ´ÙÀ½ ÇÊÅÍ Á¶°ÇÀ» ¼³Á¤ÇÕ´Ï´Ù.
+CrosstabFilterConditionBuilder.DialogMessage.Edit=í•„í„°ë¥¼ ì ìš©í•  ëŒ€ìƒ ê·¸ë£¹ ìˆ˜ì¤€ ë˜ëŠ” ì¸¡ì •ê°’ì„ ì„ íƒí•œ ë‹¤ìŒ í•„í„° ì¡°ê±´ì„ ì„¤ì •í•©ë‹ˆë‹¤.
 
-CrosstabFilterConditionBuilder.label.value=°ª
+CrosstabFilterConditionBuilder.label.value=ê°’
 
-CrosstabFilterConditionBuilder.Label.Target=´ë»ó:
+CrosstabFilterConditionBuilder.Label.Target=ëŒ€ìƒ:
 
-CrosstabFilterConditionBuilder.Button.GroupLevel=±×·ì ¼öÁØ(&G)
+CrosstabFilterConditionBuilder.Button.GroupLevel=ê·¸ë£¹ ìˆ˜ì¤€(&G)
 
-CrosstabFilterConditionBuilder.Button.Measure=ÃøÁ¤°ª(&U)
+CrosstabFilterConditionBuilder.Button.Measure=ì¸¡ì •ê°’(&U)
 
-CrosstabFilterConditionBuilder.Button.Cube=Å¥ºê(&C)
+CrosstabFilterConditionBuilder.Button.Cube=íë¸Œ(&C)
 
-FilterbyTree.Bindings.Catogory.Measures=ÃøÁ¤
+FilterbyTree.Bindings.Catogory.Measures=ì¸¡ì •
 
-FilterbyTree.Bindings.Catogory.Dimension=Â÷¿ø
+FilterbyTree.Bindings.Catogory.Dimension=ì°¨ì›
 
-FilterbyTree.Bindings.Catogory.GrandTotal=ÃÑÇÕ°è
+FilterbyTree.Bindings.Catogory.GrandTotal=ì´í•©ê³„
 
-FilterbyTree.Bindings.Catogory.SubTotal=ºÎºĞÇÕ
+FilterbyTree.Bindings.Catogory.SubTotal=ë¶€ë¶„í•©
 
-FilterbyTree.Bindings.Catogory.OtherType=´Ù¸¥ Çü½Ä
+FilterbyTree.Bindings.Catogory.OtherType=ë‹¤ë¥¸ í˜•ì‹
 
-FilterbyTree.Bindings.Catogory.Undefined=Á¤ÀÇµÇÁö ¾ÊÀ½
+FilterbyTree.Bindings.Catogory.Undefined=ì •ì˜ë˜ì§€ ì•ŠìŒ
 
-FilterbyTree.Title=ÇÊÅÍ¸µ ±âÁØ
+FilterbyTree.Title=í•„í„°ë§ ê¸°ì¤€
 
-FilterbyTree.Message=ÇÊÅÍ¸µ ±âÁØ
+FilterbyTree.Message=í•„í„°ë§ ê¸°ì¤€
 
 ###########################################################
 #VirtualCellEditPart.java
-Blank.text.column=¿­À» Á¤ÀÇÇÏ·Á¸é µ¥ÀÌÅÍ ÇÊµå¸¦ ¿©±â¿¡ ³»·Á ³õÀ¸½Ê½Ã¿À.
+Blank.text.column=ì—´ì„ ì •ì˜í•˜ë ¤ë©´ ë°ì´í„° í•„ë“œë¥¼ ì—¬ê¸°ì— ë‚´ë ¤ ë†“ìœ¼ì‹­ì‹œì˜¤.
 
-Blank.text.row=ÇàÀ» Á¤ÀÇÇÏ·Á¸é µ¥ÀÌÅÍ\nÇÊµå¸¦ ¿©±â¿¡ ³»·Á ³õÀ¸½Ê½Ã¿À.
+Blank.text.row=í–‰ì„ ì •ì˜í•˜ë ¤ë©´ ë°ì´í„°\ní•„ë“œë¥¼ ì—¬ê¸°ì— ë‚´ë ¤ ë†“ìœ¼ì‹­ì‹œì˜¤.
 
-Blank.text.measure=¿ä¾àÇÏ·Á¸é µ¥ÀÌÅÍ ÇÊµå¸¦ ¿©±â¿¡ ³»·Á ³õÀ¸½Ê½Ã¿À.
+Blank.text.measure=ìš”ì•½í•˜ë ¤ë©´ ë°ì´í„° í•„ë“œë¥¼ ì—¬ê¸°ì— ë‚´ë ¤ ë†“ìœ¼ì‹­ì‹œì˜¤.
 
 ###########################################################
 #CrosstabGrandTotalDialog
-CrosstabGrandTotalDialog.Title=ÃÑÇÕ°è
+CrosstabGrandTotalDialog.Title=ì´í•©ê³„
 
-CrosstabGrandTotalDialog.Text.DataField=µ¥ÀÌÅÍ ÇÊµå(&D):
+CrosstabGrandTotalDialog.Text.DataField=ë°ì´í„° í•„ë“œ(&D):
 
-CrosstabGrandTotalDialog.Text.Function=ÇÔ¼ö(&F):
+CrosstabGrandTotalDialog.Text.Function=í•¨ìˆ˜(&F):
 
 
 ###########################################################
 # Crosstab RowArea PageBreak
-CrosstabPageBreakProvider.Column.GroupLevel=±×·ì ¼öÁØ
+CrosstabPageBreakProvider.Column.GroupLevel=ê·¸ë£¹ ìˆ˜ì¤€
 
-CrosstabPageBreakProvider.Column.Before=Àü
+CrosstabPageBreakProvider.Column.Before=ì „
 
-CrosstabPageBreakProvider.Column.After=ÈÄ
+CrosstabPageBreakProvider.Column.After=í›„
 
-CrosstabPageBreakProvider.Column.Inside=¾ÈÂÊ
+CrosstabPageBreakProvider.Column.Inside=ì•ˆìª½
 
-CrosstabPageBreakProvider.Column.Interval=°£°İ
+CrosstabPageBreakProvider.Column.Interval=ê°„ê²©
 
 ###########################################################
 # Crosstab RowArea SubTotal
-CrosstabSubToatalProvider.Column.AggregateOn=Áı°è ´ë»ó
+CrosstabSubToatalProvider.Column.AggregateOn=ì§‘ê³„ ëŒ€ìƒ
 
-CrosstabSubToatalProvider.Column.DataField=µ¥ÀÌÅÍ ÇÊµå
+CrosstabSubToatalProvider.Column.DataField=ë°ì´í„° í•„ë“œ
 
-CrosstabSubToatalProvider.Column.Function=ÇÔ¼ö
+CrosstabSubToatalProvider.Column.Function=í•¨ìˆ˜
 
 ###########################################################
 #CrosstabPageBreakDialog
-CrosstabPageBreakDialog.Title=ÆäÀÌÁö ³ª´©±â
+CrosstabPageBreakDialog.Title=í˜ì´ì§€ ë‚˜ëˆ„ê¸°
 
-CrosstabPageBreakDialog.Text.GroupLevel=±×·ì ¼öÁØ(&G):
+CrosstabPageBreakDialog.Text.GroupLevel=ê·¸ë£¹ ìˆ˜ì¤€(&G):
 
-CrosstabPageBreakDialog.Text.PageBreakBefore=´ÙÀ½ ÀÌÀü(&B):
+CrosstabPageBreakDialog.Text.PageBreakBefore=ë‹¤ìŒ ì´ì „(&B):
 
-CrosstabPageBreakDialog.Text.PageBreakAfter=´ÙÀ½ ÀÌÈÄ(&A):
+CrosstabPageBreakDialog.Text.PageBreakAfter=ë‹¤ìŒ ì´í›„(&A):
 
-CrosstabPageBreakDialog.Text.PageBreakInside=¾ÈÂÊ(&I):
+CrosstabPageBreakDialog.Text.PageBreakInside=ì•ˆìª½(&I):
 
-CrosstabPageBreakDialog.Text.PageBreakInterval=ÆäÀÌÁö ³ª´©±â °£°İ(&P):
+CrosstabPageBreakDialog.Text.PageBreakInterval=í˜ì´ì§€ ë‚˜ëˆ„ê¸° ê°„ê²©(&P):
 
 ###########################################################
 #SubTotalDialog
-SubTotalDialog.Title=ºÎºĞÇÕ
+SubTotalDialog.Title=ë¶€ë¶„í•©
 
-SubTotalDialog.Text.AggregateOn=Áı°è ´ë»ó(&A):
+SubTotalDialog.Text.AggregateOn=ì§‘ê³„ ëŒ€ìƒ(&A):
 
-SubTotalDialog.Text.Function=ÇÔ¼ö(&F):
+SubTotalDialog.Text.Function=í•¨ìˆ˜(&F):
 
-SubTotalDialog.Text.DataField=µ¥ÀÌÅÍ ÇÊµå(&D):
+SubTotalDialog.Text.DataField=ë°ì´í„° í•„ë“œ(&D):
 
-FormPage.Menu.ModifyProperty=¼öÁ¤
+FormPage.Menu.ModifyProperty=ìˆ˜ì •
 
-CrosstabPageGenerator.List.SubTotals=ºÎºĞÇÕ
+CrosstabPageGenerator.List.SubTotals=ë¶€ë¶„í•©
 
-CrosstabPageGenerator.List.GrandTotals=ÃÑÇÕ°è
+CrosstabPageGenerator.List.GrandTotals=ì´í•©ê³„
 
-CrosstabPageGenerator.List.PageBreak=ÆäÀÌÁö ³ª´©±â
+CrosstabPageGenerator.List.PageBreak=í˜ì´ì§€ ë‚˜ëˆ„ê¸°
 
-PageLayoutPropertyDescriptorProvider.PageLayout=ÆäÀÌÁö ·¹ÀÌ¾Æ¿ô:
+PageLayoutPropertyDescriptorProvider.PageLayout=í˜ì´ì§€ ë ˆì´ì•„ì›ƒ:
 
-RowPageBreak.RepeatColumnHeader=¿­ ¸Ó¸®±Û ¹İº¹(&C)
+RowPageBreak.RepeatColumnHeader=ì—´ ë¨¸ë¦¬ê¸€ ë°˜ë³µ(&C)
 
-ColumnPageBreak.RepeatRowHeader=Çà ¸Ó¸®±Û ¹İº¹(&P)
+ColumnPageBreak.RepeatRowHeader=í–‰ ë¨¸ë¦¬ê¸€ ë°˜ë³µ(&P)
 
 ###########################################################
 #ExpressionValueCellEditor properties
-ExpressionValueCellEditor.buildExpressionAction=<½Ä ºôµå...>
+ExpressionValueCellEditor.buildExpressionAction=<ì‹ ë¹Œë“œ...>
 
-ExpressionValueCellEditor.selectValueAction=<°ª ¼±ÅÃ...>
+ExpressionValueCellEditor.selectValueAction=<ê°’ ì„ íƒ...>
 
-ExpressionValueCellEditor.filterBy=<ÇÊÅÍ¸µ ±âÁØ...>
+ExpressionValueCellEditor.filterBy=<í•„í„°ë§ ê¸°ì¤€...>
 
-ExpressionValueCellEditor.title=°ª ¼±ÅÃ
+ExpressionValueCellEditor.title=ê°’ ì„ íƒ
 
-CrosstabSortKeyBuilder.Label.SelColumnMemberValue=¿­ ±¸¼º¿ø °ª ¼±ÅÃ
+CrosstabSortKeyBuilder.Label.SelColumnMemberValue=ì—´ êµ¬ì„±ì› ê°’ ì„ íƒ
 
-CrosstabSortKeyBuilder.Label.SelRowMemberValue=Çà ±¸¼º¿ø °ª ¼±ÅÃ
+CrosstabSortKeyBuilder.Label.SelRowMemberValue=í–‰ êµ¬ì„±ì› ê°’ ì„ íƒ
 
-CrosstabFilterConditionBuilder.Label.SelColumnMemberValue=¿­ ±¸¼º¿ø °ª ¼±ÅÃ
+CrosstabFilterConditionBuilder.Label.SelColumnMemberValue=ì—´ êµ¬ì„±ì› ê°’ ì„ íƒ
 
-CrosstabFilterConditionBuilder.Label.SelRowMemberValue=Çà ±¸¼º¿ø °ª ¼±ÅÃ
+CrosstabFilterConditionBuilder.Label.SelRowMemberValue=í–‰ êµ¬ì„±ì› ê°’ ì„ íƒ
 
-CrosstabFilterConditionBuilder.DialogTitle.Label.GroupLevel=±×·ì ¼öÁØ(&L):
+CrosstabFilterConditionBuilder.DialogTitle.Label.GroupLevel=ê·¸ë£¹ ìˆ˜ì¤€(&L):
 
-CrosstabFilterConditionBuilder.DialogTitle.Label.Measure=ÃøÁ¤°ª(&S):
+CrosstabFilterConditionBuilder.DialogTitle.Label.Measure=ì¸¡ì •ê°’(&S):
 
-SelColumnMemberValue.Column.Level=¼öÁØ
+SelColumnMemberValue.Column.Level=ìˆ˜ì¤€
 
-SelColumnMemberValue.Column.Value=°ª
+SelColumnMemberValue.Column.Value=ê°’
 
-ChoiceSetFactory.choice.None=¾øÀ½
+ChoiceSetFactory.choice.None=ì—†ìŒ
 
 ###########################################################
 #SelectValueDialog properties
-SelectValueDialog.errorRetrievinglist=¸ñ·ÏÀ» °Ë»öÇÏ´Â µµÁß ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+SelectValueDialog.errorRetrievinglist=ëª©ë¡ì„ ê²€ìƒ‰í•˜ëŠ” ë„ì¤‘ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-SelectValueDialog.messages.error.selectVauleUnavailable=½ÄÀÇ °ªÀ» °Ë»öÇÒ ¼ö ¾ø½À´Ï´Ù.
+SelectValueDialog.messages.error.selectVauleUnavailable=ì‹ì˜ ê°’ì„ ê²€ìƒ‰í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-SelectValueDialog.noExpressionSet=½ÄÀÌ ¼³Á¤µÇÁö ¾Ê¾Ò½À´Ï´Ù.
+SelectValueDialog.noExpressionSet=ì‹ì´ ì„¤ì •ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
 
-SelectValueDialog.retrieving=¸ñ·Ï °Ë»ö...
+SelectValueDialog.retrieving=ëª©ë¡ ê²€ìƒ‰...
 
-SelectValueDialog.selectValue=°ª ¼±ÅÃ
+SelectValueDialog.selectValue=ê°’ ì„ íƒ
 
-SelectValueDialog.messages.info.selectVauleUnavailable=°ª ¸ñ·ÏÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.
+SelectValueDialog.messages.info.selectVauleUnavailable=ê°’ ëª©ë¡ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-CrosstabPreferencePage.Title=Å©·Î½º ÅÇ
+CrosstabPreferencePage.Title=í¬ë¡œìŠ¤ íƒ­
 
-CrosstabPreferencePage.filterLimit=ÇÊÅÍ Á¦ÇÑ
+CrosstabPreferencePage.filterLimit=í•„í„° ì œí•œ
 
-CrosstabPreferencePage.filterLimit.prompt=Ç¥½ÃÇÒ ÃÖ´ë °ª ¼ö(&V):
+CrosstabPreferencePage.filterLimit.prompt=í‘œì‹œí•  ìµœëŒ€ ê°’ ìˆ˜(&V):
 
-CrosstabPreferencePage.Error.MaxRowInvalid=¼ıÀÚ °ªÀÌ Àß¸øµÇ¾ú½À´Ï´Ù.
+CrosstabPreferencePage.Error.MaxRowInvalid=ìˆ«ì ê°’ì´ ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-CrosstabPreferencePage.autoDelBindings.Text=Å©·Î½º ÅÇ ±¸Á¶ º¯°æ ÈÄ »ç¿ëÇÏÁö ¾Ê´Â ¹ÙÀÎµù Á¦°Å
+CrosstabPreferencePage.autoDelBindings.Text=í¬ë¡œìŠ¤ íƒ­ êµ¬ì¡° ë³€ê²½ í›„ ì‚¬ìš©í•˜ì§€ ì•ŠëŠ” ë°”ì¸ë”© ì œê±°
 
-CrosstabPreferencePage.autoDelBindings.Text.Prompt=¹¯±â(&P)
+CrosstabPreferencePage.autoDelBindings.Text.Prompt=ë¬»ê¸°(&P)
 
-CrosstabPreferencePage.autoDelBindings.Text.Always=Ç×»ó(&L)
+CrosstabPreferencePage.autoDelBindings.Text.Always=í•­ìƒ(&L)
 
-CrosstabPreferencePage.autoDelBindings.Text.Never=¾È ÇÔ(&N)
+CrosstabPreferencePage.autoDelBindings.Text.Never=ì•ˆ í•¨(&N)
 
-CrosstabPreferencePage.promptGroup=¹¯±â
+CrosstabPreferencePage.promptGroup=ë¬»ê¸°
 
-CrosstabPreferencePage.cubePopup.Text=ÇÊµå¸¦ Å©·Î½º ÅÇÀ¸·Î ²ø¾î ³õ°í Å¥ºê¸¦ »ı¼ºÇÑ ÈÄ ÈùÆ® Á¦°ø(&H)
+CrosstabPreferencePage.cubePopup.Text=í•„ë“œë¥¼ í¬ë¡œìŠ¤ íƒ­ìœ¼ë¡œ ëŒì–´ ë†“ê³  íë¸Œë¥¼ ìƒì„±í•œ í›„ íŒíŠ¸ ì œê³µ(&H)
 
 ###########################################################
 #Crosstab DataBinding properties
-CrosstabDataBinding.title.ChangeCube=Å¥ºê º¯°æ?
+CrosstabDataBinding.title.ChangeCube=íë¸Œ ë³€ê²½?
 
-CrosstabDataBinding.message.changeCube=±³Â÷ Å×ÀÌºíÀÇ µ¥ÀÌÅÍ ¹ÙÀÎµùÀ» º¯°æÇÏ·Á°í ÇÕ´Ï´Ù.  \n\n±âÁ¸ÀÇ µ¥ÀÌÅÍ ¿­ ¹ÙÀÎµùÀ» ¸ğµÎ Áö¿ì½Ã°Ú½À´Ï±î?
+CrosstabDataBinding.message.changeCube=êµì°¨ í…Œì´ë¸”ì˜ ë°ì´í„° ë°”ì¸ë”©ì„ ë³€ê²½í•˜ë ¤ê³  í•©ë‹ˆë‹¤.  \n\nê¸°ì¡´ì˜ ë°ì´í„° ì—´ ë°”ì¸ë”©ì„ ëª¨ë‘ ì§€ìš°ì‹œê² ìŠµë‹ˆê¹Œ?
 
 ###########################################################
 #Crosstab DropAdapter properties
-DataColumnXTabDropAdapter.DataCube=µ¥ÀÌÅÍ Å¥ºê
+DataColumnXTabDropAdapter.DataCube=ë°ì´í„° íë¸Œ
 
-CubeBuilder.warning.title=Å©·Î½º ÅÇ
+CubeBuilder.warning.title=í¬ë¡œìŠ¤ íƒ­
 
-CubeBuilder.warning.message=µ¥ÀÌÅÍ Å¥ºê°¡ »ı¼ºµÇ¾ú½À´Ï´Ù.\nÅ©·Î½º ÅÇ »ı¼ºÀ» Á¾·áÇÏ·Á¸é »ı¼ºµÈ µ¥ÀÌÅÍ Å¥ºêÀÇ ÇÊµå¸¦ Å©·Î½º ÅÇ ÄÁÅ×ÀÌ³Ê·Î ²ø¾î ³õ½À´Ï´Ù.
+CubeBuilder.warning.message=ë°ì´í„° íë¸Œê°€ ìƒì„±ë˜ì—ˆìŠµë‹ˆë‹¤.\ní¬ë¡œìŠ¤ íƒ­ ìƒì„±ì„ ì¢…ë£Œí•˜ë ¤ë©´ ìƒì„±ëœ ë°ì´í„° íë¸Œì˜ í•„ë“œë¥¼ í¬ë¡œìŠ¤ íƒ­ ì»¨í…Œì´ë„ˆë¡œ ëŒì–´ ë†“ìŠµë‹ˆë‹¤.
 
-CubeBuilder.warning.prompt=ÀÌ ¸Ş½ÃÁö¸¦ ´Ù½Ã Ç¥½Ã ¾È ÇÔ(&D)
+CubeBuilder.warning.prompt=ì´ ë©”ì‹œì§€ë¥¼ ë‹¤ì‹œ í‘œì‹œ ì•ˆ í•¨(&D)
 
 ###########################################################
 #Crosstab drag tracker
-CrosstabColumnDragTracker.ResizeColumn=¿­ Å©±â Á¶Á¤
+CrosstabColumnDragTracker.ResizeColumn=ì—´ í¬ê¸° ì¡°ì •
 
-CrosstabColumnDragTracker.Show.Label=³Êºñ:
+CrosstabColumnDragTracker.Show.Label=ë„ˆë¹„:
 
-CrosstabRowDragTracker.Show.Label=³ôÀÌ:
+CrosstabRowDragTracker.Show.Label=ë†’ì´:
 
 ###########################################################
 #AggregationCellTextViewProvider
-AggregationCellTextViewProvider.displayName=ÅØ½ºÆ®
+AggregationCellTextViewProvider.displayName=í…ìŠ¤íŠ¸
 
 
 ###########################################################
 #CrosstabSortKeyBuilder properties
-CrosstabSortKeyBuilder.choice.ValueOfThisDataItem=ÀÌ µ¥ÀÌÅÍ Ç×¸ñÀÇ °ª
+CrosstabSortKeyBuilder.choice.ValueOfThisDataItem=ì´ ë°ì´í„° í•­ëª©ì˜ ê°’
 
-CrosstabSortKeyBuilder.tooltip.ExpBuilder=½Ä ºô´õ ¿­±â
+CrosstabSortKeyBuilder.tooltip.ExpBuilder=ì‹ ë¹Œë” ì—´ê¸°
 
-CrosstabSortKeyBuilder.MSG.CreateNew=»õ·Î ¸¸µé±â...
+CrosstabSortKeyBuilder.MSG.CreateNew=ìƒˆë¡œ ë§Œë“¤ê¸°...
 
-InsertCubeInLayoutAction.menu.text=ÆíÁı(&E)
+InsertCubeInLayoutAction.menu.text=í¸ì§‘(&E)
 
-InsertCubeInLayoutAction.action.text=·¹ÀÌ¾Æ¿ô¿¡ »ğÀÔ(&N)
+InsertCubeInLayoutAction.action.text=ë ˆì´ì•„ì›ƒì— ì‚½ì…(&N)
 
-InsertCubeInLayoutAction.action.message=Å¥ºê¿¡¼­ Å©·Î½º ÅÇ »ı¼º
+InsertCubeInLayoutAction.action.message=íë¸Œì—ì„œ í¬ë¡œìŠ¤ íƒ­ ìƒì„±
 
-MapRuleBuilderDialog.MsgDlg.Title=°æ°í
+MapRuleBuilderDialog.MsgDlg.Title=ê²½ê³ 
 
-MapRuleBuilderDialog.MsgDlg.Msg=°ªÀ» ÀÔ·ÂÇØ¾ß ÇÕ´Ï´Ù.
+MapRuleBuilderDialog.MsgDlg.Msg=ê°’ì„ ì…ë ¥í•´ì•¼ í•©ë‹ˆë‹¤.
 
-LevelHandleDropAdapter.ActionText=Â÷¿ø Ãß°¡
+LevelHandleDropAdapter.ActionText=ì°¨ì› ì¶”ê°€
 
 LevelPropertyDialog.MSG.CreateNew=
 
 
 ###########################################################
 #CrosstabHighlightRuleBuilder properties
-CrosstabHighlightRuleBuilderDialog.text.Description.Element.Crosstab=Å©·Î½º ÅÇ
+CrosstabHighlightRuleBuilderDialog.text.Description.Element.Crosstab=í¬ë¡œìŠ¤ íƒ­
 
-CrosstabHighlightRuleBuilderDialog.text.Description.Element.Crosstabcell=Å©·Î½º ÅÇ ¼¿
+CrosstabHighlightRuleBuilderDialog.text.Description.Element.Crosstabcell=í¬ë¡œìŠ¤ íƒ­ ì…€
 
-CrosstabHighlightRuleBuilderDialog.text.Description.Element.ReportElement=º¸°í¼­ ¿ä¼Ò
+CrosstabHighlightRuleBuilderDialog.text.Description.Element.ReportElement=ë³´ê³ ì„œ ìš”ì†Œ
 
-CrosstabHighlightRuleBuilderDialog.text.Description={0}¿¡ Á¶°ÇºÎ ¼­½ÄÀ» Àû¿ëÇÕ´Ï´Ù. Á¶°Ç½Ä ¹× ¼­½ÄÀ» ÁöÁ¤ÇÏ½Ê½Ã¿À.\nÁ¶°Ç½Ä °è»ê °á°ú°¡ TrueÀÎ °æ¿ì ¼­½ÄÀÌ Àû¿ëµË´Ï´Ù.
+CrosstabHighlightRuleBuilderDialog.text.Description={0}ì— ì¡°ê±´ë¶€ ì„œì‹ì„ ì ìš©í•©ë‹ˆë‹¤. ì¡°ê±´ì‹ ë° ì„œì‹ì„ ì§€ì •í•˜ì‹­ì‹œì˜¤.\nì¡°ê±´ì‹ ê³„ì‚° ê²°ê³¼ê°€ Trueì¸ ê²½ìš° ì„œì‹ì´ ì ìš©ë©ë‹ˆë‹¤.
 
 ###########################################################
 #CrosstabFilterConditionBuilder properties
-CrosstabFilterConditionBuilder.ExpressionEditor.Title=½Ä ÆíÁı±â
+CrosstabFilterConditionBuilder.ExpressionEditor.Title=ì‹ í¸ì§‘ê¸°
 
-CrosstabFilterConditionBuilder.MsgDlg.Msg=°æ°í
+CrosstabFilterConditionBuilder.MsgDlg.Msg=ê²½ê³ 
 
-CrosstabFilterConditionBuilder.MsgDlg.Title=°ªÀ» ÀÔ·ÂÇØ¾ß ÇÕ´Ï´Ù.
+CrosstabFilterConditionBuilder.MsgDlg.Title=ê°’ì„ ì…ë ¥í•´ì•¼ í•©ë‹ˆë‹¤.
 
-CrosstabFilterConditionBuilder.Button.UpdateAggregation=ÇÕ°è ´Ù½Ã °è»ê(&T)
+CrosstabFilterConditionBuilder.Button.UpdateAggregation=í•©ê³„ ë‹¤ì‹œ ê³„ì‚°(&T)
 
 ###########################################################
 #Breadcrumb provider properties
-VirtualCrosstabCellNodeProvider.Display.ColumnArea=¿­ ¿µ¿ª
+VirtualCrosstabCellNodeProvider.Display.ColumnArea=ì—´ ì˜ì—­
 
-VirtualCrosstabCellNodeProvider.Display.DetailArea=¼¼ºÎ ¿µ¿ª
+VirtualCrosstabCellNodeProvider.Display.DetailArea=ì„¸ë¶€ ì˜ì—­
 
-VirtualCrosstabCellNodeProvider.Display.RowArea=Çà ¿µ¿ª
+VirtualCrosstabCellNodeProvider.Display.RowArea=í–‰ ì˜ì—­
 
-VirtualCrosstabCellNodeProvider.Display.UnknownArea=¾Ë ¼ö ¾ø´Â ¿µ¿ª
+VirtualCrosstabCellNodeProvider.Display.UnknownArea=ì•Œ ìˆ˜ ì—†ëŠ” ì˜ì—­
 
-CrosstabBindingComboPropertyDescriptorProvider.Flag.DataModel=\(µ¥ÀÌÅÍ ¸ğµ¨)
+CrosstabBindingComboPropertyDescriptorProvider.Flag.DataModel=\(ë°ì´í„° ëª¨ë¸)
 
-CrosstabBindingRefresh.action.message=Å©·Î½º ÅÇ ¹ÙÀÎµù »õ·Î °íÄ§
+CrosstabBindingRefresh.action.message=í¬ë¡œìŠ¤ íƒ­ ë°”ì¸ë”© ìƒˆë¡œ ê³ ì¹¨

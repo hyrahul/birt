@@ -8,8 +8,8 @@
 # Contributors:
 #  Actuate Corporation  - initial API and implementation
 ###############################################################################
-preference.chart=Â÷Æ®
+preference.chart=ì°¨íŠ¸
 
-menu.lable.chart=Â÷Æ®(&C)
+menu.lable.chart=ì°¨íŠ¸(&C)
 
-preference.description=Â÷Æ® Ç×¸ñÀ» »ğÀÔÇÕ´Ï´Ù.
+preference.description=ì°¨íŠ¸ í•­ëª©ì„ ì‚½ì…í•©ë‹ˆë‹¤.

@@ -1,29 +1,29 @@
-SwtRendererImpl.exception.gradient.angle=ÔÚ½Ç¶È={0} Ê±£¬ÎŞ·¨»æÖÆ½¥±ä£»Ö§³ÖµÄ½Ç¶È·¶Î§Îª [90 >= 0 >= -90]
+SwtRendererImpl.exception.gradient.angle=åœ¨è§’åº¦={0} æ—¶ï¼Œæ— æ³•ç»˜åˆ¶æ¸å˜ï¼›æ”¯æŒçš„è§’åº¦èŒƒå›´ä¸º [90 >= 0 >= -90]
 
-SwtRendererImpl.exception.unspecified.text.rendering.action=Î´Ö¸¶¨µÄÎÄ±¾»æÖÆ²Ù×÷£»TextRenderEvent.setAction(...) Î´±»ÕıÈ·µ÷ÓÃ
+SwtRendererImpl.exception.unspecified.text.rendering.action=æœªæŒ‡å®šçš„æ–‡æœ¬ç»˜åˆ¶æ“ä½œï¼›TextRenderEvent.setAction(...) æœªè¢«æ­£ç¡®è°ƒç”¨
 
-SwtRendererImpl.exception.missing.component.interaction=Èç¹û IUpdateNotifier Óë³ÊÏÖÆ÷²»¹ØÁª£¬ÎŞ·¨ÆôÓÃ½»»¥¹¦ÄÜ¡£
+SwtRendererImpl.exception.missing.component.interaction=å¦‚æœ IUpdateNotifier ä¸å‘ˆç°å™¨ä¸å…³è”ï¼Œæ— æ³•å¯ç”¨äº¤äº’åŠŸèƒ½ã€‚
 
-SwtRendererImpl.info.graphics.context=Ê¹ÓÃÍ¼ĞÎÉÏÏÂÎÄ {0}@{1}
+SwtRendererImpl.info.graphics.context=ä½¿ç”¨å›¾å½¢ä¸Šä¸‹æ–‡ {0}@{1}
 
-SwtTextRenderer.exception.undefined.shadow.color=ÎŞ·¨ÓÃÎ´¶¨ÒåµÄÑÕÉ«»æÖÆÒõÓ°
+SwtTextRenderer.exception.undefined.shadow.color=æ— æ³•ç”¨æœªå®šä¹‰çš„é¢œè‰²ç»˜åˆ¶é˜´å½±
 
-SwtTextRenderer.exception.undefined.text.color=ÎŞ·¨ÓÃÎ´¶¨ÒåµÄÑÕÉ«»æÖÆÎÄ±¾
+SwtTextRenderer.exception.undefined.text.color=æ— æ³•ç”¨æœªå®šä¹‰çš„é¢œè‰²ç»˜åˆ¶æ–‡æœ¬
 
-SwtDisplayServer.exception.display.server=»ñÈ¡ SWT Display Server ÊµÀıÊ§°Ü
+SwtDisplayServer.exception.display.server=è·å– SWT Display Server å®ä¾‹å¤±è´¥
 
-SwtDisplayServer.info.display.server=SWT ÏÔÊ¾·şÎñÆ÷: {0} v{1}
+SwtDisplayServer.info.display.server=SWT æ˜¾ç¤ºæœåŠ¡å™¨: {0} v{1}
 
-SwtEventHandler.info.toggle.visibility=ÇĞ»»¿É¼ûĞÔ: {0}
+SwtEventHandler.info.toggle.visibility=åˆ‡æ¢å¯è§æ€§: {0}
 
-SwtEventHandler.info.toggle.datapoint.visibility=ÇĞ»»Êı¾İµã¿É¼ûĞÔ: {0}
+SwtEventHandler.info.toggle.datapoint.visibility=åˆ‡æ¢æ•°æ®ç‚¹å¯è§æ€§: {0}
 
-SwtEventHandler.info.cannot.find.series=ÎŞ·¨ÕÒµ½Éè¼ÆÊ±ÏµÁĞÒÔÓÃÓÚÔËĞĞÊ±ĞòÁĞ: {0}
+SwtEventHandler.info.cannot.find.series=æ— æ³•æ‰¾åˆ°è®¾è®¡æ—¶ç³»åˆ—ä»¥ç”¨äºè¿è¡Œæ—¶åºåˆ—: {0}
 
-SwtEventHandler.info.improper.callback.notifier=Í¨Öª: ¼ì²âµ½ [{0}]£¬µ«ÊÇÔ¤ÆÚÎª ICallBackNotifer ÊµÏÖº¯Êı¡£
+SwtEventHandler.info.improper.callback.notifier=é€šçŸ¥: æ£€æµ‹åˆ° [{0}]ï¼Œä½†æ˜¯é¢„æœŸä¸º ICallBackNotifer å®ç°å‡½æ•°ã€‚
 
-SwtEventHandler.info.redirect.url=ÖØ¶¨ÏòÖÁ URL: {0}
+SwtEventHandler.info.redirect.url=é‡å®šå‘è‡³ URL: {0}
 
-R31Enhance.info.advanced.enabled=ÆôÓÃ¸ß¼¶ SWT Í¼ĞÎ¹¦ÄÜ¡£
+R31Enhance.info.advanced.enabled=å¯ç”¨é«˜çº§ SWT å›¾å½¢åŠŸèƒ½ã€‚
 
-R31Enhance.info.advanced.disabled=½ûÓÃ¸ß¼¶ SWT Í¼ĞÎ¹¦ÄÜ¡£
+R31Enhance.info.advanced.disabled=ç¦ç”¨é«˜çº§ SWT å›¾å½¢åŠŸèƒ½ã€‚

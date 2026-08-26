@@ -1,25 +1,25 @@
 ###############################################################################
 # Preview Framework
 ###############################################################################
-designer.preview.previewtoolbarmenuaction.label=Afficher l'état
+designer.preview.previewtoolbarmenuaction.label=Afficher l'Ã©tat
 
-designer.preview.previewcascadingmenugroup.label=Affiche&r l'état
+designer.preview.previewcascadingmenugroup.label=Affiche&r l'Ã©tat
 
-ActionSet.Preview=Aperçu
+ActionSet.Preview=AperÃ§u
 
-template.preview=&Nouveau prototype d'aperçu
+template.preview=&Nouveau prototype d'aperÃ§u
 
-design.preview=&Nouveau prototype d'aperçu
+design.preview=&Nouveau prototype d'aperÃ§u
 
-preference.preview=Aperçu
+preference.preview=AperÃ§u
 
-preference.preview.server=Serveur de prévisualisation
+preference.preview.server=Serveur de prÃ©visualisation
 
 ###############################################################################
 # Actions
 ###############################################################################
 Menu.Report=Eta&t
 
-Action.RunReport=&Exécuter l'état
+Action.RunReport=&ExÃ©cuter l'Ã©tat
 
 Action.ViewDocument=&Afficher le document

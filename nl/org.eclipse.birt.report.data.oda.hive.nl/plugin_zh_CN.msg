@@ -14,7 +14,7 @@ dataset.property.queryTimeOut=&Query Time Out (in seconds)
 
 dataset.property.rowFetchSize=&Row Fetch Size
 
-dataset.property.addListFile=添加列表文件(&A)
+dataset.property.addListFile=娣诲姞鍒楄〃鏂囦欢(&A)
 #
 oda.data.source.name=Hive Data Source
 connection.profile.name=Hive Data Source Connection Profile

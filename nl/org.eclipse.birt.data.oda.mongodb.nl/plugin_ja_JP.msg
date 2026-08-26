@@ -16,7 +16,7 @@ plugin.name=MongoDB Data Source ODA Runtime Driver
 data.source.name=MongoDB Data Source
 data.set.name=MongoDB Data Set
 
-connection.profile.name=MongoDB ƒf[ƒ^ƒ\[ƒXÚ‘±ƒvƒƒtƒ@ƒCƒ‹
+connection.profile.name=MongoDB ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹æ¥ç¶šãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«
 
 # Data source properties
 datasource.property.mongoDbUri=&Mongo Database URI
@@ -39,7 +39,7 @@ datasource.property.useRequestSession=Consistent &Request Session
 
 datasource.property.group.uriElements=Mongo Database URI &Elements
 
-datasource.property.group.options=’Ç‰Á‚ÌƒNƒ‰ƒCƒAƒ“ƒgİ’è(&S)
+datasource.property.group.options=è¿½åŠ ã®ã‚¯ãƒ©ã‚¤ã‚¢ãƒ³ãƒˆè¨­å®š(&S)
 
 # Data set properties - query definition
 dataset.property.collectionName=&Collection name
@@ -52,7 +52,7 @@ dataset.property.selectedFields=Se&lected fields
 
 dataset.property.findQueryExpr=&Query expression
 
-dataset.property.sortExpr=ƒ\[ƒg®(&S)
+dataset.property.sortExpr=ã‚½ãƒ¼ãƒˆå¼(&S)
 # Data set properties - advanced runtime properties
 dataset.property.batchSize=Maximum result objects in a &batch
 
@@ -70,7 +70,7 @@ dataset.property.noTimeOut=&No cursor time out
 
 dataset.property.allowsPartialResults=Allows &partial results
 
-dataset.property.flattenCollections=ƒlƒXƒg‚³‚ê‚½ƒRƒŒƒNƒVƒ‡ƒ“‚ğƒtƒ‰ƒbƒg‰»(&F)
+dataset.property.flattenCollections=ãƒã‚¹ãƒˆã•ã‚ŒãŸã‚³ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³ã‚’ãƒ•ãƒ©ãƒƒãƒˆåŒ–(&F)
 #
 dataset.property.value.readPrefPrimary=primary
 
@@ -78,4 +78,4 @@ dataset.property.value.readPrefPrimaryPreferred=primaryPreferred
 dataset.property.value.readPrefSecondary=secondary
 
 dataset.property.value.readPrefSecondaryPreferred=secondaryPreferred
-dataset.property.value.readPrefNearest=Å‚à‹ß‚¢
+dataset.property.value.readPrefNearest=æœ€ã‚‚è¿‘ã„

@@ -10,118 +10,118 @@
 #************************************************************************
 #
 # User messages for the Excel File ODA Designer
-wizard.defaultMessage.selectExcelFile=Ñ¡Ôñ»òÊäÈë Excel Êı¾İÔ´ÎÄ¼şÂ·¾¶»ò URI¡£
+wizard.defaultMessage.selectExcelFile=é€‰æ‹©æˆ–è¾“å…¥ Excel æ•°æ®æºæ–‡ä»¶è·¯å¾„æˆ– URIã€‚
 
-wizard.defaultMessage.selectDataSet=ÎªÊı¾İ¼¯Ñ¡Ôñ¹¤×÷±íºÍÁĞ¡£
+wizard.defaultMessage.selectDataSet=ä¸ºæ•°æ®é›†é€‰æ‹©å·¥ä½œè¡¨å’Œåˆ—ã€‚
 
-connection_CANNOT_OPEN_EXCEL_FILE_DB_DIR=ÎŞ·¨ÔÚÑ¡ÔñµÄÎÄ¼ş¼ĞÖĞ´ò¿ª Excel Êı¾İÔ´ÎÄ¼ş¡£
+connection_CANNOT_OPEN_EXCEL_FILE_DB_DIR=æ— æ³•åœ¨é€‰æ‹©çš„æ–‡ä»¶å¤¹ä¸­æ‰“å¼€ Excel æ•°æ®æºæ–‡ä»¶ã€‚
 
-ui.ExcelFileNotFound=ÎŞ·¨¶¨Î»Ö¸¶¨µÄ Excel Êı¾İÔ´ÎÄ¼ş
+ui.ExcelFileNotFound=æ— æ³•å®šä½æŒ‡å®šçš„ Excel æ•°æ®æºæ–‡ä»¶
 
-label.selectFolder=Ñ¡ÔñÎÄ¼ş¼Ğ(&E):
+label.selectFolder=é€‰æ‹©æ–‡ä»¶å¤¹(&E):
 
-label.selectFile=Ñ¡ÔñÎÄ¼ş(&I):
+label.selectFile=é€‰æ‹©æ–‡ä»¶(&I):
 
-label.selectworksheet=Ñ¡Ôñ¹¤×÷±í(&H):
+label.selectworksheet=é€‰æ‹©å·¥ä½œè¡¨(&H):
 
-label.includeTypeLine=½«µÚ¶şĞĞÓÃ×÷Êı¾İÀàĞÍÖ¸Ê¾Æ÷(&D)¡£
+label.includeTypeLine=å°†ç¬¬äºŒè¡Œç”¨ä½œæ•°æ®ç±»å‹æŒ‡ç¤ºå™¨(&D)ã€‚
 
-label.includeColumnNameLine= ½«µÚÒ»ĞĞÓÃ×÷ÁĞÃû³ÆÖ¸Ê¾Æ÷(&A)¡£
+label.includeColumnNameLine= å°†ç¬¬ä¸€è¡Œç”¨ä½œåˆ—åç§°æŒ‡ç¤ºå™¨(&A)ã€‚
 
-button.selectFolder.browse=ä¯ÀÀ(&R)...
+button.selectFolder.browse=æµè§ˆ(&R)...
 
-button.moveUp=ÉÏÒÆ(&U)
+button.moveUp=ä¸Šç§»(&U)
 
-button.moveDown=ÏÂÒÆ(&O)
+button.moveDown=ä¸‹ç§»(&O)
 
-button.delete=É¾³ı(&E)
+button.delete=åˆ é™¤(&E)
 
-button.selectFileURI.menuItem.relativePath=Ïà¶ÔÂ·¾¶(&R)
+button.selectFileURI.menuItem.relativePath=ç›¸å¯¹è·¯å¾„(&R)
 
-button.selectFileURI.menuItem.absolutePath=¾ø¶ÔÂ·¾¶(&A)
+button.selectFileURI.menuItem.absolutePath=ç»å¯¹è·¯å¾„(&A)
 
-editor.title.name=Ãû³Æ
+editor.title.name=åç§°
 
-editor.title.originalName=Ô­Ê¼Ãû³Æ
+editor.title.originalName=åŸå§‹åç§°
 
-editor.title.type=ÀàĞÍ
+editor.title.type=ç±»å‹
 
-datatypes.dateTime=ÈÕÆÚÊ±¼ä
+datatypes.dateTime=æ—¥æœŸæ—¶é—´
 
-datatypes.decimal=Ğ¡Êı
+datatypes.decimal=å°æ•°
 
-datatypes.float=¸¡µã
+datatypes.float=æµ®ç‚¹
 
-datatypes.integer=ÕûĞÍ
+datatypes.integer=æ•´å‹
 
-datatypes.string=×Ö·û´®
+datatypes.string=å­—ç¬¦ä¸²
 
-datatypes.date=ÈÕÆÚ
+datatypes.date=æ—¥æœŸ
 
-datatypes.time=Ê±¼ä
+datatypes.time=æ—¶é—´
 
-datatypes.boolean=²¼¶û
+datatypes.boolean=å¸ƒå°”
 
-tooltip.columnnameline=ÇëÈ·±£Ñ¡¶¨µÄÎÄ¼şµÚÒ»ĞĞ\nÖĞ´æÔÚÁĞÃû³Æ¡£
+tooltip.columnnameline=è¯·ç¡®ä¿é€‰å®šçš„æ–‡ä»¶ç¬¬ä¸€è¡Œ\nä¸­å­˜åœ¨åˆ—åç§°ã€‚
 
-tooltip.typeline=ÇëÈ·±£Ñ¡¶¨µÄÎÄ¼şµÚ¶şĞĞ\nÖĞ´æÔÚÊı¾İÀàĞÍÖ¸Ê¾Æ÷¡£
+tooltip.typeline=è¯·ç¡®ä¿é€‰å®šçš„æ–‡ä»¶ç¬¬äºŒè¡Œ\nä¸­å­˜åœ¨æ•°æ®ç±»å‹æŒ‡ç¤ºå™¨ã€‚
 
-tooltip.button.add=½«×ó±íÖĞËùÓĞÑ¡¶¨µÄÁĞÌí¼Óµ½ Excel ÎÄ¼şÊı¾İ¼¯¡£
+tooltip.button.add=å°†å·¦è¡¨ä¸­æ‰€æœ‰é€‰å®šçš„åˆ—æ·»åŠ åˆ° Excel æ–‡ä»¶æ•°æ®é›†ã€‚
 
-tooltip.button.up=ÉÏÒÆÑ¡¶¨ÏîÄ¿¡£
+tooltip.button.up=ä¸Šç§»é€‰å®šé¡¹ç›®ã€‚
 
-tooltip.button.down=ÏÂÒÆÑ¡¶¨ÏîÄ¿¡£
+tooltip.button.down=ä¸‹ç§»é€‰å®šé¡¹ç›®ã€‚
 
-tooltip.button.delete=É¾³ıÑ¡¶¨ÏîÄ¿¡£
+tooltip.button.delete=åˆ é™¤é€‰å®šé¡¹ç›®ã€‚
 
-tooltip.trailNull=¶ÁÈ¡Êı¾İĞĞÊ±³öÏÖ¿Õºó×ºÁĞ¡£
+tooltip.trailNull=è¯»å–æ•°æ®è¡Œæ—¶å‡ºç°ç©ºåç¼€åˆ—ã€‚
 
-error.selectFolder=ÇëÑ¡ÔñÓĞĞ§ÎÄ¼ş¼Ğ¡£
+error.selectFolder=è¯·é€‰æ‹©æœ‰æ•ˆæ–‡ä»¶å¤¹ã€‚
 
-error.selectWorksheet=ÇëÎª¸ÃÊı¾İ¼¯Ñ¡Ôñ¹¤×÷±í¡£
+error.selectWorksheet=è¯·ä¸ºè¯¥æ•°æ®é›†é€‰æ‹©å·¥ä½œè¡¨ã€‚
 
-error.selectColumns=ÇëÖÁÉÙÎª´ËÊı¾İ¼¯Ñ¡ÔñÒ»¸öÁĞ¡£
+error.selectColumns=è¯·è‡³å°‘ä¸ºæ­¤æ•°æ®é›†é€‰æ‹©ä¸€ä¸ªåˆ—ã€‚
 
-error.emptyPath=ÇëÊäÈëÂ·¾¶¡£
+error.emptyPath=è¯·è¾“å…¥è·¯å¾„ã€‚
 
-error.unexpectedError=·¢ÉúÒâÍâ´íÎó¡£
+error.unexpectedError=å‘ç”Ÿæ„å¤–é”™è¯¯ã€‚
 
-error.invalidConnectionFilePath=Ö¸¶¨µÄÁ¬½ÓÅäÖÃÎÄ¼şÔ´Â·¾¶¡°{0}¡±²»´æÔÚ¡£
+error.invalidConnectionFilePath=æŒ‡å®šçš„è¿æ¥é…ç½®æ–‡ä»¶æºè·¯å¾„â€œ{0}â€ä¸å­˜åœ¨ã€‚
 
-error.errorExist=µ±Ç°Ò³´æÔÚ´íÎó¡£  ÊÇ·ñÈÔÒª±£´æ?
+error.errorExist=å½“å‰é¡µå­˜åœ¨é”™è¯¯ã€‚  æ˜¯å¦ä»è¦ä¿å­˜?
 
-error.noFile=Excel Êı¾İÔ´ÎÄ¼ş ({0}) ²»´æÔÚ¡£
+error.noFile=Excel æ•°æ®æºæ–‡ä»¶ ({0}) ä¸å­˜åœ¨ã€‚
 
-error.invalidFilePath=ÎÄ¼şÂ·¾¶ÎŞĞ§¡£  ÊÇ·ñ¼ÌĞø?
+error.invalidFilePath=æ–‡ä»¶è·¯å¾„æ— æ•ˆã€‚  æ˜¯å¦ç»§ç»­?
 
-error.emptyFilePath=ÎÄ¼şÂ·¾¶Îª¿Õ¡£  ÊÇ·ñ¼ÌĞø?
+error.emptyFilePath=æ–‡ä»¶è·¯å¾„ä¸ºç©ºã€‚  æ˜¯å¦ç»§ç»­?
 
-error.duplicatedNameValueOrEmpty=Ãû³ÆÖµÖØ¸´»òÎª¿Õ
+error.duplicatedNameValueOrEmpty=åç§°å€¼é‡å¤æˆ–ä¸ºç©º
 
-error.emptyFolder=Î´ÔÚÑ¡¶¨µÄÎÄ¼ş¼ĞÖĞÕÒµ½ Excel Êı¾İÔ´ÎÄ¼ş¡£
+error.emptyFolder=æœªåœ¨é€‰å®šçš„æ–‡ä»¶å¤¹ä¸­æ‰¾åˆ° Excel æ•°æ®æºæ–‡ä»¶ã€‚
 
-title.warning=¾¯¸æ
+title.warning=è­¦å‘Š
 
-warning.fileExtensionInvalid=Ñ¡¶¨µÄÎÄ¼ş¿ÉÄÜ²»ÊÇÓĞĞ§µÄ Excel ÎÄ¼ş¡£
+warning.fileExtensionInvalid=é€‰å®šçš„æ–‡ä»¶å¯èƒ½ä¸æ˜¯æœ‰æ•ˆçš„ Excel æ–‡ä»¶ã€‚
 
-confirm.reselectWorksheetTitle=È·ÈÏÑ¡ÔñÁíÒ»¸ö¹¤×÷±í¡£
+confirm.reselectWorksheetTitle=ç¡®è®¤é€‰æ‹©å¦ä¸€ä¸ªå·¥ä½œè¡¨ã€‚
 
-confirm.reselectWorksheetMessage=Ñ¡ÔñÁíÒ»¹¤×÷±í½«²»±£´æÒÔÉÏ²Ù×÷¡£\n\nÄúÈ·¶¨Âğ£¿
+confirm.reselectWorksheetMessage=é€‰æ‹©å¦ä¸€å·¥ä½œè¡¨å°†ä¸ä¿å­˜ä»¥ä¸Šæ“ä½œã€‚\n\næ‚¨ç¡®å®šå—ï¼Ÿ
 
-confirm.reselectFileTitle=È·ÈÏÑ¡ÔñÁíÒ»ÎÄ¼ş¡£
+confirm.reselectFileTitle=ç¡®è®¤é€‰æ‹©å¦ä¸€æ–‡ä»¶ã€‚
 
-confirm.reselectFileMessage=Ñ¡ÔñÁíÒ»ÎÄ¼ş½«²»±£´æÒÔÉÏ²Ù×÷¡£\n\nÄúÈ·¶¨Âğ£¿
+confirm.reselectFileMessage=é€‰æ‹©å¦ä¸€æ–‡ä»¶å°†ä¸ä¿å­˜ä»¥ä¸Šæ“ä½œã€‚\n\næ‚¨ç¡®å®šå—ï¼Ÿ
 
-RelativeFolderSelectionDialog.Title.SelectFolder=Ñ¡ÔñÎÄ¼ş¼Ğ
+RelativeFolderSelectionDialog.Title.SelectFolder=é€‰æ‹©æ–‡ä»¶å¤¹
 
-RelativeFileSelectionDialog.button.importFile=µ¼ÈëÎÄ¼ş...
+RelativeFileSelectionDialog.button.importFile=å¯¼å…¥æ–‡ä»¶...
 
-RelativeFileSelectionDialog.title.error=´íÎó
+RelativeFileSelectionDialog.title.error=é”™è¯¯
 
-RelativeFileSelectionDialog.title.overwrite=¸²¸Ç
+RelativeFileSelectionDialog.title.overwrite=è¦†ç›–
 
-RelativeFileSelectionDialog.overwrite.msg=¾ßÓĞ´ËÃû³ÆµÄÎÄ¼şÒÑ¾­´æÔÚ£¬ÊÇ·ñÒª¸²¸ÇËü?
+RelativeFileSelectionDialog.overwrite.msg=å…·æœ‰æ­¤åç§°çš„æ–‡ä»¶å·²ç»å­˜åœ¨ï¼Œæ˜¯å¦è¦è¦†ç›–å®ƒ?
 
-RelativeFileSelectionDialog.import.msg=ÕıÔÚµ¼ÈëÎÄ¼ş...
+RelativeFileSelectionDialog.import.msg=æ­£åœ¨å¯¼å…¥æ–‡ä»¶...
 
-SelectFile.Title=Ñ¡ÔñÎÄ¼ş
+SelectFile.Title=é€‰æ‹©æ–‡ä»¶

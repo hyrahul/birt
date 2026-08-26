@@ -18,13 +18,13 @@ parent.category.id=org.eclipse.datatools.connectivity.db.category
 # NLS strings
 #
 plugin.name=JDBC Database Connection Data Source ODA Designer
-newwizard.name=JDBC-Datenbankverbindung für Abfrageerstellung
+newwizard.name=JDBC-Datenbankverbindung fÃ¼r Abfrageerstellung
 
-newwizard.description=Verbindungsprofil für JDBC-Datenbanken erstellen
+newwizard.description=Verbindungsprofil fÃ¼r JDBC-Datenbanken erstellen
 
-wizard.window.title=Neue JDBC-Datenbankverbindung für Abfrageerstellung
+wizard.window.title=Neue JDBC-Datenbankverbindung fÃ¼r Abfrageerstellung
 
-wizard.data.source.page.title=JDBC-Datenbankverbindung für Abfrageerstellung
+wizard.data.source.page.title=JDBC-Datenbankverbindung fÃ¼r Abfrageerstellung
 
 profile.propertypage.name=JDBC-Treiber- und Verbindungsdetails
 

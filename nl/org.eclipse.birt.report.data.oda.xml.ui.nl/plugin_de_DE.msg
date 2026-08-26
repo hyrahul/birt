@@ -38,7 +38,7 @@ newwizard.description=BIRT 2.1.x-XML-Datenquellen-Verbindungsprofil erstellen
 
 wizard.window.title=Neues XML-Datenquellenprofil
 
-wizard.data.source.page.title=Geben Sie die URLs und die Schemainformation für die XML-Datei an.
+wizard.data.source.page.title=Geben Sie die URLs und die Schemainformation fÃ¼r die XML-Datei an.
 
 profile.propertypage.name=XML-Datenquellen-Verbindungseigenschaften
 

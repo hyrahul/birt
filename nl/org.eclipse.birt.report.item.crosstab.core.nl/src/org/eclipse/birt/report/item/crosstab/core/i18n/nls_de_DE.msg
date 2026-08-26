@@ -12,11 +12,11 @@ Element.AggregationOnColumn=Aggregation in Spalte
 
 Element.AggregationHeaderLocation=Position der Aggregat-Kopfzeile
 
-Element.GrandTotalLocation=Ort für Gesamtsumme
+Element.GrandTotalLocation=Ort fÃ¼r Gesamtsumme
 
-Element.MeasureView=Maßeinheitsansicht
+Element.MeasureView=MaÃŸeinheitsansicht
 
-Element.ComputedMeasureView=Ansicht 'Berechnete Maßeinheit'
+Element.ComputedMeasureView=Ansicht 'Berechnete MaÃŸeinheit'
 
 Element.PageBreakBefore=Seitenumbruch vor
 
@@ -24,7 +24,7 @@ Element.PageBreakAfter=Seitenumbruch nach
 
 Element.PageBreakInside=Seitenumbruch in
 
-Element.PageBreakInterval=Intervall für Seitenumbruch
+Element.PageBreakInterval=Intervall fÃ¼r Seitenumbruch
 
 Element.SortDirection=Sortierreihenfolge
 
@@ -43,33 +43,33 @@ Element.Dimension=Dimension
 
 Element.Level=Ebene
 
-Element.Measure=Maßeinheit
+Element.Measure=MaÃŸeinheit
 
 Element.Caption=Beschriftung
 
-Element.CaptionID=Beschriftungsschlüssel
+Element.CaptionID=BeschriftungsschlÃ¼ssel
 
 Element.Summary=Zusammenfassung
 
-Element.MeasureDirection=Maßeinheitrichtung
+Element.MeasureDirection=MaÃŸeinheitrichtung
 
 Element.PageLayout=Seitenlayout
 
 Element.EmptyCellValue=Leerer Zellenwert
 
-Element.RepeatRowHeader=Zeilenüberschrift wiederholen
+Element.RepeatRowHeader=ZeilenÃ¼berschrift wiederholen
 
-Element.RepeatColumnHeader=Spaltenüberschrift wiederholen
+Element.RepeatColumnHeader=SpaltenÃ¼berschrift wiederholen
 
 Element.Mirrored=Gespiegelt
 
 Element.MirrorStartingLevel=Anfangsebene spiegeln
 
-Element.HideMeasureHeader=Maßeinheiten-Kopfzeile ausblenden
+Element.HideMeasureHeader=MaÃŸeinheiten-Kopfzeile ausblenden
 
-Element.SpanOverOnColumn=Spalte überspannen
+Element.SpanOverOnColumn=Spalte Ã¼berspannen
 
-Element.SpanOverOnRow=Zeile überspannen
+Element.SpanOverOnRow=Zeile Ã¼berspannen
 
 Element.Direction.Horizontal=Horizontal
 
@@ -79,9 +79,9 @@ Element.choice.before=Vor
 
 Element.choice.after=Nach
 
-Element.RowPageBreakInterval=Zeilenintervall für Seitenumbruch
+Element.RowPageBreakInterval=Zeilenintervall fÃ¼r Seitenumbruch
 
-Element.ColumnPageBreakInterval=Spaltenintervall für Seitenumbruch
+Element.ColumnPageBreakInterval=Spaltenintervall fÃ¼r Seitenumbruch
 
 Element.TagType=Tag-Typ
 
@@ -111,19 +111,19 @@ Error.CrosstabException.LEVEL_NOT_FOUND=Keine Ebenenansicht '{0}' in Kreuztabell
 # Crosstab executor runtime error message
 CrosstabReportItemQuery.error.crosstab.loading=Laden des Kreuztabellenelements aus erweitertem Element fehlgeschlagen.
 
-CrosstabReportItemQuery.error.query.building=Ungültiges Kreuztabellenmodell zum Erstellen der Abfrage.
+CrosstabReportItemQuery.error.query.building=UngÃ¼ltiges Kreuztabellenmodell zum Erstellen der Abfrage.
 
 CrosstabReportItemQuery.error.register.empty.cell.value=Fehler beim Registrieren des leeren Zellenwerts.
 
-CrosstabQueryHelper.error.invalid.measure=Die Kreuztabelle enthält keine Definition der Maßeinheit, oder die spezifische Maßeinheit '{0}' ist nicht im zugehörigen Quader enthalten.
+CrosstabQueryHelper.error.invalid.measure=Die Kreuztabelle enthÃ¤lt keine Definition der MaÃŸeinheit, oder die spezifische MaÃŸeinheit '{0}' ist nicht im zugehÃ¶rigen Quader enthalten.
 
-CrosstabQueryHelper.error.invalid.dimension.row=Der Zeilenbereich der Kreuztabelle enthält keine Definition der Dimension, oder die spezifische Dimension '{0}' ist nicht im zugehörigen Quader enthalten.
+CrosstabQueryHelper.error.invalid.dimension.row=Der Zeilenbereich der Kreuztabelle enthÃ¤lt keine Definition der Dimension, oder die spezifische Dimension '{0}' ist nicht im zugehÃ¶rigen Quader enthalten.
 
-CrosstabQueryHelper.error.invalid.level.row=Der Zeilenbereich der Kreuztabelle enthält keine Definition der Ebene, oder die spezifische Ebene '{0}' ist nicht im zugehörigen Quader enthalten.
+CrosstabQueryHelper.error.invalid.level.row=Der Zeilenbereich der Kreuztabelle enthÃ¤lt keine Definition der Ebene, oder die spezifische Ebene '{0}' ist nicht im zugehÃ¶rigen Quader enthalten.
 
-CrosstabQueryHelper.error.invalid.dimension.column=Der Spaltenbereich der Kreuztabelle enthält keine Definition der Dimension, oder die spezifische Dimension '{0}' ist nicht im zugehörigen Quader enthalten.
+CrosstabQueryHelper.error.invalid.dimension.column=Der Spaltenbereich der Kreuztabelle enthÃ¤lt keine Definition der Dimension, oder die spezifische Dimension '{0}' ist nicht im zugehÃ¶rigen Quader enthalten.
 
-CrosstabQueryHelper.error.invalid.level.column=Der Spaltenbereich der Kreuztabelle enthält keine Definition der Ebene, oder die spezifische Ebene '{0}' ist nicht im zugehörigen Quader enthalten.
+CrosstabQueryHelper.error.invalid.level.column=Der Spaltenbereich der Kreuztabelle enthÃ¤lt keine Definition der Ebene, oder die spezifische Ebene '{0}' ist nicht im zugehÃ¶rigen Quader enthalten.
 
 BaseCrosstabExecutor.error.process.visibility=Beim Verarbeiten der Sichtbarkeit ist ein Fehler aufgetreten.
 
@@ -131,53 +131,53 @@ BaseCrosstabExecutor.error.process.bookmark=Fehler beim Verarbeiten der Kopfzeil
 
 BaseCrosstabExecutor.error.process.headers=Fehler beim Verarbeiten der Kopfzeilen.
 
-BaseCrosstabExecutor.error.process.row.height=Beim Verarbeiten der Zeilenhöhe ist ein Fehler aufgetreten.
+BaseCrosstabExecutor.error.process.row.height=Beim Verarbeiten der ZeilenhÃ¶he ist ein Fehler aufgetreten.
 
 CrosstabCellExecutor.error.restor.data.position=Beim Wiederherstellen der Datenposition ist ein Fehler aufgetreten.
 
-CrosstabGrandTotalRowExecutor.error.generate.child.executor=Beim Generieren des untergeordneten ausführenden Programms ist ein Fehler aufgetreten.
+CrosstabGrandTotalRowExecutor.error.generate.child.executor=Beim Generieren des untergeordneten ausfÃ¼hrenden Programms ist ein Fehler aufgetreten.
 
-CrosstabGrandTotalRowExecutor.error.check.child.executor=Beim Überprüfen des Status des untergeordneten ausführenden Programms ist ein Fehler aufgetreten.
+CrosstabGrandTotalRowExecutor.error.check.child.executor=Beim ÃœberprÃ¼fen des Status des untergeordneten ausfÃ¼hrenden Programms ist ein Fehler aufgetreten.
 
-CrosstabHeaderExecutor.error.reset.row.position=Fehler beim Zurücksetzen der Cursorposition am Zeilenrand.
+CrosstabHeaderExecutor.error.reset.row.position=Fehler beim ZurÃ¼cksetzen der Cursorposition am Zeilenrand.
 
-CrosstabGroupExecutor.error.close.executor=Beim Schließen des ausführenden Programms für die Gruppe ist ein Fehler aufgetreten.
+CrosstabGroupExecutor.error.close.executor=Beim SchlieÃŸen des ausfÃ¼hrenden Programms fÃ¼r die Gruppe ist ein Fehler aufgetreten.
 
 CrosstabGroupExecutor.error.prepare.group=Beim Vorbereiten untergeordneter Gruppen ist ein Fehler aufgetreten.
 
-CrosstabGroupExecutor.error.check.child.executor=Beim Überprüfen des Status des untergeordneten ausführenden Programms ist ein Fehler aufgetreten.
+CrosstabGroupExecutor.error.check.child.executor=Beim ÃœberprÃ¼fen des Status des untergeordneten ausfÃ¼hrenden Programms ist ein Fehler aufgetreten.
 
-CrosstabHeaderRowExecutor.error.check.force.empty=Beim Überprüfen des Status "Leer erzwingen" der aktuellen Zelle ist ein Fehler aufgetreten.
+CrosstabHeaderRowExecutor.error.check.force.empty=Beim ÃœberprÃ¼fen des Status "Leer erzwingen" der aktuellen Zelle ist ein Fehler aufgetreten.
 
-CrosstabHeaderRowExecutor.error.check.edge.end=Beim Überprüfen des Status "Randende" der aktuellen Zelle ist ein Fehler aufgetreten.
+CrosstabHeaderRowExecutor.error.check.edge.end=Beim ÃœberprÃ¼fen des Status "Randende" der aktuellen Zelle ist ein Fehler aufgetreten.
 
-CrosstabHeaderRowExecutor.error.retrieve.child.executor=Beim Abrufen des untergeordneten ausführenden Programms ist ein Fehler aufgetreten.
+CrosstabHeaderRowExecutor.error.retrieve.child.executor=Beim Abrufen des untergeordneten ausfÃ¼hrenden Programms ist ein Fehler aufgetreten.
 
-CrosstabMeasureHeaderRowExecutor.error.generate.child.executor=Beim Generieren des untergeordneten ausführenden Programms ist ein Fehler aufgetreten.
+CrosstabMeasureHeaderRowExecutor.error.generate.child.executor=Beim Generieren des untergeordneten ausfÃ¼hrenden Programms ist ein Fehler aufgetreten.
 
-CrosstabMeasureHeaderRowExecutor.error.check.child.executor=Beim Überprüfen des Status des untergeordneten ausführenden Programms ist ein Fehler aufgetreten.
+CrosstabMeasureHeaderRowExecutor.error.check.child.executor=Beim ÃœberprÃ¼fen des Status des untergeordneten ausfÃ¼hrenden Programms ist ein Fehler aufgetreten.
 
-CrosstabMeasureRowExecutor.error.generate.child.executor=Beim Generieren des untergeordneten ausführenden Programms ist ein Fehler aufgetreten.
+CrosstabMeasureRowExecutor.error.generate.child.executor=Beim Generieren des untergeordneten ausfÃ¼hrenden Programms ist ein Fehler aufgetreten.
 
-CrosstabMeasureRowExecutor.error.check.child.executor=Beim Überprüfen des Status des untergeordneten ausführenden Programms ist ein Fehler aufgetreten.
+CrosstabMeasureRowExecutor.error.check.child.executor=Beim ÃœberprÃ¼fen des Status des untergeordneten ausfÃ¼hrenden Programms ist ein Fehler aufgetreten.
 
 CrosstabReportItemExecutor.error.crosstab.loading=Laden des Kreuztabellenelements aus erweitertem Element fehlgeschlagen.
 
-CrosstabReportItemExecutor.error.generate.columns=Beim Erstellen der Spalten für die Kreuztabelle ist ein Fehler aufgetreten.
+CrosstabReportItemExecutor.error.generate.columns=Beim Erstellen der Spalten fÃ¼r die Kreuztabelle ist ein Fehler aufgetreten.
 
-CrosstabReportItemExecutor.error.prepare.children=Beim Vorbereiten des untergeordneten ausführenden Programms für die Kreuztabelle ist ein Fehler aufgetreten.
+CrosstabReportItemExecutor.error.prepare.children=Beim Vorbereiten des untergeordneten ausfÃ¼hrenden Programms fÃ¼r die Kreuztabelle ist ein Fehler aufgetreten.
 
-CrosstabReportItemExecutor.error.invalid.cube.result=Das Quaderergebnis für die Kreuztabelle ist ungültig (=Null).
+CrosstabReportItemExecutor.error.invalid.cube.result=Das Quaderergebnis fÃ¼r die Kreuztabelle ist ungÃ¼ltig (=Null).
 
-CrosstabRowExecutor.error.check.force.empty=Beim Überprüfen des Status "Leer erzwingen" der aktuellen Zelle ist ein Fehler aufgetreten.
+CrosstabRowExecutor.error.check.force.empty=Beim ÃœberprÃ¼fen des Status "Leer erzwingen" der aktuellen Zelle ist ein Fehler aufgetreten.
 
-CrosstabRowExecutor.error.check.edge.start=Beim Überprüfen des Status "Randstart" der aktuellen Zelle ist ein Fehler aufgetreten.
+CrosstabRowExecutor.error.check.edge.start=Beim ÃœberprÃ¼fen des Status "Randstart" der aktuellen Zelle ist ein Fehler aufgetreten.
 
-CrosstabRowExecutor.error.retrieve.child.executor=Beim Abrufen des untergeordneten ausführenden Programms ist ein Fehler aufgetreten.
+CrosstabRowExecutor.error.retrieve.child.executor=Beim Abrufen des untergeordneten ausfÃ¼hrenden Programms ist ein Fehler aufgetreten.
 
-CrosstabSubTotalRowExecutor.error.check.edge.start=Beim Überprüfen des Status "Randstart" der aktuellen Zelle ist ein Fehler aufgetreten.
+CrosstabSubTotalRowExecutor.error.check.edge.start=Beim ÃœberprÃ¼fen des Status "Randstart" der aktuellen Zelle ist ein Fehler aufgetreten.
 
-CrosstabSubTotalRowExecutor.error.retrieve.child.executor=Beim Abrufen des untergeordneten ausführenden Programms ist ein Fehler aufgetreten.
+CrosstabSubTotalRowExecutor.error.retrieve.child.executor=Beim Abrufen des untergeordneten ausfÃ¼hrenden Programms ist ein Fehler aufgetreten.
 
 TableColumnGenerator.error.process.visibility=Beim Verarbeiten der Spaltensichtbarkeit ist ein Fehler aufgetreten.
 
@@ -189,53 +189,53 @@ CrosstabReportItemHandle.error.locate.row.cell=Fehler beim Suchen der relevanten
 
 CrosstabReportItemHandle.error.set.column.width=Fehler beim Festlegen der Spaltenbreite der Kreuztabelle
 
-CrosstabReportItemHandle.error.set.row.height=Fehler beim Festlegen der Zeilenhöhe der Kreuztabelle
+CrosstabReportItemHandle.error.set.row.height=Fehler beim Festlegen der ZeilenhÃ¶he der Kreuztabelle
 
-CrosstabReportItemHandle.msg.change.measure.direction=Maßeinheitrichtung ändern
+CrosstabReportItemHandle.msg.change.measure.direction=MaÃŸeinheitrichtung Ã¤ndern
 
-CrosstabReportItemHandle.msg.insert.measure=Maßeinheit einfügen
+CrosstabReportItemHandle.msg.insert.measure=MaÃŸeinheit einfÃ¼gen
 
-CrosstabReportItemHandle.exception.name.blank=Für ComputedMeasure ist Name erforderlich.
+CrosstabReportItemHandle.exception.name.blank=FÃ¼r ComputedMeasure ist Name erforderlich.
 
 CrosstabReportItemHandle.exception.name.duplicate=Der angegebene Einheitenname wird bereits verwendet und kann nicht dupliziert werden.
 
 MeasureViewHandle.info.aggregation.already.exist=Das angeforderte Aggregat existiert bereits.
 
-MeasureViewHandle.msg.add.aggregation=Aggregat hinzufügen
+MeasureViewHandle.msg.add.aggregation=Aggregat hinzufÃ¼gen
 
 LevelViewTask.msg.remove.subtotal=Teilergebnis entfernen
 
-LevelViewTask.msg.add.subtotal=Teilergebnis hinzufügen
+LevelViewTask.msg.add.subtotal=Teilergebnis hinzufÃ¼gen
 
 DimensionViewTask.msg.remove.level=Ebene entfernen
 
-DimensionViewTask.msg.insert.level=Ebene einfügen
+DimensionViewTask.msg.insert.level=Ebene einfÃ¼gen
 
-MeasureViewTask.msg.remove.header=Maßeinheiten-Kopfzeile entfernen
+MeasureViewTask.msg.remove.header=MaÃŸeinheiten-Kopfzeile entfernen
 
-MeasureViewTask.msg.add.header=Maßeinheiten-Kopfzeile hinzufügen
+MeasureViewTask.msg.add.header=MaÃŸeinheiten-Kopfzeile hinzufÃ¼gen
 
-CrosstabViewTask.msg.add.dimension=Dimension hinzufügen
+CrosstabViewTask.msg.add.dimension=Dimension hinzufÃ¼gen
 
 CrosstabViewTask.msg.remove.dimension=Dimension entfernen
 
 CrosstabViewTask.msg.remove.grandtotal=Gesamtsumme entfernen
 
-CrosstabViewTask.msg.add.grandtotal=Gesamtsumme hinzufügen
+CrosstabViewTask.msg.add.grandtotal=Gesamtsumme hinzufÃ¼gen
 
-CrosstabReportItemTask.msg.add.grandtotal=Gesamtsumme hinzufügen
+CrosstabReportItemTask.msg.add.grandtotal=Gesamtsumme hinzufÃ¼gen
 
 CrosstabReportItemTask.msg.set.aggregate.function=Aggregatfunktion festlegen
 
 CrosstabReportItemTask.msg.pivot.dimension=Pivot-Dimension
 
-CrosstabReportItemTask.msg.insert.dimension=Dimension einfügen
+CrosstabReportItemTask.msg.insert.dimension=Dimension einfÃ¼gen
 
 CrosstabReportItemTask.msg.set.mirroredStartingLevel=Gespiegelte Anfangsebene festlegen
 
 CrosstabReportItemTask.msg.pivot.crosstab=Pivot-Kreuztabelle
 
-CrosstabReportItemHandle.Error.HasNoCube=Die Kreuztabelle muss auf einen Quader zugreifen können.
+CrosstabReportItemHandle.Error.HasNoCube=Die Kreuztabelle muss auf einen Quader zugreifen kÃ¶nnen.
 
 CrosstabReportItemHandle.log.validate=Wird validiert (...)
 

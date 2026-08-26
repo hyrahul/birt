@@ -14,60 +14,60 @@
 ###############################################################################
 Build=@BUILD@
 
-ReportEditor=º¸°í¼­ ÆíÁı±â
+ReportEditor=ë³´ê³ ì„œ í¸ì§‘ê¸°
 
-TemplateEditor=ÅÛÇÃ¸´ ÆíÁı±â
+TemplateEditor=í…œí”Œë¦¿ í¸ì§‘ê¸°
 
-ReportPerspective=º¸°í¼­ µğÀÚÀÎ
+ReportPerspective=ë³´ê³ ì„œ ë””ìì¸
 
-ReportDocumentEditor=º¸°í¼­ ¹®¼­ ÆíÁı±â
+ReportDocumentEditor=ë³´ê³ ì„œ ë¬¸ì„œ í¸ì§‘ê¸°
 
 ###############################################################################
 # Wizard Info
 ###############################################################################
 WizardCategoryName=Business Intelligence and Reporting Tools
-ReportWizard=º¸°í¼­
+ReportWizard=ë³´ê³ ì„œ
 
-ReportWizardDescription=ÀÌ ¸¶¹ı»ç´Â ¹Ì¸® Á¤ÀÇµÈ ÅÛÇÃ¸´¿¡¼­ »õ º¸°í¼­¸¦ »ı¼ºÇÕ´Ï´Ù.
+ReportWizardDescription=ì´ ë§ˆë²•ì‚¬ëŠ” ë¯¸ë¦¬ ì •ì˜ëœ í…œí”Œë¦¿ì—ì„œ ìƒˆ ë³´ê³ ì„œë¥¼ ìƒì„±í•©ë‹ˆë‹¤.
 
-TemplateWizard=ÅÛÇÃ¸´
+TemplateWizard=í…œí”Œë¦¿
 
-TemplateWizardDescription=ÀÌ ¸¶¹ı»ç´Â »õ ÅÛÇÃ¸´À» »ı¼ºÇÕ´Ï´Ù.
+TemplateWizardDescription=ì´ ë§ˆë²•ì‚¬ëŠ” ìƒˆ í…œí”Œë¦¿ì„ ìƒì„±í•©ë‹ˆë‹¤.
 
-ReportProjectWizard=º¸°í¼­ ÇÁ·ÎÁ§Æ®
+ReportProjectWizard=ë³´ê³ ì„œ í”„ë¡œì íŠ¸
 
-ReportProjectWizardDescription=»õ º¸°í¼­ ÇÁ·ÎÁ§Æ®¸¦ »ı¼ºÇÕ´Ï´Ù.
+ReportProjectWizardDescription=ìƒˆ ë³´ê³ ì„œ í”„ë¡œì íŠ¸ë¥¼ ìƒì„±í•©ë‹ˆë‹¤.
 
-LibraryEditor=¶óÀÌºê·¯¸® ÆíÁı±â
+LibraryEditor=ë¼ì´ë¸ŒëŸ¬ë¦¬ í¸ì§‘ê¸°
 
-LibraryWizard=¶óÀÌºê·¯¸®
+LibraryWizard=ë¼ì´ë¸ŒëŸ¬ë¦¬
 
-LibraryWizardDescription=ÀÌ ¸¶¹ı»ç´Â »õ º¸°í¼­ ¶óÀÌºê·¯¸®¸¦ »ı¼ºÇÕ´Ï´Ù.
+LibraryWizardDescription=ì´ ë§ˆë²•ì‚¬ëŠ” ìƒˆ ë³´ê³ ì„œ ë¼ì´ë¸ŒëŸ¬ë¦¬ë¥¼ ìƒì„±í•©ë‹ˆë‹¤.
 
-OdaRuntimeWizard=ODA ·±Å¸ÀÓ µå¶óÀÌ¹ö ÇÃ·¯±×ÀÎ ÇÁ·ÎÁ§Æ®
+OdaRuntimeWizard=ODA ëŸ°íƒ€ì„ ë“œë¼ì´ë²„ í”ŒëŸ¬ê·¸ì¸ í”„ë¡œì íŠ¸
 
-OdaRuntimeWizardDesc=»õ ODA ·±Å¸ÀÓ µå¶óÀÌ¹ö ÇÃ·¯±×ÀÎÀ» »ı¼ºÇÏ½Ê½Ã¿À.
+OdaRuntimeWizardDesc=ìƒˆ ODA ëŸ°íƒ€ì„ ë“œë¼ì´ë²„ í”ŒëŸ¬ê·¸ì¸ì„ ìƒì„±í•˜ì‹­ì‹œì˜¤.
 
-OdaDesignerWizard=ODA µğÀÚÀÌ³Ê ÇÃ·¯±×ÀÎ ÇÁ·ÎÁ§Æ®
+OdaDesignerWizard=ODA ë””ìì´ë„ˆ í”ŒëŸ¬ê·¸ì¸ í”„ë¡œì íŠ¸
 
-OdaDesignerWizardDesc=»õ ODA µğÀÚÀÌ³Ê ÇÃ·¯±×ÀÎÀ» »ı¼ºÇÏ½Ê½Ã¿À.
+OdaDesignerWizardDesc=ìƒˆ ODA ë””ìì´ë„ˆ í”ŒëŸ¬ê·¸ì¸ì„ ìƒì„±í•˜ì‹­ì‹œì˜¤.
 
 ###############################################################################
 
 ###############################################################################
 # Actions
 ###############################################################################
-Action.Publish=»õ º¸°í¼­ ¸¶¹ı»ç¸¦ ÅÛÇÃ¸´¿¡ µî·Ï(&Z)...
+Action.Publish=ìƒˆ ë³´ê³ ì„œ ë§ˆë²•ì‚¬ë¥¼ í…œí”Œë¦¿ì— ë“±ë¡(&Z)...
 
-Action.PublishLibrary=°øÀ¯ ¸®¼Ò½º Æú´õ·Î ¶óÀÌºê·¯¸® º¹»ç(&B)...
+Action.PublishLibrary=ê³µìœ  ë¦¬ì†ŒìŠ¤ í´ë”ë¡œ ë¼ì´ë¸ŒëŸ¬ë¦¬ ë³µì‚¬(&B)...
 
-Action.AddReportNature=º¸°í¼­ Ãß°¡ Áö¿ø
+Action.AddReportNature=ë³´ê³ ì„œ ì¶”ê°€ ì§€ì›
 
-Menu.Report=º¸°í¼­
+Menu.Report=ë³´ê³ ì„œ
 
-birtproblemName=º¸°í¼­ ¹®Á¦
+birtproblemName=ë³´ê³ ì„œ ë¬¸ì œ
 
 ###############################################################################
 # Preferences
 ###############################################################################
-preference.expressionsyntaxcolor=±¸¹® »ö»ó ÁöÁ¤
+preference.expressionsyntaxcolor=êµ¬ë¬¸ ìƒ‰ìƒ ì§€ì •

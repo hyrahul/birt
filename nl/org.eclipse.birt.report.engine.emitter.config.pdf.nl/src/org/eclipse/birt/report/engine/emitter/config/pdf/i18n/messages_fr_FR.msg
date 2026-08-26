@@ -19,23 +19,23 @@ PDFEmitter.DisplayName=PDF
 #Option Display Value
 OptionDisplayValue.BidiProcessing=Traitement BIDI
 
-OptionDisplayValue.TextWrapping=Retour à la ligne automatique
+OptionDisplayValue.TextWrapping=Retour Ã  la ligne automatique
 
-OptionDisplayValue.TextHyphenation=Césure de texte
+OptionDisplayValue.TextHyphenation=CÃ©sure de texte
 
-OptionDisplayValue.PageOverFlow=Traitement du dépassement de page
+OptionDisplayValue.PageOverFlow=Traitement du dÃ©passement de page
 
 OptionDisplayValue.CLIP_CONTENT=Recadrer le contenu
 
-OptionDisplayValue.FIT_TO_PAGE_SIZE=Adapter à la taille de la page
+OptionDisplayValue.FIT_TO_PAGE_SIZE=Adapter Ã  la taille de la page
 
-OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=Répartir sur plusieurs pages
+OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=RÃ©partir sur plusieurs pages
 
 OptionDisplayValue.ENLARGE_PAGE_SIZE=Agrandir la taille de la page
 
 OptionDisplayValue.FontSubstitution=Changement de police
 
-OptionDisplayValue.EmbeddedFont=Police intégrée
+OptionDisplayValue.EmbeddedFont=Police intÃ©grÃ©e
 
 OptionDisplayValue.ChartDpi=DPI de graphique
 
@@ -43,34 +43,34 @@ OptionDisplayValue.RenderChartInSVG=Afficher le graphique en image vectorielle
 
 OptionDisplayValue.RepaginateForPDF=Nouvelle mise en page lors du rendu PDF
 
-OptionDisplayValue.DisableFlashAnimation=Désactiver l'animation Flash pour l'impression
+OptionDisplayValue.DisableFlashAnimation=DÃ©sactiver l'animation Flash pour l'impression
 
-OptionDisplayValue.DisablePrint=Désactiver l'impression
+OptionDisplayValue.DisablePrint=DÃ©sactiver l'impression
 
 ###########################################################
 #Option Description
 OptionDescription.BidiProcessing=Prend en charge le texte bidirectionnel.
 
-OptionDescription.TextHyphenation=Prend en charge la césure de texte.
+OptionDescription.TextHyphenation=Prend en charge la cÃ©sure de texte.
 
-OptionDescription.TextWrapping=Indique si le retour à la ligne est autorisé pour le texte.
+OptionDescription.TextWrapping=Indique si le retour Ã  la ligne est autorisÃ© pour le texte.
 
-OptionDescription.PageOverFlow=Contrôle le mode de répartition du contenu.
+OptionDescription.PageOverFlow=ContrÃ´le le mode de rÃ©partition du contenu.
 
-OptionDescription.FontSubstitution=Sélectionne des polices automatiquement lorsque la police spécifiée ne peut pas afficher le caractère.
+OptionDescription.FontSubstitution=SÃ©lectionne des polices automatiquement lorsque la police spÃ©cifiÃ©e ne peut pas afficher le caractÃ¨re.
 
-OptionDescription.EmbeddedFont=La police TrueType sera intégrée au fichier PDF généré.
+OptionDescription.EmbeddedFont=La police TrueType sera intÃ©grÃ©e au fichier PDF gÃ©nÃ©rÃ©.
 
-OptionDescription.ChartDpi=DPI utilisé pour générer un graphique.
+OptionDescription.ChartDpi=DPI utilisÃ© pour gÃ©nÃ©rer un graphique.
 
 OptionDescription.RenderChartInSVG=Afficher le graphique en image vectorielle.
 
 OptionDescription.RepaginateForPDF=Nouvelle mise en page lors du rendu PDF.
 
-OptionDescription.DisableFlashAnimation=Désactiver l'animation Flash pour l'impression.
+OptionDescription.DisableFlashAnimation=DÃ©sactiver l'animation Flash pour l'impression.
 
-OptionDescription.DisablePrint=Désactiver l'impression.
+OptionDescription.DisablePrint=DÃ©sactiver l'impression.
 
 ###########################################################
 #tooltip
-Tooltip.ChartDpi=DPI utilisé par le moteur de graphique pour générer des graphiques. Par exemple, 192.
+Tooltip.ChartDpi=DPI utilisÃ© par le moteur de graphique pour gÃ©nÃ©rer des graphiques. Par exemple, 192.

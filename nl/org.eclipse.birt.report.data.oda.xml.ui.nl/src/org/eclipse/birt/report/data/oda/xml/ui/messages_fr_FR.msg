@@ -1,16 +1,16 @@
 # wizard dialog messages
-wizard.title.selectFolder=Source de données XML
-wizard.defaultMessage.selectFolder=Définissez les URL du fichier XML et les informations du schéma.
-wizard.title.newDataSet=Nouveau jeu de données
-wizard.title.selectXmlFile=Sélectionner des données XML pour l'aperçu
-wizard.defaultMessage.selectFile=Sélectionnez une source XML exemple pour permettre l'aperçu de données lors de cette session.
-wizard.title.xPathChoose=Définir la mise en correspondance de table
-wizard.defaultMessage.selectXPath=Définissez l'élément à utiliser en tant que table en le sélectionnant dans la structure XML et en l'ajoutant à la mise en correspondance de ligne. Il ne peut y avoir qu'une seule mise en correspondance de table par jeu de données XML.
-wizard.title.selectColumn=Définir la mise en correspondance de colonne
-wizard.title.defineColumnMapping=Définissez la mise en correspondance de colonne en sélectionnant un élément ou un attribut dans la structure XML et en l'ajoutant à la mise en correspondance de colonne. 
+wizard.title.selectFolder=Source de donnÃ©es XML
+wizard.defaultMessage.selectFolder=DÃ©finissez les URL du fichier XML et les informations du schÃ©ma.
+wizard.title.newDataSet=Nouveau jeu de donnÃ©es
+wizard.title.selectXmlFile=SÃ©lectionner des donnÃ©es XML pour l'aperÃ§u
+wizard.defaultMessage.selectFile=SÃ©lectionnez une source XML exemple pour permettre l'aperÃ§u de donnÃ©es lors de cette session.
+wizard.title.xPathChoose=DÃ©finir la mise en correspondance de table
+wizard.defaultMessage.selectXPath=DÃ©finissez l'Ã©lÃ©ment Ã  utiliser en tant que table en le sÃ©lectionnant dans la structure XML et en l'ajoutant Ã  la mise en correspondance de ligne. Il ne peut y avoir qu'une seule mise en correspondance de table par jeu de donnÃ©es XML.
+wizard.title.selectColumn=DÃ©finir la mise en correspondance de colonne
+wizard.title.defineColumnMapping=DÃ©finissez la mise en correspondance de colonne en sÃ©lectionnant un Ã©lÃ©ment ou un attribut dans la structure XML et en l'ajoutant Ã  la mise en correspondance de colonne. 
 
 #preference
-designer.preview.preference.numberOfElementPassedToGetSchema=Nombre d'éléments accédés dans l'analyse de l'arborescence du schéma XML.
+designer.preview.preference.numberOfElementPassedToGetSchema=Nombre d'Ã©lÃ©ments accÃ©dÃ©s dans l'analyse de l'arborescence du schÃ©ma XML.
 designer.preview.preference.numberOfElementPassedToGetSchema.errormessage=Entrez un nombre compris entre 0 et {0}.
 designer.preview.preference.columnMappingPage.group.title=Page de mise en correspondance de colonne
 
@@ -21,49 +21,49 @@ xPathChoosePage.messages.xmlStructure=Structure XML
 xPathChoosePage.messages.xmlColumnMapping=Mise en correspondance de colonne
 
 #sample xml data file page messages
-xmlDataSetSelectionPage.messages.lineofdata=lignes de source de données
-xmlDataSetSelectionPage.warning.errorReadXMLFile=Erreur lors de la lecture des données XML à partir du fichier [{0}]\n{1}. Voulez-vous tout de même continuer ?
+xmlDataSetSelectionPage.messages.lineofdata=lignes de source de donnÃ©es
+xmlDataSetSelectionPage.warning.errorReadXMLFile=Erreur lors de la lecture des donnÃ©es XML Ã  partir du fichier [{0}]\n{1}. Voulez-vous tout de mÃªme continuer ?
 
 #column mapping page messages
 button.refresh=Actualiser
 menu.menuItem.removeAll=Supprimer tout
 menu.menuItem.remove=Supprimer
-lable.selectXmlFile=Entrez l'URL de la source &XML ou accédez au fichier contenant les données :
-lable.selectXmlSchmaFile=Entrez l'URL du schéma X&ML ou accédez au fichier contenant le\n schéma. Ne renseignez pas ce champ si aucun schéma n'est disponible :
-label.preview=&Afficher un aperçu d'abord
-label.useXMLFileFromDataSource=Utiliser le fichier XML défini dans la source de données
-RowMappingDialog.title=Sélectionner ou modifier l'expression XPath.
-RowMappingDialog.info=Sélectionnez une des expressions XPath prédéfinies pour le noeud sélectionné ou\n entrez une autre expression :
+lable.selectXmlFile=Entrez l'URL de la source &XML ou accÃ©dez au fichier contenant les donnÃ©es :
+lable.selectXmlSchmaFile=Entrez l'URL du schÃ©ma X&ML ou accÃ©dez au fichier contenant le\n schÃ©ma. Ne renseignez pas ce champ si aucun schÃ©ma n'est disponible :
+label.preview=&Afficher un aperÃ§u d'abord
+label.useXMLFileFromDataSource=Utiliser le fichier XML dÃ©fini dans la source de donnÃ©es
+RowMappingDialog.title=SÃ©lectionner ou modifier l'expression XPath.
+RowMappingDialog.info=SÃ©lectionnez une des expressions XPath prÃ©dÃ©finies pour le noeud sÃ©lectionnÃ© ou\n entrez une autre expression :
 ColumnMappingDialog.info.columnName=Nom de colonne :
 ColumnMappingDialog.info.xPath=Expression XPath :
-ColumnMappingDialog.info.dataType=Type de données :
-ColumnMappingDialog.info.dataPreview=Aperçu de la table
+ColumnMappingDialog.info.dataType=Type de donnÃ©es :
+ColumnMappingDialog.info.dataPreview=AperÃ§u de la table
 ColumnMappingDialog.prompt.new=Nouvelle mise en correspondance ici...
-ColumnMappingDialog.prompt.maxRow=La source de données dépasse 500 lignes. Cette page ne permet d'afficher que les 500 premières lignes.
-ColumnMappingDialog.prompt.dialog.title=Aperçu des résultats
+ColumnMappingDialog.prompt.maxRow=La source de donnÃ©es dÃ©passe 500 lignes. Cette page ne permet d'afficher que les 500 premiÃ¨res lignes.
+ColumnMappingDialog.prompt.dialog.title=AperÃ§u des rÃ©sultats
 
 dataset.editor.columnName=Nom
 dataset.editor.xpathexpression=XPath
 dataset.editor.datatype=Type
-dataset.editor.rowelement=Elément de ligne
-dataset.error.populateXMLTree=Impossible de récupérer la source de données XML. Le fichier de source de données XML est incorrect ou le fichier n'existe pas.
+dataset.editor.rowelement=ElÃ©ment de ligne
+dataset.error.populateXMLTree=Impossible de rÃ©cupÃ©rer la source de donnÃ©es XML. Le fichier de source de donnÃ©es XML est incorrect ou le fichier n'existe pas.
 
 error.label=Erreur
-error.selectFolder=L'URL de fichier sélectionnée n'est pas valide ou le fichier n'existe pas.
+error.selectFolder=L'URL de fichier sÃ©lectionnÃ©e n'est pas valide ou le fichier n'existe pas.
 error.emptyPath=L'URL du fichier est vide.
 error.xpath.canNotContainAttribute=L'expression XPath ne peut mettre en correspondance l'attribut XML.
-error.dataset.maxRowNumberError=Le nombre maximal de lignes doit être renseigné par un nombre.
+error.dataset.maxRowNumberError=Le nombre maximal de lignes doit Ãªtre renseignÃ© par un nombre.
 error.columnMapping.noMappingColumn=Veuillez mettre au moins une colonne en correspondance.
-error.file.null=Toutes les URL sont vides. Vous n'avez donc pas sélectionné de source de données. Souhaitez-vous continuer ?
-error.columnMapping.sameColumnName=Le nom de colonne [{0}] existe déjà. Utilisez un autre nom.
+error.file.null=Toutes les URL sont vides. Vous n'avez donc pas sÃ©lectionnÃ© de source de donnÃ©es. Souhaitez-vous continuer ?
+error.columnMapping.sameColumnName=Le nom de colonne [{0}] existe dÃ©jÃ . Utilisez un autre nom.
 error.invalidXpath=L'expression XPath "{0}" n'est pas valide.
 
 #data types for column mapping
 datatypes.dateTime=Horodateur
-datatypes.decimal=Grande décimale
+datatypes.decimal=Grande dÃ©cimale
 datatypes.float=Double
 datatypes.integer=Entier
-datatypes.string=Chaîne
+datatypes.string=ChaÃ®ne
 datatypes.date=Date
 datatypes.time=Heure
 
@@ -72,8 +72,8 @@ columnName.name=Nom
 columnName.xPathName=XPath
 columnName.typeName=Type
 
-dataset.new=Nouveau jeu de données
+dataset.new=Nouveau jeu de donnÃ©es
 file.choose=&Parcourir...
 title.warning=Avertissement
 
-datasource.propertyPage.tooltip=Source de données XML
+datasource.propertyPage.tooltip=Source de donnÃ©es XML

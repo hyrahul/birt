@@ -21,15 +21,15 @@ OptionDisplayValue.BidiProcessing=BIDI-Verarbeitung
 
 OptionDisplayValue.TextWrapping=Zeilenumbruch
 
-OptionDisplayValue.PageOverFlow=Seitenüberlauf-Verarbeitung
+OptionDisplayValue.PageOverFlow=SeitenÃ¼berlauf-Verarbeitung
 
 OptionDisplayValue.CLIP_CONTENT=Inhalt zuschneiden
 
-OptionDisplayValue.FIT_TO_PAGE_SIZE=An Seitengröße anpassen
+OptionDisplayValue.FIT_TO_PAGE_SIZE=An SeitengrÃ¶ÃŸe anpassen
 
 OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=Mehrere Seiten ausgeben
 
-OptionDisplayValue.ENLARGE_PAGE_SIZE=Seite vergrößern
+OptionDisplayValue.ENLARGE_PAGE_SIZE=Seite vergrÃ¶ÃŸern
 
 OptionDisplayValue.FontSubstitution=Schriftart ersetzen
 
@@ -45,7 +45,7 @@ OptionDisplayValue.PaperTray=Papierschacht
 
 OptionDisplayValue.ChartDpi=Diagramm-DPI
 
-OptionDisplayValue.Resolution=Auflösung
+OptionDisplayValue.Resolution=AuflÃ¶sung
 
 OptionDisplayValue.Scale=Skala
 
@@ -55,13 +55,13 @@ OptionDisplayValue.AutoPaperSizeSelection=Automatische Auswahl des Papierformats
 
 ###########################################################
 #Option Description
-OptionDescription.BidiProcessing=Unterstützt bidirektionalen Text.
+OptionDescription.BidiProcessing=UnterstÃ¼tzt bidirektionalen Text.
 
-OptionDescription.TextWrapping=Gibt an, ob der Text Zeilenumbrüche enthält.
+OptionDescription.TextWrapping=Gibt an, ob der Text ZeilenumbrÃ¼che enthÃ¤lt.
 
 OptionDescription.PageOverFlow=Legt fest, wie der Inhalt ausgegeben wird.
 
-OptionDescription.FontSubstitution=Wählt Schriftarten automatisch aus, wenn die angegebene Schriftart das Zeichen nicht darstellen kann.
+OptionDescription.FontSubstitution=WÃ¤hlt Schriftarten automatisch aus, wenn die angegebene Schriftart das Zeichen nicht darstellen kann.
 
 OptionDescription.Copies=Anzahl der Exemplare.
 
@@ -75,13 +75,13 @@ OptionDescription.PaperTray=Papierschacht.
 
 OptionDescription.ChartDpi=DPI zum Erstellen von Diagrammen.
 
-OptionDescription.Resolution=Auflösung.
+OptionDescription.Resolution=AuflÃ¶sung.
 
 OptionDescription.Scale=Skalierung.
 
 OptionDescription.Color=Farbe.
 
-OptionDescription.AutoPaperSizeSelection=Wählt Papierformat je nach Seitengröße aus.
+OptionDescription.AutoPaperSizeSelection=WÃ¤hlt Papierformat je nach SeitengrÃ¶ÃŸe aus.
 
 OptionDescription.FitToPaper=An Papier anpassen.
 

@@ -10,7 +10,7 @@
 # *******************************************************************************/
 design.layout=&Mise en page
 
-design.masterPage=&Page maître
+design.masterPage=&Page maÃ®tre
 
 design.script=&Script
 
@@ -18,17 +18,17 @@ design.xmlsource=Source &XML
 
 template.layout=&Mise en page
 
-template.masterPage=&Page maître
+template.masterPage=&Page maÃ®tre
 
 template.script=&Script
 
 template.xmlsource=Source &XML
 
-pageSet.layout=&Page de présentation
+pageSet.layout=&Page de prÃ©sentation
 
-pageSet.master=&Page maître
+pageSet.master=&Page maÃ®tre
 
-pageSet.preview=&Page de prévisualisation
+pageSet.preview=&Page de prÃ©visualisation
 
 pageSet.script=&Page de script
 

@@ -1,62 +1,62 @@
 ###########################################################
 #Sample Reports View properties
-SampleReportsView.defautDescription=Çë´ÓÀà±ğÖĞÑ¡ÔñÒ»¸öÊ¾Àı±¨±í
+SampleReportsView.defautDescription=è¯·ä»ç±»åˆ«ä¸­é€‰æ‹©ä¸€ä¸ªç¤ºä¾‹æŠ¥è¡¨
 
-SampleReportsView.Text.Explorer=Ê¾Àı±¨±í
+SampleReportsView.Text.Explorer=ç¤ºä¾‹æŠ¥è¡¨
 
-SampleReportsView.Text.Preview=Ô¤ÀÀ
+SampleReportsView.Text.Preview=é¢„è§ˆ
 
-SampleReportsView.Text.Description=ÃèÊö
+SampleReportsView.Text.Description=æè¿°
 
-SampleReportsView.MessageDialog.Title=ÎÊÌâ
+SampleReportsView.MessageDialog.Title=é—®é¢˜
 
-SampleReportsView.MessageDialog.Message=¡°{0}¡±ÒÑ´æÔÚ¡£ÒªÌæ»»ËüÂğ?
+SampleReportsView.MessageDialog.Message=â€œ{0}â€å·²å­˜åœ¨ã€‚è¦æ›¿æ¢å®ƒå—?
 
-SampleReportsView.Action.exportSampleReport=±£´æ
+SampleReportsView.Action.exportSampleReport=ä¿å­˜
 
-SampleReportsView.Action.openSampleReport=´ò¿ª(&O)
+SampleReportsView.Action.openSampleReport=æ‰“å¼€(&O)
 
-SampleReportsView.Action.exportSampleReport.toolTipText=µ¼³öÑ¡ÔñµÄÊ¾Àı±¨±í
+SampleReportsView.Action.exportSampleReport.toolTipText=å¯¼å‡ºé€‰æ‹©çš„ç¤ºä¾‹æŠ¥è¡¨
 
-SampleReportsView.Action.openSampleReport.toolTipText.ide=´´½¨±¨±íÏîÄ¿²¢½«±¨±í·ÅÈëÏîÄ¿ÎÄ¼ş¼Ğ
+SampleReportsView.Action.openSampleReport.toolTipText.ide=åˆ›å»ºæŠ¥è¡¨é¡¹ç›®å¹¶å°†æŠ¥è¡¨æ”¾å…¥é¡¹ç›®æ–‡ä»¶å¤¹
 
-SampleReportsView.Action.openSampleReport.toolTipText.rcp=½«Ñ¡ÔñµÄÊ¾Àı±¨±íÖ±½Óµ¼³öµ½ RCP ¹¤×÷ÇøÎÄ¼ş¼Ğ
+SampleReportsView.Action.openSampleReport.toolTipText.rcp=å°†é€‰æ‹©çš„ç¤ºä¾‹æŠ¥è¡¨ç›´æ¥å¯¼å‡ºåˆ° RCP å·¥ä½œåŒºæ–‡ä»¶å¤¹
 
-SampleReportsView.Text.Contribute_Samples=Ìá¹©Ê¾Àı
+SampleReportsView.Text.Contribute_Samples=æä¾›ç¤ºä¾‹
 
-IDEOpenSampleReportAction.ProjectNameDialog.Label.PrjectName=ÏîÄ¿Ãû³Æ(&N):
+IDEOpenSampleReportAction.ProjectNameDialog.Label.PrjectName=é¡¹ç›®åç§°(&N):
 
-IDEOpenSampleReportAction.ProjectNameDialog.Title.PrjectName=ÏîÄ¿Ãû³Æ
+IDEOpenSampleReportAction.ProjectNameDialog.Title.PrjectName=é¡¹ç›®åç§°
 
-IDEOpenSampleReportAction.MessageDialog.ProjectExists.Title=ÏîÄ¿´æÔÚ
+IDEOpenSampleReportAction.MessageDialog.ProjectExists.Title=é¡¹ç›®å­˜åœ¨
 
-IDEOpenSampleReportAction.MessageDialog.ProjectExists.Message=ÏîÄ¿ÒÑ¾­´æÔÚ¡£°´¡°{0}¡±Ê¹ÓÃ´ËÏîÄ¿£¬°´¡°{1}¡±Çå³ıÏÖÓĞÏîÄ¿²¢´´½¨ĞÂÏîÄ¿£¬°´¡°{2}¡±È¡Ïû¡£
+IDEOpenSampleReportAction.MessageDialog.ProjectExists.Message=é¡¹ç›®å·²ç»å­˜åœ¨ã€‚æŒ‰â€œ{0}â€ä½¿ç”¨æ­¤é¡¹ç›®ï¼ŒæŒ‰â€œ{1}â€æ¸…é™¤ç°æœ‰é¡¹ç›®å¹¶åˆ›å»ºæ–°é¡¹ç›®ï¼ŒæŒ‰â€œ{2}â€å–æ¶ˆã€‚
 
-IDEOpenSampleReportAction.MessageDialog.ProjectExists.ButtonText=¸²¸Ç(&O)
+IDEOpenSampleReportAction.MessageDialog.ProjectExists.ButtonText=è¦†ç›–(&O)
 
 ###########################################################
 #NewReportProjectWizard properties
 
 NewReportProjectWizard.bin=bin
-NewReportProjectWizard.caseVariantExistsError=ÎÄ¼şÏµÍ³²»Çø·Ö´óĞ¡Ğ´¡£´æÔÚÒ»¸öÓë ''{0}'' ³åÍ»µÄÏÖÓĞÏîÄ¿¡£
+NewReportProjectWizard.caseVariantExistsError=æ–‡ä»¶ç³»ç»Ÿä¸åŒºåˆ†å¤§å°å†™ã€‚å­˜åœ¨ä¸€ä¸ªä¸ ''{0}'' å†²çªçš„ç°æœ‰é¡¹ç›®ã€‚
 
-NewReportProjectWizard.description=´´½¨ĞÂ±¨±íÏîÄ¿¡£
+NewReportProjectWizard.description=åˆ›å»ºæ–°æŠ¥è¡¨é¡¹ç›®ã€‚
 
-NewReportProjectWizard.errorMessage=´´½¨ĞÂ±¨±íÏîÄ¿Ê±³öÏÖÎÊÌâ¡£
+NewReportProjectWizard.errorMessage=åˆ›å»ºæ–°æŠ¥è¡¨é¡¹ç›®æ—¶å‡ºç°é—®é¢˜ã€‚
 
-NewReportProjectWizard.errorOpeningWindow=´ò¿ªÄ³¸ö´°¿ÚÊ±³öÏÖÎÊÌâ¡£
+NewReportProjectWizard.errorOpeningWindow=æ‰“å¼€æŸä¸ªçª—å£æ—¶å‡ºç°é—®é¢˜ã€‚
 
-NewReportProjectWizard.internalError=ÄÚ²¿´íÎó:{0}
+NewReportProjectWizard.internalError=å†…éƒ¨é”™è¯¯:{0}
 
-NewReportProjectWizard.javaProject=´´½¨ Java ÏîÄ¿
+NewReportProjectWizard.javaProject=åˆ›å»º Java é¡¹ç›®
 
-NewReportProjectWizard.perspSwitchMessage=´ËÏîÄ¿ÀàĞÍÓë {0} Í¸ÊÓÍ¼Ïà¹ØÁª¡£ÊÇ·ñÁ¢¼´ÇĞ»»ÖÁ´ËÍ¸ÊÓÍ¼£¿
+NewReportProjectWizard.perspSwitchMessage=æ­¤é¡¹ç›®ç±»å‹ä¸ {0} é€è§†å›¾ç›¸å…³è”ã€‚æ˜¯å¦ç«‹å³åˆ‡æ¢è‡³æ­¤é€è§†å›¾ï¼Ÿ
 
-NewReportProjectWizard.perspSwitchTitle=È·¶¨ÇĞ»»Í¸ÊÓÍ¼
+NewReportProjectWizard.perspSwitchTitle=ç¡®å®šåˆ‡æ¢é€è§†å›¾
 
-NewReportProjectWizard.projectSetting=ÏîÄ¿ÉèÖÃ
+NewReportProjectWizard.projectSetting=é¡¹ç›®è®¾ç½®
 
 NewReportProjectWizard.src=src
-NewReportProjectWizard.title=±¨±íÏîÄ¿
+NewReportProjectWizard.title=æŠ¥è¡¨é¡¹ç›®
 
-NewReportProjectWizard.windowTitle=ĞÂ½¨±¨±íÏîÄ¿
+NewReportProjectWizard.windowTitle=æ–°å»ºæŠ¥è¡¨é¡¹ç›®

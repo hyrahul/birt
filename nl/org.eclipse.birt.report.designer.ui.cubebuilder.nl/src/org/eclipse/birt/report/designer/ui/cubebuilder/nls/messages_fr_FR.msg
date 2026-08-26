@@ -4,7 +4,7 @@ DefaultNodeProvider.Tree.Cubes=Cubes
 
 cube.new=Nouveau cube
 
-cube.action.new=Nouveau &cube de données
+cube.action.new=Nouveau &cube de donnÃ©es
 
 cube.edit=Modifier le cube
 
@@ -16,17 +16,17 @@ cube.dimension.edit=Modifier la dimension de cube
 
 CubeDimensionNodeProvider.menu.text=Modifi&er
 
-CubeGroupContent.Message.Add.Message=Nom du champ de récapitulation :
+CubeGroupContent.Message.Add.Message=Nom du champ de rÃ©capitulation :
 
 CubeGroupContent.Group.Edit.Message=Nom du groupe :
 
-CubeGroupContent.Measure.Edit.Title=Modifier un champ de récapitulation
+CubeGroupContent.Measure.Edit.Title=Modifier un champ de rÃ©capitulation
 
 cube.level.new=Nouveau niveau de cube
 
 cube.level.edit=Modifier un niveau
 
-CubeLabelProvider.SharedDimensions=Dimensions partagées
+CubeLabelProvider.SharedDimensions=Dimensions partagÃ©es
 
 CubeLevelNodeProvider.menu.text=Modifi&er
 
@@ -40,7 +40,7 @@ CubeGroupContent.Group.Add.Title=Ajouter un groupe
 
 CubeGroupContent.Group.Add.Message=&Nom du groupe :
 
-CubeGroupContent.Measure.Add.Title=Ajouter un champ de récapitulation
+CubeGroupContent.Measure.Add.Title=Ajouter un champ de rÃ©capitulation
 
 CubeGroupContent.Group.Edit.Title=Modifier le groupe
 
@@ -50,46 +50,46 @@ cube.measuregroup.edit=Modifier la mesure de cube
 
 CubeMeasureGroupNodeProvider.menu.text=Modifi&er
 
-CubeGroupContent.Measure.Edit.Message=Nom du champ de récapitulation :
+CubeGroupContent.Measure.Edit.Message=Nom du champ de rÃ©capitulation :
 
 CubeModel.group.edit=Modifi&er le groupe
 
 Cube.Other.Datasets=Autre
 
-CubeModel.summaryfield.edit=Modifi&er un champ de récapitulation
+CubeModel.summaryfield.edit=Modifi&er un champ de rÃ©capitulation
 
 Cube.Groups=Groupes (Dimensions)
 
-Cube.MeasureGroup=Champs de récapitulation (Mesures)
+Cube.MeasureGroup=Champs de rÃ©capitulation (Mesures)
 
-CubeGroupContent.MeasureDataTypeErrorDialog.Message=La mesure ne prend pas en charge le type de données "Indifférent" : sélectionnez une autre colonne de données ou modifiez le type de données de la colonne "{0}".
+CubeGroupContent.MeasureDataTypeErrorDialog.Message=La mesure ne prend pas en charge le type de donnÃ©es "IndiffÃ©rent" : sÃ©lectionnez une autre colonne de donnÃ©es ou modifiez le type de donnÃ©es de la colonne "{0}".
 
 CubeGroupContent.MeasureDataTypeErrorDialog.Title=Avertissement
 ###########################################################
 #Cube Builder Dialog properties
-CubeBuilder.AutoPrimaryKeyDialog.Message=Certaines colonnes utilisées en tant que clés de jointure ne sont définies sur aucun niveau. Voulez-vous activer l'option "Clé principale automatique" pour compléter le cube ?
+CubeBuilder.AutoPrimaryKeyDialog.Message=Certaines colonnes utilisÃ©es en tant que clÃ©s de jointure ne sont dÃ©finies sur aucun niveau. Voulez-vous activer l'option "ClÃ© principale automatique" pour complÃ©ter le cube ?
 
-CubeBuilder.AutoPrimaryKeyDialog.Title=Problème relatif à la clé principale automatique
+CubeBuilder.AutoPrimaryKeyDialog.Title=ProblÃ¨me relatif Ã  la clÃ© principale automatique
 
-CubeBuilder.SharedDimensionErrorLinkDialog.Message=Toutes les clés principales des dimensions partagées doivent être liées. Voulez-vous définir les liaisons manquantes pour compléter le cube ?
+CubeBuilder.SharedDimensionErrorLinkDialog.Message=Toutes les clÃ©s principales des dimensions partagÃ©es doivent Ãªtre liÃ©es. Voulez-vous dÃ©finir les liaisons manquantes pour complÃ©ter le cube ?
 
-CubeBuilder.SharedDimensionErrorLinkDialog.Title=Liaison des dimensions partagées manquante
+CubeBuilder.SharedDimensionErrorLinkDialog.Title=Liaison des dimensions partagÃ©es manquante
 
-CubeBuilder.Title=Générateur de cube de données
+CubeBuilder.Title=GÃ©nÃ©rateur de cube de donnÃ©es
 
 DatasePage.EmptyName.ErrorMessage=Le nom du cube est requis.
 
-DatasetPage.Title=Jeu de données
+DatasetPage.Title=Jeu de donnÃ©es
 
-GroupDialog.Access.Control.List.Expression=Expression de la liste de contrôle d'&accès :
+GroupDialog.Access.Control.List.Expression=Expression de la liste de contrÃ´le d'&accÃ¨s :
 
 GroupDialog.Button.DateGroup=Groupe de &dates
 
 GroupDialog.Button.RegularGroup=Groupe &normal
 
-GroupRenameDialog.Access.Control.List.Expression=Expression de la liste de contrôle d'&accès :
+GroupRenameDialog.Access.Control.List.Expression=Expression de la liste de contrÃ´le d'&accÃ¨s :
 
-GroupsPage.Title=Groupes et résumés
+GroupsPage.Title=Groupes et rÃ©sumÃ©s
 
 LinkGroupsPage.Title=Lier les groupes
 
@@ -97,61 +97,61 @@ DatasetPage.Label.Name=&Nom :
 
 DateGroupDialog.Title=Ajouter/Modifier le niveau de groupe
 
-DateGroupDialog.Message.NumericName=Le nom du groupe ne doit pas être constitué uniquement de chiffres
+DateGroupDialog.Message.NumericName=Le nom du groupe ne doit pas Ãªtre constituÃ© uniquement de chiffres
 
 DateGroupDialog.Message.DuplicateName=Le nom est le doublon d'un nom existant.
 
 DateGroupDialog.Message.BlankName=Le nom du groupe ne doit pas rester vierge
 
-DateLevelDialog.Access.Control.List.Expression=Expression de la liste de contrôle d'&accès :
+DateLevelDialog.Access.Control.List.Expression=Expression de la liste de contrÃ´le d'&accÃ¨s :
 
 DateLevelDialog.Button.Text.Edit=Modifi&er...
 
 DateLevelDialog.Title=Modifier le niveau de date
 
-DatasetPage.Label.PrimaryDataset=Jeu de données &principal :
+DatasetPage.Label.PrimaryDataset=Jeu de donnÃ©es &principal :
 
 DatasetPage.Button.Filter=&Filtre...
 
-DatasetPage.Button.Joint=Ajouter des jeux de données de jointure...
+DatasetPage.Button.Joint=Ajouter des jeux de donnÃ©es de jointure...
 
-DatasetPage.Title.Title=Jeu de données
+DatasetPage.Title.Title=Jeu de donnÃ©es
 
-DateGroupDialog.Message=Sélectionnez les champs de date à inclure
+DateGroupDialog.Message=SÃ©lectionnez les champs de date Ã  inclure
 
 DateGroupDialog.Message.Regular=Saisissez le nom du groupe
 
 DateLevelDialog.Message=Modifier le niveau de type de date
 
-DateLevelDialog.Message.NumericName=Le nom de niveau ne doit pas être constitué uniquement de chiffres
+DateLevelDialog.Message.NumericName=Le nom de niveau ne doit pas Ãªtre constituÃ© uniquement de chiffres
 
 DateLevelDialog.Message.BlankName=Le nom de niveau ne doit pas rester vierge
 
-DatasetPage.Title.Message=Définissez le jeu de données pour le cube.
+DatasetPage.Title.Message=DÃ©finissez le jeu de donnÃ©es pour le cube.
 
-DatasetPage.Container.Title.Message=Sélection du jeu de données
+DatasetPage.Container.Title.Message=SÃ©lection du jeu de donnÃ©es
 
 DatasetNodeEditPart.Primary.Dataset=(Principal)
 
-GroupsPage.Title.Title=Groupes et résumés
+GroupsPage.Title.Title=Groupes et rÃ©sumÃ©s
 
-GroupsPage.Title.Message=Faites glisser les champs des jeux de données disponibles vers des hiérarchies de groupes et des champs de données de récapitulation.
+GroupsPage.Title.Message=Faites glisser les champs des jeux de donnÃ©es disponibles vers des hiÃ©rarchies de groupes et des champs de donnÃ©es de rÃ©capitulation.
 
-GroupsPage.Container.Title.Message=Groupes et résumés
+GroupsPage.Container.Title.Message=Groupes et rÃ©sumÃ©s
 
-SimpleCubeBuilder.Title.Title=Générateur de cube de tableau croisé
+SimpleCubeBuilder.Title.Title=GÃ©nÃ©rateur de cube de tableau croisÃ©
 
-SimpleCubeBuilder.Title.Message=Organisez vos données du tableau croisé en précisant les hiérarchies de groupes et les champs de données de récapitulation.
+SimpleCubeBuilder.Title.Message=Organisez vos donnÃ©es du tableau croisÃ© en prÃ©cisant les hiÃ©rarchies de groupes et les champs de donnÃ©es de rÃ©capitulation.
 
-SimpleCubeBuilder.Title=Générateur de cube de tableau croisé
+SimpleCubeBuilder.Title=GÃ©nÃ©rateur de cube de tableau croisÃ©
 
 SimpleCubeBuilder.Label.Name=Nom :
 
-DatasetSelectionPage.Label.Auto.Primary.Key=Vérifiez cette option pour éviter la préagrégation dans le jeu de données principal lors de la génération du &cube.
+DatasetSelectionPage.Label.Auto.Primary.Key=VÃ©rifiez cette option pour Ã©viter la prÃ©agrÃ©gation dans le jeu de donnÃ©es principal lors de la gÃ©nÃ©ration du &cube.
 
-DatasetSelectionPage.Text.Auto.Primary.Key=Astuce : si cette option est activée, BIRT ignorera le calcul de regroupement et d'agrégation lors de la génération du cube pour améliorer les performances de la génération du cube.
+DatasetSelectionPage.Text.Auto.Primary.Key=Astuce : si cette option est activÃ©e, BIRT ignorera le calcul de regroupement et d'agrÃ©gation lors de la gÃ©nÃ©ration du cube pour amÃ©liorer les performances de la gÃ©nÃ©ration du cube.
 
-DatasetSelectionPage.Combo.NewDataSet0=<Nouveau jeu de données>
+DatasetSelectionPage.Combo.NewDataSet0=<Nouveau jeu de donnÃ©es>
 
 GroupsPage.Button.Add=&Ajouter
 
@@ -159,47 +159,47 @@ GroupsPage.Button.Edit=&Modifier
 
 GroupsPage.Button.Delete=&Supprimer
 
-GroupsPage.ArrowButton.Add.Tooltip=Ajouter le champ sélectionné
+GroupsPage.ArrowButton.Add.Tooltip=Ajouter le champ sÃ©lectionnÃ©
 
-GroupsPage.ArrowButton.Remove.Tooltip=Supprimer le champ sélectionné
+GroupsPage.ArrowButton.Remove.Tooltip=Supprimer le champ sÃ©lectionnÃ©
 
 GroupsPage.Label.DataField=Champs disponibles :
 
-GroupsPage.Label.Group=Groupes et résumés :
+GroupsPage.Label.Group=Groupes et rÃ©sumÃ©s :
 
 GroupsPage.tooltip.Sort=Trier
 
 GroupsPage.Primary.Dataset=(Principal)
 
-GroupsPage.VirtualField.Measure=(Déposez un champ ici pour créer une mesure)
+GroupsPage.VirtualField.Measure=(DÃ©posez un champ ici pour crÃ©er une mesure)
 
-GroupsPage.VirtualField.Level=(Déposez un champ ici pour créer un niveau)
+GroupsPage.VirtualField.Level=(DÃ©posez un champ ici pour crÃ©er un niveau)
 
-GroupsPage.VirtualField.MeasureGroup=(Déposez un champ ici pour créer un champ de récapitulation)
+GroupsPage.VirtualField.MeasureGroup=(DÃ©posez un champ ici pour crÃ©er un champ de rÃ©capitulation)
 
-GroupsPage.VirtualField.Dimension=(Déposez un champ ici pour créer un groupe)
+GroupsPage.VirtualField.Dimension=(DÃ©posez un champ ici pour crÃ©er un groupe)
 
-GroupsPage.Reference=Référence trouvée
+GroupsPage.Reference=RÃ©fÃ©rence trouvÃ©e
 
 GroupsPage.Clients=\ a les clients suivants
 
-GroupsPage.Dlg.Confirm=Voulez-vous vraiment supprimer cet élément ?
+GroupsPage.Dlg.Confirm=Voulez-vous vraiment supprimer cet Ã©lÃ©ment ?
 
 LinkGroupsPage.Container.Title.Message=Lier les groupes
 
 LinkGroupsPage.Title.Title=Lier les groupes
 
-LinkGroupsPage.Title.Message=Pour établir une liaison entre un groupe d'un autre ensemble de données et l'ensemble de données principal, faites glisser un champ du groupe vers un champ de l'ensemble de données principal.
+LinkGroupsPage.Title.Message=Pour Ã©tablir une liaison entre un groupe d'un autre ensemble de donnÃ©es et l'ensemble de donnÃ©es principal, faites glisser un champ du groupe vers un champ de l'ensemble de donnÃ©es principal.
 
-LevelDialog.Title=Propriété
+LevelDialog.Title=PropriÃ©tÃ©
 
 LevelDialog.Label.Name=Nom :
 
-LevelDialog.Label.Field=Sélection de champ :
+LevelDialog.Label.Field=SÃ©lection de champ :
 
-LevelDialog.Label.DataType=Type de données :
+LevelDialog.Label.DataType=Type de donnÃ©es :
 
-LevelDialog.Label.Info=Clé sélectionnée :
+LevelDialog.Label.Info=ClÃ© sÃ©lectionnÃ©e :
 
 LevelDialog.Label.Add=Ajouter un niveau de groupe
 
@@ -207,11 +207,11 @@ LevelDialog.Label.Edit=Modifier un niveau de groupe
 
 LevelDynamicAttributeDialog.Label.Member=&Membre :
 
-MeasureDialog.Access.Control.List.Expression=Expression de la liste de contrôle d'&accès :
+MeasureDialog.Access.Control.List.Expression=Expression de la liste de contrÃ´le d'&accÃ¨s :
 
 MeasureDialog.Button.Text.Edit=Modifi&er...
 
-MeasureDialog.Title=Propriétés
+MeasureDialog.Title=PropriÃ©tÃ©s
 
 MeasureDialog.Label.Name=&Nom :
 
@@ -219,29 +219,29 @@ MeasureDialog.Label.DisplayName=Nom d'&affichage :
 
 MeasureDialog.Label.Function=&Fonction :
 
-MeasureDialog.Label.DataType=Type de &données :
+MeasureDialog.Label.DataType=Type de &donnÃ©es :
 
 MeasureDialog.Label.Expression=Ex&pression :
 
 MeasureDialog.Label.LinkTo=&Lien vers :
 
-MeasureDialog.MessageDialog.Message=Le type de données requis pour la fonction actuelle est "{0}". Voulez-vous vraiment conserver le type de données sélectionné ?
+MeasureDialog.MessageDialog.Message=Le type de donnÃ©es requis pour la fonction actuelle est "{0}". Voulez-vous vraiment conserver le type de donnÃ©es sÃ©lectionnÃ© ?
 
 MeasureDialog.MessageDialog.Title=Avertissement
 
-MeasureDialog.Title.Property=Modifier un champ de récapitulation
+MeasureDialog.Title.Property=Modifier un champ de rÃ©capitulation
 
-MeasureDialog.Title.Description=Champ de récapitulation
+MeasureDialog.Title.Description=Champ de rÃ©capitulation
 
-MeasureDialog.Text.Description=Pour modifier le champ de récapitulation, indiquez une fonction de récapitulation et une expression qui utilise les champs de données.
+MeasureDialog.Text.Description=Pour modifier le champ de rÃ©capitulation, indiquez une fonction de rÃ©capitulation et une expression qui utilise les champs de donnÃ©es.
 
-MeasureDialog.Message.NumericName=Le nom ne doit pas être constitué uniquement de chiffres
+MeasureDialog.Message.NumericName=Le nom ne doit pas Ãªtre constituÃ© uniquement de chiffres
 
 MeasureDialog.Message.BlankName=Le nom de mesure ne doit pas rester vierge
 
-MeasureDialog.Message.BlankExpression=L'expression ne peut pas être vide
+MeasureDialog.Message.BlankExpression=L'expression ne peut pas Ãªtre vide
 
-MeasureDialog.Label.DerivedMeasure=Est une mesure dér&ivée
+MeasureDialog.Label.DerivedMeasure=Est une mesure dÃ©r&ivÃ©e
 
 MeasureDialog.Label.ExprDesc=par ex. dataSetRow["QUANTITYORDERED"]
 
@@ -249,25 +249,25 @@ MeasureDialog.Label.ExprDesc.Derived=par ex. measure["QuantityOrdered"] * measur
 
 MeasureDialog.Label.Visibility=&Masquer la mesure
 
-MeasureDialog.Label.Visibility.Group=Visibilité
+MeasureDialog.Label.Visibility.Group=VisibilitÃ©
 
-LevelPropertyDialog.Access.Control.List.Expression=Expression de la liste de contrôle d'&accès :
+LevelPropertyDialog.Access.Control.List.Expression=Expression de la liste de contrÃ´le d'&accÃ¨s :
 
 LevelPropertyDialog.Title.Add=Ajouter un niveau de groupe
 
 LevelPropertyDialog.Title.Edit=Modifier un niveau de groupe
 
-LevelPropertyDialog.Member.Access.Control.List.Expression=Expression de la liste de contrôle d'accès de &membre :
+LevelPropertyDialog.Member.Access.Control.List.Expression=Expression de la liste de contrÃ´le d'accÃ¨s de &membre :
 
 LevelPropertyDialog.Message=Choisissez entre un niveau de groupe dynamique ou statique et remplissez les champs requis
 
-LevelPropertyDialog.Message.NumericName=Le nom de la propriété ne doit pas être constitué uniquement de chiffres
+LevelPropertyDialog.Message.NumericName=Le nom de la propriÃ©tÃ© ne doit pas Ãªtre constituÃ© uniquement de chiffres
 
-LevelPropertyDialog.Message.BlankName=Le nom de la propriété ne doit pas rester vierge
+LevelPropertyDialog.Message.BlankName=Le nom de la propriÃ©tÃ© ne doit pas rester vierge
 
-LevelPropertyDialog.Message.BlankKeyField=Le champ clé doit être renseigné.
+LevelPropertyDialog.Message.BlankKeyField=Le champ clÃ© doit Ãªtre renseignÃ©.
 
-LevelPropertyDialog.Message.BlankDataType=Le champ du type de données doit être renseigné.
+LevelPropertyDialog.Message.BlankDataType=Le champ du type de donnÃ©es doit Ãªtre renseignÃ©.
 
 LevelPropertyDialog.None=Aucun
 
@@ -275,7 +275,7 @@ LevelPropertyDialog.GroupBy=Grouper par :
 
 LevelPropertyDialog.Name=&Nom :
 
-LevelPropertyDialog.MSG.Static.CreateNew=<Créer un nouveau membre>
+LevelPropertyDialog.MSG.Static.CreateNew=<CrÃ©er un nouveau membre>
 
 LevelPropertyDialog.Shell.Title=Niveau de groupe
 
@@ -297,23 +297,23 @@ LevelPropertyDialog.DisplayField=A&fficher le champ :
 
 LevelPropertyDialog.Button.None=Aucun
 
-LevelPropertyDialog.Button.Prefix=Préfixe
+LevelPropertyDialog.Button.Prefix=PrÃ©fixe
 
 LevelPropertyDialog.Button.Text.Edit=Modifi&er...
 
 LevelPropertyDialog.Interval.Base=Utiliser une valeur de base fixe pour l'intervalle :
 
-LevelPropertyDialog.Label.Property=Propriété de niveau
+LevelPropertyDialog.Label.Property=PropriÃ©tÃ© de niveau
 
 LevelPropertyDialog.Label.Attribute=Attribut
 
 LevelPropertyDialog.Label.Name=Membre
 
-LevelPropertyDialog.KeyField=C&hamp clé :
+LevelPropertyDialog.KeyField=C&hamp clÃ© :
 
-LevelPropertyDialog.DataType=&Type de données :
+LevelPropertyDialog.DataType=&Type de donnÃ©es :
 
-LevelPropertyDialog.DefaultValue.Edit.Label=&Valeur par défaut :
+LevelPropertyDialog.DefaultValue.Edit.Label=&Valeur par dÃ©faut :
 
 LevelPropertyDialog.DefaultValue.Edit.Title=Modifier
 
@@ -331,31 +331,31 @@ LevelPropertyDialog.Label.Expression=Expression de condition
 
 LevelPropertyDialog.Label.LinkTo=&Lien vers :
 
-LevelPropertyDialog.MSG.Dynamic.CreateNew=<Créer un nouvel attribut>
+LevelPropertyDialog.MSG.Dynamic.CreateNew=<CrÃ©er un nouvel attribut>
 
-LevelPropertyDialog.MSG.Tooltip=(Afficher toutes les autres valeurs qui ne correspondent à aucune des conditions ci-dessus)
+LevelPropertyDialog.MSG.Tooltip=(Afficher toutes les autres valeurs qui ne correspondent Ã  aucune des conditions ci-dessus)
 
-LevelPropertyDialog.MSG.DefaultValue=<Valeur par défaut>
+LevelPropertyDialog.MSG.DefaultValue=<Valeur par dÃ©faut>
 
-MissLinkDialog.Title=Lien manquant entre les jeux de données
+MissLinkDialog.Title=Lien manquant entre les jeux de donnÃ©es
 
-MissLinkDialog.Question=Tous les groupes des autres jeux de données et le jeu de données principal doivent être liés. Voulez-vous définir les liaisons manquantes pour compléter le cube ?
+MissLinkDialog.Question=Tous les groupes des autres jeux de donnÃ©es et le jeu de donnÃ©es principal doivent Ãªtre liÃ©s. Voulez-vous dÃ©finir les liaisons manquantes pour complÃ©ter le cube ?
 
 SetConstraintCommand.setUserProperty=setUserProperty
 ###########################################################
 #RenameInputDialog properties
-RenameInputDialog.DialogTitle=Renommer l'entrée
+RenameInputDialog.DialogTitle=Renommer l'entrÃ©e
 
 RenameInputDialog.DialogMessage=Saisissez le nouveau nom
 
 RenameInputDialog.Message.BlankName=Le nom ne doit pas rester vierge
 
-RenameInputDialog.Message.NumericName=Le nom ne doit pas être constitué uniquement de chiffres
+RenameInputDialog.Message.NumericName=Le nom ne doit pas Ãªtre constituÃ© uniquement de chiffres
 
 RenameInputDialog.Message.DuplicateName=Le nom est le doublon d'un nom existant.
 ############################################################
 #ExpressionBuilder properties
-ExpressionProvider.Category.DataSets=Jeux de données disponibles
+ExpressionProvider.Category.DataSets=Jeux de donnÃ©es disponibles
 
 DateGroupDialog.Shell.Title=Niveau de groupe
 
@@ -371,7 +371,7 @@ DateLevelDialog.Type=&Type :
 
 DateLevelDialog.Format=&Format :
 
-DateLevelDialog.KeyField=Champ clé :
+DateLevelDialog.KeyField=Champ clÃ© :
 
 DateLevelDialog.Label.LinkTo=&Lien vers :
 
@@ -379,21 +379,21 @@ DateLevelDialog.None=Aucun
 
 ############################################################
 #Cube Action properties
-NewCubeAction.DataCube=Cube de données
+NewCubeAction.DataCube=Cube de donnÃ©es
 
-NewCubeAction.trans.cube.new=Créer un cube
+NewCubeAction.trans.cube.new=CrÃ©er un cube
 
 ###########################################################
 #CubePageGenerator properties
-PrimaryDatasetDescriptorProvider.Display.Primary.Dataset.Name=Jeu de données &principal :
+PrimaryDatasetDescriptorProvider.Display.Primary.Dataset.Name=Jeu de donnÃ©es &principal :
 
-CubePageGenerator.List.General=Général
+CubePageGenerator.List.General=GÃ©nÃ©ral
 
 ############################################################
 #FilterListDialog properties
 FilterListDialog.Shell.Title=Filtrer
 
-FilterListDialog.Menu.ModifyProperty=Modifier la propriété
+FilterListDialog.Menu.ModifyProperty=Modifier la propriÃ©tÃ©
 
 FilterListDialog.Button.AddWithDialog=&Ajouter...
 
@@ -401,7 +401,7 @@ FilterListDialog.Button.EditWithDialog=Modifi&er...
 
 FilterListDialog.Button.Delete=Supp&rimer
 
-VirtualField.SharedDimensions=Dimensions partagées
+VirtualField.SharedDimensions=Dimensions partagÃ©es
 
 MeasureDialog.Label.Format=F&ormat :
 
@@ -413,7 +413,7 @@ LevelPropertyDialog.Label.Format=&Format :
 
 LevelPropertyDialog.Button.Format.Edit=&Modifier...
 
-LevelStaticAttributeDialog.Error.Message=Le champ membre ne peut pas être vide
+LevelStaticAttributeDialog.Error.Message=Le champ membre ne peut pas Ãªtre vide
 
 LevelStaticAttributeDialog.Label.Expression=&Expression de condition :
 

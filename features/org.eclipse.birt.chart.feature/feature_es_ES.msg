@@ -24,7 +24,7 @@ providerName=Eclipse.org
 updateSiteName=Business Intellegence and Reporting Tool (BIRT) Updates
 
 # "description" property - description of the feature
-description=Complementos de frame de diagrama para herramientas de generaci�n de informe para la actividad empresarial de Eclipse (BIRT).
+description=Complementos de frame de diagrama para herramientas de generaciï¿½n de informe para la actividad empresarial de Eclipse (BIRT).
 
 copyrightURL=https://eclipse-birt.github.io/birt-website
 copyright=(c) Copyright Eclipse Contributors and others 2004, 2006. All rights reserved.\n

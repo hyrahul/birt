@@ -14,13 +14,13 @@
 ###############################################################################
 Build=@BUILD@
 
-ReportEditor=Editeur d'état
+ReportEditor=Editeur d'Ã©tat
 
-TemplateEditor=Editeur de modèles
+TemplateEditor=Editeur de modÃ¨les
 
-ReportPerspective=Modèle d'état
+ReportPerspective=ModÃ¨le d'Ã©tat
 
-ReportDocumentEditor=Editeur d'état
+ReportDocumentEditor=Editeur d'Ã©tat
 
 ###############################################################################
 # Wizard Info
@@ -28,44 +28,44 @@ ReportDocumentEditor=Editeur d'état
 WizardCategoryName=Business Intelligence and Reporting Tools
 ReportWizard=Etat
 
-ReportWizardDescription=Cet assistant crée un nouvel état à partir d'un modèle prédéfini.
+ReportWizardDescription=Cet assistant crÃ©e un nouvel Ã©tat Ã  partir d'un modÃ¨le prÃ©dÃ©fini.
 
-TemplateWizard=Modèle
+TemplateWizard=ModÃ¨le
 
-TemplateWizardDescription=Cet assistant crée un nouveau modèle.
+TemplateWizardDescription=Cet assistant crÃ©e un nouveau modÃ¨le.
 
-ReportProjectWizard=Projet d'état
+ReportProjectWizard=Projet d'Ã©tat
 
-ReportProjectWizardDescription=Créez un nouveau projet d'état.
+ReportProjectWizardDescription=CrÃ©ez un nouveau projet d'Ã©tat.
 
-LibraryEditor=Editeur de bibliothèque
+LibraryEditor=Editeur de bibliothÃ¨que
 
-LibraryWizard=Bibliothèque
+LibraryWizard=BibliothÃ¨que
 
-LibraryWizardDescription=Cet assistant crée une nouvelle bibliothèque d'états.
+LibraryWizardDescription=Cet assistant crÃ©e une nouvelle bibliothÃ¨que d'Ã©tats.
 
-OdaRuntimeWizard=Projet Plug-in de pilote d'exécution ODA
+OdaRuntimeWizard=Projet Plug-in de pilote d'exÃ©cution ODA
 
-OdaRuntimeWizardDesc=Créez un nouveau plug-in de pilote d'exécution ODA.
+OdaRuntimeWizardDesc=CrÃ©ez un nouveau plug-in de pilote d'exÃ©cution ODA.
 
 OdaDesignerWizard=Projet Plug-in de conception ODA
 
-OdaDesignerWizardDesc=Créez un nouveau plug-in de conception ODA.
+OdaDesignerWizardDesc=CrÃ©ez un nouveau plug-in de conception ODA.
 
 ###############################################################################
 
 ###############################################################################
 # Actions
 ###############################################################################
-Action.Publish=Enregistrer le modèle avec l'&assistant Nouvel état...
+Action.Publish=Enregistrer le modÃ¨le avec l'&assistant Nouvel Ã©tat...
 
-Action.PublishLibrary=Copier la bi&bliothèque dans le dossier de ressources partagées...
+Action.PublishLibrary=Copier la bi&bliothÃ¨que dans le dossier de ressources partagÃ©es...
 
 Action.AddReportNature=Ajouter Assistance rapport
 
 Menu.Report=Rapport
 
-birtproblemName=Problème d'état
+birtproblemName=ProblÃ¨me d'Ã©tat
 
 ###############################################################################
 # Preferences

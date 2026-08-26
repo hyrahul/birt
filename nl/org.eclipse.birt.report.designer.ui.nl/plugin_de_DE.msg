@@ -36,7 +36,7 @@ ReportEditor=Bericht-Editor
 ###############################################################################
 # UI Framework
 ###############################################################################
-designer.ui.extensionPointName=Bericht mit erweiterter Element-Benutzeroberfläche
+designer.ui.extensionPointName=Bericht mit erweiterter Element-BenutzeroberflÃ¤che
 
 ###############################################################################
 # Preference
@@ -65,17 +65,17 @@ preference.layout=Layout
 
 preference.expressionsyntax=Ausdruckssyntax
 
-designer.action.undo.label=Rückgängig
+designer.action.undo.label=RÃ¼ckgÃ¤ngig
 
 designer.action.redo.label=Wiederherstellen
 
 extension.odadatasource=ODA-Datenquellen-Erweiterungspunkt
 
-publish.template=Vorlage mit Ass&istent für neuen Bericht registrieren...
+publish.template=Vorlage mit Ass&istent fÃ¼r neuen Bericht registrieren...
 
-publish.library=&Bibliothek in Ordner für gemeinsame Ressourcen kopieren...
+publish.library=&Bibliothek in Ordner fÃ¼r gemeinsame Ressourcen kopieren...
 
-ActionSet.Publish=Ressourcen veröffentlichen
+ActionSet.Publish=Ressourcen verÃ¶ffentlichen
 
 Dummy.label=
 

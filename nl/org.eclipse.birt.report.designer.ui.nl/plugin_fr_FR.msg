@@ -17,49 +17,49 @@ Build=@BUILD@
 ###############################################################################
 # General Info
 ###############################################################################
-ReportWizardDescription=Cet assistant crée un nouvel état à partir d'un modèle prédéfini.
+ReportWizardDescription=Cet assistant crÃ©e un nouvel Ã©tat Ã  partir d'un modÃ¨le prÃ©dÃ©fini.
 
-ReportProjectWizardDescription=Créez un nouveau projet d'état.
+ReportProjectWizardDescription=CrÃ©ez un nouveau projet d'Ã©tat.
 
-ReportPerspective=Modèle d'état
+ReportPerspective=ModÃ¨le d'Ã©tat
 
-ReportViews=Modèle d'état
+ReportViews=ModÃ¨le d'Ã©tat
 
 WizardCategoryName=Business Intelligence and Reporting Tools
 ReportWizard=Etat
 
-ReportProjectWizard=Projet d'état
+ReportProjectWizard=Projet d'Ã©tat
 
-ReportEditor=Editeur d'état
+ReportEditor=Editeur d'Ã©tat
 
 
 ###############################################################################
 # UI Framework
 ###############################################################################
-designer.ui.extensionPointName=Interface utilisateur - Elément d'état étendu
+designer.ui.extensionPointName=Interface utilisateur - ElÃ©ment d'Ã©tat Ã©tendu
 
 ###############################################################################
 # Preference
 ###############################################################################
-preference.birt=Modèle d'état
+preference.birt=ModÃ¨le d'Ã©tat
 
-preference.datasetpreview=Editeur de jeu de données
+preference.datasetpreview=Editeur de jeu de donnÃ©es
 
-preference.preview=Aperçu
+preference.preview=AperÃ§u
 
-preference.preview.server=Serveur de prévisualisation
+preference.preview.server=Serveur de prÃ©visualisation
 
-preference.elementnames=Noms des éléments
+preference.elementnames=Noms des Ã©lÃ©ments
 
-preference.library=Bibliothèque
+preference.library=BibliothÃ¨que
 
-preference.template=Modèle
+preference.template=ModÃ¨le
 
 preference.resource=Ressource
 
-preference.commenttemplates=Modèle de commentaire
+preference.commenttemplates=ModÃ¨le de commentaire
 #hcg_bidi
-preference.bidiproperties=Propriétés bidirectionnelles
+preference.bidiproperties=PropriÃ©tÃ©s bidirectionnelles
 
 preference.layout=Mise en page
 
@@ -67,13 +67,13 @@ preference.expressionsyntax=Syntaxe d'expression
 
 designer.action.undo.label=Annuler
 
-designer.action.redo.label=Rétablir
+designer.action.redo.label=RÃ©tablir
 
-extension.odadatasource=Point d'extension de la source de données ODA
+extension.odadatasource=Point d'extension de la source de donnÃ©es ODA
 
-publish.template=Enregistrer le modèle avec l'&assistant Nouvel état...
+publish.template=Enregistrer le modÃ¨le avec l'&assistant Nouvel Ã©tat...
 
-publish.library=Copier la bi&bliothèque dans le dossier de ressources partagées...
+publish.library=Copier la bi&bliothÃ¨que dans le dossier de ressources partagÃ©es...
 
 ActionSet.Publish=Publier les ressources
 
@@ -81,4 +81,4 @@ Dummy.label=
 
 preference.classpath=Classpath
 
-parameter.actions=Nouveau &paramètre d'état
+parameter.actions=Nouveau &paramÃ¨tre d'Ã©tat

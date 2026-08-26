@@ -4,169 +4,169 @@
 ###########################################################
 
 #ODA-JDBC error code
-odajdbc.CannotCloseConn=Î´ÄÜ¹Ø±ÕÁ¬½Ó¡£
+odajdbc.CannotCloseConn=æœªèƒ½å…³é—­è¿æ¥ã€‚
 
-odajdbc.ConnCommitError=·¢ÉúÊı¾İ¿â·ÃÎÊ´íÎó£¬»òÕßÁ¬½Ó¶ÔÏó´¦ÓÚ×Ô¶¯Ìá½»Ä£Ê½¡£
+odajdbc.ConnCommitError=å‘ç”Ÿæ•°æ®åº“è®¿é—®é”™è¯¯ï¼Œæˆ–è€…è¿æ¥å¯¹è±¡å¤„äºè‡ªåŠ¨æäº¤æ¨¡å¼ã€‚
 
-odajdbc.CannotGetConnMetaData=ÎŞ·¨»ñµÃÁ¬½ÓÔªÊı¾İ¡£
+odajdbc.CannotGetConnMetaData=æ— æ³•è·å¾—è¿æ¥å…ƒæ•°æ®ã€‚
 
-odajdbc.CannotGetConn=Î´ÄÜ»ñµÃÁ¬½Ó¡£
+odajdbc.CannotGetConn=æœªèƒ½è·å¾—è¿æ¥ã€‚
 
-odajdbc.ConnRollbackError=Á¬½Ó»Ø¹ö´íÎó¡£
+odajdbc.ConnRollbackError=è¿æ¥å›æ»šé”™è¯¯ã€‚
 
-odajdbc.GetConnectionError=»ñÈ¡Á¬½ÓÊ±³ö´í£¬{0}¡£
+odajdbc.GetConnectionError=è·å–è¿æ¥æ—¶å‡ºé”™ï¼Œ{0}ã€‚
 
-odajdbc.CannotGetMaxStatements=ÎŞ·¨´ÓÊı¾İ¿âÔªÊı¾İÖĞ»ñµÃ×î´óÊıÁ¿µÄÓï¾ä¡£
+odajdbc.CannotGetMaxStatements=æ— æ³•ä»æ•°æ®åº“å…ƒæ•°æ®ä¸­è·å¾—æœ€å¤§æ•°é‡çš„è¯­å¥ã€‚
 
-odajdbc.CannotGetMaxConnections=ÎŞ·¨´ÓÊı¾İ¿âÔªÊı¾İÖĞ»ñµÃ×î´óÊıÁ¿µÄÁ¬½Ó¡£
+odajdbc.CannotGetMaxConnections=æ— æ³•ä»æ•°æ®åº“å…ƒæ•°æ®ä¸­è·å¾—æœ€å¤§æ•°é‡çš„è¿æ¥ã€‚
 
-odajdbc.CannotGetDatabaseMajorVersion=ÎŞ·¨»ñµÃÊı¾İ¿âÖ÷Òª°æ±¾¡£
+odajdbc.CannotGetDatabaseMajorVersion=æ— æ³•è·å¾—æ•°æ®åº“ä¸»è¦ç‰ˆæœ¬ã€‚
 
-odajdbc.CannotGetDatabaseMinorVersion=ÎŞ·¨»ñµÃÊı¾İ¿â´ÎÒª°æ±¾¡£
+odajdbc.CannotGetDatabaseMinorVersion=æ— æ³•è·å¾—æ•°æ®åº“æ¬¡è¦ç‰ˆæœ¬ã€‚
 
-odajdbc.CannotGetDataSourceProductName=ÎŞ·¨»ñµÃÊı¾İÔ´²úÆ·Ãû³Æ¡£
+odajdbc.CannotGetDataSourceProductName=æ— æ³•è·å¾—æ•°æ®æºäº§å“åç§°ã€‚
 
-odajdbc.CannotGetDataSourceProductVersion=ÎŞ·¨»ñµÃÊı¾İÔ´²úÆ·°æ±¾¡£
+odajdbc.CannotGetDataSourceProductVersion=æ— æ³•è·å¾—æ•°æ®æºäº§å“ç‰ˆæœ¬ã€‚
 
-odajdbc.CannotGetSQLStateType=ÎŞ·¨»ñµÃ SQL ×´Ì¬ÀàĞÍ¡£
+odajdbc.CannotGetSQLStateType=æ— æ³•è·å¾— SQL çŠ¶æ€ç±»å‹ã€‚
 
-odajdbc.CannotParseURL=Ñ¡¶¨µÄÇı¶¯³ÌĞòÎŞ·¨·ÖÎö¸ø¶¨µÄ url¡£
+odajdbc.CannotParseURL=é€‰å®šçš„é©±åŠ¨ç¨‹åºæ— æ³•åˆ†æç»™å®šçš„ urlã€‚
 
-odajdbc.CannotParseJNDI=Ñ¡ÔñµÄÇı¶¯³ÌĞòÎŞ·¨·ÖÎö¸ø¶¨µÄ JNDI Êı¾İÔ´ URL¡£
+odajdbc.CannotParseJNDI=é€‰æ‹©çš„é©±åŠ¨ç¨‹åºæ— æ³•åˆ†æç»™å®šçš„ JNDI æ•°æ®æº URLã€‚
 
-odajdbc.NoSuitableDriver=Ã»ÓĞÊÊºÏµÄÇı¶¯³ÌĞò¡£
+odajdbc.NoSuitableDriver=æ²¡æœ‰é€‚åˆçš„é©±åŠ¨ç¨‹åºã€‚
 
-odajdbc.CannotGetParameterCount=ÎŞ·¨»ñµÃ²ÎÊı¼ÆÊı¡£
+odajdbc.CannotGetParameterCount=æ— æ³•è·å¾—å‚æ•°è®¡æ•°ã€‚
 
-odajdbc.CannotGetParameterMode=ÎŞ·¨»ñµÃ²ÎÊıÄ£Ê½¡£
+odajdbc.CannotGetParameterMode=æ— æ³•è·å¾—å‚æ•°æ¨¡å¼ã€‚
 
-odajdbc.CannotGetParameterType=ÎŞ·¨»ñµÃ²ÎÊıÀàĞÍ¡£
+odajdbc.CannotGetParameterType=æ— æ³•è·å¾—å‚æ•°ç±»å‹ã€‚
 
-odajdbc.CannotGetParameterTypeName=ÎŞ·¨»ñµÃ²ÎÊıÀàĞÍÃû³Æ¡£
+odajdbc.CannotGetParameterTypeName=æ— æ³•è·å¾—å‚æ•°ç±»å‹åç§°ã€‚
 
-odajdbc.CannotGetPrecision=ÎŞ·¨»ñµÃ¾«¶È¡£
+odajdbc.CannotGetPrecision=æ— æ³•è·å¾—ç²¾åº¦ã€‚
 
-odajdbc.CannotGetScale=ÎŞ·¨»ñµÃ½øÎ»ÖÆ¡£
+odajdbc.CannotGetScale=æ— æ³•è·å¾—è¿›ä½åˆ¶ã€‚
 
-odajdbc.CannotDetermineSupportForNull=ÎŞ·¨È·¶¨²ÎÊıÊÇ·ñ¿ÉÎª¿Õ¡£
+odajdbc.CannotDetermineSupportForNull=æ— æ³•ç¡®å®šå‚æ•°æ˜¯å¦å¯ä¸ºç©ºã€‚
 
-odajdbc.CannotGetResultSet=ÎŞ·¨»ñÈ¡½á¹û¼¯¡£
+odajdbc.CannotGetResultSet=æ— æ³•è·å–ç»“æœé›†ã€‚
 
-odajdbc.CannotGetResultSetMetadata=ÎŞ·¨»ñÈ¡½á¹û¼¯ÔªÊı¾İ¡£
+odajdbc.CannotGetResultSetMetadata=æ— æ³•è·å–ç»“æœé›†å…ƒæ•°æ®ã€‚
 
-odajdbc.CannotCloseResultSet=ÎŞ·¨¹Ø±Õ½á¹û¼¯¡£
+odajdbc.CannotCloseResultSet=æ— æ³•å…³é—­ç»“æœé›†ã€‚
 
-odajdbc.CursorDownError=ÎŞ·¨ÏÂÒÆÖÁ½á¹û¼¯ÄÚµÄÏÂÒ»ĞĞ¡£
+odajdbc.CursorDownError=æ— æ³•ä¸‹ç§»è‡³ç»“æœé›†å†…çš„ä¸‹ä¸€è¡Œã€‚
 
-odajdbc.ResultSetCannotGetStringValue=ÎŞ·¨ÔÚ½á¹û¼¯ÄÚ»ñµÃ×Ö·û´®Öµ¡£
+odajdbc.ResultSetCannotGetStringValue=æ— æ³•åœ¨ç»“æœé›†å†…è·å¾—å­—ç¬¦ä¸²å€¼ã€‚
 
-odajdbc.ResultSetCannotGetIntValue=ÎŞ·¨ÔÚ½á¹û¼¯ÄÚ»ñµÃÕûÊıÖµ¡£
+odajdbc.ResultSetCannotGetIntValue=æ— æ³•åœ¨ç»“æœé›†å†…è·å¾—æ•´æ•°å€¼ã€‚
 
-odajdbc.ResultSetCannotGetDoubleValue=ÎŞ·¨ÔÚ½á¹û¼¯ÄÚ»ñµÃË«¾«¶ÈÖµ¡£
+odajdbc.ResultSetCannotGetDoubleValue=æ— æ³•åœ¨ç»“æœé›†å†…è·å¾—åŒç²¾åº¦å€¼ã€‚
 
-odajdbc.ResultSetCannotGetBigDecimalValue=ÎŞ·¨ÔÚ½á¹û¼¯ÄÚ»ñµÃ´óÊ®½øÖÆÖµ¡£
+odajdbc.ResultSetCannotGetBigDecimalValue=æ— æ³•åœ¨ç»“æœé›†å†…è·å¾—å¤§åè¿›åˆ¶å€¼ã€‚
 
-odajdbc.ResultSetCannotGetDateValue=ÎŞ·¨ÔÚ½á¹û¼¯ÄÚ»ñµÃÈÕÆÚÖµ¡£
+odajdbc.ResultSetCannotGetDateValue=æ— æ³•åœ¨ç»“æœé›†å†…è·å¾—æ—¥æœŸå€¼ã€‚
 
-odajdbc.ResultSetCannotGetTimeValue=ÎŞ·¨ÔÚ½á¹û¼¯ÄÚ»ñµÃÊ±¼äÖµ¡£
+odajdbc.ResultSetCannotGetTimeValue=æ— æ³•åœ¨ç»“æœé›†å†…è·å¾—æ—¶é—´å€¼ã€‚
 
-odajdbc.ResultSetCannotGetTimeStampValue=ÎŞ·¨ÔÚ½á¹û¼¯ÄÚ»ñµÃÊ±¼ä´ÁÖµ¡£
+odajdbc.ResultSetCannotGetTimeStampValue=æ— æ³•åœ¨ç»“æœé›†å†…è·å¾—æ—¶é—´æˆ³å€¼ã€‚
 
-odajdbc.ResultSetCannotGetBlobValue=ÎŞ·¨ÔÚ½á¹û¼¯ÄÚ»ñµÃ BLOB Öµ¡£
+odajdbc.ResultSetCannotGetBlobValue=æ— æ³•åœ¨ç»“æœé›†å†…è·å¾— BLOB å€¼ã€‚
 
-odajdbc.ResultSetCannotGetClobValue=ÎŞ·¨ÔÚ½á¹û¼¯ÄÚ»ñµÃ CLOB Öµ¡£
+odajdbc.ResultSetCannotGetClobValue=æ— æ³•åœ¨ç»“æœé›†å†…è·å¾— CLOB å€¼ã€‚
 
-odajdbc.ResultSetCannotGetBooleanValue=ÎŞ·¨»ñµÃ½á¹û¼¯ÄÚµÄ²¼¶ûÖµ¡£
+odajdbc.ResultSetCannotGetBooleanValue=æ— æ³•è·å¾—ç»“æœé›†å†…çš„å¸ƒå°”å€¼ã€‚
 
-odajdbc.ResultSetDetermineNull=ÎŞ·¨ÔÚ½á¹û¼¯ÄÚÈ·¶¨ isNull Öµ¡£
+odajdbc.ResultSetDetermineNull=æ— æ³•åœ¨ç»“æœé›†å†…ç¡®å®š isNull å€¼ã€‚
 
-odajdbc.ResultSetCannotFindColumn=ÎŞ·¨ÔÚ½á¹û¼¯ÄÚÕÒµ½ÁĞ¡£
+odajdbc.ResultSetCannotFindColumn=æ— æ³•åœ¨ç»“æœé›†å†…æ‰¾åˆ°åˆ—ã€‚
 
-odajdbc.CannotGetColumnCount=ÎŞ·¨»ñµÃÁĞ¼ÆÊı¡£
+odajdbc.CannotGetColumnCount=æ— æ³•è·å¾—åˆ—è®¡æ•°ã€‚
 
-odajdbc.CannotGetColumnName=ÎŞ·¨»ñµÃÁĞÃû³Æ¡£
+odajdbc.CannotGetColumnName=æ— æ³•è·å¾—åˆ—åç§°ã€‚
 
-odajdbc.CannotGetColumnLabel=ÎŞ·¨»ñµÃÁĞ±êÇ©¡£
+odajdbc.CannotGetColumnLabel=æ— æ³•è·å¾—åˆ—æ ‡ç­¾ã€‚
 
-odajdbc.CannotGetColumnType=ÎŞ·¨»ñµÃÁĞÀàĞÍ¡£
+odajdbc.CannotGetColumnType=æ— æ³•è·å¾—åˆ—ç±»å‹ã€‚
 
-odajdbc.CannotGetColumnTypeName=ÎŞ·¨»ñµÃÁĞÀàĞÍÃû³Æ¡£
+odajdbc.CannotGetColumnTypeName=æ— æ³•è·å¾—åˆ—ç±»å‹åç§°ã€‚
 
-odajdbc.CannotGetColumnDisplaySize=ÎŞ·¨»ñµÃÁĞÏÔÊ¾´óĞ¡¡£
+odajdbc.CannotGetColumnDisplaySize=æ— æ³•è·å¾—åˆ—æ˜¾ç¤ºå¤§å°ã€‚
 
-odajdbc.CannotGetResultSetMetaDataPrecision=ÎŞ·¨»ñµÃ½á¹û¼¯ÔªÊı¾İ¾«¶È¡£
+odajdbc.CannotGetResultSetMetaDataPrecision=æ— æ³•è·å¾—ç»“æœé›†å…ƒæ•°æ®ç²¾åº¦ã€‚
 
-odajdbc.CannotGetResultSetMetaDataScale=ÎŞ·¨»ñµÃ½á¹û¼¯ÔªÊı¾İ½øÎ»ÖÆ¡£
+odajdbc.CannotGetResultSetMetaDataScale=æ— æ³•è·å¾—ç»“æœé›†å…ƒæ•°æ®è¿›ä½åˆ¶ã€‚
 
-odajdbc.CannotDetermineColumnSupportForNull=ÎŞ·¨È·¶¨ÁĞÊÇ·ñÖ§³Ö¿ÕÖµ¡£
+odajdbc.CannotDetermineColumnSupportForNull=æ— æ³•ç¡®å®šåˆ—æ˜¯å¦æ”¯æŒç©ºå€¼ã€‚
 
-odajdbc.StatementCannotPrepared=×¼±¸ SQL Óï¾äÊ±³ö´í¡£
+odajdbc.StatementCannotPrepared=å‡†å¤‡ SQL è¯­å¥æ—¶å‡ºé”™ã€‚
 
-odajdbc.CannotGetMetaData=ÎŞ·¨»ñÈ¡½á¹û¼¯ÔªÊı¾İ¡£
+odajdbc.CannotGetMetaData=æ— æ³•è·å–ç»“æœé›†å…ƒæ•°æ®ã€‚
 
-odajdbc.CannotClosePreparedStatement=ÎŞ·¨¹Ø±Õ preparedStatement¡£
+odajdbc.CannotClosePreparedStatement=æ— æ³•å…³é—­ preparedStatementã€‚
 
-odajdbc.CannotGetPreparedStatementMetadata=ÎŞ·¨»ñµÃ preparedStatement ÔªÊı¾İ¡£
+odajdbc.CannotGetPreparedStatementMetadata=æ— æ³•è·å¾— preparedStatement å…ƒæ•°æ®ã€‚
 
-odajdbc.ResultSetCannotReturn=SQL Óï¾ä²»·µ»Ø ResultSet ¶ÔÏó¡£
+odajdbc.ResultSetCannotReturn=SQL è¯­å¥ä¸è¿”å› ResultSet å¯¹è±¡ã€‚
 
-odajdbc.QueryExecuteFail=SQL Óï¾ä²»·µ»Ø ResultSet ¶ÔÏó»ò¸üĞÂ¼ÆÊı¡£
+odajdbc.QueryExecuteFail=SQL è¯­å¥ä¸è¿”å› ResultSet å¯¹è±¡æˆ–æ›´æ–°è®¡æ•°ã€‚
 
-odajdbc.InvalidStoredPrecedure=´æ´¢¹ı³Ìµ÷ÓÃÓï¾äÎŞĞ§¡£
+odajdbc.InvalidStoredPrecedure=å­˜å‚¨è¿‡ç¨‹è°ƒç”¨è¯­å¥æ— æ•ˆã€‚
 
-odajdbc.PrepareStatement.CannotSetIntValue=ÎŞ·¨½« preparedStatement ²ÎÊıÉèÖÃÎªÕûÊıÖµ¡£
+odajdbc.PrepareStatement.CannotSetIntValue=æ— æ³•å°† preparedStatement å‚æ•°è®¾ç½®ä¸ºæ•´æ•°å€¼ã€‚
 
-odajdbc.PrepareStatement.CannotSetDoubleValue=ÎŞ·¨½« preparedStatement ²ÎÊıÉèÖÃÎªË«¾«¶ÈÖµ¡£
+odajdbc.PrepareStatement.CannotSetDoubleValue=æ— æ³•å°† preparedStatement å‚æ•°è®¾ç½®ä¸ºåŒç²¾åº¦å€¼ã€‚
 
-odajdbc.PrepareStatement.CannotSetBigDecimalValue=ÎŞ·¨½« preparedStatement ²ÎÊıÉèÖÃÎª´óÊ®½øÖÆÖµ¡£
+odajdbc.PrepareStatement.CannotSetBigDecimalValue=æ— æ³•å°† preparedStatement å‚æ•°è®¾ç½®ä¸ºå¤§åè¿›åˆ¶å€¼ã€‚
 
-odajdbc.PrepareStatement.CannotSetStringValue=ÎŞ·¨½« preparedStatement ²ÎÊıÉèÖÃÎª×Ö·û´®Öµ¡£
+odajdbc.PrepareStatement.CannotSetStringValue=æ— æ³•å°† preparedStatement å‚æ•°è®¾ç½®ä¸ºå­—ç¬¦ä¸²å€¼ã€‚
 
-odajdbc.PrepareStatement.CannotSetDateValue=ÎŞ·¨½« preparedStatement ²ÎÊıÉèÖÃÎªÈÕÆÚÖµ¡£
+odajdbc.PrepareStatement.CannotSetDateValue=æ— æ³•å°† preparedStatement å‚æ•°è®¾ç½®ä¸ºæ—¥æœŸå€¼ã€‚
 
-odajdbc.PrepareStatement.CannotSetTimeValue=ÎŞ·¨½« preparedStatement ²ÎÊıÉèÖÃÎªÊ±¼äÖµ¡£
+odajdbc.PrepareStatement.CannotSetTimeValue=æ— æ³•å°† preparedStatement å‚æ•°è®¾ç½®ä¸ºæ—¶é—´å€¼ã€‚
 
-odajdbc.PrepareStatement.CannotSetTimestampValue=ÎŞ·¨½« preparedStatement ²ÎÊıÉèÖÃÎªÊ±¼ä´ÁÖµ¡£
+odajdbc.PrepareStatement.CannotSetTimestampValue=æ— æ³•å°† preparedStatement å‚æ•°è®¾ç½®ä¸ºæ—¶é—´æˆ³å€¼ã€‚
 
-odajdbc.PrepareStatement.CannotSetBooleanValue=ÎŞ·¨ÉèÖÃ preparedStatement ²¼¶ûÖµ¡£
+odajdbc.PrepareStatement.CannotSetBooleanValue=æ— æ³•è®¾ç½® preparedStatement å¸ƒå°”å€¼ã€‚
 
-odajdbc.PrepareStatement.CannotSetNullValue=ÎŞ·¨ÉèÖÃ preparedStatement ¿ÕÖµ¡£
+odajdbc.PrepareStatement.CannotSetNullValue=æ— æ³•è®¾ç½® preparedStatement ç©ºå€¼ã€‚
 
-odajdbc.PrepareStatement.CannotGetParameterType=ÎŞ·¨´Ó²ÎÊıÔªÊı¾İÖĞ»ñµÃ²ÎÊıÀàĞÍ¡£
+odajdbc.PrepareStatement.CannotGetParameterType=æ— æ³•ä»å‚æ•°å…ƒæ•°æ®ä¸­è·å¾—å‚æ•°ç±»å‹ã€‚
 
-odajdbc.CannotGetParameterMetadata=ÎŞ·¨¼ìË÷²ÎÊıÔªÊı¾İ¡£
+odajdbc.CannotGetParameterMetadata=æ— æ³•æ£€ç´¢å‚æ•°å…ƒæ•°æ®ã€‚
 
-odajdbc.ClearParametersError=Çå³ıµ±Ç°²ÎÊıÖµÊ±³ö´í¡£
+odajdbc.ClearParametersError=æ¸…é™¤å½“å‰å‚æ•°å€¼æ—¶å‡ºé”™ã€‚
 
-odajdbc.missedUrlAndJndi=GetConnection: url ºÍ jndiNameUrl ¾ùÎª¿ÕÖµ¡£
+odajdbc.missedUrlAndJndi=GetConnection: url å’Œ jndiNameUrl å‡ä¸ºç©ºå€¼ã€‚
 
-odajdbc.error.emptyDriverClass=GetConnection: Çı¶¯³ÌĞòÀàÃû³ÆÎª¿ÕÖµ¡£
+odajdbc.error.emptyDriverClass=GetConnection: é©±åŠ¨ç¨‹åºç±»åç§°ä¸ºç©ºå€¼ã€‚
 
 #used in assert error
-odajdbc.driver.ConnNotOpen=Á¬½ÓÎ´´ò¿ª¡£
+odajdbc.driver.ConnNotOpen=è¿æ¥æœªæ‰“å¼€ã€‚
 
-odajdbc.driver.DriverMissingProperties=Connection.open(Properties) È±ÉÙÊôĞÔ¡£
+odajdbc.driver.DriverMissingProperties=Connection.open(Properties) ç¼ºå°‘å±æ€§ã€‚
 
-odajdbc.driver.ParameterMetadataCannotNull=ParameterMetaData ²»ÄÜÎª¿Õ¡£
+odajdbc.driver.ParameterMetadataCannotNull=ParameterMetaData ä¸èƒ½ä¸ºç©ºã€‚
 
-odajdbc.driver.ResultSetCannotNull=ResultSet ²»ÄÜÎª¿Õ¡£
+odajdbc.driver.ResultSetCannotNull=ResultSet ä¸èƒ½ä¸ºç©ºã€‚
 
-odajdbc.driver.ResultSetMetadataCannotNull=ResultSetMetaData ²»ÄÜÎª¿Õ¡£
+odajdbc.driver.ResultSetMetadataCannotNull=ResultSetMetaData ä¸èƒ½ä¸ºç©ºã€‚
 
-odajdbc.driver.StatementCannotNull=ÔÚÖ´ĞĞ´Ë²Ù×÷Ö®Ç°£¬ĞèÒª×¼±¸Óï¾ä¡£
+odajdbc.driver.StatementCannotNull=åœ¨æ‰§è¡Œæ­¤æ“ä½œä¹‹å‰ï¼Œéœ€è¦å‡†å¤‡è¯­å¥ã€‚
 
-odajdbc.CannotGetMaxQueries=ÎŞ·¨Í¨¹ı»ù´¡ JDBC Á¬½Ó»ñµÃ MaxStatements¡£
+odajdbc.CannotGetMaxQueries=æ— æ³•é€šè¿‡åŸºç¡€ JDBC è¿æ¥è·å¾— MaxStatementsã€‚
 
-odajdbc.CannotSetQueryTimeout=ÎŞ·¨ÔÚ»ù´¡ JDBC Óï¾äÖĞÉèÖÃ²éÑ¯³¬Ê±¡£
+odajdbc.CannotSetQueryTimeout=æ— æ³•åœ¨åŸºç¡€ JDBC è¯­å¥ä¸­è®¾ç½®æŸ¥è¯¢è¶…æ—¶ã€‚
 
-odajdbc.BadQueryProperty=²»Ö§³Ö²éÑ¯ÊôĞÔ: {0}¡£
+odajdbc.BadQueryProperty=ä¸æ”¯æŒæŸ¥è¯¢å±æ€§: {0}ã€‚
 
-odajdbc.CannotLoadDriverClass=ÎŞ·¨¼ÓÔØ JDBC Çı¶¯³ÌĞòÀà: {0}¡£
+odajdbc.CannotLoadDriverClass=æ— æ³•åŠ è½½ JDBC é©±åŠ¨ç¨‹åºç±»: {0}ã€‚
 
-odajdbc.CannotInstantiateDriverClass=ÎŞ·¨´´½¨ JDBC Çı¶¯³ÌĞòÀàµÄÊµÀı: {0}¡£
+odajdbc.CannotInstantiateDriverClass=æ— æ³•åˆ›å»º JDBC é©±åŠ¨ç¨‹åºç±»çš„å®ä¾‹: {0}ã€‚
 
-odajdbc.CannotInstantiateFactory=ÎŞ·¨´´½¨Çı¶¯³ÌĞòÀà "{1}" µÄÀ©Õ¹ÖĞ¶¨ÒåµÄÁ¬½Ó¹¤³§Àà "{0}" µÄÊµÀı¡£
+odajdbc.CannotInstantiateFactory=æ— æ³•åˆ›å»ºé©±åŠ¨ç¨‹åºç±» "{1}" çš„æ‰©å±•ä¸­å®šä¹‰çš„è¿æ¥å·¥å‚ç±» "{0}" çš„å®ä¾‹ã€‚
 
-odajdbc.jndi.InvalidJndiResource=ÕÒµ½ JNDI ×ÊÔ´ÀàĞÍ({0})£»ĞèÒª javax.sql.DataSource ÀàĞÍ¡£
+odajdbc.jndi.InvalidJndiResource=æ‰¾åˆ° JNDI èµ„æºç±»å‹({0})ï¼›éœ€è¦ javax.sql.DataSource ç±»å‹ã€‚
 
-odajdbc.testfail=²âÊÔÊ§°Ü
+odajdbc.testfail=æµ‹è¯•å¤±è´¥

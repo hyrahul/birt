@@ -11,32 +11,32 @@ Workbench_openFile = &Ouvrir un fichier...
 
 Workbench_new = &Nouveau
 
-Action_newReport = &Nouvel état...
+Action_newReport = &Nouvel Ã©tat...
 
-Action_openReport = &Ouvrir l'état...
+Action_openReport = &Ouvrir l'Ã©tat...
 
 # --- Edit Menu ---
 Workbench_edit = &Edition
 
 # --- Window Menu ---
-Workbench_window = &Fenêtre
+Workbench_window = &FenÃªtre
 
 Workbench_openPerspective = &Ouvrir la perspective
 
 Workbench_showView = Afficher la &vue
 
-Workbench_openNewWindow = &Nouvelle fenêtre
+Workbench_openNewWindow = &Nouvelle fenÃªtre
 
 # --- Help Menu ---
 Workbench_help = &Aide
 
-Action_newLibrary = &Nouvelle bibliothèque
+Action_newLibrary = &Nouvelle bibliothÃ¨que
 
-Action_openLibrary = &Ouvrir une bibliothèque
+Action_openLibrary = &Ouvrir une bibliothÃ¨que
 
-Action_newTemplate = &Nouveau modèle...
+Action_newTemplate = &Nouveau modÃ¨le...
 
-Action_openTemplate = &Ouvrir un modèle...
+Action_openTemplate = &Ouvrir un modÃ¨le...
 
 Dialog_openFile = Ouvrir un fichier
 
@@ -44,6 +44,6 @@ SaveAsWizardWindowTitle=Enregistrer sous
 
 SaveAsWizardPageTitle=Enregistrer sous
 
-SaveAsWizardPageDesc=Enregistrer le fichier à un autre emplacement.
+SaveAsWizardPageDesc=Enregistrer le fichier Ã  un autre emplacement.
 
-ReportSettingPageTitle=Définir les propriétés de page
+ReportSettingPageTitle=DÃ©finir les propriÃ©tÃ©s de page

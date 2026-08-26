@@ -25,9 +25,9 @@ Min.displayName=Minimum
 
 Max.displayName=Maximum
 
-WeightedAverage.displayName=Moyenne pondérée
+WeightedAverage.displayName=Moyenne pondÃ©rÃ©e
 
-Median.displayName=Médiane
+Median.displayName=MÃ©diane
 
 Mode.displayName=Mode
 

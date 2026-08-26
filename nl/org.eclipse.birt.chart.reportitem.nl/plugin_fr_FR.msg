@@ -12,4 +12,4 @@ preference.chart=Graphique
 
 menu.lable.chart=&Graphique
 
-preference.description=Insérer un élément du graphique.
+preference.description=InsÃ©rer un Ã©lÃ©ment du graphique.

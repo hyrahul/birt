@@ -11,78 +11,78 @@ Error.OutputFormatNotSupported=Le format de sortie {0}n''est pas pris en charge.
 
 Error.NullOutputFormat=OutputFormat pour l'option de rendu est nul.
 
-Error.InvalidParameter=Certaines valeurs de paramètres requises ne sont pas définies ou sont définies sur un type de données incompatible.
+Error.InvalidParameter=Certaines valeurs de paramÃ¨tres requises ne sont pas dÃ©finies ou sont dÃ©finies sur un type de donnÃ©es incompatible.
 
-Error.InvalidGroupParameter=Le moteur d'états n'a pas pu évaluer le groupe de paramètres nommé "{0}".
+Error.InvalidGroupParameter=Le moteur d'Ã©tats n'a pas pu Ã©valuer le groupe de paramÃ¨tres nommÃ© "{0}".
 
-Error.ParameterTypeIsInvalid=Le type de paramètre "{0}" est attendu sous la forme "{1}" et non "{2}".
+Error.ParameterTypeIsInvalid=Le type de paramÃ¨tre "{0}" est attendu sous la forme "{1}" et non "{2}".
 
-Error.ParamValidationFailure=Echec de la validation du paramètre "{0}".
+Error.ParamValidationFailure=Echec de la validation du paramÃ¨tre "{0}".
 
-Error.ParameterValueIsNull=Le paramètre requis {0} n'est pas défini.
+Error.ParameterValueIsNull=Le paramÃ¨tre requis {0} n'est pas dÃ©fini.
 
-Error.ParameterValueIsBlank=Le paramètre requis {0} est vierge.
+Error.ParameterValueIsBlank=Le paramÃ¨tre requis {0} est vierge.
 
-Error.ParamScriptValidationError=Erreur de validation de la source du script du paramètre "{0}".
+Error.ParamScriptValidationError=Erreur de validation de la source du script du paramÃ¨tre "{0}".
 
-Error.ParameterGroupIsNotFoundByGroupname=Le groupe de paramètres n'a pas été trouvé sous le nom "{0}".
+Error.ParameterGroupIsNotFoundByGroupname=Le groupe de paramÃ¨tres n'a pas Ã©tÃ© trouvÃ© sous le nom "{0}".
 
-Error.ParameterInvalidGroupLevel=Le niveau de compte du groupe "{0}" ne correspond pas à celui qui est spécifié.
+Error.ParameterInvalidGroupLevel=Le niveau de compte du groupe "{0}" ne correspond pas Ã  celui qui est spÃ©cifiÃ©.
 
-Error.InvalidDesignFile=Le fichier modèle {0} comporte une erreur et ne peut pas être exécuté.
+Error.InvalidDesignFile=Le fichier modÃ¨le {0} comporte une erreur et ne peut pas Ãªtre exÃ©cutÃ©.
 
-Error.DesignFileNotFound=Le fichier modèle {0} est introuvable.
+Error.DesignFileNotFound=Le fichier modÃ¨le {0} est introuvable.
 
-Error.CannotCreateExtensionInstance=L''initialisation de l''émetteur {0} par le moteur d''états a échoué, assurez-vous que les bibliothèques nécessaires à cet émetteur sont installées.
+Error.CannotCreateExtensionInstance=L''initialisation de l''Ã©metteur {0} par le moteur d''Ã©tats a Ã©chouÃ©, assurez-vous que les bibliothÃ¨ques nÃ©cessaires Ã  cet Ã©metteur sont installÃ©es.
 
 Error.MissingComputedColumnExpression=L''expression de la colonne de calcul {0} est manquante.
 
-Error.ParameterInGroupIsnotScalar=Les paramètres du groupe de paramètres "{0}" doivent être scalaires.
+Error.ParameterInGroupIsnotScalar=Les paramÃ¨tres du groupe de paramÃ¨tres "{0}" doivent Ãªtre scalaires.
 
-Error.ParameterEvaluationError=Echec de l'évaluation du groupe de paramètres "{0}".
+Error.ParameterEvaluationError=Echec de l'Ã©valuation du groupe de paramÃ¨tres "{0}".
 
 Error.InvalidEmitterID = EmitterID {0} pour l'option de rendu est nul.
 
 ###########################################################
-Error.ErrorsOnPage=Des erreurs sont survenues lors de la création de l'état :
+Error.ErrorsOnPage=Des erreurs sont survenues lors de la crÃ©ation de l'Ã©tat :
 
 Error.Error=Erreur
 
 Error.ScriptFileLoadError=Impossible de charger le fichier de script {0}.
 
-Error.ScriptEvaluationError=Des erreurs sont survenues lors de l'évaluation du script "{0}":\n{1}.
+Error.ScriptEvaluationError=Des erreurs sont survenues lors de l'Ã©valuation du script "{0}":\n{1}.
 
-Error.TextualItemProcessingError=Problème(s) de traitement de l''élément de texte {0}.
+Error.TextualItemProcessingError=ProblÃ¨me(s) de traitement de l''Ã©lÃ©ment de texte {0}.
 
-Error.TableItemProcessingError=Problème(s) de traitement de la table {0}.
+Error.TableItemProcessingError=ProblÃ¨me(s) de traitement de la table {0}.
 
-Error.ExtendedItemGenerationError=Problème(s) de création de l''élément étendu {0}.
+Error.ExtendedItemGenerationError=ProblÃ¨me(s) de crÃ©ation de l''Ã©lÃ©ment Ã©tendu {0}.
 
-Error.ExtendedItemRenderingError=Problème(s) de rendu {0} de l''élément étendu {1}.
+Error.ExtendedItemRenderingError=ProblÃ¨me(s) de rendu {0} de l''Ã©lÃ©ment Ã©tendu {1}.
 
-Error.GridItemProcessingError=Problème(s) de traitement de la grille {0}.
+Error.GridItemProcessingError=ProblÃ¨me(s) de traitement de la grille {0}.
 
-Error.ImageItemProcessingError=Problème(s) de traitement de l''image {0}.
+Error.ImageItemProcessingError=ProblÃ¨me(s) de traitement de l''image {0}.
 
 Error.MissingImageFileError=Fichier image manquant.
 
 Error.InvalidImageSourceError=Type de source d'image incorrect.
 
-Error.InvalidDatabaseImageError=Image de base de données incorrecte. L''expression de l''image est « {0} ».
+Error.InvalidDatabaseImageError=Image de base de donnÃ©es incorrecte. L''expression de l''image est Â« {0} Â».
 
-Error.EmbeddedExpressionError=Des erreurs sont survenues lors de l''évaluation de l''expression incorporée « {0} ».
+Error.EmbeddedExpressionError=Des erreurs sont survenues lors de l''Ã©valuation de l''expression incorporÃ©e Â« {0} Â».
 
-Error.EmbeddedImageError=Des erreurs sont survenues lors du traitement de l'image incorporée.
+Error.EmbeddedImageError=Des erreurs sont survenues lors du traitement de l'image incorporÃ©e.
 
-Error.HTMLImageError=Des erreurs sont survenues lors du traitement de l'image incorporée dans la balise HTML <img>.
+Error.HTMLImageError=Des erreurs sont survenues lors du traitement de l'image incorporÃ©e dans la balise HTML <img>.
 
-Error.UndefinedDatasetError=Le jeu de données "{0}" n''est pas défini dans l''état.
+Error.UndefinedDatasetError=Le jeu de donnÃ©es "{0}" n''est pas dÃ©fini dans l''Ã©tat.
 
 Error.InvalidExpressionError=L''expression "{0}" est incorrecte.
 
-Error.ListProcessingError=Problème(s) de traitement de l''élément de liste {0}.
+Error.ListProcessingError=ProblÃ¨me(s) de traitement de l''Ã©lÃ©ment de liste {0}.
 
-Error.ErrorOnReportPage=Les éléments suivants comportent des erreurs :
+Error.ErrorOnReportPage=Les Ã©lÃ©ments suivants comportent des erreurs :
 
 Error.ReportErrorMessage = {0} {1}:
 
@@ -90,24 +90,24 @@ Error.ReportErrorMessageWithID = {0} (id = {1}):
 
 Error.ReportErrorID = {0} ( {1} fois )
 
-Error.ReportErrorDetail = détails :
+Error.ReportErrorDetail = dÃ©tails :
 
 Error.JarNotFoundError = Jar {0} introuvable.
 
-Error.ScriptClassCastError = La classe {0} n'implémente pas l'interface {1}.
+Error.ScriptClassCastError = La classe {0} n'implÃ©mente pas l'interface {1}.
 
 Error.ScriptClassNotFoundError = Classe {0} introuvable.
 
 Error.ScriptClassIllegalAccessError = IllegalAccessException lors de la tentative de chargement de la classe {0}.
 
-Error.ScriptClassInstantiationError = La classe {0} n''a pas pu être instanciée. Vérifiez qu''il ne s''agit pas d''une interface ou d''une classe abstraite.
+Error.ScriptClassInstantiationError = La classe {0} n''a pas pu Ãªtre instanciÃ©e. VÃ©rifiez qu''il ne s''agit pas d''une interface ou d''une classe abstraite.
 
-Error.UnhandledScriptError = Exception non traitée lors de l'exécution du script.
+Error.UnhandledScriptError = Exception non traitÃ©e lors de l'exÃ©cution du script.
 
 ###########################################################
 Error.PageNotFoundError = Page {0} introuvable.
 
-Error.PageNumberRangeError = Série de pages incorrecte : {0}.
+Error.PageNumberRangeError = SÃ©rie de pages incorrecte : {0}.
 
 Error.PageHintLoadingError = Impossible de charger l'indicateur de page.
 
@@ -123,7 +123,7 @@ Error.InvalidInstanceIDError = ID d'instance incorrect : {0}.
 
 Error.InvalidBookmarkError = Signet incorrect : {0}.
 
-Error.ExpressionEvaluationError = L'expression de visibilité suivante ne correspond pas à une valeur booléenne autorisée : {0}.
+Error.ExpressionEvaluationError = L'expression de visibilitÃ© suivante ne correspond pas Ã  une valeur boolÃ©enne autorisÃ©e : {0}.
 
 Error.BookmarkNotFoundError = Signet introuvable : {0}.
 
@@ -131,74 +131,74 @@ Error.DateError = date : {0}.
 
 Error.CubePositionError = Obtenir l'erreur de position du cube.
 
-Error.SubqueryCreateError = La sous-requête ne peut être créée que dans une autre sous-requête / requête.
+Error.SubqueryCreateError = La sous-requÃªte ne peut Ãªtre crÃ©Ã©e que dans une autre sous-requÃªte / requÃªte.
 
-Error.BindDataRetrivingError = Récupération de l'erreur de liaison de données.
+Error.BindDataRetrivingError = RÃ©cupÃ©ration de l'erreur de liaison de donnÃ©es.
 
-Error.DataSourceError = La source de données du jeu de données ne peut pas être nulle.
+Error.DataSourceError = La source de donnÃ©es du jeu de donnÃ©es ne peut pas Ãªtre nulle.
 
-Error.UnsupportedQueryDefinitionError = Définition de requête non prise en charge {0}.
+Error.UnsupportedQueryDefinitionError = DÃ©finition de requÃªte non prise en charge {0}.
 
-Error.ReportQueryLoadingError = Erreur lors du chargement de la requête d'état. Impossible d'extraire les données pour générer l'état.
+Error.ReportQueryLoadingError = Erreur lors du chargement de la requÃªte d'Ã©tat. Impossible d'extraire les donnÃ©es pour gÃ©nÃ©rer l'Ã©tat.
 
-Error.ReportQueryLoadingError2 = Impossible de charger la requête d'état : {0}. Des erreurs sont survenues au cours de la génération de l'état pour l'élément d'état portant l'ID {1}.
+Error.ReportQueryLoadingError2 = Impossible de charger la requÃªte d'Ã©tat : {0}. Des erreurs sont survenues au cours de la gÃ©nÃ©ration de l'Ã©tat pour l'Ã©lÃ©ment d'Ã©tat portant l'ID {1}.
 
-Error.ExtentionIDMissingError = ID d'extension manquant dans la définition de la source de données {0}.
+Error.ExtentionIDMissingError = ID d'extension manquant dans la dÃ©finition de la source de donnÃ©es {0}.
 
-Error.DataExportionError = Echec de l'exportation des données par ID d'instance : {0}.
+Error.DataExportionError = Echec de l'exportation des donnÃ©es par ID d'instance : {0}.
 
-Error.UnsupportedDocumentVersionError = N° de version du document non pris en charge : {0}.
+Error.UnsupportedDocumentVersionError = NÂ° de version du document non pris en charge : {0}.
 
-Error.ResultsetIteratorError = L'itérateur du jeu de résultats doit être déplacé dans une ligne valide.
+Error.ResultsetIteratorError = L'itÃ©rateur du jeu de rÃ©sultats doit Ãªtre dÃ©placÃ© dans une ligne valide.
 
-Error.ReportDesignNotFoundError = Impossible de localiser le modèle d'état dans l'état {0}.
+Error.ReportDesignNotFoundError = Impossible de localiser le modÃ¨le d'Ã©tat dans l'Ã©tat {0}.
 
-Error.PreparedQueryNotFoundError = Impossible de localiser la requête préparée {0}.
+Error.PreparedQueryNotFoundError = Impossible de localiser la requÃªte prÃ©parÃ©e {0}.
 
-Error.IncorrectParentResultSetError = Jeu de résultats parents incorrect pour la sous-requête : {0}.
+Error.IncorrectParentResultSetError = Jeu de rÃ©sultats parents incorrect pour la sous-requÃªte : {0}.
 
-Error.UnsupportedQueryTypeError = Type de requête non pris en charge {0}.
+Error.UnsupportedQueryTypeError = Type de requÃªte non pris en charge {0}.
 
-Error.QueryNotBuiltError = Echec de la création d'une requête pour l'élément : {0}.
+Error.QueryNotBuiltError = Echec de la crÃ©ation d'une requÃªte pour l'Ã©lÃ©ment : {0}.
 
-Error.RenderTaskNotFinishedError = Tâche de rendu non terminée.
+Error.RenderTaskNotFinishedError = TÃ¢che de rendu non terminÃ©e.
 
-Error.RenderOptionError = Les options de rendu doivent être spécifiées pour rendre un état.
+Error.RenderOptionError = Les options de rendu doivent Ãªtre spÃ©cifiÃ©es pour rendre un Ã©tat.
 
-Error.ReportArchiveError = L'archive d'état n'est pas spécifiée lors de l'exécution d'un état.
+Error.ReportArchiveError = L'archive d'Ã©tat n'est pas spÃ©cifiÃ©e lors de l'exÃ©cution d'un Ã©tat.
 
-Error.ReportDocNameNotSpecifiedError = Le nom de l'état n'est pas spécifié lors de l'exécution d'un état.
+Error.ReportDocNameNotSpecifiedError = Le nom de l'Ã©tat n'est pas spÃ©cifiÃ© lors de l'exÃ©cution d'un Ã©tat.
 
-Error.ReportRunError = Une erreur s'est produite lors de l'exécution de l'état.
+Error.ReportRunError = Une erreur s'est produite lors de l'exÃ©cution de l'Ã©tat.
 
-Error.ReportDocmentOpenError = L'ouverture de l'état a échoué.
+Error.ReportDocmentOpenError = L'ouverture de l'Ã©tat a Ã©chouÃ©.
 
-Error.ReportArchiveOpenError = Impossible d'ouvrir l'archive d'état.
+Error.ReportArchiveOpenError = Impossible d'ouvrir l'archive d'Ã©tat.
 
-Error.SkipError = Une erreur s'est produite lorsque vous avez ignoré l'élément.
+Error.SkipError = Une erreur s'est produite lorsque vous avez ignorÃ© l'Ã©lÃ©ment.
 
-Error.ResultsetExtractError = Jeu de résultats introuvable.
+Error.ResultsetExtractError = Jeu de rÃ©sultats introuvable.
 
-Error.FailedToInitializeEmitter = Echec de l'initialisation de l'émetteur.
-
-###########################################################
-PDFCreator = Moteur d'états BIRT {0} utilisant iText ({1}).
+Error.FailedToInitializeEmitter = Echec de l'initialisation de l'Ã©metteur.
 
 ###########################################################
-Error.FlashObjectNotSupported = Les éléments d'état d'objet Flash ne sont pas pris en charge par ce format.
-
-Error.ReportItemNotSupported = L'élément d'état actuel n'est pas pris en charge par ce format.
-
-Error.ResourceUnreachable = La ressource de cet élément d'état est indisponible.
-
-Error.UpdateUserAgent = Activer la prise en charge Flash ou télécharger une version plus récente d'Adobe Reader pour afficher le contenu Flash des fichiers PDF.
+PDFCreator = Moteur d'Ã©tats BIRT {0} utilisant iText ({1}).
 
 ###########################################################
-Error.ReportRunnableNotSet = L'état exécutable n'est pas défini.
+Error.FlashObjectNotSupported = Les Ã©lÃ©ments d'Ã©tat d'objet Flash ne sont pas pris en charge par ce format.
 
-Error.FailedToLoadTOCTree = Echec du chargement de l'arborescence de la table des matières.
+Error.ReportItemNotSupported = L'Ã©lÃ©ment d'Ã©tat actuel n'est pas pris en charge par ce format.
 
-Error.ExceptionOnFetchingBookmarks = Exception lors de la récupération des signets.
+Error.ResourceUnreachable = La ressource de cet Ã©lÃ©ment d'Ã©tat est indisponible.
+
+Error.UpdateUserAgent = Activer la prise en charge Flash ou tÃ©lÃ©charger une version plus rÃ©cente d'Adobe Reader pour afficher le contenu Flash des fichiers PDF.
+
+###########################################################
+Error.ReportRunnableNotSet = L'Ã©tat exÃ©cutable n'est pas dÃ©fini.
+
+Error.FailedToLoadTOCTree = Echec du chargement de l'arborescence de la table des matiÃ¨res.
+
+Error.ExceptionOnFetchingBookmarks = Exception lors de la rÃ©cupÃ©ration des signets.
 
 Error.FailedToSaveDesign = Echec lors de l'enregistrement du design.
 
@@ -208,9 +208,9 @@ Error.UnsupportedCoreStreamVersion = Version de flux principal non prise en char
 
 Error.UnsupportedEngineExtension = Extension de moteur non pris en charge {0}.
 
-Error.FailToCreateDataEngine = Impossible de créer le moteur de données.
+Error.FailToCreateDataEngine = Impossible de crÃ©er le moteur de donnÃ©es.
 
-Error.FailedToCreateTOC = Echec de la création de la table des matières.
+Error.FailedToCreateTOC = Echec de la crÃ©ation de la table des matiÃ¨res.
 
 Error.UnsupportedExprssionType = Type d'expression non pris en charge.
 
@@ -223,7 +223,7 @@ Error.ResourceNotAccessible = {0} n'est pas accessible.
 Error.ERROR_WITH_STATUS=Le document contient des erreurs : {0}.
 
 ###########################################################
-Error.ElementID = ID de l'élément
+Error.ElementID = ID de l'Ã©lÃ©ment
 
 ###########################################################
-Message.TaskCancel = La tâche a été annulée.
+Message.TaskCancel = La tÃ¢che a Ã©tÃ© annulÃ©e.

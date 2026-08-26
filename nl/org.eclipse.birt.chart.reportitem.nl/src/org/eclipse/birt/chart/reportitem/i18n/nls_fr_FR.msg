@@ -1,108 +1,108 @@
-ChartCubeQueryHelper.Error.MustBindCube=Le graphique doit lier un cube à des données d'alimentation.
+ChartCubeQueryHelper.Error.MustBindCube=Le graphique doit lier un cube Ã  des donnÃ©es d'alimentation.
 
-ChartReportItemPresentationImpl.error.NoData=Le jeu de données lié au graphique n'a renvoyé aucune ligne.
+ChartReportItemPresentationImpl.error.NoData=Le jeu de donnÃ©es liÃ© au graphique n'a renvoyÃ© aucune ligne.
 
-ChartReportItemPresentationImpl.error.InvalidCubeBinding=Le jeu de données utilisé par ce graphique a été modifié. Le rendu de ce tableau ne peut plus être effectué.
+ChartReportItemPresentationImpl.error.InvalidCubeBinding=Le jeu de donnÃ©es utilisÃ© par ce graphique a Ã©tÃ© modifiÃ©. Le rendu de ce tableau ne peut plus Ãªtre effectuÃ©.
 
-ChartReportItemPresentationImpl.log.UnableToLocateWrapper=Impossible de localiser le wrapper d'élément d'état pour l'objet de graphique.
+ChartReportItemPresentationImpl.log.UnableToLocateWrapper=Impossible de localiser le wrapper d'Ã©lÃ©ment d'Ã©tat pour l'objet de graphique.
 
-ChartReportItemPresentationImpl.log.onRowSetsStart=ChartReportItemGenerationImpl: onRowSets(...) - début
+ChartReportItemPresentationImpl.log.onRowSetsStart=ChartReportItemGenerationImpl: onRowSets(...) - dÃ©but
 
-ChartReportItemPresentationImpl.log.onRowSetsBuilding=ChartReportItemPresentationImpl: onRowSets(...) - création du graphique
+ChartReportItemPresentationImpl.log.onRowSetsBuilding=ChartReportItemPresentationImpl: onRowSets(...) - crÃ©ation du graphique
 
 ChartReportItemPresentationImpl.log.WritingFile=Ecriture du fichier {0} sous {1}
 
-ChartReportItemPresentationImpl.exception.tmpPngFileCreation=Création du fichier PNG temporaire
+ChartReportItemPresentationImpl.exception.tmpPngFileCreation=CrÃ©ation du fichier PNG temporaire
 
-ChartReportItemPresentationImpl.log.PresentationUsesBoundsBo=La présentation utilise les limites : {0}
+ChartReportItemPresentationImpl.log.PresentationUsesBoundsBo=La prÃ©sentation utilise les limites : {0}
 
 ChartReportItemPresentationImpl.log.onRowSetsRendering=ChartReportItemPresentationImpl: onRowSets(...) - rendu du graphique
 
-ChartReportItemPresentationImpl.exception.inputStreamCreation=création du flux d'entrée
+ChartReportItemPresentationImpl.exception.inputStreamCreation=crÃ©ation du flux d'entrÃ©e
 
-ChartReportItemPresentationImpl.log.onRowSetsFailed=ChartReportItemPresentationImpl: onRowSets(...) - échec
+ChartReportItemPresentationImpl.log.onRowSetsFailed=ChartReportItemPresentationImpl: onRowSets(...) - Ã©chec
 
 ChartReportItemPresentationImpl.exception.UnexpectedError=Erreur inattendue
 
 ChartReportItemPresentationImpl.onRowSetsEnd=ChartReportItemPresentationImpl: onRowSets(...) - fin
 
-ChartReportItemPresentationImpl.log.getSizeStart=ChartReportItemPresentationImpl: getSize(...) - début
+ChartReportItemPresentationImpl.log.getSizeStart=ChartReportItemPresentationImpl: getSize(...) - dÃ©but
 
 ChartReportItemPresentationImpl.log.getSizeEnd=ChartReportItemPresentationImpl: getSize(...) - fin
 
-ChartReportItemPresentationImpl.log.SuccessfullyDeletedTemp=Le fichier {0} temporaire sous {1} a été supprimé.
+ChartReportItemPresentationImpl.log.SuccessfullyDeletedTemp=Le fichier {0} temporaire sous {1} a Ã©tÃ© supprimÃ©.
 
 ChartReportItemPresentationImpl.log.finishEnd=ChartReportItemPresentationImpl: finish(...) - fin
 
 ChartWithoutAxesImpl.exception.3DNotSupported=3D n'est pas pris en charge par ChartWithoutAxes.
 
-ChartReportItemPresentationImpl.log.finishStart=ChartReportItemPresentationImpl: finish(...) - début
+ChartReportItemPresentationImpl.log.finishStart=ChartReportItemPresentationImpl: finish(...) - dÃ©but
 
-ChartReportItemPresentationImpl.log.CouldNotDeleteTemp=Impossible de supprimer le fichier {0} temporaire créé sous {1}.
+ChartReportItemPresentationImpl.log.CouldNotDeleteTemp=Impossible de supprimer le fichier {0} temporaire crÃ©Ã© sous {1}.
 
 ChartReportItemQueryImpl.log.getReportQueries.exception=ChartReportItemQueryImpl: getReportQueries(...) - exception
 
 ChartReportItemQueryImpl.log.getReportQueries.end=ChartReportItemQueryImpl: getReportQueries(...) - fin
 
-ChartReportItemQueryImpl.log.getReportQueries.start=ChartReportItemQueryImpl: getReportQueries(...) - début
+ChartReportItemQueryImpl.log.getReportQueries.start=ChartReportItemQueryImpl: getReportQueries(...) - dÃ©but
 
-ChartReportItemQueryImpl.exception.getReportQueries=Récupération des requêtes d'état
+ChartReportItemQueryImpl.exception.getReportQueries=RÃ©cupÃ©ration des requÃªtes d'Ã©tat
 
-ChartReportItemQueryImpl.log.UnableToLocate=Impossible de localiser le wrapper d'élément d'état pour l'objet de graphique.
+ChartReportItemQueryImpl.log.UnableToLocate=Impossible de localiser le wrapper d'Ã©lÃ©ment d'Ã©tat pour l'objet de graphique.
 
 ChartReportItemImpl.log.validate=validation(...)
 
 ChartReportItemImpl.log.getProperty=getProperty(...) - {0}
-ChartReportItemImpl.log.CannotSetState=Impossible de définir l'état 'transposé' sur un graphique sans axes.
+ChartReportItemImpl.log.CannotSetState=Impossible de dÃ©finir l'Ã©tat 'transposÃ©' sur un graphique sans axes.
 
-ChartReportItemImpl.log.UnexpectedChoiceName=Détection d'un nom de choix inattendu :
+ChartReportItemImpl.log.UnexpectedChoiceName=DÃ©tection d'un nom de choix inattendu :
 
-ChartReportItemImpl.log.RequestForPropertyDefn=Réception de la requête concernant les définitions de propriétés avant la création du modèle.
+ChartReportItemImpl.log.RequestForPropertyDefn=RÃ©ception de la requÃªte concernant les dÃ©finitions de propriÃ©tÃ©s avant la crÃ©ation du modÃ¨le.
 
-ChartReportItemImpl.log.RequestForScriptPropertyDefn=Requête de définition de la propriété du script.
+ChartReportItemImpl.log.RequestForScriptPropertyDefn=RequÃªte de dÃ©finition de la propriÃ©tÃ© du script.
 
 ChartReportItemImpl.log.checkProperty=CheckProperty(...) - {0} avec la valeur {1}
 
 ChartReportItemImpl.log.setProperty=SetProperty(...) - {0} avec la valeur {1}
 
-QueryHelper.exception.UnexpectedNull=Définition de requête 'nulle' inattendue fournie par la structure d'extension - moteur/génération d'états.
+QueryHelper.exception.UnexpectedNull=DÃ©finition de requÃªte 'nulle' inattendue fournie par la structure d'extension - moteur/gÃ©nÃ©ration d'Ã©tats.
 
-QueryHelper.Text.CategroySeries=Série de catégories
+QueryHelper.Text.CategroySeries=SÃ©rie de catÃ©gories
 
-QueryHelper.Text.ValueSeries=Série de valeurs
+QueryHelper.Text.ValueSeries=SÃ©rie de valeurs
 
-QueryHelper.Text.XSeries=Série X
+QueryHelper.Text.XSeries=SÃ©rie X
 
-QueryHelper.Text.YSeries=Série Y
+QueryHelper.Text.YSeries=SÃ©rie Y
 
-QueryHelper.NoDataDefinitionFor=Aucune entrée de définition de données n'existe pour {0}.
+QueryHelper.NoDataDefinitionFor=Aucune entrÃ©e de dÃ©finition de donnÃ©es n'existe pour {0}.
 
-QueryHelper.dataDefnUndefined=Une entrée de définition de données pour {0} n'est pas définie.
+QueryHelper.dataDefnUndefined=Une entrÃ©e de dÃ©finition de donnÃ©es pour {0} n'est pas dÃ©finie.
 
-QueryHelper.InconsitentDataTypesForAxis=Toutes les définitions de données sur un même axe vertical doivent être du même type.
+QueryHelper.InconsitentDataTypesForAxis=Toutes les dÃ©finitions de donnÃ©es sur un mÃªme axe vertical doivent Ãªtre du mÃªme type.
 
-QueryHelper.InconsitentDataTypesForValueSeries=Toutes les définitions de données sur les séries de valeur doivent être du même type.
+QueryHelper.InconsitentDataTypesForValueSeries=Toutes les dÃ©finitions de donnÃ©es sur les sÃ©ries de valeur doivent Ãªtre du mÃªme type.
 
 ChartElementCommandImpl.editChart=Modifier le graphique
 
-ChartElementCommandImpl.setProperty.chart.dimension=Définir la dimension
+ChartElementCommandImpl.setProperty.chart.dimension=DÃ©finir la dimension
 
-ChartElementCommandImpl.setProperty.chart.instance=Définir le modèle de graphique
+ChartElementCommandImpl.setProperty.chart.instance=DÃ©finir le modÃ¨le de graphique
 
-ChartElementCommandImpl.setProperty.plot.transposed=Définir l'état Transposé
+ChartElementCommandImpl.setProperty.plot.transposed=DÃ©finir l'Ã©tat TransposÃ©
 
 ChartElementCommandImpl.setProperty.script=Modifier le script du graphique
 
 ChartElementCommandImpl.setProperty.onRender=Modifier le script du graphique
 
-ChartImpl.error.DimensionUnitNotSupported=L''unité de dimension ({0}) n''est pas prise en charge par l''API graphique simple
+ChartImpl.error.DimensionUnitNotSupported=L''unitÃ© de dimension ({0}) n''est pas prise en charge par l''API graphique simple
 
 ################################################
 # Display names for report model extension 
 ################################################
 Element.Chart=Graphique
 
-Element.Chart.xmlRepresentation=Modèle XML
+Element.Chart.xmlRepresentation=ModÃ¨le XML
 
 Element.Chart.outputFormat=Format de sortie
 
@@ -110,14 +110,14 @@ Element.Chart.action=Action
 
 Element.Chart.altText=Autre texte
 
-Element.Chart.altTextID=Clé d'autre texte
+Element.Chart.altTextID=ClÃ© d'autre texte
 
 
 choice.chart.dimension.two_dimensional=2D
 choice.chart.dimension.two_dimensional_with_depth=Profondeur 2D
 
 choice.chart.dimension.three_dimensional=3D
-property.category.general=Général
+property.category.general=GÃ©nÃ©ral
 
 property.category.types=Types
 
@@ -125,19 +125,19 @@ property.label.title.value=Titre :
 
 property.label.title.font.rotation=Rotation du titre :
 
-property.label.legend.position=Position de la légende :
+property.label.legend.position=Position de la lÃ©gende :
 
-property.label.legend.anchor=Ancre de la légende :
+property.label.legend.anchor=Ancre de la lÃ©gende :
 
 property.label.chart.dimension=Dimension :
 
-property.label.chart.plot.transposed=Transposé
+property.label.chart.plot.transposed=TransposÃ©
 
 property.script=Script
 
 property.onRender=onRender
 
-exception.no.cube.edge=Le curseur du cube de données n'a pas de bord. Vérifiez que les expressions des requêtes sont correctes.
+exception.no.cube.edge=Le curseur du cube de donnÃ©es n'a pas de bord. VÃ©rifiez que les expressions des requÃªtes sont correctes.
 
 exception.script.syntaxError=Erreur de syntaxe de script : {0}
 

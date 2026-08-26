@@ -1,19 +1,19 @@
-Connection.PropertiesMissing=Certaines propriétés de connexion sont manquantes.
+Connection.PropertiesMissing=Certaines propriÃ©tÃ©s de connexion sont manquantes.
 
 Connection.InvalidAppContext=AppContext incorrect.
 
 Constants.DriverName=Pilote XML ODA
 
-ResultSet.ResultSetClosed=Jeu de résultats fermé
+ResultSet.ResultSetClosed=Jeu de rÃ©sultats fermÃ©
 
-Query.QueryHasNotBeenPrepared=La requête n'a pas encore été préparée.
+Query.QueryHasNotBeenPrepared=La requÃªte n'a pas encore Ã©tÃ© prÃ©parÃ©e.
 
-Query.ResultSetClosed=Jeu de résultats fermé
+Query.ResultSetClosed=Jeu de rÃ©sultats fermÃ©
 
-Query.InvalidQueryText=Le texte de la requête est incorrect.
+Query.InvalidQueryText=Le texte de la requÃªte est incorrect.
 
-RelationInformation.InputStringCannotBeNull=La chaîne d'entrée ne peut être ni nulle ni vierge.
+RelationInformation.InputStringCannotBeNull=La chaÃ®ne d'entrÃ©e ne peut Ãªtre ni nulle ni vierge.
 
-RelationInformation.InvalidDataTypeName=Le nom du type de données fourni est incorrect.
+RelationInformation.InvalidDataTypeName=Le nom du type de donnÃ©es fourni est incorrect.
 
 DateUtil.ConvertFails=Echec de la conversion en date. Source :

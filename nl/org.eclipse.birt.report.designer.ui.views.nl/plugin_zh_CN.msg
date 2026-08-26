@@ -17,10 +17,10 @@ Build=@BUILD@
 ###############################################################################
 # General Info
 ###############################################################################
-QuickEditView=ÊôĞÔ±à¼­Æ÷
+QuickEditView=å±æ€§ç¼–è¾‘å™¨
 
-ReportViews=±¨±íÉè¼Æ
+ReportViews=æŠ¥è¡¨è®¾è®¡
 
-DataExplorerView=Êı¾İ×ÊÔ´¹ÜÀíÆ÷
+DataExplorerView=æ•°æ®èµ„æºç®¡ç†å™¨
 
-Variable.Actions=ĞÂ±äÁ¿(&V)
+Variable.Actions=æ–°å˜é‡(&V)

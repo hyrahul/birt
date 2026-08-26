@@ -23,12 +23,12 @@ OptionDisplayValue.EmbedHtml=Incorporer HTML
 
 ###########################################################
 #Option Description
-OptionDescription.ChartDpi=DPI utilisé pour générer un graphique.
+OptionDescription.ChartDpi=DPI utilisÃ© pour gÃ©nÃ©rer un graphique.
 
-OptionDescription.EmbedHtml=Autoriser DOCX à utiliser du code HTML incorporé
+OptionDescription.EmbedHtml=Autoriser DOCX Ã  utiliser du code HTML incorporÃ©
 
 ###########################################################
 #tooltip
-Tooltip.ChartDpi=DPI utilisé par le moteur de graphique pour générer des graphiques. Par exemple, 192.
+Tooltip.ChartDpi=DPI utilisÃ© par le moteur de graphique pour gÃ©nÃ©rer des graphiques. Par exemple, 192.
 
-Tooltip.EmbedHtml=Si le contenu HTML doit être directement incorporé à la sortie DOCX
+Tooltip.EmbedHtml=Si le contenu HTML doit Ãªtre directement incorporÃ© Ã  la sortie DOCX

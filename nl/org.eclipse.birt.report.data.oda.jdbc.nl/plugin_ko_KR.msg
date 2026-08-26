@@ -45,9 +45,9 @@ dataset.property.queryTimeOut=&Query Time Out (in seconds)
 
 dataset.property.rowFetchSize=&Row Fetch Size
 
-dataset.connection.autocommit.false=°ÅÁş
+dataset.connection.autocommit.false=ê±°ì§“
 
-dataset.connection.autocommit.true=Âü
+dataset.connection.autocommit.true=ì°¸
 
 dataset.connection.isolationmode.read-uncommitted=read-uncommitted
 
@@ -55,13 +55,13 @@ dataset.connection.isolationmode.read-committed=read-committed
 
 dataset.connection.isolationmode.repeatable-read=repeatable-read
 
-dataset.connection.isolationmode.serializable=Á÷·ÄÈ­
+dataset.connection.isolationmode.serializable=ì§ë ¬í™”
                
 #
 #  Below NLS messages apply to all ODA data sources; should be re-factored
 #
 oda.connection.factory.name=ODA Connection Factory
-datasource.property.ssl.trustStorePassword=TrustStore ¾ÏÈ£(&D):
+datasource.property.ssl.trustStorePassword=TrustStore ì•”í˜¸(&D):
 
-datasource.property.ssl.keyStorePassword=KeyStore ¾ÏÈ£(&Y):
+datasource.property.ssl.keyStorePassword=KeyStore ì•”í˜¸(&Y):
 

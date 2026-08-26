@@ -11,47 +11,47 @@
 
 ###########################################################
 #HTML Emitter
-HTMLEmitter.Description=ÅäÖÃÓÃÓÚÒÔ HTML (³¬ÎÄ±¾±ê¼ÇÓïÑÔ)¸ñÊ½³ÊÏÖ±¨±íµÄÑ¡Ïî¡£
+HTMLEmitter.Description=é…ç½®ç”¨äºä»¥ HTML (è¶…æ–‡æœ¬æ ‡è®°è¯­è¨€)æ ¼å¼å‘ˆç°æŠ¥è¡¨çš„é€‰é¡¹ã€‚
 
 HTMLEmitter.DisplayName=HTML
-XHTMLEmitter.Description=ÅäÖÃÓÃÓÚÒÔ XHTML ¸ñÊ½³ÊÏÖ±¨±íµÄÑ¡Ïî¡£
+XHTMLEmitter.Description=é…ç½®ç”¨äºä»¥ XHTML æ ¼å¼å‘ˆç°æŠ¥è¡¨çš„é€‰é¡¹ã€‚
 
 XHTMLEmitter.DisplayName=XHTML
 
 ###########################################################
 #Option Display Value
-OptionDisplayValue.AgentStyleEngine=½«ÑùÊ½´¦ÀíÎ¯ÍĞ¸øÓÃ»§´úÀí
+OptionDisplayValue.AgentStyleEngine=å°†æ ·å¼å¤„ç†å§”æ‰˜ç»™ç”¨æˆ·ä»£ç†
 
-OptionDisplayValue.Enable=ÆôÓÃ
+OptionDisplayValue.Enable=å¯ç”¨
 
-OptionDisplayValue.Disable=½ûÓÃ
+OptionDisplayValue.Disable=ç¦ç”¨
 
-OptionDisplayValue.OutputMasterPageMargins=Êä³öÖ÷Ò³±ß¾à
+OptionDisplayValue.OutputMasterPageMargins=è¾“å‡ºä¸»é¡µè¾¹è·
 
-OptionDisplayValue.MasterPageContent=Êä³öÒ³Ã¼ºÍÒ³½Å
+OptionDisplayValue.MasterPageContent=è¾“å‡ºé¡µçœ‰å’Œé¡µè„š
 
-OptionDisplayValue.PageFooterFloat=¸¡¶¯Ò³½Å
+OptionDisplayValue.PageFooterFloat=æµ®åŠ¨é¡µè„š
 
-OptionDisplayValue.LayoutPreference=²¼¾ÖÊ×Ñ¡Ïî:
+OptionDisplayValue.LayoutPreference=å¸ƒå±€é¦–é€‰é¡¹:
 
-OptionDisplayValue.FixedLayout=¹Ì¶¨²¼¾Ö
+OptionDisplayValue.FixedLayout=å›ºå®šå¸ƒå±€
 
-OptionDisplayValue.AutoLayout=×Ô¶¯²¼¾Ö
+OptionDisplayValue.AutoLayout=è‡ªåŠ¨å¸ƒå±€
 
-OptionDisplayValue.HTMLType=Êä³öÀàĞÍ:
+OptionDisplayValue.HTMLType=è¾“å‡ºç±»å‹:
 
-OptionDisplayValue.CompleteHTML=Íê³É HTML
+OptionDisplayValue.CompleteHTML=å®Œæˆ HTML
 
-OptionDisplayValue.HTMLNoCSS=ÎŞ CSS µÄ HTML
+OptionDisplayValue.HTMLNoCSS=æ—  CSS çš„ HTML
 
 ###########################################################
 #Option Description
-OptionDescription.AgentStyleEngine=Õæ: ±íÊ¾ HTML ·¢ÉäÆ÷»áÖ±½Ó½« BIRT ÑùÊ½Êä³öµ½±¨±í£¬²¢ÒÀÀµÓÚä¯ÀÀÆ÷ÊµÊ©ÑùÊ½¼ÆËã¡£\n¼Ù: ±íÊ¾ HTML ·¢ÉäÆ÷½«Ê¹ÓÃ BIRT ÑùÊ½ÒıÇæ¼ÆËãÑùÊ½£¬²¢½«½á¹ûÊä³öµ½±¨±í¡£
+OptionDescription.AgentStyleEngine=çœŸ: è¡¨ç¤º HTML å‘å°„å™¨ä¼šç›´æ¥å°† BIRT æ ·å¼è¾“å‡ºåˆ°æŠ¥è¡¨ï¼Œå¹¶ä¾èµ–äºæµè§ˆå™¨å®æ–½æ ·å¼è®¡ç®—ã€‚\nå‡: è¡¨ç¤º HTML å‘å°„å™¨å°†ä½¿ç”¨ BIRT æ ·å¼å¼•æ“è®¡ç®—æ ·å¼ï¼Œå¹¶å°†ç»“æœè¾“å‡ºåˆ°æŠ¥è¡¨ã€‚
 
-OptionDescription.OutputMasterPageMargins=Êä³ö×Ô¶¯²¼¾Ö±¨±íµÄÖ÷Ò³±ß¾à¡£
+OptionDescription.OutputMasterPageMargins=è¾“å‡ºè‡ªåŠ¨å¸ƒå±€æŠ¥è¡¨çš„ä¸»é¡µè¾¹è·ã€‚
 
-OptionDescription.MasterPageContent=°üº¬Ò³Ã¼ºÍÒ³½Å£¬½öÔÚÆôÓÃ·ÖÒ³Ê±ÉúĞ§¡£
+OptionDescription.MasterPageContent=åŒ…å«é¡µçœ‰å’Œé¡µè„šï¼Œä»…åœ¨å¯ç”¨åˆ†é¡µæ—¶ç”Ÿæ•ˆã€‚
 
-OptionDescription.PageFooterFloat=¸¡¶¯Ò³½Å£¬½öÔÚÆôÓÃ·ÖÒ³Ê±ÉúĞ§¡£
+OptionDescription.PageFooterFloat=æµ®åŠ¨é¡µè„šï¼Œä»…åœ¨å¯ç”¨åˆ†é¡µæ—¶ç”Ÿæ•ˆã€‚
 
-OptionDescription.HTMLType=HTML ÀàĞÍ¡£
+OptionDescription.HTMLType=HTML ç±»å‹ã€‚

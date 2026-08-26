@@ -4,7 +4,7 @@ birt.web.project.name=Webprojekt mit Diagramm-Runtime
 
 birt.web.project.description=Ein Webprojekt mit der BIRT-Diagrammkomponente erstellen
 
-birt.web.actionsets.description=Aktionen für BIRT-Diagramm-Webprojekt
+birt.web.actionsets.description=Aktionen fÃ¼r BIRT-Diagramm-Webprojekt
 
 create.birt.web.module=BIRT-Diagramm-Webmodul erstellen
 
@@ -20,7 +20,7 @@ JSP_New_context_type_Extension_Element.name=Neue JSP mit BIRT-Diagramm-Tag
 
 JSP_Tag_context_type_Extension_Element.name=Neuer BIRT-Diagramm-JSP-Tag
 
-birtResourcesDefinition= Ressourcendefinition für Diagramm-Webanwendung
+birtResourcesDefinition= Ressourcendefinition fÃ¼r Diagramm-Webanwendung
 
 birt.action.importruntime.name=&Diagramm-Runtime-Komponente importieren...
 

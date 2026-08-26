@@ -6,7 +6,7 @@ AddLevelHandleAction_TransName=Gruppenebenen einblenden/ausblenden
 
 AddMesureViewHandleAction.DisplayName=&Einheiten einblenden/ausblenden
 
-AddMesureViewHandleAction.TransName=Maﬂeinheiten einblenden/ausblenden
+AddMesureViewHandleAction.TransName=Ma√üeinheiten einblenden/ausblenden
 
 AddSubTotalAction.LabelName=Gesamtsumme
 
@@ -18,19 +18,19 @@ AddSubTotalAction.TotalName=GESAMT
 
 CrosstabMenuBuilder.EditCubeAction.DisplayName=Datenquader &bearbeiten
 
-DeleteDimensionViewHandleAction.TransName=Dimension lˆschen
+DeleteDimensionViewHandleAction.TransName=Dimension l√∂schen
 
 DeleteDimensionViewHandleAction.DisplayName=Entf&ernen
 
 DeleteMeasureHandleAction.DisplayName=Entf&ernen
 
-DeleteMeasureHandleAction.TransName=Maﬂeinheit lˆschen
+DeleteMeasureHandleAction.TransName=Ma√üeinheit l√∂schen
 
-AddComputedMesureHandleAction.DisplayName=Abgeleitete &Maﬂeinheit hinzuf¸gen
+AddComputedMesureHandleAction.DisplayName=Abgeleitete &Ma√üeinheit hinzuf√ºgen
 
-AddComputedMesureHandleAction.TransName=Abgeleitete Maﬂeinheit hinzuf¸gen
+AddComputedMesureHandleAction.TransName=Abgeleitete Ma√üeinheit hinzuf√ºgen
 
-AddComputedSummaryDialog.Title=Abgeleitete Maﬂeinheit
+AddComputedSummaryDialog.Title=Abgeleitete Ma√üeinheit
 
 AddComputedSummaryDialog.Label.Name=&Name:
 
@@ -48,33 +48,33 @@ ShowAsViewAction.DisplayName=Anzeigen als
 
 ShowAsViewAction.TransName=Anzeigen als
 
-MeasureComboPropertyDescriptorProvider.TransName=Kreuztabellen-Ausrichtung ‰ndern
+MeasureComboPropertyDescriptorProvider.TransName=Kreuztabellen-Ausrichtung √§ndern
 
-MeasureHandleDropAdapter_trans_name=Maﬂeinheit hinzuf¸gen
+MeasureHandleDropAdapter_trans_name=Ma√üeinheit hinzuf√ºgen
 
 ###########################################################
 # Crosstab Command trans name
-AddDimensionViewHandleCommand.TransName=Dimension hinzuf¸gen
+AddDimensionViewHandleCommand.TransName=Dimension hinzuf√ºgen
 
-AddMeasureViewHandleCommand.TransName=Maﬂeinheit hinzuf¸gen
+AddMeasureViewHandleCommand.TransName=Ma√üeinheit hinzuf√ºgen
 
-AddRelativeTimePeriodAction_action_label=Re&lative Zeitperiode hinzuf¸gen
+AddRelativeTimePeriodAction_action_label=Re&lative Zeitperiode hinzuf√ºgen
 
-AddRelativeTimePeriodAction_trans_label=Relatives Zeitintervall hinzuf¸gen
+AddRelativeTimePeriodAction_trans_label=Relatives Zeitintervall hinzuf√ºgen
 
 ChangeAreaCommand.TransName=Dimension verwerfen
 
-ChangeMeasureOrderCommand.TransName=Reihenfolge der Maﬂeinheiten ‰ndern
+ChangeMeasureOrderCommand.TransName=Reihenfolge der Ma√üeinheiten √§ndern
 
 CreateDimensionViewCommand.TransName=Dimension erstellen
 
-CreateMeasureViewCommand.TransName=Maﬂeinheit erstellen
+CreateMeasureViewCommand.TransName=Ma√üeinheit erstellen
 
 MergeCrosstabHeaderCellAction_name=&Kopfzeilen verbinden
 
 SplitCrosstabHeadCellAction_name=Kopfzeile &teilen
 
-ExtendedDataColumnXtabDropAdapter.trans.add={0} hinzuf¸gen
+ExtendedDataColumnXtabDropAdapter.trans.add={0} hinzuf√ºgen
 
 ###########################################################
 # Crosstab EditPart
@@ -113,9 +113,9 @@ SubTotalProvider.ShowAs=Anzeigen als {0}
 
 LevelViewDialog.Title=Gruppenebenen einblenden/ausblenden
 
-LevelViewDialog.Label.Info=Ebenen zum Anzeigen in Kreuztabelle ausw‰hlen:
+LevelViewDialog.Label.Info=Ebenen zum Anzeigen in Kreuztabelle ausw√§hlen:
 
-LevelViewDialog.Button.Regular.Text=&Regul‰re Gruppe
+LevelViewDialog.Button.Regular.Text=&Regul√§re Gruppe
 
 LevelViewDialog.Button.Date.Text=&Datumsgruppe
 
@@ -129,9 +129,9 @@ AggregationDialog.TabItem.Title.RowArea=Zeilenbereich
 
 AggregationDialog.TabItem.Title.ColumnArea=Spaltenbereich
 
-ShowSummaryFieldDialog.Title=Maﬂeinheiten einblenden/ausblenden
+ShowSummaryFieldDialog.Title=Ma√üeinheiten einblenden/ausblenden
 
-ShowSummaryFieldDialog.Label.Info=Einheiten zum Anzeigen in Kreuztabelle ausw‰hlen:
+ShowSummaryFieldDialog.Label.Info=Einheiten zum Anzeigen in Kreuztabelle ausw√§hlen:
 
 ShowSummaryFieldDialog.Column.Measures=Einheiten
 
@@ -141,7 +141,7 @@ ShowSummaryFieldDialog.ViewStatus=Aktuelle Ansicht beibehalten
 
 DeleteBindingDialog.Title=Nicht verwendete Bindungen entfernen?
 
-DeleteBindingDialog.Message=Dieser Vorgang f¸hrt zu nicht verwendeten Datenbindungen.\n\nMˆchten Sie nicht verwendete Bindungen entfernen?
+DeleteBindingDialog.Message=Dieser Vorgang f√ºhrt zu nicht verwendeten Datenbindungen.\n\nM√∂chten Sie nicht verwendete Bindungen entfernen?
 
 DeleteBindingDialog.ToggleMessage=Antwort speiche&rn
 ###########################################################
@@ -172,19 +172,19 @@ CrosstabSortingModelProvider.ColumnName.GroupLevel=Gruppenebene
 
 SortkeyBuilder.DialogTitle.Error.SetSortKey.Title=Fehler
 
-SortkeyBuilder.DialogTitle.Label.Key=&Schl¸ssel:
+SortkeyBuilder.DialogTitle.Label.Key=&Schl√ºssel:
 
 CrosstabFilterModelProvider.ColumnName.GroupLevelOrMeasure=Ziel
 
 CrosstabSortkeyBuilder.DialogTitle.Label.GroupLevel=&Gruppenebene:
 
-SortkeyBuilder.DialogTitle.Button.ExpressionBuilder=Zum ÷ffnen der Ausdruckserstellung hier klicken
+SortkeyBuilder.DialogTitle.Button.ExpressionBuilder=Zum √ñffnen der Ausdruckserstellung hier klicken
 
 SortkeyBuilder.DialogTitle.Label.Direction=&Richtung:
 
 SortkeyBuilder.Label.Locale=&Gebietsschema:
 
-SortkeyBuilder.Label.Strength=&St‰rke:
+SortkeyBuilder.Label.Strength=&St√§rke:
 
 SortkeyBuilder.Locale.Auto=Automatisch
 
@@ -206,7 +206,7 @@ CrosstabPageGenerator.List.TOC=Inhaltsverzeichnis
 
 CrosstabPageGenerator.List.Bookmark=Lesezeichen
 
-CrosstabPageGenerator.List.NamedExpressions=Benannte Ausdr¸cke
+CrosstabPageGenerator.List.NamedExpressions=Benannte Ausdr√ºcke
 
 CrosstabPageGenerator.List.UserProperties=Benutzereigenschaften
 
@@ -234,7 +234,7 @@ CrosstabGeneralPage.ForEmptyCell=Leere Zellen anzeigen &als:
 
 LayoutMeasuresSection.DisplayName=Aus&richtung:
 
-CrosstabGeneralPage.HideMeasureHeader=Maﬂein&heiten-Kopfzeile ausblenden
+CrosstabGeneralPage.HideMeasureHeader=Ma√üein&heiten-Kopfzeile ausblenden
 
 ###########################################################
 #CrosstabEventHandlerPage properties
@@ -254,7 +254,7 @@ FilterHandleProvider.Label.Filterby=Filtern nach:
 
 ###########################################################
 #EmptyRowColumnProvider properties
-EmptyRowColumnPage.Label.Text=Aktivieren Sie das Kontrollk‰stchen, wenn leere Zeilen und Spalten auf der Kreuztabellenebene angezeigt werden sollen
+EmptyRowColumnPage.Label.Text=Aktivieren Sie das Kontrollk√§stchen, wenn leere Zeilen und Spalten auf der Kreuztabellenebene angezeigt werden sollen
 
 EmptyRowColumnProvider.RowView.Button.Text=Leere &Zeilen anzeigen
 
@@ -277,7 +277,7 @@ FilterConditionBuilder.DialogTitle.Edit=Filterbedingung bearbeiten
 
 FilterConditionBuilder.choice.ValueOfThisDataItem=Wert dieses Datenelements
 
-FilterConditionBuilder.tooltip.ExpBuilder=Zum ÷ffnen der Ausdruckserstellung hier klicken.
+FilterConditionBuilder.tooltip.ExpBuilder=Zum √ñffnen der Ausdruckserstellung hier klicken.
 
 FilterConditionBuilder.text.AND=UND
 
@@ -293,27 +293,27 @@ FilterConditionBuilder.button.delete=Ent&fernen
 
 FilterConditionBuilder.button.deleteall=Alle entf&ernen
 
-FilterConditionBuilder.button.add=&Hinzuf¸gen
+FilterConditionBuilder.button.add=&Hinzuf√ºgen
 
-FilterConditionBuilder.button.edit.tooltip=Ausgew‰hlten Wert in Werteliste bearbeiten
+FilterConditionBuilder.button.edit.tooltip=Ausgew√§hlten Wert in Werteliste bearbeiten
 
-FilterConditionBuilder.button.delete.tooltip=Ausgew‰hlten Wert aus Liste lˆschen
+FilterConditionBuilder.button.delete.tooltip=Ausgew√§hlten Wert aus Liste l√∂schen
 
-FilterConditionBuilder.button.deleteall.tooltip=Alle Werte aus Liste lˆschen
+FilterConditionBuilder.button.deleteall.tooltip=Alle Werte aus Liste l√∂schen
 
-FilterConditionBuilder.button.add.tooltip=Wert zur Werteliste hinzuf¸gen
+FilterConditionBuilder.button.add.tooltip=Wert zur Werteliste hinzuf√ºgen
 
 CrosstabFilterConditionBuilder.Item.Decorator=--------
 
 CrosstabFilterConditionBuilder.Button.Detal=&Detail
 
-CrosstabFilterConditionBuilder.Item.SelectLevel=---Ebene ausw‰hlen---
+CrosstabFilterConditionBuilder.Item.SelectLevel=---Ebene ausw√§hlen---
 
-CrosstabFilterConditionBuilder.Item.SelectMeasure=---Messgrˆﬂe ausw‰hlen---
+CrosstabFilterConditionBuilder.Item.SelectMeasure=---Messgr√∂√üe ausw√§hlen---
 
-CrosstabFilterConditionBuilder.DialogMessage.New=W‰hlen Sie die Zielgruppenebene oder Maﬂeinheit, auf die der Filter angewendet werden soll, und legen Sie dann die Filterbedingung fest.
+CrosstabFilterConditionBuilder.DialogMessage.New=W√§hlen Sie die Zielgruppenebene oder Ma√üeinheit, auf die der Filter angewendet werden soll, und legen Sie dann die Filterbedingung fest.
 
-CrosstabFilterConditionBuilder.DialogMessage.Edit=W‰hlen Sie die Zielgruppenebene oder Maﬂeinheit, auf die der Filter angewendet werden soll, und legen Sie dann die Filterbedingung fest.
+CrosstabFilterConditionBuilder.DialogMessage.Edit=W√§hlen Sie die Zielgruppenebene oder Ma√üeinheit, auf die der Filter angewendet werden soll, und legen Sie dann die Filterbedingung fest.
 
 CrosstabFilterConditionBuilder.label.value=Wert
 
@@ -321,11 +321,11 @@ CrosstabFilterConditionBuilder.Label.Target=Ziel:
 
 CrosstabFilterConditionBuilder.Button.GroupLevel=&Gruppenebene
 
-CrosstabFilterConditionBuilder.Button.Measure=Maﬂ&einheit
+CrosstabFilterConditionBuilder.Button.Measure=Ma√ü&einheit
 
 CrosstabFilterConditionBuilder.Button.Cube=&Quader
 
-FilterbyTree.Bindings.Catogory.Measures=Maﬂeinheit
+FilterbyTree.Bindings.Catogory.Measures=Ma√üeinheit
 
 FilterbyTree.Bindings.Catogory.Dimension=Dimension
 
@@ -390,7 +390,7 @@ CrosstabPageBreakDialog.Text.PageBreakAfter=&Nachher:
 
 CrosstabPageBreakDialog.Text.PageBreakInside=&Innen:
 
-CrosstabPageBreakDialog.Text.PageBreakInterval=&Intervall f¸r Seitenumbruch:
+CrosstabPageBreakDialog.Text.PageBreakInterval=&Intervall f√ºr Seitenumbruch:
 
 ###########################################################
 #SubTotalDialog
@@ -412,31 +412,31 @@ CrosstabPageGenerator.List.PageBreak=Seitenumbruch
 
 PageLayoutPropertyDescriptorProvider.PageLayout=Seitenlayout:
 
-RowPageBreak.RepeatColumnHeader=&Spalten¸berschrift wiederholen
+RowPageBreak.RepeatColumnHeader=&Spalten√ºberschrift wiederholen
 
-ColumnPageBreak.RepeatRowHeader=Zeilen¸berschrift wieder&holen
+ColumnPageBreak.RepeatRowHeader=Zeilen√ºberschrift wieder&holen
 
 ###########################################################
 #ExpressionValueCellEditor properties
-ExpressionValueCellEditor.buildExpressionAction=<Ausdruckserstellung†...>
+ExpressionValueCellEditor.buildExpressionAction=<Ausdruckserstellung¬†...>
 
-ExpressionValueCellEditor.selectValueAction=<Wert ausw‰hlen†...>
+ExpressionValueCellEditor.selectValueAction=<Wert ausw√§hlen¬†...>
 
 ExpressionValueCellEditor.filterBy=<Filtern nach...>
 
-ExpressionValueCellEditor.title=Wert ausw‰hlen
+ExpressionValueCellEditor.title=Wert ausw√§hlen
 
-CrosstabSortKeyBuilder.Label.SelColumnMemberValue=Mitgliedswert der Spalte ausw‰hlen
+CrosstabSortKeyBuilder.Label.SelColumnMemberValue=Mitgliedswert der Spalte ausw√§hlen
 
-CrosstabSortKeyBuilder.Label.SelRowMemberValue=Mitgliedswert der Zeile ausw‰hlen
+CrosstabSortKeyBuilder.Label.SelRowMemberValue=Mitgliedswert der Zeile ausw√§hlen
 
-CrosstabFilterConditionBuilder.Label.SelColumnMemberValue=Mitgliedswert der Spalte ausw‰hlen
+CrosstabFilterConditionBuilder.Label.SelColumnMemberValue=Mitgliedswert der Spalte ausw√§hlen
 
-CrosstabFilterConditionBuilder.Label.SelRowMemberValue=Mitgliedswert der Zeile ausw‰hlen
+CrosstabFilterConditionBuilder.Label.SelRowMemberValue=Mitgliedswert der Zeile ausw√§hlen
 
 CrosstabFilterConditionBuilder.DialogTitle.Label.GroupLevel=Gruppen&ebene:
 
-CrosstabFilterConditionBuilder.DialogTitle.Label.Measure=Maﬂei&nheit:
+CrosstabFilterConditionBuilder.DialogTitle.Label.Measure=Ma√üei&nheit:
 
 SelColumnMemberValue.Column.Level=Ebene
 
@@ -448,15 +448,15 @@ ChoiceSetFactory.choice.None=Ohne
 #SelectValueDialog properties
 SelectValueDialog.errorRetrievinglist=Fehler beim Abrufen der Liste
 
-SelectValueDialog.messages.error.selectVauleUnavailable=Der Wert f¸r den Ausdruck kann nicht abgerufen werden.
+SelectValueDialog.messages.error.selectVauleUnavailable=Der Wert f√ºr den Ausdruck kann nicht abgerufen werden.
 
 SelectValueDialog.noExpressionSet=Ein Ausdruck wurde nicht angegeben.
 
-SelectValueDialog.retrieving=Liste wird abgerufen†...
+SelectValueDialog.retrieving=Liste wird abgerufen¬†...
 
-SelectValueDialog.selectValue=Wert ausw‰hlen
+SelectValueDialog.selectValue=Wert ausw√§hlen
 
-SelectValueDialog.messages.info.selectVauleUnavailable=Werteliste ist nicht verf¸gbar.
+SelectValueDialog.messages.info.selectVauleUnavailable=Werteliste ist nicht verf√ºgbar.
 
 CrosstabPreferencePage.Title=Kreuztabelle
 
@@ -464,9 +464,9 @@ CrosstabPreferencePage.filterLimit=Filter-Limit
 
 CrosstabPreferencePage.filterLimit.prompt=Maximale Anzahl anzuzeigender &Werte:
 
-CrosstabPreferencePage.Error.MaxRowInvalid=Der numerische Wert ist ung¸ltig.
+CrosstabPreferencePage.Error.MaxRowInvalid=Der numerische Wert ist ung√ºltig.
 
-CrosstabPreferencePage.autoDelBindings.Text=Nicht verwendete Bindungen nach ƒnderungen an der Kreuztabellenstruktur entfernen
+CrosstabPreferencePage.autoDelBindings.Text=Nicht verwendete Bindungen nach √Ñnderungen an der Kreuztabellenstruktur entfernen
 
 CrosstabPreferencePage.autoDelBindings.Text.Prompt=&Eingabeaufforderung
 
@@ -480,9 +480,9 @@ CrosstabPreferencePage.cubePopup.Text=&Hinweis nach Verschieben von Feldern in K
 
 ###########################################################
 #Crosstab DataBinding properties
-CrosstabDataBinding.title.ChangeCube=Quader ‰ndern?
+CrosstabDataBinding.title.ChangeCube=Quader √§ndern?
 
-CrosstabDataBinding.message.changeCube=Sie sind im Begriff, die Datenbindung der Kreuztabelle zu ‰ndern.\n\nMˆchten Sie alle bestehenden Datenspaltenbindungen lˆschen?
+CrosstabDataBinding.message.changeCube=Sie sind im Begriff, die Datenbindung der Kreuztabelle zu √§ndern.\n\nM√∂chten Sie alle bestehenden Datenspaltenbindungen l√∂schen?
 
 ###########################################################
 #Crosstab DropAdapter properties
@@ -490,17 +490,17 @@ DataColumnXTabDropAdapter.DataCube=Datenquader
 
 CubeBuilder.warning.title=Kreuztabelle
 
-CubeBuilder.warning.message=Ein Datenquader wurde erfolgreich erstellt.\nUm die Erstellung einer Kreuztabelle abzuschlieﬂen, ziehen Sie die Felder vom erstellten Datenquader in den Kreuztabellen-Container.
+CubeBuilder.warning.message=Ein Datenquader wurde erfolgreich erstellt.\nUm die Erstellung einer Kreuztabelle abzuschlie√üen, ziehen Sie die Felder vom erstellten Datenquader in den Kreuztabellen-Container.
 
 CubeBuilder.warning.prompt=&Diese Meldung nicht wieder anzeigen
 
 ###########################################################
 #Crosstab drag tracker
-CrosstabColumnDragTracker.ResizeColumn=Spaltengrˆﬂe anpassen
+CrosstabColumnDragTracker.ResizeColumn=Spaltengr√∂√üe anpassen
 
 CrosstabColumnDragTracker.Show.Label=Breite:
 
-CrosstabRowDragTracker.Show.Label=Hˆhe:
+CrosstabRowDragTracker.Show.Label=H√∂he:
 
 ###########################################################
 #AggregationCellTextViewProvider
@@ -511,13 +511,13 @@ AggregationCellTextViewProvider.displayName=Text
 #CrosstabSortKeyBuilder properties
 CrosstabSortKeyBuilder.choice.ValueOfThisDataItem=Wert dieses Datenelements
 
-CrosstabSortKeyBuilder.tooltip.ExpBuilder=Ausdruckserstellung ˆffnen
+CrosstabSortKeyBuilder.tooltip.ExpBuilder=Ausdruckserstellung √∂ffnen
 
 CrosstabSortKeyBuilder.MSG.CreateNew=Neu...
 
 InsertCubeInLayoutAction.menu.text=&Bearbeiten
 
-InsertCubeInLayoutAction.action.text=In Layout ei&nf¸gen
+InsertCubeInLayoutAction.action.text=In Layout ei&nf√ºgen
 
 InsertCubeInLayoutAction.action.message=Kreuztabelle aus Quader erstellen
 
@@ -525,7 +525,7 @@ MapRuleBuilderDialog.MsgDlg.Title=Warnung
 
 MapRuleBuilderDialog.MsgDlg.Msg=Der Wert darf nicht leer sein.
 
-LevelHandleDropAdapter.ActionText=Dimension hinzuf¸gen
+LevelHandleDropAdapter.ActionText=Dimension hinzuf√ºgen
 
 LevelPropertyDialog.MSG.CreateNew=
 

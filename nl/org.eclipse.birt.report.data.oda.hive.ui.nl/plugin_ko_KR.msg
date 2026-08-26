@@ -8,13 +8,13 @@ oda.data.source.id=org.eclipse.birt.report.data.oda.hive
 #
 plugin.name=BIRT Hive Designer
 newwizard.name=BIRT Hive Data Source
-newwizard.description=BIRT Hive ¿¬°á ÇÁ·ÎÇÊÀ» »ı¼ºÇÕ´Ï´Ù.
+newwizard.description=BIRT Hive ì—°ê²° í”„ë¡œí•„ì„ ìƒì„±í•©ë‹ˆë‹¤.
 
-wizard.window.title=»õ Hive µ¥ÀÌÅÍ ¿øº» ÇÁ·ÎÇÊ
+wizard.window.title=ìƒˆ Hive ë°ì´í„° ì›ë³¸ í”„ë¡œí•„
 
-wizard.data.source.page.title=»õ Hive µ¥ÀÌÅÍ ¿øº»
+wizard.data.source.page.title=ìƒˆ Hive ë°ì´í„° ì›ë³¸
 
 profile.propertypage.name=BIRT Hive Data Source Connection Properties
 dataset.editor.page.query=HQL Query
 org.eclipse.birt.report.data.oda.hive.ui.ds.displayname=Hive
-wizard.data.set.title=»õ µ¥ÀÌÅÍ ÁıÇÕ
+wizard.data.set.title=ìƒˆ ë°ì´í„° ì§‘í•©

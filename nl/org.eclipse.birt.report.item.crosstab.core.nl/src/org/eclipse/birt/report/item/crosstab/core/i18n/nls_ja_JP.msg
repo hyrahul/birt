@@ -1,252 +1,252 @@
 ###########################################################
 # Crosstab name conventions
-Element.Crosstab=ƒNƒƒXƒ^ƒu
+Element.Crosstab=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–
 
-Element.CrosstabCell=ƒNƒƒXƒ^ƒuƒZƒ‹
+Element.CrosstabCell=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã‚»ãƒ«
 
-Element.CrosstabAggregationCell=ƒNƒƒXƒ^ƒuWŒvƒZƒ‹
+Element.CrosstabAggregationCell=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–é›†è¨ˆã‚»ãƒ«
 
-Element.AggregationOnRow=s‚²‚Æ‚ÌWŒv
+Element.AggregationOnRow=è¡Œã”ã¨ã®é›†è¨ˆ
 
-Element.AggregationOnColumn=—ñ‚²‚Æ‚ÌWŒv
+Element.AggregationOnColumn=åˆ—ã”ã¨ã®é›†è¨ˆ
 
-Element.AggregationHeaderLocation=WŒvƒwƒbƒ_‚ÌˆÊ’u
+Element.AggregationHeaderLocation=é›†è¨ˆãƒ˜ãƒƒãƒ€ã®ä½ç½®
 
-Element.GrandTotalLocation=‘Œv‚ÌêŠ
+Element.GrandTotalLocation=ç·è¨ˆã®å ´æ‰€
 
-Element.MeasureView=ƒƒWƒƒ[ƒrƒ…[
+Element.MeasureView=ãƒ¡ã‚¸ãƒ£ãƒ¼ãƒ“ãƒ¥ãƒ¼
 
-Element.ComputedMeasureView=ƒƒWƒƒ[ƒrƒ…[
+Element.ComputedMeasureView=ãƒ¡ã‚¸ãƒ£ãƒ¼ãƒ“ãƒ¥ãƒ¼
 
-Element.PageBreakBefore=—v‘f‘O
+Element.PageBreakBefore=è¦ç´ å‰
 
-Element.PageBreakAfter=—v‘fŒã
+Element.PageBreakAfter=è¦ç´ å¾Œ
 
-Element.PageBreakInside=—v‘f“à
+Element.PageBreakInside=è¦ç´ å†…
 
-Element.PageBreakInterval=‰üƒy[ƒW‚ÌŠÔŠu
+Element.PageBreakInterval=æ”¹ãƒšãƒ¼ã‚¸ã®é–“éš”
 
-Element.SortDirection=ƒ\[ƒg•ûŒü
+Element.SortDirection=ã‚½ãƒ¼ãƒˆæ–¹å‘
 
-Element.SortType=ƒ\[ƒgŠî€
+Element.SortType=ã‚½ãƒ¼ãƒˆåŸºæº–
 
-Element.LevelView=ƒŒƒxƒ‹ƒrƒ…[
+Element.LevelView=ãƒ¬ãƒ™ãƒ«ãƒ“ãƒ¥ãƒ¼
 
-Element.DisplayField=•\¦ƒtƒB[ƒ‹ƒh
+Element.DisplayField=è¡¨ç¤ºãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰
 
-Element.DimensionView=ƒfƒBƒƒ“ƒWƒ‡ƒ“ƒrƒ…[
+Element.DimensionView=ãƒ‡ã‚£ãƒ¡ãƒ³ã‚¸ãƒ§ãƒ³ãƒ“ãƒ¥ãƒ¼
 
-Element.CrosstabView=ƒNƒƒXƒ^ƒuƒrƒ…[
+Element.CrosstabView=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ãƒ“ãƒ¥ãƒ¼
 
 Element.Cube=Cube
-Element.Dimension=ƒfƒBƒƒ“ƒVƒ‡ƒ“
+Element.Dimension=ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³
 
-Element.Level=ƒŒƒxƒ‹
+Element.Level=ãƒ¬ãƒ™ãƒ«
 
-Element.Measure=ƒƒWƒƒ[
+Element.Measure=ãƒ¡ã‚¸ãƒ£ãƒ¼
 
-Element.Caption=ƒLƒƒƒvƒVƒ‡ƒ“
+Element.Caption=ã‚­ãƒ£ãƒ—ã‚·ãƒ§ãƒ³
 
-Element.CaptionID=ƒLƒƒƒvƒVƒ‡ƒ“ƒL[
+Element.CaptionID=ã‚­ãƒ£ãƒ—ã‚·ãƒ§ãƒ³ã‚­ãƒ¼
 
-Element.Summary=ƒTƒ}ƒŠ
+Element.Summary=ã‚µãƒãƒª
 
-Element.MeasureDirection=ƒƒWƒƒ[‚Ì•ûŒü
+Element.MeasureDirection=ãƒ¡ã‚¸ãƒ£ãƒ¼ã®æ–¹å‘
 
-Element.PageLayout=ƒy[ƒW”z’u
+Element.PageLayout=ãƒšãƒ¼ã‚¸é…ç½®
 
-Element.EmptyCellValue=‹ó‚ÌƒZƒ‹’l
+Element.EmptyCellValue=ç©ºã®ã‚»ãƒ«å€¤
 
-Element.RepeatRowHeader=s‚Ìƒwƒbƒ_‚ÌŒJ‚è•Ô‚µ
+Element.RepeatRowHeader=è¡Œã®ãƒ˜ãƒƒãƒ€ã®ç¹°ã‚Šè¿”ã—
 
-Element.RepeatColumnHeader=—ñ‚Ìƒwƒbƒ_‚ÌŒJ‚è•Ô‚µ
+Element.RepeatColumnHeader=åˆ—ã®ãƒ˜ãƒƒãƒ€ã®ç¹°ã‚Šè¿”ã—
 
-Element.Mirrored=ƒ~ƒ‰[‰»
+Element.Mirrored=ãƒŸãƒ©ãƒ¼åŒ–
 
-Element.MirrorStartingLevel=ƒ~ƒ‰[‰»ŠJnƒŒƒxƒ‹
+Element.MirrorStartingLevel=ãƒŸãƒ©ãƒ¼åŒ–é–‹å§‹ãƒ¬ãƒ™ãƒ«
 
-Element.HideMeasureHeader=ƒƒWƒƒ[‚Ìƒwƒbƒ_‚ğ‰B‚·
+Element.HideMeasureHeader=ãƒ¡ã‚¸ãƒ£ãƒ¼ã®ãƒ˜ãƒƒãƒ€ã‚’éš ã™
 
-Element.SpanOverOnColumn=—ñ‚ÉƒXƒpƒ“
+Element.SpanOverOnColumn=åˆ—ã«ã‚¹ãƒ‘ãƒ³
 
-Element.SpanOverOnRow=s‚ÉƒXƒpƒ“
+Element.SpanOverOnRow=è¡Œã«ã‚¹ãƒ‘ãƒ³
 
-Element.Direction.Horizontal=‰¡
+Element.Direction.Horizontal=æ¨ª
 
-Element.Direction.Vertical=c
+Element.Direction.Vertical=ç¸¦
 
-Element.choice.before=—v‘f‘O
+Element.choice.before=è¦ç´ å‰
 
-Element.choice.after=—v‘fŒã
+Element.choice.after=è¦ç´ å¾Œ
 
-Element.RowPageBreakInterval=s‚Ì‰üƒy[ƒW‚ÌŠÔŠu
+Element.RowPageBreakInterval=è¡Œã®æ”¹ãƒšãƒ¼ã‚¸ã®é–“éš”
 
-Element.ColumnPageBreakInterval=—ñ‚Ì‰üƒy[ƒW‚ÌŠÔŠu
+Element.ColumnPageBreakInterval=åˆ—ã®æ”¹ãƒšãƒ¼ã‚¸ã®é–“éš”
 
-Element.TagType=ƒ^ƒO‚Ìí—Ş
+Element.TagType=ã‚¿ã‚°ã®ç¨®é¡
 
-Method.onPrepare=€”õ
+Method.onPrepare=æº–å‚™æ™‚
 
-Method.onCreate=ì¬
+Method.onCreate=ä½œæˆæ™‚
 
-Method.onRender=ƒŒƒ“ƒ_ƒŠƒ“ƒO
+Method.onRender=ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°æ™‚
 
-Method.onPageBreak=‰üƒy[ƒW
+Method.onPageBreak=æ”¹ãƒšãƒ¼ã‚¸
 
 ###########################################################
 # Crosstab exception
-Error.CrosstabException.DUPLICATE_DIMENSION=–¼‘O‚ªd•¡‚µ‚Ä‚¢‚é‚½‚ßAƒLƒ…[ƒu‚ÌƒfƒBƒƒ“ƒWƒ‡ƒ“‚Ì—v‘f ''{0}'' ‚ğƒNƒƒXƒ^ƒu‚É“K—p‚Å‚«‚Ü‚¹‚ñB
+Error.CrosstabException.DUPLICATE_DIMENSION=åå‰ãŒé‡è¤‡ã—ã¦ã„ã‚‹ãŸã‚ã€ã‚­ãƒ¥ãƒ¼ãƒ–ã®ãƒ‡ã‚£ãƒ¡ãƒ³ã‚¸ãƒ§ãƒ³ã®è¦ç´  ''{0}'' ã‚’ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã«é©ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-Error.CrosstabException.DUPLICATE_MEASURE=–¼‘O‚ªd•¡‚µ‚Ä‚¢‚é‚½‚ßAƒLƒ…[ƒu‚ÌƒƒWƒƒ[‚Ì—v‘f ''{0}'' ‚ğƒNƒƒXƒ^ƒu‚É“K—p‚Å‚«‚Ü‚¹‚ñB
+Error.CrosstabException.DUPLICATE_MEASURE=åå‰ãŒé‡è¤‡ã—ã¦ã„ã‚‹ãŸã‚ã€ã‚­ãƒ¥ãƒ¼ãƒ–ã®ãƒ¡ã‚¸ãƒ£ãƒ¼ã®è¦ç´  ''{0}'' ã‚’ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã«é©ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-Error.CrosstabException.DUPLICATE_LEVEL=–¼‘O‚ªd•¡‚µ‚Ä‚¢‚é‚½‚ßAƒLƒ…[ƒu‚ÌƒŒƒxƒ‹‚Ì—v‘f ''{0}'' ‚ğƒNƒƒXƒ^ƒu‚É“K—p‚Å‚«‚Ü‚¹‚ñB
+Error.CrosstabException.DUPLICATE_LEVEL=åå‰ãŒé‡è¤‡ã—ã¦ã„ã‚‹ãŸã‚ã€ã‚­ãƒ¥ãƒ¼ãƒ–ã®ãƒ¬ãƒ™ãƒ«ã®è¦ç´  ''{0}'' ã‚’ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã«é©ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-Error.CrosstabException.DIMENSION_NOT_FOUND=ƒNƒƒXƒ^ƒu‚ÉƒfƒBƒƒ“ƒWƒ‡ƒ“ƒrƒ…[ ''{0}'' ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+Error.CrosstabException.DIMENSION_NOT_FOUND=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã«ãƒ‡ã‚£ãƒ¡ãƒ³ã‚¸ãƒ§ãƒ³ãƒ“ãƒ¥ãƒ¼ ''{0}'' ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-Error.CrosstabException.MEASURE_NOT_FOUND=ƒNƒƒXƒ^ƒu‚ÉƒƒWƒƒ[ƒrƒ…[ ''{0}'' ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+Error.CrosstabException.MEASURE_NOT_FOUND=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã«ãƒ¡ã‚¸ãƒ£ãƒ¼ãƒ“ãƒ¥ãƒ¼ ''{0}'' ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-Error.CrosstabException.LEVEL_NOT_FOUND=ƒNƒƒXƒ^ƒu‚ÉƒŒƒxƒ‹ƒrƒ…[ ''{0}'' ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+Error.CrosstabException.LEVEL_NOT_FOUND=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã«ãƒ¬ãƒ™ãƒ«ãƒ“ãƒ¥ãƒ¼ ''{0}'' ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
 ###########################################################
 # Crosstab executor runtime error message
-CrosstabReportItemQuery.error.crosstab.loading=Šg’£€–Ú‚©‚çƒNƒƒXƒ^ƒu€–Ú‚ğ“Ç‚İ‚ß‚Ü‚¹‚ñ‚Å‚µ‚½B
+CrosstabReportItemQuery.error.crosstab.loading=æ‹¡å¼µé …ç›®ã‹ã‚‰ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–é …ç›®ã‚’èª­ã¿è¾¼ã‚ã¾ã›ã‚“ã§ã—ãŸã€‚
 
-CrosstabReportItemQuery.error.query.building=ƒNƒGƒŠ\’z‚ÌƒNƒƒXƒ^ƒuƒ‚ƒfƒ‹‚ª–³Œø‚Å‚·B
+CrosstabReportItemQuery.error.query.building=ã‚¯ã‚¨ãƒªæ§‹ç¯‰ã®ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ãƒ¢ãƒ‡ãƒ«ãŒç„¡åŠ¹ã§ã™ã€‚
 
-CrosstabReportItemQuery.error.register.empty.cell.value=‹ó‚ÌƒZƒ‹’l‚Ì“o˜^’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabReportItemQuery.error.register.empty.cell.value=ç©ºã®ã‚»ãƒ«å€¤ã®ç™»éŒ²ä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabQueryHelper.error.invalid.measure=ƒNƒƒXƒ^ƒu‚ÌƒƒWƒƒ[’è‹`‚ª NULL ‚É‚È‚Á‚Ä‚¢‚é‚©AŠÖ˜A•t‚¯‚ç‚ê‚Ä‚¢‚éƒLƒ…[ƒu‚É“Á’è‚ÌƒƒWƒƒ[ "{0}" ‚ª‘¶İ‚µ‚Ü‚¹‚ñB
+CrosstabQueryHelper.error.invalid.measure=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã®ãƒ¡ã‚¸ãƒ£ãƒ¼å®šç¾©ãŒ NULL ã«ãªã£ã¦ã„ã‚‹ã‹ã€é–¢é€£ä»˜ã‘ã‚‰ã‚Œã¦ã„ã‚‹ã‚­ãƒ¥ãƒ¼ãƒ–ã«ç‰¹å®šã®ãƒ¡ã‚¸ãƒ£ãƒ¼ "{0}" ãŒå­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-CrosstabQueryHelper.error.invalid.dimension.row=ƒNƒƒXƒ^ƒu‚Ìs—Ìˆæ‚ÌƒfƒBƒƒ“ƒWƒ‡ƒ“’è‹`‚ª NULL ‚É‚È‚Á‚Ä‚¢‚é‚©AŠÖ˜A•t‚¯‚ç‚ê‚Ä‚¢‚éƒLƒ…[ƒu‚É“Á’è‚ÌƒfƒBƒƒ“ƒWƒ‡ƒ“ "{0}" ‚ª‘¶İ‚µ‚Ü‚¹‚ñB
+CrosstabQueryHelper.error.invalid.dimension.row=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã®è¡Œé ˜åŸŸã®ãƒ‡ã‚£ãƒ¡ãƒ³ã‚¸ãƒ§ãƒ³å®šç¾©ãŒ NULL ã«ãªã£ã¦ã„ã‚‹ã‹ã€é–¢é€£ä»˜ã‘ã‚‰ã‚Œã¦ã„ã‚‹ã‚­ãƒ¥ãƒ¼ãƒ–ã«ç‰¹å®šã®ãƒ‡ã‚£ãƒ¡ãƒ³ã‚¸ãƒ§ãƒ³ "{0}" ãŒå­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-CrosstabQueryHelper.error.invalid.level.row=ƒNƒƒXƒ^ƒu‚Ìs—Ìˆæ‚ÌƒŒƒxƒ‹’è‹`‚ª NULL ‚É‚È‚Á‚Ä‚¢‚é‚©AŠÖ˜A•t‚¯‚ç‚ê‚Ä‚¢‚éƒLƒ…[ƒu‚É“Á’è‚ÌƒŒƒxƒ‹ "{0}" ‚ª‘¶İ‚µ‚Ü‚¹‚ñB
+CrosstabQueryHelper.error.invalid.level.row=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã®è¡Œé ˜åŸŸã®ãƒ¬ãƒ™ãƒ«å®šç¾©ãŒ NULL ã«ãªã£ã¦ã„ã‚‹ã‹ã€é–¢é€£ä»˜ã‘ã‚‰ã‚Œã¦ã„ã‚‹ã‚­ãƒ¥ãƒ¼ãƒ–ã«ç‰¹å®šã®ãƒ¬ãƒ™ãƒ« "{0}" ãŒå­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-CrosstabQueryHelper.error.invalid.dimension.column=ƒNƒƒXƒ^ƒu‚Ì—ñ—Ìˆæ‚ÌƒfƒBƒƒ“ƒWƒ‡ƒ“’è‹`‚ª NULL ‚É‚È‚Á‚Ä‚¢‚é‚©AŠÖ˜A•t‚¯‚ç‚ê‚Ä‚¢‚éƒLƒ…[ƒu‚É“Á’è‚ÌƒfƒBƒƒ“ƒWƒ‡ƒ“ "{0}" ‚ª‘¶İ‚µ‚Ü‚¹‚ñB
+CrosstabQueryHelper.error.invalid.dimension.column=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã®åˆ—é ˜åŸŸã®ãƒ‡ã‚£ãƒ¡ãƒ³ã‚¸ãƒ§ãƒ³å®šç¾©ãŒ NULL ã«ãªã£ã¦ã„ã‚‹ã‹ã€é–¢é€£ä»˜ã‘ã‚‰ã‚Œã¦ã„ã‚‹ã‚­ãƒ¥ãƒ¼ãƒ–ã«ç‰¹å®šã®ãƒ‡ã‚£ãƒ¡ãƒ³ã‚¸ãƒ§ãƒ³ "{0}" ãŒå­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-CrosstabQueryHelper.error.invalid.level.column=ƒNƒƒXƒ^ƒu‚Ì—ñ—Ìˆæ‚ÌƒŒƒxƒ‹’è‹`‚ª NULL ‚É‚È‚Á‚Ä‚¢‚é‚©AŠÖ˜A•t‚¯‚ç‚ê‚Ä‚¢‚éƒLƒ…[ƒu‚É“Á’è‚ÌƒŒƒxƒ‹ "{0}" ‚ª‘¶İ‚µ‚Ü‚¹‚ñB
+CrosstabQueryHelper.error.invalid.level.column=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã®åˆ—é ˜åŸŸã®ãƒ¬ãƒ™ãƒ«å®šç¾©ãŒ NULL ã«ãªã£ã¦ã„ã‚‹ã‹ã€é–¢é€£ä»˜ã‘ã‚‰ã‚Œã¦ã„ã‚‹ã‚­ãƒ¥ãƒ¼ãƒ–ã«ç‰¹å®šã®ãƒ¬ãƒ™ãƒ« "{0}" ãŒå­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-BaseCrosstabExecutor.error.process.visibility=‰Â‹«‚Ìˆ—’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+BaseCrosstabExecutor.error.process.visibility=å¯è¦–æ€§ã®å‡¦ç†ä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-BaseCrosstabExecutor.error.process.bookmark=ƒwƒbƒ_‚Ìˆ—’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+BaseCrosstabExecutor.error.process.bookmark=ãƒ˜ãƒƒãƒ€ã®å‡¦ç†ä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-BaseCrosstabExecutor.error.process.headers=ƒwƒbƒ_‚Ìˆ—’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+BaseCrosstabExecutor.error.process.headers=ãƒ˜ãƒƒãƒ€ã®å‡¦ç†ä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-BaseCrosstabExecutor.error.process.row.height=s‚Ì‚‚³‚Ìˆ—’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+BaseCrosstabExecutor.error.process.row.height=è¡Œã®é«˜ã•ã®å‡¦ç†ä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabCellExecutor.error.restor.data.position=ƒf[ƒ^‚ÌˆÊ’u‚ğ•œŒ³’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabCellExecutor.error.restor.data.position=ãƒ‡ãƒ¼ã‚¿ã®ä½ç½®ã‚’å¾©å…ƒä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabGrandTotalRowExecutor.error.generate.child.executor=q‚ÌÀsƒtƒ@ƒCƒ‹‚Ì¶¬’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabGrandTotalRowExecutor.error.generate.child.executor=å­ã®å®Ÿè¡Œãƒ•ã‚¡ã‚¤ãƒ«ã®ç”Ÿæˆä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabGrandTotalRowExecutor.error.check.child.executor=q‚ÌÀsƒtƒ@ƒCƒ‹‚ÌƒXƒe[ƒ^ƒX‚ğŠm”F’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabGrandTotalRowExecutor.error.check.child.executor=å­ã®å®Ÿè¡Œãƒ•ã‚¡ã‚¤ãƒ«ã®ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ã‚’ç¢ºèªä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabHeaderExecutor.error.reset.row.position=s‚ÌƒGƒbƒW‚ÌƒJ[ƒ\ƒ‹ˆÊ’u‚ğƒŠƒZƒbƒg’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabHeaderExecutor.error.reset.row.position=è¡Œã®ã‚¨ãƒƒã‚¸ã®ã‚«ãƒ¼ã‚½ãƒ«ä½ç½®ã‚’ãƒªã‚»ãƒƒãƒˆä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabGroupExecutor.error.close.executor=ƒOƒ‹[ƒv‚ÌÀsƒtƒ@ƒCƒ‹‚ğ•Â‚¶‚é‚Æ‚«‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabGroupExecutor.error.close.executor=ã‚°ãƒ«ãƒ¼ãƒ—ã®å®Ÿè¡Œãƒ•ã‚¡ã‚¤ãƒ«ã‚’é–‰ã˜ã‚‹ã¨ãã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabGroupExecutor.error.prepare.group=qƒOƒ‹[ƒv‚Ì€”õ’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabGroupExecutor.error.prepare.group=å­ã‚°ãƒ«ãƒ¼ãƒ—ã®æº–å‚™ä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabGroupExecutor.error.check.child.executor=q‚ÌÀsƒtƒ@ƒCƒ‹‚ÌƒXƒe[ƒ^ƒX‚ğŠm”F’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabGroupExecutor.error.check.child.executor=å­ã®å®Ÿè¡Œãƒ•ã‚¡ã‚¤ãƒ«ã®ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ã‚’ç¢ºèªä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabHeaderRowExecutor.error.check.force.empty=Œ»İ‚ÌƒZƒ‹‚Ì‹­§‹óƒXƒe[ƒ^ƒX‚ÌŠm”F’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabHeaderRowExecutor.error.check.force.empty=ç¾åœ¨ã®ã‚»ãƒ«ã®å¼·åˆ¶ç©ºã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ã®ç¢ºèªä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabHeaderRowExecutor.error.check.edge.end=Œ»İ‚ÌƒZƒ‹‚ÌƒGƒbƒWI—¹‚ÌƒXƒe[ƒ^ƒX‚ÌŠm”F’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabHeaderRowExecutor.error.check.edge.end=ç¾åœ¨ã®ã‚»ãƒ«ã®ã‚¨ãƒƒã‚¸çµ‚äº†ã®ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ã®ç¢ºèªä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabHeaderRowExecutor.error.retrieve.child.executor=q‚ÌÀsƒtƒ@ƒCƒ‹‚Ìæ“¾’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabHeaderRowExecutor.error.retrieve.child.executor=å­ã®å®Ÿè¡Œãƒ•ã‚¡ã‚¤ãƒ«ã®å–å¾—ä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabMeasureHeaderRowExecutor.error.generate.child.executor=q‚ÌÀsƒtƒ@ƒCƒ‹‚Ì¶¬’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabMeasureHeaderRowExecutor.error.generate.child.executor=å­ã®å®Ÿè¡Œãƒ•ã‚¡ã‚¤ãƒ«ã®ç”Ÿæˆä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabMeasureHeaderRowExecutor.error.check.child.executor=q‚ÌÀsƒtƒ@ƒCƒ‹‚ÌƒXƒe[ƒ^ƒX‚ğŠm”F’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabMeasureHeaderRowExecutor.error.check.child.executor=å­ã®å®Ÿè¡Œãƒ•ã‚¡ã‚¤ãƒ«ã®ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ã‚’ç¢ºèªä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabMeasureRowExecutor.error.generate.child.executor=q‚ÌÀsƒtƒ@ƒCƒ‹‚Ì¶¬’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabMeasureRowExecutor.error.generate.child.executor=å­ã®å®Ÿè¡Œãƒ•ã‚¡ã‚¤ãƒ«ã®ç”Ÿæˆä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabMeasureRowExecutor.error.check.child.executor=q‚ÌÀsƒtƒ@ƒCƒ‹‚ÌƒXƒe[ƒ^ƒX‚ğŠm”F’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabMeasureRowExecutor.error.check.child.executor=å­ã®å®Ÿè¡Œãƒ•ã‚¡ã‚¤ãƒ«ã®ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ã‚’ç¢ºèªä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabReportItemExecutor.error.crosstab.loading=Šg’£€–Ú‚©‚çƒNƒƒXƒ^ƒu€–Ú‚ğ“Ç‚İ‚ß‚Ü‚¹‚ñ‚Å‚µ‚½B
+CrosstabReportItemExecutor.error.crosstab.loading=æ‹¡å¼µé …ç›®ã‹ã‚‰ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–é …ç›®ã‚’èª­ã¿è¾¼ã‚ã¾ã›ã‚“ã§ã—ãŸã€‚
 
-CrosstabReportItemExecutor.error.generate.columns=ƒNƒƒXƒ^ƒu‚Ì—ñ‚Ì¶¬’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabReportItemExecutor.error.generate.columns=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã®åˆ—ã®ç”Ÿæˆä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabReportItemExecutor.error.prepare.children=ƒNƒƒXƒ^ƒu‚Ìq‚ÌÀsƒtƒ@ƒCƒ‹‚Ì€”õ’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabReportItemExecutor.error.prepare.children=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã®å­ã®å®Ÿè¡Œãƒ•ã‚¡ã‚¤ãƒ«ã®æº–å‚™ä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabReportItemExecutor.error.invalid.cube.result=ƒNƒƒXƒ^ƒu‚ÌƒLƒ…[ƒu‚ÌŒ‹‰Ê‚ª–³Œø‚Å‚· (NULL)B
+CrosstabReportItemExecutor.error.invalid.cube.result=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã®ã‚­ãƒ¥ãƒ¼ãƒ–ã®çµæœãŒç„¡åŠ¹ã§ã™ (NULL)ã€‚
 
-CrosstabRowExecutor.error.check.force.empty=Œ»İ‚ÌƒZƒ‹‚Ì‹­§‹óƒXƒe[ƒ^ƒX‚ÌŠm”F’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabRowExecutor.error.check.force.empty=ç¾åœ¨ã®ã‚»ãƒ«ã®å¼·åˆ¶ç©ºã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ã®ç¢ºèªä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabRowExecutor.error.check.edge.start=Œ»İ‚ÌƒZƒ‹‚ÌƒGƒbƒWŠJn‚ÌƒXƒe[ƒ^ƒX‚ÌŠm”F’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabRowExecutor.error.check.edge.start=ç¾åœ¨ã®ã‚»ãƒ«ã®ã‚¨ãƒƒã‚¸é–‹å§‹ã®ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ã®ç¢ºèªä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabRowExecutor.error.retrieve.child.executor=q‚ÌÀsƒtƒ@ƒCƒ‹‚Ìæ“¾’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabRowExecutor.error.retrieve.child.executor=å­ã®å®Ÿè¡Œãƒ•ã‚¡ã‚¤ãƒ«ã®å–å¾—ä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabSubTotalRowExecutor.error.check.edge.start=Œ»İ‚ÌƒZƒ‹‚ÌƒGƒbƒWŠJn‚ÌƒXƒe[ƒ^ƒX‚ÌŠm”F’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabSubTotalRowExecutor.error.check.edge.start=ç¾åœ¨ã®ã‚»ãƒ«ã®ã‚¨ãƒƒã‚¸é–‹å§‹ã®ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ã®ç¢ºèªä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabSubTotalRowExecutor.error.retrieve.child.executor=q‚ÌÀsƒtƒ@ƒCƒ‹‚Ìæ“¾’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabSubTotalRowExecutor.error.retrieve.child.executor=å­ã®å®Ÿè¡Œãƒ•ã‚¡ã‚¤ãƒ«ã®å–å¾—ä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-TableColumnGenerator.error.process.visibility=—ñ‚Ì‰Â‹«‚Ìˆ—’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+TableColumnGenerator.error.process.visibility=åˆ—ã®å¯è¦–æ€§ã®å‡¦ç†ä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-TableColumnGenerator.error.process.column.width=—ñ‚Ì•‚Ìˆ—’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+TableColumnGenerator.error.process.column.width=åˆ—ã®å¹…ã®å‡¦ç†ä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabReportItemHandle.error.locate.column.cell=ƒJƒ‰ƒ€ã‚ÅŠÖ˜A‚·‚éƒNƒƒXƒ^ƒuƒZƒ‹‚ğŒŸo’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabReportItemHandle.error.locate.column.cell=ã‚«ãƒ©ãƒ ä¸Šã§é–¢é€£ã™ã‚‹ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã‚»ãƒ«ã‚’æ¤œå‡ºä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabReportItemHandle.error.locate.row.cell=ƒƒEã‚ÅŠÖ˜A‚·‚éƒNƒƒXƒ^ƒuƒZƒ‹‚ğŒŸo’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabReportItemHandle.error.locate.row.cell=ãƒ­ã‚¦ä¸Šã§é–¢é€£ã™ã‚‹ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã‚»ãƒ«ã‚’æ¤œå‡ºä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabReportItemHandle.error.set.column.width=ƒNƒƒXƒ^ƒuƒJƒ‰ƒ€‚Ì•‚ğİ’è’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabReportItemHandle.error.set.column.width=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã‚«ãƒ©ãƒ ã®å¹…ã‚’è¨­å®šä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabReportItemHandle.error.set.row.height=ƒNƒƒXƒ^ƒuƒƒE‚Ì‚‚³‚ğİ’è’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+CrosstabReportItemHandle.error.set.row.height=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ãƒ­ã‚¦ã®é«˜ã•ã‚’è¨­å®šä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-CrosstabReportItemHandle.msg.change.measure.direction=ƒƒWƒƒ[‚Ì•ûŒü‚ğ•ÏX
+CrosstabReportItemHandle.msg.change.measure.direction=ãƒ¡ã‚¸ãƒ£ãƒ¼ã®æ–¹å‘ã‚’å¤‰æ›´
 
-CrosstabReportItemHandle.msg.insert.measure=ƒƒWƒƒ[‚Ì‘}“ü
+CrosstabReportItemHandle.msg.insert.measure=ãƒ¡ã‚¸ãƒ£ãƒ¼ã®æŒ¿å…¥
 
-CrosstabReportItemHandle.exception.name.blank=ƒƒWƒƒ[’l‚Ì–¼‘O‚ğw’è‚µ‚Ä‚­‚¾‚³‚¢B
+CrosstabReportItemHandle.exception.name.blank=ãƒ¡ã‚¸ãƒ£ãƒ¼å€¤ã®åå‰ã‚’æŒ‡å®šã—ã¦ãã ã•ã„ã€‚
 
-CrosstabReportItemHandle.exception.name.duplicate=w’è‚µ‚½ƒƒWƒƒ[–¼‚Í‚·‚Å‚Ég—p‚³‚ê‚Ä‚¨‚èAd•¡‚Å‚«‚Ü‚¹‚ñB
+CrosstabReportItemHandle.exception.name.duplicate=æŒ‡å®šã—ãŸãƒ¡ã‚¸ãƒ£ãƒ¼åã¯ã™ã§ã«ä½¿ç”¨ã•ã‚Œã¦ãŠã‚Šã€é‡è¤‡ã§ãã¾ã›ã‚“ã€‚
 
-MeasureViewHandle.info.aggregation.already.exist=w’è‚³‚ê‚½WŒv‚Í‚·‚Å‚É‘¶İ‚µ‚Ü‚·B
+MeasureViewHandle.info.aggregation.already.exist=æŒ‡å®šã•ã‚ŒãŸé›†è¨ˆã¯ã™ã§ã«å­˜åœ¨ã—ã¾ã™ã€‚
 
-MeasureViewHandle.msg.add.aggregation=WŒv‚Ì’Ç‰Á
+MeasureViewHandle.msg.add.aggregation=é›†è¨ˆã®è¿½åŠ 
 
-LevelViewTask.msg.remove.subtotal=¬Œv‚Ìíœ
+LevelViewTask.msg.remove.subtotal=å°è¨ˆã®å‰Šé™¤
 
-LevelViewTask.msg.add.subtotal=¬Œv‚Ì’Ç‰Á
+LevelViewTask.msg.add.subtotal=å°è¨ˆã®è¿½åŠ 
 
-DimensionViewTask.msg.remove.level=ƒŒƒxƒ‹‚Ìíœ
+DimensionViewTask.msg.remove.level=ãƒ¬ãƒ™ãƒ«ã®å‰Šé™¤
 
-DimensionViewTask.msg.insert.level=ƒŒƒxƒ‹‚Ì‘}“ü
+DimensionViewTask.msg.insert.level=ãƒ¬ãƒ™ãƒ«ã®æŒ¿å…¥
 
-MeasureViewTask.msg.remove.header=ƒƒWƒƒ[‚Ìƒwƒbƒ_‚Ìíœ
+MeasureViewTask.msg.remove.header=ãƒ¡ã‚¸ãƒ£ãƒ¼ã®ãƒ˜ãƒƒãƒ€ã®å‰Šé™¤
 
-MeasureViewTask.msg.add.header=ƒƒWƒƒ[‚Ìƒwƒbƒ_‚Ì’Ç‰Á
+MeasureViewTask.msg.add.header=ãƒ¡ã‚¸ãƒ£ãƒ¼ã®ãƒ˜ãƒƒãƒ€ã®è¿½åŠ 
 
-CrosstabViewTask.msg.add.dimension=ƒfƒBƒƒ“ƒVƒ‡ƒ“‚Ì’Ç‰Á
+CrosstabViewTask.msg.add.dimension=ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³ã®è¿½åŠ 
 
-CrosstabViewTask.msg.remove.dimension=ƒfƒBƒƒ“ƒWƒ‡ƒ“‚Ìíœ
+CrosstabViewTask.msg.remove.dimension=ãƒ‡ã‚£ãƒ¡ãƒ³ã‚¸ãƒ§ãƒ³ã®å‰Šé™¤
 
-CrosstabViewTask.msg.remove.grandtotal=‘Œv‚Ìíœ
+CrosstabViewTask.msg.remove.grandtotal=ç·è¨ˆã®å‰Šé™¤
 
-CrosstabViewTask.msg.add.grandtotal=‘Œv‚Ì’Ç‰Á
+CrosstabViewTask.msg.add.grandtotal=ç·è¨ˆã®è¿½åŠ 
 
-CrosstabReportItemTask.msg.add.grandtotal=‘Œv‚Ì’Ç‰Á
+CrosstabReportItemTask.msg.add.grandtotal=ç·è¨ˆã®è¿½åŠ 
 
-CrosstabReportItemTask.msg.set.aggregate.function=WŒvŠÖ”‚Ìİ’è
+CrosstabReportItemTask.msg.set.aggregate.function=é›†è¨ˆé–¢æ•°ã®è¨­å®š
 
-CrosstabReportItemTask.msg.pivot.dimension=ƒfƒBƒƒ“ƒWƒ‡ƒ“‚Ì‰ñ“]
+CrosstabReportItemTask.msg.pivot.dimension=ãƒ‡ã‚£ãƒ¡ãƒ³ã‚¸ãƒ§ãƒ³ã®å›è»¢
 
-CrosstabReportItemTask.msg.insert.dimension=ƒfƒBƒƒ“ƒWƒ‡ƒ“‚Ì‘}“ü
+CrosstabReportItemTask.msg.insert.dimension=ãƒ‡ã‚£ãƒ¡ãƒ³ã‚¸ãƒ§ãƒ³ã®æŒ¿å…¥
 
-CrosstabReportItemTask.msg.set.mirroredStartingLevel=ƒ~ƒ‰[‰»ŠJnƒŒƒxƒ‹‚Ìİ’è
+CrosstabReportItemTask.msg.set.mirroredStartingLevel=ãƒŸãƒ©ãƒ¼åŒ–é–‹å§‹ãƒ¬ãƒ™ãƒ«ã®è¨­å®š
 
-CrosstabReportItemTask.msg.pivot.crosstab=ƒNƒƒXƒ^ƒu‚ğ‰ñ“]‚µ‚Ü‚·B
+CrosstabReportItemTask.msg.pivot.crosstab=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã‚’å›è»¢ã—ã¾ã™ã€‚
 
-CrosstabReportItemHandle.Error.HasNoCube=ƒNƒƒXƒ^ƒu‚ÍA1 ‚Â‚ÌƒLƒ…[ƒu‚ÉƒAƒNƒZƒX‚Å‚«‚é•K—v‚ª‚ ‚è‚Ü‚·B
+CrosstabReportItemHandle.Error.HasNoCube=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã¯ã€1 ã¤ã®ã‚­ãƒ¥ãƒ¼ãƒ–ã«ã‚¢ã‚¯ã‚»ã‚¹ã§ãã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
-CrosstabReportItemHandle.log.validate=ŒŸØ’† (...)
+CrosstabReportItemHandle.log.validate=æ¤œè¨¼ä¸­ (...)
 
-CrosstabScriptHandler.error.javascript=JavaScript ‚Ì {1} s–Ú‚É‚ ‚é {0} :\r\n{2}\r\n
+CrosstabScriptHandler.error.javascript=JavaScript ã® {1} è¡Œç›®ã«ã‚ã‚‹ {0} :\r\n{2}\r\n
 
-CrosstabScriptHandler.info.try.register.crosstab.javascript.content=ƒNƒƒXƒ^ƒu JavaScript ‚ÌƒRƒ“ƒeƒ“ƒc‚ğ“o˜^‚µ‚Ä‚¢‚Ü‚·...
+CrosstabScriptHandler.info.try.register.crosstab.javascript.content=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ– JavaScript ã®ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚’ç™»éŒ²ã—ã¦ã„ã¾ã™...
 
-CrosstabScriptHandler.info.crosstab.javascript.content.registered=ƒNƒƒXƒ^ƒu JavaScript ‚ÌƒRƒ“ƒeƒ“ƒc‚ª³‚µ‚­“o˜^‚³‚ê‚Ü‚µ‚½B
+CrosstabScriptHandler.info.crosstab.javascript.content.registered=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ– JavaScript ã®ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ãŒæ­£ã—ãç™»éŒ²ã•ã‚Œã¾ã—ãŸã€‚
 
-CrosstabScriptHandler.info.try.load.crosstab.java.handler=ƒNƒƒXƒ^ƒu Java ƒCƒxƒ“ƒgƒnƒ“ƒhƒ‰‚ğ“Ç‚İ‚ñ‚Å‚¢‚Ü‚·...
+CrosstabScriptHandler.info.try.load.crosstab.java.handler=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ– Java ã‚¤ãƒ™ãƒ³ãƒˆãƒãƒ³ãƒ‰ãƒ©ã‚’èª­ã¿è¾¼ã‚“ã§ã„ã¾ã™...
 
-CrosstabScriptHandler.info.crosstab.java.handler.loaded=ƒNƒƒXƒ^ƒu Java ƒCƒxƒ“ƒgƒnƒ“ƒhƒ‰ [{0}] ‚ª³‚µ‚­“Ç‚İ‚Ü‚ê‚Ü‚µ‚½B
+CrosstabScriptHandler.info.crosstab.java.handler.loaded=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ– Java ã‚¤ãƒ™ãƒ³ãƒˆãƒãƒ³ãƒ‰ãƒ© [{0}] ãŒæ­£ã—ãèª­ã¿è¾¼ã¾ã‚Œã¾ã—ãŸã€‚
 
-CrosstabScriptHandler.info.invalid.crosstab.java.handler=Java ƒCƒxƒ“ƒgƒnƒ“ƒhƒ‰ [{0}] ‚ÌÀ‘•‚ÌŒİŠ·«‚ª‚ ‚è‚Ü‚¹‚ñB
+CrosstabScriptHandler.info.invalid.crosstab.java.handler=Java ã‚¤ãƒ™ãƒ³ãƒˆãƒãƒ³ãƒ‰ãƒ© [{0}] ã®å®Ÿè£…ã®äº’æ›æ€§ãŒã‚ã‚Šã¾ã›ã‚“ã€‚

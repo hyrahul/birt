@@ -1,29 +1,29 @@
-SwtRendererImpl.exception.gradient.angle=[SDL]°¢µµ={0}¿¡¼­ ±×¶óµ¥ÀÌ¼ÇÀ» ·»´õ¸µÇÒ ¼ö ¾ø½À´Ï´Ù. Áö¿øµÇ´Â ¹üÀ§´Â [90 >= 0 >= -90]ÀÔ´Ï´Ù.
+SwtRendererImpl.exception.gradient.angle=[SDL]ê°ë„={0}ì—ì„œ ê·¸ë¼ë°ì´ì…˜ì„ ë Œë”ë§í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. ì§€ì›ë˜ëŠ” ë²”ìœ„ëŠ” [90 >= 0 >= -90]ì…ë‹ˆë‹¤.
 
-SwtRendererImpl.exception.unspecified.text.rendering.action=[SDL]ÁöÁ¤µÇÁö ¾ÊÀº ÅØ½ºÆ® ·»´õ¸µ ÀÛ¾÷ÀÔ´Ï´Ù. TextRenderEvent.setAction(...)ÀÌ ¿Ã¹Ù¸£°Ô È£ÃâµÇÁö ¾Ê¾Ò½À´Ï´Ù.
+SwtRendererImpl.exception.unspecified.text.rendering.action=[SDL]ì§€ì •ë˜ì§€ ì•Šì€ í…ìŠ¤íŠ¸ ë Œë”ë§ ì‘ì—…ì…ë‹ˆë‹¤. TextRenderEvent.setAction(...)ì´ ì˜¬ë°”ë¥´ê²Œ í˜¸ì¶œë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
 
-SwtRendererImpl.exception.missing.component.interaction=[SDL]IUpdateNotifier°¡ ·»´õ·¯¿Í ¿¬°áµÇ¾î ÀÖÁö ¾ÊÀ¸¸é »óÈ£ ÀÛ¿ëÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.
+SwtRendererImpl.exception.missing.component.interaction=[SDL]IUpdateNotifierê°€ ë Œë”ëŸ¬ì™€ ì—°ê²°ë˜ì–´ ìˆì§€ ì•Šìœ¼ë©´ ìƒí˜¸ ì‘ìš©ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-SwtRendererImpl.info.graphics.context=[SDL]±×·¡ÇÈ ÄÁÅØ½ºÆ® {0}@{1} »ç¿ë
+SwtRendererImpl.info.graphics.context=[SDL]ê·¸ë˜í”½ ì»¨í…ìŠ¤íŠ¸ {0}@{1} ì‚¬ìš©
 
-SwtTextRenderer.exception.undefined.shadow.color=[SDL]±×¸²ÀÚ¸¦ Á¤ÀÇµÇÁö ¾ÊÀº »öÀ¸·Î ·»´õ¸µÇÒ ¼ö ¾ø½À´Ï´Ù.
+SwtTextRenderer.exception.undefined.shadow.color=[SDL]ê·¸ë¦¼ìë¥¼ ì •ì˜ë˜ì§€ ì•Šì€ ìƒ‰ìœ¼ë¡œ ë Œë”ë§í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-SwtTextRenderer.exception.undefined.text.color=[SDL]ÅØ½ºÆ®¸¦ Á¤ÀÇµÇÁö ¾ÊÀº »öÀ¸·Î ·»´õ¸µÇÒ ¼ö ¾ø½À´Ï´Ù.
+SwtTextRenderer.exception.undefined.text.color=[SDL]í…ìŠ¤íŠ¸ë¥¼ ì •ì˜ë˜ì§€ ì•Šì€ ìƒ‰ìœ¼ë¡œ ë Œë”ë§í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-SwtDisplayServer.exception.display.server=[SDL]SWT Display Server ÀÎ½ºÅÏ½º¸¦ °¡Á®¿ÀÁö ¸øÇß½À´Ï´Ù.
+SwtDisplayServer.exception.display.server=[SDL]SWT Display Server ì¸ìŠ¤í„´ìŠ¤ë¥¼ ê°€ì ¸ì˜¤ì§€ ëª»í–ˆìŠµë‹ˆë‹¤.
 
 SwtDisplayServer.info.display.server=SWT Display Server: {0} v{1}
 
-SwtEventHandler.info.toggle.visibility=[SDL]Ç¥½Ã À¯Çü ÀüÈ¯: {0}
+SwtEventHandler.info.toggle.visibility=[SDL]í‘œì‹œ ìœ í˜• ì „í™˜: {0}
 
-SwtEventHandler.info.toggle.datapoint.visibility=[SDL]µ¥ÀÌÅÍ ¿ä¼Ò Ç¥½Ã À¯Çü ÀüÈ¯: {0}
+SwtEventHandler.info.toggle.datapoint.visibility=[SDL]ë°ì´í„° ìš”ì†Œ í‘œì‹œ ìœ í˜• ì „í™˜: {0}
 
-SwtEventHandler.info.cannot.find.series=[SDL]·±Å¸ÀÓ °è¿­¿¡ ´ëÇÑ µğÀÚÀÎ Å¸ÀÓ °è¿­À» Ã£À» ¼ö ¾ø½À´Ï´Ù: {0}
+SwtEventHandler.info.cannot.find.series=[SDL]ëŸ°íƒ€ì„ ê³„ì—´ì— ëŒ€í•œ ë””ìì¸ íƒ€ì„ ê³„ì—´ì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤: {0}
 
-SwtEventHandler.info.improper.callback.notifier=[SDL]¾Ë¸²: [{0}]ÀÌ(°¡) °Ë»öµÇ¾úÁö¸¸ ICallBackNotifer ½ÇÇàÀÚ°¡ ÇÊ¿äÇÕ´Ï´Ù.
+SwtEventHandler.info.improper.callback.notifier=[SDL]ì•Œë¦¼: [{0}]ì´(ê°€) ê²€ìƒ‰ë˜ì—ˆì§€ë§Œ ICallBackNotifer ì‹¤í–‰ìê°€ í•„ìš”í•©ë‹ˆë‹¤.
 
-SwtEventHandler.info.redirect.url=[SDL]´ÙÀ½ URL·Î ¸®µğ·º¼Ç: {0}
+SwtEventHandler.info.redirect.url=[SDL]ë‹¤ìŒ URLë¡œ ë¦¬ë””ë ‰ì…˜: {0}
 
-R31Enhance.info.advanced.enabled=[SDL]°í±Ş SWT ±×·¡ÇÈ ±â´ÉÀ» »ç¿ëÇÕ´Ï´Ù.
+R31Enhance.info.advanced.enabled=[SDL]ê³ ê¸‰ SWT ê·¸ë˜í”½ ê¸°ëŠ¥ì„ ì‚¬ìš©í•©ë‹ˆë‹¤.
 
-R31Enhance.info.advanced.disabled=[SDL]°í±Ş SWT ±×·¡ÇÈ ±â´ÉÀ» »ç¿ëÇÏÁö ¾Ê½À´Ï´Ù.
+R31Enhance.info.advanced.disabled=[SDL]ê³ ê¸‰ SWT ê·¸ë˜í”½ ê¸°ëŠ¥ì„ ì‚¬ìš©í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.

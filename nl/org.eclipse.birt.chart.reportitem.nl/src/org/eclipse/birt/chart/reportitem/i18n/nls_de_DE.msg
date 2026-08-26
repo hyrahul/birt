@@ -1,71 +1,71 @@
 ChartCubeQueryHelper.Error.MustBindCube=Diagramm muss einen Quader zur Dateneinspeisung binden.
 
-ChartReportItemPresentationImpl.error.NoData=Vom mit dem Diagramm verbundene Datensatz wurden keine Zeilen zurückgegeben.
+ChartReportItemPresentationImpl.error.NoData=Vom mit dem Diagramm verbundene Datensatz wurden keine Zeilen zurÃ¼ckgegeben.
 
-ChartReportItemPresentationImpl.error.InvalidCubeBinding=Der Datensatz, den dieses Diagramm verwendet, wurde geändert. Dieses Diagramm kann nicht länger dargestellt werden.
+ChartReportItemPresentationImpl.error.InvalidCubeBinding=Der Datensatz, den dieses Diagramm verwendet, wurde geÃ¤ndert. Dieses Diagramm kann nicht lÃ¤nger dargestellt werden.
 
-ChartReportItemPresentationImpl.log.UnableToLocateWrapper=Berichtobjekt-Wrapper für Diagrammobjekt kann nicht gefunden werden.
+ChartReportItemPresentationImpl.log.UnableToLocateWrapper=Berichtobjekt-Wrapper fÃ¼r Diagrammobjekt kann nicht gefunden werden.
 
-ChartReportItemPresentationImpl.log.onRowSetsStart=ChartReportItemGenerationImpl: onRowSets(...) – Start
+ChartReportItemPresentationImpl.log.onRowSetsStart=ChartReportItemGenerationImpl: onRowSets(...)Â â€“ Start
 
-ChartReportItemPresentationImpl.log.onRowSetsBuilding=ChartReportItemPresentationImpl: onRowSets(...) – Diagramm wird erstellt
+ChartReportItemPresentationImpl.log.onRowSetsBuilding=ChartReportItemPresentationImpl: onRowSets(...)Â â€“ Diagramm wird erstellt
 
 ChartReportItemPresentationImpl.log.WritingFile={0}-Datei wird unter {1} geschrieben
 
-ChartReportItemPresentationImpl.exception.tmpPngFileCreation=Erstellung einer temporären PNG-Datei
+ChartReportItemPresentationImpl.exception.tmpPngFileCreation=Erstellung einer temporÃ¤ren PNG-Datei
 
-ChartReportItemPresentationImpl.log.PresentationUsesBoundsBo=Präsentation verwendet Grenzen: {0}
+ChartReportItemPresentationImpl.log.PresentationUsesBoundsBo=PrÃ¤sentation verwendet Grenzen: {0}
 
-ChartReportItemPresentationImpl.log.onRowSetsRendering=ChartReportItemPresentationImpl: onRowSets(...) – Diagramm wird gerendert
+ChartReportItemPresentationImpl.log.onRowSetsRendering=ChartReportItemPresentationImpl: onRowSets(...)Â â€“ Diagramm wird gerendert
 
 ChartReportItemPresentationImpl.exception.inputStreamCreation=Eingabe-Stream-Erstellung
 
-ChartReportItemPresentationImpl.log.onRowSetsFailed=ChartReportItemPresentationImpl: onRowSets(...) – Fehler
+ChartReportItemPresentationImpl.log.onRowSetsFailed=ChartReportItemPresentationImpl: onRowSets(...)Â â€“ Fehler
 
 ChartReportItemPresentationImpl.exception.UnexpectedError=Unerwarteter Fehler
 
-ChartReportItemPresentationImpl.onRowSetsEnd=ChartReportItemPresentationImpl: onRowSets(...) – Ende
+ChartReportItemPresentationImpl.onRowSetsEnd=ChartReportItemPresentationImpl: onRowSets(...)Â â€“ Ende
 
-ChartReportItemPresentationImpl.log.getSizeStart=ChartReportItemPresentationImpl: getSize(...) – Start
+ChartReportItemPresentationImpl.log.getSizeStart=ChartReportItemPresentationImpl: getSize(...)Â â€“ Start
 
-ChartReportItemPresentationImpl.log.getSizeEnd=ChartReportItemPresentationImpl: getSize(...) – Ende
+ChartReportItemPresentationImpl.log.getSizeEnd=ChartReportItemPresentationImpl: getSize(...)Â â€“ Ende
 
-ChartReportItemPresentationImpl.log.SuccessfullyDeletedTemp=Temporäre {0}-Datei unter {1} erfolgreich gelöscht.
+ChartReportItemPresentationImpl.log.SuccessfullyDeletedTemp=TemporÃ¤re {0}-Datei unter {1} erfolgreich gelÃ¶scht.
 
-ChartReportItemPresentationImpl.log.finishEnd=ChartReportItemPresentationImpl: finish(...) ? Ende
+ChartReportItemPresentationImpl.log.finishEnd=ChartReportItemPresentationImpl: finish(...)Â ? Ende
 
-ChartWithoutAxesImpl.exception.3DNotSupported=3D wird für achsenlose Diagramme nicht unterstützt.
+ChartWithoutAxesImpl.exception.3DNotSupported=3D wird fÃ¼r achsenlose Diagramme nicht unterstÃ¼tzt.
 
-ChartReportItemPresentationImpl.log.finishStart=ChartReportItemPresentationImpl: finish(...) – Start
+ChartReportItemPresentationImpl.log.finishStart=ChartReportItemPresentationImpl: finish(...)Â â€“ Start
 
-ChartReportItemPresentationImpl.log.CouldNotDeleteTemp=Temporäre unter {1} erstellte {0}-Datei konnte nicht gelöscht werden.
+ChartReportItemPresentationImpl.log.CouldNotDeleteTemp=TemporÃ¤re unter {1} erstellte {0}-Datei konnte nicht gelÃ¶scht werden.
 
-ChartReportItemQueryImpl.log.getReportQueries.exception=ChartReportItemQueryImpl: getReportQueries(...) ? Ausnahme
+ChartReportItemQueryImpl.log.getReportQueries.exception=ChartReportItemQueryImpl: getReportQueries(...)Â ? Ausnahme
 
-ChartReportItemQueryImpl.log.getReportQueries.end=ChartReportItemQueryImpl: getReportQueries(...) – Ende
+ChartReportItemQueryImpl.log.getReportQueries.end=ChartReportItemQueryImpl: getReportQueries(...)Â â€“ Ende
 
-ChartReportItemQueryImpl.log.getReportQueries.start=ChartReportItemQueryImpl: getReportQueries(...) ? Start
+ChartReportItemQueryImpl.log.getReportQueries.start=ChartReportItemQueryImpl: getReportQueries(...)Â ? Start
 
 ChartReportItemQueryImpl.exception.getReportQueries=Berichtabfragen werden abgerufen
 
-ChartReportItemQueryImpl.log.UnableToLocate=Berichtobjekt-Wrapper für Diagrammobjekt kann nicht gefunden werden.
+ChartReportItemQueryImpl.log.UnableToLocate=Berichtobjekt-Wrapper fÃ¼r Diagrammobjekt kann nicht gefunden werden.
 
 ChartReportItemImpl.log.validate=Wird validiert (...)
 
 ChartReportItemImpl.log.getProperty=getProperty(...) - {0}
-ChartReportItemImpl.log.CannotSetState=Für ein Diagramm ohne Achsen kann nicht der Zustand 'Transponiert' festgelegt werden.
+ChartReportItemImpl.log.CannotSetState=FÃ¼r ein Diagramm ohne Achsen kann nicht der Zustand 'Transponiert' festgelegt werden.
 
 ChartReportItemImpl.log.UnexpectedChoiceName=Unerwarteten Auswahlnamen gefunden:
 
-ChartReportItemImpl.log.RequestForPropertyDefn=Anfrage für Eigenschaftsdefinitionen empfangen, bevor Model erstellt wurde.
+ChartReportItemImpl.log.RequestForPropertyDefn=Anfrage fÃ¼r Eigenschaftsdefinitionen empfangen, bevor Model erstellt wurde.
 
-ChartReportItemImpl.log.RequestForScriptPropertyDefn=Anfrage für Skripteigenschaftsdefinition
+ChartReportItemImpl.log.RequestForScriptPropertyDefn=Anfrage fÃ¼r Skripteigenschaftsdefinition
 
-ChartReportItemImpl.log.checkProperty=CheckProperty(...) – {0} mit Wert {1}
+ChartReportItemImpl.log.checkProperty=CheckProperty(...)Â â€“ {0} mit Wert {1}
 
-ChartReportItemImpl.log.setProperty=SetProperty(...) – {0} mit Wert {1}
+ChartReportItemImpl.log.setProperty=SetProperty(...)Â â€“ {0} mit Wert {1}
 
-QueryHelper.exception.UnexpectedNull=Unerwartete 'Null'-Abfragedefinition vom Erweiterungsframework geliefert – Bericht-Engine/-Erzeugung.
+QueryHelper.exception.UnexpectedNull=Unerwartete 'Null'-Abfragedefinition vom Erweiterungsframework geliefertÂ â€“ Bericht-Engine/-Erzeugung.
 
 QueryHelper.Text.CategroySeries=Kategorie-Datenreihe
 
@@ -75,9 +75,9 @@ QueryHelper.Text.XSeries=X-Datenreihe
 
 QueryHelper.Text.YSeries=Y-Datenreihe
 
-QueryHelper.NoDataDefinitionFor=Es sind keine Datendefinitionseinträge für {0} vorhanden
+QueryHelper.NoDataDefinitionFor=Es sind keine DatendefinitionseintrÃ¤ge fÃ¼r {0} vorhanden
 
-QueryHelper.dataDefnUndefined=Ein Datendefinitionseintrag für {0} wurde nicht definiert.
+QueryHelper.dataDefnUndefined=Ein Datendefinitionseintrag fÃ¼r {0} wurde nicht definiert.
 
 QueryHelper.InconsitentDataTypesForAxis=Alle Datendefinitionen auf derselben Y-Achse sollte vom selben Datentyp sein.
 
@@ -95,7 +95,7 @@ ChartElementCommandImpl.setProperty.script=Diagrammskript bearbeiten
 
 ChartElementCommandImpl.setProperty.onRender=Diagrammskript bearbeiten
 
-ChartImpl.error.DimensionUnitNotSupported=Dimensionseinheit ({0}) wird in Diagramm „Simple API“ nicht unterstützt
+ChartImpl.error.DimensionUnitNotSupported=Dimensionseinheit ({0}) wird in Diagramm â€žSimple APIâ€œ nicht unterstÃ¼tzt
 
 ################################################
 # Display names for report model extension 
@@ -110,7 +110,7 @@ Element.Chart.action=Aktion
 
 Element.Chart.altText=Alternativer Text
 
-Element.Chart.altTextID=Schlüssel für alternativen Text
+Element.Chart.altTextID=SchlÃ¼ssel fÃ¼r alternativen Text
 
 
 choice.chart.dimension.two_dimensional=2D
@@ -127,7 +127,7 @@ property.label.title.font.rotation=Titelrotation:
 
 property.label.legend.position=Position der Legende:
 
-property.label.legend.anchor=Anker für Legende:
+property.label.legend.anchor=Anker fÃ¼r Legende:
 
 property.label.chart.dimension=Dimension:
 
@@ -137,7 +137,7 @@ property.script=Skript
 
 property.onRender=onRender
 
-exception.no.cube.edge=Datenquadercursor hat keinen Rand. Prüfen Sie, ob die Abfrageausdrücke korrekt sind.
+exception.no.cube.edge=Datenquadercursor hat keinen Rand. PrÃ¼fen Sie, ob die AbfrageausdrÃ¼cke korrekt sind.
 
 exception.script.syntaxError=Skript-Syntaxfehler: {0}
 

@@ -1,19 +1,19 @@
-datasource.page.title=Classic Models Inc. ‚ÌV‹KƒTƒ“ƒvƒ‹ƒf[ƒ^ƒ\[ƒX
+datasource.page.title=Classic Models Inc. ã®æ–°è¦ã‚µãƒ³ãƒ—ãƒ«ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹
 
-datasource.page.msg=Ÿ‚ÌÚ‘±ƒvƒƒpƒeƒB‚ÉŠî‚Ã‚¢‚ÄAClassic Models Inc. ‚ÌƒTƒ“ƒvƒ‹ƒf[ƒ^ƒx[ƒX‚ÖÚ‘±‚·‚é JDBC ƒf[ƒ^ƒ\[ƒX‚ğì¬‚µ‚Ü‚·B
+datasource.page.msg=æ¬¡ã®æ¥ç¶šãƒ—ãƒ­ãƒ‘ãƒ†ã‚£ã«åŸºã¥ã„ã¦ã€Classic Models Inc. ã®ã‚µãƒ³ãƒ—ãƒ«ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹ã¸æ¥ç¶šã™ã‚‹ JDBC ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ã‚’ä½œæˆã—ã¾ã™ã€‚
 
-datasource.page.driver.class=ƒhƒ‰ƒCƒoƒNƒ‰ƒX :
+datasource.page.driver.class=ãƒ‰ãƒ©ã‚¤ãƒã‚¯ãƒ©ã‚¹ :
 
-datasource.page.url=ƒf[ƒ^ƒx[ƒX‚Ì URL :
+datasource.page.url=ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹ã® URL :
 
-datasource.page.user=ƒf[ƒ^ƒx[ƒX‚Ìƒ†[ƒU[ :
+datasource.page.user=ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹ã®ãƒ¦ãƒ¼ã‚¶ãƒ¼ :
 
-datasource.upgrade.msg.firstLine=‚±‚Ìƒf[ƒ^ƒZƒbƒg‚Åg—p‚µ‚Ä‚¢‚éƒf[ƒ^ƒ\[ƒX ({0}) ‚ÍA‚±‚Ì»•i‚ÌˆÈ‘O‚ÌƒŠƒŠ[ƒX‚Åì¬‚³‚ê‚Ä‚¢‚Ü‚·B
+datasource.upgrade.msg.firstLine=ã“ã®ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã§ä½¿ç”¨ã—ã¦ã„ã‚‹ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ ({0}) ã¯ã€ã“ã®è£½å“ã®ä»¥å‰ã®ãƒªãƒªãƒ¼ã‚¹ã§ä½œæˆã•ã‚Œã¦ã„ã¾ã™ã€‚
 
-datasource.upgrade.msg.secondLine=ƒf[ƒ^ƒ\[ƒX‚Ì’è‹`‚ğXV‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B \n\nƒf[ƒ^ƒ\[ƒX {0} ‚ğ¡‚·‚®XV‚·‚é‚É‚ÍA[OK] ‚ğƒNƒŠƒbƒN‚µ‚Ä‚­‚¾‚³‚¢B
+datasource.upgrade.msg.secondLine=ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ã®å®šç¾©ã‚’æ›´æ–°ã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚ \n\nãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ {0} ã‚’ä»Šã™ãæ›´æ–°ã™ã‚‹ã«ã¯ã€[OK] ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¦ãã ã•ã„ã€‚
 
-datasource.upgrade.msg.thirdLine=XV‚µ‚½Œã‚ÅA‚±‚Ìƒf[ƒ^ƒZƒbƒgƒGƒfƒBƒ^‚ğ‚à‚¤ˆê“xŠJ‚¢‚Ä‚­‚¾‚³‚¢B
+datasource.upgrade.msg.thirdLine=æ›´æ–°ã—ãŸå¾Œã§ã€ã“ã®ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã‚¨ãƒ‡ã‚£ã‚¿ã‚’ã‚‚ã†ä¸€åº¦é–‹ã„ã¦ãã ã•ã„ã€‚
 
-datasource.propertyPage.tooltip=JDBC ƒf[ƒ^ƒ\[ƒX
+datasource.propertyPage.tooltip=JDBC ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹
 
-datasource.page.warning=ƒTƒ“ƒvƒ‹ƒf[ƒ^ƒx[ƒX‚Å‚ÍŠO•”‰»‚µ‚½Ú‘±ƒvƒƒtƒ@ƒCƒ‹‚Ìg—p‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñBƒ[ƒJƒ‹ƒvƒƒpƒeƒB‚ğg—p‚·‚é‚æ‚¤‚ÉİŒv‚ª•ÏX‚³‚ê‚Ä‚¢‚Ü‚·B
+datasource.page.warning=ã‚µãƒ³ãƒ—ãƒ«ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹ã§ã¯å¤–éƒ¨åŒ–ã—ãŸæ¥ç¶šãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«ã®ä½¿ç”¨ã¯ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚ãƒ­ãƒ¼ã‚«ãƒ«ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£ã‚’ä½¿ç”¨ã™ã‚‹ã‚ˆã†ã«è¨­è¨ˆãŒå¤‰æ›´ã•ã‚Œã¦ã„ã¾ã™ã€‚

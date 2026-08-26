@@ -20,14 +20,14 @@ driver.template.property.class =Clase de controlador
 
 driver.template.property.vendor =Proveedor
 
-driver.template.property.version =Versión
+driver.template.property.version =VersiÃ³n
 
 driver.template.property.dbname =Base de datos
 
-driver.template.property.connection.url =URL de conexión
+driver.template.property.connection.url =URL de conexiÃ³n
 
 driver.template.property.user =Nombre de usuario
 
-driver.template.property.password =Contraseña
+driver.template.property.password =ContraseÃ±a
 
-driver.template.property.save.password =Guardar contraseña
+driver.template.property.save.password =Guardar contraseÃ±a

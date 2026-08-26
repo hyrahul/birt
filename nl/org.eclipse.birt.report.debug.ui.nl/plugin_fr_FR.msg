@@ -12,27 +12,27 @@
 report.debug=BIRT Report
 script.debug=Etat
 
-LaunchActionSet.label=Débogu&er le rapport
+LaunchActionSet.label=DÃ©bogu&er le rapport
 
-Script.source.locator=Localisateur de source Script d'état
+Script.source.locator=Localisateur de source Script d'Ã©tat
 
-Debug.jsEditor=Editeur JavaScript de débogage d'état
+Debug.jsEditor=Editeur JavaScript de dÃ©bogage d'Ã©tat
 
 javaSourceLocatorName=Java Source Locator
 Watch.label=Ajouter pour suivi
 
-ReportActionSet=Jeu d'actions d'état
+ReportActionSet=Jeu d'actions d'Ã©tat
 
-Run=Exécute&r
+Run=ExÃ©cute&r
 
 ScriptLaunchShortcut.label=Etat
 
-DebugReportLaunchShortcut.description=Déboguer un état
+DebugReportLaunchShortcut.description=DÃ©boguer un Ã©tat
 
-EnableBreakpoint.label=Activer point d'arrêt
+EnableBreakpoint.label=Activer point d'arrÃªt
 
-ToggleBreakpoint.label=Basculer point d'arrêt
+ToggleBreakpoint.label=Basculer point d'arrÃªt
 
-Action.DebugReport=Déboguer le rapport
+Action.DebugReport=DÃ©boguer le rapport
 
 Menu.Report=Rapport

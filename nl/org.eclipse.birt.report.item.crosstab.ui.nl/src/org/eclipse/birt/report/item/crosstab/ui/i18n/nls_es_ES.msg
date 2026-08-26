@@ -18,7 +18,7 @@ AddSubTotalAction.TotalName=TOTAL
 
 CrosstabMenuBuilder.EditCubeAction.DisplayName=&Editar cubo de datos
 
-DeleteDimensionViewHandleAction.TransName=Eliminar dimensiÛn
+DeleteDimensionViewHandleAction.TransName=Eliminar dimensi√≥n
 
 DeleteDimensionViewHandleAction.DisplayName=Qui&tar
 
@@ -26,47 +26,47 @@ DeleteMeasureHandleAction.DisplayName=Qui&tar
 
 DeleteMeasureHandleAction.TransName=Eliminar medida
 
-AddComputedMesureHandleAction.DisplayName=AÒadir &medida derivada
+AddComputedMesureHandleAction.DisplayName=A√±adir &medida derivada
 
-AddComputedMesureHandleAction.TransName=AÒadir medida derivada
+AddComputedMesureHandleAction.TransName=A√±adir medida derivada
 
 AddComputedSummaryDialog.Title=Medida derivada
 
 AddComputedSummaryDialog.Label.Name=&Nombre:
 
-AddComputedSummaryDialog.Label.Expression=&ExpresiÛn:
+AddComputedSummaryDialog.Label.Expression=&Expresi√≥n:
 
 AddComputedSummaryDialog.Label.DataType=Tipo de &datos:
 
-AddComputedSummaryDialog.ErrMsg.Msg1=El nombre de medida no puede estar vacÌo.
+AddComputedSummaryDialog.ErrMsg.Msg1=El nombre de medida no puede estar vac√≠o.
 
 AddComputedSummaryDialog.ErrMsg.Msg2=El nombre de medida ya existe.
 
-AddComputedSummaryDialog.ErrMsg.Msg3=La expresiÛn no puede estar vacÌa.
+AddComputedSummaryDialog.ErrMsg.Msg3=La expresi√≥n no puede estar vac√≠a.
 
 ShowAsViewAction.DisplayName=Mostrar como
 
 ShowAsViewAction.TransName=Mostrar como
 
-MeasureComboPropertyDescriptorProvider.TransName=Cambiar la orientaciÛn de la tabla de referencias cruzadas
+MeasureComboPropertyDescriptorProvider.TransName=Cambiar la orientaci√≥n de la tabla de referencias cruzadas
 
-MeasureHandleDropAdapter_trans_name=AÒadir medida
+MeasureHandleDropAdapter_trans_name=A√±adir medida
 
 ###########################################################
 # Crosstab Command trans name
-AddDimensionViewHandleCommand.TransName=AÒadir dimensiÛn
+AddDimensionViewHandleCommand.TransName=A√±adir dimensi√≥n
 
-AddMeasureViewHandleCommand.TransName=AÒadir medida
+AddMeasureViewHandleCommand.TransName=A√±adir medida
 
-AddRelativeTimePeriodAction_action_label=AÒadir perÌodo de tiempo re&lativo
+AddRelativeTimePeriodAction_action_label=A√±adir per√≠odo de tiempo re&lativo
 
-AddRelativeTimePeriodAction_trans_label=AÒadir perÌodo de tiempo relativo
+AddRelativeTimePeriodAction_trans_label=A√±adir per√≠odo de tiempo relativo
 
-ChangeAreaCommand.TransName=Suprimir dimensiÛn
+ChangeAreaCommand.TransName=Suprimir dimensi√≥n
 
 ChangeMeasureOrderCommand.TransName=Cambiar orden de medida
 
-CreateDimensionViewCommand.TransName=Crear dimensiÛn
+CreateDimensionViewCommand.TransName=Crear dimensi√≥n
 
 CreateMeasureViewCommand.TransName=Crear medida
 
@@ -74,7 +74,7 @@ MergeCrosstabHeaderCellAction_name=&Combinar celdas de encabezado
 
 SplitCrosstabHeadCellAction_name=&Dividir celda de encabezado
 
-ExtendedDataColumnXtabDropAdapter.trans.add=AÒadir {0}
+ExtendedDataColumnXtabDropAdapter.trans.add=A√±adir {0}
 
 ###########################################################
 # Crosstab EditPart
@@ -89,7 +89,7 @@ GrandTotalProvider.Column.DataField=Campo de datos
 
 GrandTotalProvider.Column.View=Ver
 
-GrandTotalProvider.Column.Position=PosiciÛn
+GrandTotalProvider.Column.Position=Posici√≥n
 
 GrandTotalProvider.Column.Function=Funciones
 
@@ -107,7 +107,7 @@ SubTotalProvider.Column.ViewStatus=Mantener vista actual
 
 SubTotalProvider.Column.View=Ver
 
-SubTotalProvider.Column.Position=PosiciÛn
+SubTotalProvider.Column.Position=Posici√≥n
 
 SubTotalProvider.ShowAs=Mostrar como {0}
 
@@ -125,9 +125,9 @@ AggregationDialog.Label.Grand=Totales generales:
 
 AggregationDialog.Label.Sub=Subtotales:
 
-AggregationDialog.TabItem.Title.RowArea=¡rea de fila
+AggregationDialog.TabItem.Title.RowArea=√Årea de fila
 
-AggregationDialog.TabItem.Title.ColumnArea=¡rea de columna
+AggregationDialog.TabItem.Title.ColumnArea=√Årea de columna
 
 ShowSummaryFieldDialog.Title=Mostrar/ocultar medidas
 
@@ -139,22 +139,22 @@ ShowSummaryFieldDialog.Column.View=Vistas
 
 ShowSummaryFieldDialog.ViewStatus=Mantener vista actual
 
-DeleteBindingDialog.Title=øEliminar los enlaces no utilizados?
+DeleteBindingDialog.Title=¬øEliminar los enlaces no utilizados?
 
-DeleteBindingDialog.Message=Esta acciÛn producir· enlaces de datos no utilizados.\n\nøDesea eliminar los enlaces no utilizados?
+DeleteBindingDialog.Message=Esta acci√≥n producir√° enlaces de datos no utilizados.\n\n¬øDesea eliminar los enlaces no utilizados?
 
-DeleteBindingDialog.ToggleMessage=&Recordar mi decisiÛn
+DeleteBindingDialog.ToggleMessage=&Recordar mi decisi√≥n
 ###########################################################
 # Crosstab Outline Node
-AreaNodeProvider.ColumnArea=¡rea de columna
+AreaNodeProvider.ColumnArea=√Årea de columna
 
-AreaNodeProvider.RowArea=¡rea de fila
+AreaNodeProvider.RowArea=√Årea de fila
 
-AreaNodeProvider.DetailArea=¡rea de detalle
+AreaNodeProvider.DetailArea=√Årea de detalle
 
-CrossTabViewNodeProvider.ColumnArea=¡rea de columna
+CrossTabViewNodeProvider.ColumnArea=√Årea de columna
 
-CrossTabViewNodeProvider.RowArea=¡rea de fila
+CrossTabViewNodeProvider.RowArea=√Årea de fila
 
 CrossTabCellNodeProvider.Cell=Celda
 
@@ -166,7 +166,7 @@ MeasureSubNodeProvider.Header=Encabezado
 
 MeasureSubNodeProvider.Detail=Detalle
 
-MeasureSubNodeProvider.Aggregation=AgregaciÛn
+MeasureSubNodeProvider.Aggregation=Agregaci√≥n
 
 CrosstabSortingModelProvider.ColumnName.GroupLevel=Nivel de grupo
 
@@ -180,13 +180,13 @@ CrosstabSortkeyBuilder.DialogTitle.Label.GroupLevel=&Nivel de grupo:
 
 SortkeyBuilder.DialogTitle.Button.ExpressionBuilder=Hacer clic para llamar al compilador de expresiones
 
-SortkeyBuilder.DialogTitle.Label.Direction=Di&recciÛn
+SortkeyBuilder.DialogTitle.Label.Direction=Di&recci√≥n
 
-SortkeyBuilder.Label.Locale=&ConfiguraciÛn regional:
+SortkeyBuilder.Label.Locale=&Configuraci√≥n regional:
 
 SortkeyBuilder.Label.Strength=&Intensidad:
 
-SortkeyBuilder.Locale.Auto=Autom·tico
+SortkeyBuilder.Locale.Auto=Autom√°tico
 
 ###########################################################
 #GrossTabPageGenerator properties
@@ -198,7 +198,7 @@ CrosstabPageGenerator.List.Font=Fuente
 
 CrosstabPageGenerator.List.Borders=Borde
 
-CrosstabPageGenerator.List.Section=Salto de p·gina
+CrosstabPageGenerator.List.Section=Salto de p√°gina
 
 CrosstabPageGenerator.List.Visibility=Visibilidad
 
@@ -216,11 +216,11 @@ CrosstabPageGenerator.List.EmptyRowColumn=Vaciar filas/columnas
 
 CrosstabPageGenerator.TabItem.Binding=Enlace
 
-CrosstabPageGenerator.TabItem.RowArea=¡rea de fila
+CrosstabPageGenerator.TabItem.RowArea=√Årea de fila
 
-CrosstabPageGenerator.TabItem.ColumnArea=¡rea de columna
+CrosstabPageGenerator.TabItem.ColumnArea=√Årea de columna
 
-CrosstabPageGenerator.TabItem.DetailArea=¡rea de detalle
+CrosstabPageGenerator.TabItem.DetailArea=√Årea de detalle
 
 CrosstabPageGenerator.TabItem.Filters=Filtros
 
@@ -230,9 +230,9 @@ CrosstabPageGenerator.TabItem.map=Asignar
 
 CrosstabPageGenerator.TabItem.Sorting=Ordenar
 
-CrosstabGeneralPage.ForEmptyCell=En las celdas vacÌas, &mostrar:
+CrosstabGeneralPage.ForEmptyCell=En las celdas vac√≠as, &mostrar:
 
-LayoutMeasuresSection.DisplayName=O&rientaciÛn:
+LayoutMeasuresSection.DisplayName=O&rientaci√≥n:
 
 CrosstabGeneralPage.HideMeasureHeader=&Ocultar encabezado de medidas
 
@@ -242,7 +242,7 @@ CrosstabEventHandlerPage.dialog.Browse=&Examinar...
 
 ###########################################################
 #SortingHandleProvider properties
-SortingHandleProvider.Label.SortOn=Ordenar seg˙n:
+SortingHandleProvider.Label.SortOn=Ordenar seg√∫n:
 
 Element.ReportItem.dataSet=Conjunto de datos:
 
@@ -254,11 +254,11 @@ FilterHandleProvider.Label.Filterby=Filtrar por:
 
 ###########################################################
 #EmptyRowColumnProvider properties
-EmptyRowColumnPage.Label.Text=Seleccione la casilla de verificaciÛn si las filas y columnas vacÌas deben aparecer en un nivel de tabla de referencias cruzadas.
+EmptyRowColumnPage.Label.Text=Seleccione la casilla de verificaci√≥n si las filas y columnas vac√≠as deben aparecer en un nivel de tabla de referencias cruzadas.
 
-EmptyRowColumnProvider.RowView.Button.Text=Mostrar &filas vacÌas
+EmptyRowColumnProvider.RowView.Button.Text=Mostrar &filas vac√≠as
 
-EmptyRowColumnProvider.ColumnView.Button.Text=Mostrar &columnas vacÌas
+EmptyRowColumnProvider.ColumnView.Button.Text=Mostrar &columnas vac√≠as
 
 ###########################################################
 #CategoryPageGenerator properties
@@ -271,9 +271,9 @@ FilterConditionBuilder.DialogMessage.Edit=
 
 FilterConditionBuilder.DialogMessage.New=
 
-FilterConditionBuilder.DialogTitle.New=Nueva condiciÛn de filtro
+FilterConditionBuilder.DialogTitle.New=Nueva condici√≥n de filtro
 
-FilterConditionBuilder.DialogTitle.Edit=Editar condiciÛn de filtro
+FilterConditionBuilder.DialogTitle.Edit=Editar condici√≥n de filtro
 
 FilterConditionBuilder.choice.ValueOfThisDataItem=Valor de este elemento de datos
 
@@ -281,7 +281,7 @@ FilterConditionBuilder.tooltip.ExpBuilder=Hacer clic para llamar al compilador d
 
 FilterConditionBuilder.text.AND=Y
 
-FilterConditionBuilder.text.Condition=&CondiciÛn de filtro:
+FilterConditionBuilder.text.Condition=&Condici√≥n de filtro:
 
 FilterConditionBuilder.text.GroupLevel=Nivel de &grupo:
 
@@ -293,15 +293,15 @@ FilterConditionBuilder.button.delete=Eli&minar
 
 FilterConditionBuilder.button.deleteall=Elimi&nar todos
 
-FilterConditionBuilder.button.add=&AÒadir
+FilterConditionBuilder.button.add=&A√±adir
 
-FilterConditionBuilder.button.edit.tooltip=Editar la selecciÛn en lista de valores
+FilterConditionBuilder.button.edit.tooltip=Editar la selecci√≥n en lista de valores
 
 FilterConditionBuilder.button.delete.tooltip=Eliminar el valor seleccionado de la lista
 
 FilterConditionBuilder.button.deleteall.tooltip=Eliminar todos los valores de la lista
 
-FilterConditionBuilder.button.add.tooltip=AÒadir el valor a la lista de valores
+FilterConditionBuilder.button.add.tooltip=A√±adir el valor a la lista de valores
 
 CrosstabFilterConditionBuilder.Item.Decorator=--------
 
@@ -311,9 +311,9 @@ CrosstabFilterConditionBuilder.Item.SelectLevel=---Seleccionar nivel---
 
 CrosstabFilterConditionBuilder.Item.SelectMeasure=---Seleccionar medida---
 
-CrosstabFilterConditionBuilder.DialogMessage.New=Seleccione el nivel de grupo de destino o medida a la que aplicar el filtro y, a continuaciÛn, establezca la condiciÛn de filtro.
+CrosstabFilterConditionBuilder.DialogMessage.New=Seleccione el nivel de grupo de destino o medida a la que aplicar el filtro y, a continuaci√≥n, establezca la condici√≥n de filtro.
 
-CrosstabFilterConditionBuilder.DialogMessage.Edit=Seleccione el nivel de grupo de destino o medida a la que aplicar el filtro y, a continuaciÛn, establezca la condiciÛn de filtro.
+CrosstabFilterConditionBuilder.DialogMessage.Edit=Seleccione el nivel de grupo de destino o medida a la que aplicar el filtro y, a continuaci√≥n, establezca la condici√≥n de filtro.
 
 CrosstabFilterConditionBuilder.label.value=Valor
 
@@ -327,7 +327,7 @@ CrosstabFilterConditionBuilder.Button.Cube=&Cubo
 
 FilterbyTree.Bindings.Catogory.Measures=Medida
 
-FilterbyTree.Bindings.Catogory.Dimension=DimensiÛn
+FilterbyTree.Bindings.Catogory.Dimension=Dimensi√≥n
 
 FilterbyTree.Bindings.Catogory.GrandTotal=Total general
 
@@ -343,11 +343,11 @@ FilterbyTree.Message=Filtrar por
 
 ###########################################################
 #VirtualCellEditPart.java
-Blank.text.column=Suprimir los campos de datos para definir aquÌ las columnas
+Blank.text.column=Suprimir los campos de datos para definir aqu√≠ las columnas
 
-Blank.text.row=Suprimir los campos de datos\npara definir aquÌ las filas
+Blank.text.row=Suprimir los campos de datos\npara definir aqu√≠ las filas
 
-Blank.text.measure=Suprimir los campos de datos para resumirlos aquÌ
+Blank.text.measure=Suprimir los campos de datos para resumirlos aqu√≠
 
 ###########################################################
 #CrosstabGrandTotalDialog
@@ -355,7 +355,7 @@ CrosstabGrandTotalDialog.Title=Total general
 
 CrosstabGrandTotalDialog.Text.DataField=&Campo de datos:
 
-CrosstabGrandTotalDialog.Text.Function=&FunciÛn:
+CrosstabGrandTotalDialog.Text.Function=&Funci√≥n:
 
 
 ###########################################################
@@ -364,7 +364,7 @@ CrosstabPageBreakProvider.Column.GroupLevel=Nivel de grupo
 
 CrosstabPageBreakProvider.Column.Before=Antes
 
-CrosstabPageBreakProvider.Column.After=DespuÈs
+CrosstabPageBreakProvider.Column.After=Despu√©s
 
 CrosstabPageBreakProvider.Column.Inside=Interior
 
@@ -376,21 +376,21 @@ CrosstabSubToatalProvider.Column.AggregateOn=Agregar en
 
 CrosstabSubToatalProvider.Column.DataField=Campo de datos
 
-CrosstabSubToatalProvider.Column.Function=FunciÛn
+CrosstabSubToatalProvider.Column.Function=Funci√≥n
 
 ###########################################################
 #CrosstabPageBreakDialog
-CrosstabPageBreakDialog.Title=Salto de p·gina
+CrosstabPageBreakDialog.Title=Salto de p√°gina
 
 CrosstabPageBreakDialog.Text.GroupLevel=&Nivel de grupo:
 
 CrosstabPageBreakDialog.Text.PageBreakBefore=&Antes:
 
-CrosstabPageBreakDialog.Text.PageBreakAfter=&DespuÈs:
+CrosstabPageBreakDialog.Text.PageBreakAfter=&Despu√©s:
 
 CrosstabPageBreakDialog.Text.PageBreakInside=&Interior:
 
-CrosstabPageBreakDialog.Text.PageBreakInterval=&Intervalo de salto de p·gina:
+CrosstabPageBreakDialog.Text.PageBreakInterval=&Intervalo de salto de p√°gina:
 
 ###########################################################
 #SubTotalDialog
@@ -398,7 +398,7 @@ SubTotalDialog.Title=Subtotal
 
 SubTotalDialog.Text.AggregateOn=&Agregar en:
 
-SubTotalDialog.Text.Function=&FunciÛn:
+SubTotalDialog.Text.Function=&Funci√≥n:
 
 SubTotalDialog.Text.DataField=&Campo de datos:
 
@@ -408,9 +408,9 @@ CrosstabPageGenerator.List.SubTotals=Subtotales
 
 CrosstabPageGenerator.List.GrandTotals=Totales generales
 
-CrosstabPageGenerator.List.PageBreak=Salto de p·gina
+CrosstabPageGenerator.List.PageBreak=Salto de p√°gina
 
-PageLayoutPropertyDescriptorProvider.PageLayout=DiseÒo de p·gina:
+PageLayoutPropertyDescriptorProvider.PageLayout=Dise√±o de p√°gina:
 
 RowPageBreak.RepeatColumnHeader=Repetir &encabezado de columna
 
@@ -418,7 +418,7 @@ ColumnPageBreak.RepeatRowHeader=Re&petir encabezado de fila
 
 ###########################################################
 #ExpressionValueCellEditor properties
-ExpressionValueCellEditor.buildExpressionAction=<Compilar expresiÛn...>
+ExpressionValueCellEditor.buildExpressionAction=<Compilar expresi√≥n...>
 
 ExpressionValueCellEditor.selectValueAction=<Seleccionar valor...>
 
@@ -448,25 +448,25 @@ ChoiceSetFactory.choice.None=Ninguno
 #SelectValueDialog properties
 SelectValueDialog.errorRetrievinglist=Error al recuperar la lista
 
-SelectValueDialog.messages.error.selectVauleUnavailable=No se puede recuperar el valor de la expresiÛn.
+SelectValueDialog.messages.error.selectVauleUnavailable=No se puede recuperar el valor de la expresi√≥n.
 
-SelectValueDialog.noExpressionSet=No se ha ajustado ninguna expresiÛn
+SelectValueDialog.noExpressionSet=No se ha ajustado ninguna expresi√≥n
 
 SelectValueDialog.retrieving=Recuperando lista...
 
 SelectValueDialog.selectValue=Seleccionar valor
 
-SelectValueDialog.messages.info.selectVauleUnavailable=La lista de valores no est· disponible.
+SelectValueDialog.messages.info.selectVauleUnavailable=La lista de valores no est√° disponible.
 
 CrosstabPreferencePage.Title=Tabla de referencias cruzadas
 
-CrosstabPreferencePage.filterLimit=LÌmite de filtro
+CrosstabPreferencePage.filterLimit=L√≠mite de filtro
 
-CrosstabPreferencePage.filterLimit.prompt=N˙mero m·ximo de &valores que mostrar:
+CrosstabPreferencePage.filterLimit.prompt=N√∫mero m√°ximo de &valores que mostrar:
 
-CrosstabPreferencePage.Error.MaxRowInvalid=El valor de n˙mero no es v·lido.
+CrosstabPreferencePage.Error.MaxRowInvalid=El valor de n√∫mero no es v√°lido.
 
-CrosstabPreferencePage.autoDelBindings.Text=Eliminar los enlaces no utilizados despuÈs de los cambios estructurales de la tabla de referencias cruzadas
+CrosstabPreferencePage.autoDelBindings.Text=Eliminar los enlaces no utilizados despu√©s de los cambios estructurales de la tabla de referencias cruzadas
 
 CrosstabPreferencePage.autoDelBindings.Text.Prompt=&Solicitar
 
@@ -476,13 +476,13 @@ CrosstabPreferencePage.autoDelBindings.Text.Never=&Nunca
 
 CrosstabPreferencePage.promptGroup=Solicitar
 
-CrosstabPreferencePage.cubePopup.Text=Su&gerencia despuÈs de colocar los campos en la tabla de referencias cruzadas y crear un cubo correctamente.
+CrosstabPreferencePage.cubePopup.Text=Su&gerencia despu√©s de colocar los campos en la tabla de referencias cruzadas y crear un cubo correctamente.
 
 ###########################################################
 #Crosstab DataBinding properties
-CrosstabDataBinding.title.ChangeCube=øCambiar cubo?
+CrosstabDataBinding.title.ChangeCube=¬øCambiar cubo?
 
-CrosstabDataBinding.message.changeCube=Va a cambiar el enlace de datos de la tabla de referencias cruzadas.  \n\nøDesea borrar todos los enlaces de columna de datos existentes?
+CrosstabDataBinding.message.changeCube=Va a cambiar el enlace de datos de la tabla de referencias cruzadas.  \n\n¬øDesea borrar todos los enlaces de columna de datos existentes?
 
 ###########################################################
 #Crosstab DropAdapter properties
@@ -496,7 +496,7 @@ CubeBuilder.warning.prompt=No &volver a mostrar este mensaje
 
 ###########################################################
 #Crosstab drag tracker
-CrosstabColumnDragTracker.ResizeColumn=Cambiar tamaÒo de columna
+CrosstabColumnDragTracker.ResizeColumn=Cambiar tama√±o de columna
 
 CrosstabColumnDragTracker.Show.Label=Ancho:
 
@@ -517,15 +517,15 @@ CrosstabSortKeyBuilder.MSG.CreateNew=Nuevo...
 
 InsertCubeInLayoutAction.menu.text=&Editar
 
-InsertCubeInLayoutAction.action.text=I&nsertar en diseÒo
+InsertCubeInLayoutAction.action.text=I&nsertar en dise√±o
 
 InsertCubeInLayoutAction.action.message=Crear tabla de referencias cruzadas desde cubo
 
 MapRuleBuilderDialog.MsgDlg.Title=Advertencia
 
-MapRuleBuilderDialog.MsgDlg.Msg=El valor no puede estar vacÌo.
+MapRuleBuilderDialog.MsgDlg.Msg=El valor no puede estar vac√≠o.
 
-LevelHandleDropAdapter.ActionText=AÒadir una dimensiÛn
+LevelHandleDropAdapter.ActionText=A√±adir una dimensi√≥n
 
 LevelPropertyDialog.MSG.CreateNew=
 
@@ -538,27 +538,27 @@ CrosstabHighlightRuleBuilderDialog.text.Description.Element.Crosstabcell=celda d
 
 CrosstabHighlightRuleBuilderDialog.text.Description.Element.ReportElement=elemento de informe
 
-CrosstabHighlightRuleBuilderDialog.text.Description=Aplique formato condicional a {0}. Especifique la expresiÛn y el formato condicional.\nEl formato se aplicar· si la expresiÛn se eval˙a con True.
+CrosstabHighlightRuleBuilderDialog.text.Description=Aplique formato condicional a {0}. Especifique la expresi√≥n y el formato condicional.\nEl formato se aplicar√° si la expresi√≥n se eval√∫a con True.
 
 ###########################################################
 #CrosstabFilterConditionBuilder properties
-CrosstabFilterConditionBuilder.ExpressionEditor.Title=Editor de expresiÛn
+CrosstabFilterConditionBuilder.ExpressionEditor.Title=Editor de expresi√≥n
 
 CrosstabFilterConditionBuilder.MsgDlg.Msg=Advertencia
 
-CrosstabFilterConditionBuilder.MsgDlg.Title=El valor no puede estar vacÌo.
+CrosstabFilterConditionBuilder.MsgDlg.Title=El valor no puede estar vac√≠o.
 
 CrosstabFilterConditionBuilder.Button.UpdateAggregation=Recalcular &totales
 
 ###########################################################
 #Breadcrumb provider properties
-VirtualCrosstabCellNodeProvider.Display.ColumnArea=¡rea de columna
+VirtualCrosstabCellNodeProvider.Display.ColumnArea=√Årea de columna
 
-VirtualCrosstabCellNodeProvider.Display.DetailArea=¡rea de detalle
+VirtualCrosstabCellNodeProvider.Display.DetailArea=√Årea de detalle
 
-VirtualCrosstabCellNodeProvider.Display.RowArea=¡rea de fila
+VirtualCrosstabCellNodeProvider.Display.RowArea=√Årea de fila
 
-VirtualCrosstabCellNodeProvider.Display.UnknownArea=¡rea desconocida
+VirtualCrosstabCellNodeProvider.Display.UnknownArea=√Årea desconocida
 
 CrosstabBindingComboPropertyDescriptorProvider.Flag.DataModel=\ (Modelo de datos)
 

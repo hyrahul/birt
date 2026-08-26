@@ -19,7 +19,7 @@ ApplicationName=BIRT Report Designer
 ReportPerspective=BIRT Report Designer
 CHEAT_SHEETS=Spickzettel
 
-CHEAT_SHEETS_MENU=&Spickzettel ...
+CHEAT_SHEETS_MENU=&SpickzettelÂ ...
 
 ReportEditor=Bericht-Editor
 

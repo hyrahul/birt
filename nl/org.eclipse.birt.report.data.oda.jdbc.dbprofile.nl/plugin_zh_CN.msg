@@ -34,4 +34,4 @@ datasource.property.driverClass=JDBC Driver &Class
 
 datasource.property.jarlist=JDBC Driver &JAR List
 
-datasource.property.databasename=Êı¾İ¿â(&D)
+datasource.property.databasename=æ•°æ®åº“(&D)

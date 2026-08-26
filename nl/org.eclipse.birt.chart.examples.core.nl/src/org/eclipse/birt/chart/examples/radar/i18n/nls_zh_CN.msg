@@ -1,123 +1,123 @@
-RadarSeriesImpl.displayName=À×´ïÍ¼ÏµÁĞ
+RadarSeriesImpl.displayName=é›·è¾¾å›¾ç³»åˆ—
 
-RadarChart.Txt.DefaultRadarChartTitle=À×´ïÍ¼±êÌâ
+RadarChart.Txt.DefaultRadarChartTitle=é›·è¾¾å›¾æ ‡é¢˜
 
-RadarChart.Txt.DisplayName=À×´ïÍ¼
+RadarChart.Txt.DisplayName=é›·è¾¾å›¾
 
-RadarChart.SubType.Standard=±ê×¼À×´ïÍ¼
+RadarChart.SubType.Standard=æ ‡å‡†é›·è¾¾å›¾
 
-RadarChart.SubType.Spider=ĞÇĞÎÀ×´ïÍ¼
+RadarChart.SubType.Spider=æ˜Ÿå½¢é›·è¾¾å›¾
 
-RadarChart.SubType.Bullseye=°ĞÑÛÀ×´ïÍ¼
+RadarChart.SubType.Bullseye=é¶çœ¼é›·è¾¾å›¾
 
-RadarChart.Tooltip.InputExpression=ÊäÈë¶ÔÃ¿¸öÏîÄ¿ÏÔÊ¾ÎªÍ¼ÀıÎÄ±¾µÄ±í´ïÊ½
+RadarChart.Tooltip.InputExpression=è¾“å…¥å¯¹æ¯ä¸ªé¡¹ç›®æ˜¾ç¤ºä¸ºå›¾ä¾‹æ–‡æœ¬çš„è¡¨è¾¾å¼
 
-RadarChart.Txt.HelpText=À×´ïÍ¼ÏÔÊ¾Ä³¸ö¶ÈÁ¿µÄµ±Ç°Êı¾İÖµ¡£ ¾ßÓĞ²»Í¬ÑÕÉ«µÄÇøÓò±íÊ¾¶ÈÁ¿ÖµµÄ·¶Î§¡£ Ò»¸öÖ¸ÕëÓëÒ»¸ö¿Ì¶ÈÅÌ¹ØÁª£¬ÏÔÊ¾¿Ì¶ÈÖµ¡£
+RadarChart.Txt.HelpText=é›·è¾¾å›¾æ˜¾ç¤ºæŸä¸ªåº¦é‡çš„å½“å‰æ•°æ®å€¼ã€‚ å…·æœ‰ä¸åŒé¢œè‰²çš„åŒºåŸŸè¡¨ç¤ºåº¦é‡å€¼çš„èŒƒå›´ã€‚ ä¸€ä¸ªæŒ‡é’ˆä¸ä¸€ä¸ªåˆ»åº¦ç›˜å…³è”ï¼Œæ˜¾ç¤ºåˆ»åº¦å€¼ã€‚
 
-RadarChart.Txt.Description=±ê×¼À×´ïÍ¼°üº¬ÓÉÒ»¸ö»ò¶à¸öÏµÁĞ¶à±ßĞÎ/Ïß¶Î¸²¸ÇµÄÔ²ĞÎÍø¸ñ
+RadarChart.Txt.Description=æ ‡å‡†é›·è¾¾å›¾åŒ…å«ç”±ä¸€ä¸ªæˆ–å¤šä¸ªç³»åˆ—å¤šè¾¹å½¢/çº¿æ®µè¦†ç›–çš„åœ†å½¢ç½‘æ ¼
 
-RadarChart.Txt.SpiderDescription=ĞÇĞÎÀ×´ïÍ¼°üº¬ÓÉÒ»¸ö»ò¶à¸öÏµÁĞ¶à±ßĞÎ/Ïß¶Î¸²¸ÇµÄ¶à±ßĞÎÍø¸ñ
+RadarChart.Txt.SpiderDescription=æ˜Ÿå½¢é›·è¾¾å›¾åŒ…å«ç”±ä¸€ä¸ªæˆ–å¤šä¸ªç³»åˆ—å¤šè¾¹å½¢/çº¿æ®µè¦†ç›–çš„å¤šè¾¹å½¢ç½‘æ ¼
 
-RadarChart.Txt.BullseyeDescription=°ĞÑÛÀ×´ïÍ¼°üº¬ÓÉÒ»¸ö»ò¶à¸öÏµÁĞ¶à±ßĞÎ/Ïß¶Î¸²¸ÇµÄÔ²ĞÎÌî³äÍø¸ñ
+RadarChart.Txt.BullseyeDescription=é¶çœ¼é›·è¾¾å›¾åŒ…å«ç”±ä¸€ä¸ªæˆ–å¤šä¸ªç³»åˆ—å¤šè¾¹å½¢/çº¿æ®µè¦†ç›–çš„åœ†å½¢å¡«å……ç½‘æ ¼
 
-RadarSeriesAttributeComposite.Lbl.Radius=°ë¾¶(&U):
+RadarSeriesAttributeComposite.Lbl.Radius=åŠå¾„(&U):
 
-RadarSeriesAttributeComposite.Lbl.StartAngle=ÆğÊ¼½Ç¶È(&G):
+RadarSeriesAttributeComposite.Lbl.StartAngle=èµ·å§‹è§’åº¦(&G):
 
-RadarSeriesAttributeComposite.Lbl.StopAngle=Í£Ö¹½Ç¶È(&E):
+RadarSeriesAttributeComposite.Lbl.StopAngle=åœæ­¢è§’åº¦(&E):
 
-RadarSeriesAttributeSheetImpl.Lbl.Type=ÀàĞÍ:
+RadarSeriesAttributeSheetImpl.Lbl.Type=ç±»å‹:
 
-RadarSeriesAttributeSheetImpl.Lbl.Fill=Ìî³ä:
+RadarSeriesAttributeSheetImpl.Lbl.Fill=å¡«å……:
 
-RadarSeriesAttributeComposite.Lbl.DialTicks=¿Ì¶ÈÏß(&T)
+RadarSeriesAttributeComposite.Lbl.DialTicks=åˆ»åº¦çº¿(&T)
 
-RadarSeriesAttributeComposite.Lbl.DialScale=±ÈÀı(&C)
+RadarSeriesAttributeComposite.Lbl.DialScale=æ¯”ä¾‹(&C)
 
-RadarBaseSeriesComponent.Label.CategoryDefinition=Àà±ğ¶¨Òå(&C):
+RadarBaseSeriesComponent.Label.CategoryDefinition=ç±»åˆ«å®šä¹‰(&C):
 
-RadarSeriesAttributeComposite.Lbl.ShowWeb=ÏÔÊ¾ Web ±êÇ©(&W)
+RadarSeriesAttributeComposite.Lbl.ShowWeb=æ˜¾ç¤º Web æ ‡ç­¾(&W)
 
-RadarSeriesAttributeComposite.Lbl.ShowCat=ÏÔÊ¾Àà±ğ±êÇ©(&C)
+RadarSeriesAttributeComposite.Lbl.ShowCat=æ˜¾ç¤ºç±»åˆ«æ ‡ç­¾(&C)
 
-RadarSeriesAttributeComposite.Exception.IllegalArgument=¶ÔÓÚ RadarSeriesAttributeComposite£¬ÀàĞÍ {0} µÄÏµÁĞÊÇÎŞĞ§²ÎÊı¡£
+RadarSeriesAttributeComposite.Exception.IllegalArgument=å¯¹äº RadarSeriesAttributeCompositeï¼Œç±»å‹ {0} çš„ç³»åˆ—æ˜¯æ— æ•ˆå‚æ•°ã€‚
 
-RadarSeriesAttributeComposite.Lbl.LinePalette=ÔÚÈ·¶¨ÏßÌõÑÕÉ«Ê±Ê¹ÓÃÏµÁĞÑ¡Ïî°å(&P)
+RadarSeriesAttributeComposite.Lbl.LinePalette=åœ¨ç¡®å®šçº¿æ¡é¢œè‰²æ—¶ä½¿ç”¨ç³»åˆ—é€‰é¡¹æ¿(&P)
 
-RadarSeriesAttributeComposite.Lbl.FillPoly=Ìî³ä¶à±ßĞÎ(&G)
+RadarSeriesAttributeComposite.Lbl.FillPoly=å¡«å……å¤šè¾¹å½¢(&G)
 
-RadarSeriesAttributeComposite.Lbl.ConnectPoints=Á¬½ÓÊı¾İ¼¯¶Ëµã(¶à±ßĞÎ)(&C)
+RadarSeriesAttributeComposite.Lbl.ConnectPoints=è¿æ¥æ•°æ®é›†ç«¯ç‚¹(å¤šè¾¹å½¢)(&C)
 
-RadarSeriesAttributeComposite.Lbl.ShowLinesAsCurves=ÏßÏÔÊ¾ÎªÇúÏß(&H)
+RadarSeriesAttributeComposite.Lbl.ShowLinesAsCurves=çº¿æ˜¾ç¤ºä¸ºæ›²çº¿(&H)
 
-RadarSeriesMarkerSheet.Label.Markers=±ê¼Ç(&M)
+RadarSeriesMarkerSheet.Label.Markers=æ ‡è®°(&M)
 
-RadarSeriesMarkerSheet.GroupLabel.Markers=±ê¼Ç
+RadarSeriesMarkerSheet.GroupLabel.Markers=æ ‡è®°
 
-RadarSeriesMarkerSheet.Label.Web=À×´ïÏßÅäÖÃ
+RadarSeriesMarkerSheet.Label.Web=é›·è¾¾çº¿é…ç½®
 
-RadarSeriesMarkerSheet.Label.Series=ÏµÁĞÏßÅäÖÃ
+RadarSeriesMarkerSheet.Label.Series=ç³»åˆ—çº¿é…ç½®
 
-Radar.Composite.Label.ScaleCount.MinMaxWarning=²½Êı±ØĞë½éÓÚ {0} - {1} Ö®¼ä!
+Radar.Composite.Label.ScaleCount.MinMaxWarning=æ­¥æ•°å¿…é¡»ä»‹äº {0} - {1} ä¹‹é—´!
 
-Radar.Composite.Label.ScaleCount=²½Êı(&N)
+Radar.Composite.Label.ScaleCount=æ­¥æ•°(&N)
 
-Radar.Composite.Label.ScaleCountToolTip=ÔÚÍ¼±íÖĞ´´½¨Ê±ËùÓÃµÄÊı±ê²½½øÖµ
+Radar.Composite.Label.ScaleCountToolTip=åœ¨å›¾è¡¨ä¸­åˆ›å»ºæ—¶æ‰€ç”¨çš„æ•°æ ‡æ­¥è¿›å€¼
 
-Radar.Composite.Label.bullsEye=½«°ĞÑÛÑÕÉ«ÉèÖÃÎª°ëÍ¸Ã÷
+Radar.Composite.Label.bullsEye=å°†é¶çœ¼é¢œè‰²è®¾ç½®ä¸ºåŠé€æ˜
 
-Format.Button.Web.Label=ÉèÖÃ Web ±êÇ©¸ñÊ½(&F)
+Format.Button.Web.Label=è®¾ç½® Web æ ‡ç­¾æ ¼å¼(&F)
 
-Format.Button.Cat.Label=ÉèÖÃÀà±ğ±êÇ©¸ñÊ½(&F)
+Format.Button.Cat.Label=è®¾ç½®ç±»åˆ«æ ‡ç­¾æ ¼å¼(&F)
 
-WebLabel.Tooltip.FormatSpecifier=ÉèÖÃ Web ±êÇ©¸ñÊ½
+WebLabel.Tooltip.FormatSpecifier=è®¾ç½® Web æ ‡ç­¾æ ¼å¼
 
-CatLabel.Tooltip.FormatSpecifier=ÉèÖÃÀà±ğ±êÇ©¸ñÊ½
+CatLabel.Tooltip.FormatSpecifier=è®¾ç½®ç±»åˆ«æ ‡ç­¾æ ¼å¼
 
-RadarSeriesMarkerSheet.Label.WebLabel=ÅäÖÃ Web ±êÇ©
+RadarSeriesMarkerSheet.Label.WebLabel=é…ç½® Web æ ‡ç­¾
 
-RadarSeriesMarkerSheet.Label.CatLabel=ÅäÖÃÀà±ğ±êÇ©
+RadarSeriesMarkerSheet.Label.CatLabel=é…ç½®ç±»åˆ«æ ‡ç­¾
 
-RadarSeriesUIProvider..Title.RadarLine=À×´ïÏß
+RadarSeriesUIProvider..Title.RadarLine=é›·è¾¾çº¿
 
-RadarSeriesUIProvider.Label.CategoryLabels=Àà±ğ±êÇ©(&G)
+RadarSeriesUIProvider.Label.CategoryLabels=ç±»åˆ«æ ‡ç­¾(&G)
 
-RadarSeriesUIProvider.Label.RadarLine=À×´ïÏß(&D)
+RadarSeriesUIProvider.Label.RadarLine=é›·è¾¾çº¿(&D)
 
-RadarSeriesUIProvider.Label.ValueDefinition=À×´ïÖµ¶¨Òå:
+RadarSeriesUIProvider.Label.ValueDefinition=é›·è¾¾å€¼å®šä¹‰:
 
-RadarSeriesUIProvider.Label.WebLabels=Web ±êÇ©(&W)
+RadarSeriesUIProvider.Label.WebLabels=Web æ ‡ç­¾(&W)
 
-RadarSeriesUIProvider.Title.CategoryLabels=Àà±ğ±êÇ©
+RadarSeriesUIProvider.Title.CategoryLabels=ç±»åˆ«æ ‡ç­¾
 
-RadarSeriesUIProvider.Title.WebLabels=Web ±êÇ©
+RadarSeriesUIProvider.Title.WebLabels=Web æ ‡ç­¾
 
-Radar.Composite.Label.ScaleAuto=×Ô¶¯µ÷Õû±ÈÀı
+Radar.Composite.Label.ScaleAuto=è‡ªåŠ¨è°ƒæ•´æ¯”ä¾‹
 
-Radar.Composite.Label.ScaleAutoTooltip=×Ô¶¯µ÷ÕûÍ¼±í±ÈÀı
+Radar.Composite.Label.ScaleAutoTooltip=è‡ªåŠ¨è°ƒæ•´å›¾è¡¨æ¯”ä¾‹
 
-Radar.Composite.Label.ScaleMax=±ÈÀı×î´óÖµ
+Radar.Composite.Label.ScaleMax=æ¯”ä¾‹æœ€å¤§å€¼
 
-Radar.Composite.Label.ScaleMaxToolTip=ÉèÖÃÍ¼±í±ÈÀı×î´óÖµ
+Radar.Composite.Label.ScaleMaxToolTip=è®¾ç½®å›¾è¡¨æ¯”ä¾‹æœ€å¤§å€¼
 
-Radar.Composite.Label.ScaleMin=±ÈÀı×îĞ¡Öµ
+Radar.Composite.Label.ScaleMin=æ¯”ä¾‹æœ€å°å€¼
 
-Radar.Composite.Label.ScaleMinToolTip=ÉèÖÃÍ¼±í±ÈÀı×îĞ¡Öµ
+Radar.Composite.Label.ScaleMinToolTip=è®¾ç½®å›¾è¡¨æ¯”ä¾‹æœ€å°å€¼
 
-Radar.Composite.Label.PlotPercentageToolTip=À×´ïÍ¼ÔÚ»æÍ¼ÇøÖĞËùÕ¼°Ù·Ö±È
+Radar.Composite.Label.PlotPercentageToolTip=é›·è¾¾å›¾åœ¨ç»˜å›¾åŒºä¸­æ‰€å ç™¾åˆ†æ¯”
 
-ItemLabel.Visible=¿É¼û:
+ItemLabel.Visible=å¯è§:
 
-ItemLabel.Auto=×Ô¶¯
+ItemLabel.Auto=è‡ªåŠ¨
 
-ItemLabel.True=Õæ
+ItemLabel.True=çœŸ
 
-ItemLabel.False=¼Ù
+ItemLabel.False=å‡
 
-ItemLabel.Show=ÏÔÊ¾
+ItemLabel.Show=æ˜¾ç¤º
 
-ItemLabel.Hide=Òş²Ø
+ItemLabel.Hide=éšè—
 
-ItemLabel.Enable=ÆôÓÃ
+ItemLabel.Enable=å¯ç”¨
 
-ItemLabel.Disable=½ûÓÃ
+ItemLabel.Disable=ç¦ç”¨

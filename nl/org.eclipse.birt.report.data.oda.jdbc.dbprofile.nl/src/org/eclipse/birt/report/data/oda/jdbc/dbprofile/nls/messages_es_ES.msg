@@ -11,8 +11,8 @@
 #  
 #************************************************************************
 #
-connection_nullProfile=No se encuentra el perfil de conexi髇 al que se hace referencia en las propiedades de conexi髇 de fuente de datos.
+connection_nullProfile=No se encuentra el perfil de conexi贸n al que se hace referencia en las propiedades de conexi贸n de fuente de datos.
 
-connection_openFailed=No es posible realizar la conexi髇 con el perfil de conexi髇 de base de datos.
+connection_openFailed=No es posible realizar la conexi贸n con el perfil de conexi贸n de base de datos.
 
 dBProfileStatement_nullPropertyNameArg=El argumento del nombre de la propiedad especificado en {0} es nulo.

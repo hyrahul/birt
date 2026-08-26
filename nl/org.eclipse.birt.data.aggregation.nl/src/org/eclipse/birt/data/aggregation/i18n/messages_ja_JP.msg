@@ -7,199 +7,199 @@
 #########################################################################
 
 #Aggregation function UI information
-Constants.Expression=®(&E)
+Constants.Expression=å¼(&E)
 
-TotalAve.description=ŠÖ” - Total.AVE()
+TotalAve.description=é–¢æ•° - Total.AVE()
 
 TotalAve.displayName=AVE
 
-TotalCount.description=ŠÖ” - Total.COUNT()
+TotalCount.description=é–¢æ•° - Total.COUNT()
 
 TotalCount.displayName=COUNT
 
-TotalCountDistinct.description=ŠÖ” - Total.COUNTDISTINCT()
+TotalCountDistinct.description=é–¢æ•° - Total.COUNTDISTINCT()
 
 TotalCountDistinct.displayName=COUNTDISTINCT
 
-TotalFirst.description=ŠÖ” - Total.FIRST()
+TotalFirst.description=é–¢æ•° - Total.FIRST()
 
 TotalFirst.displayName=FIRST
 
-TotalIrr.description=ŠÖ” - Total.IRR()
+TotalIrr.description=é–¢æ•° - Total.IRR()
 
 TotalIrr.displayName=IRR
 
-TotalIrr.param.intrate=“à•”—˜‰v—¦(&I)
+TotalIrr.param.intrate=å†…éƒ¨åˆ©ç›Šç‡(&I)
 
-TotalLast.description=ŠÖ” - Total.LAST()
+TotalLast.description=é–¢æ•° - Total.LAST()
 
 TotalLast.displayName=LAST
 
-TotalMax.description=ŠÖ” - Total.MAX()
+TotalMax.description=é–¢æ•° - Total.MAX()
 
 TotalMax.displayName=MAX
 
-TotalMax.exception.cannot_get_max_value=Å‘å’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+TotalMax.exception.cannot_get_max_value=æœ€å¤§å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-TotalMedian.description=ŠÖ” - Total.median()
+TotalMedian.description=é–¢æ•° - Total.median()
 
 TotalMedian.displayName=MEDIAN
 
-TotalMin.description=ŠÖ” - Total.MIN()
+TotalMin.description=é–¢æ•° - Total.MIN()
 
 TotalMin.displayName=MIN
 
-TotalMin.exception.cannot_get_max_value=Å‘å’l‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+TotalMin.exception.cannot_get_max_value=æœ€å¤§å€¤ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-TotalMirr.description=ŠÖ” - Total.MIRR()
+TotalMirr.description=é–¢æ•° - Total.MIRR()
 
 TotalMirr.displayName=MIRR
 
-TotalMirr.param.finance_rate=“Š‘Œ´‰¿(&R)
+TotalMirr.param.finance_rate=æŠ•è³‡åŸä¾¡(&R)
 
-TotalMirr.param.reinvestment_rate=Ä“Š‘óæ—˜—¦(&I)
+TotalMirr.param.reinvestment_rate=å†æŠ•è³‡å—å–åˆ©ç‡(&I)
 
-TotalMode.description=ŠÖ” - Total.mode()
+TotalMode.description=é–¢æ•° - Total.mode()
 
 TotalMode.displayName=MODE
 
-TotalMovingAve.description=ŠÖ” - Total.MOVINGAVE()
+TotalMovingAve.description=é–¢æ•° - Total.MOVINGAVE()
 
 TotalMovingAve.displayName=MOVINGAVE
 
-TotalMovingAve.param.window=ƒEƒBƒ“ƒhƒE(&W)
+TotalMovingAve.param.window=ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦(&W)
 
-TotalNpv.description=ŠÖ” - Total.NPV()
+TotalNpv.description=é–¢æ•° - Total.NPV()
 
 TotalNpv.displayName=NPV
 
-TotalNpv.param.rate=Š„ˆø—¦(&R)
+TotalNpv.param.rate=å‰²å¼•ç‡(&R)
 
-TotalRunningCount.description=ŠÖ” - Total.RUNNINGCOUNT()
+TotalRunningCount.description=é–¢æ•° - Total.RUNNINGCOUNT()
 
 TotalRunningCount.displayName=RUNNINGCOUNT
 
-TotalRunningNpv.description=ŠÖ” - Total.RUNNINGNPV()
+TotalRunningNpv.description=é–¢æ•° - Total.RUNNINGNPV()
 
 TotalRunningNpv.displayName=RUNNINGNPV
 
-TotalRunningNpv.param.rate=Š„ˆø—¦(&R)
+TotalRunningNpv.param.rate=å‰²å¼•ç‡(&R)
 
-TotalRunningSum.description=ŠÖ” - Total.RUNNINGSUM()
+TotalRunningSum.description=é–¢æ•° - Total.RUNNINGSUM()
 
 TotalRunningSum.displayName=RUNNINGSUM
 
-TotalStdDev.description=ŠÖ” - Total.STDDEV()
+TotalStdDev.description=é–¢æ•° - Total.STDDEV()
 
 TotalStdDev.displayName=STDDEV
 
-TotalSum.description=ŠÖ” - Total.sum()
+TotalSum.description=é–¢æ•° - Total.sum()
 
 TotalSum.displayName=SUM
 
-TotalVariance.description=ŠÖ” - Total.variance()
+TotalVariance.description=é–¢æ•° - Total.variance()
 
 TotalVariance.displayName=VARIANCE
 
-TotalWeightedAve.description=ŠÖ” - Total.WEIGHTEDAVE()
+TotalWeightedAve.description=é–¢æ•° - Total.WEIGHTEDAVE()
 
 TotalWeightedAve.displayName=WEIGHTEDAVE
 
-TotalWeightedAve.param.weight=d‚İ(&W)
+TotalWeightedAve.param.weight=é‡ã¿(&W)
 
-BaseTopBottomAggregation.param.n=N ˆÊ(&N)
+BaseTopBottomAggregation.param.n=N ä½(&N)
 
-TotalIsBottomN.description=ŠÖ” - Total.IsBottomN()
+TotalIsBottomN.description=é–¢æ•° - Total.IsBottomN()
 
 TotalIsBottomN.displayName=IS-BOTTOM-N
 
-TotalIsBottomNPercent.description=ŠÖ” - Total.IsBottomNPcent()
+TotalIsBottomNPercent.description=é–¢æ•° - Total.IsBottomNPcent()
 
 TotalIsBottomNPercent.displayName=IS-BOTTOM-N-PERCENT
 
-TotalIsTopN.description=ŠÖ” - Total.isTopN()
+TotalIsTopN.description=é–¢æ•° - Total.isTopN()
 
 TotalIsTopN.displayName=IS-TOP-N
 
-TotalIsTopNPercent.description=ŠÖ” - Total.isTopNPercent
+TotalIsTopNPercent.description=é–¢æ•° - Total.isTopNPercent
 
 TotalIsTopNPercent.displayName=IS-TOP-N-PERCENT
 
-TotalPercentile.description=ŠÖ” - Total.PERCENTILE()
+TotalPercentile.description=é–¢æ•° - Total.PERCENTILE()
 
 TotalPercentile.displayName=PERCENTILE
 
-TotalPercentile.param.percentage=Š„‡ (%)(&P)
+TotalPercentile.param.percentage=å‰²åˆ (%)(&P)
 
-TotalPercentRank.description=ŠÖ” - Total.PERCENTRANK()
+TotalPercentRank.description=é–¢æ•° - Total.PERCENTRANK()
 
 TotalPercentRank.displayName=PERCENTRANK
 
-TotalPercentSum.description=ŠÖ” - Total.PERCENTSUM()
+TotalPercentSum.description=é–¢æ•° - Total.PERCENTSUM()
 
 TotalPercentSum.displayName=PERCENTSUM
 
-TotalQuartile.description=ŠÖ” - Total.QUARTILE()
+TotalQuartile.description=é–¢æ•° - Total.QUARTILE()
 
 TotalQuartile.displayName=QUARTILE
 
-TotalQuartile.param.quart=l•ªˆÊ(&Q)
+TotalQuartile.param.quart=å››åˆ†ä½(&Q)
 
-TotalRank.description=ŠÖ” - Total.RANK()
+TotalRank.description=é–¢æ•° - Total.RANK()
 
 TotalRank.displayName=RANK
 
-TotalRank.param.ascending=¸‡(&A)
+TotalRank.param.ascending=æ˜‡é †(&A)
 
 TotalConcatenate.description=funtion Total.CONCATENATE()
 
 TotalConcatenate.displayName=CONCATENATE
 
-TotalConcatenate.param.separator=‹æØ‚è•¶š(&O)
+TotalConcatenate.param.separator=åŒºåˆ‡ã‚Šæ–‡å­—(&O)
 
-TotalConcatenate.param.maxLength=Å‘å’·(&X)
+TotalConcatenate.param.maxLength=æœ€å¤§é•·(&X)
 
-TotalConcatenate.param.showAllValues=‚·‚×‚Ä‚Ì’l‚ğ•\¦(&W)
+TotalConcatenate.param.showAllValues=ã™ã¹ã¦ã®å€¤ã‚’è¡¨ç¤º(&W)
 
-TotalConcatenate.paramDescription.expression=WŒv‚·‚éƒf[ƒ^ƒtƒB[ƒ‹ƒh
+TotalConcatenate.paramDescription.expression=é›†è¨ˆã™ã‚‹ãƒ‡ãƒ¼ã‚¿ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰
 
-TotalConcatenate.paramDescription.separator=Œ‹‡‚µ‚½•¶š—ñ‚Ì‹æØ‚è•¶š
+TotalConcatenate.paramDescription.separator=çµåˆã—ãŸæ–‡å­—åˆ—ã®åŒºåˆ‡ã‚Šæ–‡å­—
 
-TotalConcatenate.paramDescription.maxLength=Œ‹‡‚µ‚½’l‚ÌÅ‘å•¶š”
+TotalConcatenate.paramDescription.maxLength=çµåˆã—ãŸå€¤ã®æœ€å¤§æ–‡å­—æ•°
 
-TotalConcatenate.paramDescription.showAllValues=‚·‚×‚Ä‚Ì’l‚ğ•\¦
+TotalConcatenate.paramDescription.showAllValues=ã™ã¹ã¦ã®å€¤ã‚’è¡¨ç¤º
 
 #aggregation error messages
-aggregation.BadOperandType=‚±‚Ìƒf[ƒ^Œ^‚Ì‰‰Zq‚Íg—p‚Å‚«‚Ü‚¹‚ñ : {0}
+aggregation.BadOperandType=ã“ã®ãƒ‡ãƒ¼ã‚¿å‹ã®æ¼”ç®—å­ã¯ä½¿ç”¨ã§ãã¾ã›ã‚“ : {0}
 
-aggregation.DataConversionError=ƒf[ƒ^Œ^‚ğ•ÏŠ·’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+aggregation.DataConversionError=ãƒ‡ãƒ¼ã‚¿å‹ã‚’å¤‰æ›ä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-aggregation.InvalidPercentileColumn=•S•ªˆÊ”‚Í‚·‚×‚Ä‚ğ NULL ‚É‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+aggregation.InvalidPercentileColumn=ç™¾åˆ†ä½æ•°ã¯ã™ã¹ã¦ã‚’ NULL ã«ã™ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-aggregation.BadParameterCount=w’è‚³‚ê‚½ƒpƒ‰ƒƒ^‚Ì”‚ª³‚µ‚­‚ ‚è‚Ü‚¹‚ñB
+aggregation.BadParameterCount=æŒ‡å®šã•ã‚ŒãŸãƒ‘ãƒ©ãƒ¡ã‚¿ã®æ•°ãŒæ­£ã—ãã‚ã‚Šã¾ã›ã‚“ã€‚
 
-aggregation.BadParameterType=1 ‚Â‚Ìƒpƒ‰ƒƒ^‚Ìƒf[ƒ^Œ^‚ª³‚µ‚­‚ ‚è‚Ü‚¹‚ñB
+aggregation.BadParameterType=1 ã¤ã®ãƒ‘ãƒ©ãƒ¡ã‚¿ã®ãƒ‡ãƒ¼ã‚¿å‹ãŒæ­£ã—ãã‚ã‚Šã¾ã›ã‚“ã€‚
 
-aggregation.NoIrrSolution=w’è‚³‚ê‚½ƒf[ƒ^‚Å‚ÍAIrr ŠÖ”‚Ì‰ğ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+aggregation.NoIrrSolution=æŒ‡å®šã•ã‚ŒãŸãƒ‡ãƒ¼ã‚¿ã§ã¯ã€Irr é–¢æ•°ã®è§£ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-aggregation.InvalidTopBottomArgument=Top ‚Æ Bottom ‚ÌƒtƒBƒ‹ƒ^‚Ìˆø”‚É‚ÍA”’l‚ğw’è‚µ‚Ä‚­‚¾‚³‚¢B
+aggregation.InvalidTopBottomArgument=Top ã¨ Bottom ã®ãƒ•ã‚£ãƒ«ã‚¿ã®å¼•æ•°ã«ã¯ã€æ•°å€¤ã‚’æŒ‡å®šã—ã¦ãã ã•ã„ã€‚
 
-aggregation.InvalidTopBottomNArgument=TopN ‚Æ BottomN ‚ÌƒtƒBƒ‹ƒ^‚Ìˆø”‚ÍAƒ[ƒ‚Ü‚½‚Í³‚Ì®”‚Å‚ ‚é•K—v‚ª‚ ‚è‚Ü‚·B
+aggregation.InvalidTopBottomNArgument=TopN ã¨ BottomN ã®ãƒ•ã‚£ãƒ«ã‚¿ã®å¼•æ•°ã¯ã€ã‚¼ãƒ­ã¾ãŸã¯æ­£ã®æ•´æ•°ã§ã‚ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
-aggregation.InvalidTopBottomPercentArgument=TopPercent ‚Æ BottomPercent ‚ÌƒtƒBƒ‹ƒ^‚Ìˆø”‚ÍA—¼•û‚Æ‚à 100 ˆÈ‰º‚Ì³”‚Å‚ ‚é•K—v‚ª‚ ‚è‚Ü‚·B
+aggregation.InvalidTopBottomPercentArgument=TopPercent ã¨ BottomPercent ã®ãƒ•ã‚£ãƒ«ã‚¿ã®å¼•æ•°ã¯ã€ä¸¡æ–¹ã¨ã‚‚ 100 ä»¥ä¸‹ã®æ­£æ•°ã§ã‚ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
-aggregation.InvalidTopBottomN=“¯‚Éˆ—‚Å‚«‚é‚Ì‚Í {0} s‚Ü‚Å‚Å‚·B
+aggregation.InvalidTopBottomN=åŒæ™‚ã«å‡¦ç†ã§ãã‚‹ã®ã¯ {0} è¡Œã¾ã§ã§ã™ã€‚
 
-aggregation.InvalidPercentileArgument=Total.Percentile ŠÖ”‚Ì 2 ‚Â–Ú‚Ìˆø”‚É‚ÍA0 ` 1 ‚Ü‚Å‚Ì”’l‚µ‚©w’è‚Å‚«‚Ü‚¹‚ñB
+aggregation.InvalidPercentileArgument=Total.Percentile é–¢æ•°ã® 2 ã¤ç›®ã®å¼•æ•°ã«ã¯ã€0 ã€œ 1 ã¾ã§ã®æ•°å€¤ã—ã‹æŒ‡å®šã§ãã¾ã›ã‚“ã€‚
 
-aggregation.InvalidQuartileArgument=Total.Quartile ŠÖ”‚Ì 2 ‚Â–Ú‚Ìˆø”‚É‚ÍA0 ` 4 ‚Ü‚Å‚Ì®”‚µ‚©w’è‚Å‚«‚Ü‚¹‚ñB
+aggregation.InvalidQuartileArgument=Total.Quartile é–¢æ•°ã® 2 ã¤ç›®ã®å¼•æ•°ã«ã¯ã€0 ã€œ 4 ã¾ã§ã®æ•´æ•°ã—ã‹æŒ‡å®šã§ãã¾ã›ã‚“ã€‚
 
-aggregation.BadAggrFuncParam=WŒvŠÖ”‚Ìƒpƒ‰ƒƒ^‚ª–³Œø‚Å‚· : {0}
+aggregation.BadAggrFuncParam=é›†è¨ˆé–¢æ•°ã®ãƒ‘ãƒ©ãƒ¡ã‚¿ãŒç„¡åŠ¹ã§ã™ : {0}
 
-aggregation.ResetRateGuess=V‚µ‚¢ Rate Guess ‚ğƒŠƒZƒbƒg‚µ‚Ä‚­‚¾‚³‚¢B
+aggregation.ResetRateGuess=æ–°ã—ã„ Rate Guess ã‚’ãƒªã‚»ãƒƒãƒˆã—ã¦ãã ã•ã„ã€‚
 
-aggregation.InvalidParameterType=WŒvƒpƒ‰ƒƒ^‚ÌŒ^‚ª–³Œø‚Å‚· : {0}
+aggregation.InvalidParameterType=é›†è¨ˆãƒ‘ãƒ©ãƒ¡ã‚¿ã®å‹ãŒç„¡åŠ¹ã§ã™ : {0}
 
-aggregation.InvalidParameterValue="{0}" ƒpƒ‰ƒƒ^‚Ì’l ("{1}" WŒv) ‚Í–³Œø‚Å‚· : {2}
+aggregation.InvalidParameterValue="{0}" ãƒ‘ãƒ©ãƒ¡ã‚¿ã®å€¤ ("{1}" é›†è¨ˆ) ã¯ç„¡åŠ¹ã§ã™ : {2}
 
-aggregation.InvalidSeparator=WŒv‚Ì‹æØ‚è‚ª–³Œø‚Å‚· : {0}
+aggregation.InvalidSeparator=é›†è¨ˆã®åŒºåˆ‡ã‚ŠãŒç„¡åŠ¹ã§ã™ : {0}

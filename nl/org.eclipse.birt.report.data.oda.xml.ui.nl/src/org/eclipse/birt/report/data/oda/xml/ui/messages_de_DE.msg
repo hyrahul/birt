@@ -1,17 +1,17 @@
 # wizard dialog messages
 wizard.title.selectFolder=XML-Datenquelle
-wizard.defaultMessage.selectFolder=Geben Sie die URLs für die XML-Datei und die Schemainformationen an.
+wizard.defaultMessage.selectFolder=Geben Sie die URLs fÃ¼r die XML-Datei und die Schemainformationen an.
 wizard.title.newDataSet=Neuer Datensatz
-wizard.title.selectXmlFile=XML-Daten für Vorschau auswählen
-wizard.defaultMessage.selectFile=Wählen Sie eine XML-Beispieldatenquelle aus, um die Vorschau in dieser Sitzung zu aktivieren.
+wizard.title.selectXmlFile=XML-Daten fÃ¼r Vorschau auswÃ¤hlen
+wizard.defaultMessage.selectFile=WÃ¤hlen Sie eine XML-Beispieldatenquelle aus, um die Vorschau in dieser Sitzung zu aktivieren.
 wizard.title.xPathChoose=Tabellenzuordnung definieren
-wizard.defaultMessage.selectXPath=Definieren Sie das Element, das als Tabelle verwendet werden soll. Wählen Sie dazu das Element in der XML-Struktur aus, und fügen Sie es der Zeilenzuordnung hinzu. Pro XML-Datensatz ist nur eine Tabellenzuordnung zulässig.
+wizard.defaultMessage.selectXPath=Definieren Sie das Element, das als Tabelle verwendet werden soll. WÃ¤hlen Sie dazu das Element in der XML-Struktur aus, und fÃ¼gen Sie es der Zeilenzuordnung hinzu. Pro XML-Datensatz ist nur eine Tabellenzuordnung zulÃ¤ssig.
 wizard.title.selectColumn=Spaltenzuordnung definieren
-wizard.title.defineColumnMapping=Definieren Sie die Spaltenzuordnung, indem Sie ein Element oder Attribut in der XML-Struktur auswählen, und es der Spaltenzuordnung hinzufügen. 
+wizard.title.defineColumnMapping=Definieren Sie die Spaltenzuordnung, indem Sie ein Element oder Attribut in der XML-Struktur auswÃ¤hlen, und es der Spaltenzuordnung hinzufÃ¼gen. 
 
 #preference
 designer.preview.preference.numberOfElementPassedToGetSchema=Anzahl der Elemente, die bei der XML-Schemastruktur verwendet wurden.
-designer.preview.preference.numberOfElementPassedToGetSchema.errormessage=Geben Sie eine Zahl zwischen 0 und {0} ein.
+designer.preview.preference.numberOfElementPassedToGetSchema.errormessage=Geben Sie eine Zahl zwischenÂ 0 und {0} ein.
 designer.preview.preference.columnMappingPage.group.title=Spaltenzuordnungsseite
 
 #table mapping page messages
@@ -29,38 +29,38 @@ button.refresh=Aktualisieren
 menu.menuItem.removeAll=Alles entfernen
 menu.menuItem.remove=Entfernen
 lable.selectXmlFile=Geben Sie den URL der &XML-Quelldatei an, oder suchen Sie die Datei mit den Daten:
-lable.selectXmlSchmaFile=Geben Sie den URL des X&ML-Schemas an, oder suchen\n Sie nach der Datei, die das\n Schema enthält. Lassen Sie das Feld leer, falls kein Schema vorhanden ist:
+lable.selectXmlSchmaFile=Geben Sie den URL des X&ML-Schemas an, oder suchen\n Sie nach der Datei, die das\n Schema enthÃ¤lt. Lassen Sie das Feld leer, falls kein Schema vorhanden ist:
 label.preview=&Erstes Objekt anzeigen
 label.useXMLFileFromDataSource=Die in der Datenquelle definierte XML-Datei verwenden
-RowMappingDialog.title=Wählen oder bearbeiten Sie den XPath-Ausdruck.
-RowMappingDialog.info=Wählen Sie für den gewählten Knoten einen der vordefinierten XPath-Ausdrücke,\n oder geben Sie einen anderen Ausdruck an:
+RowMappingDialog.title=WÃ¤hlen oder bearbeiten Sie den XPath-Ausdruck.
+RowMappingDialog.info=WÃ¤hlen Sie fÃ¼r den gewÃ¤hlten Knoten einen der vordefinierten XPath-AusdrÃ¼cke,\n oder geben Sie einen anderen Ausdruck an:
 ColumnMappingDialog.info.columnName=Spaltenname:
 ColumnMappingDialog.info.xPath=XPath-Ausdruck:
 ColumnMappingDialog.info.dataType=Datentyp:
 ColumnMappingDialog.info.dataPreview=Vorschau der Tabelle
-ColumnMappingDialog.prompt.new=Neue Zuordnung ...
-ColumnMappingDialog.prompt.maxRow=Die Quelldaten umfassen mehr als 500 Zeilen. Auf dieser Seite kann nur eine Vorschau der ersten 500 Zeilen angezeigt werden.
+ColumnMappingDialog.prompt.new=Neue ZuordnungÂ ...
+ColumnMappingDialog.prompt.maxRow=Die Quelldaten umfassen mehr als 500Â Zeilen. Auf dieser Seite kann nur eine Vorschau der ersten 500Â Zeilen angezeigt werden.
 ColumnMappingDialog.prompt.dialog.title=Ergebnisvorschau
 
 dataset.editor.columnName=Name
 dataset.editor.xpathexpression=XPath
 dataset.editor.datatype=Typ
 dataset.editor.rowelement=Zeilenelement
-dataset.error.populateXMLTree=Die XML-Datenquelle kann nicht aufgerufen werden. Entweder ist die XML-Datenquelle ungültig, oder die Datei ist nicht vorhanden.
+dataset.error.populateXMLTree=Die XML-Datenquelle kann nicht aufgerufen werden. Entweder ist die XML-Datenquelle ungÃ¼ltig, oder die Datei ist nicht vorhanden.
 
 error.label=Fehler
-error.selectFolder=Der URL für die gewählte Datei ist ungültig oder nicht vorhanden.
-error.emptyPath=Der URL der Datei enthält keine Daten
+error.selectFolder=Der URL fÃ¼r die gewÃ¤hlte Datei ist ungÃ¼ltig oder nicht vorhanden.
+error.emptyPath=Der URL der Datei enthÃ¤lt keine Daten
 error.xpath.canNotContainAttribute=Der XPath-Ausdruck kann nicht einem XML-Attribut zugeordnet werden.
-error.dataset.maxRowNumberError=Der Wert für die maximale Zeilenzahl muss eine Zahl sein.
+error.dataset.maxRowNumberError=Der Wert fÃ¼r die maximale Zeilenzahl muss eine Zahl sein.
 error.columnMapping.noMappingColumn=Ordnen Sie mindestens eine Spalte zu.
-error.file.null=Keiner der URLs enthält Daten. Sie haben foglich keine Datenquelle ausgewählt. Soll diese Auswahl beibehalten werden?
-error.columnMapping.sameColumnName=Der Spaltenname [{0}] ist bereits vorhanden. Wählen Sie einen anderen Namen.
-error.invalidXpath=Der XPath-Ausdruck "{0}" ist ungültig.
+error.file.null=Keiner der URLs enthÃ¤lt Daten. Sie haben foglich keine Datenquelle ausgewÃ¤hlt. Soll diese Auswahl beibehalten werden?
+error.columnMapping.sameColumnName=Der Spaltenname [{0}] ist bereits vorhanden. WÃ¤hlen Sie einen anderen Namen.
+error.invalidXpath=Der XPath-Ausdruck "{0}" ist ungÃ¼ltig.
 
 #data types for column mapping
 datatypes.dateTime=Timestamp
-datatypes.decimal=Große Dezimalzahl
+datatypes.decimal=GroÃŸe Dezimalzahl
 datatypes.float=Double
 datatypes.integer=Ganzzahl
 datatypes.string=String
@@ -73,7 +73,7 @@ columnName.xPathName=XPath
 columnName.typeName=Typ
 
 dataset.new=Neuer Datensatz
-file.choose=&Durchsuchen ...
+file.choose=&DurchsuchenÂ ...
 title.warning=Warnung
 
 datasource.propertyPage.tooltip=XML-Datenquelle

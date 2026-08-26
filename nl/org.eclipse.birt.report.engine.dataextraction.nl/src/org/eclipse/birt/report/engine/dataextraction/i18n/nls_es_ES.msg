@@ -1,7 +1,7 @@
-exception.dataextraction.options.outputstream_required=Se necesita la opción OutputStream y no puede ser nula.
+exception.dataextraction.options.outputstream_required=Se necesita la opciÃ³n OutputStream y no puede ser nula.
 
-exception.dataextraction.missing_implementation=La subclase debe implementar el método de salida ().
+exception.dataextraction.missing_implementation=La subclase debe implementar el mÃ©todo de salida ().
 
-exception.dataextraction.exception_occured=Excepción al extraer los datos.
+exception.dataextraction.exception_occured=ExcepciÃ³n al extraer los datos.
 
-exception.dataextraction.no_extraction_result_error=No se han encontrado resultados en la tarea de ejecución.
+exception.dataextraction.no_extraction_result_error=No se han encontrado resultados en la tarea de ejecuciÃ³n.

@@ -8,28 +8,28 @@
 # * Contributors:
 # *  Actuate Corporation  - initial API and implementation
 # *******************************************************************************/
-design.layout=ƒŒƒCƒAƒEƒg(&O)
+design.layout=ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆ(&O)
 
-design.masterPage=ƒ}ƒXƒ^[ƒy[ƒW(&M)
+design.masterPage=ãƒã‚¹ã‚¿ãƒ¼ãƒšãƒ¼ã‚¸(&M)
 
-design.script=ƒXƒNƒŠƒvƒg(&S)
+design.script=ã‚¹ã‚¯ãƒªãƒ—ãƒˆ(&S)
 
-design.xmlsource=XML ƒ\[ƒX(&X)
+design.xmlsource=XML ã‚½ãƒ¼ã‚¹(&X)
 
-template.layout=ƒŒƒCƒAƒEƒg(&O)
+template.layout=ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆ(&O)
 
-template.masterPage=ƒ}ƒXƒ^[ƒy[ƒW(&M)
+template.masterPage=ãƒã‚¹ã‚¿ãƒ¼ãƒšãƒ¼ã‚¸(&M)
 
-template.script=ƒXƒNƒŠƒvƒg(&S)
+template.script=ã‚¹ã‚¯ãƒªãƒ—ãƒˆ(&S)
 
-template.xmlsource=XML ƒ\[ƒX(&X)
+template.xmlsource=XML ã‚½ãƒ¼ã‚¹(&X)
 
-pageSet.layout=ƒŒƒCƒAƒEƒgƒy[ƒW(&L)
+pageSet.layout=ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆãƒšãƒ¼ã‚¸(&L)
 
-pageSet.master=ƒ}ƒXƒ^[ƒy[ƒW(&M)
+pageSet.master=ãƒã‚¹ã‚¿ãƒ¼ãƒšãƒ¼ã‚¸(&M)
 
-pageSet.preview=ƒvƒŒƒrƒ…[ƒy[ƒW(&P)
+pageSet.preview=ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼ãƒšãƒ¼ã‚¸(&P)
 
-pageSet.script=ƒXƒNƒŠƒvƒgƒy[ƒW(&S)
+pageSet.script=ã‚¹ã‚¯ãƒªãƒ—ãƒˆãƒšãƒ¼ã‚¸(&S)
 
-pageSet.source=XML ƒ\[ƒXƒy[ƒW(&X)
+pageSet.source=XML ã‚½ãƒ¼ã‚¹ãƒšãƒ¼ã‚¸(&X)

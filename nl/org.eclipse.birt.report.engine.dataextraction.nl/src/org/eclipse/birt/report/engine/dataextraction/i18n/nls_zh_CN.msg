@@ -1,7 +1,7 @@
-exception.dataextraction.options.outputstream_required=OutputStream Ñ¡ÏîÊÇ±ØĞèµÄ£¬²»ÄÜÎª¿Õ¡£
+exception.dataextraction.options.outputstream_required=OutputStream é€‰é¡¹æ˜¯å¿…éœ€çš„ï¼Œä¸èƒ½ä¸ºç©ºã€‚
 
-exception.dataextraction.missing_implementation=±ØĞëÓÉ×ÓÀàÊµÊ© output() ·½·¨¡£
+exception.dataextraction.missing_implementation=å¿…é¡»ç”±å­ç±»å®æ–½ output() æ–¹æ³•ã€‚
 
-exception.dataextraction.exception_occured=ÌáÈ¡Êı¾İÊ±³öÏÖÒì³£¡£
+exception.dataextraction.exception_occured=æå–æ•°æ®æ—¶å‡ºç°å¼‚å¸¸ã€‚
 
-exception.dataextraction.no_extraction_result_error=Ö´ĞĞÈÎÎñÖĞÕÒ²»µ½½á¹û¡£
+exception.dataextraction.no_extraction_result_error=æ‰§è¡Œä»»åŠ¡ä¸­æ‰¾ä¸åˆ°ç»“æœã€‚

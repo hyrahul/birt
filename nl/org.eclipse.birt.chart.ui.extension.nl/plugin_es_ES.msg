@@ -2,13 +2,13 @@ Series=Series
 
 ValueYSeries=Serie (Y) del valor
 
-CategorySeries=Serie de categorÌa
+CategorySeries=Serie de categor√≠a
 
 ValueSeries=Serie del valor
 
 Needle=Indicador
 
-ChartArea=¡rea del diagrama
+ChartArea=√Årea del diagrama
 
 Axis=Eje
 
@@ -22,7 +22,7 @@ Plot=Dibujo
 
 Legend=Leyenda
 
-Title=TÌtulo
+Title=T√≠tulo
 
 preference.chart.fieldassist=Ayuda de campo
 

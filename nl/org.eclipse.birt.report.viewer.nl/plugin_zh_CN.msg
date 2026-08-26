@@ -1,3 +1,3 @@
-birt.viewer.problem.marker=BIRT ²é¿´Æ÷ÎÊÌâ
+birt.viewer.problem.marker=BIRT æŸ¥çœ‹å™¨é—®é¢˜
 
-birt.viewer.extension.appcontext=²é¿´Æ÷ AppContext À©Õ¹µã
+birt.viewer.extension.appcontext=æŸ¥çœ‹å™¨ AppContext æ‰©å±•ç‚¹

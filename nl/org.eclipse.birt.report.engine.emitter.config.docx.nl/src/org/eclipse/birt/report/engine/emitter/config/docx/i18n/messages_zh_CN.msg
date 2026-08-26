@@ -11,24 +11,24 @@
 
 ###########################################################
 #Docx Emitter
-DocxEmitter.Description=ÅäÖÃÓÃÓÚÒÔ XML Document 2007 ¸ñÊ½³ÊÏÖ±¨±íµÄÑ¡Ïî¡£
+DocxEmitter.Description=é…ç½®ç”¨äºä»¥ XML Document 2007 æ ¼å¼å‘ˆç°æŠ¥è¡¨çš„é€‰é¡¹ã€‚
 
 DocxEmitter.DisplayName=Word (DOCX)
 
 ###########################################################
 #Option Display Value
-OptionDisplayValue.ChartDpi=Í¼±í DPI
+OptionDisplayValue.ChartDpi=å›¾è¡¨ DPI
 
-OptionDisplayValue.EmbedHtml=Ç¶Èë HTML
+OptionDisplayValue.EmbedHtml=åµŒå…¥ HTML
 
 ###########################################################
 #Option Description
-OptionDescription.ChartDpi=ÓÃÓÚÉú³ÉÍ¼±íµÄ DPI¡£
+OptionDescription.ChartDpi=ç”¨äºç”Ÿæˆå›¾è¡¨çš„ DPIã€‚
 
-OptionDescription.EmbedHtml=ÔÊĞí DOCX Ê¹ÓÃÒÑÇ¶ÈëµÄ HTML
+OptionDescription.EmbedHtml=å…è®¸ DOCX ä½¿ç”¨å·²åµŒå…¥çš„ HTML
 
 ###########################################################
 #tooltip
-Tooltip.ChartDpi=Í¼±íÒıÇæÓÃÓÚÉú³ÉÍ¼±íµÄ DPI¡£ ÀıÈç£¬192¡£
+Tooltip.ChartDpi=å›¾è¡¨å¼•æ“ç”¨äºç”Ÿæˆå›¾è¡¨çš„ DPIã€‚ ä¾‹å¦‚ï¼Œ192ã€‚
 
-Tooltip.EmbedHtml=HTML ÄÚÈİÊÇ·ñÓ¦Ö±½ÓÇ¶Èëµ½ DOCX Êä³ö
+Tooltip.EmbedHtml=HTML å†…å®¹æ˜¯å¦åº”ç›´æ¥åµŒå…¥åˆ° DOCX è¾“å‡º

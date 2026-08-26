@@ -11,24 +11,24 @@
 # data source messages
 DataSource.RuntimeProperty=&Laufzeit-Eigenschaften
 
-DataSource.DataSetClassPath=Gemeinsamer &Speicherort für benutzerdefinierte POJO-Datensatzklassen
+DataSource.DataSetClassPath=Gemeinsamer &Speicherort fÃ¼r benutzerdefinierte POJO-Datensatzklassen
 
-DataSource.AddRelativeJars0=JARs &hinzufügen (Relativer Pfad)...
+DataSource.AddRelativeJars0=JARs &hinzufÃ¼gen (Relativer Pfad)...
 
-DataSource.AddAbsoluteJars0=&JARs hinzufügen (Absoluter Pfad)...
+DataSource.AddAbsoluteJars0=&JARs hinzufÃ¼gen (Absoluter Pfad)...
 
 #To avoid duplicate short-cut keys
-DataSource.AddRelativeJars1=JAR&s hinzufügen (Relativer Pfad)...
+DataSource.AddRelativeJars1=JAR&s hinzufÃ¼gen (Relativer Pfad)...
 
-DataSource.AddAbsoluteJars1=JARs hinzufügen (A&bsoluter Pfad)...
+DataSource.AddAbsoluteJars1=JARs hinzufÃ¼gen (A&bsoluter Pfad)...
 
-DataSource.AddRelativeClassFolder1=Klassenordn&er hinzufügen (Relativer Pfad)...
+DataSource.AddRelativeClassFolder1=Klassenordn&er hinzufÃ¼gen (Relativer Pfad)...
 
-DataSource.AddAbsoluteClassFolder1=Klassenordner hinzufügen (Absol&uter Pfad)...
+DataSource.AddAbsoluteClassFolder1=Klassenordner hinzufÃ¼gen (Absol&uter Pfad)...
 
-DataSource.button.tooltip.AddJar.TwoItems=JARs zu den Klassenpfaden hinzufügen.\nRelativer Pfad: der auf dem Ressourcenordner beruhende relative Pfad.\nAbsoluter Pfad: der absolute Pfad im Dateisystem.
+DataSource.button.tooltip.AddJar.TwoItems=JARs zu den Klassenpfaden hinzufÃ¼gen.\nRelativer Pfad: der auf dem Ressourcenordner beruhende relative Pfad.\nAbsoluter Pfad: der absolute Pfad im Dateisystem.
 
-DataSource.button.tooltip.AddJar.OneItems=JARs zu den Klassenpfaden hinzufügen.\nAbsoluter Pfad: der absolute Pfad des Dateisystems.
+DataSource.button.tooltip.AddJar.OneItems=JARs zu den Klassenpfaden hinzufÃ¼gen.\nAbsoluter Pfad: der absolute Pfad des Dateisystems.
 
 DataSource.PojoClassPath=Gemeinsamer S&peicherort von POJO-Klassen
 
@@ -42,9 +42,9 @@ DataSource.POJOClasses.tab.runtime=&Laufzeit-Eigenschaften
 
 DataSource.POJOClasses.tab.designTime=Designzeit&eigenschaften
 
-DataSource.POJOClassTabFolderPage.promptLabel.runtime=Gemeinsamer &Speicherort für benutzerdefinierte POJO-Datensatzklassen
+DataSource.POJOClassTabFolderPage.promptLabel.runtime=Gemeinsamer &Speicherort fÃ¼r benutzerdefinierte POJO-Datensatzklassen
 
-DataSource.POJOClassTabFolderPage.promptLabel.designtime=Gemeinsamer &Speicherort für benutzerdefinierte POJO-Klassen
+DataSource.POJOClassTabFolderPage.promptLabel.designtime=Gemeinsamer &Speicherort fÃ¼r benutzerdefinierte POJO-Klassen
 
 DataSource.POJOClassTabFolderPage.button.edit=&Bearbeiten...
 
@@ -54,7 +54,7 @@ DataSource.POJOClassTabFolderPage.button.down=&Nach unten
 
 DataSource.POJOClassTabFolderPage.button.remove=Entf&ernen
 
-DataSource.POJOClassTabFolderPage.menuButton.addJar=JARs hinzufügen
+DataSource.POJOClassTabFolderPage.menuButton.addJar=JARs hinzufÃ¼gen
 
 DataSource.POJOClassTabFolderPage.menuButton.item.relativePath=Relativer Pfad
 
@@ -64,11 +64,11 @@ DataSource.POJOClassTabFolderPage.error.title.empty.resourceIdentifier=Fehler
 
 DataSource.POJOClassTabFolderPage.error.message.empty.resourceIdentifier=Basis-URI von Anwendungsressource konnte nicht abgerufen werden.
 
-DataSource.ClassPathPage.synchronize.checkbox.message=Verwenden Sie Laufzeit-Eigenschaften für Laufzeit und Designzeit
+DataSource.ClassPathPage.synchronize.checkbox.message=Verwenden Sie Laufzeit-Eigenschaften fÃ¼r Laufzeit und Designzeit
 
-DataSource.ClassPathPage.synchronize.checkbox.tooltip=Ist die Option ausgewählt, ist die Bearbeitung mit Designtime Properties Editor deaktiviert.
+DataSource.ClassPathPage.synchronize.checkbox.tooltip=Ist die Option ausgewÃ¤hlt, ist die Bearbeitung mit Designtime Properties Editor deaktiviert.
 
-DataSource.ClassPathPage.synchronize.PrompMessage=Hinweis: Ist die Option ausgewählt, werden die Designtime Properties-Einstellungen ignoriert.
+DataSource.ClassPathPage.synchronize.PrompMessage=Hinweis: Ist die Option ausgewÃ¤hlt, werden die Designtime Properties-Einstellungen ignoriert.
 
 DataSource.ClassPathPage.testConnection.failed.runtime=Fehler beim Herstellen von Verbindung mit '{0}' von Laufzeiteigenschaft!
 
@@ -78,7 +78,7 @@ DataSource.ClassPathPage.testConnection.failed.designtime=Fehler beim Herstellen
 # data set messages
 DataSet.PojoDataSetClass=&POJO-Datensatzklassenname
 
-DataSet.AppContextKey=&Anwendungskontextschlüssel
+DataSet.AppContextKey=&AnwendungskontextschlÃ¼ssel
 
 DataSet.PojoRootClass=POJO-&Klassenname
 
@@ -103,13 +103,13 @@ DataSet.Label.MethodNameFilter=&Methodennamefilter (? = beliebiges Zeichen, * = 
 
 DataSet.MissPojoRootClass=Keine POJO-Klasse angegeben.
 
-DataSet.Apply=Über&nehmen
+DataSet.Apply=Ãœber&nehmen
 
 DataSet.ClassStructure=POJO-Klassenstruktur
 
 DataSet.ColumnMapping=&Spaltenzuordnung
 
-DataSet.Add=&Hinzufügen...
+DataSet.Add=&HinzufÃ¼gen...
 
 DataSet.Edit=&Bearbeiten...
 
@@ -121,13 +121,13 @@ DataSet.Down=&Nach unten
 
 DataSet.Label.POJOClassName=POJO-Klassenname
 
-DataSet.Label.prompt.ClassName=Methoden und &Felder zum Erstellen von Datensatzspalten auswählen.
+DataSet.Label.prompt.ClassName=Methoden und &Felder zum Erstellen von Datensatzspalten auswÃ¤hlen.
 
-DataSet.button.addColumn.tooltip.mapColumn=Ausgewähltes Element als Spalte hinzufügen.
+DataSet.button.addColumn.tooltip.mapColumn=AusgewÃ¤hltes Element als Spalte hinzufÃ¼gen.
 
-DataSet.button.removeColumn.tooltip.mapColumn=Das ausgewählte Element aus der Spaltentabelle entfernen.
+DataSet.button.removeColumn.tooltip.mapColumn=Das ausgewÃ¤hlte Element aus der Spaltentabelle entfernen.
 
-DataSet.button.tooltip.Add=Neue Spalte hinzufügen.
+DataSet.button.tooltip.Add=Neue Spalte hinzufÃ¼gen.
 
 DataSet.button.tooltip.Edit=Aktuelle Spalte bearbeiten.
 
@@ -153,9 +153,9 @@ ColumnMappingPage.table.head.columnType=Typ
 
 ColumnMappingWizardPage.error.getQueryText=Fehler bei Analyse von Originalabfragetext.
 
-ColumnMappingWizardPage.button.apply.text=Ü&bernehmen
+ColumnMappingWizardPage.button.apply.text=Ãœ&bernehmen
 
-ColumnMappingWizardPage.button.apply.tooltip=Eingabe-POJO-Klassennamen zur Erstellung der Methodenbaumstruktur übernehmen.
+ColumnMappingWizardPage.button.apply.tooltip=Eingabe-POJO-Klassennamen zur Erstellung der Methodenbaumstruktur Ã¼bernehmen.
 
 ColumnMappingDialog.Label.ColumnName=&Spaltenname:
 
@@ -163,7 +163,7 @@ ColumnMappingDialog.Label.ColumnMethodField=&Methode/Feld:
 
 ColumnMappingDialog.Label.Type=Spalten&typ:
 
-ColumnMappingDialog.table.promptLabel=Zu Parameter zugeordnete Methoden&argumente auswählen:
+ColumnMappingDialog.table.promptLabel=Zu Parameter zugeordnete Methoden&argumente auswÃ¤hlen:
 
 ColumnMappingDialog.table.head.mapped=Zugeordnet
 
@@ -201,11 +201,11 @@ MethodParameterDialog.label.dataType=&Java-Datentyp:
 
 MethodParameterDialog.checkBox.message=Zu Parameter zugeordnetes Argument einstellen.
 
-MethodParameterDialog.error.missingName=Für den zugeordneten Parameter muss ein Name angegeben werden!
+MethodParameterDialog.error.missingName=FÃ¼r den zugeordneten Parameter muss ein Name angegeben werden!
 
-MethodParameterDialog.error.missingValue=Für den Konstantenparameter muss ein konstanter Wert angegeben werden!
+MethodParameterDialog.error.missingValue=FÃ¼r den Konstantenparameter muss ein konstanter Wert angegeben werden!
 
-MethodParameterDialog.error.invalidParamName=Für den Parameter ist bereits ein anderer Datentyp angegeben!
+MethodParameterDialog.error.invalidParamName=FÃ¼r den Parameter ist bereits ein anderer Datentyp angegeben!
 
 MethodParameterDialog.error.missingDataType=Der Parameterdatentyp darf nicht leer sein!
 
@@ -227,19 +227,19 @@ DataSet.DataType.Boolean=Boolean
 
 DataSet.DataType.Blob=Blob
 
-DataSet.AddColumnMapping=Spaltenzuordnung hinzufügen
+DataSet.AddColumnMapping=Spaltenzuordnung hinzufÃ¼gen
 
 DataSet.EditColumnMapping=Spaltenzuordnung bearbeiten
 
-DataSet.InvalidColumnMappingPath=Ungültiges Methode/Feld-Format: '{0}'.
+DataSet.InvalidColumnMappingPath=UngÃ¼ltiges Methode/Feld-Format: '{0}'.
 
-DataSet.InvalidMethodName=Ungültiger Methodenname: '{0}'.
+DataSet.InvalidMethodName=UngÃ¼ltiger Methodenname: '{0}'.
 
-DataSet.InvalidFieldName=Ungültiger Feldname: '{0}'.
+DataSet.InvalidFieldName=UngÃ¼ltiger Feldname: '{0}'.
 
-DataSet.JarsSelectDlg.Title=JARs/ZIPs wählen
+DataSet.JarsSelectDlg.Title=JARs/ZIPs wÃ¤hlen
 
-DataSet.ClassFoldersSelectDlg.Title=Klassenordner wählen
+DataSet.ClassFoldersSelectDlg.Title=Klassenordner wÃ¤hlen
 
 DataSet.PropertyPageMsg=POJO-Datensatz-Eigenschaften
 
@@ -249,9 +249,9 @@ DataSet.NoColumnMappingErrorMsg=Keine Spaltenzuordnung.
 
 DataSet.ClassNameFilter=&Klassennamefilter (? = beliebiges Zeichen, * = beliebige Zeichenfolge):
 
-DataSet.MatchingItems=&Übereinstimmendes Element:
+DataSet.MatchingItems=&Ãœbereinstimmendes Element:
 
-DataSet.ClassInputDialogTitle=Klasse wählen
+DataSet.ClassInputDialogTitle=Klasse wÃ¤hlen
 
 DataSet.PreviewDialogTitle=Beispieldaten
 
@@ -259,7 +259,7 @@ DataSet.FailedFetchSampleData=Fehler beim Abrufen von Beispieldaten
 
 ExceptionDialog.title.erro=Fehler
 
-ExceptionDialog.DataSource.AddDuplicatedJar=Dieselbe JAR-Datei kann nicht mehrere Male hinzugefügt werden.
+ExceptionDialog.DataSource.AddDuplicatedJar=Dieselbe JAR-Datei kann nicht mehrere Male hinzugefÃ¼gt werden.
 
 error.PojoDataSet.emptyClassName=Der Klassenname darf nicht leer sein.
 
@@ -267,8 +267,8 @@ JarsSelectionDialog.button.importFile=Importdatei...
 
 JarsSelectionDialog.title.error=Fehler
 
-JarsSelectionDialog.title.overwrite=Überschreiben
+JarsSelectionDialog.title.overwrite=Ãœberschreiben
 
-JarsSelectionDialog.overwrite.msg=Eine Datei mit diesem Namen ist bereits vorhanden. Soll sie überschrieben werden?
+JarsSelectionDialog.overwrite.msg=Eine Datei mit diesem Namen ist bereits vorhanden. Soll sie Ã¼berschrieben werden?
 
 JarsSelectionDialog.import.msg=Datei wird importiert...

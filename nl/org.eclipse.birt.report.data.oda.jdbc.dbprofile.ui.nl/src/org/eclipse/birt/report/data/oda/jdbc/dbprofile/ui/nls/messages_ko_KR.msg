@@ -11,28 +11,28 @@
 #  
 #************************************************************************
 #
-sqbWizPage_cannotOpenConnectionMsg=SQL Äõ¸®¸¦ ÀÛ¼ºÇÏ±â À§ÇØ ¿¬°áÇÒ ¼ö ¾ø½À´Ï´Ù. µ¥ÀÌÅÍ ¿øº» ¿¬°á ¼Ó¼ºÀ» È®ÀÎÇÏ½Ê½Ã¿À.
+sqbWizPage_cannotOpenConnectionMsg=SQL ì¿¼ë¦¬ë¥¼ ì‘ì„±í•˜ê¸° ìœ„í•´ ì—°ê²°í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. ë°ì´í„° ì›ë³¸ ì—°ê²° ì†ì„±ì„ í™•ì¸í•˜ì‹­ì‹œì˜¤.
 
-sqbWizPage_cannotOpenConnectionTitle=¿¬°á ¿À·ù
+sqbWizPage_cannotOpenConnectionTitle=ì—°ê²° ì˜¤ë¥˜
 
-sqbWizPage_dataSourceDesignError=µ¥ÀÌÅÍ ¿øº» µğÀÚÀÎ ¿À·ù
+sqbWizPage_dataSourceDesignError=ë°ì´í„° ì›ë³¸ ë””ìì¸ ì˜¤ë¥˜
 
-sqbWizPage_dbErrorMsg=µ¥ÀÌÅÍº£ÀÌ½º ¿À·ù ¸Ş½ÃÁö:
+sqbWizPage_dbErrorMsg=ë°ì´í„°ë² ì´ìŠ¤ ì˜¤ë¥˜ ë©”ì‹œì§€:
 
-sqbWizPage_defaultMessage=SQL Select Äõ¸®¸¦ ÀÛ¼ºÇÕ´Ï´Ù.
+sqbWizPage_defaultMessage=SQL Select ì¿¼ë¦¬ë¥¼ ì‘ì„±í•©ë‹ˆë‹¤.
 
-sqbWizPage_detectExternalSqlTextChangedMsg=µ¥ÀÌÅÍ ÁıÇÕ µğÀÚÀÎÀÇ SQL Äõ¸® ÅØ½ºÆ®°¡ ¿ÜºÎ¿¡¼­ º¯°æµÇ¾ú½À´Ï´Ù. SQL Äõ¸® ºô´õÀÇ ³»¿ëÀ» ÀÌ º¯°æ ³»¿ëÀ¸·Î ¹Ù²Ù½Ã°Ú½À´Ï±î?
+sqbWizPage_detectExternalSqlTextChangedMsg=ë°ì´í„° ì§‘í•© ë””ìì¸ì˜ SQL ì¿¼ë¦¬ í…ìŠ¤íŠ¸ê°€ ì™¸ë¶€ì—ì„œ ë³€ê²½ë˜ì—ˆìŠµë‹ˆë‹¤. SQL ì¿¼ë¦¬ ë¹Œë”ì˜ ë‚´ìš©ì„ ì´ ë³€ê²½ ë‚´ìš©ìœ¼ë¡œ ë°”ê¾¸ì‹œê² ìŠµë‹ˆê¹Œ?
 
-sqbWizPage_detectSqlTextChangedTitle=SQL Äõ¸® ÅØ½ºÆ® º¯°æ
+sqbWizPage_detectSqlTextChangedTitle=SQL ì¿¼ë¦¬ í…ìŠ¤íŠ¸ ë³€ê²½
 
-sqbWizPage_inputFailOnOpenAskUserMessage=°è¼ÓÇÏ½Ã°Ú½À´Ï±î?
+sqbWizPage_inputFailOnOpenAskUserMessage=ê³„ì†í•˜ì‹œê² ìŠµë‹ˆê¹Œ?
 
-sqbWizPage_invalidSqbStateMsg=SQL Äõ¸® ºô´õÀÇ ÀÌÀü »óÅÂ¸¦ º¹¿øÇÒ ¼ö ¾ø½À´Ï´Ù.
+sqbWizPage_invalidSqbStateMsg=SQL ì¿¼ë¦¬ ë¹Œë”ì˜ ì´ì „ ìƒíƒœë¥¼ ë³µì›í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-sqbWizPage_invalidSqbStateTitle=Àß¸øµÈ SQL Äõ¸® ºô´õ »óÅÂ
+sqbWizPage_invalidSqbStateTitle=ì˜ëª»ëœ SQL ì¿¼ë¦¬ ë¹Œë” ìƒíƒœ
 
-sqbWizPage_noConnProfileMsg=µ¥ÀÌÅÍº£ÀÌ½º ¿¬°á ÇÁ·ÎÇÊÀÌ ¾ø°Å³ª Àß¸øµÇ¾ú½À´Ï´Ù. SQL Äõ¸® ºô´õ¸¦ ¿­ ¼ö ¾ø½À´Ï´Ù.
+sqbWizPage_noConnProfileMsg=ë°ì´í„°ë² ì´ìŠ¤ ì—°ê²° í”„ë¡œí•„ì´ ì—†ê±°ë‚˜ ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤. SQL ì¿¼ë¦¬ ë¹Œë”ë¥¼ ì—´ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-sqbWizPage_connectingDB=µ¥ÀÌÅÍº£ÀÌ½º¿¡ ¿¬°áÇÏ´Â Áß...
+sqbWizPage_connectingDB=ë°ì´í„°ë² ì´ìŠ¤ì— ì—°ê²°í•˜ëŠ” ì¤‘...
 
-sqbDesignState_invalidSqbStateVersion=ÀúÀåµÈ SQL Äõ¸® ºô´õ »óÅÂÀÇ ¹öÀüÀÌ Àß¸øµÇ¾ú½À´Ï´Ù.
+sqbDesignState_invalidSqbStateVersion=ì €ì¥ëœ SQL ì¿¼ë¦¬ ë¹Œë” ìƒíƒœì˜ ë²„ì „ì´ ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.

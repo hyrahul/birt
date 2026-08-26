@@ -39,7 +39,7 @@ datasource.property.useRequestSession=Consistent &Request Session
 
 datasource.property.group.uriElements=Mongo Database URI &Elements
 
-datasource.property.group.options=Erg‰nzende Client-&Einstellung(en)
+datasource.property.group.options=Erg√§nzende Client-&Einstellung(en)
 
 # Data set properties - query definition
 dataset.property.collectionName=&Collection name
@@ -78,4 +78,4 @@ dataset.property.value.readPrefPrimaryPreferred=primaryPreferred
 dataset.property.value.readPrefSecondary=secondary
 
 dataset.property.value.readPrefSecondaryPreferred=secondaryPreferred
-dataset.property.value.readPrefNearest=n‰chstes
+dataset.property.value.readPrefNearest=n√§chstes

@@ -1,28 +1,28 @@
-birt.web.category.name=ÉÌÒµÖÇÄÜ¼°±¨±í¹¤¾ß(&B)
+birt.web.category.name=å•†ä¸šæ™ºèƒ½åŠæŠ¥è¡¨å·¥å…·(&B)
 
-birt.web.project.name=¾ßÓĞÍ¼±íÔËĞĞÊ±µÄ Web ÏîÄ¿
+birt.web.project.name=å…·æœ‰å›¾è¡¨è¿è¡Œæ—¶çš„ Web é¡¹ç›®
 
-birt.web.project.description=´´½¨°üº¬ BIRT Í¼±í×é¼şµÄ Web ÏîÄ¿
+birt.web.project.description=åˆ›å»ºåŒ…å« BIRT å›¾è¡¨ç»„ä»¶çš„ Web é¡¹ç›®
 
-birt.web.actionsets.description=¶Ô BIRT Í¼±í Web ÏîÄ¿µÄ²Ù×÷
+birt.web.actionsets.description=å¯¹ BIRT å›¾è¡¨ Web é¡¹ç›®çš„æ“ä½œ
 
-create.birt.web.module=´´½¨ BIRT Í¼±í Web Ä£¿é
+create.birt.web.module=åˆ›å»º BIRT å›¾è¡¨ Web æ¨¡å—
 
-BIRT_FACET_LABEL=BIRT Í¼±íÔËĞĞÊ±×é¼ş
+BIRT_FACET_LABEL=BIRT å›¾è¡¨è¿è¡Œæ—¶ç»„ä»¶
 
-BIRT_FACET_DESCRIPTION=BIRT Í¼±íÔËĞĞÊ±×é¼ş
+BIRT_FACET_DESCRIPTION=BIRT å›¾è¡¨è¿è¡Œæ—¶ç»„ä»¶
 
-BIRT_FACET_TEMPLATE_LABEL=BIRT Í¼±í Web ÏîÄ¿
+BIRT_FACET_TEMPLATE_LABEL=BIRT å›¾è¡¨ Web é¡¹ç›®
 
-BIRT_FACET_TEMPLATE_DESCRIPTION=¾ßÓĞ BIRT Í¼±íÔËĞĞÊ±×é¼şµÄ Web ÏîÄ¿
+BIRT_FACET_TEMPLATE_DESCRIPTION=å…·æœ‰ BIRT å›¾è¡¨è¿è¡Œæ—¶ç»„ä»¶çš„ Web é¡¹ç›®
 
-JSP_New_context_type_Extension_Element.name=ĞÂ½¨¾ßÓĞ BIRT Í¼±í±ê¼ÇµÄ JSP
+JSP_New_context_type_Extension_Element.name=æ–°å»ºå…·æœ‰ BIRT å›¾è¡¨æ ‡è®°çš„ JSP
 
-JSP_Tag_context_type_Extension_Element.name=ĞÂ½¨ BIRT Í¼±í JSP ±ê¼Ç
+JSP_Tag_context_type_Extension_Element.name=æ–°å»º BIRT å›¾è¡¨ JSP æ ‡è®°
 
-birtResourcesDefinition= Web Ó¦ÓÃ³ÌĞò×ÊÔ´¶¨ÒåÍ¼±í
+birtResourcesDefinition= Web åº”ç”¨ç¨‹åºèµ„æºå®šä¹‰å›¾è¡¨
 
-birt.action.importruntime.name=µ¼ÈëÍ¼±íÔËĞĞÊ±×é¼ş(&C)...
+birt.action.importruntime.name=å¯¼å…¥å›¾è¡¨è¿è¡Œæ—¶ç»„ä»¶(&C)...
 
 ##################Do not externalize the version number
 runtime.version=4.4.0

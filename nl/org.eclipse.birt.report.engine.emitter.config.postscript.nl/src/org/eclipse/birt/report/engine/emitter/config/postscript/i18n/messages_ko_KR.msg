@@ -11,80 +11,80 @@
 
 ###########################################################
 #Postscript Emitter
-PostscriptEmitter.Description=PostScript Çü½ÄÀÇ º¸°í¼­ ·»´õ¸µ ¿É¼ÇÀ» ±¸¼ºÇÕ´Ï´Ù.
+PostscriptEmitter.Description=PostScript í˜•ì‹ì˜ ë³´ê³ ì„œ ë Œë”ë§ ì˜µì…˜ì„ êµ¬ì„±í•©ë‹ˆë‹¤.
 
 PostscriptEmitter.DisplayName=PostScript (PS)
 
 ###########################################################
 #Option Display Value
-OptionDisplayValue.BidiProcessing=BIDI Ã³¸®
+OptionDisplayValue.BidiProcessing=BIDI ì²˜ë¦¬
 
-OptionDisplayValue.TextWrapping=ÅØ½ºÆ® ¹èÄ¡
+OptionDisplayValue.TextWrapping=í…ìŠ¤íŠ¸ ë°°ì¹˜
 
-OptionDisplayValue.PageOverFlow=ÆäÀÌÁö ¿À¹öÇÃ·Î Ã³¸®
+OptionDisplayValue.PageOverFlow=í˜ì´ì§€ ì˜¤ë²„í”Œë¡œ ì²˜ë¦¬
 
-OptionDisplayValue.CLIP_CONTENT=³»¿ë ÀÚ¸£±â
+OptionDisplayValue.CLIP_CONTENT=ë‚´ìš© ìë¥´ê¸°
 
-OptionDisplayValue.FIT_TO_PAGE_SIZE=ÆäÀÌÁö Å©±â¿¡ ¸ÂÃß±â
+OptionDisplayValue.FIT_TO_PAGE_SIZE=í˜ì´ì§€ í¬ê¸°ì— ë§ì¶”ê¸°
 
-OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=¿©·¯ ÆäÀÌÁö·Î Ãâ·Â
+OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=ì—¬ëŸ¬ í˜ì´ì§€ë¡œ ì¶œë ¥
 
-OptionDisplayValue.ENLARGE_PAGE_SIZE=ÆäÀÌÁö Å©±â È®´ë
+OptionDisplayValue.ENLARGE_PAGE_SIZE=í˜ì´ì§€ í¬ê¸° í™•ëŒ€
 
-OptionDisplayValue.FontSubstitution=±Û²Ã ´ëÃ¼
+OptionDisplayValue.FontSubstitution=ê¸€ê¼´ ëŒ€ì²´
 
-OptionDisplayValue.Copies=¸Å¼ö
+OptionDisplayValue.Copies=ë§¤ìˆ˜
 
-OptionDisplayValue.Collate=ÇÑ ºÎ¾¿ ÀÎ¼â
+OptionDisplayValue.Collate=í•œ ë¶€ì”© ì¸ì‡„
 
-OptionDisplayValue.Duplex=¾ç¸é ÀÎ¼â
+OptionDisplayValue.Duplex=ì–‘ë©´ ì¸ì‡„
 
-OptionDisplayValue.PaperSize=¿ëÁö Å©±â
+OptionDisplayValue.PaperSize=ìš©ì§€ í¬ê¸°
 
-OptionDisplayValue.PaperTray=¿ëÁöÇÔ
+OptionDisplayValue.PaperTray=ìš©ì§€í•¨
 
-OptionDisplayValue.ChartDpi=Â÷Æ® DPI
+OptionDisplayValue.ChartDpi=ì°¨íŠ¸ DPI
 
-OptionDisplayValue.Resolution=ÇØ»óµµ
+OptionDisplayValue.Resolution=í•´ìƒë„
 
-OptionDisplayValue.Scale=¹èÀ²
+OptionDisplayValue.Scale=ë°°ìœ¨
 
-OptionDisplayValue.Color=»ö
+OptionDisplayValue.Color=ìƒ‰
 
-OptionDisplayValue.AutoPaperSizeSelection=¿ëÁö Å©±â ÀÚµ¿ ¼±ÅÃ
+OptionDisplayValue.AutoPaperSizeSelection=ìš©ì§€ í¬ê¸° ìë™ ì„ íƒ
 
 ###########################################################
 #Option Description
-OptionDescription.BidiProcessing=¾ç¹æÇâ ÅØ½ºÆ®¸¦ Áö¿øÇÕ´Ï´Ù.
+OptionDescription.BidiProcessing=ì–‘ë°©í–¥ í…ìŠ¤íŠ¸ë¥¼ ì§€ì›í•©ë‹ˆë‹¤.
 
-OptionDescription.TextWrapping=ÅØ½ºÆ® ÁÙ ¹Ù²Ş °¡´É ¿©ºÎ¸¦ ³ªÅ¸³À´Ï´Ù.
+OptionDescription.TextWrapping=í…ìŠ¤íŠ¸ ì¤„ ë°”ê¿ˆ ê°€ëŠ¥ ì—¬ë¶€ë¥¼ ë‚˜íƒ€ëƒ…ë‹ˆë‹¤.
 
-OptionDescription.PageOverFlow=³»¿ë Ãâ·Â ¹æ½ÄÀ» Á¦¾îÇÕ´Ï´Ù.
+OptionDescription.PageOverFlow=ë‚´ìš© ì¶œë ¥ ë°©ì‹ì„ ì œì–´í•©ë‹ˆë‹¤.
 
-OptionDescription.FontSubstitution=ÁöÁ¤µÈ ±Û²ÃÀÌ ¹®ÀÚ¸¦ Ç¥½ÃÇÏÁö ¸øÇÏ´Â °æ¿ì ÀÚµ¿À¸·Î ±Û²ÃÀ» ¼±ÅÃÇÕ´Ï´Ù.
+OptionDescription.FontSubstitution=ì§€ì •ëœ ê¸€ê¼´ì´ ë¬¸ìë¥¼ í‘œì‹œí•˜ì§€ ëª»í•˜ëŠ” ê²½ìš° ìë™ìœ¼ë¡œ ê¸€ê¼´ì„ ì„ íƒí•©ë‹ˆë‹¤.
 
-OptionDescription.Copies=ÀÎ¼â ¸Å¼öÀÔ´Ï´Ù.
+OptionDescription.Copies=ì¸ì‡„ ë§¤ìˆ˜ì…ë‹ˆë‹¤.
 
-OptionDescription.Collate=ÇÑ ºÎ¾¿ ÀÎ¼âÇÕ´Ï´Ù.
+OptionDescription.Collate=í•œ ë¶€ì”© ì¸ì‡„í•©ë‹ˆë‹¤.
 
-OptionDescription.Duplex=¾ç¸é ÀÎ¼âÀÔ´Ï´Ù.
+OptionDescription.Duplex=ì–‘ë©´ ì¸ì‡„ì…ë‹ˆë‹¤.
 
-OptionDescription.PaperSize=¿ëÁö Å©±âÀÔ´Ï´Ù.
+OptionDescription.PaperSize=ìš©ì§€ í¬ê¸°ì…ë‹ˆë‹¤.
 
-OptionDescription.PaperTray=¿ëÁöÇÔÀÔ´Ï´Ù.
+OptionDescription.PaperTray=ìš©ì§€í•¨ì…ë‹ˆë‹¤.
 
-OptionDescription.ChartDpi=DPI´Â Â÷Æ®¸¦ »ı¼ºÇÏ´Â µ¥ »ç¿ëÇÕ´Ï´Ù.
+OptionDescription.ChartDpi=DPIëŠ” ì°¨íŠ¸ë¥¼ ìƒì„±í•˜ëŠ” ë° ì‚¬ìš©í•©ë‹ˆë‹¤.
 
-OptionDescription.Resolution=ÇØ»óµµÀÔ´Ï´Ù.
+OptionDescription.Resolution=í•´ìƒë„ì…ë‹ˆë‹¤.
 
-OptionDescription.Scale=¹èÀ²ÀÔ´Ï´Ù.
+OptionDescription.Scale=ë°°ìœ¨ì…ë‹ˆë‹¤.
 
-OptionDescription.Color=»öÀÔ´Ï´Ù.
+OptionDescription.Color=ìƒ‰ì…ë‹ˆë‹¤.
 
-OptionDescription.AutoPaperSizeSelection=¿ëÁö Å©±â¸¦ ÆäÀÌÁö Å©±â¿¡ ¸ÂÃç ¼±ÅÃÇÕ´Ï´Ù.
+OptionDescription.AutoPaperSizeSelection=ìš©ì§€ í¬ê¸°ë¥¼ í˜ì´ì§€ í¬ê¸°ì— ë§ì¶° ì„ íƒí•©ë‹ˆë‹¤.
 
-OptionDescription.FitToPaper=¿ëÁö¿¡ ¸ÂÃß±â
+OptionDescription.FitToPaper=ìš©ì§€ì— ë§ì¶”ê¸°
 
 ###########################################################
 #tooltip
-Tooltip.ChartDpi=Â÷Æ® ¿£Áø¿¡¼­ Â÷Æ®¸¦ »ı¼ºÇÏ´Â µ¥ »ç¿ëÇÏ´Â DPIÀÔ´Ï´Ù. ¿¹: 192.
+Tooltip.ChartDpi=ì°¨íŠ¸ ì—”ì§„ì—ì„œ ì°¨íŠ¸ë¥¼ ìƒì„±í•˜ëŠ” ë° ì‚¬ìš©í•˜ëŠ” DPIì…ë‹ˆë‹¤. ì˜ˆ: 192.

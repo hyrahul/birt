@@ -6,87 +6,87 @@
 #ODA-JDBC error code
 odajdbc.CannotCloseConn=Echec de fermeture de la connexion.
 
-odajdbc.ConnCommitError=Une erreur d'accès à la base de données s'est produite ou l'objet de connexion est en mode validation automatique.
+odajdbc.ConnCommitError=Une erreur d'accÃ¨s Ã  la base de donnÃ©es s'est produite ou l'objet de connexion est en mode validation automatique.
 
-odajdbc.CannotGetConnMetaData=Impossible d'obtenir les métadonnées de connexion.
+odajdbc.CannotGetConnMetaData=Impossible d'obtenir les mÃ©tadonnÃ©es de connexion.
 
 odajdbc.CannotGetConn=Echec de la connexion.
 
-odajdbc.ConnRollbackError=Erreur de retour arrière de la connexion.
+odajdbc.ConnRollbackError=Erreur de retour arriÃ¨re de la connexion.
 
-odajdbc.GetConnectionError=Erreur lors de la récupération de la connexion, {0}.
+odajdbc.GetConnectionError=Erreur lors de la rÃ©cupÃ©ration de la connexion, {0}.
 
-odajdbc.CannotGetMaxStatements=Impossible d'obtenir le nombre maximum d'instructions à partir des métadonnées de la base de données.
+odajdbc.CannotGetMaxStatements=Impossible d'obtenir le nombre maximum d'instructions Ã  partir des mÃ©tadonnÃ©es de la base de donnÃ©es.
 
-odajdbc.CannotGetMaxConnections=Impossible d'obtenir le nombre maximum de connexions à partir des métadonnées de la base de données.
+odajdbc.CannotGetMaxConnections=Impossible d'obtenir le nombre maximum de connexions Ã  partir des mÃ©tadonnÃ©es de la base de donnÃ©es.
 
-odajdbc.CannotGetDatabaseMajorVersion=Impossible d'obtenir la version principale de la base de données.
+odajdbc.CannotGetDatabaseMajorVersion=Impossible d'obtenir la version principale de la base de donnÃ©es.
 
-odajdbc.CannotGetDatabaseMinorVersion=Impossible d'obtenir la version secondaire de la base de données.
+odajdbc.CannotGetDatabaseMinorVersion=Impossible d'obtenir la version secondaire de la base de donnÃ©es.
 
-odajdbc.CannotGetDataSourceProductName=Impossible d'obtenir le nom de produit de la source de données.
+odajdbc.CannotGetDataSourceProductName=Impossible d'obtenir le nom de produit de la source de donnÃ©es.
 
-odajdbc.CannotGetDataSourceProductVersion=Impossible d'obtenir la version de produit de la source de données.
+odajdbc.CannotGetDataSourceProductVersion=Impossible d'obtenir la version de produit de la source de donnÃ©es.
 
-odajdbc.CannotGetSQLStateType=Impossible d'obtenir le type d'état SQL.
+odajdbc.CannotGetSQLStateType=Impossible d'obtenir le type d'Ã©tat SQL.
 
-odajdbc.CannotParseURL=Le pilote sélectionné ne peut pas analyser l'URL spécifiée.
+odajdbc.CannotParseURL=Le pilote sÃ©lectionnÃ© ne peut pas analyser l'URL spÃ©cifiÃ©e.
 
-odajdbc.CannotParseJNDI=Le pilote sélectionné ne peut pas analyser l'URL de la source de données JNDI spécifiée.
+odajdbc.CannotParseJNDI=Le pilote sÃ©lectionnÃ© ne peut pas analyser l'URL de la source de donnÃ©es JNDI spÃ©cifiÃ©e.
 
-odajdbc.NoSuitableDriver=Pilote non adapté.
+odajdbc.NoSuitableDriver=Pilote non adaptÃ©.
 
-odajdbc.CannotGetParameterCount=Impossible d'obtenir le nombre de paramètres.
+odajdbc.CannotGetParameterCount=Impossible d'obtenir le nombre de paramÃ¨tres.
 
-odajdbc.CannotGetParameterMode=Impossible d'obtenir le mode du paramètre.
+odajdbc.CannotGetParameterMode=Impossible d'obtenir le mode du paramÃ¨tre.
 
-odajdbc.CannotGetParameterType=Impossible d'obtenir le type du paramètre.
+odajdbc.CannotGetParameterType=Impossible d'obtenir le type du paramÃ¨tre.
 
-odajdbc.CannotGetParameterTypeName=Impossible d'obtenir le nom du type de paramètre.
+odajdbc.CannotGetParameterTypeName=Impossible d'obtenir le nom du type de paramÃ¨tre.
 
-odajdbc.CannotGetPrecision=Impossible d'obtenir la précision.
+odajdbc.CannotGetPrecision=Impossible d'obtenir la prÃ©cision.
 
-odajdbc.CannotGetScale=Impossible d'obtenir l'échelle.
+odajdbc.CannotGetScale=Impossible d'obtenir l'Ã©chelle.
 
-odajdbc.CannotDetermineSupportForNull=Impossible de déterminer si le paramètre est annulable.
+odajdbc.CannotDetermineSupportForNull=Impossible de dÃ©terminer si le paramÃ¨tre est annulable.
 
-odajdbc.CannotGetResultSet=Impossible d'obtenir le jeu de résultats.
+odajdbc.CannotGetResultSet=Impossible d'obtenir le jeu de rÃ©sultats.
 
-odajdbc.CannotGetResultSetMetadata=Impossible d'obtenir les métadonnées du jeu de résultats.
+odajdbc.CannotGetResultSetMetadata=Impossible d'obtenir les mÃ©tadonnÃ©es du jeu de rÃ©sultats.
 
-odajdbc.CannotCloseResultSet=Impossible de fermer le jeu de résultats.
+odajdbc.CannotCloseResultSet=Impossible de fermer le jeu de rÃ©sultats.
 
-odajdbc.CursorDownError=Impossible de se déplacer d'une ligne vers le bas dans le jeu de résultats.
+odajdbc.CursorDownError=Impossible de se dÃ©placer d'une ligne vers le bas dans le jeu de rÃ©sultats.
 
-odajdbc.ResultSetCannotGetStringValue=Impossible d'obtenir la valeur de chaîne dans le jeu de résultats.
+odajdbc.ResultSetCannotGetStringValue=Impossible d'obtenir la valeur de chaÃ®ne dans le jeu de rÃ©sultats.
 
-odajdbc.ResultSetCannotGetIntValue=Impossible d'obtenir la valeur d'entier dans le jeu de résultats.
+odajdbc.ResultSetCannotGetIntValue=Impossible d'obtenir la valeur d'entier dans le jeu de rÃ©sultats.
 
-odajdbc.ResultSetCannotGetDoubleValue=Impossible d'obtenir la valeur double dans le jeu de résultats.
+odajdbc.ResultSetCannotGetDoubleValue=Impossible d'obtenir la valeur double dans le jeu de rÃ©sultats.
 
-odajdbc.ResultSetCannotGetBigDecimalValue=Impossible d'obtenir la valeur BigDecimal dans le jeu de résultats.
+odajdbc.ResultSetCannotGetBigDecimalValue=Impossible d'obtenir la valeur BigDecimal dans le jeu de rÃ©sultats.
 
-odajdbc.ResultSetCannotGetDateValue=Impossible d'obtenir la valeur de date dans le jeu de résultats.
+odajdbc.ResultSetCannotGetDateValue=Impossible d'obtenir la valeur de date dans le jeu de rÃ©sultats.
 
-odajdbc.ResultSetCannotGetTimeValue=Impossible d'obtenir la valeur temporelle dans le jeu de résultats.
+odajdbc.ResultSetCannotGetTimeValue=Impossible d'obtenir la valeur temporelle dans le jeu de rÃ©sultats.
 
-odajdbc.ResultSetCannotGetTimeStampValue=Impossible d'obtenir la valeur d'horodatage dans le jeu de résultats.
+odajdbc.ResultSetCannotGetTimeStampValue=Impossible d'obtenir la valeur d'horodatage dans le jeu de rÃ©sultats.
 
-odajdbc.ResultSetCannotGetBlobValue=Impossible d'obtenir la valeur BLOB dans le jeu de résultats.
+odajdbc.ResultSetCannotGetBlobValue=Impossible d'obtenir la valeur BLOB dans le jeu de rÃ©sultats.
 
-odajdbc.ResultSetCannotGetClobValue=Impossible d'obtenir la valeur CLOB dans le jeu de résultats.
+odajdbc.ResultSetCannotGetClobValue=Impossible d'obtenir la valeur CLOB dans le jeu de rÃ©sultats.
 
-odajdbc.ResultSetCannotGetBooleanValue=Impossible d'obtenir la valeur booléenne dans le jeu de résultats.
+odajdbc.ResultSetCannotGetBooleanValue=Impossible d'obtenir la valeur boolÃ©enne dans le jeu de rÃ©sultats.
 
-odajdbc.ResultSetDetermineNull=Impossible de déterminer la valeur isNull dans le jeu de résultats.
+odajdbc.ResultSetDetermineNull=Impossible de dÃ©terminer la valeur isNull dans le jeu de rÃ©sultats.
 
-odajdbc.ResultSetCannotFindColumn=Impossible de trouver une colonne dans le jeu de résultats.
+odajdbc.ResultSetCannotFindColumn=Impossible de trouver une colonne dans le jeu de rÃ©sultats.
 
 odajdbc.CannotGetColumnCount=Impossible d'obtenir un nombre de colonnes.
 
 odajdbc.CannotGetColumnName=Impossible d'obtenir le nom de colonne.
 
-odajdbc.CannotGetColumnLabel=Impossible d'obtenir l'étiquette de colonne.
+odajdbc.CannotGetColumnLabel=Impossible d'obtenir l'Ã©tiquette de colonne.
 
 odajdbc.CannotGetColumnType=Impossible d'obtenir le type de colonne.
 
@@ -94,49 +94,49 @@ odajdbc.CannotGetColumnTypeName=Impossible d'obtenir le nom du type de colonne.
 
 odajdbc.CannotGetColumnDisplaySize=Impossible d'obtenir la taille d'affichage de colonne.
 
-odajdbc.CannotGetResultSetMetaDataPrecision=Impossible d'obtenir la précision des métadonnées du jeu de résultats.
+odajdbc.CannotGetResultSetMetaDataPrecision=Impossible d'obtenir la prÃ©cision des mÃ©tadonnÃ©es du jeu de rÃ©sultats.
 
-odajdbc.CannotGetResultSetMetaDataScale=Impossible d'obtenir l'échelle des métadonnées du jeu de résultats.
+odajdbc.CannotGetResultSetMetaDataScale=Impossible d'obtenir l'Ã©chelle des mÃ©tadonnÃ©es du jeu de rÃ©sultats.
 
-odajdbc.CannotDetermineColumnSupportForNull=Impossible de déterminer si la colonne prend en charge les valeurs nulles.
+odajdbc.CannotDetermineColumnSupportForNull=Impossible de dÃ©terminer si la colonne prend en charge les valeurs nulles.
 
-odajdbc.StatementCannotPrepared=Erreur de préparation d'instruction SQL.
+odajdbc.StatementCannotPrepared=Erreur de prÃ©paration d'instruction SQL.
 
-odajdbc.CannotGetMetaData=Impossible d'obtenir les métadonnées du jeu de résultats.
+odajdbc.CannotGetMetaData=Impossible d'obtenir les mÃ©tadonnÃ©es du jeu de rÃ©sultats.
 
 odajdbc.CannotClosePreparedStatement=Impossible de fermer preparedStatement.
 
-odajdbc.CannotGetPreparedStatementMetadata=Impossible d'obtenir les métadonnées preparedStatement.
+odajdbc.CannotGetPreparedStatementMetadata=Impossible d'obtenir les mÃ©tadonnÃ©es preparedStatement.
 
 odajdbc.ResultSetCannotReturn=L'instruction SQL ne renvoie pas d'objet ResultSet.
 
-odajdbc.QueryExecuteFail=L'instruction SQL ne renvoie pas d'objet ResultSet ou de nombre mis à jour.
+odajdbc.QueryExecuteFail=L'instruction SQL ne renvoie pas d'objet ResultSet ou de nombre mis Ã  jour.
 
-odajdbc.InvalidStoredPrecedure=Instruction d'appel de procédure stockée non valide.
+odajdbc.InvalidStoredPrecedure=Instruction d'appel de procÃ©dure stockÃ©e non valide.
 
-odajdbc.PrepareStatement.CannotSetIntValue=Impossible de définir la valeur entière du paramètre preparedStatement.
+odajdbc.PrepareStatement.CannotSetIntValue=Impossible de dÃ©finir la valeur entiÃ¨re du paramÃ¨tre preparedStatement.
 
-odajdbc.PrepareStatement.CannotSetDoubleValue=Impossible de définir la valeur double du paramètre preparedStatement.
+odajdbc.PrepareStatement.CannotSetDoubleValue=Impossible de dÃ©finir la valeur double du paramÃ¨tre preparedStatement.
 
-odajdbc.PrepareStatement.CannotSetBigDecimalValue=Impossible de définir la valeur BigDecimal du paramètre preparedStatement.
+odajdbc.PrepareStatement.CannotSetBigDecimalValue=Impossible de dÃ©finir la valeur BigDecimal du paramÃ¨tre preparedStatement.
 
-odajdbc.PrepareStatement.CannotSetStringValue=Impossible de définir la valeur de chaîne du paramètre preparedStatement.
+odajdbc.PrepareStatement.CannotSetStringValue=Impossible de dÃ©finir la valeur de chaÃ®ne du paramÃ¨tre preparedStatement.
 
-odajdbc.PrepareStatement.CannotSetDateValue=Impossible de définir la valeur de date du paramètre preparedStatement.
+odajdbc.PrepareStatement.CannotSetDateValue=Impossible de dÃ©finir la valeur de date du paramÃ¨tre preparedStatement.
 
-odajdbc.PrepareStatement.CannotSetTimeValue=Impossible de définir la valeur temporelle du paramètre preparedStatement.
+odajdbc.PrepareStatement.CannotSetTimeValue=Impossible de dÃ©finir la valeur temporelle du paramÃ¨tre preparedStatement.
 
-odajdbc.PrepareStatement.CannotSetTimestampValue=Impossible de définir la valeur d'horodatage du paramètre preparedStatement.
+odajdbc.PrepareStatement.CannotSetTimestampValue=Impossible de dÃ©finir la valeur d'horodatage du paramÃ¨tre preparedStatement.
 
-odajdbc.PrepareStatement.CannotSetBooleanValue=Impossible de définir la valeur booléenne du paramètre preparedStatement.
+odajdbc.PrepareStatement.CannotSetBooleanValue=Impossible de dÃ©finir la valeur boolÃ©enne du paramÃ¨tre preparedStatement.
 
-odajdbc.PrepareStatement.CannotSetNullValue=Impossible de définir la valeur nulle du paramètre preparedStatement.
+odajdbc.PrepareStatement.CannotSetNullValue=Impossible de dÃ©finir la valeur nulle du paramÃ¨tre preparedStatement.
 
-odajdbc.PrepareStatement.CannotGetParameterType=Impossible d'obtenir le type de paramètre à partir des métadonnées du paramètre.
+odajdbc.PrepareStatement.CannotGetParameterType=Impossible d'obtenir le type de paramÃ¨tre Ã  partir des mÃ©tadonnÃ©es du paramÃ¨tre.
 
-odajdbc.CannotGetParameterMetadata=Impossible de récupérer les métadonnées du paramètre.
+odajdbc.CannotGetParameterMetadata=Impossible de rÃ©cupÃ©rer les mÃ©tadonnÃ©es du paramÃ¨tre.
 
-odajdbc.ClearParametersError=Erreur d'effacement de la valeur actuelle du paramètre.
+odajdbc.ClearParametersError=Erreur d'effacement de la valeur actuelle du paramÃ¨tre.
 
 odajdbc.missedUrlAndJndi=GetConnection : les valeurs d'url et de jndiNameUrl sont toutes les deux nulles.
 
@@ -145,28 +145,28 @@ odajdbc.error.emptyDriverClass=GetConnection : le nom de classe du pilote est nu
 #used in assert error
 odajdbc.driver.ConnNotOpen=La connexion n'est pas ouverte.
 
-odajdbc.driver.DriverMissingProperties=Propriétés manquantes dans Connection.open(Properties).
+odajdbc.driver.DriverMissingProperties=PropriÃ©tÃ©s manquantes dans Connection.open(Properties).
 
-odajdbc.driver.ParameterMetadataCannotNull=La valeur ParameterMetaData ne peut pas être nulle.
+odajdbc.driver.ParameterMetadataCannotNull=La valeur ParameterMetaData ne peut pas Ãªtre nulle.
 
-odajdbc.driver.ResultSetCannotNull=La valeur ResultSet ne peut pas être nulle.
+odajdbc.driver.ResultSetCannotNull=La valeur ResultSet ne peut pas Ãªtre nulle.
 
-odajdbc.driver.ResultSetMetadataCannotNull=La valeur ResultSetMetaData ne peut pas être nulle.
+odajdbc.driver.ResultSetMetadataCannotNull=La valeur ResultSetMetaData ne peut pas Ãªtre nulle.
 
-odajdbc.driver.StatementCannotNull=Il est nécessaire de préparer l'instruction avant d'effectuer cette opération.
+odajdbc.driver.StatementCannotNull=Il est nÃ©cessaire de prÃ©parer l'instruction avant d'effectuer cette opÃ©ration.
 
-odajdbc.CannotGetMaxQueries=Impossible d'obtenir le nombre maximum d'instructions à partir de la connexion JDBC sous-jacente.
+odajdbc.CannotGetMaxQueries=Impossible d'obtenir le nombre maximum d'instructions Ã  partir de la connexion JDBC sous-jacente.
 
-odajdbc.CannotSetQueryTimeout=Impossible de définir le délai d'expiration de requête pour l'instruction JDBC sous-jacente.
+odajdbc.CannotSetQueryTimeout=Impossible de dÃ©finir le dÃ©lai d'expiration de requÃªte pour l'instruction JDBC sous-jacente.
 
-odajdbc.BadQueryProperty=Les propriétés de la requête ne sont pas prises en charge : {0}.
+odajdbc.BadQueryProperty=Les propriÃ©tÃ©s de la requÃªte ne sont pas prises en charge : {0}.
 
 odajdbc.CannotLoadDriverClass=Impossible de charger la classe de pilote JDBC : {0}.
 
-odajdbc.CannotInstantiateDriverClass=Impossible de créer l'instance de la classe de pilote JDBC : {0}.
+odajdbc.CannotInstantiateDriverClass=Impossible de crÃ©er l'instance de la classe de pilote JDBC : {0}.
 
-odajdbc.CannotInstantiateFactory=Impossible de créer l''instance de la classe de génération de connexion "{0}" définie dans l''extension de la classe de pilote "{1}".
+odajdbc.CannotInstantiateFactory=Impossible de crÃ©er l''instance de la classe de gÃ©nÃ©ration de connexion "{0}" dÃ©finie dans l''extension de la classe de pilote "{1}".
 
-odajdbc.jndi.InvalidJndiResource=Type de ressource JNDI identifié ({0}); type attendu : javax.sql.DataSource.
+odajdbc.jndi.InvalidJndiResource=Type de ressource JNDI identifiÃ© ({0}); type attendu : javax.sql.DataSource.
 
 odajdbc.testfail=Echec du test

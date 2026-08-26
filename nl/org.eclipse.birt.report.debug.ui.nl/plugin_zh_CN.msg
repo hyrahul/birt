@@ -10,29 +10,29 @@
 # *******************************************************************************/
 
 report.debug=BIRT Report
-script.debug=±¨±í
+script.debug=æŠ¥è¡¨
 
-LaunchActionSet.label=µ÷ÊÔ±¨±í(&E)
+LaunchActionSet.label=è°ƒè¯•æŠ¥è¡¨(&E)
 
-Script.source.locator=±¨±í½Å±¾Ô´¶¨Î»Æ÷
+Script.source.locator=æŠ¥è¡¨è„šæœ¬æºå®šä½å™¨
 
-Debug.jsEditor=±¨±íµ÷ÊÔ JavaScript ±à¼­Æ÷
+Debug.jsEditor=æŠ¥è¡¨è°ƒè¯• JavaScript ç¼–è¾‘å™¨
 
 javaSourceLocatorName=Java Source Locator
-Watch.label=Ìí¼ÓÒÔ¹Û²ì
+Watch.label=æ·»åŠ ä»¥è§‚å¯Ÿ
 
-ReportActionSet=±¨±í²Ù×÷¼¯
+ReportActionSet=æŠ¥è¡¨æ“ä½œé›†
 
-Run=ÔËĞĞ(&R)
+Run=è¿è¡Œ(&R)
 
-ScriptLaunchShortcut.label=±¨±í
+ScriptLaunchShortcut.label=æŠ¥è¡¨
 
-DebugReportLaunchShortcut.description=µ÷ÊÔ±¨±í
+DebugReportLaunchShortcut.description=è°ƒè¯•æŠ¥è¡¨
 
-EnableBreakpoint.label=ÆôÓÃ¶Ïµã
+EnableBreakpoint.label=å¯ç”¨æ–­ç‚¹
 
-ToggleBreakpoint.label=ÇĞ»»¶Ïµã
+ToggleBreakpoint.label=åˆ‡æ¢æ–­ç‚¹
 
-Action.DebugReport=µ÷ÊÔ±¨±í
+Action.DebugReport=è°ƒè¯•æŠ¥è¡¨
 
-Menu.Report=±¨±í
+Menu.Report=æŠ¥è¡¨

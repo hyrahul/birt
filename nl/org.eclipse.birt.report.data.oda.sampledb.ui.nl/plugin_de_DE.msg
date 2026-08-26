@@ -9,9 +9,9 @@ oda.data.source.id=org.eclipse.birt.report.data.oda.sampledb
 #
 plugin.name=BIRT Sample DB Designer
 newwizard.name=BIRT Sample DB Data Source
-newwizard.description=Verbindungsprofil für BIRT-Beispieldatenbank erstellen
+newwizard.description=Verbindungsprofil fÃ¼r BIRT-Beispieldatenbank erstellen
 
-wizard.window.title=Neues Verbindungsprofil für Beispieldatenbank
+wizard.window.title=Neues Verbindungsprofil fÃ¼r Beispieldatenbank
 
 wizard.data.source.page.title=Neue Beispieldatenquelle "Classic Models Inc."
 

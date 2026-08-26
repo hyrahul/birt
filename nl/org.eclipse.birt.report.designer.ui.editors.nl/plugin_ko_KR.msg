@@ -8,9 +8,9 @@
 # * Contributors:
 # *  Actuate Corporation  - initial API and implementation
 # *******************************************************************************/
-contenttype.design=º¸°í¼­ µğÀÚÀÎ
+contenttype.design=ë³´ê³ ì„œ ë””ìì¸
 
 contenttype.library=Report Library
-contenttype.template=º¸°í¼­ ÅÛÇÃ¸´
+contenttype.template=ë³´ê³ ì„œ í…œí”Œë¦¿
 
-contenttype.document=º¸°í¼­ ¹®¼­
+contenttype.document=ë³´ê³ ì„œ ë¬¸ì„œ

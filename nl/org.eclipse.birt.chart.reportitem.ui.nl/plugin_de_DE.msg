@@ -11,4 +11,4 @@
 
 preference.chart=Diagramm
 menu.lable.chart=&Diagramm
-preference.description=Fügen Sie ein Diagrammelement ein.
+preference.description=FÃ¼gen Sie ein Diagrammelement ein.

@@ -3,268 +3,268 @@
 
 ###########################################################
 #for test only
-Error.Msg001={0}ÀÌ(°¡) {0}¿¡ ¾ø½À´Ï´Ù.
+Error.Msg001={0}ì´(ê°€) {0}ì— ì—†ìŠµë‹ˆë‹¤.
 
 ###########################################################
 
 #load data engine factory exception
-load.factory.error=µ¥ÀÌÅÍ ¾î´ğÅÍ ÆÑÅä¸® ·Îµå Áß ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+load.factory.error=ë°ì´í„° ì–´ëŒ‘í„° íŒ©í† ë¦¬ ë¡œë“œ ì¤‘ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-context.null.error=µ¥ÀÌÅÍ ÄÁÅØ½ºÆ®´Â ³Î(null)ÀÌ µÉ ¼ö ¾ø½À´Ï´Ù.
+context.null.error=ë°ì´í„° ì»¨í…ìŠ¤íŠ¸ëŠ” ë„(null)ì´ ë  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-context.invalidDesigntimeMethod=ReportContext ¸Ş¼­µå [{0}]Àº(´Â) ·±Å¸ÀÓ¿¡¼­¸¸ »ç¿ëµÉ ¼ö ÀÖ½À´Ï´Ù.
+context.invalidDesigntimeMethod=ReportContext ë©”ì„œë“œ [{0}]ì€(ëŠ”) ëŸ°íƒ€ì„ì—ì„œë§Œ ì‚¬ìš©ë  ìˆ˜ ìˆìŠµë‹ˆë‹¤.
 
-adaptor.invalid.mode=µ¥ÀÌÅÍ ¾î´ğÅÍ ÄÁÅØ½ºÆ®ÀÇ ¸ğµå °ª {0}ÀÌ(°¡) Àß¸øµÇ¾ú½À´Ï´Ù.
+adaptor.invalid.mode=ë°ì´í„° ì–´ëŒ‘í„° ì»¨í…ìŠ¤íŠ¸ì˜ ëª¨ë“œ ê°’ {0}ì´(ê°€) ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-invalid.cache.option=µ¥ÀÌÅÍ ¾î´ğÅÍ ÄÁÅØ½ºÆ®ÀÇ ¸ğµå °ª {0}ÀÌ(°¡) Àß¸øµÇ¾ú½À´Ï´Ù.
+invalid.cache.option=ë°ì´í„° ì–´ëŒ‘í„° ì»¨í…ìŠ¤íŠ¸ì˜ ëª¨ë“œ ê°’ {0}ì´(ê°€) ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-datasource.null.error=µ¥ÀÌÅÍ ÁıÇÕ "{0}"ÀÇ µ¥ÀÌÅÍ ¿øº»À» Ã£Áö ¸øÇß½À´Ï´Ù.
+datasource.null.error=ë°ì´í„° ì§‘í•© "{0}"ì˜ ë°ì´í„° ì›ë³¸ì„ ì°¾ì§€ ëª»í–ˆìŠµë‹ˆë‹¤.
 
-datasource.exid.error=µ¥ÀÌÅÍ ¿øº» Á¤ÀÇ¿¡¼­ È®Àå ID°¡ ´©¶ôµÇ¾ú½À´Ï´Ù: {0}.
+datasource.exid.error=ë°ì´í„° ì›ë³¸ ì •ì˜ì—ì„œ í™•ì¥ IDê°€ ëˆ„ë½ë˜ì—ˆìŠµë‹ˆë‹¤: {0}.
 
-datasource.cassandra.error=Cassandra ½ºÅ©¸³Æ® µ¥ÀÌÅÍ ¿øº»À» Áö¿øÇÏ´Â Hector Å¬¶óÀÌ¾ğÆ® ¶óÀÌºê·¯¸® jar¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù.
+datasource.cassandra.error=Cassandra ìŠ¤í¬ë¦½íŠ¸ ë°ì´í„° ì›ë³¸ì„ ì§€ì›í•˜ëŠ” Hector í´ë¼ì´ì–¸íŠ¸ ë¼ì´ë¸ŒëŸ¬ë¦¬ jarë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-datasethandle.null.error=DataSetHandleÀº ³Î(null)ÀÌ µÉ ¼ö ¾ø½À´Ï´Ù.
+datasethandle.null.error=DataSetHandleì€ ë„(null)ì´ ë  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-datasethandle.invalidColumnIndex=Àß¸øµÈ ¿­ ÀÎµ¦½ºÀÔ´Ï´Ù.
+datasethandle.invalidColumnIndex=ì˜ëª»ëœ ì—´ ì¸ë±ìŠ¤ì…ë‹ˆë‹¤.
 
-adapter.invalid.datetimetype=³¯Â¥/½Ã°£ Çü½Ä "{0}"ÀÌ(°¡) Àß¸øµÇ¾ú½À´Ï´Ù.
+adapter.invalid.datetimetype=ë‚ ì§œ/ì‹œê°„ í˜•ì‹ "{0}"ì´(ê°€) ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-adapter.invalid.aggregationfunctionname=Áı°è ÇÔ¼ö {0}ÀÌ(°¡) Àß¸øµÇ¾ú½À´Ï´Ù.
+adapter.invalid.aggregationfunctionname=ì§‘ê³„ í•¨ìˆ˜ {0}ì´(ê°€) ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-invalid.datetime.value=³¯Â¥/½Ã°£ °ª "{0}"ÀÌ(°¡) Àß¸øµÇ¾ú½À´Ï´Ù.
+invalid.datetime.value=ë‚ ì§œ/ì‹œê°„ ê°’ "{0}"ì´(ê°€) ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-missing.join.condition=±âº» µ¥ÀÌÅÍ ÁıÇÕ "{0}"°ú Å¥ºê "{2}"ÀÇ Â÷¿ø "{1}" °£ÀÇ Á¶ÀÎ Á¶°ÇÀÌ ¾ø½À´Ï´Ù.
+missing.join.condition=ê¸°ë³¸ ë°ì´í„° ì§‘í•© "{0}"ê³¼ íë¸Œ "{2}"ì˜ ì°¨ì› "{1}" ê°„ì˜ ì¡°ì¸ ì¡°ê±´ì´ ì—†ìŠµë‹ˆë‹¤.
 
-exception.error=Ã³¸® µµÁß ¿¹¿Ü°¡ ¹ß»ıÇß½À´Ï´Ù. ÀÚ¼¼ÇÑ ³»¿ëÀº ´ÙÀ½ ¸Ş½ÃÁö¸¦ ÂüÁ¶ÇÏ½Ê½Ã¿À.
+exception.error=ì²˜ë¦¬ ë„ì¤‘ ì˜ˆì™¸ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤. ìì„¸í•œ ë‚´ìš©ì€ ë‹¤ìŒ ë©”ì‹œì§€ë¥¼ ì°¸ì¡°í•˜ì‹­ì‹œì˜¤.
 
-invalid.level.expression=¼öÁØ ÀÌ¸§ "{0}"À»(¸¦) Ã£À» ¼ö ¾ø½À´Ï´Ù.
+invalid.level.expression=ìˆ˜ì¤€ ì´ë¦„ "{0}"ì„(ë¥¼) ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-invalid.measure.expression=ÃøÁ¤°ª "{0}"ÀÇ ÃøÁ¤°ª ½ÄÀº ³Î(null)ÀÏ ¼ö ¾ø½À´Ï´Ù.
+invalid.measure.expression=ì¸¡ì •ê°’ "{0}"ì˜ ì¸¡ì •ê°’ ì‹ì€ ë„(null)ì¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-invalid.data.type=Àß¸øµÈ µ¥ÀÌÅÍ Çü½Ä: {0}.
+invalid.data.type=ì˜ëª»ëœ ë°ì´í„° í˜•ì‹: {0}.
 
-invalid.binding.expression=½Ä "{0}"ÀÌ(°¡) Àß¸øµÇ¾ú½À´Ï´Ù.
+invalid.binding.expression=ì‹ "{0}"ì´(ê°€) ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-invalid.computedColumn.expression="{0}"Àº(´Â) Àß¸øµÈ µ¥ÀÌÅÍ ÁıÇÕ ¿­ "{1}"À»(¸¦) ÂüÁ¶ÇÏ´Â Àß¸øµÈ °è»ê ¿­ÀÔ´Ï´Ù.
+invalid.computedColumn.expression="{0}"ì€(ëŠ”) ì˜ëª»ëœ ë°ì´í„° ì§‘í•© ì—´ "{1}"ì„(ë¥¼) ì°¸ì¡°í•˜ëŠ” ì˜ëª»ëœ ê³„ì‚° ì—´ì…ë‹ˆë‹¤.
 
-cube.error.createhierarchy=°èÃş »ı¼º µµÁß {0} ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+cube.error.createhierarchy=ê³„ì¸µ ìƒì„± ë„ì¤‘ {0} ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-cube.error.createdimension=Â÷¿ø »ı¼º µµÁß {0} ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+cube.error.createdimension=ì°¨ì› ìƒì„± ë„ì¤‘ {0} ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-cube.error.createmeasure=ÃøÁ¤°ª »ı¼º µµÁß ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+cube.error.createmeasure=ì¸¡ì •ê°’ ìƒì„± ë„ì¤‘ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-cube.error.datasetmiss=°ü·ÃµÈ µ¥ÀÌÅÍ ÁıÇÕÀÌ ¾ø¾î Å¥ºê¸¦ »ı¼ºÇÒ ¼ö ¾ø½À´Ï´Ù.
+cube.error.datasetmiss=ê´€ë ¨ëœ ë°ì´í„° ì§‘í•©ì´ ì—†ì–´ íë¸Œë¥¼ ìƒì„±í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-cube.jointColumnNotInLevels=Á¶ÀÎ ¿­ "{0}"ÀÌ(°¡) Â÷¿ø "{1}"¿¡ ÀÖ´Â ¼öÁØÀÇ Å° ÇÊµå·Î Á¤ÀÇµÇÁö ¾Ê¾Ò½À´Ï´Ù.
+cube.jointColumnNotInLevels=ì¡°ì¸ ì—´ "{0}"ì´(ê°€) ì°¨ì› "{1}"ì— ìˆëŠ” ìˆ˜ì¤€ì˜ í‚¤ í•„ë“œë¡œ ì •ì˜ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
 
-cube.unsupportedAggregationInBinding=¹ÙÀÎµù "{0}"ÀÇ TopN/BottomN ÇÔ¼ö´Â xTab¿¡¼­ Áö¿øµÇÁö ¾Ê½À´Ï´Ù.
+cube.unsupportedAggregationInBinding=ë°”ì¸ë”© "{0}"ì˜ TopN/BottomN í•¨ìˆ˜ëŠ” xTabì—ì„œ ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-cube.error.aggregationFilter.referCalculatedMeasure=Àß¸øµÈ Áı°è: "{0}". ÇÊÅÍ ½ÄÀÌ °è»êµÈ ÃøÁ¤°ª "{1}"À»(¸¦) ÂüÁ¶ÇÏ¿´½À´Ï´Ù.
+cube.error.aggregationFilter.referCalculatedMeasure=ì˜ëª»ëœ ì§‘ê³„: "{0}". í•„í„° ì‹ì´ ê³„ì‚°ëœ ì¸¡ì •ê°’ "{1}"ì„(ë¥¼) ì°¸ì¡°í•˜ì˜€ìŠµë‹ˆë‹¤.
 
-cube.query.error.dimensionMiss=Å¥ºê¿¡ Â÷¿ø "{0}"ÀÌ(°¡) ¾ø½À´Ï´Ù.
+cube.query.error.dimensionMiss=íë¸Œì— ì°¨ì› "{0}"ì´(ê°€) ì—†ìŠµë‹ˆë‹¤.
 
-cube.query.error.levelMiss=Å¥ºê ½Ã°£ Â÷¿ø "{1}"¿¡ ½Ã°£ À¯Çü "{0}"ÀÇ ¼öÁØÀÌ ¾ø½À´Ï´Ù.
+cube.query.error.levelMiss=íë¸Œ ì‹œê°„ ì°¨ì› "{1}"ì— ì‹œê°„ ìœ í˜• "{0}"ì˜ ìˆ˜ì¤€ì´ ì—†ìŠµë‹ˆë‹¤.
 
-cube.edge.error.levelMiss=½Ã°£ À¯Çü "{0}"ÀÇ ¼öÁØÀÌ Äõ¸® Á¤ÀÇ¿¡ ´©¶ôµÇ¾ú½À´Ï´Ù.
+cube.edge.error.levelMiss=ì‹œê°„ ìœ í˜• "{0}"ì˜ ìˆ˜ì¤€ì´ ì¿¼ë¦¬ ì •ì˜ì— ëˆ„ë½ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-cube.derivedMeasure.invalid.reference=Àß¸øµÈ ÃøÁ¤°ª ÂüÁ¶ÀÔ´Ï´Ù. ´ÙÀ½ÀÇ Àß¸øµÈ ÃøÁ¤°ªÀ» ÂüÁ¶ÇÑ ÆÄ»ı ÃøÁ¤°ª "{0}": "{1}".
+cube.derivedMeasure.invalid.reference=ì˜ëª»ëœ ì¸¡ì •ê°’ ì°¸ì¡°ì…ë‹ˆë‹¤. ë‹¤ìŒì˜ ì˜ëª»ëœ ì¸¡ì •ê°’ì„ ì°¸ì¡°í•œ íŒŒìƒ ì¸¡ì •ê°’ "{0}": "{1}".
 
-cube.derivedMeasure.resolve.error=ÆÄ»ı ÃøÁ¤°ª "{0}" È®ÀÎ¿¡ ½ÇÆĞÇß½À´Ï´Ù.
+cube.derivedMeasure.resolve.error=íŒŒìƒ ì¸¡ì •ê°’ "{0}" í™•ì¸ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.
 
-cube.derivedMeasure.recursive.ref=ÆÄ»ı ÃøÁ¤°ª "{0}" È®ÀÎ¿¡ ½ÇÆĞÇß½À´Ï´Ù. ´ÙÀ½ Áß¿¡¼­ ¼øÈ¯ ÂüÁ¶°¡ °¨ÁöµÇ¾ú±â ¶§¹®ÀÔ´Ï´Ù.: "{1}".
+cube.derivedMeasure.recursive.ref=íŒŒìƒ ì¸¡ì •ê°’ "{0}" í™•ì¸ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤. ë‹¤ìŒ ì¤‘ì—ì„œ ìˆœí™˜ ì°¸ì¡°ê°€ ê°ì§€ë˜ì—ˆê¸° ë•Œë¬¸ì…ë‹ˆë‹¤.: "{1}".
 
-timeFunction.CURRENT_QUARTER.name = ÇöÀç ºĞ±â
+timeFunction.CURRENT_QUARTER.name = í˜„ì¬ ë¶„ê¸°
 
-timeFunction.CURRENT_QUARTER.description = ÇöÀç ºĞ±â¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.CURRENT_QUARTER.description = í˜„ì¬ ë¶„ê¸°ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.CURRENT_MONTH.name = ÇöÀç ´Ş
+timeFunction.CURRENT_MONTH.name = í˜„ì¬ ë‹¬
 
-timeFunction.CURRENT_MONTH.description = ÇöÀç ´Ş¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.CURRENT_MONTH.description = í˜„ì¬ ë‹¬ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.PREVIOUS_MONTH.name = ÀÌÀü N´Ş
+timeFunction.PREVIOUS_MONTH.name = ì´ì „ Në‹¬
 
-timeFunction.PREVIOUS_MONTH.description = ÀÌÀü N ´Ş¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.PREVIOUS_MONTH.description = ì´ì „ N ë‹¬ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.PREVIOUS_WEEK_TO_DATE.name = ÀÌÀü NÁÖ°£ ´©°è
+timeFunction.PREVIOUS_WEEK_TO_DATE.name = ì´ì „ Nì£¼ê°„ ëˆ„ê³„
 
-timeFunction.PREVIOUS_WEEK_TO_DATE.description = ÀÌÀü NÁÖ ÁÖ°£ ´©°è¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.PREVIOUS_WEEK_TO_DATE.description = ì´ì „ Nì£¼ ì£¼ê°„ ëˆ„ê³„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.PREVIOUS_MONTH_TO_DATE.name = ÀÌÀü N´Ş°£ ´©°è
+timeFunction.PREVIOUS_MONTH_TO_DATE.name = ì´ì „ Në‹¬ê°„ ëˆ„ê³„
 
-timeFunction.PREVIOUS_MONTH_TO_DATE.description = ÀÌÀü N´Ş ¿ùº° ´©°è¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.PREVIOUS_MONTH_TO_DATE.description = ì´ì „ Në‹¬ ì›”ë³„ ëˆ„ê³„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.PREVIOUS_QUARTER.name = ÀÌÀü NºĞ±â
+timeFunction.PREVIOUS_QUARTER.name = ì´ì „ Në¶„ê¸°
 
-timeFunction.PREVIOUS_QUARTER.description = ÀÌÀü N ºĞ±â¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.PREVIOUS_QUARTER.description = ì´ì „ N ë¶„ê¸°ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.PREVIOUS_QUARTER_TO_DATE.name = ÀÌÀü NºĞ±âºÎÅÍ ´©°è
+timeFunction.PREVIOUS_QUARTER_TO_DATE.name = ì´ì „ Në¶„ê¸°ë¶€í„° ëˆ„ê³„
 
-timeFunction.PREVIOUS_QUARTER_TO_DATE.description = ÀÌÀü N ºĞ±â¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.PREVIOUS_QUARTER_TO_DATE.description = ì´ì „ N ë¶„ê¸°ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.PREVIOUS_PREVIOUS_YEAR.name = ÀÌÀü N³â
+timeFunction.PREVIOUS_PREVIOUS_YEAR.name = ì´ì „ Në…„
 
-timeFunction.PREVIOUS_PREVIOUS_YEAR.description = ÀÌÀü N ¿¬µµ¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.PREVIOUS_PREVIOUS_YEAR.description = ì´ì „ N ì—°ë„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.TRAILING_30_DAYS.name = ³ª¸ÓÁö 30ÀÏ
+timeFunction.TRAILING_30_DAYS.name = ë‚˜ë¨¸ì§€ 30ì¼
 
-timeFunction.TRAILING_30_DAYS.description = ÃÖ±Ù 30ÀÏ¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.TRAILING_30_DAYS.description = ìµœê·¼ 30ì¼ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.TRAILING_60_DAYS.name = ³ª¸ÓÁö 60ÀÏ
+timeFunction.TRAILING_60_DAYS.name = ë‚˜ë¨¸ì§€ 60ì¼
 
-timeFunction.TRAILING_60_DAYS.description = ÃÖ±Ù 60ÀÏ¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.TRAILING_60_DAYS.description = ìµœê·¼ 60ì¼ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.TRAILING_90_DAYS.name = ³ª¸ÓÁö 90ÀÏ
+timeFunction.TRAILING_90_DAYS.name = ë‚˜ë¨¸ì§€ 90ì¼
 
-timeFunction.TRAILING_120_DAYS.name = ³ª¸ÓÁö 120ÀÏ
+timeFunction.TRAILING_120_DAYS.name = ë‚˜ë¨¸ì§€ 120ì¼
 
-timeFunction.TRAILING_90_DAYS.description = ÃÖ±Ù 90ÀÏ¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.TRAILING_90_DAYS.description = ìµœê·¼ 90ì¼ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.TRAILING_120_DAYS.description = ÃÖ±Ù 120ÀÏ¿¡ ÁöÁ¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.TRAILING_120_DAYS.description = ìµœê·¼ 120ì¼ì— ì§€ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.TRAILING_12_MONTHS.name = ³ª¸ÓÁö 12´Ş
+timeFunction.TRAILING_12_MONTHS.name = ë‚˜ë¨¸ì§€ 12ë‹¬
 
-timeFunction.TRAILING_12_MONTHS.description = ÃÖ±Ù 12´Ş¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.TRAILING_12_MONTHS.description = ìµœê·¼ 12ë‹¬ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.YEAR_TO_DATE.name = YTD(¿¬°£ ´©°è)
+timeFunction.YEAR_TO_DATE.name = YTD(ì—°ê°„ ëˆ„ê³„)
 
-timeFunction.YEAR_TO_DATE.description = µ¿ÀÏ ¿¬µµ¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.YEAR_TO_DATE.description = ë™ì¼ ì—°ë„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.QUARTER_TO_DATE.name = QTD(ºĞ±âº° ´©°è)
+timeFunction.QUARTER_TO_DATE.name = QTD(ë¶„ê¸°ë³„ ëˆ„ê³„)
 
-timeFunction.QUARTER_TO_DATE.description = µ¿ÀÏ ºĞ±â¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.QUARTER_TO_DATE.description = ë™ì¼ ë¶„ê¸°ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.MONTH_TO_DATE.name = MTD(¿ùº° ´©°è)
+timeFunction.MONTH_TO_DATE.name = MTD(ì›”ë³„ ëˆ„ê³„)
 
-timeFunction.MONTH_TO_DATE.description = µ¿ÀÏ ´Ş¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.MONTH_TO_DATE.description = ë™ì¼ ë‹¬ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.PREVIOUS_YEAR_TO_DATE.name = ÀÌÀü N³â°£ ´©°è
+timeFunction.PREVIOUS_YEAR_TO_DATE.name = ì´ì „ Në…„ê°„ ëˆ„ê³„
 
-timeFunction.PREVIOUS_YEAR_TO_DATE.description = ÀÌÀü N¿¬µµ¿¡¼­ µ¿ÀÏ ¿¬µµ¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.PREVIOUS_YEAR_TO_DATE.description = ì´ì „ Nì—°ë„ì—ì„œ ë™ì¼ ì—°ë„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.WEEK_TO_DATE_LAST_YEAR.name = Àü³âµµ ÁÖ°£ ´©°è
+timeFunction.WEEK_TO_DATE_LAST_YEAR.name = ì „ë…„ë„ ì£¼ê°„ ëˆ„ê³„
 
-timeFunction.WEEK_TO_DATE_LAST_YEAR.description = ÀÌÀü N¿¬µµ¿¡¼­ µ¿ÀÏ ÁÖ¿¡ ÁöÁ¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.WEEK_TO_DATE_LAST_YEAR.description = ì´ì „ Nì—°ë„ì—ì„œ ë™ì¼ ì£¼ì— ì§€ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.MONTH_TO_DATE_LAST_YEAR.name = Àü³âµµ ¿ù°£ ´©°è
+timeFunction.MONTH_TO_DATE_LAST_YEAR.name = ì „ë…„ë„ ì›”ê°„ ëˆ„ê³„
 
-timeFunction.MONTH_TO_DATE_LAST_YEAR.description = ÀÌÀü N¿¬µµ¿¡¼­ µ¿ÀÏ ´Ş¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.MONTH_TO_DATE_LAST_YEAR.description = ì´ì „ Nì—°ë„ì—ì„œ ë™ì¼ ë‹¬ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.QUARTER_TO_DATE_LAST_YEAR.name = Àü³âµµ ºĞ±âº° ´©°è
+timeFunction.QUARTER_TO_DATE_LAST_YEAR.name = ì „ë…„ë„ ë¶„ê¸°ë³„ ëˆ„ê³„
 
-timeFunction.QUARTER_TO_DATE_LAST_YEAR.description = ÀÌÀü N¿¬µµ¿¡¼­ µ¿ÀÏ ºĞ±â¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.QUARTER_TO_DATE_LAST_YEAR.description = ì´ì „ Nì—°ë„ì—ì„œ ë™ì¼ ë¶„ê¸°ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.CURRENT_YEAR.name = ÇöÀç ¿¬µµ
+timeFunction.CURRENT_YEAR.name = í˜„ì¬ ì—°ë„
 
-timeFunction.CURRENT_YEAR.description = ÇöÀç ¿¬µµ¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.CURRENT_YEAR.description = í˜„ì¬ ì—°ë„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.WEEK_TO_DATE.name = WTD(ÁÖ°£ ´©°è)
+timeFunction.WEEK_TO_DATE.name = WTD(ì£¼ê°„ ëˆ„ê³„)
 
-timeFunction.WEEK_TO_DATE.description = µ¿ÀÏ ÁÖ¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.WEEK_TO_DATE.description = ë™ì¼ ì£¼ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.CURRENT_PERIOD_FROM_N_PERIOD_AGO.name = N ±â°£ºÎÅÍ ÇöÀç ±â°£
+timeFunction.CURRENT_PERIOD_FROM_N_PERIOD_AGO.name = N ê¸°ê°„ë¶€í„° í˜„ì¬ ê¸°ê°„
 
-timeFunction.CURRENT_PERIOD_FROM_N_PERIOD_AGO.description = N ±â°£ºÎÅÍ ÇöÀç ±â°£¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.CURRENT_PERIOD_FROM_N_PERIOD_AGO.description = N ê¸°ê°„ë¶€í„° í˜„ì¬ ê¸°ê°„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.PERIOD_TO_DATE_FROM_N_PERIOD_AGO.name = N ±â°£ºÎÅÍ ÇöÀç ±â°£
+timeFunction.PERIOD_TO_DATE_FROM_N_PERIOD_AGO.name = N ê¸°ê°„ë¶€í„° í˜„ì¬ ê¸°ê°„
 
-timeFunction.PERIOD_TO_DATE_FROM_N_PERIOD_AGO.description = N ±â°£ºÎÅÍ µ¿ÀÏ ±â°£¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.PERIOD_TO_DATE_FROM_N_PERIOD_AGO.description = N ê¸°ê°„ë¶€í„° ë™ì¼ ê¸°ê°„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.TRAILING_N_PERIOD_FROM_N_PERIOD_AGO.name = N ±â°£ºÎÅÍ ³ª¸ÓÁö N ±â°£
+timeFunction.TRAILING_N_PERIOD_FROM_N_PERIOD_AGO.name = N ê¸°ê°„ë¶€í„° ë‚˜ë¨¸ì§€ N ê¸°ê°„
 
-timeFunction.TRAILING_N_PERIOD_FROM_N_PERIOD_AGO.description = N ±â°£ºÎÅÍ ³ª¸ÓÁö ±â°£¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.TRAILING_N_PERIOD_FROM_N_PERIOD_AGO.description = N ê¸°ê°„ë¶€í„° ë‚˜ë¨¸ì§€ ê¸°ê°„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.TRAILING_N_MONTHS.name = ÀÌÈÄ N´Ş
+timeFunction.TRAILING_N_MONTHS.name = ì´í›„ Në‹¬
 
-timeFunction.TRAILING_N_MONTHS.description = ÃÖ±Ù N´Ş¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.TRAILING_N_MONTHS.description = ìµœê·¼ Në‹¬ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.TRAILING_N_DAYS.name = ÀÌÈÄ NÀÏ
+timeFunction.TRAILING_N_DAYS.name = ì´í›„ Nì¼
 
-timeFunction.TRAILING_N_DAYS.description = ÃÖ±Ù NÀÏ¿¡ ÁöÁ¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.TRAILING_N_DAYS.description = ìµœê·¼ Nì¼ì— ì§€ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.NEXT_N_PERIODS.name = ÀÌÈÄ N ±â°£
+timeFunction.NEXT_N_PERIODS.name = ì´í›„ N ê¸°ê°„
 
-timeFunction.NEXT_N_PERIODS.description = ÀÌÈÄ N ±â°£¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.NEXT_N_PERIODS.description = ì´í›„ N ê¸°ê°„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.PERIOD1 = ½Ã°£ ÇÔ¼ö¿¡ ´ëÇÑ ÃÖÃÊ ±â°£ ÀÎ¼ö
+timeFunction.PERIOD1 = ì‹œê°„ í•¨ìˆ˜ì— ëŒ€í•œ ìµœì´ˆ ê¸°ê°„ ì¸ìˆ˜
 
-timeFunction.PERIOD2 = ½Ã°£ ÇÔ¼ö¿¡ ´ëÇÑ ÀÌÂ÷ ±â°£ ÀÎ¼ö
+timeFunction.PERIOD2 = ì‹œê°„ í•¨ìˆ˜ì— ëŒ€í•œ ì´ì°¨ ê¸°ê°„ ì¸ìˆ˜
 
-timeFunction.N1 = ÀÏÂ÷ ±â°£¿¡ ´ëÇÑ N°ª
+timeFunction.N1 = ì¼ì°¨ ê¸°ê°„ì— ëŒ€í•œ Nê°’
 
-timeFunction.N2 = ÀÌÂ÷ ±â°£¿¡ ´ëÇÑ N°ª
+timeFunction.N2 = ì´ì°¨ ê¸°ê°„ì— ëŒ€í•œ Nê°’
 
-timeFunction.PERIOD1.displayName = Ã¹ ¹øÂ° ±â°£(&F)
+timeFunction.PERIOD1.displayName = ì²« ë²ˆì§¸ ê¸°ê°„(&F)
 
-timeFunction.PERIOD2.displayName = µÎ ¹øÂ° ±â°£(&R)
+timeFunction.PERIOD2.displayName = ë‘ ë²ˆì§¸ ê¸°ê°„(&R)
 
-timeFunction.N1.displayName = Áö³­ ±â°£ ¼ö
+timeFunction.N1.displayName = ì§€ë‚œ ê¸°ê°„ ìˆ˜
 
-timeFunction.N2.displayName = ½ÃÀÛ(&O)
+timeFunction.N2.displayName = ì‹œì‘(&O)
 
-timeFunction.N1.next.displayName = ´ÙÀ½(&N)
+timeFunction.N1.next.displayName = ë‹¤ìŒ(&N)
 
-timeFunction.N2.Ago.displayName=ÀÌÀü(&A)
+timeFunction.N2.Ago.displayName=ì´ì „(&A)
 
-timeFunction.N1.current.displayName=ÇöÀç(&U)
+timeFunction.N1.current.displayName=í˜„ì¬(&U)
 
-timeFunction.N1.period.displayName= ±â°£(&P)
+timeFunction.N1.period.displayName= ê¸°ê°„(&P)
 
-timeFunction.trailing.N1.period.displayName=ÈÄÇà(&I)
+timeFunction.trailing.N1.period.displayName=í›„í–‰(&I)
 
-timeFunction.trailing.N1.Month.displayName= ÈÄÇà °³¿ù ¼ö(&N)
+timeFunction.trailing.N1.Month.displayName= í›„í–‰ ê°œì›” ìˆ˜(&N)
 
-timeFunction.N1.Year.displayName = Áö³­ ¿¬µµ ¼ö(&N)
+timeFunction.N1.Year.displayName = ì§€ë‚œ ì—°ë„ ìˆ˜(&N)
 
-timeFunction.N2.Year.displayName = Áö³­ ¿¬µµ ¼ö(&N)
+timeFunction.N2.Year.displayName = ì§€ë‚œ ì—°ë„ ìˆ˜(&N)
 
-timeFunction.N1.Year = Áö³­ ¿¬µµ¿¡ ´ëÇÑ N °ª
+timeFunction.N1.Year = ì§€ë‚œ ì—°ë„ì— ëŒ€í•œ N ê°’
 
-timeFunction.N2.Year = Áö³­ ¿¬µµ¿¡ ´ëÇÑ N °ª
+timeFunction.N2.Year = ì§€ë‚œ ì—°ë„ì— ëŒ€í•œ N ê°’
 
-timeFunction.N1.Month.displayName = Áö³­ °³¿ù ¼ö(&N)
+timeFunction.N1.Month.displayName = ì§€ë‚œ ê°œì›” ìˆ˜(&N)
 
-timeFunction.N2.Month.displayName = Áö³­ °³¿ù ¼ö(&N)
+timeFunction.N2.Month.displayName = ì§€ë‚œ ê°œì›” ìˆ˜(&N)
 
-timeFunction.N1.Month = Áö³­ °³¿ù¿¡ ´ëÇÑ N °ª
+timeFunction.N1.Month = ì§€ë‚œ ê°œì›”ì— ëŒ€í•œ N ê°’
 
-timeFunction.N2.Month = Áö³­ °³¿ù¿¡ ´ëÇÑ N °ª
+timeFunction.N2.Month = ì§€ë‚œ ê°œì›”ì— ëŒ€í•œ N ê°’
 
-timeFunction.N1.Quarter.displayName = Áö³­ ºĞ±â ¼ö(&N)
+timeFunction.N1.Quarter.displayName = ì§€ë‚œ ë¶„ê¸° ìˆ˜(&N)
 
-timeFunction.N2.Quarter.displayName = Áö³­ ºĞ±â ¼ö(&N)
+timeFunction.N2.Quarter.displayName = ì§€ë‚œ ë¶„ê¸° ìˆ˜(&N)
 
-timeFunction.N1.Quarter = Áö³­ ºĞ±â¿¡ ´ëÇÑ N °ª
+timeFunction.N1.Quarter = ì§€ë‚œ ë¶„ê¸°ì— ëŒ€í•œ N ê°’
 
-timeFunction.N2.Quarter = Áö³­ ºĞ±â¿¡ ´ëÇÑ N °ª
+timeFunction.N2.Quarter = ì§€ë‚œ ë¶„ê¸°ì— ëŒ€í•œ N ê°’
 
-timeFunction.N1.Week.displayName = Áö³­ ÁÖ ¼ö(&N)
+timeFunction.N1.Week.displayName = ì§€ë‚œ ì£¼ ìˆ˜(&N)
 
-timeFunction.N2.Week.displayName = Áö³­ ÁÖ ¼ö(&N)
+timeFunction.N2.Week.displayName = ì§€ë‚œ ì£¼ ìˆ˜(&N)
 
-timeFunction.N1.Week = Áö³­ ÁÖ¿¡ ´ëÇÑ N °ª
+timeFunction.N1.Week = ì§€ë‚œ ì£¼ì— ëŒ€í•œ N ê°’
 
-timeFunction.N2.Week = Áö³­ ÁÖ¿¡ ´ëÇÑ N °ª
+timeFunction.N2.Week = ì§€ë‚œ ì£¼ì— ëŒ€í•œ N ê°’
 
-timeFunction.N1.Day.displayName = Áö³­ ÀÏ ¼ö(&N)
+timeFunction.N1.Day.displayName = ì§€ë‚œ ì¼ ìˆ˜(&N)
 
-timeFunction.PERIODCHOICE.YEAR_displayName =¿¬µµ
+timeFunction.PERIODCHOICE.YEAR_displayName =ì—°ë„
 
-timeFunction.PERIODCHOICE.QUARTER_displayName =ºĞ±â
+timeFunction.PERIODCHOICE.QUARTER_displayName =ë¶„ê¸°
 
-timeFunction.PERIODCHOICE.MONTH_displayName =¿ù
+timeFunction.PERIODCHOICE.MONTH_displayName =ì›”
 
-timeFunction.PERIODCHOICE.WEEK_displayName =ÁÖ
+timeFunction.PERIODCHOICE.WEEK_displayName =ì£¼
 
-timeFunction.PERIODCHOICE.DAY_displayName =ÀÏ
+timeFunction.PERIODCHOICE.DAY_displayName =ì¼
 
-timeFunction.PERIODCHOICE.PeriodToDate.YEAR_displayName =¿¬°£ ´©°è
+timeFunction.PERIODCHOICE.PeriodToDate.YEAR_displayName =ì—°ê°„ ëˆ„ê³„
 
-timeFunction.PERIODCHOICE.PeriodToDate.QUARTER_displayName =ºĞ±âº° ´©°è
+timeFunction.PERIODCHOICE.PeriodToDate.QUARTER_displayName =ë¶„ê¸°ë³„ ëˆ„ê³„
 
-timeFunction.PERIODCHOICE.PeriodToDate.MONTH_displayName =¿ùº° ´©°è
+timeFunction.PERIODCHOICE.PeriodToDate.MONTH_displayName =ì›”ë³„ ëˆ„ê³„
 
-timeFunction.PERIODCHOICE.PeriodToDate.WEEK_displayName =ÁÖ°£ ´©°è
+timeFunction.PERIODCHOICE.PeriodToDate.WEEK_displayName =ì£¼ê°„ ëˆ„ê³„
 
 timeFunction.toolTip.to=To
 
@@ -273,269 +273,269 @@ timeFunction.toolTip.to=To
 
 ###########################################################
 #for test only
-Error.Msg001={0}ÀÌ(°¡) {0}¿¡ ¾ø½À´Ï´Ù.
+Error.Msg001={0}ì´(ê°€) {0}ì— ì—†ìŠµë‹ˆë‹¤.
 
 ###########################################################
 
 #load data engine factory exception
-load.factory.error=µ¥ÀÌÅÍ ¾î´ğÅÍ ÆÑÅä¸® ·Îµå Áß ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+load.factory.error=ë°ì´í„° ì–´ëŒ‘í„° íŒ©í† ë¦¬ ë¡œë“œ ì¤‘ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-context.null.error=µ¥ÀÌÅÍ ÄÁÅØ½ºÆ®´Â ³Î(null)ÀÌ µÉ ¼ö ¾ø½À´Ï´Ù.
+context.null.error=ë°ì´í„° ì»¨í…ìŠ¤íŠ¸ëŠ” ë„(null)ì´ ë  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-context.invalidDesigntimeMethod=ReportContext ¸Ş¼­µå [{0}]Àº(´Â) ·±Å¸ÀÓ¿¡¼­¸¸ »ç¿ëµÉ ¼ö ÀÖ½À´Ï´Ù.
+context.invalidDesigntimeMethod=ReportContext ë©”ì„œë“œ [{0}]ì€(ëŠ”) ëŸ°íƒ€ì„ì—ì„œë§Œ ì‚¬ìš©ë  ìˆ˜ ìˆìŠµë‹ˆë‹¤.
 
-adaptor.invalid.mode=µ¥ÀÌÅÍ ¾î´ğÅÍ ÄÁÅØ½ºÆ®ÀÇ ¸ğµå °ª {0}ÀÌ(°¡) Àß¸øµÇ¾ú½À´Ï´Ù.
+adaptor.invalid.mode=ë°ì´í„° ì–´ëŒ‘í„° ì»¨í…ìŠ¤íŠ¸ì˜ ëª¨ë“œ ê°’ {0}ì´(ê°€) ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-invalid.cache.option=µ¥ÀÌÅÍ ¾î´ğÅÍ ÄÁÅØ½ºÆ®ÀÇ ¸ğµå °ª {0}ÀÌ(°¡) Àß¸øµÇ¾ú½À´Ï´Ù.
+invalid.cache.option=ë°ì´í„° ì–´ëŒ‘í„° ì»¨í…ìŠ¤íŠ¸ì˜ ëª¨ë“œ ê°’ {0}ì´(ê°€) ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-datasource.null.error=µ¥ÀÌÅÍ ÁıÇÕ "{0}"ÀÇ µ¥ÀÌÅÍ ¿øº»À» Ã£Áö ¸øÇß½À´Ï´Ù.
+datasource.null.error=ë°ì´í„° ì§‘í•© "{0}"ì˜ ë°ì´í„° ì›ë³¸ì„ ì°¾ì§€ ëª»í–ˆìŠµë‹ˆë‹¤.
 
-datasource.exid.error=µ¥ÀÌÅÍ ¿øº» Á¤ÀÇ¿¡¼­ È®Àå ID°¡ ´©¶ôµÇ¾ú½À´Ï´Ù: {0}.
+datasource.exid.error=ë°ì´í„° ì›ë³¸ ì •ì˜ì—ì„œ í™•ì¥ IDê°€ ëˆ„ë½ë˜ì—ˆìŠµë‹ˆë‹¤: {0}.
 
-datasource.cassandra.error=Cassandra ½ºÅ©¸³Æ® µ¥ÀÌÅÍ ¿øº»À» Áö¿øÇÏ´Â Hector Å¬¶óÀÌ¾ğÆ® ¶óÀÌºê·¯¸® jar¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù.
+datasource.cassandra.error=Cassandra ìŠ¤í¬ë¦½íŠ¸ ë°ì´í„° ì›ë³¸ì„ ì§€ì›í•˜ëŠ” Hector í´ë¼ì´ì–¸íŠ¸ ë¼ì´ë¸ŒëŸ¬ë¦¬ jarë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-datasethandle.null.error=DataSetHandleÀº ³Î(null)ÀÌ µÉ ¼ö ¾ø½À´Ï´Ù.
+datasethandle.null.error=DataSetHandleì€ ë„(null)ì´ ë  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-datasethandle.invalidColumnIndex=Àß¸øµÈ ¿­ ÀÎµ¦½ºÀÔ´Ï´Ù.
+datasethandle.invalidColumnIndex=ì˜ëª»ëœ ì—´ ì¸ë±ìŠ¤ì…ë‹ˆë‹¤.
 
-adapter.invalid.datetimetype=³¯Â¥/½Ã°£ Çü½Ä "{0}"ÀÌ(°¡) Àß¸øµÇ¾ú½À´Ï´Ù.
+adapter.invalid.datetimetype=ë‚ ì§œ/ì‹œê°„ í˜•ì‹ "{0}"ì´(ê°€) ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-adapter.invalid.aggregationfunctionname=Áı°è ÇÔ¼ö {0}ÀÌ(°¡) Àß¸øµÇ¾ú½À´Ï´Ù.
+adapter.invalid.aggregationfunctionname=ì§‘ê³„ í•¨ìˆ˜ {0}ì´(ê°€) ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-invalid.datetime.value=³¯Â¥/½Ã°£ °ª "{0}"ÀÌ(°¡) Àß¸øµÇ¾ú½À´Ï´Ù.
+invalid.datetime.value=ë‚ ì§œ/ì‹œê°„ ê°’ "{0}"ì´(ê°€) ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-missing.join.condition=±âº» µ¥ÀÌÅÍ ÁıÇÕ "{0}"°ú Å¥ºê "{2}"ÀÇ Â÷¿ø "{1}" °£ÀÇ Á¶ÀÎ Á¶°ÇÀÌ ¾ø½À´Ï´Ù.
+missing.join.condition=ê¸°ë³¸ ë°ì´í„° ì§‘í•© "{0}"ê³¼ íë¸Œ "{2}"ì˜ ì°¨ì› "{1}" ê°„ì˜ ì¡°ì¸ ì¡°ê±´ì´ ì—†ìŠµë‹ˆë‹¤.
 
-exception.error=Ã³¸® µµÁß ¿¹¿Ü°¡ ¹ß»ıÇß½À´Ï´Ù. ÀÚ¼¼ÇÑ ³»¿ëÀº ´ÙÀ½ ¸Ş½ÃÁö¸¦ ÂüÁ¶ÇÏ½Ê½Ã¿À.
+exception.error=ì²˜ë¦¬ ë„ì¤‘ ì˜ˆì™¸ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤. ìì„¸í•œ ë‚´ìš©ì€ ë‹¤ìŒ ë©”ì‹œì§€ë¥¼ ì°¸ì¡°í•˜ì‹­ì‹œì˜¤.
 
-invalid.level.expression=¼öÁØ ÀÌ¸§ "{0}"À»(¸¦) Ã£À» ¼ö ¾ø½À´Ï´Ù.
+invalid.level.expression=ìˆ˜ì¤€ ì´ë¦„ "{0}"ì„(ë¥¼) ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-invalid.measure.expression=ÃøÁ¤°ª "{0}"ÀÇ ÃøÁ¤°ª ½ÄÀº ³Î(null)ÀÏ ¼ö ¾ø½À´Ï´Ù.
+invalid.measure.expression=ì¸¡ì •ê°’ "{0}"ì˜ ì¸¡ì •ê°’ ì‹ì€ ë„(null)ì¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-invalid.data.type=Àß¸øµÈ µ¥ÀÌÅÍ Çü½Ä: {0}.
+invalid.data.type=ì˜ëª»ëœ ë°ì´í„° í˜•ì‹: {0}.
 
-invalid.binding.expression=½Ä "{0}"ÀÌ(°¡) Àß¸øµÇ¾ú½À´Ï´Ù.
+invalid.binding.expression=ì‹ "{0}"ì´(ê°€) ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-cube.error.createhierarchy=°èÃş »ı¼º µµÁß {0} ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+cube.error.createhierarchy=ê³„ì¸µ ìƒì„± ë„ì¤‘ {0} ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-cube.error.createdimension=Â÷¿ø »ı¼º µµÁß {0} ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+cube.error.createdimension=ì°¨ì› ìƒì„± ë„ì¤‘ {0} ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-cube.error.createmeasure=ÃøÁ¤°ª »ı¼º µµÁß ¿À·ù°¡ ¹ß»ıÇß½À´Ï´Ù.
+cube.error.createmeasure=ì¸¡ì •ê°’ ìƒì„± ë„ì¤‘ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-cube.error.datasetmiss=°ü·ÃµÈ µ¥ÀÌÅÍ ÁıÇÕÀÌ ¾ø¾î Å¥ºê¸¦ »ı¼ºÇÒ ¼ö ¾ø½À´Ï´Ù.
+cube.error.datasetmiss=ê´€ë ¨ëœ ë°ì´í„° ì§‘í•©ì´ ì—†ì–´ íë¸Œë¥¼ ìƒì„±í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-cube.jointColumnNotInLevels=Á¶ÀÎ ¿­ "{0}"ÀÌ(°¡) Â÷¿ø "{1}"¿¡ ÀÖ´Â ¼öÁØÀÇ Å° ÇÊµå·Î Á¤ÀÇµÇÁö ¾Ê¾Ò½À´Ï´Ù.
+cube.jointColumnNotInLevels=ì¡°ì¸ ì—´ "{0}"ì´(ê°€) ì°¨ì› "{1}"ì— ìˆëŠ” ìˆ˜ì¤€ì˜ í‚¤ í•„ë“œë¡œ ì •ì˜ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
 
-cube.unsupportedAggregationInBinding=¹ÙÀÎµù "{0}"ÀÇ TopN/BottomN ÇÔ¼ö´Â xTab¿¡¼­ Áö¿øµÇÁö ¾Ê½À´Ï´Ù.
+cube.unsupportedAggregationInBinding=ë°”ì¸ë”© "{0}"ì˜ TopN/BottomN í•¨ìˆ˜ëŠ” xTabì—ì„œ ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-cube.error.aggregationFilter.referCalculatedMeasure=Àß¸øµÈ Áı°è: "{0}". ÇÊÅÍ ½ÄÀÌ °è»êµÈ ÃøÁ¤°ª "{1}"À»(¸¦) ÂüÁ¶ÇÏ¿´½À´Ï´Ù.
+cube.error.aggregationFilter.referCalculatedMeasure=ì˜ëª»ëœ ì§‘ê³„: "{0}". í•„í„° ì‹ì´ ê³„ì‚°ëœ ì¸¡ì •ê°’ "{1}"ì„(ë¥¼) ì°¸ì¡°í•˜ì˜€ìŠµë‹ˆë‹¤.
 
-cube.query.error.dimensionMiss=Å¥ºê¿¡ Â÷¿ø "{0}"ÀÌ(°¡) ¾ø½À´Ï´Ù.
+cube.query.error.dimensionMiss=íë¸Œì— ì°¨ì› "{0}"ì´(ê°€) ì—†ìŠµë‹ˆë‹¤.
 
-cube.query.error.levelMiss=Å¥ºê ½Ã°£ Â÷¿ø "{1}"¿¡ ½Ã°£ À¯Çü "{0}"ÀÇ ¼öÁØÀÌ ¾ø½À´Ï´Ù.
+cube.query.error.levelMiss=íë¸Œ ì‹œê°„ ì°¨ì› "{1}"ì— ì‹œê°„ ìœ í˜• "{0}"ì˜ ìˆ˜ì¤€ì´ ì—†ìŠµë‹ˆë‹¤.
 
-cube.edge.error.levelMiss=½Ã°£ À¯Çü "{0}"ÀÇ ¼öÁØÀÌ Äõ¸® Á¤ÀÇ¿¡ ´©¶ôµÇ¾ú½À´Ï´Ù.
+cube.edge.error.levelMiss=ì‹œê°„ ìœ í˜• "{0}"ì˜ ìˆ˜ì¤€ì´ ì¿¼ë¦¬ ì •ì˜ì— ëˆ„ë½ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-cube.derivedMeasure.invalid.reference=Àß¸øµÈ ÃøÁ¤°ª ÂüÁ¶ÀÔ´Ï´Ù. ´ÙÀ½ÀÇ Àß¸øµÈ ÃøÁ¤°ªÀ» ÂüÁ¶ÇÑ ÆÄ»ı ÃøÁ¤°ª "{0}": "{1}".
+cube.derivedMeasure.invalid.reference=ì˜ëª»ëœ ì¸¡ì •ê°’ ì°¸ì¡°ì…ë‹ˆë‹¤. ë‹¤ìŒì˜ ì˜ëª»ëœ ì¸¡ì •ê°’ì„ ì°¸ì¡°í•œ íŒŒìƒ ì¸¡ì •ê°’ "{0}": "{1}".
 
-cube.derivedMeasure.resolve.error=ÆÄ»ı ÃøÁ¤°ª "{0}" È®ÀÎ¿¡ ½ÇÆĞÇß½À´Ï´Ù.
+cube.derivedMeasure.resolve.error=íŒŒìƒ ì¸¡ì •ê°’ "{0}" í™•ì¸ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤.
 
-cube.derivedMeasure.recursive.ref=ÆÄ»ı ÃøÁ¤°ª "{0}" È®ÀÎ¿¡ ½ÇÆĞÇß½À´Ï´Ù. ´ÙÀ½ Áß¿¡¼­ ¼øÈ¯ ÂüÁ¶°¡ °¨ÁöµÇ¾ú±â ¶§¹®ÀÔ´Ï´Ù.: "{1}".
+cube.derivedMeasure.recursive.ref=íŒŒìƒ ì¸¡ì •ê°’ "{0}" í™•ì¸ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤. ë‹¤ìŒ ì¤‘ì—ì„œ ìˆœí™˜ ì°¸ì¡°ê°€ ê°ì§€ë˜ì—ˆê¸° ë•Œë¬¸ì…ë‹ˆë‹¤.: "{1}".
 
-timeFunction.CURRENT_QUARTER.name = ÇöÀç ºĞ±â
+timeFunction.CURRENT_QUARTER.name = í˜„ì¬ ë¶„ê¸°
 
-timeFunction.CURRENT_QUARTER.description = ÇöÀç ºĞ±â¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.CURRENT_QUARTER.description = í˜„ì¬ ë¶„ê¸°ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.CURRENT_MONTH.name = ÇöÀç ´Ş
+timeFunction.CURRENT_MONTH.name = í˜„ì¬ ë‹¬
 
-timeFunction.CURRENT_MONTH.description = ÇöÀç ´Ş¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.CURRENT_MONTH.description = í˜„ì¬ ë‹¬ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.PREVIOUS_MONTH.name = ÀÌÀü N´Ş
+timeFunction.PREVIOUS_MONTH.name = ì´ì „ Në‹¬
 
-timeFunction.PREVIOUS_MONTH.description = ÀÌÀü N ´Ş¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.PREVIOUS_MONTH.description = ì´ì „ N ë‹¬ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.PREVIOUS_WEEK_TO_DATE.name = ÀÌÀü NÁÖ°£ ´©°è
+timeFunction.PREVIOUS_WEEK_TO_DATE.name = ì´ì „ Nì£¼ê°„ ëˆ„ê³„
 
-timeFunction.PREVIOUS_WEEK_TO_DATE.description = ÀÌÀü NÁÖ ÁÖ°£ ´©°è¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.PREVIOUS_WEEK_TO_DATE.description = ì´ì „ Nì£¼ ì£¼ê°„ ëˆ„ê³„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.PREVIOUS_MONTH_TO_DATE.name = ÀÌÀü N´Ş°£ ´©°è
+timeFunction.PREVIOUS_MONTH_TO_DATE.name = ì´ì „ Në‹¬ê°„ ëˆ„ê³„
 
-timeFunction.PREVIOUS_MONTH_TO_DATE.description = ÀÌÀü N´Ş ¿ùº° ´©°è¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.PREVIOUS_MONTH_TO_DATE.description = ì´ì „ Në‹¬ ì›”ë³„ ëˆ„ê³„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.PREVIOUS_QUARTER.name = ÀÌÀü NºĞ±â
+timeFunction.PREVIOUS_QUARTER.name = ì´ì „ Në¶„ê¸°
 
-timeFunction.PREVIOUS_QUARTER.description = ÀÌÀü N ºĞ±â¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.PREVIOUS_QUARTER.description = ì´ì „ N ë¶„ê¸°ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.PREVIOUS_QUARTER_TO_DATE.name = ÀÌÀü NºĞ±âºÎÅÍ ´©°è
+timeFunction.PREVIOUS_QUARTER_TO_DATE.name = ì´ì „ Në¶„ê¸°ë¶€í„° ëˆ„ê³„
 
-timeFunction.PREVIOUS_QUARTER_TO_DATE.description = ÀÌÀü N ºĞ±â¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.PREVIOUS_QUARTER_TO_DATE.description = ì´ì „ N ë¶„ê¸°ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.PREVIOUS_PREVIOUS_YEAR.name = ÀÌÀü N³â
+timeFunction.PREVIOUS_PREVIOUS_YEAR.name = ì´ì „ Në…„
 
-timeFunction.PREVIOUS_PREVIOUS_YEAR.description = ÀÌÀü N ¿¬µµ¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.PREVIOUS_PREVIOUS_YEAR.description = ì´ì „ N ì—°ë„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.TRAILING_30_DAYS.name = ³ª¸ÓÁö 30ÀÏ
+timeFunction.TRAILING_30_DAYS.name = ë‚˜ë¨¸ì§€ 30ì¼
 
-timeFunction.TRAILING_30_DAYS.description = ÃÖ±Ù 30ÀÏ¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.TRAILING_30_DAYS.description = ìµœê·¼ 30ì¼ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.TRAILING_60_DAYS.name = ³ª¸ÓÁö 60ÀÏ
+timeFunction.TRAILING_60_DAYS.name = ë‚˜ë¨¸ì§€ 60ì¼
 
-timeFunction.TRAILING_60_DAYS.description = ÃÖ±Ù 60ÀÏ¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.TRAILING_60_DAYS.description = ìµœê·¼ 60ì¼ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.TRAILING_90_DAYS.name = ³ª¸ÓÁö 90ÀÏ
+timeFunction.TRAILING_90_DAYS.name = ë‚˜ë¨¸ì§€ 90ì¼
 
-timeFunction.TRAILING_120_DAYS.name = ³ª¸ÓÁö 120ÀÏ
+timeFunction.TRAILING_120_DAYS.name = ë‚˜ë¨¸ì§€ 120ì¼
 
-timeFunction.TRAILING_90_DAYS.description = ÃÖ±Ù 90ÀÏ¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.TRAILING_90_DAYS.description = ìµœê·¼ 90ì¼ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.TRAILING_120_DAYS.description = ÃÖ±Ù 120ÀÏ¿¡ ÁöÁ¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.TRAILING_120_DAYS.description = ìµœê·¼ 120ì¼ì— ì§€ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.TRAILING_12_MONTHS.name = ³ª¸ÓÁö 12´Ş
+timeFunction.TRAILING_12_MONTHS.name = ë‚˜ë¨¸ì§€ 12ë‹¬
 
-timeFunction.TRAILING_12_MONTHS.description = ÃÖ±Ù 12´Ş¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.TRAILING_12_MONTHS.description = ìµœê·¼ 12ë‹¬ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.YEAR_TO_DATE.name = YTD(¿¬°£ ´©°è)
+timeFunction.YEAR_TO_DATE.name = YTD(ì—°ê°„ ëˆ„ê³„)
 
-timeFunction.YEAR_TO_DATE.description = µ¿ÀÏ ¿¬µµ¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.YEAR_TO_DATE.description = ë™ì¼ ì—°ë„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.QUARTER_TO_DATE.name = QTD(ºĞ±âº° ´©°è)
+timeFunction.QUARTER_TO_DATE.name = QTD(ë¶„ê¸°ë³„ ëˆ„ê³„)
 
-timeFunction.QUARTER_TO_DATE.description = µ¿ÀÏ ºĞ±â¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.QUARTER_TO_DATE.description = ë™ì¼ ë¶„ê¸°ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.MONTH_TO_DATE.name = MTD(¿ùº° ´©°è)
+timeFunction.MONTH_TO_DATE.name = MTD(ì›”ë³„ ëˆ„ê³„)
 
-timeFunction.MONTH_TO_DATE.description = µ¿ÀÏ ´Ş¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.MONTH_TO_DATE.description = ë™ì¼ ë‹¬ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.PREVIOUS_YEAR_TO_DATE.name = ÀÌÀü N³â°£ ´©°è
+timeFunction.PREVIOUS_YEAR_TO_DATE.name = ì´ì „ Në…„ê°„ ëˆ„ê³„
 
-timeFunction.PREVIOUS_YEAR_TO_DATE.description = ÀÌÀü N¿¬µµ¿¡¼­ µ¿ÀÏ ¿¬µµ¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.PREVIOUS_YEAR_TO_DATE.description = ì´ì „ Nì—°ë„ì—ì„œ ë™ì¼ ì—°ë„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.WEEK_TO_DATE_LAST_YEAR.name = Àü³âµµ ÁÖ°£ ´©°è
+timeFunction.WEEK_TO_DATE_LAST_YEAR.name = ì „ë…„ë„ ì£¼ê°„ ëˆ„ê³„
 
-timeFunction.WEEK_TO_DATE_LAST_YEAR.description = ÀÌÀü N¿¬µµ¿¡¼­ µ¿ÀÏ ÁÖ¿¡ ÁöÁ¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.WEEK_TO_DATE_LAST_YEAR.description = ì´ì „ Nì—°ë„ì—ì„œ ë™ì¼ ì£¼ì— ì§€ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.MONTH_TO_DATE_LAST_YEAR.name = Àü³âµµ ¿ù°£ ´©°è
+timeFunction.MONTH_TO_DATE_LAST_YEAR.name = ì „ë…„ë„ ì›”ê°„ ëˆ„ê³„
 
-timeFunction.MONTH_TO_DATE_LAST_YEAR.description = ÀÌÀü N¿¬µµ¿¡¼­ µ¿ÀÏ ´Ş¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.MONTH_TO_DATE_LAST_YEAR.description = ì´ì „ Nì—°ë„ì—ì„œ ë™ì¼ ë‹¬ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.QUARTER_TO_DATE_LAST_YEAR.name = Àü³âµµ ºĞ±âº° ´©°è
+timeFunction.QUARTER_TO_DATE_LAST_YEAR.name = ì „ë…„ë„ ë¶„ê¸°ë³„ ëˆ„ê³„
 
-timeFunction.QUARTER_TO_DATE_LAST_YEAR.description = ÀÌÀü N¿¬µµ¿¡¼­ µ¿ÀÏ ºĞ±â¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.QUARTER_TO_DATE_LAST_YEAR.description = ì´ì „ Nì—°ë„ì—ì„œ ë™ì¼ ë¶„ê¸°ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.CURRENT_YEAR.name = ÇöÀç ¿¬µµ
+timeFunction.CURRENT_YEAR.name = í˜„ì¬ ì—°ë„
 
-timeFunction.CURRENT_YEAR.description = ÇöÀç ¿¬µµ¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.CURRENT_YEAR.description = í˜„ì¬ ì—°ë„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.WEEK_TO_DATE.name = WTD(ÁÖ°£ ´©°è)
+timeFunction.WEEK_TO_DATE.name = WTD(ì£¼ê°„ ëˆ„ê³„)
 
-timeFunction.WEEK_TO_DATE.description = µ¿ÀÏ ÁÖ¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.WEEK_TO_DATE.description = ë™ì¼ ì£¼ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.CURRENT_PERIOD_FROM_N_PERIOD_AGO.name = N ±â°£ºÎÅÍ ÇöÀç ±â°£
+timeFunction.CURRENT_PERIOD_FROM_N_PERIOD_AGO.name = N ê¸°ê°„ë¶€í„° í˜„ì¬ ê¸°ê°„
 
-timeFunction.CURRENT_PERIOD_FROM_N_PERIOD_AGO.description = N ±â°£ºÎÅÍ ÇöÀç ±â°£¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.CURRENT_PERIOD_FROM_N_PERIOD_AGO.description = N ê¸°ê°„ë¶€í„° í˜„ì¬ ê¸°ê°„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.PERIOD_TO_DATE_FROM_N_PERIOD_AGO.name = N ±â°£ºÎÅÍ ÇöÀç ±â°£
+timeFunction.PERIOD_TO_DATE_FROM_N_PERIOD_AGO.name = N ê¸°ê°„ë¶€í„° í˜„ì¬ ê¸°ê°„
 
-timeFunction.PERIOD_TO_DATE_FROM_N_PERIOD_AGO.description = N ±â°£ºÎÅÍ µ¿ÀÏ ±â°£¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.PERIOD_TO_DATE_FROM_N_PERIOD_AGO.description = N ê¸°ê°„ë¶€í„° ë™ì¼ ê¸°ê°„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.TRAILING_N_PERIOD_FROM_N_PERIOD_AGO.name = N ±â°£ºÎÅÍ ³ª¸ÓÁö N ±â°£
+timeFunction.TRAILING_N_PERIOD_FROM_N_PERIOD_AGO.name = N ê¸°ê°„ë¶€í„° ë‚˜ë¨¸ì§€ N ê¸°ê°„
 
-timeFunction.TRAILING_N_PERIOD_FROM_N_PERIOD_AGO.description = N ±â°£ºÎÅÍ ³ª¸ÓÁö ±â°£¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.TRAILING_N_PERIOD_FROM_N_PERIOD_AGO.description = N ê¸°ê°„ë¶€í„° ë‚˜ë¨¸ì§€ ê¸°ê°„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.TRAILING_N_MONTHS.name = ÀÌÈÄ N´Ş
+timeFunction.TRAILING_N_MONTHS.name = ì´í›„ Në‹¬
 
-timeFunction.TRAILING_N_MONTHS.description = ÃÖ±Ù N´Ş¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.TRAILING_N_MONTHS.description = ìµœê·¼ Në‹¬ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.TRAILING_N_DAYS.name = ÀÌÈÄ NÀÏ
+timeFunction.TRAILING_N_DAYS.name = ì´í›„ Nì¼
 
-timeFunction.TRAILING_N_DAYS.description = ÃÖ±Ù NÀÏ¿¡ ÁöÁ¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.TRAILING_N_DAYS.description = ìµœê·¼ Nì¼ì— ì§€ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.NEXT_N_PERIODS.name = ÀÌÈÄ N ±â°£
+timeFunction.NEXT_N_PERIODS.name = ì´í›„ N ê¸°ê°„
 
-timeFunction.NEXT_N_PERIODS.description = ÀÌÈÄ N ±â°£¿¡ Æ¯Á¤µÈ ¸ŞÆ®¸¯ °è»ê
+timeFunction.NEXT_N_PERIODS.description = ì´í›„ N ê¸°ê°„ì— íŠ¹ì •ëœ ë©”íŠ¸ë¦­ ê³„ì‚°
 
-timeFunction.PERIOD1 = ½Ã°£ ÇÔ¼ö¿¡ ´ëÇÑ ÃÖÃÊ ±â°£ ÀÎ¼ö
+timeFunction.PERIOD1 = ì‹œê°„ í•¨ìˆ˜ì— ëŒ€í•œ ìµœì´ˆ ê¸°ê°„ ì¸ìˆ˜
 
-timeFunction.PERIOD2 = ½Ã°£ ÇÔ¼ö¿¡ ´ëÇÑ ÀÌÂ÷ ±â°£ ÀÎ¼ö
+timeFunction.PERIOD2 = ì‹œê°„ í•¨ìˆ˜ì— ëŒ€í•œ ì´ì°¨ ê¸°ê°„ ì¸ìˆ˜
 
-timeFunction.N1 = ÀÏÂ÷ ±â°£¿¡ ´ëÇÑ N°ª
+timeFunction.N1 = ì¼ì°¨ ê¸°ê°„ì— ëŒ€í•œ Nê°’
 
-timeFunction.N2 = ÀÌÂ÷ ±â°£¿¡ ´ëÇÑ N°ª
+timeFunction.N2 = ì´ì°¨ ê¸°ê°„ì— ëŒ€í•œ Nê°’
 
-timeFunction.PERIOD1.displayName = Ã¹ ¹øÂ° ±â°£(&F)
+timeFunction.PERIOD1.displayName = ì²« ë²ˆì§¸ ê¸°ê°„(&F)
 
-timeFunction.PERIOD2.displayName = µÎ ¹øÂ° ±â°£(&R)
+timeFunction.PERIOD2.displayName = ë‘ ë²ˆì§¸ ê¸°ê°„(&R)
 
-timeFunction.N1.displayName = Áö³­ ±â°£ ¼ö
+timeFunction.N1.displayName = ì§€ë‚œ ê¸°ê°„ ìˆ˜
 
-timeFunction.N2.displayName = ½ÃÀÛ(&O)
+timeFunction.N2.displayName = ì‹œì‘(&O)
 
-timeFunction.N1.next.displayName = ´ÙÀ½(&N)
+timeFunction.N1.next.displayName = ë‹¤ìŒ(&N)
 
-timeFunction.N2.Ago.displayName=ÀÌÀü(&A)
+timeFunction.N2.Ago.displayName=ì´ì „(&A)
 
-timeFunction.N1.current.displayName=ÇöÀç(&U)
+timeFunction.N1.current.displayName=í˜„ì¬(&U)
 
-timeFunction.N1.period.displayName= ±â°£(&P)
+timeFunction.N1.period.displayName= ê¸°ê°„(&P)
 
-timeFunction.trailing.N1.period.displayName=ÈÄÇà(&I)
+timeFunction.trailing.N1.period.displayName=í›„í–‰(&I)
 
-timeFunction.trailing.N1.Month.displayName= ÈÄÇà °³¿ù ¼ö(&N)
+timeFunction.trailing.N1.Month.displayName= í›„í–‰ ê°œì›” ìˆ˜(&N)
 
-timeFunction.N1.Year.displayName = Áö³­ ¿¬µµ ¼ö(&N)
+timeFunction.N1.Year.displayName = ì§€ë‚œ ì—°ë„ ìˆ˜(&N)
 
-timeFunction.N2.Year.displayName = Áö³­ ¿¬µµ ¼ö(&N)
+timeFunction.N2.Year.displayName = ì§€ë‚œ ì—°ë„ ìˆ˜(&N)
 
-timeFunction.N1.Year = Áö³­ ¿¬µµ¿¡ ´ëÇÑ N °ª
+timeFunction.N1.Year = ì§€ë‚œ ì—°ë„ì— ëŒ€í•œ N ê°’
 
-timeFunction.N2.Year = Áö³­ ¿¬µµ¿¡ ´ëÇÑ N °ª
+timeFunction.N2.Year = ì§€ë‚œ ì—°ë„ì— ëŒ€í•œ N ê°’
 
-timeFunction.N1.Month.displayName = Áö³­ °³¿ù ¼ö(&N)
+timeFunction.N1.Month.displayName = ì§€ë‚œ ê°œì›” ìˆ˜(&N)
 
-timeFunction.N2.Month.displayName = Áö³­ °³¿ù ¼ö(&N)
+timeFunction.N2.Month.displayName = ì§€ë‚œ ê°œì›” ìˆ˜(&N)
 
-timeFunction.N1.Month = Áö³­ °³¿ù¿¡ ´ëÇÑ N °ª
+timeFunction.N1.Month = ì§€ë‚œ ê°œì›”ì— ëŒ€í•œ N ê°’
 
-timeFunction.N2.Month = Áö³­ °³¿ù¿¡ ´ëÇÑ N °ª
+timeFunction.N2.Month = ì§€ë‚œ ê°œì›”ì— ëŒ€í•œ N ê°’
 
-timeFunction.N1.Quarter.displayName = Áö³­ ºĞ±â ¼ö(&N)
+timeFunction.N1.Quarter.displayName = ì§€ë‚œ ë¶„ê¸° ìˆ˜(&N)
 
-timeFunction.N2.Quarter.displayName = Áö³­ ºĞ±â ¼ö(&N)
+timeFunction.N2.Quarter.displayName = ì§€ë‚œ ë¶„ê¸° ìˆ˜(&N)
 
-timeFunction.N1.Quarter = Áö³­ ºĞ±â¿¡ ´ëÇÑ N °ª
+timeFunction.N1.Quarter = ì§€ë‚œ ë¶„ê¸°ì— ëŒ€í•œ N ê°’
 
-timeFunction.N2.Quarter = Áö³­ ºĞ±â¿¡ ´ëÇÑ N °ª
+timeFunction.N2.Quarter = ì§€ë‚œ ë¶„ê¸°ì— ëŒ€í•œ N ê°’
 
-timeFunction.N1.Week.displayName = Áö³­ ÁÖ ¼ö(&N)
+timeFunction.N1.Week.displayName = ì§€ë‚œ ì£¼ ìˆ˜(&N)
 
-timeFunction.N2.Week.displayName = Áö³­ ÁÖ ¼ö(&N)
+timeFunction.N2.Week.displayName = ì§€ë‚œ ì£¼ ìˆ˜(&N)
 
-timeFunction.N1.Week = Áö³­ ÁÖ¿¡ ´ëÇÑ N °ª
+timeFunction.N1.Week = ì§€ë‚œ ì£¼ì— ëŒ€í•œ N ê°’
 
-timeFunction.N2.Week = Áö³­ ÁÖ¿¡ ´ëÇÑ N °ª
+timeFunction.N2.Week = ì§€ë‚œ ì£¼ì— ëŒ€í•œ N ê°’
 
-timeFunction.N1.Day.displayName = Áö³­ ÀÏ ¼ö(&N)
+timeFunction.N1.Day.displayName = ì§€ë‚œ ì¼ ìˆ˜(&N)
 
-timeFunction.PERIODCHOICE.YEAR_displayName =¿¬µµ
+timeFunction.PERIODCHOICE.YEAR_displayName =ì—°ë„
 
-timeFunction.PERIODCHOICE.QUARTER_displayName =ºĞ±â
+timeFunction.PERIODCHOICE.QUARTER_displayName =ë¶„ê¸°
 
-timeFunction.PERIODCHOICE.MONTH_displayName =¿ù
+timeFunction.PERIODCHOICE.MONTH_displayName =ì›”
 
-timeFunction.PERIODCHOICE.WEEK_displayName =ÁÖ
+timeFunction.PERIODCHOICE.WEEK_displayName =ì£¼
 
-timeFunction.PERIODCHOICE.DAY_displayName =ÀÏ
+timeFunction.PERIODCHOICE.DAY_displayName =ì¼
 
-timeFunction.PERIODCHOICE.PeriodToDate.YEAR_displayName =¿¬°£ ´©°è
+timeFunction.PERIODCHOICE.PeriodToDate.YEAR_displayName =ì—°ê°„ ëˆ„ê³„
 
-timeFunction.PERIODCHOICE.PeriodToDate.QUARTER_displayName =ºĞ±âº° ´©°è
+timeFunction.PERIODCHOICE.PeriodToDate.QUARTER_displayName =ë¶„ê¸°ë³„ ëˆ„ê³„
 
-timeFunction.PERIODCHOICE.PeriodToDate.MONTH_displayName =¿ùº° ´©°è
+timeFunction.PERIODCHOICE.PeriodToDate.MONTH_displayName =ì›”ë³„ ëˆ„ê³„
 
-timeFunction.PERIODCHOICE.PeriodToDate.WEEK_displayName =ÁÖ°£ ´©°è
+timeFunction.PERIODCHOICE.PeriodToDate.WEEK_displayName =ì£¼ê°„ ëˆ„ê³„
 
 timeFunction.toolTip.to=To
-RelativeTimePeriod.TimeLevelNotEnough=º¸°í¼­¿¡´Â ÂüÁ¶ ³¯Â¥¸¦ »ç¿ëÇÏ¿© ÀÌ »ó´ë ½Ã°£À» °è»êÇÏ´Â µ¥ ÇÊ¿äÇÑ ½Ã°£ ¼öÁØÀÌ ¸ğµÎ Æ÷ÇÔµÇ¾î ÀÖÁö´Â ¾Ê½À´Ï´Ù.
+RelativeTimePeriod.TimeLevelNotEnough=ë³´ê³ ì„œì—ëŠ” ì°¸ì¡° ë‚ ì§œë¥¼ ì‚¬ìš©í•˜ì—¬ ì´ ìƒëŒ€ ì‹œê°„ì„ ê³„ì‚°í•˜ëŠ” ë° í•„ìš”í•œ ì‹œê°„ ìˆ˜ì¤€ì´ ëª¨ë‘ í¬í•¨ë˜ì–´ ìˆì§€ëŠ” ì•ŠìŠµë‹ˆë‹¤.
  
  
  

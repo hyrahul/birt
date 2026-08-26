@@ -11,9 +11,9 @@
 
 ###########################################################
 #ODP Emitter
-ODPEmitter.Description=Configure las opciones para procesar un informe en formato de presentación OpenDocument.
+ODPEmitter.Description=Configure las opciones para procesar un informe en formato de presentaciÃ³n OpenDocument.
 
-ODPEmitter.DisplayName=Presentación OpenDocument
+ODPEmitter.DisplayName=PresentaciÃ³n OpenDocument
 
 ###########################################################
 #Option Display Value
@@ -21,17 +21,17 @@ OptionDisplayValue.BidiProcessing=Procesamiento de BIDI
 
 OptionDisplayValue.TextWrapping=Autoajuste de texto
 
-OptionDisplayValue.PageOverFlow=Procesamiento del desbordamiento de página
+OptionDisplayValue.PageOverFlow=Procesamiento del desbordamiento de pÃ¡gina
 
 OptionDisplayValue.CLIP_CONTENT=Cortar contenido
 
-OptionDisplayValue.FIT_TO_PAGE_SIZE=Ajustar a tamaño de página
+OptionDisplayValue.FIT_TO_PAGE_SIZE=Ajustar a tamaÃ±o de pÃ¡gina
 
-OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=Salida de varias páginas
+OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=Salida de varias pÃ¡ginas
 
-OptionDisplayValue.ENLARGE_PAGE_SIZE=Aumentar tamaño de página
+OptionDisplayValue.ENLARGE_PAGE_SIZE=Aumentar tamaÃ±o de pÃ¡gina
 
-OptionDisplayValue.FontSubstitution=Sustitución de fuente
+OptionDisplayValue.FontSubstitution=SustituciÃ³n de fuente
 
 OptionDisplayValue.ChartDpi=Diagrama DPI
 
@@ -41,9 +41,9 @@ OptionDescription.BidiProcessing=Se utiliza el procesamiento de BIDI.
 
 OptionDescription.TextWrapping=El texto debe autoajustarse.
 
-OptionDescription.PageOverFlow=Controle cómo se va a mostrar el contenido.
+OptionDescription.PageOverFlow=Controle cÃ³mo se va a mostrar el contenido.
 
-OptionDescription.FontSubstitution=Debe comprobar si el carácter existe en la fuente seleccionada.
+OptionDescription.FontSubstitution=Debe comprobar si el carÃ¡cter existe en la fuente seleccionada.
 
 OptionDescription.ChartDpi=El DPI utilizado para generar el diagrama.
 

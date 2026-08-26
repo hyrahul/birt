@@ -6,25 +6,25 @@ RadarChart.SubType.Standard=Standardradardiagramm
 RadarChart.SubType.Spider=Netzradardiagramm
 RadarChart.SubType.Bullseye=Punktradardiagramm
 
-RadarChart.Tooltip.InputExpression=Geben Sie einen Ausdruck ein, der für jedes Objekt als Legendentext angezeigt wird.
-RadarChart.Txt.HelpText=Radardiagramme zeigen den aktuellen Datenwert einer bestimmten Messgröße an. Die verschiedenfarbigen Abschnitte stellen die Bereiche der Messgrößenwerte dar. Nadeln sind mit Tachometern verknüpft und zeigen deren Wert an.
-RadarChart.Txt.Description=Standardradardiagramme enthalten ein zirkuläres Raster, das von einem oder mehreren Reihenpolygonen bzw. einer oder mehreren Reihenlinien überlagert wird.
-RadarChart.Txt.SpiderDescription=Netzradardiagramme enthalten ein polygonales Raster, das von einem oder mehreren Reihenpolygonen bzw. einer oder mehreren Reihenlinien überlagert wird.
-RadarChart.Txt.BullseyeDescription=Punktradardiagramme enthalten ein zirkuläres, gefülltes Raster, das von einem oder mehreren Reihenpolygonen bzw. einer oder mehreren Reihenlinien überlagert wird.
+RadarChart.Tooltip.InputExpression=Geben Sie einen Ausdruck ein, der fÃ¼r jedes Objekt als Legendentext angezeigt wird.
+RadarChart.Txt.HelpText=Radardiagramme zeigen den aktuellen Datenwert einer bestimmten MessgrÃ¶ÃŸe an. Die verschiedenfarbigen Abschnitte stellen die Bereiche der MessgrÃ¶ÃŸenwerte dar. Nadeln sind mit Tachometern verknÃ¼pft und zeigen deren Wert an.
+RadarChart.Txt.Description=Standardradardiagramme enthalten ein zirkulÃ¤res Raster, das von einem oder mehreren Reihenpolygonen bzw. einer oder mehreren Reihenlinien Ã¼berlagert wird.
+RadarChart.Txt.SpiderDescription=Netzradardiagramme enthalten ein polygonales Raster, das von einem oder mehreren Reihenpolygonen bzw. einer oder mehreren Reihenlinien Ã¼berlagert wird.
+RadarChart.Txt.BullseyeDescription=Punktradardiagramme enthalten ein zirkulÃ¤res, gefÃ¼lltes Raster, das von einem oder mehreren Reihenpolygonen bzw. einer oder mehreren Reihenlinien Ã¼berlagert wird.
 
 RadarSeriesAttributeComposite.Lbl.Radius=Radi&us:
 RadarSeriesAttributeComposite.Lbl.StartAngle=&Startwinkel:
 RadarSeriesAttributeComposite.Lbl.StopAngle=Endwink&el:
 RadarSeriesAttributeSheetImpl.Lbl.Type=Geben Sie Folgendes ein:
-RadarSeriesAttributeSheetImpl.Lbl.Fill=Füllung:
-RadarSeriesAttributeComposite.Lbl.DialTicks=&Häkchen
+RadarSeriesAttributeSheetImpl.Lbl.Fill=FÃ¼llung:
+RadarSeriesAttributeComposite.Lbl.DialTicks=&HÃ¤kchen
 RadarSeriesAttributeComposite.Lbl.DialScale=S&kalierung
 RadarBaseSeriesComponent.Label.CategoryDefinition=&Kategoriedefinition:
 RadarSeriesAttributeComposite.Lbl.ShowWeb=&Web-/Radarbeschriftungen anzeigen
 
-RadarSeriesAttributeComposite.Exception.IllegalArgument=Datenreihe vom Typ {0} ist ein ungültiges Argument für RadarSeriesAttributeComposite.
-RadarSeriesAttributeComposite.Lbl.LinePalette=&Palette für Datenreihe als Linienfarbe verwenden
-RadarSeriesAttributeComposite.Lbl.FillPoly=Poly&gons füllen
+RadarSeriesAttributeComposite.Exception.IllegalArgument=Datenreihe vom Typ {0} ist ein ungÃ¼ltiges Argument fÃ¼r RadarSeriesAttributeComposite.
+RadarSeriesAttributeComposite.Lbl.LinePalette=&Palette fÃ¼r Datenreihe als Linienfarbe verwenden
+RadarSeriesAttributeComposite.Lbl.FillPoly=Poly&gons fÃ¼llen
 RadarSeriesAttributeComposite.Lbl.ConnectPoints=Datensatzendpunkte verbinden (polygonal)
 
 RadarSeriesAttributeComposite.Lbl.ShowLinesAsCurves=&Linien als Kurven anzeigen
@@ -42,4 +42,4 @@ Radar.Composite.Label.bullsEye=Punktfarben als transparent festlegen
 
 
 
-Radar.Composite.Label.PlotPercentageToolTip=Prozentsatz der Zeichnungsfläche, der für den Radar erforderlich ist
+Radar.Composite.Label.PlotPercentageToolTip=Prozentsatz der ZeichnungsflÃ¤che, der fÃ¼r den Radar erforderlich ist

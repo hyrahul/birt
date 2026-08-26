@@ -1,208 +1,208 @@
 DimensionType.2D=2D
-DimensionType.2DWithDepth=¶şÎ¬²¢¾ßÓĞÉî¶È
+DimensionType.2DWithDepth=äºŒç»´å¹¶å…·æœ‰æ·±åº¦
 
 DimensionType.3D=3D
-Shared.Lbl.OK=\ \ \ È·¶¨
+Shared.Lbl.OK=\ \ \ ç¡®å®š
 
-Shared.Lbl.Cancel=È¡Ïû
+Shared.Lbl.Cancel=å–æ¶ˆ
 
-ButtonPanel.Lbl.SelectChartType=<< Ñ¡ÔñÍ¼±íÀàĞÍ
+ButtonPanel.Lbl.SelectChartType=<< é€‰æ‹©å›¾è¡¨ç±»å‹
 
-ButtonPanel.Lbl.Previous=< ÉÏÒ»²½
+ButtonPanel.Lbl.Previous=< ä¸Šä¸€æ­¥
 
-ButtonPanel.Lbl.Next=ÏÂÒ»²½ >
+ButtonPanel.Lbl.Next=ä¸‹ä¸€æ­¥ >
 
-ChartAdapter.Info.NotificationRecieved=ChartAdapter: ÊÕµ½¹ØÓÚ {0} µÄÍ¨Öª
+ChartAdapter.Info.NotificationRecieved=ChartAdapter: æ”¶åˆ°å…³äº {0} çš„é€šçŸ¥
 
-ChartAdapter.Info.NewValue=ChartAdapter: ĞÂÖµÎª {0}
+ChartAdapter.Info.NewValue=ChartAdapter: æ–°å€¼ä¸º {0}
 
-ChartSelector.Lbl.ChartSubtypes=Í¼±í×ÓÀàĞÍ
+ChartSelector.Lbl.ChartSubtypes=å›¾è¡¨å­ç±»å‹
 
-ChartDlg.Msg.ValidationErrors=ÑéÖ¤Í¼±í¶¨ÒåÊ±·¢ÏÖ´íÎó\nÇëÔÚ²é¿´±¨±íÇ°¸ÄÕıÕâĞ©ÎÊÌâ¡£\n\n
+ChartDlg.Msg.ValidationErrors=éªŒè¯å›¾è¡¨å®šä¹‰æ—¶å‘ç°é”™è¯¯\nè¯·åœ¨æŸ¥çœ‹æŠ¥è¡¨å‰æ”¹æ­£è¿™äº›é—®é¢˜ã€‚\n\n
 
-ChartDlg.Msg.AskCorrectLater=\nÊÇ·ñÒª¹Ø±ÕÍ¼±íÉú³ÉÆ÷\n²¢ÒÔºó½â¾öÕâĞ©ÎÊÌâ£¿
+ChartDlg.Msg.AskCorrectLater=\næ˜¯å¦è¦å…³é—­å›¾è¡¨ç”Ÿæˆå™¨\nå¹¶ä»¥åè§£å†³è¿™äº›é—®é¢˜ï¼Ÿ
 
-ChartDlg.Info.ChartDimension=Î¬:
+ChartDlg.Info.ChartDimension=ç»´:
 
-ChartDlg.Info.AxisOrientation=\t·½Ïò:
+ChartDlg.Info.AxisOrientation=\tæ–¹å‘:
 
-ChartSelector.Lbl.ChartTypes2=Í¼±íÀàĞÍ
+ChartSelector.Lbl.ChartTypes2=å›¾è¡¨ç±»å‹
 
-ChartSelector.Lbl.DefineChart=¶¨ÒåÍ¼±í >>
+ChartSelector.Lbl.DefineChart=å®šä¹‰å›¾è¡¨ >>
 
-ChartDlg.Info.AssociatedAxis=\t\t¹ØÁªÖá:
+ChartDlg.Info.AssociatedAxis=\t\tå…³è”è½´:
 
-ChartDlg.Info.LineThickness2=\tÏßÌõ´ÖÏ¸:
+ChartDlg.Info.LineThickness2=\tçº¿æ¡ç²—ç»†:
 
-ChartSelector.Lbl.ChartTypes=Í¼±íÀàĞÍ:
+ChartSelector.Lbl.ChartTypes=å›¾è¡¨ç±»å‹:
 
-ChartSelector.Lbl.Transposed=×ªÖÃ
+ChartSelector.Lbl.Transposed=è½¬ç½®
 
-ChartAdapter.Exception.Exception=Òì³£:
+ChartAdapter.Exception.Exception=å¼‚å¸¸:
 
-ChartAdapter.Exception.WrappedIn=ÓÃÀ¨ºÅÀ¨Æğ:
+ChartAdapter.Exception.WrappedIn=ç”¨æ‹¬å·æ‹¬èµ·:
 
-ChartUIUtil.Exception.NoValueReturned=Ã»ÓĞ·µ»ØÖµ¡£ÇëÖ¸¶¨ÓĞĞ§µÄÊı¾İ¼¯¡£
+ChartUIUtil.Exception.NoValueReturned=æ²¡æœ‰è¿”å›å€¼ã€‚è¯·æŒ‡å®šæœ‰æ•ˆçš„æ•°æ®é›†ã€‚
 
-ChartAdapter.Exception.Message=ÏûÏ¢:
+ChartAdapter.Exception.Message=æ¶ˆæ¯:
 
-ChartDlg.Info.CannotChangeSelection=×¢:Èç¹ûµ±Ç°±í²»¾ßÓĞÀàĞÍ»ò×ÓÀàĞÍ¼¯£¬ÔòÄúÎŞ·¨¸ü¸ÄÍ¼±íÑ¡Ôñ¡£
+ChartDlg.Info.CannotChangeSelection=æ³¨:å¦‚æœå½“å‰è¡¨ä¸å…·æœ‰ç±»å‹æˆ–å­ç±»å‹é›†ï¼Œåˆ™æ‚¨æ— æ³•æ›´æ”¹å›¾è¡¨é€‰æ‹©ã€‚
 
-ChartAdapter.Exception.Trace=¸ú×Ù:
+ChartAdapter.Exception.Trace=è·Ÿè¸ª:
 
-ChartSelector.Title.ChartSelector=Í¼±íÑ¡ÔñÆ÷
+ChartSelector.Title.ChartSelector=å›¾è¡¨é€‰æ‹©å™¨
 
-ChartDlg.Title.ValidationResults=ÑéÖ¤½á¹û
+ChartDlg.Title.ValidationResults=éªŒè¯ç»“æœ
 
-ChartDlg.Title.ChartBuilder=Í¼±í¶Ô»°¿ò
+ChartDlg.Title.ChartBuilder=å›¾è¡¨å¯¹è¯æ¡†
 
-DefaultChartTypeImpl.Label.ValueDefinitionName=ÖµÏµÁĞ(&Y):
+DefaultChartTypeImpl.Label.ValueDefinitionName=å€¼ç³»åˆ—(&Y):
 
-DefaultUIServiceProviderImpl.Warn.Placeholder=DefaultUIServiceProviderImpl: ÕâÊÇÒ»¸öÕ¼Î»·ûºÅÀà£¬²»»áÖ´ĞĞÈÎºÎ²Ù×÷¡£
+DefaultUIServiceProviderImpl.Warn.Placeholder=DefaultUIServiceProviderImpl: è¿™æ˜¯ä¸€ä¸ªå ä½ç¬¦å·ç±»ï¼Œä¸ä¼šæ‰§è¡Œä»»ä½•æ“ä½œã€‚
 
-SheetPlaceHolder.Lbl.Placeholder=ÕâÊÇ {0} µÄÒ»¸öÕ¼Î»·û
+SheetPlaceHolder.Lbl.Placeholder=è¿™æ˜¯ {0} çš„ä¸€ä¸ªå ä½ç¬¦
 
-ChartDlg.Info.ChartStart=--------------------------- Í¼±íÊôĞÔ¿ªÊ¼ -------------------------
+ChartDlg.Info.ChartStart=--------------------------- å›¾è¡¨å±æ€§å¼€å§‹ -------------------------
 
-ChartDlg.Info.ChartType=ÀàĞÍ:
+ChartDlg.Info.ChartType=ç±»å‹:
 
-ChartDlg.Info.ChartSubType=×ÓÀàĞÍ:
+ChartDlg.Info.ChartSubType=å­ç±»å‹:
 
-ChartDlg.Info.Orientation=·½Ïò:
+ChartDlg.Info.Orientation=æ–¹å‘:
 
-ChartDlg.Info.AxisCount=ÖáÊı:
+ChartDlg.Info.AxisCount=è½´æ•°:
 
-ChartDlg.Info.AxisStart=--------------------------- ÖáĞÅÏ¢----------------------------
+ChartDlg.Info.AxisStart=--------------------------- è½´ä¿¡æ¯----------------------------
 
-ChartDlg.Info.AxisTitle=\t±êÌâ:
+ChartDlg.Info.AxisTitle=\tæ ‡é¢˜:
 
-ChartDlg.Info.SeriesCount=\tÏµÁĞÊı:
+ChartDlg.Info.SeriesCount=\tç³»åˆ—æ•°:
 
-ChartDlg.Info.SeriesStart=--------------------------- ÏµÁĞĞÅÏ¢ ----------------------------
+ChartDlg.Info.SeriesStart=--------------------------- ç³»åˆ—ä¿¡æ¯ ----------------------------
 
-ChartDlg.Info.DataSource=\t\tµÚÒ»¸öÔ´:
+ChartDlg.Info.DataSource=\t\tç¬¬ä¸€ä¸ªæº:
 
-ChartDlg.Info.SeriesType=\t\tÏµÁĞÀàĞÍ:
+ChartDlg.Info.SeriesType=\t\tç³»åˆ—ç±»å‹:
 
-ChartDlg.Info.Riser=\t\tÉÏÉıÆ÷:
+ChartDlg.Info.Riser=\t\tä¸Šå‡å™¨:
 
-ChartDlg.Info.LineStyle=\t\tÏßÌõÑùÊ½:
+ChartDlg.Info.LineStyle=\t\tçº¿æ¡æ ·å¼:
 
-ChartDlg.Info.Fill=\t\tÌî³ä:
+ChartDlg.Info.Fill=\t\tå¡«å……:
 
-ChartDlg.Info.LineStyle2=\t\tÏßÌõÑùÊ½:
+ChartDlg.Info.LineStyle2=\t\tçº¿æ¡æ ·å¼:
 
-ChartDlg.Info.Values=\t\tÖµ:
+ChartDlg.Info.Values=\t\tå€¼:
 
-ChartDlg.Info.AxisEnd=--------------------------- ÖáĞÅÏ¢----------------------------
+ChartDlg.Info.AxisEnd=--------------------------- è½´ä¿¡æ¯----------------------------
 
-ChartDlg.Info.ChartEnd=--------------------------- Í¼±íÊôĞÔ½áÊø -------------------------
+ChartDlg.Info.ChartEnd=--------------------------- å›¾è¡¨å±æ€§ç»“æŸ -------------------------
 
-ChartDlg.Info.ChartStart2=--------------------------- Í¼±íÊôĞÔ¿ªÊ¼ -------------------------
+ChartDlg.Info.ChartStart2=--------------------------- å›¾è¡¨å±æ€§å¼€å§‹ -------------------------
 
-ChartDlg.Info.ChartType2=ÀàĞÍ:
+ChartDlg.Info.ChartType2=ç±»å‹:
 
-ChartSelector.Lbl.Accept=½ÓÊÜ
+ChartSelector.Lbl.Accept=æ¥å—
 
-ChartWizard.Title.ChartBuilder=Í¼±íÉú³ÉÆ÷
+ChartWizard.Title.ChartBuilder=å›¾è¡¨ç”Ÿæˆå™¨
 
-ChartWizard.Title.NewChart=ĞÂ½¨Í¼±í
+ChartWizard.Title.NewChart=æ–°å»ºå›¾è¡¨
 
-ChartWizard.Title.EditChart=±à¼­Í¼±í
+ChartWizard.Title.EditChart=ç¼–è¾‘å›¾è¡¨
 
-ChartUIUtil.SeriesLabel=ÏµÁĞ {0}
+ChartUIUtil.SeriesLabel=ç³»åˆ— {0}
 
-ChartUIUtil.StockExp.Low=×îµÍ
+ChartUIUtil.StockExp.Low=æœ€ä½
 
-ChartUIUtil.Font.Auto=×Ô¶¯
+ChartUIUtil.Font.Auto=è‡ªåŠ¨
 
-ChartDlg.Info.ChartSubType2=×ÓÀàĞÍ:
+ChartDlg.Info.ChartSubType2=å­ç±»å‹:
 
-ChartSelector.Lbl.Dimension=Î¬(&D):
+ChartSelector.Lbl.Dimension=ç»´(&D):
 
-ChartSelector.Lbl.EditChart=±à¼­Í¼±í >>
+ChartSelector.Lbl.EditChart=ç¼–è¾‘å›¾è¡¨ >>
 
-ChartDlg.Info.Dimension=Î¬:
+ChartDlg.Info.Dimension=ç»´:
 
-ChartDlg.Info.SeriesCount2=ÏµÁĞÊı:
+ChartDlg.Info.SeriesCount2=ç³»åˆ—æ•°:
 
-ChartDlg.Info.SeriesStart2=--------------------------- ÏµÁĞĞÅÏ¢ ----------------------------
+ChartDlg.Info.SeriesStart2=--------------------------- ç³»åˆ—ä¿¡æ¯ ----------------------------
 
-ChartSelector.Lbl.Subtypes=×ÓÀàĞÍ:
+ChartSelector.Lbl.Subtypes=å­ç±»å‹:
 
-ChartUIUtil.StockExp.Close=ÊÕÅÌ
+ChartUIUtil.StockExp.Close=æ”¶ç›˜
 
-ChartDlg.Info.DataSource2=\tµÚÒ»¸öÔ´:
+ChartDlg.Info.DataSource2=\tç¬¬ä¸€ä¸ªæº:
 
-ChartDlg.Info.SeriesType2=\tÏµÁĞÀàĞÍ:
+ChartDlg.Info.SeriesType2=\tç³»åˆ—ç±»å‹:
 
-ChartUIUtil.StockExp.High=×î¸ß
+ChartUIUtil.StockExp.High=æœ€é«˜
 
-ChartUIUtil.StockExp.Open=¿ªÅÌ
+ChartUIUtil.StockExp.Open=å¼€ç›˜
 
-ChartDlg.Info.Riser2=\tÉÏÉıÆ÷:
+ChartDlg.Info.Riser2=\tä¸Šå‡å™¨:
 
-ChartDlg.Info.Values2=\tÖµ:
+ChartDlg.Info.Values2=\tå€¼:
 
-ChartDlg.Info.ChartEnd2=--------------------------- Í¼±íÊôĞÔ½áÊø -------------------------
+ChartDlg.Info.ChartEnd2=--------------------------- å›¾è¡¨å±æ€§ç»“æŸ -------------------------
 
-PreviewButtonPanel.Lbl.ShowPreview=Í¼±íÊ¾Àı >>
+PreviewButtonPanel.Lbl.ShowPreview=å›¾è¡¨ç¤ºä¾‹ >>
 
-PreviewButtonPanel.Lbl.HidePreview=<< Í¼±íÊ¾Àı
+PreviewButtonPanel.Lbl.HidePreview=<< å›¾è¡¨ç¤ºä¾‹
 
-PreviewPanel.Title.Preview=Í¼±íÊ¾Àı
+PreviewPanel.Title.Preview=å›¾è¡¨ç¤ºä¾‹
 
-ChartWizard.Label.SelectChartTypeDataFormat=Ñ¡ÔñÍ¼±íÀàĞÍ¡¢Êı¾İºÍ¸ñÊ½¡£
+ChartWizard.Label.SelectChartTypeDataFormat=é€‰æ‹©å›¾è¡¨ç±»å‹ã€æ•°æ®å’Œæ ¼å¼ã€‚
 
-TaskSelectData.Warning.CategoryGroupTypeCheck=×éÀàĞÍ {0} ÓëÀà±ğÏµÁĞµÄÊı¾İÀàĞÍ²»¼æÈİ¡£
+TaskSelectData.Warning.CategoryGroupTypeCheck=ç»„ç±»å‹ {0} ä¸ç±»åˆ«ç³»åˆ—çš„æ•°æ®ç±»å‹ä¸å…¼å®¹ã€‚
 
-TaskSelectData.Warning.YGroupTypeCheck=×éÀàĞÍ {0} Óë Y ÏµÁĞ·Ö×éµÄÊı¾İÀàĞÍ²»¼æÈİ¡£
+TaskSelectData.Warning.YGroupTypeCheck=ç»„ç±»å‹ {0} ä¸ Y ç³»åˆ—åˆ†ç»„çš„æ•°æ®ç±»å‹ä¸å…¼å®¹ã€‚
 
-TaskSelectType.Caption.OverlayAxis1=Y Öá±êÌâ
+TaskSelectType.Caption.OverlayAxis1=Y è½´æ ‡é¢˜
 
-ApplyButtonHandler.Label.Apply=Ó¦ÓÃ(&Y)
+ApplyButtonHandler.Label.Apply=åº”ç”¨(&Y)
 
-ChartUIUtil.GanttExp.Label=ÈÎÎñ±êÇ©
+ChartUIUtil.GanttExp.Label=ä»»åŠ¡æ ‡ç­¾
 
-ChartUIUtil.GanttExp.Start=¿ªÊ¼ÈÕÆÚ
+ChartUIUtil.GanttExp.Start=å¼€å§‹æ—¥æœŸ
 
-ChartUIUtil.GanttExp.End=½áÊøÈÕÆÚ
+ChartUIUtil.GanttExp.End=ç»“æŸæ—¥æœŸ
 
-ChartUIUtil.BubbleExp.Label=Y Öµ
+ChartUIUtil.BubbleExp.Label=Y å€¼
 
-ChartUIUtil.BubbleExp.Size=´óĞ¡
+ChartUIUtil.BubbleExp.Size=å¤§å°
 
-ChartUIUtil.DifferenceExp.Postive=Õı
+ChartUIUtil.DifferenceExp.Postive=æ­£
 
-ChartUIUtil.DifferenceExp.Negative=¸º
+ChartUIUtil.DifferenceExp.Negative=è´Ÿ
 
-ChartUIUtil.TaskSelectData.Warning.CheckAgg.Aggregation=\ ¾ÛºÏ¡£
+ChartUIUtil.TaskSelectData.Warning.CheckAgg.Aggregation=\ èšåˆã€‚
 
-ChartUIUtil.TaskSelectData.Warning.CheckAgg.DefaultAggregate=Ä¬ÈÏÖµ
+ChartUIUtil.TaskSelectData.Warning.CheckAgg.DefaultAggregate=é»˜è®¤å€¼
 
-ChartUIUtil.TaskSelectData.Warning.CheckAgg.GanttChart=¸ÊÌØÍ¼²»ÔÊĞí
+ChartUIUtil.TaskSelectData.Warning.CheckAgg.GanttChart=ç”˜ç‰¹å›¾ä¸å…è®¸
 
-ChartUIUtil.TaskSelectData.Warning.CheckAgg.ValueSeriesAggregate=ÖµÏµÁĞ
+ChartUIUtil.TaskSelectData.Warning.CheckAgg.ValueSeriesAggregate=å€¼ç³»åˆ—
 
-ChartUIUtil.TaskSelectData.Warning.CheckAggAs=\ ×÷Îª
+ChartUIUtil.TaskSelectData.Warning.CheckAggAs=\ ä½œä¸º
 
-SimpleHyperlinkBuilder.Label.RadioNone=ÎŞÁ´½Ó(&O)
+SimpleHyperlinkBuilder.Label.RadioNone=æ— é“¾æ¥(&O)
 
 SimpleHyperlinkBuilder.Label.RadioURI=&URI
-SimpleHyperlinkBuilder.Title=³¬¼¶Á´½ÓÑ¡Ïî
+SimpleHyperlinkBuilder.Title=è¶…çº§é“¾æ¥é€‰é¡¹
 
-SimpleHyperlinkBuilder.Label.SelectType=Ñ¡Ôñ³¬¼¶Á´½ÓÀàĞÍ:
+SimpleHyperlinkBuilder.Label.SelectType=é€‰æ‹©è¶…çº§é“¾æ¥ç±»å‹:
 
-SimpleHyperlinkBuilder.Label.Location=Î»ÖÃ(&L):
+SimpleHyperlinkBuilder.Label.Location=ä½ç½®(&L):
 
-SimpleHyperlinkBuilder.Label.Target=Ä¿±ê(&T):
+SimpleHyperlinkBuilder.Label.Target=ç›®æ ‡(&T):
 
-CustomPreviewTable.Exception.InvalidColumnIndexNotDefined=Ö¸¶¨µÄÁĞË÷Òı {0} ÎŞĞ§»òÉĞÎ´¶¨ÒåÁĞ\!
+CustomPreviewTable.Exception.InvalidColumnIndexNotDefined=æŒ‡å®šçš„åˆ—ç´¢å¼• {0} æ— æ•ˆæˆ–å°šæœªå®šä¹‰åˆ—\!
 
-CustomPreviewTable.Exception.InvalidColumnIndexSpecified=Ö¸¶¨µÄÁĞË÷ÒıÎŞĞ§\!
+CustomPreviewTable.Exception.InvalidColumnIndexSpecified=æŒ‡å®šçš„åˆ—ç´¢å¼•æ— æ•ˆ\!
 
-CustomPreviewTable.Exception.InvalidColumnIndexSpecifiedOnly=Ö¸¶¨µÄÁĞË÷Òı {0} ÎŞĞ§\! ±íÖ»ÓĞ {1} ÁĞ\!
+CustomPreviewTable.Exception.InvalidColumnIndexSpecifiedOnly=æŒ‡å®šçš„åˆ—ç´¢å¼• {0} æ— æ•ˆ\! è¡¨åªæœ‰ {1} åˆ—\!
 
-CustomPreviewTable.Exception.RowIndexGreaterThan0=ĞĞË÷Òı±ØĞë´óÓÚ»òµÈÓÚ 0\!
+CustomPreviewTable.Exception.RowIndexGreaterThan0=è¡Œç´¢å¼•å¿…é¡»å¤§äºæˆ–ç­‰äº 0\!
 
-ExprEditComposite.InvokeExpressionBuilder=µ÷ÓÃ±í´ïÊ½Éú³ÉÆ÷
+ExprEditComposite.InvokeExpressionBuilder=è°ƒç”¨è¡¨è¾¾å¼ç”Ÿæˆå™¨

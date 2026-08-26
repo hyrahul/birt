@@ -11,47 +11,47 @@
 
 ###########################################################
 #HTML Emitter
-HTMLEmitter.Description=HTML (HyperText Markup Language) Œ`®‚ÅƒŒƒ|[ƒg‚ğƒŒƒ“ƒ_ƒŠƒ“ƒO‚·‚é‚½‚ß‚ÌƒIƒvƒVƒ‡ƒ“‚ğİ’è‚µ‚Ü‚·B
+HTMLEmitter.Description=HTML (HyperText Markup Language) å½¢å¼ã§ãƒ¬ãƒãƒ¼ãƒˆã‚’ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã™ã‚‹ãŸã‚ã®ã‚ªãƒ—ã‚·ãƒ§ãƒ³ã‚’è¨­å®šã—ã¾ã™ã€‚
 
 HTMLEmitter.DisplayName=HTML
-XHTMLEmitter.Description=XHTML Œ`®‚ÅƒŒƒ|[ƒg‚ğƒŒƒ“ƒ_ƒŠƒ“ƒO‚·‚é‚½‚ß‚ÌƒIƒvƒVƒ‡ƒ“‚ğİ’è‚µ‚Ü‚·B
+XHTMLEmitter.Description=XHTML å½¢å¼ã§ãƒ¬ãƒãƒ¼ãƒˆã‚’ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã™ã‚‹ãŸã‚ã®ã‚ªãƒ—ã‚·ãƒ§ãƒ³ã‚’è¨­å®šã—ã¾ã™ã€‚
 
 XHTMLEmitter.DisplayName=XHTML
 
 ###########################################################
 #Option Display Value
-OptionDisplayValue.AgentStyleEngine=ƒXƒ^ƒCƒ‹‚Ìˆ—‚ğƒ†[ƒUƒG[ƒWƒFƒ“ƒg‚ÉˆÏ‚Ë‚é
+OptionDisplayValue.AgentStyleEngine=ã‚¹ã‚¿ã‚¤ãƒ«ã®å‡¦ç†ã‚’ãƒ¦ãƒ¼ã‚¶ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ãƒˆã«å§”ã­ã‚‹
 
-OptionDisplayValue.Enable=—LŒø
+OptionDisplayValue.Enable=æœ‰åŠ¹
 
-OptionDisplayValue.Disable=–³Œø
+OptionDisplayValue.Disable=ç„¡åŠ¹
 
-OptionDisplayValue.OutputMasterPageMargins=ƒ}ƒXƒ^[ƒy[ƒW‚Ì—]”’‚ğo—Í
+OptionDisplayValue.OutputMasterPageMargins=ãƒã‚¹ã‚¿ãƒ¼ãƒšãƒ¼ã‚¸ã®ä½™ç™½ã‚’å‡ºåŠ›
 
-OptionDisplayValue.MasterPageContent=ƒy[ƒWƒwƒbƒ_‚Æƒtƒbƒ^‚ğo—Í
+OptionDisplayValue.MasterPageContent=ãƒšãƒ¼ã‚¸ãƒ˜ãƒƒãƒ€ã¨ãƒ•ãƒƒã‚¿ã‚’å‡ºåŠ›
 
-OptionDisplayValue.PageFooterFloat=ƒy[ƒWƒtƒbƒ^‚ğƒtƒ[ƒg‰»
+OptionDisplayValue.PageFooterFloat=ãƒšãƒ¼ã‚¸ãƒ•ãƒƒã‚¿ã‚’ãƒ•ãƒ­ãƒ¼ãƒˆåŒ–
 
-OptionDisplayValue.LayoutPreference=ƒŒƒCƒAƒEƒg‚Ìİ’è :
+OptionDisplayValue.LayoutPreference=ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆã®è¨­å®š :
 
-OptionDisplayValue.FixedLayout=ŒÅ’èƒŒƒCƒAƒEƒg
+OptionDisplayValue.FixedLayout=å›ºå®šãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆ
 
-OptionDisplayValue.AutoLayout=©“®ƒŒƒCƒAƒEƒg
+OptionDisplayValue.AutoLayout=è‡ªå‹•ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆ
 
-OptionDisplayValue.HTMLType=o—Í‚Ìí—Ş :
+OptionDisplayValue.HTMLType=å‡ºåŠ›ã®ç¨®é¡ :
 
-OptionDisplayValue.CompleteHTML=HTML (Š®‘S)
+OptionDisplayValue.CompleteHTML=HTML (å®Œå…¨)
 
-OptionDisplayValue.HTMLNoCSS=HTML (CSS ‚È‚µ)
+OptionDisplayValue.HTMLNoCSS=HTML (CSS ãªã—)
 
 ###########################################################
 #Option Description
-OptionDescription.AgentStyleEngine=True : HTML ƒGƒ~ƒbƒ^[‚ÍABIRT ‚ÌƒXƒ^ƒCƒ‹‚ğ’¼ÚƒŠƒ|[ƒg‚Éo—Í‚µ‚Ü‚·BƒXƒ^ƒCƒ‹‚ÌŒvZ‚ÌÀ‘•‚Íƒuƒ‰ƒEƒU‚ÉˆÏ‚Ë‚ç‚ê‚Ü‚·B\nFalse : HTML ƒGƒ~ƒbƒ^[‚ÍABIRT ƒXƒ^ƒCƒ‹ƒGƒ“ƒWƒ“‚ğg—p‚µ‚ÄƒXƒ^ƒCƒ‹‚ÌŒvZ‚ğs‚¢AŒ‹‰Ê‚ğƒŒƒ|[ƒg‚Éo—Í‚µ‚Ü‚·B
+OptionDescription.AgentStyleEngine=True : HTML ã‚¨ãƒŸãƒƒã‚¿ãƒ¼ã¯ã€BIRT ã®ã‚¹ã‚¿ã‚¤ãƒ«ã‚’ç›´æ¥ãƒªãƒãƒ¼ãƒˆã«å‡ºåŠ›ã—ã¾ã™ã€‚ã‚¹ã‚¿ã‚¤ãƒ«ã®è¨ˆç®—ã®å®Ÿè£…ã¯ãƒ–ãƒ©ã‚¦ã‚¶ã«å§”ã­ã‚‰ã‚Œã¾ã™ã€‚\nFalse : HTML ã‚¨ãƒŸãƒƒã‚¿ãƒ¼ã¯ã€BIRT ã‚¹ã‚¿ã‚¤ãƒ«ã‚¨ãƒ³ã‚¸ãƒ³ã‚’ä½¿ç”¨ã—ã¦ã‚¹ã‚¿ã‚¤ãƒ«ã®è¨ˆç®—ã‚’è¡Œã„ã€çµæœã‚’ãƒ¬ãƒãƒ¼ãƒˆã«å‡ºåŠ›ã—ã¾ã™ã€‚
 
-OptionDescription.OutputMasterPageMargins=©“®ƒŒƒCƒAƒEƒgƒŒƒ|[ƒg‚Ìƒ}ƒXƒ^[ƒy[ƒW‚Ì—]”’‚ğo—Í‚µ‚Ü‚·B
+OptionDescription.OutputMasterPageMargins=è‡ªå‹•ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆãƒ¬ãƒãƒ¼ãƒˆã®ãƒã‚¹ã‚¿ãƒ¼ãƒšãƒ¼ã‚¸ã®ä½™ç™½ã‚’å‡ºåŠ›ã—ã¾ã™ã€‚
 
-OptionDescription.MasterPageContent=ƒy[ƒWƒwƒbƒ_‚Æƒtƒbƒ^‚ªŠÜ‚Ü‚ê‚Ä‚¢‚Ü‚·Bƒy[ƒW‹K‘¥‚ª—LŒø‚Èê‡‚Ì‚İ‰e‹¿‚µ‚Ü‚·B
+OptionDescription.MasterPageContent=ãƒšãƒ¼ã‚¸ãƒ˜ãƒƒãƒ€ã¨ãƒ•ãƒƒã‚¿ãŒå«ã¾ã‚Œã¦ã„ã¾ã™ã€‚ãƒšãƒ¼ã‚¸è¦å‰‡ãŒæœ‰åŠ¹ãªå ´åˆã®ã¿å½±éŸ¿ã—ã¾ã™ã€‚
 
-OptionDescription.PageFooterFloat=ƒy[ƒWƒtƒbƒ^‚ğƒtƒ[ƒg‰»‚µ‚Ü‚·Bƒy[ƒW‹K‘¥‚ª—LŒø‚Èê‡‚Ì‚İ‰e‹¿‚µ‚Ü‚·B
+OptionDescription.PageFooterFloat=ãƒšãƒ¼ã‚¸ãƒ•ãƒƒã‚¿ã‚’ãƒ•ãƒ­ãƒ¼ãƒˆåŒ–ã—ã¾ã™ã€‚ãƒšãƒ¼ã‚¸è¦å‰‡ãŒæœ‰åŠ¹ãªå ´åˆã®ã¿å½±éŸ¿ã—ã¾ã™ã€‚
 
-OptionDescription.HTMLType=í—Ş‚Í HTML ‚Å‚·B
+OptionDescription.HTMLType=ç¨®é¡ã¯ HTML ã§ã™ã€‚

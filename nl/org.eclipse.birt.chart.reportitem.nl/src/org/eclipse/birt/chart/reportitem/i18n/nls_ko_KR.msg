@@ -1,143 +1,143 @@
-ChartCubeQueryHelper.Error.MustBindCube=Å¥ºê´Â °ø±Ş µ¥ÀÌÅÍ·Î ¹ÙÀÎµùµÇ¾î¾ß ÇÕ´Ï´Ù.
+ChartCubeQueryHelper.Error.MustBindCube=íë¸ŒëŠ” ê³µê¸‰ ë°ì´í„°ë¡œ ë°”ì¸ë”©ë˜ì–´ì•¼ í•©ë‹ˆë‹¤.
 
-ChartReportItemPresentationImpl.error.NoData=Â÷Æ®¿¡ ¹ÙÀÎµùµÈ µ¥ÀÌÅÍ ÁıÇÕ¿¡¼­ ¹İÈ¯µÈ ÇàÀÌ ¾ø½À´Ï´Ù.
+ChartReportItemPresentationImpl.error.NoData=ì°¨íŠ¸ì— ë°”ì¸ë”©ëœ ë°ì´í„° ì§‘í•©ì—ì„œ ë°˜í™˜ëœ í–‰ì´ ì—†ìŠµë‹ˆë‹¤.
 
-ChartReportItemPresentationImpl.error.InvalidCubeBinding=ÀÌ Â÷Æ®°¡ »ç¿ëÇÏ´Â µ¥ÀÌÅÍ ÁıÇÕÀÌ º¯°æµÇ¾ú½À´Ï´Ù. ÀÌ Â÷Æ®¸¦ ´õ ÀÌ»ó ·»´õ¸µÇÒ ¼ö ¾ø½À´Ï´Ù.
+ChartReportItemPresentationImpl.error.InvalidCubeBinding=ì´ ì°¨íŠ¸ê°€ ì‚¬ìš©í•˜ëŠ” ë°ì´í„° ì§‘í•©ì´ ë³€ê²½ë˜ì—ˆìŠµë‹ˆë‹¤. ì´ ì°¨íŠ¸ë¥¼ ë” ì´ìƒ ë Œë”ë§í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-ChartReportItemPresentationImpl.log.UnableToLocateWrapper=Â÷Æ® °´Ã¼¿¡ ´ëÇØ º¸°í¼­ Ç×¸ñ ·¡ÆÛ¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù.
+ChartReportItemPresentationImpl.log.UnableToLocateWrapper=ì°¨íŠ¸ ê°ì²´ì— ëŒ€í•´ ë³´ê³ ì„œ í•­ëª© ë˜í¼ë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-ChartReportItemPresentationImpl.log.onRowSetsStart=ChartReportItemGenerationImpl: onRowSets(...) - ½ÃÀÛ
+ChartReportItemPresentationImpl.log.onRowSetsStart=ChartReportItemGenerationImpl: onRowSets(...) - ì‹œì‘
 
-ChartReportItemPresentationImpl.log.onRowSetsBuilding=ChartReportItemPresentationImpl: onRowSets(...) - Â÷Æ® ºôµå Áß
+ChartReportItemPresentationImpl.log.onRowSetsBuilding=ChartReportItemPresentationImpl: onRowSets(...) - ì°¨íŠ¸ ë¹Œë“œ ì¤‘
 
-ChartReportItemPresentationImpl.log.WritingFile={1}¿¡ {0} ÆÄÀÏÀ» ¾²´Â Áß
+ChartReportItemPresentationImpl.log.WritingFile={1}ì— {0} íŒŒì¼ì„ ì“°ëŠ” ì¤‘
 
-ChartReportItemPresentationImpl.exception.tmpPngFileCreation=ÀÓ½Ã PNG ÆÄÀÏ »ı¼º
+ChartReportItemPresentationImpl.exception.tmpPngFileCreation=ì„ì‹œ PNG íŒŒì¼ ìƒì„±
 
-ChartReportItemPresentationImpl.log.PresentationUsesBoundsBo=ÇÁ¸®Á¨Å×ÀÌ¼Ç¿¡¼­ {0} ¹Ù¿îµå¸¦ »ç¿ëÇÕ´Ï´Ù.
+ChartReportItemPresentationImpl.log.PresentationUsesBoundsBo=í”„ë¦¬ì  í…Œì´ì…˜ì—ì„œ {0} ë°”ìš´ë“œë¥¼ ì‚¬ìš©í•©ë‹ˆë‹¤.
 
-ChartReportItemPresentationImpl.log.onRowSetsRendering=ChartReportItemPresentationImpl: onRowSets(...) - Â÷Æ® ·»´õ¸µ Áß
+ChartReportItemPresentationImpl.log.onRowSetsRendering=ChartReportItemPresentationImpl: onRowSets(...) - ì°¨íŠ¸ ë Œë”ë§ ì¤‘
 
-ChartReportItemPresentationImpl.exception.inputStreamCreation=ÀÔ·Â ½ºÆ®¸² »ı¼º
+ChartReportItemPresentationImpl.exception.inputStreamCreation=ì…ë ¥ ìŠ¤íŠ¸ë¦¼ ìƒì„±
 
-ChartReportItemPresentationImpl.log.onRowSetsFailed=ChartReportItemPresentationImpl: onRowSets(...) - ½ÇÆĞ
+ChartReportItemPresentationImpl.log.onRowSetsFailed=ChartReportItemPresentationImpl: onRowSets(...) - ì‹¤íŒ¨
 
-ChartReportItemPresentationImpl.exception.UnexpectedError=¿¹±âÄ¡ ¸øÇÑ ¿À·ù
+ChartReportItemPresentationImpl.exception.UnexpectedError=ì˜ˆê¸°ì¹˜ ëª»í•œ ì˜¤ë¥˜
 
-ChartReportItemPresentationImpl.onRowSetsEnd=ChartReportItemPresentationImpl: onRowSets(...) - Á¾·á
+ChartReportItemPresentationImpl.onRowSetsEnd=ChartReportItemPresentationImpl: onRowSets(...) - ì¢…ë£Œ
 
-ChartReportItemPresentationImpl.log.getSizeStart=ChartReportItemPresentationImpl: getSize(...) - ½ÃÀÛ
+ChartReportItemPresentationImpl.log.getSizeStart=ChartReportItemPresentationImpl: getSize(...) - ì‹œì‘
 
-ChartReportItemPresentationImpl.log.getSizeEnd=ChartReportItemPresentationImpl: getSize(...) - Á¾·á
+ChartReportItemPresentationImpl.log.getSizeEnd=ChartReportItemPresentationImpl: getSize(...) - ì¢…ë£Œ
 
-ChartReportItemPresentationImpl.log.SuccessfullyDeletedTemp={1}¿¡¼­ {0} ÀÓ½Ã ÆÄÀÏÀÌ »èÁ¦µÇ¾ú½À´Ï´Ù.
+ChartReportItemPresentationImpl.log.SuccessfullyDeletedTemp={1}ì—ì„œ {0} ì„ì‹œ íŒŒì¼ì´ ì‚­ì œë˜ì—ˆìŠµë‹ˆë‹¤.
 
 ChartReportItemPresentationImpl.log.finishEnd=ChartReportItemPresentationImpl: finish(...) - end
 
-ChartWithoutAxesImpl.exception.3DNotSupported=ChartWithoutAxes¿¡¼­´Â 3D¸¦ Áö¿øÇÏÁö ¾Ê½À´Ï´Ù.
+ChartWithoutAxesImpl.exception.3DNotSupported=ChartWithoutAxesì—ì„œëŠ” 3Dë¥¼ ì§€ì›í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-ChartReportItemPresentationImpl.log.finishStart=ChartReportItemPresentationImpl: finish(...) - ½ÃÀÛ
+ChartReportItemPresentationImpl.log.finishStart=ChartReportItemPresentationImpl: finish(...) - ì‹œì‘
 
-ChartReportItemPresentationImpl.log.CouldNotDeleteTemp={1}¿¡¼­ ¸¸µé¾îÁø {0} ÀÓ½Ã ÆÄÀÏÀ» »èÁ¦ÇÒ ¼ö ¾ø½À´Ï´Ù.
+ChartReportItemPresentationImpl.log.CouldNotDeleteTemp={1}ì—ì„œ ë§Œë“¤ì–´ì§„ {0} ì„ì‹œ íŒŒì¼ì„ ì‚­ì œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
 ChartReportItemQueryImpl.log.getReportQueries.exception=ChartReportItemQueryImpl: getReportQueries(...) - exception
 
-ChartReportItemQueryImpl.log.getReportQueries.end=ChartReportItemQueryImpl: getReportQueries(...) - Á¾·á
+ChartReportItemQueryImpl.log.getReportQueries.end=ChartReportItemQueryImpl: getReportQueries(...) - ì¢…ë£Œ
 
 ChartReportItemQueryImpl.log.getReportQueries.start=ChartReportItemQueryImpl: getReportQueries(...) - start
 
-ChartReportItemQueryImpl.exception.getReportQueries=º¸°í¼­ Äõ¸®¸¦ °¡Á®¿À´Â Áß
+ChartReportItemQueryImpl.exception.getReportQueries=ë³´ê³ ì„œ ì¿¼ë¦¬ë¥¼ ê°€ì ¸ì˜¤ëŠ” ì¤‘
 
-ChartReportItemQueryImpl.log.UnableToLocate=Â÷Æ® °³Ã¼¿¡ ´ëÇÑ º¸°í¼­ Ç×¸ñ ·¡ÆÛ¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù.
+ChartReportItemQueryImpl.log.UnableToLocate=ì°¨íŠ¸ ê°œì²´ì— ëŒ€í•œ ë³´ê³ ì„œ í•­ëª© ë˜í¼ë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-ChartReportItemImpl.log.validate=È®ÀÎ Áß(...)
+ChartReportItemImpl.log.validate=í™•ì¸ ì¤‘(...)
 
 ChartReportItemImpl.log.getProperty=getProperty(...) - {0}
-ChartReportItemImpl.log.CannotSetState=ÃàÀÌ ¾ø´Â Â÷Æ®¿¡´Â '¹Ù²Ş' »óÅÂ¸¦ ¼³Á¤ÇÒ ¼ö ¾ø½À´Ï´Ù.
+ChartReportItemImpl.log.CannotSetState=ì¶•ì´ ì—†ëŠ” ì°¨íŠ¸ì—ëŠ” 'ë°”ê¿ˆ' ìƒíƒœë¥¼ ì„¤ì •í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-ChartReportItemImpl.log.UnexpectedChoiceName=¿¹±âÄ¡ ¸øÇÑ ¼±ÅÃ ÀÌ¸§ ¹ß°ß:
+ChartReportItemImpl.log.UnexpectedChoiceName=ì˜ˆê¸°ì¹˜ ëª»í•œ ì„ íƒ ì´ë¦„ ë°œê²¬:
 
-ChartReportItemImpl.log.RequestForPropertyDefn=¸ğµ¨ÀÌ ¸¸µé¾îÁö±â Àü¿¡ ¼ö½ÅµÈ ¼Ó¼º Á¤ÀÇ ¿äÃ»ÀÔ´Ï´Ù.
+ChartReportItemImpl.log.RequestForPropertyDefn=ëª¨ë¸ì´ ë§Œë“¤ì–´ì§€ê¸° ì „ì— ìˆ˜ì‹ ëœ ì†ì„± ì •ì˜ ìš”ì²­ì…ë‹ˆë‹¤.
 
-ChartReportItemImpl.log.RequestForScriptPropertyDefn=½ºÅ©¸³Æ® ¼Ó¼º Á¤ÀÇ ¿äÃ»ÀÔ´Ï´Ù.
+ChartReportItemImpl.log.RequestForScriptPropertyDefn=ìŠ¤í¬ë¦½íŠ¸ ì†ì„± ì •ì˜ ìš”ì²­ì…ë‹ˆë‹¤.
 
-ChartReportItemImpl.log.checkProperty=CheckProperty(...) - °ª {1}À»(¸¦) °¡Áø {0}
+ChartReportItemImpl.log.checkProperty=CheckProperty(...) - ê°’ {1}ì„(ë¥¼) ê°€ì§„ {0}
 
-ChartReportItemImpl.log.setProperty=SetProperty(...) - °ª {1}À»(¸¦) °¡Áø {0}
+ChartReportItemImpl.log.setProperty=SetProperty(...) - ê°’ {1}ì„(ë¥¼) ê°€ì§„ {0}
 
-QueryHelper.exception.UnexpectedNull=È®Àå ÇÁ·¹ÀÓ¿öÅ© - º¸°í¼­ ¿£Áø/»ı¼º¿¡¼­ ¿¹±âÁö ¸øÇÑ 'null' Äõ¸® Á¤ÀÇ¸¦ Á¦°øÇß½À´Ï´Ù.
+QueryHelper.exception.UnexpectedNull=í™•ì¥ í”„ë ˆì„ì›Œí¬ - ë³´ê³ ì„œ ì—”ì§„/ìƒì„±ì—ì„œ ì˜ˆê¸°ì§€ ëª»í•œ 'null' ì¿¼ë¦¬ ì •ì˜ë¥¼ ì œê³µí–ˆìŠµë‹ˆë‹¤.
 
-QueryHelper.Text.CategroySeries=¹üÁÖ °è¿­
+QueryHelper.Text.CategroySeries=ë²”ì£¼ ê³„ì—´
 
-QueryHelper.Text.ValueSeries=°ª °è¿­
+QueryHelper.Text.ValueSeries=ê°’ ê³„ì—´
 
-QueryHelper.Text.XSeries=X °è¿­
+QueryHelper.Text.XSeries=X ê³„ì—´
 
-QueryHelper.Text.YSeries=Y °è¿­
+QueryHelper.Text.YSeries=Y ê³„ì—´
 
-QueryHelper.NoDataDefinitionFor={0}¿¡ ´ëÇÑ µ¥ÀÌÅÍ Á¤ÀÇ Ç×¸ñÀÌ ¾ø½À´Ï´Ù.
+QueryHelper.NoDataDefinitionFor={0}ì— ëŒ€í•œ ë°ì´í„° ì •ì˜ í•­ëª©ì´ ì—†ìŠµë‹ˆë‹¤.
 
-QueryHelper.dataDefnUndefined={0}¿¡ ´ëÇÑ µ¥ÀÌÅÍ Á¤ÀÇ Ç×¸ñÀÌ Á¤ÀÇµÇÁö ¾Ê¾Ò½À´Ï´Ù.
+QueryHelper.dataDefnUndefined={0}ì— ëŒ€í•œ ë°ì´í„° ì •ì˜ í•­ëª©ì´ ì •ì˜ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
 
-QueryHelper.InconsitentDataTypesForAxis=µ¿ÀÏÇÑ YÃà¿¡ ÀÖ´Â ¸ğµç µ¥ÀÌÅÍ Á¤ÀÇ´Â µ¿ÀÏÇÑ µ¥ÀÌÅÍ À¯ÇüÀÌ¾î¾ß ÇÕ´Ï´Ù.
+QueryHelper.InconsitentDataTypesForAxis=ë™ì¼í•œ Yì¶•ì— ìˆëŠ” ëª¨ë“  ë°ì´í„° ì •ì˜ëŠ” ë™ì¼í•œ ë°ì´í„° ìœ í˜•ì´ì–´ì•¼ í•©ë‹ˆë‹¤.
 
-QueryHelper.InconsitentDataTypesForValueSeries=°ª °è¿­¿¡ ÀÖ´Â ¸ğµç µ¥ÀÌÅÍ Á¤ÀÇ´Â µ¿ÀÏÇÑ µ¥ÀÌÅÍ À¯ÇüÀÌ¾î¾ß ÇÕ´Ï´Ù.
+QueryHelper.InconsitentDataTypesForValueSeries=ê°’ ê³„ì—´ì— ìˆëŠ” ëª¨ë“  ë°ì´í„° ì •ì˜ëŠ” ë™ì¼í•œ ë°ì´í„° ìœ í˜•ì´ì–´ì•¼ í•©ë‹ˆë‹¤.
 
-ChartElementCommandImpl.editChart=Â÷Æ® ÆíÁı
+ChartElementCommandImpl.editChart=ì°¨íŠ¸ í¸ì§‘
 
-ChartElementCommandImpl.setProperty.chart.dimension=Â÷¿ø ¼³Á¤
+ChartElementCommandImpl.setProperty.chart.dimension=ì°¨ì› ì„¤ì •
 
-ChartElementCommandImpl.setProperty.chart.instance=Â÷Æ® ¸ğµ¨ ¼³Á¤
+ChartElementCommandImpl.setProperty.chart.instance=ì°¨íŠ¸ ëª¨ë¸ ì„¤ì •
 
-ChartElementCommandImpl.setProperty.plot.transposed=¹Ù²Ş ¼³Á¤
+ChartElementCommandImpl.setProperty.plot.transposed=ë°”ê¿ˆ ì„¤ì •
 
-ChartElementCommandImpl.setProperty.script=Â÷Æ® ½ºÅ©¸³Æ® ÆíÁı
+ChartElementCommandImpl.setProperty.script=ì°¨íŠ¸ ìŠ¤í¬ë¦½íŠ¸ í¸ì§‘
 
-ChartElementCommandImpl.setProperty.onRender=Â÷Æ® ½ºÅ©¸³Æ® ÆíÁı
+ChartElementCommandImpl.setProperty.onRender=ì°¨íŠ¸ ìŠ¤í¬ë¦½íŠ¸ í¸ì§‘
 
-ChartImpl.error.DimensionUnitNotSupported=Â÷¿ø ´ÜÀ§({0})°¡ Chart Simple API¿¡¼­ Áö¿øµÇÁö ¾Ê½À´Ï´Ù.
+ChartImpl.error.DimensionUnitNotSupported=ì°¨ì› ë‹¨ìœ„({0})ê°€ Chart Simple APIì—ì„œ ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
 ################################################
 # Display names for report model extension 
 ################################################
-Element.Chart=Â÷Æ®
+Element.Chart=ì°¨íŠ¸
 
-Element.Chart.xmlRepresentation=XML ¸ğµ¨
+Element.Chart.xmlRepresentation=XML ëª¨ë¸
 
-Element.Chart.outputFormat=Ãâ·Â Çü½Ä
+Element.Chart.outputFormat=ì¶œë ¥ í˜•ì‹
 
-Element.Chart.action=ÀÛ¾÷
+Element.Chart.action=ì‘ì—…
 
-Element.Chart.altText=´ëÃ¼ ÅØ½ºÆ®
+Element.Chart.altText=ëŒ€ì²´ í…ìŠ¤íŠ¸
 
-Element.Chart.altTextID=´ëÃ¼ ÅØ½ºÆ® Å°
+Element.Chart.altTextID=ëŒ€ì²´ í…ìŠ¤íŠ¸ í‚¤
 
 
 choice.chart.dimension.two_dimensional=2D
-choice.chart.dimension.two_dimensional_with_depth=2D(±íÀÌ)
+choice.chart.dimension.two_dimensional_with_depth=2D(ê¹Šì´)
 
 choice.chart.dimension.three_dimensional=3D
-property.category.general=ÀÏ¹İ
+property.category.general=ì¼ë°˜
 
-property.category.types=Çü½Ä
+property.category.types=í˜•ì‹
 
-property.label.title.value=Á¦¸ñ:
+property.label.title.value=ì œëª©:
 
-property.label.title.font.rotation=Á¦¸ñ È¸Àü:
+property.label.title.font.rotation=ì œëª© íšŒì „:
 
-property.label.legend.position=¹ü·Ê À§Ä¡:
+property.label.legend.position=ë²”ë¡€ ìœ„ì¹˜:
 
-property.label.legend.anchor=¹ü·Ê ¾ŞÄ¿:
+property.label.legend.anchor=ë²”ë¡€ ì•µì»¤:
 
-property.label.chart.dimension=Â÷¿ø:
+property.label.chart.dimension=ì°¨ì›:
 
-property.label.chart.plot.transposed=¹Ù²Ş
+property.label.chart.plot.transposed=ë°”ê¿ˆ
 
-property.script=½ºÅ©¸³Æ®
+property.script=ìŠ¤í¬ë¦½íŠ¸
 
 property.onRender=onRender
 
-exception.no.cube.edge=µ¥ÀÌÅÍ Å¥ºê Ä¿¼­¿¡ °¡ÀåÀÚ¸®°¡ ¾ø½À´Ï´Ù. Äõ¸® ¹®ÀÌ ¿Ã¹Ù¸¥Áö È®ÀÎÇÏ½Ê½Ã¿À.
+exception.no.cube.edge=ë°ì´í„° íë¸Œ ì»¤ì„œì— ê°€ì¥ìë¦¬ê°€ ì—†ìŠµë‹ˆë‹¤. ì¿¼ë¦¬ ë¬¸ì´ ì˜¬ë°”ë¥¸ì§€ í™•ì¸í•˜ì‹­ì‹œì˜¤.
 
-exception.script.syntaxError=½ºÅ©¸³Æ® ±¸¹® ¿À·ù: {0}
+exception.script.syntaxError=ìŠ¤í¬ë¦½íŠ¸ êµ¬ë¬¸ ì˜¤ë¥˜: {0}
 

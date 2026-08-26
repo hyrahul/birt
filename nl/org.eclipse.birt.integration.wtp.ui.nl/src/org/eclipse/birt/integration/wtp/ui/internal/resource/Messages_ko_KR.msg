@@ -12,122 +12,122 @@
 ###############################################################################
 # BIRT Wizard Configuration Page
 ###############################################################################
-BIRTProjectCreationWizard_title=»õ BIRT À¥ ÇÁ·ÎÁ§Æ®
+BIRTProjectCreationWizard_title=ìƒˆ BIRT ì›¹ í”„ë¡œì íŠ¸
 
-BIRTProjectConfigurationPage_title=BIRT ±¸¼º
+BIRTProjectConfigurationPage_title=BIRT êµ¬ì„±
 
-BIRTProjectConfigurationPage_desc=web.xml¿¡¼­ Á¤ÀÇµÈ BIRT ¹èÆ÷ ¼³Á¤ ±¸¼º
+BIRTProjectConfigurationPage_desc=web.xmlì—ì„œ ì •ì˜ëœ BIRT ë°°í¬ ì„¤ì • êµ¬ì„±
 
 ###############################################################################
 # BIRT Configuration Dialog
 ###############################################################################
-BIRTConfigurationDialog_title=BIRT ¹èÆ÷ ¼³Á¤ ±¸¼º
+BIRTConfigurationDialog_title=BIRT ë°°í¬ ì„¤ì • êµ¬ì„±
 
 ###############################################################################
 # BIRT Configuration Components
 ###############################################################################
-BIRTConfiguration_group_paths=¹èÆ÷ Æú´õ ¼³Á¤
+BIRTConfiguration_group_paths=ë°°í¬ í´ë” ì„¤ì •
 
-BIRTConfiguration_group_others=±âÅ¸ ¼³Á¤
+BIRTConfiguration_group_others=ê¸°íƒ€ ì„¤ì •
 
-BIRTConfiguration_resource_folder_button_text=Ã£¾Æº¸±â&...
+BIRTConfiguration_resource_folder_button_text=ì°¾ì•„ë³´ê¸°&...
 
-BIRTConfiguration_working_folder_button_text=Ã£¾Æº¸±â(&R)...
+BIRTConfiguration_working_folder_button_text=ì°¾ì•„ë³´ê¸°(&R)...
 
-BIRTConfiguration_document_folder_button_text=Ã£¾Æº¸±â(&O)...
+BIRTConfiguration_document_folder_button_text=ì°¾ì•„ë³´ê¸°(&O)...
 
-BIRTConfiguration_image_folder_button_text=Ã£¾Æº¸±â(&W)...
+BIRTConfiguration_image_folder_button_text=ì°¾ì•„ë³´ê¸°(&W)...
 
-BIRTConfiguration_scriptlib_folder_button_text=Ã£¾Æº¸±â(&S)...
+BIRTConfiguration_scriptlib_folder_button_text=ì°¾ì•„ë³´ê¸°(&S)...
 
-BIRTConfiguration_log_folder_button_text=Ã£¾Æº¸±â(&E)...
+BIRTConfiguration_log_folder_button_text=ì°¾ì•„ë³´ê¸°(&E)...
 
-BIRTConfiguration_resource_label=¸®¼Ò½º Æú´õ(&U):
+BIRTConfiguration_resource_label=ë¦¬ì†ŒìŠ¤ í´ë”(&U):
 
-BIRTConfiguration_resource_dialog_title=¸®¼Ò½º Æú´õ Ã£¾Æº¸±â
+BIRTConfiguration_resource_dialog_title=ë¦¬ì†ŒìŠ¤ í´ë” ì°¾ì•„ë³´ê¸°
 
-BIRTConfiguration_resource_dialog_message=±âº» ¸®¼Ò½º Æú´õ¸¦ ¼±ÅÃÇÏ½Ê½Ã¿À.
+BIRTConfiguration_resource_dialog_message=ê¸°ë³¸ ë¦¬ì†ŒìŠ¤ í´ë”ë¥¼ ì„ íƒí•˜ì‹­ì‹œì˜¤.
 
-BIRTConfiguration_working_label=ÀÛ¾÷ Æú´õ(&K):
+BIRTConfiguration_working_label=ì‘ì—… í´ë”(&K):
 
-BIRTConfiguration_working_dialog_title=ÀÛ¾÷ Æú´õ Ã£¾Æº¸±â
+BIRTConfiguration_working_dialog_title=ì‘ì—… í´ë” ì°¾ì•„ë³´ê¸°
 
-BIRTConfiguration_working_dialog_message=±âº» ÀÛ¾÷ Æú´õ¸¦ ¼±ÅÃÇÏ½Ê½Ã¿À.
+BIRTConfiguration_working_dialog_message=ê¸°ë³¸ ì‘ì—… í´ë”ë¥¼ ì„ íƒí•˜ì‹­ì‹œì˜¤.
 
-BIRTConfiguration_document_label=ÀÓ½Ã ¹®¼­ Æú´õ(&D):
+BIRTConfiguration_document_label=ì„ì‹œ ë¬¸ì„œ í´ë”(&D):
 
-BIRTConfiguration_document_dialog_title=ÀÓ½Ã ¹®¼­ Æú´õ Ã£¾Æº¸±â
+BIRTConfiguration_document_dialog_title=ì„ì‹œ ë¬¸ì„œ í´ë” ì°¾ì•„ë³´ê¸°
 
-BIRTConfiguration_document_dialog_message=±âº» ÀÓ½Ã ¹®¼­ Æú´õ¸¦ ¼±ÅÃÇÏ½Ê½Ã¿À.
+BIRTConfiguration_document_dialog_message=ê¸°ë³¸ ì„ì‹œ ë¬¸ì„œ í´ë”ë¥¼ ì„ íƒí•˜ì‹­ì‹œì˜¤.
 
-BIRTConfiguration_image_label=ÀÓ½Ã ÀÌ¹ÌÁö Æú´õ(&I):
+BIRTConfiguration_image_label=ì„ì‹œ ì´ë¯¸ì§€ í´ë”(&I):
 
-BIRTConfiguration_image_dialog_title=ÀÓ½Ã ÀÌ¹ÌÁö Æú´õ Ã£¾Æº¸±â
+BIRTConfiguration_image_dialog_title=ì„ì‹œ ì´ë¯¸ì§€ í´ë” ì°¾ì•„ë³´ê¸°
 
-BIRTConfiguration_image_dialog_message=±âº» ÀÓ½Ã ÀÌ¹ÌÁö Æú´õ¸¦ ¼±ÅÃÇÏ½Ê½Ã¿À.
+BIRTConfiguration_image_dialog_message=ê¸°ë³¸ ì„ì‹œ ì´ë¯¸ì§€ í´ë”ë¥¼ ì„ íƒí•˜ì‹­ì‹œì˜¤.
 
-BIRTConfiguration_scriptlib_label=ScriptLib Æú´õ&:
+BIRTConfiguration_scriptlib_label=ScriptLib í´ë”&:
 
-BIRTConfiguration_scriptlib_dialog_title=ScriptLib Æú´õ Ã£¾Æº¸±â
+BIRTConfiguration_scriptlib_dialog_title=ScriptLib í´ë” ì°¾ì•„ë³´ê¸°
 
-BIRTConfiguration_scriptlib_dialog_message=±âº» scriptlib Æú´õ¸¦ ¼±ÅÃÇÏ½Ê½Ã¿À.
+BIRTConfiguration_scriptlib_dialog_message=ê¸°ë³¸ scriptlib í´ë”ë¥¼ ì„ íƒí•˜ì‹­ì‹œì˜¤.
 
-BIRTConfiguration_log_label=·Î±× Æú´õ(&L):
+BIRTConfiguration_log_label=ë¡œê·¸ í´ë”(&L):
 
-BIRTConfiguration_log_dialog_title=·Î±× Æú´õ Ã£¾Æº¸±â
+BIRTConfiguration_log_dialog_title=ë¡œê·¸ í´ë” ì°¾ì•„ë³´ê¸°
 
-BIRTConfiguration_log_dialog_message=±âº» ·Î±× Æú´õ¸¦ ¼±ÅÃÇÏ½Ê½Ã¿À.
+BIRTConfiguration_log_dialog_message=ê¸°ë³¸ ë¡œê·¸ í´ë”ë¥¼ ì„ íƒí•˜ì‹­ì‹œì˜¤.
 
-BIRTConfiguration_report_access_message=ÀÛ¾÷ Æú´õÀÇ º¸°í¼­ ¹× ¹®¼­¿¡¸¸ ¾×¼¼½º(&Y)
+BIRTConfiguration_report_access_message=ì‘ì—… í´ë”ì˜ ë³´ê³ ì„œ ë° ë¬¸ì„œì—ë§Œ ì•¡ì„¸ìŠ¤(&Y)
 
-BIRTConfiguration_overwrite_message=»ı¼ºµÈ ¹®¼­ ÆÄÀÏ Ç×»ó µ¤¾î¾²±â(&A)
+BIRTConfiguration_overwrite_message=ìƒì„±ëœ ë¬¸ì„œ íŒŒì¼ í•­ìƒ ë®ì–´ì“°ê¸°(&A)
 
-BIRTConfiguration_maxrows_label=µ¥ÀÌÅÍ ÁıÇÕ ÃÖ´ë Çà(&T):
+BIRTConfiguration_maxrows_label=ë°ì´í„° ì§‘í•© ìµœëŒ€ í–‰(&T):
 
-BIRTConfiguration_maxrowlevels_label=Çà ¼öÁØÀ» °¡Á®¿À´Â ÃÖ´ë Å¥ºê(&M):
+BIRTConfiguration_maxrowlevels_label=í–‰ ìˆ˜ì¤€ì„ ê°€ì ¸ì˜¤ëŠ” ìµœëŒ€ íë¸Œ(&M):
 
-BIRTConfiguration_maxcolumnlevels_label=¿­ ¼öÁØÀ» °¡Á®¿À´Â ÃÖ´ë Å¥ºê(&X):
+BIRTConfiguration_maxcolumnlevels_label=ì—´ ìˆ˜ì¤€ì„ ê°€ì ¸ì˜¤ëŠ” ìµœëŒ€ íë¸Œ(&X):
 
-BIRTConfiguration_cubememsize_label=Å¥ºê »ı¼º¿¡ ÇÊ¿äÇÑ ÃÖ´ë ¸Ş¸ğ¸® Å©±â(&Z):
+BIRTConfiguration_cubememsize_label=íë¸Œ ìƒì„±ì— í•„ìš”í•œ ìµœëŒ€ ë©”ëª¨ë¦¬ í¬ê¸°(&Z):
 
-BIRTConfiguration_loglevel_label=·Î±× ¼öÁØ ¼±ÅÃ(&V):
+BIRTConfiguration_loglevel_label=ë¡œê·¸ ìˆ˜ì¤€ ì„ íƒ(&V):
 
-BIRTConfiguration_loglevel_all=¸ğµÎ
+BIRTConfiguration_loglevel_all=ëª¨ë‘
 
-BIRTConfiguration_loglevel_severe=½É°¢
+BIRTConfiguration_loglevel_severe=ì‹¬ê°
 
-BIRTConfiguration_loglevel_warning=°æ°í
+BIRTConfiguration_loglevel_warning=ê²½ê³ 
 
-BIRTConfiguration_loglevel_info=Á¤º¸
+BIRTConfiguration_loglevel_info=ì •ë³´
 
-BIRTConfiguration_loglevel_config=±¸¼º
+BIRTConfiguration_loglevel_config=êµ¬ì„±
 
-BIRTConfiguration_loglevel_fine=¾çÈ£
+BIRTConfiguration_loglevel_fine=ì–‘í˜¸
 
-BIRTConfiguration_loglevel_finer=¾ÆÁÖ ¾çÈ£
+BIRTConfiguration_loglevel_finer=ì•„ì£¼ ì–‘í˜¸
 
-BIRTConfiguration_loglevel_finest=°¡Àå ¾çÈ£
+BIRTConfiguration_loglevel_finest=ê°€ì¥ ì–‘í˜¸
 
-BIRTConfiguration_loglevel_off=²ô±â
+BIRTConfiguration_loglevel_off=ë„ê¸°
 
-BIRTConfiguration_printserver_label=¼­¹ö ÂÊ¿¡¼­ º¸°í¼­ ÀÎ¼â(&P):
+BIRTConfiguration_printserver_label=ì„œë²„ ìª½ì—ì„œ ë³´ê³ ì„œ ì¸ì‡„(&P):
 
-BIRTConfiguration_import_clear_message=¿À·¡µÈ BIRT ·±Å¸ÀÓ ÆÄÀÏ Áö¿ì±â(&C)
+BIRTConfiguration_import_clear_message=ì˜¤ë˜ëœ BIRT ëŸ°íƒ€ì„ íŒŒì¼ ì§€ìš°ê¸°(&C)
 
 ###############################################################################
 # Overwrite Query Dialog
 ###############################################################################
-BIRTOverwriteQuery_title=´ëÈ­ »óÀÚ µ¤¾î¾²±â
+BIRTOverwriteQuery_title=ëŒ€í™” ìƒì ë®ì–´ì“°ê¸°
 
-BIRTOverwriteQuery_message={0}À»(¸¦) µ¤¾î¾²½Ã°Ú½À´Ï±î?
+BIRTOverwriteQuery_message={0}ì„(ë¥¼) ë®ì–´ì“°ì‹œê² ìŠµë‹ˆê¹Œ?
 
-BIRTOverwriteQuery_webartifact_title=¹èÆ÷ ¼³¸íÀÚ µ¤¾î¾²±â ´ëÈ­ »óÀÚ
+BIRTOverwriteQuery_webartifact_title=ë°°í¬ ì„¤ëª…ì ë®ì–´ì“°ê¸° ëŒ€í™” ìƒì
 
-BIRTOverwriteQuery_webartifact_message={0}ÀÌ(°¡) web.xml¿¡ Á¸ÀçÇÕ´Ï´Ù. µ¤¾î¾²½Ã°Ú½À´Ï±î?
+BIRTOverwriteQuery_webartifact_message={0}ì´(ê°€) web.xmlì— ì¡´ì¬í•©ë‹ˆë‹¤. ë®ì–´ì“°ì‹œê² ìŠµë‹ˆê¹Œ?
 
 ###############################################################################
 # Error Message
 ###############################################################################
-BIRTErrors_miss_source=°¡Á®¿À±â°¡ Áß´ÜµÇ¾ú½À´Ï´Ù. ¿Ã¹Ù¸¥ ¿øº» ZIP ÆÄÀÏÀ» °¡Á®¿Ã ¼ö ¾ø½À´Ï´Ù.
+BIRTErrors_miss_source=ê°€ì ¸ì˜¤ê¸°ê°€ ì¤‘ë‹¨ë˜ì—ˆìŠµë‹ˆë‹¤. ì˜¬ë°”ë¥¸ ì›ë³¸ ZIP íŒŒì¼ì„ ê°€ì ¸ì˜¬ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-BIRTErrors_wrong_webcontent=¿Ã¹Ù¸¥ À¥ ÄÁÅÙÃ÷ Æú´õ¸¦ °¡Á®¿Ã ¼ö ¾ø½À´Ï´Ù.
+BIRTErrors_wrong_webcontent=ì˜¬ë°”ë¥¸ ì›¹ ì»¨í…ì¸  í´ë”ë¥¼ ê°€ì ¸ì˜¬ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.

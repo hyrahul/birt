@@ -24,7 +24,7 @@ providerName=Eclipse.org
 updateSiteName=Business Intellegence and Reporting Tool (BIRT) Updates
 
 # "description" property - description of the feature
-description=Eclipse Business Intelligence and Reporting Tools(BIRT) Chart Framework �÷�����
+description=Eclipse Business Intelligence and Reporting Tools(BIRT) Chart Framework 占시뤄옙占쏙옙占쏙옙
 
 copyrightURL=https://eclipse-birt.github.io/birt-website
 copyright=(c) Copyright Eclipse Contributors and others 2004, 2006. All rights reserved.\n

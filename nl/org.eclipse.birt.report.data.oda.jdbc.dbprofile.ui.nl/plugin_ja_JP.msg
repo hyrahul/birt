@@ -18,16 +18,16 @@ parent.category.id=org.eclipse.datatools.connectivity.db.category
 # NLS strings
 #
 plugin.name=JDBC Database Connection Data Source ODA Designer
-newwizard.name=ƒNƒGƒŠƒrƒ‹ƒ_”Å JDBC ƒf[ƒ^ƒx[ƒXÚ‘±
+newwizard.name=ã‚¯ã‚¨ãƒªãƒ“ãƒ«ãƒ€ç‰ˆ JDBC ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹æ¥ç¶š
 
-newwizard.description=JDBC ƒf[ƒ^ƒx[ƒXÚ‘±ƒvƒƒtƒ@ƒCƒ‹‚ğì¬‚µ‚Ü‚·B
+newwizard.description=JDBC ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹æ¥ç¶šãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä½œæˆã—ã¾ã™ã€‚
 
-wizard.window.title=ƒNƒGƒŠƒrƒ‹ƒ_”Å JDBC ƒf[ƒ^ƒx[ƒXÚ‘±‚ÌV‹Kì¬
+wizard.window.title=ã‚¯ã‚¨ãƒªãƒ“ãƒ«ãƒ€ç‰ˆ JDBC ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹æ¥ç¶šã®æ–°è¦ä½œæˆ
 
-wizard.data.source.page.title=ƒNƒGƒŠƒrƒ‹ƒ_”Å JDBC ƒf[ƒ^ƒx[ƒXÚ‘±
+wizard.data.source.page.title=ã‚¯ã‚¨ãƒªãƒ“ãƒ«ãƒ€ç‰ˆ JDBC ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹æ¥ç¶š
 
-profile.propertypage.name=JDBC ƒhƒ‰ƒCƒo‚ÆÚ‘±‚ÌÚ×
+profile.propertypage.name=JDBC ãƒ‰ãƒ©ã‚¤ãƒã¨æ¥ç¶šã®è©³ç´°
 
-wizard.data.set.window.title=SQL Select ƒNƒGƒŠ‚ÌV‹Kì¬ [ƒNƒGƒŠƒrƒ‹ƒ_]
+wizard.data.set.window.title=SQL Select ã‚¯ã‚¨ãƒªã®æ–°è¦ä½œæˆ [ã‚¯ã‚¨ãƒªãƒ“ãƒ«ãƒ€]
 
-wizard.data.set.page.title=SQL Select ƒNƒGƒŠ
+wizard.data.set.page.title=SQL Select ã‚¯ã‚¨ãƒª

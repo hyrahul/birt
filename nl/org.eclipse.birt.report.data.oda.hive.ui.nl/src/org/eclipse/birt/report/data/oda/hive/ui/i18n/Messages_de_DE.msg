@@ -1,6 +1,6 @@
-datasource.page.title=Datenquelle für ${odadesignerid.ds.displayname} definieren
+datasource.page.title=Datenquelle fÃ¼r ${odadesignerid.ds.displayname} definieren
 
-datasource.page.msg=Eine JDBC-Datenquelle, die mit Hive verknüpft ist.
+datasource.page.msg=Eine JDBC-Datenquelle, die mit Hive verknÃ¼pft ist.
 
 datasource.page.driver.class=Treiberklasse:
 
@@ -8,14 +8,14 @@ datasource.page.url=Datenbank-URL:
 
 datasource.page.user=Datenbank-Benutzer:
 
-datasource.upgrade.msg.firstLine=Die von diesem Datensatz verwendete Datenquelle ({0}) wurde mit einer früheren Version dieses Programms erstellt.
+datasource.upgrade.msg.firstLine=Die von diesem Datensatz verwendete Datenquelle ({0}) wurde mit einer frÃ¼heren Version dieses Programms erstellt.
 
-datasource.upgrade.msg.secondLine=Die Definition muss aktualisiert werden. \n\nWählen Sie 'OK', um die Datenquelle {0} jetzt zu aktualisieren.
+datasource.upgrade.msg.secondLine=Die Definition muss aktualisiert werden. \n\nWÃ¤hlen Sie 'OK', um die Datenquelle {0} jetzt zu aktualisieren.
 
-datasource.upgrade.msg.thirdLine=Öffnen Sie den Datensatzeditor anschließend erneut.
+datasource.upgrade.msg.thirdLine=Ã–ffnen Sie den Datensatzeditor anschlieÃŸend erneut.
 
 datasource.propertyPage.tooltip=Hive Data Source
-datasource.addfile=Anweisung 'Datei h&inzufügen':
+datasource.addfile=Anweisung 'Datei h&inzufÃ¼gen':
 
 datasource.group.text=Hive Server
 datasource.label.ServerType=&Servertyp:

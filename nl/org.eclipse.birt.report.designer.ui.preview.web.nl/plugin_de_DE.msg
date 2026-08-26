@@ -25,13 +25,13 @@ preference.preview.server=Vorschau-Server
 
 preference.preview.data=Daten
 
-menu.run=&Ausführen
+menu.run=&AusfÃ¼hren
 
 ###############################################################################
 # Actions
 ###############################################################################
 Menu.Report=Berich&t
 
-Action.RunReport=Bericht aus&führen
+Action.RunReport=Bericht aus&fÃ¼hren
 
 Action.ViewDocument=Dokument an&zeigen

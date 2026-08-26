@@ -11,7 +11,7 @@
 #  
 #************************************************************************
 #
-sqbWizPage_cannotOpenConnectionMsg=Aufbau einer Verbindung zur Erstellung einer SQL-Abfrage nicht möglich. Überprüfen Sie die Datenquellen-Verbindungseigenschaften.
+sqbWizPage_cannotOpenConnectionMsg=Aufbau einer Verbindung zur Erstellung einer SQL-Abfrage nicht mÃ¶glich. ÃœberprÃ¼fen Sie die Datenquellen-Verbindungseigenschaften.
 
 sqbWizPage_cannotOpenConnectionTitle=Verbindungsfehler
 
@@ -21,18 +21,18 @@ sqbWizPage_dbErrorMsg=Datenbank-Fehlermeldung:
 
 sqbWizPage_defaultMessage=SQL Select-Abfrage erstellen.
 
-sqbWizPage_detectExternalSqlTextChangedMsg=Der SQL-Abfragetext wurde extern im Datensatz-Design geändert. Möchten Sie die Inhalte der SQL-Abfrageerstellung mit diesen Änderungen ersetzen?
+sqbWizPage_detectExternalSqlTextChangedMsg=Der SQL-Abfragetext wurde extern im Datensatz-Design geÃ¤ndert. MÃ¶chten Sie die Inhalte der SQL-Abfrageerstellung mit diesen Ã„nderungen ersetzen?
 
-sqbWizPage_detectSqlTextChangedTitle=SQL-Abfragetext geändert
+sqbWizPage_detectSqlTextChangedTitle=SQL-Abfragetext geÃ¤ndert
 
-sqbWizPage_inputFailOnOpenAskUserMessage=Möchten Sie fortfahren?
+sqbWizPage_inputFailOnOpenAskUserMessage=MÃ¶chten Sie fortfahren?
 
-sqbWizPage_invalidSqbStateMsg=SQL-Abfrageerstellung kann nicht in vorherigen Zustand zurückgesetzt werden.
+sqbWizPage_invalidSqbStateMsg=SQL-Abfrageerstellung kann nicht in vorherigen Zustand zurÃ¼ckgesetzt werden.
 
-sqbWizPage_invalidSqbStateTitle=SQL-Abfrageerstellung - Ungültiger Zustand
+sqbWizPage_invalidSqbStateTitle=SQL-Abfrageerstellung - UngÃ¼ltiger Zustand
 
-sqbWizPage_noConnProfileMsg=Das Datenbankverbindungsprofil ist nicht vorhanden oder ungültig. Öffnen der SQL-Abfrageerstellung nicht möglich.
+sqbWizPage_noConnProfileMsg=Das Datenbankverbindungsprofil ist nicht vorhanden oder ungÃ¼ltig. Ã–ffnen der SQL-Abfrageerstellung nicht mÃ¶glich.
 
 sqbWizPage_connectingDB=Verbindung zur Datenbank wird hergestellt...
 
-sqbDesignState_invalidSqbStateVersion=Ungültige Version im gespeicherten SQL-Abfrageerstellungszustand
+sqbDesignState_invalidSqbStateVersion=UngÃ¼ltige Version im gespeicherten SQL-Abfrageerstellungszustand

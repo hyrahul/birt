@@ -10,17 +10,17 @@
 #  
 #************************************************************************
 #
-mDbConnection_failedToOpenConn=Impossible d'établir la connexion avec les propriétés spécifiées.
+mDbConnection_failedToOpenConn=Impossible d'Ã©tablir la connexion avec les propriÃ©tÃ©s spÃ©cifiÃ©es.
 
-mDbConnection_invalidDatabaseName=La base de données spécifiée ({0}) n'existe pas.
+mDbConnection_invalidDatabaseName=La base de donnÃ©es spÃ©cifiÃ©e ({0}) n'existe pas.
 
-mDbConnection_missingValueDBName=Valeur requise manquante dans la propriété Nom de la base de données.
+mDbConnection_missingValueDBName=Valeur requise manquante dans la propriÃ©tÃ© Nom de la base de donnÃ©es.
 
-mDbConnection_noConnection=Aucune connexion établie pour préparer la requête.
+mDbConnection_noConnection=Aucune connexion Ã©tablie pour prÃ©parer la requÃªte.
 
-mDbDriver_missingValueServerHost=Valeur requise manquante dans la propriété Hôte du serveur.
+mDbDriver_missingValueServerHost=Valeur requise manquante dans la propriÃ©tÃ© HÃ´te du serveur.
 
-mDbDriver_nonDefinedDataType=Non défini
+mDbDriver_nonDefinedDataType=Non dÃ©fini
 
 mDbDriver_readPrefNearest=le plus proche
 
@@ -33,61 +33,61 @@ mDbDriver_readPrefSecondaryPreferred=secondaryPreferred
 mDbDSMetaData_dataSourceName=MongoDB Data Source
 mDbMetaData_invalidCollectionName=Nom de collection non valide : {0}
 
-mDbMetaData_missingCmdExprText=Expression manquante pour l'exécution de la commande {0}.
+mDbMetaData_missingCmdExprText=Expression manquante pour l'exÃ©cution de la commande {0}.
 
-mDbQuery_invalidQueryExecQuery=La requête est non valide et ne peut pas être exécutée.
+mDbQuery_invalidQueryExecQuery=La requÃªte est non valide et ne peut pas Ãªtre exÃ©cutÃ©e.
 
-mDbQuery_invalidQueryGetMD=La requête est non valide et ne peut pas préparer les métadonnées du jeu de résultats.
+mDbQuery_invalidQueryGetMD=La requÃªte est non valide et ne peut pas prÃ©parer les mÃ©tadonnÃ©es du jeu de rÃ©sultats.
 
 driverUtil_invalidExpr=Type d'expression inattendue : {0}.
 
 driverUtil_parsingError=Erreur dans l'analyse de l'expression JSON : {0}
 
-mDbOp_aggrCmdFailed=Impossible d'exécuter la commande Regrouper. \nVérifiez que la version du serveur MongoDB connecté correspond à la version 2.2 ou ultérieure.
+mDbOp_aggrCmdFailed=Impossible d'exÃ©cuter la commande Regrouper. \nVÃ©rifiez que la version du serveur MongoDB connectÃ© correspond Ã  la version 2.2 ou ultÃ©rieure.
 
-mDbOp_dbCmdFailed=Impossible d'exécuter la commande ({0})
+mDbOp_dbCmdFailed=Impossible d'exÃ©cuter la commande ({0})
 
-mDbOp_invalidQueryExpr=Expression de la requête non valide, impossible d'exécuter la requête.
+mDbOp_invalidQueryExpr=Expression de la requÃªte non valide, impossible d'exÃ©cuter la requÃªte.
 
-mDbOp_mapReduceCmdFailed=Impossible d'exécuter la commande RéduireCarte ({0})
+mDbOp_mapReduceCmdFailed=Impossible d'exÃ©cuter la commande RÃ©duireCarte ({0})
 
-mDbOp_noCmdResults=Aucun résultat de commande disponible.
+mDbOp_noCmdResults=Aucun rÃ©sultat de commande disponible.
 
-mDbResultSet_cannotConvertFieldData=Impossible de convertir la valeur de champ '{0}' ({1}) de type de données {2} en valeur {3}
+mDbResultSet_cannotConvertFieldData=Impossible de convertir la valeur de champ '{0}' ({1}) de type de donnÃ©es {2} en valeur {3}
 
 queryModel_emptyExprErrorMsg=<expression vide>
 
 queryModel_invalidCollectionName=Nom de collection non valide (${0}).
 
-queryModel_invalidDbCmdKeyValue=La commande de la base de données ({0}) est uniquement prise en charge par : \n    {1}
+queryModel_invalidDbCmdKeyValue=La commande de la base de donnÃ©es ({0}) est uniquement prise en charge par : \n    {1}
 
-queryModel_invalidModelToExec=Définition de requête non valide, impossible d'exécuter la requête.
+queryModel_invalidModelToExec=DÃ©finition de requÃªte non valide, impossible d'exÃ©cuter la requÃªte.
 
-queryModel_invalidModelToPrepare=Définition de requête non valide, impossible de préparer la requête.
+queryModel_invalidModelToPrepare=DÃ©finition de requÃªte non valide, impossible de prÃ©parer la requÃªte.
 
 queryModel_invalidPipelineOp=Pipeline non valide : {0}
 
-queryModel_invalidQuerySortExpr=Une expression de tri de requête doit spécifier une valeur positive ou négative pour l'ordre de tri : \n    {0}
+queryModel_invalidQuerySortExpr=Une expression de tri de requÃªte doit spÃ©cifier une valeur positive ou nÃ©gative pour l'ordre de tri : \n    {0}
 
-queryModel_invalidSortAggrValue=Une {0} pipeline doit spécifier une valeur de 1 ou de -1 dans la clé de tri : \n    {1}
+queryModel_invalidSortAggrValue=Une {0} pipeline doit spÃ©cifier une valeur de 1 ou de -1 dans la clÃ© de tri : \n    {1}
 
-queryModel_missingCollectionName=Aucune collection MongoDB n'est définie dans la requête de jeu de données.
+queryModel_missingCollectionName=Aucune collection MongoDB n'est dÃ©finie dans la requÃªte de jeu de donnÃ©es.
 
-queryModel_missingGroupAggrKey=Une {0} pipeline doit spécifier un champ {1} : \n    {2}
+queryModel_missingGroupAggrKey=Une {0} pipeline doit spÃ©cifier un champ {1} : \n    {2}
 
 queryModel_missingMapReduceKey=L'expression de la commande ne contient pas la valeur requise : {0}
 
-queryModel_missingMapReduceValue=La clé de l'expression de la commande nécessite {0} une valeur.
+queryModel_missingMapReduceValue=La clÃ© de l'expression de la commande nÃ©cessite {0} une valeur.
 
-queryModel_missingQueryProps=Aucune requête n'est définie dans le jeu de données.
+queryModel_missingQueryProps=Aucune requÃªte n'est dÃ©finie dans le jeu de donnÃ©es.
 
-queryModel_nonSupportedDbCmd=Le type de commande de la base de données n'est pas pris en charge : \n    {0}
+queryModel_nonSupportedDbCmd=Le type de commande de la base de donnÃ©es n'est pas pris en charge : \n    {0}
 
-queryProperties_aggrCmdName=Agrégat
+queryProperties_aggrCmdName=AgrÃ©gat
 
-queryProperties_dbCmdName=Exécuter la commande de la base de données
+queryProperties_dbCmdName=ExÃ©cuter la commande de la base de donnÃ©es
 
-queryProperties_errDeSerializeDBObject=Impossible de désérialiser l'expression MongoDB : {0}
+queryProperties_errDeSerializeDBObject=Impossible de dÃ©sÃ©rialiser l'expression MongoDB : {0}
 
 queryProperties_mapReduceCmdName=MapReduce
 resultDataHandler_invalidFieldName=Nom de champ incorrect : {0}

@@ -1,16 +1,16 @@
 cheatsheet.category=Business Intelligence and Reporting Tools
-cheatsheet.simplelisting=°£´ÜÇÑ ¸ñ·Ï º¸°í¼­
+cheatsheet.simplelisting=ê°„ë‹¨í•œ ëª©ë¡ ë³´ê³ ì„œ
 
-cheatsheet.groupedlisting=±×·ìÈ­ÇÑ ¸ñ·Ï º¸°í¼­
+cheatsheet.groupedlisting=ê·¸ë£¹í™”í•œ ëª©ë¡ ë³´ê³ ì„œ
 
-cheatsheet.dualcolumnlisting=ÀÌÁß ¿­ ¸ñ·Ï º¸°í¼­
+cheatsheet.dualcolumnlisting=ì´ì¤‘ ì—´ ëª©ë¡ ë³´ê³ ì„œ
 
-cheatsheet.chartlisting=Â÷Æ® ¹× ¸ñ·Ï º¸°í¼­
+cheatsheet.chartlisting=ì°¨íŠ¸ ë° ëª©ë¡ ë³´ê³ ì„œ
 
-cheatsheet.sidebysidechartlisting=¿¬¼Ó Â÷Æ® ¸ñ·Ï º¸°í¼­
+cheatsheet.sidebysidechartlisting=ì—°ì† ì°¨íŠ¸ ëª©ë¡ ë³´ê³ ì„œ
 
-cheatsheet.dualcolumnchartlisting=ÀÌÁß ¿­ Â÷Æ® ¸ñ·Ï º¸°í¼­
+cheatsheet.dualcolumnchartlisting=ì´ì¤‘ ì—´ ì°¨íŠ¸ ëª©ë¡ ë³´ê³ ì„œ
 
-cheatsheet.firstreport=³» Ã¹ ¹øÂ° º¸°í¼­
+cheatsheet.firstreport=ë‚´ ì²« ë²ˆì§¸ ë³´ê³ ì„œ
 
-cheatsheet.crosstab=Å©·Î½º ÅÇ º¸°í¼­
+cheatsheet.crosstab=í¬ë¡œìŠ¤ íƒ­ ë³´ê³ ì„œ

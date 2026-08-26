@@ -1,293 +1,293 @@
 ###########################################################
 #Primitive Charts
-SideBySideBar=²¢ÁĞÌõĞÎÍ¼ÏÔÊ¾Ïà»¥½ô¿¿µÄÏµÁĞÖĞµÄÌõĞÎ¡£ÕâĞ©ÌõĞÎ¾­¹ıÅÅÁĞºó£¬¾ù¾ßÓĞÏàÍ¬µÄ¿í¶È¡£ÕâĞ©ÌõĞÎµÄ¿í¶ÈÈ¡¾öÓÚ»æÖÆµÄÏµÁĞÊı¡£
+SideBySideBar=å¹¶åˆ—æ¡å½¢å›¾æ˜¾ç¤ºç›¸äº’ç´§é çš„ç³»åˆ—ä¸­çš„æ¡å½¢ã€‚è¿™äº›æ¡å½¢ç»è¿‡æ’åˆ—åï¼Œå‡å…·æœ‰ç›¸åŒçš„å®½åº¦ã€‚è¿™äº›æ¡å½¢çš„å®½åº¦å–å†³äºç»˜åˆ¶çš„ç³»åˆ—æ•°ã€‚
 
-StackedBar=¶Ñ»ıÌõĞÎÍ¼ÏÔÊ¾´¹Ö±¶ÑµşµÄÌõĞÎ¡£ÕıÖµºÍ¸ºÖµ·Ö±ğ¶ÑµşÔÚÔ­µãµÄÉÏ·½ºÍÏÂ·½¡£
+StackedBar=å †ç§¯æ¡å½¢å›¾æ˜¾ç¤ºå‚ç›´å †å çš„æ¡å½¢ã€‚æ­£å€¼å’Œè´Ÿå€¼åˆ†åˆ«å †å åœ¨åŸç‚¹çš„ä¸Šæ–¹å’Œä¸‹æ–¹ã€‚
 
-PercentStackedBar=¶Ñ»ı°Ù·Ö±ÈÌõĞÎÍ¼ÏÔÊ¾´¹Ö±¶ÑµşµÄÌõĞÎ£¬¶ÑµşµÄÌõĞÎµÄ×Ü¸ß¶È(´ÓÆä×îµÍµãµ½×î¸ßµã)Îª 100¡£
+PercentStackedBar=å †ç§¯ç™¾åˆ†æ¯”æ¡å½¢å›¾æ˜¾ç¤ºå‚ç›´å †å çš„æ¡å½¢ï¼Œå †å çš„æ¡å½¢çš„æ€»é«˜åº¦(ä»å…¶æœ€ä½ç‚¹åˆ°æœ€é«˜ç‚¹)ä¸º 100ã€‚
 
-OverlayLine=µş¼ÓÕÛÏßÍ¼ÏÔÊ¾Ã¿¸öÏµÁĞ¶ÀÁ¢ÓÚÆäËüÏµÁĞµÄÕÛÏß¡£ÕâĞ©ÕÛÏßÔÚÏÔÊ¾Ê±Á¬½ÓÏµÁĞµÄÖµ¡£
+OverlayLine=å åŠ æŠ˜çº¿å›¾æ˜¾ç¤ºæ¯ä¸ªç³»åˆ—ç‹¬ç«‹äºå…¶å®ƒç³»åˆ—çš„æŠ˜çº¿ã€‚è¿™äº›æŠ˜çº¿åœ¨æ˜¾ç¤ºæ—¶è¿æ¥ç³»åˆ—çš„å€¼ã€‚
 
-StackedLine=¶Ñ»ıÕÛÏßÍ¼ÏÔÊ¾´¹Ö±¶ÑµşµÄÕÛÏß¡£ÕıÖµºÍ¸ºÖµ·Ö±ğ¶ÑµşÔÚÔ­µãµÄÉÏ·½ºÍÏÂ·½¡£
+StackedLine=å †ç§¯æŠ˜çº¿å›¾æ˜¾ç¤ºå‚ç›´å †å çš„æŠ˜çº¿ã€‚æ­£å€¼å’Œè´Ÿå€¼åˆ†åˆ«å †å åœ¨åŸç‚¹çš„ä¸Šæ–¹å’Œä¸‹æ–¹ã€‚
 
-PercentStackedLine=¶Ñ»ı°Ù·Ö±ÈÕÛÏßÍ¼ÏÔÊ¾´¹Ö±¶ÑµşµÄÕÛÏß£¬¶ÑµşµÄÕÛÏßµÄ×Ü¸ß¶È(Ã¿¸öµ¥ÔªÖĞ´Ó×îµÍµãµ½×î¸ßµã)Îª 100¡£
+PercentStackedLine=å †ç§¯ç™¾åˆ†æ¯”æŠ˜çº¿å›¾æ˜¾ç¤ºå‚ç›´å †å çš„æŠ˜çº¿ï¼Œå †å çš„æŠ˜çº¿çš„æ€»é«˜åº¦(æ¯ä¸ªå•å…ƒä¸­ä»æœ€ä½ç‚¹åˆ°æœ€é«˜ç‚¹)ä¸º 100ã€‚
 
-OverlayArea=¸²¸ÇĞÍÃæ»ıÍ¼ÏÔÊ¾Ã¿¸öÏµÁĞ¶ÀÁ¢ÓÚÆäËüÏµÁĞµÄÇøÓò¡£ÕâĞ©ÇøÓòÔÚÏÔÊ¾Ê±Á¬½ÓÏµÁĞµÄÖµ¡£
+OverlayArea=è¦†ç›–å‹é¢ç§¯å›¾æ˜¾ç¤ºæ¯ä¸ªç³»åˆ—ç‹¬ç«‹äºå…¶å®ƒç³»åˆ—çš„åŒºåŸŸã€‚è¿™äº›åŒºåŸŸåœ¨æ˜¾ç¤ºæ—¶è¿æ¥ç³»åˆ—çš„å€¼ã€‚
 
-StackedArea=¶Ñ»ıÃæ»ıÍ¼ÏÔÊ¾´¹Ö±¶ÑµşµÄÇøÓò¡£ÕıÖµºÍ¸ºÖµ·Ö±ğ¶ÑµşÔÚÔ­µãµÄÉÏ·½ºÍÏÂ·½¡£
+StackedArea=å †ç§¯é¢ç§¯å›¾æ˜¾ç¤ºå‚ç›´å †å çš„åŒºåŸŸã€‚æ­£å€¼å’Œè´Ÿå€¼åˆ†åˆ«å †å åœ¨åŸç‚¹çš„ä¸Šæ–¹å’Œä¸‹æ–¹ã€‚
 
-PercentStackedArea=¶Ñ»ı°Ù·Ö±ÈÃæ»ıÍ¼ÏÔÊ¾´¹Ö±¶ÑµşµÄÇøÓò£¬¶ÑµşµÄÇøÓòµÄ×Ü¸ß¶È(Ã¿¸öµ¥ÔªÖĞ´Ó×îµÍµãµ½×î¸ßµã)Îª 100¡£
+PercentStackedArea=å †ç§¯ç™¾åˆ†æ¯”é¢ç§¯å›¾æ˜¾ç¤ºå‚ç›´å †å çš„åŒºåŸŸï¼Œå †å çš„åŒºåŸŸçš„æ€»é«˜åº¦(æ¯ä¸ªå•å…ƒä¸­ä»æœ€ä½ç‚¹åˆ°æœ€é«˜ç‚¹)ä¸º 100ã€‚
 
-Pie=±ıÍ¼½«ÖµÏÔÊ¾Îª¶à¸öÉÈÃæ¡£Ã¿¸öÉÈÃæµÄ´óĞ¡ÓëÆäËù±íÊ¾µÄÖµ³É±ÈÀı¶ÔÓ¦¡£¶à¸öÏµÁĞµÄ±ıÍ¼½«±»»æÖÆ³É¶à¸ö±ıÍ¼£¬Ã¿¸ö±ıÍ¼´ú±íÒ»¸öÏµÁĞ¡£
+Pie=é¥¼å›¾å°†å€¼æ˜¾ç¤ºä¸ºå¤šä¸ªæ‰‡é¢ã€‚æ¯ä¸ªæ‰‡é¢çš„å¤§å°ä¸å…¶æ‰€è¡¨ç¤ºçš„å€¼æˆæ¯”ä¾‹å¯¹åº”ã€‚å¤šä¸ªç³»åˆ—çš„é¥¼å›¾å°†è¢«ç»˜åˆ¶æˆå¤šä¸ªé¥¼å›¾ï¼Œæ¯ä¸ªé¥¼å›¾ä»£è¡¨ä¸€ä¸ªç³»åˆ—ã€‚
 
-StandardMeter=±ê×¼ÒÇ±íÍ¼°üº¬¾ßÓĞÇøÓòµÄµ¥¸ö¿Ì¶ÈÅÌ¡£¿Ì¶ÈÅÌµÄ±³¾°¿É·Ö³É¾ßÓĞ²»Í¬ÑÕÉ«µÄÇøÓò¡£
+StandardMeter=æ ‡å‡†ä»ªè¡¨å›¾åŒ…å«å…·æœ‰åŒºåŸŸçš„å•ä¸ªåˆ»åº¦ç›˜ã€‚åˆ»åº¦ç›˜çš„èƒŒæ™¯å¯åˆ†æˆå…·æœ‰ä¸åŒé¢œè‰²çš„åŒºåŸŸã€‚
 
-SuperImposedMeter=³¬¼¶Æ´°æÒÇ±íÍ¼°üº¬¾ßÓĞÏàÍ¬ÇøÓòµÄ¶à¸ö¿Ì¶ÈÅÌ¡£ÕâĞ©¿Ì¶ÈÅÌÖØµşÔÚÒ»Æğ£¬ÒÔ±ã¿ÉÒÔ±íÊ¾µ¥¸öÇøÓòÄÚµÄ¶à¸öÖ¸Õë¡£
+SuperImposedMeter=è¶…çº§æ‹¼ç‰ˆä»ªè¡¨å›¾åŒ…å«å…·æœ‰ç›¸åŒåŒºåŸŸçš„å¤šä¸ªåˆ»åº¦ç›˜ã€‚è¿™äº›åˆ»åº¦ç›˜é‡å åœ¨ä¸€èµ·ï¼Œä»¥ä¾¿å¯ä»¥è¡¨ç¤ºå•ä¸ªåŒºåŸŸå†…çš„å¤šä¸ªæŒ‡é’ˆã€‚
 
-Scatter=É¢µãÍ¼Ê¹ÓÃÀà±ğºÍÖµÊı¾İ×÷Îª×ø±ê£¬ÒÔÔÚÍ¼ĞÎÉÏÏÔÊ¾¾­¹ıÅÅÁĞµÄÖµ¡£Ã¿¸öÊı¾İÖµÓÉÒ»¸ö±ê¼Ç±íÊ¾¡£
+Scatter=æ•£ç‚¹å›¾ä½¿ç”¨ç±»åˆ«å’Œå€¼æ•°æ®ä½œä¸ºåæ ‡ï¼Œä»¥åœ¨å›¾å½¢ä¸Šæ˜¾ç¤ºç»è¿‡æ’åˆ—çš„å€¼ã€‚æ¯ä¸ªæ•°æ®å€¼ç”±ä¸€ä¸ªæ ‡è®°è¡¨ç¤ºã€‚
 
-BarStickStock=ÌõĞÎ¹ÉÆ±Í¼°üº¬Ò»Ìõ´¹Ö±ÏßºÍÁ½ÌõË®Æ½Ïß¡£ ´¹Ö±ÏßµÄÉÏÏÂÁ½¸ö¶Ëµã±íÊ¾¹ÉÆ±×î¸ß¼ÛºÍ×îµÍ¼Û¡£ Á½ÌõË®Æ½Ïß±íÊ¾±íÊ¾¿ªÅÌ¼ÛºÍÊÕÅÌ¼Û¡£
+BarStickStock=æ¡å½¢è‚¡ç¥¨å›¾åŒ…å«ä¸€æ¡å‚ç›´çº¿å’Œä¸¤æ¡æ°´å¹³çº¿ã€‚ å‚ç›´çº¿çš„ä¸Šä¸‹ä¸¤ä¸ªç«¯ç‚¹è¡¨ç¤ºè‚¡ç¥¨æœ€é«˜ä»·å’Œæœ€ä½ä»·ã€‚ ä¸¤æ¡æ°´å¹³çº¿è¡¨ç¤ºè¡¨ç¤ºå¼€ç›˜ä»·å’Œæ”¶ç›˜ä»·ã€‚
 
-CandleStickStock=ÖòĞÎ¹ÉÆ±Í¼°üº¬Ò»¸ö·½¿òÒÔ¼°´Ó¶ËµãÏòÉÏÏÂÉìÕ¹µÄÏß¶Î¡£·½¿òµÄÉÏ±ßºÍÏÂ±ß±íÊ¾¿ªÅÌ¼ÛºÍÊÕÅÌ¼Û¡£Ïß¶ÎµÄÉÏ¶ËµãºÍÏÂ¶Ëµã±íÊ¾×î¸ß¼ÛºÍ×îµÍ¼Û¡£
+CandleStickStock=çƒ›å½¢è‚¡ç¥¨å›¾åŒ…å«ä¸€ä¸ªæ–¹æ¡†ä»¥åŠä»ç«¯ç‚¹å‘ä¸Šä¸‹ä¼¸å±•çš„çº¿æ®µã€‚æ–¹æ¡†çš„ä¸Šè¾¹å’Œä¸‹è¾¹è¡¨ç¤ºå¼€ç›˜ä»·å’Œæ”¶ç›˜ä»·ã€‚çº¿æ®µçš„ä¸Šç«¯ç‚¹å’Œä¸‹ç«¯ç‚¹è¡¨ç¤ºæœ€é«˜ä»·å’Œæœ€ä½ä»·ã€‚
 
-Bubble=ÆøÅİÍ¼ÊÇÉ¢µãÍ¼µÄÀ©Õ¹£¬½«µãÏÔÊ¾ÎªÆøÅİ¡£ÆøÅİÖ±¾¶Óë X ºÍ Y ×ø±êÍâµÄµÚÈı¸öÊı¾İÖµ³É±ÈÀı¶ÔÓ¦¡£
+Bubble=æ°”æ³¡å›¾æ˜¯æ•£ç‚¹å›¾çš„æ‰©å±•ï¼Œå°†ç‚¹æ˜¾ç¤ºä¸ºæ°”æ³¡ã€‚æ°”æ³¡ç›´å¾„ä¸ X å’Œ Y åæ ‡å¤–çš„ç¬¬ä¸‰ä¸ªæ•°æ®å€¼æˆæ¯”ä¾‹å¯¹åº”ã€‚
 
-Difference=²îÒìÍ¼ÏÔÊ¾Á½ÌõÊıÖµÏßÖ®¼äµÄÇøÓò¡£ËüÃÇ¼Ì³ĞËùÓĞÇøÓòÏµÁĞÊôĞÔ£¬Ò²¿ÉÒÔÊ¹ÓÃ²»Í¬ÑÕÉ«ÏÔÊ¾¸ºÖµÇøÓò¡£
+Difference=å·®å¼‚å›¾æ˜¾ç¤ºä¸¤æ¡æ•°å€¼çº¿ä¹‹é—´çš„åŒºåŸŸã€‚å®ƒä»¬ç»§æ‰¿æ‰€æœ‰åŒºåŸŸç³»åˆ—å±æ€§ï¼Œä¹Ÿå¯ä»¥ä½¿ç”¨ä¸åŒé¢œè‰²æ˜¾ç¤ºè´Ÿå€¼åŒºåŸŸã€‚
 
-Gantt=¸ÊÌØÍ¼ÓÃÓÚ¸ú×ÙÈÎÎñµÄ³ÖĞøÊ±¼äºÍ½ø¶È¡£ËüÃÇÍ¨¹ıÈÕÆÚÊ±¼ä Y Öá±íÊ¾£¬Ê¹ÓÃ×Ô¶¨Òå¿í¶ÈµÄÌõĞÎ£¬²¢°üº¬¿ÉÑ¡µÄ¿ªÊ¼/½áÊø±ê¼Ç¡£Ã¿¸öÌõĞÎ°´ÆäÀà±ğ¡¢¿ªÊ¼Ê±¼äºÍ½áÊøÊ±¼ä½øĞĞ¶¨Òå¡£¿ÉÒÔ¸²¸ÇÈô¸É¸ö¿í¶È²»Í¬µÄ¸ÊÌØÍ¼ÏµÁĞÀ´¸ú×ÙÒÑ¼Æ»®ÈÎÎñµÄÊµ¼Ê½ø¶È¡£
+Gantt=ç”˜ç‰¹å›¾ç”¨äºè·Ÿè¸ªä»»åŠ¡çš„æŒç»­æ—¶é—´å’Œè¿›åº¦ã€‚å®ƒä»¬é€šè¿‡æ—¥æœŸæ—¶é—´ Y è½´è¡¨ç¤ºï¼Œä½¿ç”¨è‡ªå®šä¹‰å®½åº¦çš„æ¡å½¢ï¼Œå¹¶åŒ…å«å¯é€‰çš„å¼€å§‹/ç»“æŸæ ‡è®°ã€‚æ¯ä¸ªæ¡å½¢æŒ‰å…¶ç±»åˆ«ã€å¼€å§‹æ—¶é—´å’Œç»“æŸæ—¶é—´è¿›è¡Œå®šä¹‰ã€‚å¯ä»¥è¦†ç›–è‹¥å¹²ä¸ªå®½åº¦ä¸åŒçš„ç”˜ç‰¹å›¾ç³»åˆ—æ¥è·Ÿè¸ªå·²è®¡åˆ’ä»»åŠ¡çš„å®é™…è¿›åº¦ã€‚
 
-Tube=¹ÜĞÎÍ¼ÓëÌõĞÎÍ¼ÀàËÆ£¬ÆäÌõĞÎÓÃ¹ÜĞÎ±íÊ¾¡£
+Tube=ç®¡å½¢å›¾ä¸æ¡å½¢å›¾ç±»ä¼¼ï¼Œå…¶æ¡å½¢ç”¨ç®¡å½¢è¡¨ç¤ºã€‚
 
-Cone=×¶ĞÎÍ¼ÓëÌõĞÎÍ¼ÀàËÆ£¬ÆäÌõĞÎÓÃ×¶ĞÎ±íÊ¾¡£
+Cone=é”¥å½¢å›¾ä¸æ¡å½¢å›¾ç±»ä¼¼ï¼Œå…¶æ¡å½¢ç”¨é”¥å½¢è¡¨ç¤ºã€‚
 
-Pyramid=Àâ×¶Í¼ÓëÌõĞÎÍ¼ÀàËÆ£¬ÆäÌõĞÎÓÃÀâ×¶±íÊ¾¡£
+Pyramid=æ£±é”¥å›¾ä¸æ¡å½¢å›¾ç±»ä¼¼ï¼Œå…¶æ¡å½¢ç”¨æ£±é”¥è¡¨ç¤ºã€‚
 
-Radar=±ê×¼À×´ïÍ¼°üº¬ÓÉÒ»¸ö»ò¶à¸öÏµÁĞ¶à±ßĞÎ/Ïß¶Î¸²¸ÇµÄÔ²ĞÎÍø¸ñ¡£
+Radar=æ ‡å‡†é›·è¾¾å›¾åŒ…å«ç”±ä¸€ä¸ªæˆ–å¤šä¸ªç³»åˆ—å¤šè¾¹å½¢/çº¿æ®µè¦†ç›–çš„åœ†å½¢ç½‘æ ¼ã€‚
 
 ###########################################################
 #3D Charts
-Bar=3 Î¬²¢ÁĞÌõĞÎÍ¼¡£
+Bar=3 ç»´å¹¶åˆ—æ¡å½¢å›¾ã€‚
 
-Line=3 Î¬µş¼ÓÕÛÏßÍ¼¡£
+Line=3 ç»´å åŠ æŠ˜çº¿å›¾ã€‚
 
-Area=3 Î¬¸²¸ÇĞÍÃæ»ıÍ¼¡£
+Area=3 ç»´è¦†ç›–å‹é¢ç§¯å›¾ã€‚
 
-Tube3D=3 Î¬²¢ÁĞ¹ÜĞÎÍ¼¡£
+Tube3D=3 ç»´å¹¶åˆ—ç®¡å½¢å›¾ã€‚
 
-Cone3D=3 Î¬²¢ÁĞ×¶ĞÎÍ¼¡£
+Cone3D=3 ç»´å¹¶åˆ—é”¥å½¢å›¾ã€‚
 
-Pyramid3D=3 Î¬²¢ÁĞÀâ×¶Í¼¡£
+Pyramid3D=3 ç»´å¹¶åˆ—æ£±é”¥å›¾ã€‚
 
 ###########################################################
 #Combination Charts
-BarAndLine=ÌõĞÎºÍÕÛÏß×éºÏÍ¼°üº¬ 2 ¸öÏµÁĞ¡£ËüÃÇ¹²ÏíÏàÍ¬Àà±ğÖµ¡£
+BarAndLine=æ¡å½¢å’ŒæŠ˜çº¿ç»„åˆå›¾åŒ…å« 2 ä¸ªç³»åˆ—ã€‚å®ƒä»¬å…±äº«ç›¸åŒç±»åˆ«å€¼ã€‚
 
 
 ###########################################################
 #Formatted Charts
-AxisLabelFormat=Ö¸¶¨Öá±êÇ©µÄ¸ñÊ½: Y Öá($###,###) ºÍ X Öá(MM/dd/yyyy)¡£ÁíÍâ£¬ÓÃ»§¿ÉÒÔÉèÖÃ±êÇ©ÑÕÉ«¡¢×ÖÌå¡¢±ß¿òºÍÆäËüÊôĞÔ¡£
+AxisLabelFormat=æŒ‡å®šè½´æ ‡ç­¾çš„æ ¼å¼: Y è½´($###,###) å’Œ X è½´(MM/dd/yyyy)ã€‚å¦å¤–ï¼Œç”¨æˆ·å¯ä»¥è®¾ç½®æ ‡ç­¾é¢œè‰²ã€å­—ä½“ã€è¾¹æ¡†å’Œå…¶å®ƒå±æ€§ã€‚
 
-AxisTitleFormat=ËùÓĞ±êÇ©ÊôĞÔ¾ù¿ÉÓ¦ÓÃÓÚÖá±êÌâ¡£
+AxisTitleFormat=æ‰€æœ‰æ ‡ç­¾å±æ€§å‡å¯åº”ç”¨äºè½´æ ‡é¢˜ã€‚
 
-ColoredByCategorySeries=Í¼ÀıÏîÀàĞÍÉèÖÃÎªÀà±ğ¡£
+ColoredByCategorySeries=å›¾ä¾‹é¡¹ç±»å‹è®¾ç½®ä¸ºç±»åˆ«ã€‚
 
-OpenJavaSourceAction.Text.Description=´ÓÏà¹ØÄ¿Â¼ÖĞ´ò¿ª Java Ô´
+OpenJavaSourceAction.Text.Description=ä»ç›¸å…³ç›®å½•ä¸­æ‰“å¼€ Java æº
 
-OpenJavaSourceAction.Text.ToolTip=´ò¿ª Java Ô´
+OpenJavaSourceAction.Text.ToolTip=æ‰“å¼€ Java æº
 
-SaveXMLAction.MessageBox.Message=XML Ô´ÒÑ´æÔÚÓÚÄ¿Â¼ÖĞ¡£\nÊÇ·ñÒªÌæ»»?
+SaveXMLAction.MessageBox.Message=XML æºå·²å­˜åœ¨äºç›®å½•ä¸­ã€‚\næ˜¯å¦è¦æ›¿æ¢?
 
-SaveXMLAction.MessageBox.Text=±£´æ XML Ô´
+SaveXMLAction.MessageBox.Text=ä¿å­˜ XML æº
 
-SaveXMLAction.Text.Description=½« XML Ô´±£´æµ½Ö¸¶¨µÄÄ¿Â¼
+SaveXMLAction.Text.Description=å°† XML æºä¿å­˜åˆ°æŒ‡å®šçš„ç›®å½•
 
-SaveXMLAction.Text.ToolTip=±£´æ XML Ô´
+SaveXMLAction.Text.ToolTip=ä¿å­˜ XML æº
 
-ColoredByValueSeries=Í¼ÀıÏîÀàĞÍÉèÖÃÎªÏµÁĞ¡£
+ColoredByValueSeries=å›¾ä¾‹é¡¹ç±»å‹è®¾ç½®ä¸ºç³»åˆ—ã€‚
 
-CurveFittingArea=ÆôÓÃÇøÓòÏµÁĞµÄÇúÏßÄâºÏÊôĞÔ¡£
+CurveFittingArea=å¯ç”¨åŒºåŸŸç³»åˆ—çš„æ›²çº¿æ‹Ÿåˆå±æ€§ã€‚
 
-CurveFittingBar=ÎªÌõĞÎÏµÁĞ´´½¨ÇúÏßÄâºÏÏß¡£
+CurveFittingBar=ä¸ºæ¡å½¢ç³»åˆ—åˆ›å»ºæ›²çº¿æ‹Ÿåˆçº¿ã€‚
 
-CurveFittingLine=ÆôÓÃÏßÌõÏµÁĞµÄÇúÏßÄâºÏÊôĞÔ¡£
+CurveFittingLine=å¯ç”¨çº¿æ¡ç³»åˆ—çš„æ›²çº¿æ‹Ÿåˆå±æ€§ã€‚
 
-CurveFittingStock=Îª¹ÉÆ±ÏµÁĞ´´½¨ÇúÏßÄâºÏÏß¡£
+CurveFittingStock=ä¸ºè‚¡ç¥¨ç³»åˆ—åˆ›å»ºæ›²çº¿æ‹Ÿåˆçº¿ã€‚
 
-LegendFormat=Í¼Àı¿É·ÅÔÚ×ó²à¡¢ÓÒ²à¡¢¶¥²¿¡¢µ×²¿ºÍÄÚ²¿¡£¿Í»§ÇøÓòÎ»ÓÚÍ¼ÀıÄÚ¡£Ëü°üº¬Í¼ÀıÏî¡£
+LegendFormat=å›¾ä¾‹å¯æ”¾åœ¨å·¦ä¾§ã€å³ä¾§ã€é¡¶éƒ¨ã€åº•éƒ¨å’Œå†…éƒ¨ã€‚å®¢æˆ·åŒºåŸŸä½äºå›¾ä¾‹å†…ã€‚å®ƒåŒ…å«å›¾ä¾‹é¡¹ã€‚
 
-MarkerLine=¿ÉÎª X ÖáºÍ Y Öá´´½¨±ê¼ÇÏß(½öÏŞÓÚ ChartWithAxes ÀàĞÍ)¡£
+MarkerLine=å¯ä¸º X è½´å’Œ Y è½´åˆ›å»ºæ ‡è®°çº¿(ä»…é™äº ChartWithAxes ç±»å‹)ã€‚
 
-MarkerRange=¿ÉÎª X ÖáºÍ Y Öá´´½¨±ê¼Ç·¶Î§(½öÏŞÓÚ ChartWithAxes ÀàĞÍ)¡£
+MarkerRange=å¯ä¸º X è½´å’Œ Y è½´åˆ›å»ºæ ‡è®°èŒƒå›´(ä»…é™äº ChartWithAxes ç±»å‹)ã€‚
 
-MultiplePie=µ¥¸ö±ıÍ¼°üº¬¶à¸ö±ıÍ¼ÏµÁĞ¡£ËüÃÇ¿ÉÒÔ¹¹³ÉÒ»¸ö±ıÍ¼×éÒÔÏÔÊ¾Öµ±È½Ï¡£
+MultiplePie=å•ä¸ªé¥¼å›¾åŒ…å«å¤šä¸ªé¥¼å›¾ç³»åˆ—ã€‚å®ƒä»¬å¯ä»¥æ„æˆä¸€ä¸ªé¥¼å›¾ç»„ä»¥æ˜¾ç¤ºå€¼æ¯”è¾ƒã€‚
 
-MDialSRegionMeter=µ¥¸ö¿Ì¶ÈÅÌÉÏ¶à¸öÖ¸Õë¡£
+MDialSRegionMeter=å•ä¸ªåˆ»åº¦ç›˜ä¸Šå¤šä¸ªæŒ‡é’ˆã€‚
 
-SDialSRegionMeter=µ¥¸ö¿Ì¶ÈÅÌÉÏÒ»¸öÖ¸Õë¡£
+SDialSRegionMeter=å•ä¸ªåˆ»åº¦ç›˜ä¸Šä¸€ä¸ªæŒ‡é’ˆã€‚
 
-PercentageValueFormat=ÏµÁĞÖµÏÔÊ¾Îª°Ù·Ö±ÈÊı×Ö¡£
+PercentageValueFormat=ç³»åˆ—å€¼æ˜¾ç¤ºä¸ºç™¾åˆ†æ¯”æ•°å­—ã€‚
 
-PlotFormat=Ö¸¶¨»æÍ¼ÇøÓòºÍ¿Í»§ÇøÓòµÄÍâ¹Û¡£
+PlotFormat=æŒ‡å®šç»˜å›¾åŒºåŸŸå’Œå®¢æˆ·åŒºåŸŸçš„å¤–è§‚ã€‚
 
-SeriesValueFormat=Ö¸¶¨ÖµÊı¾İ($###,###.00)ºÍ X Öá±êÇ©(MM/dd/yyyy)µÄ¸ñÊ½¡£
+SeriesValueFormat=æŒ‡å®šå€¼æ•°æ®($###,###.00)å’Œ X è½´æ ‡ç­¾(MM/dd/yyyy)çš„æ ¼å¼ã€‚
 
 ###########################################################
 #Scripted Charts
-AxisLabelScript=beforeDrawAxisLabel() ÔÊĞíÓÃ»§²Ù×÷ÖáºÍ±êÇ©(Axis.getLabel())ÊôĞÔ¡£
+AxisLabelScript=beforeDrawAxisLabel() å…è®¸ç”¨æˆ·æ“ä½œè½´å’Œæ ‡ç­¾(Axis.getLabel())å±æ€§ã€‚
 
-AxisTitleScript=beforeDrawAxisTitle() ÔÊĞíÓÃ»§²Ù×÷ÖáºÍ±êÇ©(Axis.getTitle())ÊôĞÔ
+AxisTitleScript=beforeDrawAxisTitle() å…è®¸ç”¨æˆ·æ“ä½œè½´å’Œæ ‡ç­¾(Axis.getTitle())å±æ€§
 
-BlockScript=beforeDrawBlock()ÔÊĞíÓÃ»§²Ù×÷¿é(ÀıÈçÍ¼ĞÎ¡¢±êÌâ¡¢Í¼Àı)ÊôĞÔ¡£
+BlockScript=beforeDrawBlock()å…è®¸ç”¨æˆ·æ“ä½œå—(ä¾‹å¦‚å›¾å½¢ã€æ ‡é¢˜ã€å›¾ä¾‹)å±æ€§ã€‚
 
-CurveFittingScript=beforeDrawFittingCurve()ÔÊĞíÓÃ»§²Ù×÷ÇúÏßÄâºÏÊôĞÔ¡£
+CurveFittingScript=beforeDrawFittingCurve()å…è®¸ç”¨æˆ·æ“ä½œæ›²çº¿æ‹Ÿåˆå±æ€§ã€‚
 
-DataPointLabelScript=beforeDrawDataPointLabel()ÔÊĞíÓÃ»§²Ù×÷Êı¾İµãÌáÊ¾ºÍ±êÇ©ÊôĞÔ¡£
+DataPointLabelScript=beforeDrawDataPointLabel()å…è®¸ç”¨æˆ·æ“ä½œæ•°æ®ç‚¹æç¤ºå’Œæ ‡ç­¾å±æ€§ã€‚
 
-LegendScript=beforeDrawLegendItem() ÔÊĞíÓÃ»§²Ù×÷Í¼ÀıÏîºÍ±ß½çÊôĞÔ¡£
+LegendScript=beforeDrawLegendItem() å…è®¸ç”¨æˆ·æ“ä½œå›¾ä¾‹é¡¹å’Œè¾¹ç•Œå±æ€§ã€‚
 
-MarkerLineScript=beforeDrawMarkerLine()ÔÊĞíÓÃ»§²Ù×÷ÖáºÍ±ê¼ÇÏßÊôĞÔ¡£
+MarkerLineScript=beforeDrawMarkerLine()å…è®¸ç”¨æˆ·æ“ä½œè½´å’Œæ ‡è®°çº¿å±æ€§ã€‚
 
-MarkerRangeScript=beforeDrawMarkerRange()ÔÊĞíÓÃ»§²Ù×÷ÖáºÍ±ê¼Ç·¶Î§ÊôĞÔ¡£
+MarkerRangeScript=beforeDrawMarkerRange()å…è®¸ç”¨æˆ·æ“ä½œè½´å’Œæ ‡è®°èŒƒå›´å±æ€§ã€‚
 
-SeriesScript=beforeDrawSeries()ÔÊĞíÓÃ»§²Ù×÷ÏµÁĞºÍÏµÁĞ³ÊÏÖÆ÷(BaseRenderer »ò AxesRenderer)ÊôĞÔ¡£
+SeriesScript=beforeDrawSeries()å…è®¸ç”¨æˆ·æ“ä½œç³»åˆ—å’Œç³»åˆ—å‘ˆç°å™¨(BaseRenderer æˆ– AxesRenderer)å±æ€§ã€‚
 
-SeriesTitleScript=beforeDrawSeriesTitle()ÔÊĞíÓÃ»§²Ù×÷ÏµÁĞºÍ±êÇ©(Series.getTitle())ÊôĞÔ¡£½öÊÊÓÃÓÚ±ıÍ¼¡£
+SeriesTitleScript=beforeDrawSeriesTitle()å…è®¸ç”¨æˆ·æ“ä½œç³»åˆ—å’Œæ ‡ç­¾(Series.getTitle())å±æ€§ã€‚ä»…é€‚ç”¨äºé¥¼å›¾ã€‚
 
 ###########################################################
 #Data Operations
-MinSlice=ÓÃ»§ÄÜ¹»ÎªÉÈÃæÖ¸¶¨×îĞ¡Öµ(¾ø¶ÔÖµ»ò°Ù·Ö±È)¡£±ıÍ¼ÉÈÃæ¿ÉÍ¨¹ıÉèÖÃ·ÖÀëÊôĞÔ±í´ïÊ½½øĞĞ·ÖÀë¡£
+MinSlice=ç”¨æˆ·èƒ½å¤Ÿä¸ºæ‰‡é¢æŒ‡å®šæœ€å°å€¼(ç»å¯¹å€¼æˆ–ç™¾åˆ†æ¯”)ã€‚é¥¼å›¾æ‰‡é¢å¯é€šè¿‡è®¾ç½®åˆ†ç¦»å±æ€§è¡¨è¾¾å¼è¿›è¡Œåˆ†ç¦»ã€‚
 
-MultipleYAxes=Ò»¸öÍ¼¿ÉÒÔ°üº¬¶à¸ö Y Öá¡£
+MultipleYAxes=ä¸€ä¸ªå›¾å¯ä»¥åŒ…å«å¤šä¸ª Y è½´ã€‚
 
-MultipleYSeries=Ò»¸öÍ¼¿ÉÒÔ°üº¬¶à¸ö Y(Öµ)ÏµÁĞ¡£
+MultipleYSeries=ä¸€ä¸ªå›¾å¯ä»¥åŒ…å«å¤šä¸ª Y(å€¼)ç³»åˆ—ã€‚
 
-WorkingWithBIRTDataEngine=Í¼±íÓë ODA/DtE (BIRT Êı¾İÒıÇæ)ÅäºÏ»ñµÃ·Ö×é/¾ÛºÏµÄÊı¾İ£¬¶ø²»ÊÇÓÉÍ¼±í±¾Éí·Ö×é/¾ÛºÏ¡£
+WorkingWithBIRTDataEngine=å›¾è¡¨ä¸ ODA/DtE (BIRT æ•°æ®å¼•æ“)é…åˆè·å¾—åˆ†ç»„/èšåˆçš„æ•°æ®ï¼Œè€Œä¸æ˜¯ç”±å›¾è¡¨æœ¬èº«åˆ†ç»„/èšåˆã€‚
 
 ###########################################################
 #Default
-DefaultDescription=Çë´ÓÀà±ğÖĞÑ¡ÔñÒ»¸öÊ¾Àı
+DefaultDescription=è¯·ä»ç±»åˆ«ä¸­é€‰æ‹©ä¸€ä¸ªç¤ºä¾‹
 
 ###########################################################
 #Example View labels
-ChartExamples.Description=ÃèÊö
+ChartExamples.Description=æè¿°
 
-ChartExamples.Preview=Ô¤ÀÀ
+ChartExamples.Preview=é¢„è§ˆ
 
-ChartExamples.SelectExamples=Ñ¡ÔñÊ¾Àı
+ChartExamples.SelectExamples=é€‰æ‹©ç¤ºä¾‹
 
 ############################################################
 #Category Names
-SampleChartCategory.PrimitiveCharts=Ô­Ê¼Í¼±í
+SampleChartCategory.PrimitiveCharts=åŸå§‹å›¾è¡¨
 
-SampleChartCategory.3DCharts=3D Í¼±í
+SampleChartCategory.3DCharts=3D å›¾è¡¨
 
-SampleChartCategory.CombinationCharts=×éºÏ±í
+SampleChartCategory.CombinationCharts=ç»„åˆè¡¨
 
-SampleChartCategory.FormattedCharts=¸ñÊ½»¯Í¼±í
+SampleChartCategory.FormattedCharts=æ ¼å¼åŒ–å›¾è¡¨
 
-SampleChartCategory.ScriptedCharts=½Å±¾»¯Í¼±í
+SampleChartCategory.ScriptedCharts=è„šæœ¬åŒ–å›¾è¡¨
 
-SampleChartCategory.DataOperations=Êı¾İÔËËã
+SampleChartCategory.DataOperations=æ•°æ®è¿ç®—
 #Sample Chart Names
 #Primitive Charts
-SampleChartName.SideBySideBar=²¢ÁĞÌõĞÎÍ¼
+SampleChartName.SideBySideBar=å¹¶åˆ—æ¡å½¢å›¾
 
-SampleChartName.StackedBar=¶Ñ»ıÌõĞÎÍ¼
+SampleChartName.StackedBar=å †ç§¯æ¡å½¢å›¾
 
-SampleChartName.PercentStackedBar=¶Ñ»ı°Ù·Ö±ÈÌõĞÎÍ¼
+SampleChartName.PercentStackedBar=å †ç§¯ç™¾åˆ†æ¯”æ¡å½¢å›¾
 
-SampleChartName.OverlayLine=µş¼ÓÕÛÏßÍ¼
+SampleChartName.OverlayLine=å åŠ æŠ˜çº¿å›¾
 
-SampleChartName.StackedLine=¶Ñ»ıÕÛÏßÍ¼
+SampleChartName.StackedLine=å †ç§¯æŠ˜çº¿å›¾
 
-SampleChartName.PercentStackedLine=¶Ñ»ı°Ù·Ö±ÈÕÛÏßÍ¼
+SampleChartName.PercentStackedLine=å †ç§¯ç™¾åˆ†æ¯”æŠ˜çº¿å›¾
 
-SampleChartName.OverlayArea=¸²¸ÇĞÍÃæ»ıÍ¼
+SampleChartName.OverlayArea=è¦†ç›–å‹é¢ç§¯å›¾
 
-SampleChartName.StackedArea=¶Ñ»ıÃæ»ıÍ¼
+SampleChartName.StackedArea=å †ç§¯é¢ç§¯å›¾
 
-SampleChartName.PercentStackedArea=¶Ñ»ı°Ù·Ö±ÈÃæ»ıÍ¼
+SampleChartName.PercentStackedArea=å †ç§¯ç™¾åˆ†æ¯”é¢ç§¯å›¾
 
-SampleChartName.Pie=±ıÍ¼
+SampleChartName.Pie=é¥¼å›¾
 
-SampleChartName.StandardMeter=±ê×¼ÒÇ±íÍ¼
+SampleChartName.StandardMeter=æ ‡å‡†ä»ªè¡¨å›¾
 
-SampleChartName.SuperImposedMeter=³¬¼¶Æ´°æÒÇ±íÍ¼
+SampleChartName.SuperImposedMeter=è¶…çº§æ‹¼ç‰ˆä»ªè¡¨å›¾
 
-SampleChartName.Scatter=É¢µãÍ¼
+SampleChartName.Scatter=æ•£ç‚¹å›¾
 
-SampleChartName.BarStickStock=ÌõĞÎ¹ÉÆ±Í¼
+SampleChartName.BarStickStock=æ¡å½¢è‚¡ç¥¨å›¾
 
-SampleChartName.CandleStickStock=ÖòĞÎ¹ÉÆ±Í¼
+SampleChartName.CandleStickStock=çƒ›å½¢è‚¡ç¥¨å›¾
 
-SampleChartName.Bubble=ÆøÅİÍ¼
+SampleChartName.Bubble=æ°”æ³¡å›¾
 
-SampleChartName.Difference=²îÒìÍ¼
+SampleChartName.Difference=å·®å¼‚å›¾
 
-SampleChartName.Gantt=¸ÊÌØÍ¼
+SampleChartName.Gantt=ç”˜ç‰¹å›¾
 
-SampleChartName.Tube=¹ÜĞÎÍ¼
+SampleChartName.Tube=ç®¡å½¢å›¾
 
-SampleChartName.Cone=×¶ĞÎÍ¼
+SampleChartName.Cone=é”¥å½¢å›¾
 
-SampleChartName.Pyramid=Àâ×¶Í¼
+SampleChartName.Pyramid=æ£±é”¥å›¾
 
-SampleChartName.Radar=À×´ïÍ¼
+SampleChartName.Radar=é›·è¾¾å›¾
 #3D Charts
-SampleChartName.Bar=ÌõĞÎÍ¼
+SampleChartName.Bar=æ¡å½¢å›¾
 
-SampleChartName.Line=ÕÛÏßÍ¼
+SampleChartName.Line=æŠ˜çº¿å›¾
 
-SampleChartName.Area=Ãæ»ıÍ¼
+SampleChartName.Area=é¢ç§¯å›¾
 
-SampleChartName.Tube3D=¹ÜĞÎÍ¼
+SampleChartName.Tube3D=ç®¡å½¢å›¾
 
-SampleChartName.Cone3D=×¶ĞÎÍ¼
+SampleChartName.Cone3D=é”¥å½¢å›¾
 
-SampleChartName.Pyramid3D=Àâ×¶Í¼
+SampleChartName.Pyramid3D=æ£±é”¥å›¾
 #Combination Charts
-SampleChartName.BarAndLine=ÌõĞÎºÍÕÛÏß
+SampleChartName.BarAndLine=æ¡å½¢å’ŒæŠ˜çº¿
 #Formatted Charts
-SampleChartName.AxisLabelFormat=Öá±êÇ©¸ñÊ½
+SampleChartName.AxisLabelFormat=è½´æ ‡ç­¾æ ¼å¼
 
-SampleChartName.AxisTitleFormat=Öá±êÌâ¸ñÊ½
+SampleChartName.AxisTitleFormat=è½´æ ‡é¢˜æ ¼å¼
 
-SampleChartName.ColoredByCategorySeries=°´Àà±ğÏµÁĞ×ÅÉ«
+SampleChartName.ColoredByCategorySeries=æŒ‰ç±»åˆ«ç³»åˆ—ç€è‰²
 
-SampleChartName.ColoredByValueSeries=°´ÖµÏµÁĞ×ÅÉ«
+SampleChartName.ColoredByValueSeries=æŒ‰å€¼ç³»åˆ—ç€è‰²
 
-SampleChartName.CurveFittingArea=ÇúÏßÄâºÏÃæ»ıÍ¼
+SampleChartName.CurveFittingArea=æ›²çº¿æ‹Ÿåˆé¢ç§¯å›¾
 
-SampleChartName.CurveFittingBar=ÇúÏßÄâºÏÌõĞÎÍ¼
+SampleChartName.CurveFittingBar=æ›²çº¿æ‹Ÿåˆæ¡å½¢å›¾
 
-SampleChartName.CurveFittingLine=ÇúÏßÄâºÏÕÛÏßÍ¼
+SampleChartName.CurveFittingLine=æ›²çº¿æ‹ŸåˆæŠ˜çº¿å›¾
 
-SampleChartName.CurveFittingStock=ÇúÏßÄâºÏ¹ÉÆ±Í¼
+SampleChartName.CurveFittingStock=æ›²çº¿æ‹Ÿåˆè‚¡ç¥¨å›¾
 
-SampleChartName.LegendFormat=Í¼Àı¸ñÊ½
+SampleChartName.LegendFormat=å›¾ä¾‹æ ¼å¼
 
-SampleChartName.MarkerLine=±ê¼ÇÏßÌõ
+SampleChartName.MarkerLine=æ ‡è®°çº¿æ¡
 
-SampleChartName.MarkerRange=±ê¼ÇÇøÓò
+SampleChartName.MarkerRange=æ ‡è®°åŒºåŸŸ
 
-SampleChartName.MultiplePie=¶à¸ö±ıÍ¼
+SampleChartName.MultiplePie=å¤šä¸ªé¥¼å›¾
 
-SampleChartName.MDialSRegionMeter=M ¿Ì¶ÈÅÌ S ÇøÓòÒÇ±íÍ¼
+SampleChartName.MDialSRegionMeter=M åˆ»åº¦ç›˜ S åŒºåŸŸä»ªè¡¨å›¾
 
-SampleChartName.SDialSRegionMeter=S ¿Ì¶ÈÅÌ S ÇøÓòÒÇ±íÍ¼
+SampleChartName.SDialSRegionMeter=S åˆ»åº¦ç›˜ S åŒºåŸŸä»ªè¡¨å›¾
 
-SampleChartName.PercentageValueFormat=°Ù·Ö±ÈÖµ¸ñÊ½
+SampleChartName.PercentageValueFormat=ç™¾åˆ†æ¯”å€¼æ ¼å¼
 
-SampleChartName.PlotFormat=Í¼ĞÎ¸ñÊ½
+SampleChartName.PlotFormat=å›¾å½¢æ ¼å¼
 
-SampleChartName.SeriesValueFormat=ÏµÁĞÖµ¸ñÊ½
+SampleChartName.SeriesValueFormat=ç³»åˆ—å€¼æ ¼å¼
 #Scripted Charts
-SampleChartName.AxisLabelScript=Öá±êÇ©½Å±¾
+SampleChartName.AxisLabelScript=è½´æ ‡ç­¾è„šæœ¬
 
-SampleChartName.AxisTitleScript=Öá±êÌâ½Å±¾
+SampleChartName.AxisTitleScript=è½´æ ‡é¢˜è„šæœ¬
 
-SampleChartName.BlockScript=¿é½Å±¾
+SampleChartName.BlockScript=å—è„šæœ¬
 
-SampleChartName.CurveFittingScript=ÇúÏßÄâºÏ½Å±¾
+SampleChartName.CurveFittingScript=æ›²çº¿æ‹Ÿåˆè„šæœ¬
 
-SampleChartName.DataPointLabelScript=Êı¾İµã±êÇ©½Å±¾
+SampleChartName.DataPointLabelScript=æ•°æ®ç‚¹æ ‡ç­¾è„šæœ¬
 
-SampleChartName.LegendScript=Í¼Àı½Å±¾
+SampleChartName.LegendScript=å›¾ä¾‹è„šæœ¬
 
-SampleChartName.MarkerLineScript=±ê¼ÇÏßÌõ½Å±¾
+SampleChartName.MarkerLineScript=æ ‡è®°çº¿æ¡è„šæœ¬
 
-SampleChartName.MarkerRangeScript=±ê¼ÇÇøÓò½Å±¾
+SampleChartName.MarkerRangeScript=æ ‡è®°åŒºåŸŸè„šæœ¬
 
-SampleChartName.SeriesScript=ÏµÁĞ½Å±¾
+SampleChartName.SeriesScript=ç³»åˆ—è„šæœ¬
 
-SampleChartName.SeriesTitleScript=ÏµÁĞ±êÌâ½Å±¾
+SampleChartName.SeriesTitleScript=ç³»åˆ—æ ‡é¢˜è„šæœ¬
 #Data Operations
-SampleChartName.MinSlice=×îĞ¡ÉÈÃæ
+SampleChartName.MinSlice=æœ€å°æ‰‡é¢
 
-SampleChartName.MultipleYAxes=¶à¸ö Y Öá
+SampleChartName.MultipleYAxes=å¤šä¸ª Y è½´
 
-SampleChartName.MultipleYSeries=¶à¸ö Y ÏµÁĞ
+SampleChartName.MultipleYSeries=å¤šä¸ª Y ç³»åˆ—
 
-SampleChartName.WorkingWithBIRTDataEngine=Ê¹ÓÃ BIRT Êı¾İÒıÇæ
+SampleChartName.WorkingWithBIRTDataEngine=ä½¿ç”¨ BIRT æ•°æ®å¼•æ“
 
 

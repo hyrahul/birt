@@ -20,7 +20,7 @@ birt.viewer.title.message=Meldung
 
 birt.viewer.parameter=Parameter
 
-birt.viewer.runreport=Bericht ausführen
+birt.viewer.runreport=Bericht ausfÃ¼hren
 
 birt.viewer.required=Mit <FONT COLOR="red">*</FONT> gekennzeichnete Parameter sind erforderlich.
 
@@ -32,33 +32,33 @@ birt.viewer.restore=Berichtparameter anzeigen
 
 birt.viewer.error=Fehlermeldung
 
-birt.viewer.error.noparameter=Für diesen Bericht sind keine Parameter vorhanden.
+birt.viewer.error.noparameter=FÃ¼r diesen Bericht sind keine Parameter vorhanden.
 
-birt.viewer.error.parameter.invalid=Der Parameter "{0}" ist ungültig.
+birt.viewer.error.parameter.invalid=Der Parameter "{0}" ist ungÃ¼ltig.
 
-birt.viewer.error.noprinter=Es kann kein verfügbarer Drucker gefunden werden, der das Postscript-Format unterstützt.
+birt.viewer.error.noprinter=Es kann kein verfÃ¼gbarer Drucker gefunden werden, der das Postscript-Format unterstÃ¼tzt.
 
 birt.viewer.error.unknownerror=Unbekannter Fehler.
 
 birt.viewer.error.generatereportfirst=Berichtdokument muss zuerst generiert werden.
 
-birt.viewer.error.copiesnumber=Geben Sie eine gültige Anzahl von Kopien ein.
+birt.viewer.error.copiesnumber=Geben Sie eine gÃ¼ltige Anzahl von Kopien ein.
 
 birt.viewer.error.parameterrequired=Der Wert des erforderlichen Parameters [{0}] wurde nicht festgelegt.
 
 birt.viewer.error.parameternotallowblank=Der Parameter "{0}" darf nicht leer sein.
 
-birt.viewer.error.parameternotselected=Wählen Sie den Wert für den Parameter "{0}" aus.
+birt.viewer.error.parameternotselected=WÃ¤hlen Sie den Wert fÃ¼r den Parameter "{0}" aus.
 
-birt.viewer.error.noviewingsession=Die Ansichtssitzung ist nicht verfügbar oder abgelaufen.
+birt.viewer.error.noviewingsession=Die Ansichtssitzung ist nicht verfÃ¼gbar oder abgelaufen.
 
 birt.viewer.error.viewingsessionexpired=Die Ansichtssitzung ist abgelaufen.
 
 birt.viewer.error.viewingsessionlocked=Die Ansichtssitzung ist gesperrt und kann nicht beendet werden.
 
-birt.viewer.error.viewingsessionmaxreached=Die Höchstanzahl an Ansichtssitzungen wurde erreicht.
+birt.viewer.error.viewingsessionmaxreached=Die HÃ¶chstanzahl an Ansichtssitzungen wurde erreicht.
 
-birt.viewer.error.columnrequired=Keine Spalte ausgewählt, bitte mindestens eine Spalte für den Export auswählen.
+birt.viewer.error.columnrequired=Keine Spalte ausgewÃ¤hlt, bitte mindestens eine Spalte fÃ¼r den Export auswÃ¤hlen.
 
 birt.viewer.message.taskcanceled=Der aktuelle Vorgang wurde abgebrochen.
 
@@ -71,11 +71,11 @@ birt.viewer.toolbar.printserver=Bericht auf dem Server drucken
 
 birt.viewer.toolbar.toc=Inhaltsverzeichnis anzeigen
 
-birt.viewer.toolbar.parameter=Bericht ausführen
+birt.viewer.toolbar.parameter=Bericht ausfÃ¼hren
 
 birt.viewer.toolbar.export=Daten exportieren
 
-birt.viewer.toolbar.font=Schriftart ändern
+birt.viewer.toolbar.font=Schriftart Ã¤ndern
 
 birt.viewer.toolbar.enableiv=Interaktiven Viewer aufrufen
 
@@ -88,7 +88,7 @@ birt.viewer.navbar.first=Erste Seite
 
 birt.viewer.navbar.previous=Vorherige Seite
 
-birt.viewer.navbar.next=Nächste Seite
+birt.viewer.navbar.next=NÃ¤chste Seite
 
 birt.viewer.navbar.last=Letzte Seite
 
@@ -100,12 +100,12 @@ birt.viewer.navbar.prompt.one=Angezeigte Seite: Seite
 
 birt.viewer.navbar.prompt.two=von
 
-birt.viewer.navbar.error.blankpagenum=Geben Sie eine gültige Seitenzahl ein.
+birt.viewer.navbar.error.blankpagenum=Geben Sie eine gÃ¼ltige Seitenzahl ein.
 
 ###############################################################################
 # progress bar
 ###############################################################################
-birt.viewer.progressbar.prompt=Vorgang läuft. Bitte warten ...
+birt.viewer.progressbar.prompt=Vorgang lÃ¤uft. Bitte wartenÂ ...
 
 birt.viewer.progressbar.confirmcanceltask=Soll der aktuelle Vorgang abgebrochen werden?
 
@@ -116,9 +116,9 @@ birt.viewer.dialog.ok=OK
 
 birt.viewer.dialog.cancel=Abbrechen
 
-birt.viewer.dialog.run=Bericht ausführen
+birt.viewer.dialog.run=Bericht ausfÃ¼hren
 
-birt.viewer.dialog.close=Schließ.en
+birt.viewer.dialog.close=SchlieÃŸ.en
 
 birt.viewer.dialog.page=Seiten
 
@@ -130,7 +130,7 @@ birt.viewer.dialog.page.range=Seiten:
 
 birt.viewer.dialog.page.range.description=(Seitenzahl(en) und/oder Seitenbereich(e) eingeben. Beispiel: 1-6 oder 1,3,6)
 
-birt.viewer.dialog.page.error.invalidpagerange=Ungültiger Seitenbereich
+birt.viewer.dialog.page.error.invalidpagerange=UngÃ¼ltiger Seitenbereich
 
 ###############################################################################
 # Dialog title
@@ -156,9 +156,9 @@ birt.viewer.dialog.export.format.pdf=PDF
 birt.viewer.dialog.export.format.excel=EXCEL
 birt.viewer.dialog.export.all=Detaillierten Bericht exportieren
 
-birt.viewer.dialog.export.all.detail=Sämtliche verfügbaren Berichtdaten werden unabhängig von der<br>aktuellen Ansicht exportiert.
+birt.viewer.dialog.export.all.detail=SÃ¤mtliche verfÃ¼gbaren Berichtdaten werden unabhÃ¤ngig von der<br>aktuellen Ansicht exportiert.
 
-birt.viewer.dialog.export.modified=Bericht mit aktuellen Änderungen exportieren
+birt.viewer.dialog.export.modified=Bericht mit aktuellen Ã„nderungen exportieren
 
 birt.viewer.dialog.export.modified.detail=Es werden nur sichtbare Daten exportiert. Herausgefilterte oder<br>ausgeblendete Daten werden nicht exportiert.
 
@@ -166,7 +166,7 @@ birt.viewer.dialog.export.pdf.fitto=Anpassen
 
 birt.viewer.dialog.export.pdf.fittoauto=Automatisch
 
-birt.viewer.dialog.export.pdf.fittoactual=Tatsächliche Größe
+birt.viewer.dialog.export.pdf.fittoactual=TatsÃ¤chliche GrÃ¶ÃŸe
 
 birt.viewer.dialog.export.pdf.fittowidth=An Seitenbreite anpassen
 
@@ -179,7 +179,7 @@ birt.viewer.dialog.print.format=Druckformat
 
 birt.viewer.dialog.print.format.html=HTML
 birt.viewer.dialog.print.format.pdf=PDF
-birt.viewer.dialog.print.printpreviewalreadyopen=Ein Fenster mit der Seitenansicht ist bereits geöffnet.
+birt.viewer.dialog.print.printpreviewalreadyopen=Ein Fenster mit der Seitenansicht ist bereits geÃ¶ffnet.
 
 ###############################################################################
 # Print report on the server dialog 
@@ -194,9 +194,9 @@ birt.viewer.dialog.printserver.model=Modell:
 
 birt.viewer.dialog.printserver.description=Beschreibung:
 
-birt.viewer.dialog.printserver.status.acceptingjobs=Aufträge werden angenommen
+birt.viewer.dialog.printserver.status.acceptingjobs=AuftrÃ¤ge werden angenommen
 
-birt.viewer.dialog.printserver.status.notacceptingjobs=Aufträge werden nicht angenommen
+birt.viewer.dialog.printserver.status.notacceptingjobs=AuftrÃ¤ge werden nicht angenommen
 
 birt.viewer.dialog.printserver.settings=Druckeinstellungen festlegen
 
@@ -206,7 +206,7 @@ birt.viewer.dialog.printserver.settings.collate=Sortieren:
 
 birt.viewer.dialog.printserver.settings.mode=Modus:
 
-birt.viewer.dialog.printserver.settings.mode.bw=Schwarzweiß
+birt.viewer.dialog.printserver.settings.mode.bw=SchwarzweiÃŸ
 
 birt.viewer.dialog.printserver.settings.mode.color=Farbe
 
@@ -218,17 +218,17 @@ birt.viewer.dialog.printserver.settings.duplex.horizontal=Horizontal
 
 birt.viewer.dialog.printserver.settings.duplex.vertical=Vertikal
 
-birt.viewer.dialog.printserver.settings.pagesize=Seitengröße:
+birt.viewer.dialog.printserver.settings.pagesize=SeitengrÃ¶ÃŸe:
 
 birt.viewer.dialog.printserver.settings.print=Drucken:
 
-birt.viewer.dialog.printserver.complete=Dokument an ausgewählten Drucker auf dem Server gesendet.
+birt.viewer.dialog.printserver.complete=Dokument an ausgewÃ¤hlten Drucker auf dem Server gesendet.
 
 birt.viewer.dialog.printserver.error.noprinter=Kein Drucker
 ###############################################################################
 # Confirmation dialog 
 ###############################################################################
-birt.viewer.dialog.confirmation.title=Bestätigung
+birt.viewer.dialog.confirmation.title=BestÃ¤tigung
  
 ###############################################################################
 # Export data dialog 
@@ -237,11 +237,11 @@ birt.viewer.dialog.exportdata.tab.field=Datenfelder
 
 birt.viewer.dialog.exportdata.tab.filter=Filterkriterien
 
-birt.viewer.dialog.exportdata.resultsets=Verfügbare Ergebnisse
+birt.viewer.dialog.exportdata.resultsets=VerfÃ¼gbare Ergebnisse
 
-birt.viewer.dialog.exportdata.availablecolumn=Verfügbare Spalten
+birt.viewer.dialog.exportdata.availablecolumn=VerfÃ¼gbare Spalten
 
-birt.viewer.dialog.exportdata.selectedcolumn=Ausgewählte Spalten
+birt.viewer.dialog.exportdata.selectedcolumn=AusgewÃ¤hlte Spalten
 
 birt.viewer.dialog.exportdata.extension=Exportformat:
 
@@ -251,7 +251,7 @@ birt.viewer.dialog.exportdata.encoding.other=Andere
 
 birt.viewer.dialog.exportdata.encoding.comment=(Wenn leer, lokale Codierung verwenden)
 
-birt.viewer.dialog.exportdata.addall=Alle hinzufügen
+birt.viewer.dialog.exportdata.addall=Alle hinzufÃ¼gen
 
 birt.viewer.dialog.exportdata.add=Hinzuf
 
@@ -259,9 +259,9 @@ birt.viewer.dialog.exportdata.removeall=Alles entfernen
 
 birt.viewer.dialog.exportdata.remove=Entfernen
 
-birt.viewer.dialog.exportdata.up=Aufwärts
+birt.viewer.dialog.exportdata.up=AufwÃ¤rts
 
-birt.viewer.dialog.exportdata.down=Abwärts
+birt.viewer.dialog.exportdata.down=AbwÃ¤rts
 
 birt.viewer.dialog.exportdata.separator=Trennzeichen:
 
@@ -286,53 +286,53 @@ birt.viewer.sep.4=Tab (\\t)
 ###############################################################################
 birt.viewer.generalException.DOCUMENT_FILE_ERROR=Die Dokumentdatei : {0} ist nicht vorhanden oder fehlerhaft.
 
-birt.viewer.generalException.DOCUMENT_ACCESS_ERROR=Zugriff auf die Dokumentdatei : {0} nicht möglich.
+birt.viewer.generalException.DOCUMENT_ACCESS_ERROR=Zugriff auf die Dokumentdatei : {0} nicht mÃ¶glich.
 
 birt.viewer.generalException.REPORT_FILE_ERROR=Die Berichtdatei : {0} ist nicht vorhanden oder fehlerhaft.
 
-birt.viewer.generalException.REPORT_ACCESS_ERROR=Zugriff auf die Berichtdatei nicht möglich : {0}.
+birt.viewer.generalException.REPORT_ACCESS_ERROR=Zugriff auf die Berichtdatei nicht mÃ¶glich : {0}.
 
-birt.viewer.generalException.DOCUMENT_FILE_PROCESSING=Dokumentdatei wird verarbeitet. Versuchen Sie es später erneut.
+birt.viewer.generalException.DOCUMENT_FILE_PROCESSING=Dokumentdatei wird verarbeitet. Versuchen Sie es spÃ¤ter erneut.
 
-birt.viewer.generalException.NO_REPORT_DESIGN=Kein Berichtdesignobjekt verfügbar.
+birt.viewer.generalException.NO_REPORT_DESIGN=Kein Berichtdesignobjekt verfÃ¼gbar.
 
 birt.viewer.generalException.MULTIPLE_EXCEPTIONS=Es sind mehrere Ausnahmen aufgetreten.
 
 ###############################################################################
 # Report service exception
 ###############################################################################
-birt.viewer.reportServiceException.EXTRACT_DATA_NO_DOCUMENT=Für die Extrahierung der Daten ist keine Dokumentdatei verfügbar.
+birt.viewer.reportServiceException.EXTRACT_DATA_NO_DOCUMENT=FÃ¼r die Extrahierung der Daten ist keine Dokumentdatei verfÃ¼gbar.
 
-birt.viewer.reportServiceException.EXTRACT_DATA_NO_RESULT_SET=Für die Extrahierung der Daten ist kein Ergebnis verfügbar.
+birt.viewer.reportServiceException.EXTRACT_DATA_NO_RESULT_SET=FÃ¼r die Extrahierung der Daten ist kein Ergebnis verfÃ¼gbar.
 
-birt.viewer.reportServiceException.INVALID_TOC=Ungültige Inhaltsverzeichnis-Anfrage.
+birt.viewer.reportServiceException.INVALID_TOC=UngÃ¼ltige Inhaltsverzeichnis-Anfrage.
 
-birt.viewer.reportServiceException.INVALID_PARAMETER=Ungültiger Parameter: {0}; er ist nicht definiert.
+birt.viewer.reportServiceException.INVALID_PARAMETER=UngÃ¼ltiger Parameter: {0}; er ist nicht definiert.
 
 birt.viewer.reportServiceException.STARTUP_REPORTENGINE_ERROR=Beim Versuch, die Berichts-Engine zu starten, ist ein nicht behebbarer Fehler aufgetreten.
 
-birt.viewer.reportServiceException.INVALID_EXTRACTFORMAT=Datenextrahierungsformat ist ungültig oder wurde nicht angegeben.
+birt.viewer.reportServiceException.INVALID_EXTRACTFORMAT=Datenextrahierungsformat ist ungÃ¼ltig oder wurde nicht angegeben.
 
-birt.viewer.reportServiceException.INVALID_EXTRACTEXTENSION=Ungültige Erweiterungs-ID für Datenextrahierung
+birt.viewer.reportServiceException.INVALID_EXTRACTEXTENSION=UngÃ¼ltige Erweiterungs-ID fÃ¼r Datenextrahierung
 ###############################################################################
 # Birt action handler exception
 ###############################################################################
 birt.viewer.actionException.NO_REPORT_DOCUMENT=Berichtdokument-Instanz ist leer.
 
-birt.viewer.actionException.INVALID_BOOKMARK=Das Lesezeichen {0} ist ungültig. Bitte prüfen und Verknüpfung zurücksetzen.
+birt.viewer.actionException.INVALID_BOOKMARK=Das Lesezeichen {0} ist ungÃ¼ltig. Bitte prÃ¼fen und VerknÃ¼pfung zurÃ¼cksetzen.
 
-birt.viewer.actionException.INVALID_PAGE_NUMBER=Ungültige Seitennummer {0} von {1}.
+birt.viewer.actionException.INVALID_PAGE_NUMBER=UngÃ¼ltige Seitennummer {0} von {1}.
 
-birt.viewer.actionException.PAGE_NUMBER_PARSE_ERROR=Die Seitennummer {0} ist ungültig.
+birt.viewer.actionException.PAGE_NUMBER_PARSE_ERROR=Die Seitennummer {0} ist ungÃ¼ltig.
 
-birt.viewer.actionException.INVALID_ID_FORMAT=Ungültiges ID-Format. Id={0}.
+birt.viewer.actionException.INVALID_ID_FORMAT=UngÃ¼ltiges ID-Format. Id={0}.
 
-birt.viewer.actionException.DOCUMENT_FILE_NO_EXIST=Sitzung wegen Zeitüberschreitung abgebrochen bzw. keine Dokumentdatei verfügbar.
+birt.viewer.actionException.DOCUMENT_FILE_NO_EXIST=Sitzung wegen ZeitÃ¼berschreitung abgebrochen bzw. keine Dokumentdatei verfÃ¼gbar.
 
 ###############################################################################
 # Birt soap bingding impl exception
 ###############################################################################
-birt.viewer.soapBindingException.NO_HANDLER_FOR_TARGET=Für dieses Ziel wurde kein Handler gefunden. Ziel: {0}.
+birt.viewer.soapBindingException.NO_HANDLER_FOR_TARGET=FÃ¼r dieses Ziel wurde kein Handler gefunden. Ziel: {0}.
 
 ###############################################################################
 # Component processor exception
@@ -344,16 +344,16 @@ birt.viewer.componentProcessorException.MISSING_OPERATOR=Fehler: Fehlender Opera
 ###############################################################################
 birt.viewer.exceptionDialog.stackTrace=Ablaufverfolgungsstapel:
 
-birt.viewer.exceptionDialog.showStackTrace=Ausnahme für Ablaufverfolgungsstapel einblenden
+birt.viewer.exceptionDialog.showStackTrace=Ausnahme fÃ¼r Ablaufverfolgungsstapel einblenden
 
-birt.viewer.exceptionDialog.hideStackTrace=Ausnahme für Ablaufverfolgungsstapel ausblenden
+birt.viewer.exceptionDialog.hideStackTrace=Ausnahme fÃ¼r Ablaufverfolgungsstapel ausblenden
 
 ###############################################################################
 # Birt Viewer JSP Taglib
 ###############################################################################
 birt.viewer.taglib.NO_ATTR_ID=Attribut-ID muss angegeben werden.
 
-birt.viewer.taglib.INVALID_ATTR_ID=Attribut-ID enthält ungültige Zeichen.
+birt.viewer.taglib.INVALID_ATTR_ID=Attribut-ID enthÃ¤lt ungÃ¼ltige Zeichen.
 
 birt.viewer.taglib.ATTR_ID_DUPLICATE=Attribut-ID muss eindeutig sein.
 
@@ -361,7 +361,7 @@ birt.viewer.taglib.PARAM_NAME_DUPLICATE=Parametername darf nicht doppelt vorhand
 
 birt.viewer.taglib.NO_REPORT_SOURCE=Berichtdesign oder Dokumentdatei muss angegeben werden.
 
-birt.viewer.taglib.NO_REPORT_DOCUMENT=Reportlet benötigt Berichtsdokument.
+birt.viewer.taglib.NO_REPORT_DOCUMENT=Reportlet benÃ¶tigt Berichtsdokument.
 
 birt.viewer.taglib.NO_REQUESTER_NAME=Das Attribut "Name" des Tags parameterPage ist erforderlich.
 
@@ -373,4 +373,4 @@ birt.viewer.message.document.successful=Das Berichtsdokument wurde erfolgreich e
 ###############################################################################
 # Birt Viewer General Exceptions
 ###############################################################################
-birt.viewer.exception.maybe_disabled_cookies=Das Problem wird möglicherweise durch deaktivierte Cookies auf der Client-Seite verursacht.
+birt.viewer.exception.maybe_disabled_cookies=Das Problem wird mÃ¶glicherweise durch deaktivierte Cookies auf der Client-Seite verursacht.

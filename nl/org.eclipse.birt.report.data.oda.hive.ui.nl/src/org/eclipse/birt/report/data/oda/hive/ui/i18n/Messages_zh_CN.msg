@@ -1,25 +1,25 @@
-datasource.page.title=¶¨Òå ${odadesignerid.ds.displayname} Êı¾İÔ´
+datasource.page.title=å®šä¹‰ ${odadesignerid.ds.displayname} æ•°æ®æº
 
-datasource.page.msg=Á¬½Óµ½ Hive µÄ JDBC Êı¾İÔ´¡£
+datasource.page.msg=è¿æ¥åˆ° Hive çš„ JDBC æ•°æ®æºã€‚
 
-datasource.page.driver.class=Çı¶¯³ÌĞòÀà:
+datasource.page.driver.class=é©±åŠ¨ç¨‹åºç±»:
 
-datasource.page.url=Êı¾İ¿â URL:
+datasource.page.url=æ•°æ®åº“ URL:
 
-datasource.page.user=Êı¾İ¿âÓÃ»§:
+datasource.page.user=æ•°æ®åº“ç”¨æˆ·:
 
-datasource.upgrade.msg.firstLine=´ËÊı¾İ¼¯Ê¹ÓÃµÄÊı¾İÔ´({0})ÊÇÊ¹ÓÃ´Ë²úÆ·µÄ½Ï¾É°æ±¾´´½¨µÄ¡£
+datasource.upgrade.msg.firstLine=æ­¤æ•°æ®é›†ä½¿ç”¨çš„æ•°æ®æº({0})æ˜¯ä½¿ç”¨æ­¤äº§å“çš„è¾ƒæ—§ç‰ˆæœ¬åˆ›å»ºçš„ã€‚
 
-datasource.upgrade.msg.secondLine=Æä¶¨ÒåĞèÒª¸üĞÂ¡£ \n\nÑ¡Ôñ¡°È·¶¨¡±Á¢¼´¸üĞÂÊı¾İÔ´ {0}¡£
+datasource.upgrade.msg.secondLine=å…¶å®šä¹‰éœ€è¦æ›´æ–°ã€‚ \n\né€‰æ‹©â€œç¡®å®šâ€ç«‹å³æ›´æ–°æ•°æ®æº {0}ã€‚
 
-datasource.upgrade.msg.thirdLine=È»ºóÄú½«ĞèÒªÖØĞÂ´ò¿ª´ËÊı¾İ¼¯±à¼­Æ÷¡£
+datasource.upgrade.msg.thirdLine=ç„¶åæ‚¨å°†éœ€è¦é‡æ–°æ‰“å¼€æ­¤æ•°æ®é›†ç¼–è¾‘å™¨ã€‚
 
 datasource.propertyPage.tooltip=Hive Data Source
-datasource.addfile=Ìí¼ÓÎÄ¼şÓï¾ä(&D):
+datasource.addfile=æ·»åŠ æ–‡ä»¶è¯­å¥(&D):
 
 datasource.group.text=Hive Server
-datasource.label.ServerType=·şÎñÆ÷ÀàĞÍ(&S):
+datasource.label.ServerType=æœåŠ¡å™¨ç±»å‹(&S):
 
 datasource.ServerType.type1=HiveServer1
 datasource.ServerType.type2=HiveServer2
-datasource.error.EmptyURL=Êı¾İ¿â URL ²»ÄÜÎª¿Õ¡£
+datasource.error.EmptyURL=æ•°æ®åº“ URL ä¸èƒ½ä¸ºç©ºã€‚

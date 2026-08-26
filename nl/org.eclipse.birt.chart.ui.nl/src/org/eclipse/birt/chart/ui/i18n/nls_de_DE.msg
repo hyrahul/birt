@@ -6,13 +6,13 @@ Shared.Lbl.OK=\ \ \ OK
 
 Shared.Lbl.Cancel=Abbrechen
 
-ButtonPanel.Lbl.SelectChartType=<< Diagrammtyp auswählen
+ButtonPanel.Lbl.SelectChartType=<< Diagrammtyp auswÃ¤hlen
 
-ButtonPanel.Lbl.Previous=< Zurück
+ButtonPanel.Lbl.Previous=< ZurÃ¼ck
 
 ButtonPanel.Lbl.Next=Weiter >
 
-ChartAdapter.Info.NotificationRecieved=ChartAdapter: Benachrichtigung erhalten für {0}
+ChartAdapter.Info.NotificationRecieved=ChartAdapter: Benachrichtigung erhalten fÃ¼r {0}
 
 ChartAdapter.Info.NewValue=ChartAdapter: Neuer Wert ist {0}
 
@@ -20,7 +20,7 @@ ChartSelector.Lbl.ChartSubtypes=Diagramm-Untertypen
 
 ChartDlg.Msg.ValidationErrors=Bei der Validierung der Diagrammdefinition wurden Fehler gefunden.\nBeheben Sie diese Fehler, bevor Sie den Bericht anzeigen.\n\n
 
-ChartDlg.Msg.AskCorrectLater=\nMöchten Sie Chart Builder trotzdem\nschließen und die Probleme später beheben?
+ChartDlg.Msg.AskCorrectLater=\nMÃ¶chten Sie Chart Builder trotzdem\nschlieÃŸen und die Probleme spÃ¤ter beheben?
 
 ChartDlg.Info.ChartDimension=Dimension:
 
@@ -30,9 +30,9 @@ ChartSelector.Lbl.ChartTypes2=Diagrammtypen
 
 ChartSelector.Lbl.DefineChart=Diagramm definieren >>
 
-ChartDlg.Info.AssociatedAxis=\t\tVerknüpfte Achsen:
+ChartDlg.Info.AssociatedAxis=\t\tVerknÃ¼pfte Achsen:
 
-ChartDlg.Info.LineThickness2=\tLinienstärke:
+ChartDlg.Info.LineThickness2=\tLinienstÃ¤rke:
 
 ChartSelector.Lbl.ChartTypes=Diagrammtypen:
 
@@ -42,11 +42,11 @@ ChartAdapter.Exception.Exception=Ausnahme:
 
 ChartAdapter.Exception.WrappedIn=Eingeschlossen in:
 
-ChartUIUtil.Exception.NoValueReturned=Es wurde kein Wert zurückgegeben. Geben Sie einen gültigen Datensatz an.
+ChartUIUtil.Exception.NoValueReturned=Es wurde kein Wert zurÃ¼ckgegeben. Geben Sie einen gÃ¼ltigen Datensatz an.
 
 ChartAdapter.Exception.Message=Meldung:
 
-ChartDlg.Info.CannotChangeSelection=HINWEIS: Sie können die Diagrammauswahl nur ändern, wenn Typ und Untertyp des aktuellen Diagramms festgelegt sind.
+ChartDlg.Info.CannotChangeSelection=HINWEIS: Sie kÃ¶nnen die Diagrammauswahl nur Ã¤ndern, wenn Typ und Untertyp des aktuellen Diagramms festgelegt sind.
 
 ChartAdapter.Exception.Trace=Ablaufverfolgung:
 
@@ -60,7 +60,7 @@ DefaultChartTypeImpl.Label.ValueDefinitionName=Wert (&Y)-Datenreihe:
 
 DefaultUIServiceProviderImpl.Warn.Placeholder=DefaultUIServiceProviderImpl: Dies ist eine Platzhalterklasse ohne Funktion.
 
-SheetPlaceHolder.Lbl.Placeholder=Dies ist ein Platzhalter für {0}
+SheetPlaceHolder.Lbl.Placeholder=Dies ist ein Platzhalter fÃ¼r {0}
 
 ChartDlg.Info.ChartStart=--------------------------- Diagrammeigenschaften - Start -------------------------
 
@@ -88,7 +88,7 @@ ChartDlg.Info.Riser=\t\tAnstieg:
 
 ChartDlg.Info.LineStyle=\t\tLinienstil:
 
-ChartDlg.Info.Fill=\t\tFüllung:
+ChartDlg.Info.Fill=\t\tFÃ¼llung:
 
 ChartDlg.Info.LineStyle2=\t\tLinienstil:
 
@@ -152,7 +152,7 @@ PreviewButtonPanel.Lbl.HidePreview=<< Diagrammbeispiel
 
 PreviewPanel.Title.Preview=Diagrammbeispiel
 
-ChartWizard.Label.SelectChartTypeDataFormat=Wählen Sie Diagrammtyp, Daten und Format aus.
+ChartWizard.Label.SelectChartTypeDataFormat=WÃ¤hlen Sie Diagrammtyp, Daten und Format aus.
 
 TaskSelectData.Warning.CategoryGroupTypeCheck=Der Gruppierungstyp {0} ist nicht mit dem Datentyp der Kategorie-Datenreihe kompatibel.
 
@@ -160,9 +160,9 @@ TaskSelectData.Warning.YGroupTypeCheck=Der Gruppierungstyp {0} ist nicht mit dem
 
 TaskSelectType.Caption.OverlayAxis1=Titel der Y-Achse
 
-ApplyButtonHandler.Label.Apply=Ü&bernehmen
+ApplyButtonHandler.Label.Apply=Ãœ&bernehmen
 
-ChartUIUtil.GanttExp.Label=Beschriftung für Aufgabe
+ChartUIUtil.GanttExp.Label=Beschriftung fÃ¼r Aufgabe
 
 ChartUIUtil.GanttExp.Start=Startdatum
 
@@ -170,7 +170,7 @@ ChartUIUtil.GanttExp.End=Enddatum
 
 ChartUIUtil.BubbleExp.Label=Y-Wert
 
-ChartUIUtil.BubbleExp.Size=Größe
+ChartUIUtil.BubbleExp.Size=GrÃ¶ÃŸe
 
 ChartUIUtil.DifferenceExp.Postive=Positiv
 
@@ -180,29 +180,29 @@ ChartUIUtil.TaskSelectData.Warning.CheckAgg.Aggregation=\ Aggregat.
 
 ChartUIUtil.TaskSelectData.Warning.CheckAgg.DefaultAggregate=Standard
 
-ChartUIUtil.TaskSelectData.Warning.CheckAgg.GanttChart=Für Gantt-Diagramm nicht zulässig:
+ChartUIUtil.TaskSelectData.Warning.CheckAgg.GanttChart=FÃ¼r Gantt-Diagramm nicht zulÃ¤ssig:
 
 ChartUIUtil.TaskSelectData.Warning.CheckAgg.ValueSeriesAggregate=Wert-Datenreihe
 
 ChartUIUtil.TaskSelectData.Warning.CheckAggAs=\ als
 
-SimpleHyperlinkBuilder.Label.RadioNone=K&eine Verknüpfung
+SimpleHyperlinkBuilder.Label.RadioNone=K&eine VerknÃ¼pfung
 
 SimpleHyperlinkBuilder.Label.RadioURI=&URI
-SimpleHyperlinkBuilder.Title=Optionen für Hyperlink
+SimpleHyperlinkBuilder.Title=Optionen fÃ¼r Hyperlink
 
-SimpleHyperlinkBuilder.Label.SelectType=Art des Hyperlinks wählen:
+SimpleHyperlinkBuilder.Label.SelectType=Art des Hyperlinks wÃ¤hlen:
 
 SimpleHyperlinkBuilder.Label.Location=&Speicherort:
 
 SimpleHyperlinkBuilder.Label.Target=&Ziel:
 
-CustomPreviewTable.Exception.InvalidColumnIndexNotDefined=Ungültiger Spaltenindex {0} oder Spalten noch nicht definiert\!
+CustomPreviewTable.Exception.InvalidColumnIndexNotDefined=UngÃ¼ltiger Spaltenindex {0} oder Spalten noch nicht definiert\!
 
-CustomPreviewTable.Exception.InvalidColumnIndexSpecified=Ungültiger Spaltenname angegeben\!
+CustomPreviewTable.Exception.InvalidColumnIndexSpecified=UngÃ¼ltiger Spaltenname angegeben\!
 
-CustomPreviewTable.Exception.InvalidColumnIndexSpecifiedOnly=Ungültiger Spaltenindex {0}\! Tabelle hat nur {1} Spalte(n)\!
+CustomPreviewTable.Exception.InvalidColumnIndexSpecifiedOnly=UngÃ¼ltiger Spaltenindex {0}\! Tabelle hat nur {1} Spalte(n)\!
 
-CustomPreviewTable.Exception.RowIndexGreaterThan0=Zeilenindex muss größer als oder gleich 0 sein\!
+CustomPreviewTable.Exception.RowIndexGreaterThan0=Zeilenindex muss grÃ¶ÃŸer als oder gleichÂ 0 sein\!
 
-ExprEditComposite.InvokeExpressionBuilder=Ausdruckserstellung öffnen
+ExprEditComposite.InvokeExpressionBuilder=Ausdruckserstellung Ã¶ffnen

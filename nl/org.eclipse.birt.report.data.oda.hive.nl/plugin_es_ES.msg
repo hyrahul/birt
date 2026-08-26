@@ -7,14 +7,14 @@ oda.parent.category.id=org.eclipse.datatools.connectivity.oda.profileCategory
 # NLS messages
 
 datasource.name=Hive Data Source
-select.dataset.name=Consulta de selección de HQL
+select.dataset.name=Consulta de selecciÃ³n de HQL
 
 jdbc.driver.name=Hive Driver
-dataset.property.queryTimeOut=Tiem&po límite de consulta (en segundos)
+dataset.property.queryTimeOut=Tiem&po lÃ­mite de consulta (en segundos)
 
-dataset.property.rowFetchSize=Tamaño de recuperación de &fila
+dataset.property.rowFetchSize=TamaÃ±o de recuperaciÃ³n de &fila
 
-dataset.property.addListFile=&Añadir archivo de lista
+dataset.property.addListFile=&AÃ±adir archivo de lista
 #
 oda.data.source.name=Hive Data Source
 connection.profile.name=Hive Data Source Connection Profile

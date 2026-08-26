@@ -10,29 +10,29 @@
 # *******************************************************************************/
 
 report.debug=BIRT Report
-script.debug=º¸°í¼­
+script.debug=ë³´ê³ ì„œ
 
-LaunchActionSet.label=µğ¹ö±× º¸°í¼­(&E)
+LaunchActionSet.label=ë””ë²„ê·¸ ë³´ê³ ì„œ(&E)
 
-Script.source.locator=º¸°í¼­ ½ºÅ©¸³Æ® ¿øº» ·ÎÄÉÀÌÅÍ
+Script.source.locator=ë³´ê³ ì„œ ìŠ¤í¬ë¦½íŠ¸ ì›ë³¸ ë¡œì¼€ì´í„°
 
-Debug.jsEditor=º¸°í¼­ µğ¹ö±× JavaScript ÆíÁı±â
+Debug.jsEditor=ë³´ê³ ì„œ ë””ë²„ê·¸ JavaScript í¸ì§‘ê¸°
 
 javaSourceLocatorName=Java Source Locator
-Watch.label=Á¶»ç½Ä¿¡ Ãß°¡
+Watch.label=ì¡°ì‚¬ì‹ì— ì¶”ê°€
 
-ReportActionSet=º¸°í¼­ ÀÛ¾÷ ÁıÇÕ
+ReportActionSet=ë³´ê³ ì„œ ì‘ì—… ì§‘í•©
 
-Run=½ÇÇà(&R)
+Run=ì‹¤í–‰(&R)
 
-ScriptLaunchShortcut.label=º¸°í¼­
+ScriptLaunchShortcut.label=ë³´ê³ ì„œ
 
-DebugReportLaunchShortcut.description=º¸°í¼­ µğ¹ö±×
+DebugReportLaunchShortcut.description=ë³´ê³ ì„œ ë””ë²„ê·¸
 
-EnableBreakpoint.label=Áß´ÜÁ¡ »ç¿ë
+EnableBreakpoint.label=ì¤‘ë‹¨ì  ì‚¬ìš©
 
-ToggleBreakpoint.label=Áß´ÜÁ¡ ÀüÈ¯
+ToggleBreakpoint.label=ì¤‘ë‹¨ì  ì „í™˜
 
-Action.DebugReport=µğ¹ö±× º¸°í¼­
+Action.DebugReport=ë””ë²„ê·¸ ë³´ê³ ì„œ
 
-Menu.Report=º¸°í¼­
+Menu.Report=ë³´ê³ ì„œ

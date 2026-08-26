@@ -55,13 +55,13 @@ dataset.connection.isolationmode.read-committed=read-committed
 
 dataset.connection.isolationmode.repeatable-read=repeatable-read
 
-dataset.connection.isolationmode.serializable=’¼—ñ‰»
+dataset.connection.isolationmode.serializable=ç›´åˆ—åŒ–
                
 #
 #  Below NLS messages apply to all ODA data sources; should be re-factored
 #
 oda.connection.factory.name=ODA Connection Factory
-datasource.property.ssl.trustStorePassword=ƒgƒ‰ƒXƒgƒXƒgƒAƒpƒXƒ[ƒh(&D):
+datasource.property.ssl.trustStorePassword=ãƒˆãƒ©ã‚¹ãƒˆã‚¹ãƒˆã‚¢ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰(&D):
 
-datasource.property.ssl.keyStorePassword=ƒL[ƒXƒgƒAƒpƒXƒ[ƒh(&Y):
+datasource.property.ssl.keyStorePassword=ã‚­ãƒ¼ã‚¹ãƒˆã‚¢ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰(&Y):
 

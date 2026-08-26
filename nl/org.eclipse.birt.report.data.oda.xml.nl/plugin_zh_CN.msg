@@ -13,10 +13,10 @@
 ###############################################################################
 # NLS String
 ###############################################################################
-datasource.name=¾ÉÊ½ BIRT 2.1.x XML Êı¾İÔ´
+datasource.name=æ—§å¼ BIRT 2.1.x XML æ•°æ®æº
 
-dataset.name=BIRT 2.1.x XML Êı¾İ¼¯
+dataset.name=BIRT 2.1.x XML æ•°æ®é›†
 
-datasource.property.xmlFile=XML Êı¾İÔ´ÎÄ¼ş
+datasource.property.xmlFile=XML æ•°æ®æºæ–‡ä»¶
 
-datasource.property.schemaFile=XML ¼Ü¹¹ÎÄ¼ş
+datasource.property.schemaFile=XML æ¶æ„æ–‡ä»¶

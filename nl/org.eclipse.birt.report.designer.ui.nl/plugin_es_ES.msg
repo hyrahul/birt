@@ -21,9 +21,9 @@ ReportWizardDescription=Este asistente crea un nuevo informe a partir de una pla
 
 ReportProjectWizardDescription=Crear un nuevo proyecto de informe.
 
-ReportPerspective=Diseño de informe
+ReportPerspective=DiseÃ±o de informe
 
-ReportViews=Diseño de informe
+ReportViews=DiseÃ±o de informe
 
 WizardCategoryName=Business Intelligence and Reporting Tools
 ReportWizard=Informe
@@ -41,7 +41,7 @@ designer.ui.extensionPointName=Interfaz de usuario de elemento ampliado de infor
 ###############################################################################
 # Preference
 ###############################################################################
-preference.birt=Diseño de informe
+preference.birt=DiseÃ±o de informe
 
 preference.datasetpreview=Editor de conjunto de datos
 
@@ -51,7 +51,7 @@ preference.preview.server=Servidor de vista previa
 
 preference.elementnames=Nombres de elemento
 
-preference.library=Librería
+preference.library=LibrerÃ­a
 
 preference.template=Plantilla
 
@@ -61,19 +61,19 @@ preference.commenttemplates=Plantilla de comentario
 #hcg_bidi
 preference.bidiproperties=Propiedades bidireccionales
 
-preference.layout=Diseño
+preference.layout=DiseÃ±o
 
-preference.expressionsyntax=Sintaxis de expresión
+preference.expressionsyntax=Sintaxis de expresiÃ³n
 
 designer.action.undo.label=Deshacer
 
 designer.action.redo.label=Rehacer
 
-extension.odadatasource=Punto de extensión de fuente de datos ODA
+extension.odadatasource=Punto de extensiÃ³n de fuente de datos ODA
 
 publish.template=Registrar plantilla con el as&istente de nuevos informes...
 
-publish.library=Copiar Li&brería para compartir carpeta de recursos...
+publish.library=Copiar Li&brerÃ­a para compartir carpeta de recursos...
 
 ActionSet.Publish=Publicar recursos
 
@@ -81,4 +81,4 @@ Dummy.label=
 
 preference.classpath=Classpath
 
-parameter.actions=Nuevo &parámetro de informe
+parameter.actions=Nuevo &parÃ¡metro de informe

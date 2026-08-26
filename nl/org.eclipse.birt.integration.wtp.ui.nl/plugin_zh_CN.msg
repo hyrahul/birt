@@ -1,28 +1,28 @@
-birt.web.category.name=ÉÌÒµÖÇÄÜ¼°±¨±í¹¤¾ß(&B)
+birt.web.category.name=å•†ä¸šæ™ºèƒ½åŠæŠ¥è¡¨å·¥å…·(&B)
 
-birt.web.project.name=¾ßÓĞ BIRT ÔËĞĞÊ±µÄ Web ÏîÄ¿
+birt.web.project.name=å…·æœ‰ BIRT è¿è¡Œæ—¶çš„ Web é¡¹ç›®
 
-birt.web.project.description=´´½¨°üº¬ BIRT ÔËĞĞÊ±×é¼şµÄ web ÏîÄ¿
+birt.web.project.description=åˆ›å»ºåŒ…å« BIRT è¿è¡Œæ—¶ç»„ä»¶çš„ web é¡¹ç›®
 
-birt.web.actionsets.description=¶Ô BIRT Web ÏîÄ¿µÄ²Ù×÷
+birt.web.actionsets.description=å¯¹ BIRT Web é¡¹ç›®çš„æ“ä½œ
 
-create.birt.web.module=´´½¨ BIRT Web Ä£¿é
+create.birt.web.module=åˆ›å»º BIRT Web æ¨¡å—
 
-BIRT_FACET_LABEL=BIRT ±¨¸æÔËĞĞÊ±×é¼ş
+BIRT_FACET_LABEL=BIRT æŠ¥å‘Šè¿è¡Œæ—¶ç»„ä»¶
 
-BIRT_FACET_DESCRIPTION=BIRT ±¨¸æÔËĞĞÊ±×é¼ş
+BIRT_FACET_DESCRIPTION=BIRT æŠ¥å‘Šè¿è¡Œæ—¶ç»„ä»¶
 
-BIRT_FACET_TEMPLATE_LABEL=BIRT ±¨¸æ Web ÏîÄ¿
+BIRT_FACET_TEMPLATE_LABEL=BIRT æŠ¥å‘Š Web é¡¹ç›®
 
-BIRT_FACET_TEMPLATE_DESCRIPTION=¾ßÓĞ BIRT ±¨¸æÔËĞĞÊ±×é¼şµÄ Web ÏîÄ¿
+BIRT_FACET_TEMPLATE_DESCRIPTION=å…·æœ‰ BIRT æŠ¥å‘Šè¿è¡Œæ—¶ç»„ä»¶çš„ Web é¡¹ç›®
 
-JSP_New_context_type_Extension_Element.name=ĞÂ½¨¾ßÓĞ BIRT ±ê¼ÇµÄ JSP
+JSP_New_context_type_Extension_Element.name=æ–°å»ºå…·æœ‰ BIRT æ ‡è®°çš„ JSP
 
-JSP_Tag_context_type_Extension_Element.name=ĞÂ½¨ BIRT JSP ±ê¼Ç
+JSP_Tag_context_type_Extension_Element.name=æ–°å»º BIRT JSP æ ‡è®°
 
-BirtResourcesDefinition= BIRT Web Ó¦ÓÃ³ÌĞò×ÊÔ´¶¨Òå
+BirtResourcesDefinition= BIRT Web åº”ç”¨ç¨‹åºèµ„æºå®šä¹‰
 
-birt.action.importruntime.name=µ¼Èë BIRT ÔËĞĞÊ±×é¼ş(&B)...
+birt.action.importruntime.name=å¯¼å…¥ BIRT è¿è¡Œæ—¶ç»„ä»¶(&B)...
 
 
 plugin.version=4.4.0

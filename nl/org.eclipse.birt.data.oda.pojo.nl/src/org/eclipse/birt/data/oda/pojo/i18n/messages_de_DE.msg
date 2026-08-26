@@ -29,7 +29,7 @@ ResultSet.InvalidAppContextValue=Der Typ des Werts von AppContext '{0}' ist '{1}
 
 ResultSet.MissDataSetClassName=POJO-Datensatzklassenname fehlt.
 
-PojoDataSetFromCustomerClass.WrongReturnTypeForNextMethod=Der Ausgabetyp von Methode 'next()' ist ungültig oder primitiv.
+PojoDataSetFromCustomerClass.WrongReturnTypeForNextMethod=Der Ausgabetyp von Methode 'next()' ist ungÃ¼ltig oder primitiv.
 
 ReferenceGraph.DuplicateColumnName=Doppelter Spaltenname: {0}.
 
@@ -37,7 +37,7 @@ ReferenceGraph.DuplicateColumnIndex=Doppelter Spaltenindex: {0}.
 
 ReferenceGraph.InexistentColumnName=Nicht vorhandener Spaltenname: {0}.
 
-ResultSetFromPojoInstance.Invalid1ToNMaps=Es sind zwei nicht vorübergehende 1-zu-n-Zuordnungen vorhanden.
+ResultSetFromPojoInstance.Invalid1ToNMaps=Es sind zwei nicht vorÃ¼bergehende 1-zu-n-Zuordnungen vorhanden.
 
 QueryParameters.OneMethodParameterWith2Types=Methodenparameter '{0}' darf nicht 2 Typen haben: '{1}', '{2}'.
 
@@ -45,6 +45,6 @@ QueryParameters.InexistentParameter=Nicht vorhandener Parameter: '{0}'.
 
 MethodSource.MissingPrameterValue=Parameterwert '{0}' wurde noch nicht festgelegt.
 
-DataTypeUtil.FailToTransferType=Fehler bei Übertragung von '{0}' zum Zieltyp: {1}.
+DataTypeUtil.FailToTransferType=Fehler bei Ãœbertragung von '{0}' zum Zieltyp: {1}.
 
-IllegalArgument.errorMessage=Unzulässiges Argument definiert für Methode:
+IllegalArgument.errorMessage=UnzulÃ¤ssiges Argument definiert fÃ¼r Methode:

@@ -1,16 +1,16 @@
 cheatsheet.category=Business Intelligence and Reporting Tools
-cheatsheet.simplelisting=ŠÈˆÕƒŠƒXƒgƒŒƒ|[ƒg
+cheatsheet.simplelisting=ç°¡æ˜“ãƒªã‚¹ãƒˆãƒ¬ãƒãƒ¼ãƒˆ
 
-cheatsheet.groupedlisting=ƒOƒ‹[ƒv‚²‚Æ‚ÌƒŠƒXƒgƒŒƒ|[ƒg
+cheatsheet.groupedlisting=ã‚°ãƒ«ãƒ¼ãƒ—ã”ã¨ã®ãƒªã‚¹ãƒˆãƒ¬ãƒãƒ¼ãƒˆ
 
-cheatsheet.dualcolumnlisting=ƒJƒ‰ƒ€ƒŠƒXƒg‚Ì“¯•\¦ƒŒƒ|[ƒg
+cheatsheet.dualcolumnlisting=ã‚«ãƒ©ãƒ ãƒªã‚¹ãƒˆã®åŒæ™‚è¡¨ç¤ºãƒ¬ãƒãƒ¼ãƒˆ
 
-cheatsheet.chartlisting=ƒOƒ‰ƒt‚ÆƒŠƒXƒgƒŒƒ|[ƒg
+cheatsheet.chartlisting=ã‚°ãƒ©ãƒ•ã¨ãƒªã‚¹ãƒˆãƒ¬ãƒãƒ¼ãƒˆ
 
-cheatsheet.sidebysidechartlisting=ƒOƒ‰ƒt‚ÆƒŠƒXƒg‚Ì•À—ñ•\¦ƒŒƒ|[ƒg
+cheatsheet.sidebysidechartlisting=ã‚°ãƒ©ãƒ•ã¨ãƒªã‚¹ãƒˆã®ä¸¦åˆ—è¡¨ç¤ºãƒ¬ãƒãƒ¼ãƒˆ
 
-cheatsheet.dualcolumnchartlisting=ƒJƒ‰ƒ€ƒOƒ‰ƒt‚ÆƒŠƒXƒg‚Ì“¯•\¦ƒŒƒ|[ƒg
+cheatsheet.dualcolumnchartlisting=ã‚«ãƒ©ãƒ ã‚°ãƒ©ãƒ•ã¨ãƒªã‚¹ãƒˆã®åŒæ™‚è¡¨ç¤ºãƒ¬ãƒãƒ¼ãƒˆ
 
-cheatsheet.firstreport=‚Í‚¶‚ß‚Ä‚ÌƒŒƒ|[ƒg
+cheatsheet.firstreport=ã¯ã˜ã‚ã¦ã®ãƒ¬ãƒãƒ¼ãƒˆ
 
-cheatsheet.crosstab=ƒNƒƒXƒ^ƒuƒŒƒ|[ƒg
+cheatsheet.crosstab=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ãƒ¬ãƒãƒ¼ãƒˆ

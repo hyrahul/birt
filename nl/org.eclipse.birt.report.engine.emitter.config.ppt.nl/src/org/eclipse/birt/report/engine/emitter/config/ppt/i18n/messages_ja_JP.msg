@@ -11,46 +11,46 @@
 
 ###########################################################
 #PPT Emitter
-PPTEmitter.Description=’Pˆêƒtƒ@ƒCƒ‹ Web ƒA[ƒJƒCƒu (MHTML) Œ`Ž®‚ÅƒŒƒ|[ƒg‚ðƒŒƒ“ƒ_ƒŠƒ“ƒO‚·‚é‚½‚ß‚ÌƒIƒvƒVƒ‡ƒ“‚ðÝ’è‚µ‚Ü‚·B
+PPTEmitter.Description=å˜ä¸€ãƒ•ã‚¡ã‚¤ãƒ« Web ã‚¢ãƒ¼ã‚«ã‚¤ãƒ– (MHTML) å½¢å¼ã§ãƒ¬ãƒãƒ¼ãƒˆã‚’ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã™ã‚‹ãŸã‚ã®ã‚ªãƒ—ã‚·ãƒ§ãƒ³ã‚’è¨­å®šã—ã¾ã™ã€‚
 
 PPTEmitter.DisplayName=PowerPoint (PPT)
 
 ###########################################################
 #Option Display Value
-OptionDisplayValue.BidiProcessing=‘o•ûŒüƒeƒLƒXƒg‚Ìˆ—
+OptionDisplayValue.BidiProcessing=åŒæ–¹å‘ãƒ†ã‚­ã‚¹ãƒˆã®å‡¦ç†
 
-OptionDisplayValue.TextWrapping=•¶Žš—ñ‚ÌÜ‚è•Ô‚µ
+OptionDisplayValue.TextWrapping=æ–‡å­—åˆ—ã®æŠ˜ã‚Šè¿”ã—
 
-OptionDisplayValue.PageOverFlow=ƒI[ƒo[ƒtƒ[‚µ‚Ä‚¢‚éƒy[ƒW‚Ìˆ—
+OptionDisplayValue.PageOverFlow=ã‚ªãƒ¼ãƒãƒ¼ãƒ•ãƒ­ãƒ¼ã—ã¦ã„ã‚‹ãƒšãƒ¼ã‚¸ã®å‡¦ç†
 
-OptionDisplayValue.CLIP_CONTENT=ƒRƒ“ƒeƒ“ƒc‚ÌØ‚è”²‚«
+OptionDisplayValue.CLIP_CONTENT=ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã®åˆ‡ã‚ŠæŠœã
 
-OptionDisplayValue.FIT_TO_PAGE_SIZE=ƒy[ƒWƒTƒCƒY‚É‡‚í‚¹‚é
+OptionDisplayValue.FIT_TO_PAGE_SIZE=ãƒšãƒ¼ã‚¸ã‚µã‚¤ã‚ºã«åˆã‚ã›ã‚‹
 
-OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=•¡”ƒy[ƒW‚Éo—Í
+OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=è¤‡æ•°ãƒšãƒ¼ã‚¸ã«å‡ºåŠ›
 
-OptionDisplayValue.ENLARGE_PAGE_SIZE=ƒy[ƒWƒTƒCƒY‚ð‘å‚«‚­‚·‚é
+OptionDisplayValue.ENLARGE_PAGE_SIZE=ãƒšãƒ¼ã‚¸ã‚µã‚¤ã‚ºã‚’å¤§ããã™ã‚‹
 
-OptionDisplayValue.FontSubstitution=ƒtƒHƒ“ƒg‚Ì’u‚«Š·‚¦
+OptionDisplayValue.FontSubstitution=ãƒ•ã‚©ãƒ³ãƒˆã®ç½®ãæ›ãˆ
 
-OptionDisplayValue.ChartDpi=ƒOƒ‰ƒt‚Ì DPI
+OptionDisplayValue.ChartDpi=ã‚°ãƒ©ãƒ•ã® DPI
 
-OptionDisplayValue.Export2Office2010And2013=Microsoft Office 2010/2013 ‚Ìƒtƒ@ƒCƒ‹‚ðƒGƒNƒXƒ|[ƒg‚·‚é
+OptionDisplayValue.Export2Office2010And2013=Microsoft Office 2010/2013 ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆã™ã‚‹
 
 ###########################################################
 #Option Description
-OptionDescription.BidiProcessing=‘o•ûŒüƒeƒLƒXƒg‚ðƒTƒ|[ƒg‚µ‚Ü‚·B
+OptionDescription.BidiProcessing=åŒæ–¹å‘ãƒ†ã‚­ã‚¹ãƒˆã‚’ã‚µãƒãƒ¼ãƒˆã—ã¾ã™ã€‚
 
-OptionDescription.TextWrapping=•¶Žš—ñ‚ðÜ‚è•Ô‚·‚©‚Ç‚¤‚©‚ðŽ¦‚µ‚Ü‚·B
+OptionDescription.TextWrapping=æ–‡å­—åˆ—ã‚’æŠ˜ã‚Šè¿”ã™ã‹ã©ã†ã‹ã‚’ç¤ºã—ã¾ã™ã€‚
 
-OptionDescription.PageOverFlow=ƒRƒ“ƒeƒ“ƒc‚Ìo—Í•û–@‚ð§Œä‚µ‚Ü‚·B
+OptionDescription.PageOverFlow=ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã®å‡ºåŠ›æ–¹æ³•ã‚’åˆ¶å¾¡ã—ã¾ã™ã€‚
 
-OptionDescription.FontSubstitution=Žw’è‚³‚ê‚½ƒtƒHƒ“ƒg‚Å•\Ž¦‚Å‚«‚È‚¢•¶Žš‚ª‚ ‚éê‡‚ÍAƒtƒHƒ“ƒg‚ðŽ©“®“I‚É‘I‘ð‚µ‚Ü‚·B
+OptionDescription.FontSubstitution=æŒ‡å®šã•ã‚ŒãŸãƒ•ã‚©ãƒ³ãƒˆã§è¡¨ç¤ºã§ããªã„æ–‡å­—ãŒã‚ã‚‹å ´åˆã¯ã€ãƒ•ã‚©ãƒ³ãƒˆã‚’è‡ªå‹•çš„ã«é¸æŠžã—ã¾ã™ã€‚
 
-OptionDescription.ChartDpi=ƒOƒ‰ƒt‚Ì¶¬‚ÉŽg—p‚·‚é DPI ‚Å‚·B
+OptionDescription.ChartDpi=ã‚°ãƒ©ãƒ•ã®ç”Ÿæˆã«ä½¿ç”¨ã™ã‚‹ DPI ã§ã™ã€‚
 
-OptionDescription.Export2Office2010And2013=Office 2010/2013 ‚ðŽg—p‚·‚é‚Æ‚«‚É PPT “à‚Ì .mht Œ`Ž®‚ðƒTƒ|[ƒg‚µ‚Ü‚·B
+OptionDescription.Export2Office2010And2013=Office 2010/2013 ã‚’ä½¿ç”¨ã™ã‚‹ã¨ãã« PPT å†…ã® .mht å½¢å¼ã‚’ã‚µãƒãƒ¼ãƒˆã—ã¾ã™ã€‚
 
 ###########################################################
 #tooltip
-Tooltip.ChartDpi=ƒOƒ‰ƒtƒGƒ“ƒWƒ“‚ªƒOƒ‰ƒt‚Ì¶¬‚ÉŽg—p‚·‚é DPI ‚Å‚·B —á : 192
+Tooltip.ChartDpi=ã‚°ãƒ©ãƒ•ã‚¨ãƒ³ã‚¸ãƒ³ãŒã‚°ãƒ©ãƒ•ã®ç”Ÿæˆã«ä½¿ç”¨ã™ã‚‹ DPI ã§ã™ã€‚ ä¾‹ : 192

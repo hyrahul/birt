@@ -14,60 +14,60 @@
 ###############################################################################
 Build=@BUILD@
 
-ReportEditor=ƒŒƒ|[ƒgƒGƒfƒBƒ^
+ReportEditor=ãƒ¬ãƒãƒ¼ãƒˆã‚¨ãƒ‡ã‚£ã‚¿
 
-TemplateEditor=ƒeƒ“ƒvƒŒ[ƒgƒGƒfƒBƒ^
+TemplateEditor=ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆã‚¨ãƒ‡ã‚£ã‚¿
 
-ReportPerspective=ƒŒƒ|[ƒgƒfƒUƒCƒ“
+ReportPerspective=ãƒ¬ãƒãƒ¼ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³
 
-ReportDocumentEditor=ƒŒƒ|[ƒg•¶‘ƒGƒfƒBƒ^
+ReportDocumentEditor=ãƒ¬ãƒãƒ¼ãƒˆæ–‡æ›¸ã‚¨ãƒ‡ã‚£ã‚¿
 
 ###############################################################################
 # Wizard Info
 ###############################################################################
 WizardCategoryName=Business Intelligence and Reporting Tools
-ReportWizard=ƒŒƒ|[ƒg
+ReportWizard=ãƒ¬ãƒãƒ¼ãƒˆ
 
-ReportWizardDescription=‚±‚ÌƒEƒBƒU[ƒh‚Å‚ÍA’è‹`Ï‚İ‚Ìƒeƒ“ƒvƒŒ[ƒg‚ğg‚Á‚ÄV‚µ‚¢ƒŒƒ|[ƒg‚ğì¬‚µ‚Ü‚·B
+ReportWizardDescription=ã“ã®ã‚¦ã‚£ã‚¶ãƒ¼ãƒ‰ã§ã¯ã€å®šç¾©æ¸ˆã¿ã®ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆã‚’ä½¿ã£ã¦æ–°ã—ã„ãƒ¬ãƒãƒ¼ãƒˆã‚’ä½œæˆã—ã¾ã™ã€‚
 
-TemplateWizard=ƒeƒ“ƒvƒŒ[ƒg
+TemplateWizard=ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ
 
-TemplateWizardDescription=‚±‚ÌƒEƒBƒU[ƒh‚Å‚ÍAV‚µ‚¢ƒeƒ“ƒvƒŒ[ƒg‚ğì¬‚µ‚Ü‚·B
+TemplateWizardDescription=ã“ã®ã‚¦ã‚£ã‚¶ãƒ¼ãƒ‰ã§ã¯ã€æ–°ã—ã„ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆã‚’ä½œæˆã—ã¾ã™ã€‚
 
-ReportProjectWizard=ƒŒƒ|[ƒgƒvƒƒWƒFƒNƒg
+ReportProjectWizard=ãƒ¬ãƒãƒ¼ãƒˆãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ
 
-ReportProjectWizardDescription=V‚µ‚¢ƒŒƒ|[ƒgƒvƒƒWƒFƒNƒg‚ğì¬‚µ‚Ü‚·B
+ReportProjectWizardDescription=æ–°ã—ã„ãƒ¬ãƒãƒ¼ãƒˆãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ä½œæˆã—ã¾ã™ã€‚
 
-LibraryEditor=ƒ‰ƒCƒuƒ‰ƒŠƒGƒfƒBƒ^
+LibraryEditor=ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã‚¨ãƒ‡ã‚£ã‚¿
 
-LibraryWizard=ƒ‰ƒCƒuƒ‰ƒŠ
+LibraryWizard=ãƒ©ã‚¤ãƒ–ãƒ©ãƒª
 
-LibraryWizardDescription=‚±‚ÌƒEƒBƒU[ƒh‚Å‚ÍAV‚µ‚¢ƒŒƒ|[ƒgƒ‰ƒCƒuƒ‰ƒŠ‚ğì¬‚µ‚Ü‚·B
+LibraryWizardDescription=ã“ã®ã‚¦ã‚£ã‚¶ãƒ¼ãƒ‰ã§ã¯ã€æ–°ã—ã„ãƒ¬ãƒãƒ¼ãƒˆãƒ©ã‚¤ãƒ–ãƒ©ãƒªã‚’ä½œæˆã—ã¾ã™ã€‚
 
-OdaRuntimeWizard=ODA Àsƒhƒ‰ƒCƒo‚Ìƒvƒ‰ƒOƒCƒ“ƒvƒƒWƒFƒNƒg
+OdaRuntimeWizard=ODA å®Ÿè¡Œæ™‚ãƒ‰ãƒ©ã‚¤ãƒã®ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ
 
-OdaRuntimeWizardDesc=ODA Àsƒhƒ‰ƒCƒo‚ÌV‚µ‚¢ƒvƒ‰ƒOƒCƒ“‚ğì¬‚µ‚Ü‚·B
+OdaRuntimeWizardDesc=ODA å®Ÿè¡Œæ™‚ãƒ‰ãƒ©ã‚¤ãƒã®æ–°ã—ã„ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã‚’ä½œæˆã—ã¾ã™ã€‚
 
-OdaDesignerWizard=ODA ƒfƒUƒCƒi‚Ìƒvƒ‰ƒOƒCƒ“ƒvƒƒWƒFƒNƒg
+OdaDesignerWizard=ODA ãƒ‡ã‚¶ã‚¤ãƒŠã®ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ
 
-OdaDesignerWizardDesc=ODA ƒfƒUƒCƒi‚ÌV‚µ‚¢ƒvƒ‰ƒOƒCƒ“‚ğì¬‚µ‚Ü‚·B
+OdaDesignerWizardDesc=ODA ãƒ‡ã‚¶ã‚¤ãƒŠã®æ–°ã—ã„ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã‚’ä½œæˆã—ã¾ã™ã€‚
 
 ###############################################################################
 
 ###############################################################################
 # Actions
 ###############################################################################
-Action.Publish=ƒeƒ“ƒvƒŒ[ƒg‚ğƒŒƒ|[ƒg‚ÌV‹Kì¬ƒEƒBƒU[ƒh‚É“o˜^(&Z)...
+Action.Publish=ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆã‚’ãƒ¬ãƒãƒ¼ãƒˆã®æ–°è¦ä½œæˆã‚¦ã‚£ã‚¶ãƒ¼ãƒ‰ã«ç™»éŒ²(&Z)...
 
-Action.PublishLibrary=‹¤—LƒŠƒ\[ƒXƒtƒHƒ‹ƒ_‚Ö‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚ÌƒRƒs[(&B)...
+Action.PublishLibrary=å…±æœ‰ãƒªã‚½ãƒ¼ã‚¹ãƒ•ã‚©ãƒ«ãƒ€ã¸ã®ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã®ã‚³ãƒ”ãƒ¼(&B)...
 
-Action.AddReportNature=ƒŒƒ|[ƒgƒTƒ|[ƒg‚Ì’Ç‰Á
+Action.AddReportNature=ãƒ¬ãƒãƒ¼ãƒˆã‚µãƒãƒ¼ãƒˆã®è¿½åŠ 
 
-Menu.Report=ƒŒƒ|[ƒg
+Menu.Report=ãƒ¬ãƒãƒ¼ãƒˆ
 
-birtproblemName=ƒŒƒ|[ƒg‚Ì–â‘è
+birtproblemName=ãƒ¬ãƒãƒ¼ãƒˆã®å•é¡Œ
 
 ###############################################################################
 # Preferences
 ###############################################################################
-preference.expressionsyntaxcolor=\•¶‚ÌF
+preference.expressionsyntaxcolor=æ§‹æ–‡ã®è‰²

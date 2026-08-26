@@ -10,23 +10,23 @@
 #************************************************************************
 #
 # User messages for the Excel File ODA Designer
-wizard.defaultMessage.selectExcelFile=Sélectionnez ou saisissez le chemin du fichier de la source de données Excel ou son URI.
+wizard.defaultMessage.selectExcelFile=SÃ©lectionnez ou saisissez le chemin du fichier de la source de donnÃ©es Excel ou son URI.
 
-wizard.defaultMessage.selectDataSet=Sélectionnez le classeur et les colonnes pour le jeu de données.
+wizard.defaultMessage.selectDataSet=SÃ©lectionnez le classeur et les colonnes pour le jeu de donnÃ©es.
 
-connection_CANNOT_OPEN_EXCEL_FILE_DB_DIR=Impossible d'ouvrir la source de données Excel dans le dossier sélectionné.
+connection_CANNOT_OPEN_EXCEL_FILE_DB_DIR=Impossible d'ouvrir la source de donnÃ©es Excel dans le dossier sÃ©lectionnÃ©.
 
-ui.ExcelFileNotFound=Impossible de trouver le fichier de la source de données Excel demandé
+ui.ExcelFileNotFound=Impossible de trouver le fichier de la source de donnÃ©es Excel demandÃ©
 
-label.selectFolder=Sél&ectionnez un dossier :
+label.selectFolder=SÃ©l&ectionnez un dossier :
 
-label.selectFile=Sélectionnez un f&ichier :
+label.selectFile=SÃ©lectionnez un f&ichier :
 
-label.selectworksheet=Sélectionnez un &classeur :
+label.selectworksheet=SÃ©lectionnez un &classeur :
 
-label.includeTypeLine=Utilisez la deuxième ligne comme indicateur du type de &données.
+label.includeTypeLine=Utilisez la deuxiÃ¨me ligne comme indicateur du type de &donnÃ©es.
 
-label.includeColumnNameLine= Utilisez la première ligne en t&ant qu'indicateur de nom de colonne.
+label.includeColumnNameLine= Utilisez la premiÃ¨re ligne en t&ant qu'indicateur de nom de colonne.
 
 button.selectFolder.browse=Pa&rcourir...
 
@@ -36,9 +36,9 @@ button.moveDown=&Vers le bas
 
 button.delete=&Supprimer
 
-button.selectFileURI.menuItem.relativePath=Chemin d'accès &relatif
+button.selectFileURI.menuItem.relativePath=Chemin d'accÃ¨s &relatif
 
-button.selectFileURI.menuItem.absolutePath=Chemin d'accès &absolu
+button.selectFileURI.menuItem.absolutePath=Chemin d'accÃ¨s &absolu
 
 editor.title.name=Nom
 
@@ -48,71 +48,71 @@ editor.title.type=Type
 
 datatypes.dateTime=Date Heure
 
-datatypes.decimal=Décimal
+datatypes.decimal=DÃ©cimal
 
 datatypes.float=Flottant
 
 datatypes.integer=Entier
 
-datatypes.string=Chaîne
+datatypes.string=ChaÃ®ne
 
 datatypes.date=Date
 
 datatypes.time=Heure
 
-datatypes.boolean=Booléen
+datatypes.boolean=BoolÃ©en
 
-tooltip.columnnameline=Vérifiez l'existence des noms de colonnes\n dans la première ligne du fichier sélectionné.
+tooltip.columnnameline=VÃ©rifiez l'existence des noms de colonnes\n dans la premiÃ¨re ligne du fichier sÃ©lectionnÃ©.
 
-tooltip.typeline=Vérifiez l'existence de l'indicateur du type de données\n dans la deuxième ligne du fichier sélectionné.
+tooltip.typeline=VÃ©rifiez l'existence de l'indicateur du type de donnÃ©es\n dans la deuxiÃ¨me ligne du fichier sÃ©lectionnÃ©.
 
-tooltip.button.add=Ajouter toutes les colonnes sélectionnées de la table de gauche au jeu de données Excel.
+tooltip.button.add=Ajouter toutes les colonnes sÃ©lectionnÃ©es de la table de gauche au jeu de donnÃ©es Excel.
 
-tooltip.button.up=Déplacer l'élément sélectionné vers le haut.
+tooltip.button.up=DÃ©placer l'Ã©lÃ©ment sÃ©lectionnÃ© vers le haut.
 
-tooltip.button.down=Déplacer l'élément sélectionné vers le bas.
+tooltip.button.down=DÃ©placer l'Ã©lÃ©ment sÃ©lectionnÃ© vers le bas.
 
-tooltip.button.delete=Supprimer l'élément sélectionné.
+tooltip.button.delete=Supprimer l'Ã©lÃ©ment sÃ©lectionnÃ©.
 
-tooltip.trailNull=Colonnes avec valeurs nulles à la fin lors de la lecture des lignes de données.
+tooltip.trailNull=Colonnes avec valeurs nulles Ã  la fin lors de la lecture des lignes de donnÃ©es.
 
-error.selectFolder=Sélectionnez un dossier valide.
+error.selectFolder=SÃ©lectionnez un dossier valide.
 
-error.selectWorksheet=Veuillez sélectionner un classeur pour le jeu de données.
+error.selectWorksheet=Veuillez sÃ©lectionner un classeur pour le jeu de donnÃ©es.
 
-error.selectColumns=Veuillez sélectionner une colonne minimum pour ce jeu de données.
+error.selectColumns=Veuillez sÃ©lectionner une colonne minimum pour ce jeu de donnÃ©es.
 
 error.emptyPath=Entrez un chemin.
 
 error.unexpectedError=Une erreur inattendue s'est produite.
 
-error.invalidConnectionFilePath=Le chemin d''accès source au profil de connexion spécifié, "{0}", n'existe pas.
+error.invalidConnectionFilePath=Le chemin d''accÃ¨s source au profil de connexion spÃ©cifiÃ©, "{0}", n'existe pas.
 
-error.errorExist=Erreur sur la page actuelle.  Souhaitez-vous l'enregistrer quand même ?
+error.errorExist=Erreur sur la page actuelle.  Souhaitez-vous l'enregistrer quand mÃªmeÂ ?
 
-error.noFile=Le fichier de la source de données Excel ({0}) n'existe pas.
+error.noFile=Le fichier de la source de donnÃ©es Excel ({0}) n'existe pas.
 
 error.invalidFilePath=Le chemin du fichier est incorrect.  Voulez-vous continuer ?
 
 error.emptyFilePath=Le chemin du fichier est vide.  Voulez-vous continuer ?
 
-error.duplicatedNameValueOrEmpty=Valeur de nom dupliquée ou vide
+error.duplicatedNameValueOrEmpty=Valeur de nom dupliquÃ©e ou vide
 
-error.emptyFolder=Aucun fichier de source de données Excel trouvé dans le dossier sélectionné.
+error.emptyFolder=Aucun fichier de source de donnÃ©es Excel trouvÃ© dans le dossier sÃ©lectionnÃ©.
 
 title.warning=Avertissement
 
-warning.fileExtensionInvalid=Le fichier sélectionné n'est peut-être pas un fichier Excel valide.
+warning.fileExtensionInvalid=Le fichier sÃ©lectionnÃ© n'est peut-Ãªtre pas un fichier Excel valide.
 
-confirm.reselectWorksheetTitle=Confirmez pour sélectionner une feuille différente.
+confirm.reselectWorksheetTitle=Confirmez pour sÃ©lectionner une feuille diffÃ©rente.
 
-confirm.reselectWorksheetMessage=La sélection d'une autre feuille ne permettra pas l'enregistrement des opérations précédentes.\n\nVoulez-vous continuer ?
+confirm.reselectWorksheetMessage=La sÃ©lection d'une autre feuille ne permettra pas l'enregistrement des opÃ©rations prÃ©cÃ©dentes.\n\nVoulez-vous continuer ?
 
-confirm.reselectFileTitle=Confirmez pour sélectionner un autre fichier.
+confirm.reselectFileTitle=Confirmez pour sÃ©lectionner un autre fichier.
 
-confirm.reselectFileMessage=La sélection d'une autre feuille ne permettra pas l'enregistrement des opérations précédentes.\n\nVoulez-vous continuer ?
+confirm.reselectFileMessage=La sÃ©lection d'une autre feuille ne permettra pas l'enregistrement des opÃ©rations prÃ©cÃ©dentes.\n\nVoulez-vous continuer ?
 
-RelativeFolderSelectionDialog.Title.SelectFolder=Sélectionner un dossier
+RelativeFolderSelectionDialog.Title.SelectFolder=SÃ©lectionner un dossier
 
 RelativeFileSelectionDialog.button.importFile=Fichier d'importation...
 
@@ -120,8 +120,8 @@ RelativeFileSelectionDialog.title.error=Erreur
 
 RelativeFileSelectionDialog.title.overwrite=Ecraser
 
-RelativeFileSelectionDialog.overwrite.msg=Un fichier portant ce nom existe déjà. Voulez-vous l'écraser ?
+RelativeFileSelectionDialog.overwrite.msg=Un fichier portant ce nom existe dÃ©jÃ . Voulez-vous l'Ã©craser ?
 
 RelativeFileSelectionDialog.import.msg=Importation du fichier...
 
-SelectFile.Title=Sélectionnez un fichier
+SelectFile.Title=SÃ©lectionnez un fichier

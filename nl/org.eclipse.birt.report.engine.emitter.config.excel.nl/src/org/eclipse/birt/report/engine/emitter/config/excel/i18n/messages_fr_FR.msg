@@ -17,7 +17,7 @@ ExcelEmitter.DisplayName=Excel (XLS)
 
 ###########################################################
 #Option Display Value
-OptionDisplayValue.WrappingText=Activer le retour à la ligne automatique
+OptionDisplayValue.WrappingText=Activer le retour Ã  la ligne automatique
 
 OptionDisplayValue.OfficeVersion=Version de sortie :
 
@@ -29,12 +29,12 @@ OptionDisplayValue.HideGridlines=Cacher les lignes de la grille
 
 ###########################################################
 #Option Description
-OptionDescription.WrappingText=Indique si le retour à la ligne est autorisé pour le texte.
+OptionDescription.WrappingText=Indique si le retour Ã  la ligne est autorisÃ© pour le texte.
 
-OptionDescription.ChartDpi=DPI utilisé pour générer un graphique.
+OptionDescription.ChartDpi=DPI utilisÃ© pour gÃ©nÃ©rer un graphique.
 
 OptionDescription.HideGridlines=Cacher les lignes de la grille.
 
 ###########################################################
 #tooltip
-Tooltip.ChartDpi=DPI utilisé par le moteur de graphique pour générer des graphiques. Par exemple, 192.
+Tooltip.ChartDpi=DPI utilisÃ© par le moteur de graphique pour gÃ©nÃ©rer des graphiques. Par exemple, 192.

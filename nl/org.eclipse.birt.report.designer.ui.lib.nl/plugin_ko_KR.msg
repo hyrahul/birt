@@ -14,21 +14,21 @@
 # General Info
 ###############################################################################
 LibPerspective=Lib Design
-LibraryEditor=¶óÀÌºê·¯¸® ÆíÁı±â
+LibraryEditor=ë¼ì´ë¸ŒëŸ¬ë¦¬ í¸ì§‘ê¸°
 
 WizardCategoryName=Business Intelligence and Reporting Tools
-LibraryWizard=¶óÀÌºê·¯¸®
+LibraryWizard=ë¼ì´ë¸ŒëŸ¬ë¦¬
 
-LibraryWizardDescription=ÀÌ ¸¶¹ı»ç´Â »õ ¶óÀÌºê·¯¸®¸¦ »ı¼ºÇÕ´Ï´Ù.
+LibraryWizardDescription=ì´ ë§ˆë²•ì‚¬ëŠ” ìƒˆ ë¼ì´ë¸ŒëŸ¬ë¦¬ë¥¼ ìƒì„±í•©ë‹ˆë‹¤.
 
-LibraryProjectWizard=¶óÀÌºê·¯¸® ÇÁ·ÎÁ§Æ®
+LibraryProjectWizard=ë¼ì´ë¸ŒëŸ¬ë¦¬ í”„ë¡œì íŠ¸
 
-LibraryProjectWizardDescription=»õ ¶óÀÌºê·¯¸® ÇÁ·ÎÁ§Æ®¸¦ ¸¸µì´Ï´Ù.
+LibraryProjectWizardDescription=ìƒˆ ë¼ì´ë¸ŒëŸ¬ë¦¬ í”„ë¡œì íŠ¸ë¥¼ ë§Œë“­ë‹ˆë‹¤.
 
-library.layout=·¹ÀÌ¾Æ¿ô(&O)
+library.layout=ë ˆì´ì•„ì›ƒ(&O)
 
-library.script=½ºÅ©¸³Æ®(&S)
+library.script=ìŠ¤í¬ë¦½íŠ¸(&S)
 
-library.xmlsource=XML ¼Ò½º(&X)
+library.xmlsource=XML ì†ŒìŠ¤(&X)
 
-design.masterPage=¸¶½ºÅÍ ÆäÀÌÁö(&M)
+design.masterPage=ë§ˆìŠ¤í„° í˜ì´ì§€(&M)

@@ -1,423 +1,423 @@
 ###########################################################
 #Cube treeNode properties
-DefaultNodeProvider.Tree.Cubes=ƒLƒ…[ƒu
+DefaultNodeProvider.Tree.Cubes=ã‚­ãƒ¥ãƒ¼ãƒ–
 
-cube.new=ƒLƒ…[ƒu‚ÌV‹Kì¬
+cube.new=ã‚­ãƒ¥ãƒ¼ãƒ–ã®æ–°è¦ä½œæˆ
 
-cube.action.new=ƒf[ƒ^ƒLƒ…[ƒu‚ÌV‹Kì¬(&C)
+cube.action.new=ãƒ‡ãƒ¼ã‚¿ã‚­ãƒ¥ãƒ¼ãƒ–ã®æ–°è¦ä½œæˆ(&C)
 
-cube.edit=ƒLƒ…[ƒu‚Ì•ÒW
+cube.edit=ã‚­ãƒ¥ãƒ¼ãƒ–ã®ç·¨é›†
 
-CubeNodeProvider.menu.text=•ÒW(&E)
+CubeNodeProvider.menu.text=ç·¨é›†(&E)
 
-cube.dimension.new=ƒLƒ…[ƒu‚ÌƒfƒBƒƒ“ƒVƒ‡ƒ“‚ÌV‹Kì¬
+cube.dimension.new=ã‚­ãƒ¥ãƒ¼ãƒ–ã®ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³ã®æ–°è¦ä½œæˆ
 
-cube.dimension.edit=ƒLƒ…[ƒu‚ÌƒfƒBƒƒ“ƒVƒ‡ƒ“‚Ì•ÒW
+cube.dimension.edit=ã‚­ãƒ¥ãƒ¼ãƒ–ã®ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³ã®ç·¨é›†
 
-CubeDimensionNodeProvider.menu.text=•ÒW(&E)
+CubeDimensionNodeProvider.menu.text=ç·¨é›†(&E)
 
-CubeGroupContent.Message.Add.Message=ƒTƒ}ƒŠƒtƒB[ƒ‹ƒh–¼ :
+CubeGroupContent.Message.Add.Message=ã‚µãƒãƒªãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰å :
 
-CubeGroupContent.Group.Edit.Message=ƒOƒ‹[ƒv–¼ :
+CubeGroupContent.Group.Edit.Message=ã‚°ãƒ«ãƒ¼ãƒ—å :
 
-CubeGroupContent.Measure.Edit.Title=ƒTƒ}ƒŠƒtƒB[ƒ‹ƒh‚Ì•ÒW
+CubeGroupContent.Measure.Edit.Title=ã‚µãƒãƒªãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã®ç·¨é›†
 
-cube.level.new=ƒLƒ…[ƒu‚ÌƒŒƒxƒ‹‚ÌV‹Kì¬
+cube.level.new=ã‚­ãƒ¥ãƒ¼ãƒ–ã®ãƒ¬ãƒ™ãƒ«ã®æ–°è¦ä½œæˆ
 
-cube.level.edit=ƒŒƒxƒ‹‚Ì•ÒW
+cube.level.edit=ãƒ¬ãƒ™ãƒ«ã®ç·¨é›†
 
-CubeLabelProvider.SharedDimensions=‹¤—LƒfƒBƒƒ“ƒVƒ‡ƒ“
+CubeLabelProvider.SharedDimensions=å…±æœ‰ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³
 
-CubeLevelNodeProvider.menu.text=•ÒW(&E)
+CubeLevelNodeProvider.menu.text=ç·¨é›†(&E)
 
-cube.measure.new=ƒLƒ…[ƒu‚ÌƒƒWƒƒ[‚ÌV‹Kì¬
+cube.measure.new=ã‚­ãƒ¥ãƒ¼ãƒ–ã®ãƒ¡ã‚¸ãƒ£ãƒ¼ã®æ–°è¦ä½œæˆ
 
-cube.measure.edit=ƒLƒ…[ƒu‚ÌƒƒWƒƒ[‚Ì•ÒW
+cube.measure.edit=ã‚­ãƒ¥ãƒ¼ãƒ–ã®ãƒ¡ã‚¸ãƒ£ãƒ¼ã®ç·¨é›†
 
-CubeMeasureNodeProvider.menu.text=•ÒW(&E)
+CubeMeasureNodeProvider.menu.text=ç·¨é›†(&E)
 
-CubeGroupContent.Group.Add.Title=ƒOƒ‹[ƒv‚Ì’Ç‰Á
+CubeGroupContent.Group.Add.Title=ã‚°ãƒ«ãƒ¼ãƒ—ã®è¿½åŠ 
 
-CubeGroupContent.Group.Add.Message=ƒOƒ‹[ƒv–¼(&N) :
+CubeGroupContent.Group.Add.Message=ã‚°ãƒ«ãƒ¼ãƒ—å(&N) :
 
-CubeGroupContent.Measure.Add.Title=ƒTƒ}ƒŠƒtƒB[ƒ‹ƒh‚Ì’Ç‰Á
+CubeGroupContent.Measure.Add.Title=ã‚µãƒãƒªãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã®è¿½åŠ 
 
-CubeGroupContent.Group.Edit.Title=ƒOƒ‹[ƒv‚Ì•ÒW
+CubeGroupContent.Group.Edit.Title=ã‚°ãƒ«ãƒ¼ãƒ—ã®ç·¨é›†
 
-cube.measuregroup.new=ƒLƒ…[ƒu‚ÌƒƒWƒƒ[ƒOƒ‹[ƒv‚ÌV‹Kì¬
+cube.measuregroup.new=ã‚­ãƒ¥ãƒ¼ãƒ–ã®ãƒ¡ã‚¸ãƒ£ãƒ¼ã‚°ãƒ«ãƒ¼ãƒ—ã®æ–°è¦ä½œæˆ
 
-cube.measuregroup.edit=ƒLƒ…[ƒu‚ÌƒƒWƒƒ[‚Ì•ÒW
+cube.measuregroup.edit=ã‚­ãƒ¥ãƒ¼ãƒ–ã®ãƒ¡ã‚¸ãƒ£ãƒ¼ã®ç·¨é›†
 
-CubeMeasureGroupNodeProvider.menu.text=•ÒW(&E)
+CubeMeasureGroupNodeProvider.menu.text=ç·¨é›†(&E)
 
-CubeGroupContent.Measure.Edit.Message=ƒTƒ}ƒŠƒtƒB[ƒ‹ƒh–¼ :
+CubeGroupContent.Measure.Edit.Message=ã‚µãƒãƒªãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰å :
 
-CubeModel.group.edit=ƒOƒ‹[ƒv‚Ì•ÒW(&E)
+CubeModel.group.edit=ã‚°ãƒ«ãƒ¼ãƒ—ã®ç·¨é›†(&E)
 
-Cube.Other.Datasets=‚»‚Ì‘¼
+Cube.Other.Datasets=ãã®ä»–
 
-CubeModel.summaryfield.edit=ƒTƒ}ƒŠƒtƒB[ƒ‹ƒh‚Ì•ÒW(&E)
+CubeModel.summaryfield.edit=ã‚µãƒãƒªãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã®ç·¨é›†(&E)
 
-Cube.Groups=ƒOƒ‹[ƒv (ƒfƒBƒƒ“ƒVƒ‡ƒ“)
+Cube.Groups=ã‚°ãƒ«ãƒ¼ãƒ— (ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³)
 
-Cube.MeasureGroup=ƒTƒ}ƒŠƒtƒB[ƒ‹ƒh (ƒƒWƒƒ[)
+Cube.MeasureGroup=ã‚µãƒãƒªãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ (ãƒ¡ã‚¸ãƒ£ãƒ¼)
 
-CubeGroupContent.MeasureDataTypeErrorDialog.Message=ƒƒWƒƒ[‚Å‚Í Any Œ^‚Ìƒf[ƒ^‚ğg—p‚Å‚«‚Ü‚¹‚ñB•Ê‚Ìƒf[ƒ^—ñ‚ğ‘I‘ğ‚·‚é‚©A—ñ "{0}" ‚Ìƒf[ƒ^Œ^‚ğ•ÏX‚µ‚Ä‚­‚¾‚³‚¢B
+CubeGroupContent.MeasureDataTypeErrorDialog.Message=ãƒ¡ã‚¸ãƒ£ãƒ¼ã§ã¯ Any å‹ã®ãƒ‡ãƒ¼ã‚¿ã‚’ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚åˆ¥ã®ãƒ‡ãƒ¼ã‚¿åˆ—ã‚’é¸æŠã™ã‚‹ã‹ã€åˆ— "{0}" ã®ãƒ‡ãƒ¼ã‚¿å‹ã‚’å¤‰æ›´ã—ã¦ãã ã•ã„ã€‚
 
-CubeGroupContent.MeasureDataTypeErrorDialog.Title=Œx
+CubeGroupContent.MeasureDataTypeErrorDialog.Title=è­¦å‘Š
 ###########################################################
 #Cube Builder Dialog properties
-CubeBuilder.AutoPrimaryKeyDialog.Message=ƒWƒ‡ƒCƒ“ƒL[‚Æ‚µ‚Äg—p‚³‚ê‚Ä‚¢‚é—ñ‚Ì’†‚ÉAƒŒƒxƒ‹‚Å’è‹`‚³‚ê‚Ä‚¢‚È‚¢‚à‚Ì‚ª‚ ‚è‚Ü‚·Bu©“®ƒvƒ‰ƒCƒ}ƒŠƒL[vƒIƒvƒVƒ‡ƒ“‚ğŠm”F‚µ‚ÄAƒLƒ…[ƒu‚ğŠ®¬‚µ‚Ü‚·‚© ?
+CubeBuilder.AutoPrimaryKeyDialog.Message=ã‚¸ãƒ§ã‚¤ãƒ³ã‚­ãƒ¼ã¨ã—ã¦ä½¿ç”¨ã•ã‚Œã¦ã„ã‚‹åˆ—ã®ä¸­ã«ã€ãƒ¬ãƒ™ãƒ«ã§å®šç¾©ã•ã‚Œã¦ã„ãªã„ã‚‚ã®ãŒã‚ã‚Šã¾ã™ã€‚ã€Œè‡ªå‹•ãƒ—ãƒ©ã‚¤ãƒãƒªã‚­ãƒ¼ã€ã‚ªãƒ—ã‚·ãƒ§ãƒ³ã‚’ç¢ºèªã—ã¦ã€ã‚­ãƒ¥ãƒ¼ãƒ–ã‚’å®Œæˆã—ã¾ã™ã‹ ?
 
-CubeBuilder.AutoPrimaryKeyDialog.Title=©“®ƒvƒ‰ƒCƒ}ƒŠƒL[‚Ì–â‘è
+CubeBuilder.AutoPrimaryKeyDialog.Title=è‡ªå‹•ãƒ—ãƒ©ã‚¤ãƒãƒªã‚­ãƒ¼ã®å•é¡Œ
 
-CubeBuilder.SharedDimensionErrorLinkDialog.Message=‹¤—LƒfƒBƒƒ“ƒVƒ‡ƒ“‚Ì‚·‚×‚Ä‚Ìƒvƒ‰ƒCƒ}ƒŠƒL[‚ÍƒŠƒ“ƒN‚³‚ê‚Ä‚¢‚é•K—v‚ª‚ ‚è‚Ü‚·B•s–¾‚ÈƒŠƒ“ƒN‚ğ’è‹`‚µ‚ÄƒLƒ…[ƒu‚ğŠ®¬‚µ‚Ü‚·‚© ?
+CubeBuilder.SharedDimensionErrorLinkDialog.Message=å…±æœ‰ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³ã®ã™ã¹ã¦ã®ãƒ—ãƒ©ã‚¤ãƒãƒªã‚­ãƒ¼ã¯ãƒªãƒ³ã‚¯ã•ã‚Œã¦ã„ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚ä¸æ˜ãªãƒªãƒ³ã‚¯ã‚’å®šç¾©ã—ã¦ã‚­ãƒ¥ãƒ¼ãƒ–ã‚’å®Œæˆã—ã¾ã™ã‹ ?
 
-CubeBuilder.SharedDimensionErrorLinkDialog.Title=•s–¾‚È‹¤—LƒfƒBƒƒ“ƒVƒ‡ƒ“ƒŠƒ“ƒN
+CubeBuilder.SharedDimensionErrorLinkDialog.Title=ä¸æ˜ãªå…±æœ‰ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³ãƒªãƒ³ã‚¯
 
-CubeBuilder.Title=ƒf[ƒ^ƒLƒ…[ƒuƒrƒ‹ƒ_
+CubeBuilder.Title=ãƒ‡ãƒ¼ã‚¿ã‚­ãƒ¥ãƒ¼ãƒ–ãƒ“ãƒ«ãƒ€
 
-DatasePage.EmptyName.ErrorMessage=ƒLƒ…[ƒu‚Ì–¼‘O‚ğw’è‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B
+DatasePage.EmptyName.ErrorMessage=ã‚­ãƒ¥ãƒ¼ãƒ–ã®åå‰ã‚’æŒ‡å®šã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
-DatasetPage.Title=ƒf[ƒ^ƒZƒbƒg
+DatasetPage.Title=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆ
 
-GroupDialog.Access.Control.List.Expression=ƒAƒNƒZƒXƒRƒ“ƒgƒ[ƒ‹ƒŠƒXƒg‚Ì®(&A) :
+GroupDialog.Access.Control.List.Expression=ã‚¢ã‚¯ã‚»ã‚¹ã‚³ãƒ³ãƒˆãƒ­ãƒ¼ãƒ«ãƒªã‚¹ãƒˆã®å¼(&A) :
 
-GroupDialog.Button.DateGroup=“ú•tƒOƒ‹[ƒv(&D)
+GroupDialog.Button.DateGroup=æ—¥ä»˜ã‚°ãƒ«ãƒ¼ãƒ—(&D)
 
-GroupDialog.Button.RegularGroup=’ÊíƒOƒ‹[ƒv(&R)
+GroupDialog.Button.RegularGroup=é€šå¸¸ã‚°ãƒ«ãƒ¼ãƒ—(&R)
 
-GroupRenameDialog.Access.Control.List.Expression=ƒAƒNƒZƒXƒRƒ“ƒgƒ[ƒ‹ƒŠƒXƒg‚Ì®(&A) :
+GroupRenameDialog.Access.Control.List.Expression=ã‚¢ã‚¯ã‚»ã‚¹ã‚³ãƒ³ãƒˆãƒ­ãƒ¼ãƒ«ãƒªã‚¹ãƒˆã®å¼(&A) :
 
-GroupsPage.Title=ƒOƒ‹[ƒv‚ÆƒTƒ}ƒŠ
+GroupsPage.Title=ã‚°ãƒ«ãƒ¼ãƒ—ã¨ã‚µãƒãƒª
 
-LinkGroupsPage.Title=ƒŠƒ“ƒNƒOƒ‹[ƒv
+LinkGroupsPage.Title=ãƒªãƒ³ã‚¯ã‚°ãƒ«ãƒ¼ãƒ—
 
-DatasetPage.Label.Name=–¼‘O(&N):
+DatasetPage.Label.Name=åå‰(&N):
 
-DateGroupDialog.Title=ƒOƒ‹[ƒvƒŒƒxƒ‹‚Ì’Ç‰Á‚Æ•ÒW
+DateGroupDialog.Title=ã‚°ãƒ«ãƒ¼ãƒ—ãƒ¬ãƒ™ãƒ«ã®è¿½åŠ ã¨ç·¨é›†
 
-DateGroupDialog.Message.NumericName=ƒOƒ‹[ƒv–¼‚É”š‚Ì‚İ‚ğw’è‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+DateGroupDialog.Message.NumericName=ã‚°ãƒ«ãƒ¼ãƒ—åã«æ•°å­—ã®ã¿ã‚’æŒ‡å®šã™ã‚‹ã“ã¨ã¯ã§ãã¾ã›ã‚“ã€‚
 
-DateGroupDialog.Message.DuplicateName=‚±‚Ì–¼‘O‚Í‚·‚Å‚Ég‚í‚ê‚Ä‚¢‚Ü‚·B
+DateGroupDialog.Message.DuplicateName=ã“ã®åå‰ã¯ã™ã§ã«ä½¿ã‚ã‚Œã¦ã„ã¾ã™ã€‚
 
-DateGroupDialog.Message.BlankName=ƒOƒ‹[ƒv–¼‚Í‹ó”’‚É‚Å‚«‚Ü‚¹‚ñB
+DateGroupDialog.Message.BlankName=ã‚°ãƒ«ãƒ¼ãƒ—åã¯ç©ºç™½ã«ã§ãã¾ã›ã‚“ã€‚
 
-DateLevelDialog.Access.Control.List.Expression=ƒAƒNƒZƒXƒRƒ“ƒgƒ[ƒ‹ƒŠƒXƒg‚Ì®(&A) :
+DateLevelDialog.Access.Control.List.Expression=ã‚¢ã‚¯ã‚»ã‚¹ã‚³ãƒ³ãƒˆãƒ­ãƒ¼ãƒ«ãƒªã‚¹ãƒˆã®å¼(&A) :
 
-DateLevelDialog.Button.Text.Edit=•ÒW(&E)...
+DateLevelDialog.Button.Text.Edit=ç·¨é›†(&E)...
 
-DateLevelDialog.Title=“ú•tƒŒƒxƒ‹‚Ì•ÒW
+DateLevelDialog.Title=æ—¥ä»˜ãƒ¬ãƒ™ãƒ«ã®ç·¨é›†
 
-DatasetPage.Label.PrimaryDataset=ƒvƒ‰ƒCƒ}ƒŠƒf[ƒ^ƒZƒbƒg(&P) :
+DatasetPage.Label.PrimaryDataset=ãƒ—ãƒ©ã‚¤ãƒãƒªãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆ(&P) :
 
-DatasetPage.Button.Filter=ƒtƒBƒ‹ƒ^(&F)...
+DatasetPage.Button.Filter=ãƒ•ã‚£ãƒ«ã‚¿(&F)...
 
-DatasetPage.Button.Joint=ƒWƒ‡ƒCƒ“ƒf[ƒ^ƒZƒbƒg‚Ì’Ç‰Á...
+DatasetPage.Button.Joint=ã‚¸ãƒ§ã‚¤ãƒ³ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®è¿½åŠ ...
 
-DatasetPage.Title.Title=ƒf[ƒ^ƒZƒbƒg
+DatasetPage.Title.Title=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆ
 
-DateGroupDialog.Message=ŠÜ‚ß‚é“ú•tƒtƒB[ƒ‹ƒh‚ğ‘I‘ğ‚µ‚Ä‚­‚¾‚³‚¢B
+DateGroupDialog.Message=å«ã‚ã‚‹æ—¥ä»˜ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’é¸æŠã—ã¦ãã ã•ã„ã€‚
 
-DateGroupDialog.Message.Regular=ƒOƒ‹[ƒv–¼‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢B
+DateGroupDialog.Message.Regular=ã‚°ãƒ«ãƒ¼ãƒ—åã‚’å…¥åŠ›ã—ã¦ãã ã•ã„ã€‚
 
-DateLevelDialog.Message=“ú•tŒ^ƒŒƒxƒ‹‚Ì•ÒW
+DateLevelDialog.Message=æ—¥ä»˜å‹ãƒ¬ãƒ™ãƒ«ã®ç·¨é›†
 
-DateLevelDialog.Message.NumericName=ƒŒƒxƒ‹–¼‚É”š‚Ì‚İ‚ğw’è‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+DateLevelDialog.Message.NumericName=ãƒ¬ãƒ™ãƒ«åã«æ•°å­—ã®ã¿ã‚’æŒ‡å®šã™ã‚‹ã“ã¨ã¯ã§ãã¾ã›ã‚“ã€‚
 
-DateLevelDialog.Message.BlankName=ƒŒƒxƒ‹–¼‚Í‹ó”’‚É‚Å‚«‚Ü‚¹‚ñB
+DateLevelDialog.Message.BlankName=ãƒ¬ãƒ™ãƒ«åã¯ç©ºç™½ã«ã§ãã¾ã›ã‚“ã€‚
 
-DatasetPage.Title.Message=ƒLƒ…[ƒu‚Ìƒf[ƒ^ƒZƒbƒg‚ğ’è‹`‚µ‚Ü‚·B
+DatasetPage.Title.Message=ã‚­ãƒ¥ãƒ¼ãƒ–ã®ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã‚’å®šç¾©ã—ã¾ã™ã€‚
 
-DatasetPage.Container.Title.Message=ƒf[ƒ^ƒZƒbƒg‚Ì‘I‘ğ
+DatasetPage.Container.Title.Message=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®é¸æŠ
 
-DatasetNodeEditPart.Primary.Dataset=(ƒvƒ‰ƒCƒ}ƒŠ)
+DatasetNodeEditPart.Primary.Dataset=(ãƒ—ãƒ©ã‚¤ãƒãƒª)
 
-GroupsPage.Title.Title=ƒOƒ‹[ƒv‚ÆƒTƒ}ƒŠ
+GroupsPage.Title.Title=ã‚°ãƒ«ãƒ¼ãƒ—ã¨ã‚µãƒãƒª
 
-GroupsPage.Title.Message=g—p‰Â”\‚Èƒf[ƒ^ƒZƒbƒg‚ÌƒtƒB[ƒ‹ƒh‚ğƒOƒ‹[ƒv‰»‚ÌŠK‘w‚ÆƒTƒ}ƒŠƒf[ƒ^ƒtƒB[ƒ‹ƒh‚Éƒhƒ‰ƒbƒO‚µ‚Ä‚­‚¾‚³‚¢B
+GroupsPage.Title.Message=ä½¿ç”¨å¯èƒ½ãªãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’ã‚°ãƒ«ãƒ¼ãƒ—åŒ–ã®éšå±¤ã¨ã‚µãƒãƒªãƒ‡ãƒ¼ã‚¿ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã«ãƒ‰ãƒ©ãƒƒã‚°ã—ã¦ãã ã•ã„ã€‚
 
-GroupsPage.Container.Title.Message=ƒOƒ‹[ƒv‚ÆƒTƒ}ƒŠ
+GroupsPage.Container.Title.Message=ã‚°ãƒ«ãƒ¼ãƒ—ã¨ã‚µãƒãƒª
 
-SimpleCubeBuilder.Title.Title=ƒNƒƒXƒ^ƒuƒLƒ…[ƒuƒrƒ‹ƒ_
+SimpleCubeBuilder.Title.Title=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã‚­ãƒ¥ãƒ¼ãƒ–ãƒ“ãƒ«ãƒ€
 
-SimpleCubeBuilder.Title.Message=ƒOƒ‹[ƒv‰»‚ÌŠK‘w‚ÆƒTƒ}ƒŠƒf[ƒ^ƒtƒB[ƒ‹ƒh‚ğw’è‚µ‚ÄAƒNƒƒXƒ^ƒu‚Ìƒf[ƒ^‚ğ•Ò¬‚µ‚Ü‚·B
+SimpleCubeBuilder.Title.Message=ã‚°ãƒ«ãƒ¼ãƒ—åŒ–ã®éšå±¤ã¨ã‚µãƒãƒªãƒ‡ãƒ¼ã‚¿ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’æŒ‡å®šã—ã¦ã€ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã®ãƒ‡ãƒ¼ã‚¿ã‚’ç·¨æˆã—ã¾ã™ã€‚
 
-SimpleCubeBuilder.Title=ƒNƒƒXƒ^ƒuƒLƒ…[ƒuƒrƒ‹ƒ_
+SimpleCubeBuilder.Title=ã‚¯ãƒ­ã‚¹ã‚¿ãƒ–ã‚­ãƒ¥ãƒ¼ãƒ–ãƒ“ãƒ«ãƒ€
 
-SimpleCubeBuilder.Label.Name=–¼‘O:
+SimpleCubeBuilder.Label.Name=åå‰:
 
-DatasetSelectionPage.Label.Auto.Primary.Key=ƒLƒ…[ƒu¶¬’†‚Éƒvƒ‰ƒCƒ}ƒŠƒf[ƒ^ƒZƒbƒg“à‚Å‚Ì–‘OWŒv‚ğ‰ñ”ğ‚·‚éê‡A‚±‚ÌƒIƒvƒVƒ‡ƒ“‚ğƒIƒ“‚É‚·‚é(&C)
+DatasetSelectionPage.Label.Auto.Primary.Key=ã‚­ãƒ¥ãƒ¼ãƒ–ç”Ÿæˆä¸­ã«ãƒ—ãƒ©ã‚¤ãƒãƒªãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆå†…ã§ã®äº‹å‰é›†è¨ˆã‚’å›é¿ã™ã‚‹å ´åˆã€ã“ã®ã‚ªãƒ—ã‚·ãƒ§ãƒ³ã‚’ã‚ªãƒ³ã«ã™ã‚‹(&C)
 
-DatasetSelectionPage.Text.Auto.Primary.Key=ƒqƒ“ƒg - ‚±‚ÌƒIƒvƒVƒ‡ƒ“‚ªƒIƒ“‚Ìê‡ABIRT ‚ÍƒLƒ…[ƒu¶¬ƒpƒtƒH[ƒ}ƒ“ƒX‚ğŒüã‚³‚¹‚é‚½‚ßAƒLƒ…[ƒu¶¬’†‚ÌƒOƒ‹[ƒv‰»EWŒv‚ÌŒvZ‚ğƒXƒLƒbƒv‚µ‚Ü‚·B
+DatasetSelectionPage.Text.Auto.Primary.Key=ãƒ’ãƒ³ãƒˆ - ã“ã®ã‚ªãƒ—ã‚·ãƒ§ãƒ³ãŒã‚ªãƒ³ã®å ´åˆã€BIRT ã¯ã‚­ãƒ¥ãƒ¼ãƒ–ç”Ÿæˆãƒ‘ãƒ•ã‚©ãƒ¼ãƒãƒ³ã‚¹ã‚’å‘ä¸Šã•ã›ã‚‹ãŸã‚ã€ã‚­ãƒ¥ãƒ¼ãƒ–ç”Ÿæˆä¸­ã®ã‚°ãƒ«ãƒ¼ãƒ—åŒ–ãƒ»é›†è¨ˆã®è¨ˆç®—ã‚’ã‚¹ã‚­ãƒƒãƒ—ã—ã¾ã™ã€‚
 
-DatasetSelectionPage.Combo.NewDataSet0=<V‹Kƒf[ƒ^ƒZƒbƒg...>
+DatasetSelectionPage.Combo.NewDataSet0=<æ–°è¦ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆ...>
 
-GroupsPage.Button.Add=’Ç‰Á(&A)
+GroupsPage.Button.Add=è¿½åŠ (&A)
 
-GroupsPage.Button.Edit=•ÒW(&E)
+GroupsPage.Button.Edit=ç·¨é›†(&E)
 
-GroupsPage.Button.Delete=íœ(&D)
+GroupsPage.Button.Delete=å‰Šé™¤(&D)
 
-GroupsPage.ArrowButton.Add.Tooltip=‘I‘ğƒtƒB[ƒ‹ƒh‚Ì’Ç‰Á
+GroupsPage.ArrowButton.Add.Tooltip=é¸æŠãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã®è¿½åŠ 
 
-GroupsPage.ArrowButton.Remove.Tooltip=‘I‘ğƒtƒB[ƒ‹ƒh‚Ìíœ
+GroupsPage.ArrowButton.Remove.Tooltip=é¸æŠãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã®å‰Šé™¤
 
-GroupsPage.Label.DataField=‘I‘ğ‰Â”\‚ÈƒtƒB[ƒ‹ƒh :
+GroupsPage.Label.DataField=é¸æŠå¯èƒ½ãªãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ :
 
-GroupsPage.Label.Group=ƒOƒ‹[ƒv‚ÆƒTƒ}ƒŠ :
+GroupsPage.Label.Group=ã‚°ãƒ«ãƒ¼ãƒ—ã¨ã‚µãƒãƒª :
 
-GroupsPage.tooltip.Sort=ƒ\[ƒg
+GroupsPage.tooltip.Sort=ã‚½ãƒ¼ãƒˆ
 
-GroupsPage.Primary.Dataset=(ƒvƒ‰ƒCƒ}ƒŠ)
+GroupsPage.Primary.Dataset=(ãƒ—ãƒ©ã‚¤ãƒãƒª)
 
-GroupsPage.VirtualField.Measure=(ƒƒWƒƒ[‚ğì¬‚·‚é‚É‚ÍAƒtƒB[ƒ‹ƒh‚ğ‚±‚±‚Éƒhƒƒbƒv‚µ‚Ü‚·)
+GroupsPage.VirtualField.Measure=(ãƒ¡ã‚¸ãƒ£ãƒ¼ã‚’ä½œæˆã™ã‚‹ã«ã¯ã€ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’ã“ã“ã«ãƒ‰ãƒ­ãƒƒãƒ—ã—ã¾ã™)
 
-GroupsPage.VirtualField.Level=(ƒŒƒxƒ‹‚ğì¬‚·‚é‚É‚ÍAƒtƒB[ƒ‹ƒh‚ğ‚±‚±‚Éƒhƒƒbƒv‚µ‚Ü‚·)
+GroupsPage.VirtualField.Level=(ãƒ¬ãƒ™ãƒ«ã‚’ä½œæˆã™ã‚‹ã«ã¯ã€ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’ã“ã“ã«ãƒ‰ãƒ­ãƒƒãƒ—ã—ã¾ã™)
 
-GroupsPage.VirtualField.MeasureGroup=(ƒTƒ}ƒŠƒtƒB[ƒ‹ƒh‚ğì¬‚·‚é‚É‚ÍAƒtƒB[ƒ‹ƒh‚ğ‚±‚±‚Éƒhƒƒbƒv‚µ‚Ü‚·)
+GroupsPage.VirtualField.MeasureGroup=(ã‚µãƒãƒªãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’ä½œæˆã™ã‚‹ã«ã¯ã€ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’ã“ã“ã«ãƒ‰ãƒ­ãƒƒãƒ—ã—ã¾ã™)
 
-GroupsPage.VirtualField.Dimension=(ƒOƒ‹[ƒv‚ğì¬‚·‚é‚É‚ÍAƒtƒB[ƒ‹ƒh‚ğ‚±‚±‚Éƒhƒƒbƒv‚µ‚Ü‚·)
+GroupsPage.VirtualField.Dimension=(ã‚°ãƒ«ãƒ¼ãƒ—ã‚’ä½œæˆã™ã‚‹ã«ã¯ã€ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’ã“ã“ã«ãƒ‰ãƒ­ãƒƒãƒ—ã—ã¾ã™)
 
-GroupsPage.Reference=QÆ‚ªŒ©‚Â‚©‚è‚Ü‚µ‚½B
+GroupsPage.Reference=å‚ç…§ãŒè¦‹ã¤ã‹ã‚Šã¾ã—ãŸã€‚
 
-GroupsPage.Clients=\ ‚É‚ÍŸ‚ÌƒNƒ‰ƒCƒAƒ“ƒg‚ª‚ ‚è‚Ü‚·B
+GroupsPage.Clients=\ ã«ã¯æ¬¡ã®ã‚¯ãƒ©ã‚¤ã‚¢ãƒ³ãƒˆãŒã‚ã‚Šã¾ã™ã€‚
 
-GroupsPage.Dlg.Confirm=íœ‚µ‚Ü‚·‚© ?
+GroupsPage.Dlg.Confirm=å‰Šé™¤ã—ã¾ã™ã‹ ?
 
-LinkGroupsPage.Container.Title.Message=ƒŠƒ“ƒNƒOƒ‹[ƒv
+LinkGroupsPage.Container.Title.Message=ãƒªãƒ³ã‚¯ã‚°ãƒ«ãƒ¼ãƒ—
 
-LinkGroupsPage.Title.Title=ƒŠƒ“ƒNƒOƒ‹[ƒv
+LinkGroupsPage.Title.Title=ãƒªãƒ³ã‚¯ã‚°ãƒ«ãƒ¼ãƒ—
 
-LinkGroupsPage.Title.Message=ƒOƒ‹[ƒv‚ğ•Ê‚Ìƒf[ƒ^ƒZƒbƒg‚©‚çƒvƒ‰ƒCƒ}ƒŠƒf[ƒ^ƒZƒbƒg‚ÉƒŠƒ“ƒN‚·‚é‚É‚ÍAƒOƒ‹[ƒv‚©‚çƒtƒB[ƒ‹ƒh‚ğƒhƒ‰ƒbƒO‚µAƒvƒ‰ƒCƒ}ƒŠƒf[ƒ^ƒZƒbƒg‚Éƒhƒƒbƒv‚µ‚Ü‚·B
+LinkGroupsPage.Title.Message=ã‚°ãƒ«ãƒ¼ãƒ—ã‚’åˆ¥ã®ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã‹ã‚‰ãƒ—ãƒ©ã‚¤ãƒãƒªãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã«ãƒªãƒ³ã‚¯ã™ã‚‹ã«ã¯ã€ã‚°ãƒ«ãƒ¼ãƒ—ã‹ã‚‰ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’ãƒ‰ãƒ©ãƒƒã‚°ã—ã€ãƒ—ãƒ©ã‚¤ãƒãƒªãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã«ãƒ‰ãƒ­ãƒƒãƒ—ã—ã¾ã™ã€‚
 
-LevelDialog.Title=ƒvƒƒpƒeƒB
+LevelDialog.Title=ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£
 
-LevelDialog.Label.Name=–¼‘O:
+LevelDialog.Label.Name=åå‰:
 
-LevelDialog.Label.Field=ƒtƒB[ƒ‹ƒh‚Ì‘I‘ğ :
+LevelDialog.Label.Field=ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã®é¸æŠ :
 
-LevelDialog.Label.DataType=ƒf[ƒ^Œ^ :
+LevelDialog.Label.DataType=ãƒ‡ãƒ¼ã‚¿å‹ :
 
-LevelDialog.Label.Info=‘I‘ğÏ‚İ‚ÌƒL[ :
+LevelDialog.Label.Info=é¸æŠæ¸ˆã¿ã®ã‚­ãƒ¼ :
 
-LevelDialog.Label.Add=ƒOƒ‹[ƒvƒŒƒxƒ‹‚Ì’Ç‰Á
+LevelDialog.Label.Add=ã‚°ãƒ«ãƒ¼ãƒ—ãƒ¬ãƒ™ãƒ«ã®è¿½åŠ 
 
-LevelDialog.Label.Edit=ƒOƒ‹[ƒvƒŒƒxƒ‹‚Ì•ÒW
+LevelDialog.Label.Edit=ã‚°ãƒ«ãƒ¼ãƒ—ãƒ¬ãƒ™ãƒ«ã®ç·¨é›†
 
-LevelDynamicAttributeDialog.Label.Member=ƒƒ“ƒo(&M) :
+LevelDynamicAttributeDialog.Label.Member=ãƒ¡ãƒ³ãƒ(&M) :
 
-MeasureDialog.Access.Control.List.Expression=ƒAƒNƒZƒXƒRƒ“ƒgƒ[ƒ‹ƒŠƒXƒg‚Ì®(&A) :
+MeasureDialog.Access.Control.List.Expression=ã‚¢ã‚¯ã‚»ã‚¹ã‚³ãƒ³ãƒˆãƒ­ãƒ¼ãƒ«ãƒªã‚¹ãƒˆã®å¼(&A) :
 
-MeasureDialog.Button.Text.Edit=•ÒW(&E)...
+MeasureDialog.Button.Text.Edit=ç·¨é›†(&E)...
 
-MeasureDialog.Title=ƒvƒƒpƒeƒB
+MeasureDialog.Title=ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£
 
-MeasureDialog.Label.Name=–¼‘O(&N):
+MeasureDialog.Label.Name=åå‰(&N):
 
-MeasureDialog.Label.DisplayName=•\¦–¼(&A) :
+MeasureDialog.Label.DisplayName=è¡¨ç¤ºå(&A) :
 
-MeasureDialog.Label.Function=ŠÖ”(&F) :
+MeasureDialog.Label.Function=é–¢æ•°(&F) :
 
-MeasureDialog.Label.DataType=ƒf[ƒ^Œ^(&D) :
+MeasureDialog.Label.DataType=ãƒ‡ãƒ¼ã‚¿å‹(&D) :
 
-MeasureDialog.Label.Expression=®(&P) :
+MeasureDialog.Label.Expression=å¼(&P) :
 
-MeasureDialog.Label.LinkTo=ƒŠƒ“ƒNæ(&L) :
+MeasureDialog.Label.LinkTo=ãƒªãƒ³ã‚¯å…ˆ(&L) :
 
-MeasureDialog.MessageDialog.Message=Œ»İ‚ÌŠÖ”‚É„§‚³‚ê‚éƒf[ƒ^Œ^‚Í "{0}" ‚Å‚·B‘I‘ğ‚µ‚½ƒf[ƒ^Œ^‚ğ•Û‘¶‚µ‚Ü‚·‚© ?
+MeasureDialog.MessageDialog.Message=ç¾åœ¨ã®é–¢æ•°ã«æ¨å¥¨ã•ã‚Œã‚‹ãƒ‡ãƒ¼ã‚¿å‹ã¯ "{0}" ã§ã™ã€‚é¸æŠã—ãŸãƒ‡ãƒ¼ã‚¿å‹ã‚’ä¿å­˜ã—ã¾ã™ã‹ ?
 
-MeasureDialog.MessageDialog.Title=Œx
+MeasureDialog.MessageDialog.Title=è­¦å‘Š
 
-MeasureDialog.Title.Property=ƒTƒ}ƒŠƒtƒB[ƒ‹ƒh‚Ì•ÒW
+MeasureDialog.Title.Property=ã‚µãƒãƒªãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã®ç·¨é›†
 
-MeasureDialog.Title.Description=ƒTƒ}ƒŠƒtƒB[ƒ‹ƒh
+MeasureDialog.Title.Description=ã‚µãƒãƒªãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰
 
-MeasureDialog.Text.Description=ƒTƒ}ƒŠƒtƒB[ƒ‹ƒh‚ğ•ÏX‚·‚é‚É‚ÍAƒTƒ}ƒŠŠÖ”‚¨‚æ‚Ñƒf[ƒ^ƒtƒB[ƒ‹ƒh‚ğg—p‚·‚é®‚ğw’è‚µ‚Ä‚­‚¾‚³‚¢B
+MeasureDialog.Text.Description=ã‚µãƒãƒªãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’å¤‰æ›´ã™ã‚‹ã«ã¯ã€ã‚µãƒãƒªé–¢æ•°ãŠã‚ˆã³ãƒ‡ãƒ¼ã‚¿ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’ä½¿ç”¨ã™ã‚‹å¼ã‚’æŒ‡å®šã—ã¦ãã ã•ã„ã€‚
 
-MeasureDialog.Message.NumericName=–¼‘O‚É”š‚Ì‚İ‚ğw’è‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+MeasureDialog.Message.NumericName=åå‰ã«æ•°å­—ã®ã¿ã‚’æŒ‡å®šã™ã‚‹ã“ã¨ã¯ã§ãã¾ã›ã‚“ã€‚
 
-MeasureDialog.Message.BlankName=ƒƒWƒƒ[–¼‚Í‹ó”’‚É‚Å‚«‚Ü‚¹‚ñB
+MeasureDialog.Message.BlankName=ãƒ¡ã‚¸ãƒ£ãƒ¼åã¯ç©ºç™½ã«ã§ãã¾ã›ã‚“ã€‚
 
-MeasureDialog.Message.BlankExpression=®‚Í‹ó”’‚É‚Í‚Å‚«‚Ü‚¹‚ñB
+MeasureDialog.Message.BlankExpression=å¼ã¯ç©ºç™½ã«ã¯ã§ãã¾ã›ã‚“ã€‚
 
-MeasureDialog.Label.DerivedMeasure=”h¶ƒƒWƒƒ[‚É‚·‚é(&I)
+MeasureDialog.Label.DerivedMeasure=æ´¾ç”Ÿãƒ¡ã‚¸ãƒ£ãƒ¼ã«ã™ã‚‹(&I)
 
-MeasureDialog.Label.ExprDesc=—á : dataSetRow["QUANTITYORDERED"]
+MeasureDialog.Label.ExprDesc=ä¾‹ : dataSetRow["QUANTITYORDERED"]
 
-MeasureDialog.Label.ExprDesc.Derived=—á : measure["QuantityOrdered"] * measure["PriceEach"]
+MeasureDialog.Label.ExprDesc.Derived=ä¾‹ : measure["QuantityOrdered"] * measure["PriceEach"]
 
-MeasureDialog.Label.Visibility=ƒƒWƒƒ[‚Ì”ñ•\¦(&M)
+MeasureDialog.Label.Visibility=ãƒ¡ã‚¸ãƒ£ãƒ¼ã®éè¡¨ç¤º(&M)
 
-MeasureDialog.Label.Visibility.Group=•\¦/”ñ•\¦
+MeasureDialog.Label.Visibility.Group=è¡¨ç¤º/éè¡¨ç¤º
 
-LevelPropertyDialog.Access.Control.List.Expression=ƒAƒNƒZƒXƒRƒ“ƒgƒ[ƒ‹ƒŠƒXƒg‚Ì®(&A) :
+LevelPropertyDialog.Access.Control.List.Expression=ã‚¢ã‚¯ã‚»ã‚¹ã‚³ãƒ³ãƒˆãƒ­ãƒ¼ãƒ«ãƒªã‚¹ãƒˆã®å¼(&A) :
 
-LevelPropertyDialog.Title.Add=ƒOƒ‹[ƒvƒŒƒxƒ‹‚Ì’Ç‰Á
+LevelPropertyDialog.Title.Add=ã‚°ãƒ«ãƒ¼ãƒ—ãƒ¬ãƒ™ãƒ«ã®è¿½åŠ 
 
-LevelPropertyDialog.Title.Edit=ƒOƒ‹[ƒvƒŒƒxƒ‹‚Ì•ÒW
+LevelPropertyDialog.Title.Edit=ã‚°ãƒ«ãƒ¼ãƒ—ãƒ¬ãƒ™ãƒ«ã®ç·¨é›†
 
-LevelPropertyDialog.Member.Access.Control.List.Expression=ƒƒ“ƒoƒAƒNƒZƒXƒRƒ“ƒgƒ[ƒ‹ƒŠƒXƒg‚Ì®(&M) :
+LevelPropertyDialog.Member.Access.Control.List.Expression=ãƒ¡ãƒ³ãƒã‚¢ã‚¯ã‚»ã‚¹ã‚³ãƒ³ãƒˆãƒ­ãƒ¼ãƒ«ãƒªã‚¹ãƒˆã®å¼(&M) :
 
-LevelPropertyDialog.Message=“®“I‚Ü‚½‚ÍÃ“I‚Ì‚¢‚¸‚ê‚©‚ÌƒOƒ‹[ƒvƒŒƒxƒ‹‚ğ‘I‘ğ‚µAŠeƒtƒB[ƒ‹ƒh‚Éî•ñ‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢B
+LevelPropertyDialog.Message=å‹•çš„ã¾ãŸã¯é™çš„ã®ã„ãšã‚Œã‹ã®ã‚°ãƒ«ãƒ¼ãƒ—ãƒ¬ãƒ™ãƒ«ã‚’é¸æŠã—ã€å„ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã«æƒ…å ±ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„ã€‚
 
-LevelPropertyDialog.Message.NumericName=ƒvƒƒpƒeƒB–¼‚É”š‚Ì‚İ‚ğw’è‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+LevelPropertyDialog.Message.NumericName=ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£åã«æ•°å­—ã®ã¿ã‚’æŒ‡å®šã™ã‚‹ã“ã¨ã¯ã§ãã¾ã›ã‚“ã€‚
 
-LevelPropertyDialog.Message.BlankName=ƒvƒƒpƒeƒB–¼‚Í‹ó”’‚É‚Å‚«‚Ü‚¹‚ñB
+LevelPropertyDialog.Message.BlankName=ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£åã¯ç©ºç™½ã«ã§ãã¾ã›ã‚“ã€‚
 
-LevelPropertyDialog.Message.BlankKeyField=ƒL[ƒtƒB[ƒ‹ƒh‚Í‹ó”’‚É‚Å‚«‚Ü‚¹‚ñB
+LevelPropertyDialog.Message.BlankKeyField=ã‚­ãƒ¼ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã¯ç©ºç™½ã«ã§ãã¾ã›ã‚“ã€‚
 
-LevelPropertyDialog.Message.BlankDataType=ƒf[ƒ^Œ^ƒtƒB[ƒ‹ƒh‚Í‹ó”’‚É‚Å‚«‚Ü‚¹‚ñB
+LevelPropertyDialog.Message.BlankDataType=ãƒ‡ãƒ¼ã‚¿å‹ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã¯ç©ºç™½ã«ã§ãã¾ã›ã‚“ã€‚
 
-LevelPropertyDialog.None=‚È‚µ
+LevelPropertyDialog.None=ãªã—
 
-LevelPropertyDialog.GroupBy=ƒOƒ‹[ƒv‰» :
+LevelPropertyDialog.GroupBy=ã‚°ãƒ«ãƒ¼ãƒ—åŒ– :
 
-LevelPropertyDialog.Name=–¼‘O(&N):
+LevelPropertyDialog.Name=åå‰(&N):
 
-LevelPropertyDialog.MSG.Static.CreateNew=<V‚µ‚¢ƒƒ“ƒo‚ğì¬>
+LevelPropertyDialog.MSG.Static.CreateNew=<æ–°ã—ã„ãƒ¡ãƒ³ãƒã‚’ä½œæˆ>
 
-LevelPropertyDialog.Shell.Title=ƒOƒ‹[ƒvƒŒƒxƒ‹
+LevelPropertyDialog.Shell.Title=ã‚°ãƒ«ãƒ¼ãƒ—ãƒ¬ãƒ™ãƒ«
 
-LevelPropertyDialog.StaticAttributeDialog.Title.Edit=ƒŒƒxƒ‹‘®«‚Ì•ÒW
+LevelPropertyDialog.StaticAttributeDialog.Title.Edit=ãƒ¬ãƒ™ãƒ«å±æ€§ã®ç·¨é›†
 
-LevelPropertyDialog.StaticAttributeDialog.Title.New=ƒŒƒxƒ‹‘®«‚ÌV‹Kì¬
+LevelPropertyDialog.StaticAttributeDialog.Title.New=ãƒ¬ãƒ™ãƒ«å±æ€§ã®æ–°è¦ä½œæˆ
 
-LevelPropertyDialog.StaticTable.Button.Add=’Ç‰Á(&D)...
+LevelPropertyDialog.StaticTable.Button.Add=è¿½åŠ (&D)...
 
-LevelPropertyDialog.StaticTable.Button.Edit=•ÒW(&E)...
+LevelPropertyDialog.StaticTable.Button.Edit=ç·¨é›†(&E)...
 
-LevelPropertyDialog.StaticTable.Button.Remove=íœ(&R)
+LevelPropertyDialog.StaticTable.Button.Remove=å‰Šé™¤(&R)
 
-LevelPropertyDialog.Button.Dynamic=“®“I(&Y)
+LevelPropertyDialog.Button.Dynamic=å‹•çš„(&Y)
 
-LevelPropertyDialog.Button.Static=Ã“I(&S)
+LevelPropertyDialog.Button.Static=é™çš„(&S)
 
-LevelPropertyDialog.DisplayField=•\¦ƒtƒB[ƒ‹ƒh(&D) :
+LevelPropertyDialog.DisplayField=è¡¨ç¤ºãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰(&D) :
 
-LevelPropertyDialog.Button.None=‚È‚µ
+LevelPropertyDialog.Button.None=ãªã—
 
-LevelPropertyDialog.Button.Prefix=Ú“ª«
+LevelPropertyDialog.Button.Prefix=æ¥é ­è¾
 
-LevelPropertyDialog.Button.Text.Edit=•ÒW(&E)...
+LevelPropertyDialog.Button.Text.Edit=ç·¨é›†(&E)...
 
-LevelPropertyDialog.Interval.Base=ŠÛ‚ß‚½”’l‚ğŠÔŠu‚ÌŠî€’l‚Æ‚µ‚Äg—p‚·‚é :
+LevelPropertyDialog.Interval.Base=ä¸¸ã‚ãŸæ•°å€¤ã‚’é–“éš”ã®åŸºæº–å€¤ã¨ã—ã¦ä½¿ç”¨ã™ã‚‹ :
 
-LevelPropertyDialog.Label.Property=ƒŒƒxƒ‹‚ÌƒvƒƒpƒeƒB
+LevelPropertyDialog.Label.Property=ãƒ¬ãƒ™ãƒ«ã®ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£
 
-LevelPropertyDialog.Label.Attribute=‘®«
+LevelPropertyDialog.Label.Attribute=å±æ€§
 
-LevelPropertyDialog.Label.Name=ƒƒ“ƒo
+LevelPropertyDialog.Label.Name=ãƒ¡ãƒ³ãƒ
 
-LevelPropertyDialog.KeyField=ƒL[ƒtƒB[ƒ‹ƒh(&K) :
+LevelPropertyDialog.KeyField=ã‚­ãƒ¼ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰(&K) :
 
-LevelPropertyDialog.DataType=ƒf[ƒ^Œ^(&T) :
+LevelPropertyDialog.DataType=ãƒ‡ãƒ¼ã‚¿å‹(&T) :
 
-LevelPropertyDialog.DefaultValue.Edit.Label=ƒfƒtƒHƒ‹ƒg’l(&V) :
+LevelPropertyDialog.DefaultValue.Edit.Label=ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆå€¤(&V) :
 
-LevelPropertyDialog.DefaultValue.Edit.Title=•ÒW
+LevelPropertyDialog.DefaultValue.Edit.Title=ç·¨é›†
 
-LevelPropertyDialog.DynamicAttributeDialog.Title.Edit=ƒŒƒxƒ‹‘®«‚Ì•ÒW
+LevelPropertyDialog.DynamicAttributeDialog.Title.Edit=ãƒ¬ãƒ™ãƒ«å±æ€§ã®ç·¨é›†
 
-LevelPropertyDialog.DynamicAttributeDialog.Title.New=ƒŒƒxƒ‹‘®«‚ÌV‹Kì¬
+LevelPropertyDialog.DynamicAttributeDialog.Title.New=ãƒ¬ãƒ™ãƒ«å±æ€§ã®æ–°è¦ä½œæˆ
 
-LevelPropertyDialog.DynamicTable.Button.Add=’Ç‰Á(&.)...
+LevelPropertyDialog.DynamicTable.Button.Add=è¿½åŠ (&.)...
 
-LevelPropertyDialog.DynamicTable.Button.Edit=•ÒW(&I)...
+LevelPropertyDialog.DynamicTable.Button.Edit=ç·¨é›†(&I)...
 
-LevelPropertyDialog.DynamicTable.Button.Remove=íœ(&R)
+LevelPropertyDialog.DynamicTable.Button.Remove=å‰Šé™¤(&R)
 
-LevelPropertyDialog.Label.Expression=ğŒ®
+LevelPropertyDialog.Label.Expression=æ¡ä»¶å¼
 
-LevelPropertyDialog.Label.LinkTo=ƒŠƒ“ƒNæ(&L) :
+LevelPropertyDialog.Label.LinkTo=ãƒªãƒ³ã‚¯å…ˆ(&L) :
 
-LevelPropertyDialog.MSG.Dynamic.CreateNew=<V‚µ‚¢‘®«‚ğì¬>
+LevelPropertyDialog.MSG.Dynamic.CreateNew=<æ–°ã—ã„å±æ€§ã‚’ä½œæˆ>
 
-LevelPropertyDialog.MSG.Tooltip=(ã‹L‚ÌğŒ‚Ì‚¢‚¸‚ê‚É‚à“–‚Ä‚Í‚Ü‚ç‚È‚¢‚·‚×‚Ä‚Ì’l‚ğ•\¦‚µ‚Ü‚·)
+LevelPropertyDialog.MSG.Tooltip=(ä¸Šè¨˜ã®æ¡ä»¶ã®ã„ãšã‚Œã«ã‚‚å½“ã¦ã¯ã¾ã‚‰ãªã„ã™ã¹ã¦ã®å€¤ã‚’è¡¨ç¤ºã—ã¾ã™)
 
-LevelPropertyDialog.MSG.DefaultValue=<ƒfƒtƒHƒ‹ƒg’l>
+LevelPropertyDialog.MSG.DefaultValue=<ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆå€¤>
 
-MissLinkDialog.Title=ƒf[ƒ^ƒZƒbƒgŠÔ‚ÌƒŠƒ“ƒNì¬
+MissLinkDialog.Title=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆé–“ã®ãƒªãƒ³ã‚¯ä½œæˆ
 
-MissLinkDialog.Question=‘¼‚Ìƒf[ƒ^ƒZƒbƒg‚Ì‚·‚×‚Ä‚ÌƒOƒ‹[ƒv‚ğƒvƒ‰ƒCƒ}ƒŠƒf[ƒ^ƒZƒbƒg‚ÉƒŠƒ“ƒN‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B•s–¾‚ÈƒŠƒ“ƒN‚ğ’è‹`‚µ‚ÄƒLƒ…[ƒu‚ğŠ®¬‚µ‚Ü‚·‚© ?
+MissLinkDialog.Question=ä»–ã®ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®ã™ã¹ã¦ã®ã‚°ãƒ«ãƒ¼ãƒ—ã‚’ãƒ—ãƒ©ã‚¤ãƒãƒªãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã«ãƒªãƒ³ã‚¯ã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚ä¸æ˜ãªãƒªãƒ³ã‚¯ã‚’å®šç¾©ã—ã¦ã‚­ãƒ¥ãƒ¼ãƒ–ã‚’å®Œæˆã—ã¾ã™ã‹ ?
 
 SetConstraintCommand.setUserProperty=setUserProperty
 ###########################################################
 #RenameInputDialog properties
-RenameInputDialog.DialogTitle=–¼‘O‚Ì•ÏX
+RenameInputDialog.DialogTitle=åå‰ã®å¤‰æ›´
 
-RenameInputDialog.DialogMessage=V‚µ‚¢–¼‘O‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢B
+RenameInputDialog.DialogMessage=æ–°ã—ã„åå‰ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„ã€‚
 
-RenameInputDialog.Message.BlankName=–¼‘O‚Í‹ó”’‚É‚Å‚«‚Ü‚¹‚ñB
+RenameInputDialog.Message.BlankName=åå‰ã¯ç©ºç™½ã«ã§ãã¾ã›ã‚“ã€‚
 
-RenameInputDialog.Message.NumericName=–¼‘O‚É”š‚Ì‚İ‚ğw’è‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+RenameInputDialog.Message.NumericName=åå‰ã«æ•°å­—ã®ã¿ã‚’æŒ‡å®šã™ã‚‹ã“ã¨ã¯ã§ãã¾ã›ã‚“ã€‚
 
-RenameInputDialog.Message.DuplicateName=‚±‚Ì–¼‘O‚Í‚·‚Å‚Ég‚í‚ê‚Ä‚¢‚Ü‚·B
+RenameInputDialog.Message.DuplicateName=ã“ã®åå‰ã¯ã™ã§ã«ä½¿ã‚ã‚Œã¦ã„ã¾ã™ã€‚
 ############################################################
 #ExpressionBuilder properties
-ExpressionProvider.Category.DataSets=g—p‰Â”\‚Èƒf[ƒ^ƒZƒbƒg
+ExpressionProvider.Category.DataSets=ä½¿ç”¨å¯èƒ½ãªãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆ
 
-DateGroupDialog.Shell.Title=ƒOƒ‹[ƒvƒŒƒxƒ‹
+DateGroupDialog.Shell.Title=ã‚°ãƒ«ãƒ¼ãƒ—ãƒ¬ãƒ™ãƒ«
 
-DateLevelDialog.Shell.Title=“ú•tƒŒƒxƒ‹‚Ì•ÒW
+DateLevelDialog.Shell.Title=æ—¥ä»˜ãƒ¬ãƒ™ãƒ«ã®ç·¨é›†
 
-DateLevelDialog.Interval.Base=ŠÛ‚ß‚½”’l‚ğŠÔŠu‚ÌŠî€’l‚Æ‚µ‚Äg—p‚·‚é :
+DateLevelDialog.Interval.Base=ä¸¸ã‚ãŸæ•°å€¤ã‚’é–“éš”ã®åŸºæº–å€¤ã¨ã—ã¦ä½¿ç”¨ã™ã‚‹ :
 
-DateGroupDialog.Name=–¼‘O(&N):
+DateGroupDialog.Name=åå‰(&N):
 
-DateLevelDialog.Name=–¼‘O(&N):
+DateLevelDialog.Name=åå‰(&N):
 
-DateLevelDialog.Type=Œ^(&T) :
+DateLevelDialog.Type=å‹(&T) :
 
-DateLevelDialog.Format=‘®(&F):
+DateLevelDialog.Format=æ›¸å¼(&F):
 
-DateLevelDialog.KeyField=ƒL[ƒtƒB[ƒ‹ƒh :
+DateLevelDialog.KeyField=ã‚­ãƒ¼ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ :
 
-DateLevelDialog.Label.LinkTo=ƒŠƒ“ƒNæ(&L) :
+DateLevelDialog.Label.LinkTo=ãƒªãƒ³ã‚¯å…ˆ(&L) :
 
-DateLevelDialog.None=‚È‚µ
+DateLevelDialog.None=ãªã—
 
 ############################################################
 #Cube Action properties
-NewCubeAction.DataCube=ƒf[ƒ^ƒLƒ…[ƒu
+NewCubeAction.DataCube=ãƒ‡ãƒ¼ã‚¿ã‚­ãƒ¥ãƒ¼ãƒ–
 
-NewCubeAction.trans.cube.new=ƒLƒ…[ƒu‚Ìì¬
+NewCubeAction.trans.cube.new=ã‚­ãƒ¥ãƒ¼ãƒ–ã®ä½œæˆ
 
 ###########################################################
 #CubePageGenerator properties
-PrimaryDatasetDescriptorProvider.Display.Primary.Dataset.Name=ƒvƒ‰ƒCƒ}ƒŠƒf[ƒ^ƒZƒbƒg(&P) :
+PrimaryDatasetDescriptorProvider.Display.Primary.Dataset.Name=ãƒ—ãƒ©ã‚¤ãƒãƒªãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆ(&P) :
 
-CubePageGenerator.List.General=‘S”Ê
+CubePageGenerator.List.General=å…¨èˆ¬
 
 ############################################################
 #FilterListDialog properties
-FilterListDialog.Shell.Title=ƒtƒBƒ‹ƒ^
+FilterListDialog.Shell.Title=ãƒ•ã‚£ãƒ«ã‚¿
 
-FilterListDialog.Menu.ModifyProperty=ƒvƒƒpƒeƒB‚Ì•ÏX
+FilterListDialog.Menu.ModifyProperty=ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£ã®å¤‰æ›´
 
-FilterListDialog.Button.AddWithDialog=’Ç‰Á(&A)...
+FilterListDialog.Button.AddWithDialog=è¿½åŠ (&A)...
 
-FilterListDialog.Button.EditWithDialog=•ÒW(&E)...
+FilterListDialog.Button.EditWithDialog=ç·¨é›†(&E)...
 
-FilterListDialog.Button.Delete=íœ(&R)
+FilterListDialog.Button.Delete=å‰Šé™¤(&R)
 
-VirtualField.SharedDimensions=‹¤—LƒfƒBƒƒ“ƒVƒ‡ƒ“
+VirtualField.SharedDimensions=å…±æœ‰ãƒ‡ã‚£ãƒ¡ãƒ³ã‚·ãƒ§ãƒ³
 
-MeasureDialog.Label.Format=‘®İ’è(&O) :
+MeasureDialog.Label.Format=æ›¸å¼è¨­å®š(&O) :
 
-MeasureDialog.Button.Format.Edit=•ÏX(&G)...
+MeasureDialog.Button.Format.Edit=å¤‰æ›´(&G)...
 
-MeasureDialog.Label.Alignment=”z’u(&I) :
+MeasureDialog.Label.Alignment=é…ç½®(&I) :
 
-LevelPropertyDialog.Label.Format=‘®İ’è(&F) :
+LevelPropertyDialog.Label.Format=æ›¸å¼è¨­å®š(&F) :
 
-LevelPropertyDialog.Button.Format.Edit=•ÏX(&G)...
+LevelPropertyDialog.Button.Format.Edit=å¤‰æ›´(&G)...
 
-LevelStaticAttributeDialog.Error.Message=ƒƒ“ƒo‚Í‹ó”’‚É‚Å‚«‚Ü‚¹‚ñB
+LevelStaticAttributeDialog.Error.Message=ãƒ¡ãƒ³ãƒã¯ç©ºç™½ã«ã§ãã¾ã›ã‚“ã€‚
 
-LevelStaticAttributeDialog.Label.Expression=ğŒ®(&E) :
+LevelStaticAttributeDialog.Label.Expression=æ¡ä»¶å¼(&E) :
 
-LevelStaticAttributeDialog.Label.Member=ƒƒ“ƒo(&M) :
+LevelStaticAttributeDialog.Label.Member=ãƒ¡ãƒ³ãƒ(&M) :
 
-LevelPropertyDialog.Label.Alignment=”z’u(&I) :
+LevelPropertyDialog.Label.Alignment=é…ç½®(&I) :
 

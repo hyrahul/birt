@@ -1,6 +1,6 @@
 ScriptMainTab.title.report=Principal
 
-ScriptMainTab.msg.report.file.name=Nom du fichier d'état
+ScriptMainTab.msg.report.file.name=Nom du fichier d'Ã©tat
 
 ScriptMainTab.msg.eclipse.home=Racine Eclipse
 
@@ -8,9 +8,9 @@ ScriptMainTab.msg.engine.home=Racine Engine
 
 ScriptMainTab.msg.temp.folder=Dossier temp
 
-ScriptMainTab.msg.debug.type=Type de débogage
+ScriptMainTab.msg.debug.type=Type de dÃ©bogage
 
-ScriptMainTab.msg.task.type=Type de tâche
+ScriptMainTab.msg.task.type=Type de tÃ¢che
 
 ScriptMainTab.msg.output=Sortie
 
@@ -20,58 +20,58 @@ ScriptMainTab.msg.debug.type.all=Tous
 
 ScriptMainTab.msg.debug.type.java=Java
 ScriptMainTab.msg.debug.type.script=Java Script
-ScriptMainTab.msg.task.type.run.and.render=Exécution et rendu
+ScriptMainTab.msg.task.type.run.and.render=ExÃ©cution et rendu
 
-ScriptMainTab.msg.task.type.run=Exécution
+ScriptMainTab.msg.task.type.run=ExÃ©cution
 
 ScriptMainTab.msg.task.type.render=Rendu
 
-ScriptMainTab.msg.task.type.run.plus.render=Exécution + Rendu
+ScriptMainTab.msg.task.type.run.plus.render=ExÃ©cution + Rendu
 
-ScriptMainTab.error.msg.no.eclipse.home=La racine Eclipse n'est pas spécifiée.
+ScriptMainTab.error.msg.no.eclipse.home=La racine Eclipse n'est pas spÃ©cifiÃ©e.
 
 ScriptMainTab.error.msg.nonexist.eclipse.home=La racine Eclipse n'existe pas.
 
-ScriptMainTab.error.msg.invalid.eclipse.home=La racine Eclipse doit être un répertoire.
+ScriptMainTab.error.msg.invalid.eclipse.home=La racine Eclipse doit Ãªtre un rÃ©pertoire.
 
-ScriptMainTab.error.msg.no.engine.home=La racine Engine n'est pas spécifiée.
+ScriptMainTab.error.msg.no.engine.home=La racine Engine n'est pas spÃ©cifiÃ©e.
 
 ScriptMainTab.error.msg.nonexist.engine.home=La racine Engine n'existe pas.
 
-ScriptMainTab.error.msg.invalid.engine.home=La racine Engine doit être un répertoire.
+ScriptMainTab.error.msg.invalid.engine.home=La racine Engine doit Ãªtre un rÃ©pertoire.
 
-ScriptMainTab.error.msg.no.temp.folder=Le dossier temp n'est pas spécifié.
+ScriptMainTab.error.msg.no.temp.folder=Le dossier temp n'est pas spÃ©cifiÃ©.
 
 ScriptMainTab.error.msg.nonexist.temp.folder=Le dossier temp n'existe pas.
 
-ScriptMainTab.error.msg.invalid.temp.folder=Le dossier temp doit être un répertoire.
+ScriptMainTab.error.msg.invalid.temp.folder=Le dossier temp doit Ãªtre un rÃ©pertoire.
 
-ScriptMainTab.error.msg.no.report.file=Le fichier d'état n'est pas spécifié.
+ScriptMainTab.error.msg.no.report.file=Le fichier d'Ã©tat n'est pas spÃ©cifiÃ©.
 
-ScriptMainTab.error.msg.nonexist.report.file=Le fichier d'état n'existe pas.
+ScriptMainTab.error.msg.nonexist.report.file=Le fichier d'Ã©tat n'existe pas.
 
-ScriptMainTab.error.msg.invalid.report.file=Le fichier sélectionné n'est pas un fichier du modèle d'état valide.
+ScriptMainTab.error.msg.invalid.report.file=Le fichier sÃ©lectionnÃ© n'est pas un fichier du modÃ¨le d'Ã©tat valide.
 
-ScriptMainTab.error.msg.invalid.document.file=Le fichier sélectionné n'est pas un état valide.
+ScriptMainTab.error.msg.invalid.document.file=Le fichier sÃ©lectionnÃ© n'est pas un Ã©tat valide.
 
-ScriptMainTab.title.eclipse.home=Répertoire racine Eclipse
+ScriptMainTab.title.eclipse.home=RÃ©pertoire racine Eclipse
 
-ScriptMainTab.msg.select.eclipse.home=Sélectionner un répertoire racine Eclipse
+ScriptMainTab.msg.select.eclipse.home=SÃ©lectionner un rÃ©pertoire racine Eclipse
 
-ScriptMainTab.title.temp.folder=Répertoire du dossier temp
+ScriptMainTab.title.temp.folder=RÃ©pertoire du dossier temp
 
-ScriptMainTab.msg.select.temp.folder=Sélectionner un répertoire du dossier temp
+ScriptMainTab.msg.select.temp.folder=SÃ©lectionner un rÃ©pertoire du dossier temp
 
-ScriptMainTab.title.engine.home=Répertoire racine Engine
+ScriptMainTab.title.engine.home=RÃ©pertoire racine Engine
 
-ScriptMainTab.msg.select.engine.home=Sélectionner un répertoire racine Engine
+ScriptMainTab.msg.select.engine.home=SÃ©lectionner un rÃ©pertoire racine Engine
 
-ScriptMainTab.msg.select.report.file=Sélectionner un fichier d'état
+ScriptMainTab.msg.select.report.file=SÃ©lectionner un fichier d'Ã©tat
 
 ScriptMainTab.button.text.search=Rechercher...
 
 ScriptMainTab.button.text.variables=Variables...
 
-ScriptMainTab.msg.open.target.file=Une fois terminé, ouvrir le fichier généré
+ScriptMainTab.msg.open.target.file=Une fois terminÃ©, ouvrir le fichier gÃ©nÃ©rÃ©
 
-ScriptMainTab.msg.use.default.engine.home=Utiliser la racine du moteur par défaut
+ScriptMainTab.msg.use.default.engine.home=Utiliser la racine du moteur par dÃ©faut

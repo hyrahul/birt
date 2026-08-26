@@ -18,7 +18,7 @@ ReportEditor=Editor de informes
 
 TemplateEditor=Editor de plantillas
 
-ReportPerspective=Diseño de informe
+ReportPerspective=DiseÃ±o de informe
 
 ReportDocumentEditor=Editor de documentos de informe
 
@@ -38,19 +38,19 @@ ReportProjectWizard=Proyecto de informe
 
 ReportProjectWizardDescription=Crear un nuevo proyecto de informe.
 
-LibraryEditor=Editor de librerías
+LibraryEditor=Editor de librerÃ­as
 
-LibraryWizard=Librería
+LibraryWizard=LibrerÃ­a
 
-LibraryWizardDescription=Este asistente crea una nueva librería de informes.
+LibraryWizardDescription=Este asistente crea una nueva librerÃ­a de informes.
 
-OdaRuntimeWizard=Proyecto de complemento de controlador de tiempo de ejecución ODA
+OdaRuntimeWizard=Proyecto de complemento de controlador de tiempo de ejecuciÃ³n ODA
 
-OdaRuntimeWizardDesc=Cree un nuevo complemento de controlador de tiempo de ejecución ODA.
+OdaRuntimeWizardDesc=Cree un nuevo complemento de controlador de tiempo de ejecuciÃ³n ODA.
 
-OdaDesignerWizard=Proyecto de complemento de diseñador ODA
+OdaDesignerWizard=Proyecto de complemento de diseÃ±ador ODA
 
-OdaDesignerWizardDesc=Cree un nuevo complemento de diseñador ODA.
+OdaDesignerWizardDesc=Cree un nuevo complemento de diseÃ±ador ODA.
 
 ###############################################################################
 
@@ -59,9 +59,9 @@ OdaDesignerWizardDesc=Cree un nuevo complemento de diseñador ODA.
 ###############################################################################
 Action.Publish=Registrar plantilla con el as&istente de nuevos informes...
 
-Action.PublishLibrary=Copiar Li&brería para compartir carpeta de recursos...
+Action.PublishLibrary=Copiar Li&brerÃ­a para compartir carpeta de recursos...
 
-Action.AddReportNature=Añadir asistencia de informe
+Action.AddReportNature=AÃ±adir asistencia de informe
 
 Menu.Report=Informe
 

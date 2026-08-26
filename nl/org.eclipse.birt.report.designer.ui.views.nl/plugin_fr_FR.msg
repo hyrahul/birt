@@ -17,10 +17,10 @@ Build=@BUILD@
 ###############################################################################
 # General Info
 ###############################################################################
-QuickEditView=Editeur de propriétés
+QuickEditView=Editeur de propriÃ©tÃ©s
 
-ReportViews=Modèle d'état
+ReportViews=ModÃ¨le d'Ã©tat
 
-DataExplorerView=Explorateur de données
+DataExplorerView=Explorateur de donnÃ©es
 
 Variable.Actions=Nouvelle &variable

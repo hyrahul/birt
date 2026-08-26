@@ -18,7 +18,7 @@ oda.data.source.id=org.eclipse.birt.data.oda.mongodb
 #
 plugin.name=MongoDB Data Source ODA Designer
 newwizard.name=MongoDB Data Source
-newwizard.description=Crear un perfil de conexión de fuente datos MongoDB
+newwizard.description=Crear un perfil de conexiÃ³n de fuente datos MongoDB
 
 wizard.window.title=Nuevo perfil de fuente de datos MongoDB
 

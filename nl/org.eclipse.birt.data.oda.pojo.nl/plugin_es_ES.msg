@@ -20,6 +20,6 @@ plugin.name=POJO Data Source ODA Runtime Driver
 data.source.name=POJO Data Source
 data.set.name=POJO Data Set
 connection.profile.name=POJO Data Source Connection Profile
-datasource.property.pojoDataSetClassPath=&Ubicación compartida de las clases de conjuntos de datos POJO personalizadas
+datasource.property.pojoDataSetClassPath=&UbicaciÃ³n compartida de las clases de conjuntos de datos POJO personalizadas
 
-datasource.property.pojoClassPath=Ubicación compartida de las clases POJO
+datasource.property.pojoClassPath=UbicaciÃ³n compartida de las clases POJO

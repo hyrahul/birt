@@ -13,10 +13,10 @@
 ###############################################################################
 # NLS String
 ###############################################################################
-datasource.name=BIRT 2.1.x XML �̋��f�[�^�\�[�X
+datasource.name=BIRT 2.1.x XML の旧データソース
 
-dataset.name=BIRT 2.1.x XML �̃f�[�^�Z�b�g
+dataset.name=BIRT 2.1.x XML のデータセット
 
-datasource.property.xmlFile=XML �f�[�^�\�[�X�t�@�C��
+datasource.property.xmlFile=XML データソースファイル
 
-datasource.property.schemaFile=XML �X�L�[�}�t�@�C��
+datasource.property.schemaFile=XML スキーマファイル

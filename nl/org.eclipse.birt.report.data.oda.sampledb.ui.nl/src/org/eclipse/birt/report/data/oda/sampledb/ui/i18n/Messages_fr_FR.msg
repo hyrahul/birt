@@ -1,19 +1,19 @@
-datasource.page.title=Nouvelle source de données exemple de Classic Models Inc.
+datasource.page.title=Nouvelle source de donnÃ©es exemple de Classic Models Inc.
 
-datasource.page.msg=Une source de données JDBC se connectant à la base de données exemple Classic Models Inc. sera créée avec les propriétés de connexion suivantes
+datasource.page.msg=Une source de donnÃ©es JDBC se connectant Ã  la base de donnÃ©es exemple Classic Models Inc. sera crÃ©Ã©e avec les propriÃ©tÃ©s de connexion suivantes
 
 datasource.page.driver.class=Classe de pilote :
 
-datasource.page.url=URL de la base de données :
+datasource.page.url=URL de la base de donnÃ©es :
 
-datasource.page.user=Utilisateur de la base de données :
+datasource.page.user=Utilisateur de la base de donnÃ©es :
 
-datasource.upgrade.msg.firstLine=La source de données ({0}) utilisée par ce jeu de données a été créée à partir d'une ancienne version de ce produit.
+datasource.upgrade.msg.firstLine=La source de donnÃ©es ({0}) utilisÃ©e par ce jeu de donnÃ©es a Ã©tÃ© crÃ©Ã©e Ã  partir d'une ancienne version de ce produit.
 
-datasource.upgrade.msg.secondLine=Sa définition doit être mise à jour. \n\nSélectionnez OK pour mettre à jour la source de données {0} maintenant.
+datasource.upgrade.msg.secondLine=Sa dÃ©finition doit Ãªtre mise Ã  jour. \n\nSÃ©lectionnez OK pour mettre Ã  jour la source de donnÃ©es {0} maintenant.
 
-datasource.upgrade.msg.thirdLine=Ensuite, vous devez ouvrir à nouveau cet éditeur de jeu de données.
+datasource.upgrade.msg.thirdLine=Ensuite, vous devez ouvrir Ã  nouveau cet Ã©diteur de jeu de donnÃ©es.
 
-datasource.propertyPage.tooltip=Source de données JDBC
+datasource.propertyPage.tooltip=Source de donnÃ©es JDBC
 
-datasource.page.warning=L'utilisation d'un profil de connexion externalisé n'est pas prise en charge pour la BD exemple. Le modèle sera modifié pour utiliser les propriétés locales
+datasource.page.warning=L'utilisation d'un profil de connexion externalisÃ© n'est pas prise en charge pour la BD exemple. Le modÃ¨le sera modifiÃ© pour utiliser les propriÃ©tÃ©s locales

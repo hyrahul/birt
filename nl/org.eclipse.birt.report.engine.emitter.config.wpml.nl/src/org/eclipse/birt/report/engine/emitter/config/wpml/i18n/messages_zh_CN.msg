@@ -11,18 +11,18 @@
 
 ###########################################################
 #Word Emitter
-WordEmitter.Description=ÅäÖÃÓÃÓÚÒÔ XML Document 2003 ¸ñÊ½³ÊÏÖ±¨±íµÄÑ¡Ïî¡£
+WordEmitter.Description=é…ç½®ç”¨äºä»¥ XML Document 2003 æ ¼å¼å‘ˆç°æŠ¥è¡¨çš„é€‰é¡¹ã€‚
 
 WordEmitter.DisplayName=Word (DOC)
 
 ###########################################################
 #Option Display Value
-OptionDisplayValue.ChartDpi=Í¼±í DPI
+OptionDisplayValue.ChartDpi=å›¾è¡¨ DPI
 
 ###########################################################
 #Option Description
-OptionDescription.ChartDpi=DPI ÓÃÓÚÉú³ÉÍ¼±í¡£
+OptionDescription.ChartDpi=DPI ç”¨äºç”Ÿæˆå›¾è¡¨ã€‚
 
 ###########################################################
 #tooltip
-Tooltip.ChartDpi=Í¼±íÒıÇæÓÃÓÚÉú³ÉÍ¼±íµÄ DPI¡£ ÀıÈç£¬192¡£
+Tooltip.ChartDpi=å›¾è¡¨å¼•æ“ç”¨äºç”Ÿæˆå›¾è¡¨çš„ DPIã€‚ ä¾‹å¦‚ï¼Œ192ã€‚

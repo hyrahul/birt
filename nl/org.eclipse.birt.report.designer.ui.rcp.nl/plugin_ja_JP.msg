@@ -17,28 +17,28 @@ Build=@BUILD@
 About=Business Intelligence and Reporting Tools
 ApplicationName=BIRT Report Designer
 ReportPerspective=BIRT Report Designer
-CHEAT_SHEETS=ƒKƒCƒh‚Ì•\¦
+CHEAT_SHEETS=ã‚¬ã‚¤ãƒ‰ã®è¡¨ç¤º
 
-CHEAT_SHEETS_MENU=ƒKƒCƒh‚Ì•\¦(&C)...
+CHEAT_SHEETS_MENU=ã‚¬ã‚¤ãƒ‰ã®è¡¨ç¤º(&C)...
 
-ReportEditor=ƒŒƒ|[ƒgƒGƒfƒBƒ^
+ReportEditor=ãƒ¬ãƒãƒ¼ãƒˆã‚¨ãƒ‡ã‚£ã‚¿
 
-ReportDocumentEditor=ƒŒƒ|[ƒg•¶‘ƒGƒfƒBƒ^
+ReportDocumentEditor=ãƒ¬ãƒãƒ¼ãƒˆæ–‡æ›¸ã‚¨ãƒ‡ã‚£ã‚¿
 
-LibraryEditor=ƒ‰ƒCƒuƒ‰ƒŠƒGƒfƒBƒ^
+LibraryEditor=ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã‚¨ãƒ‡ã‚£ã‚¿
 
-TemplateEditor=ƒeƒ“ƒvƒŒ[ƒgƒGƒfƒBƒ^
+TemplateEditor=ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆã‚¨ãƒ‡ã‚£ã‚¿
 
 
 WizardCategoryName=Business Intelligence and Reporting Tools
-ReportWizard=ƒŒƒ|[ƒg
+ReportWizard=ãƒ¬ãƒãƒ¼ãƒˆ
 
-ReportWizardDescription=‚±‚ÌƒEƒBƒU[ƒh‚Å‚ÍA’è‹`Ï‚İ‚Ìƒeƒ“ƒvƒŒ[ƒg‚ğg‚Á‚ÄV‚µ‚¢ BIRT ƒŒƒ|[ƒg‚ğì¬‚µ‚Ü‚·B
+ReportWizardDescription=ã“ã®ã‚¦ã‚£ã‚¶ãƒ¼ãƒ‰ã§ã¯ã€å®šç¾©æ¸ˆã¿ã®ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆã‚’ä½¿ã£ã¦æ–°ã—ã„ BIRT ãƒ¬ãƒãƒ¼ãƒˆã‚’ä½œæˆã—ã¾ã™ã€‚
 
-TemplateWizard=ƒeƒ“ƒvƒŒ[ƒg
+TemplateWizard=ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ
 
-TemplateWizardDescription=‚±‚ÌƒEƒBƒU[ƒh‚Å‚ÍAV‚µ‚¢ BIRT ƒeƒ“ƒvƒŒ[ƒg‚ğì¬‚µ‚Ü‚·B
+TemplateWizardDescription=ã“ã®ã‚¦ã‚£ã‚¶ãƒ¼ãƒ‰ã§ã¯ã€æ–°ã—ã„ BIRT ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆã‚’ä½œæˆã—ã¾ã™ã€‚
 
-LibraryWizard=ƒ‰ƒCƒuƒ‰ƒŠ
+LibraryWizard=ãƒ©ã‚¤ãƒ–ãƒ©ãƒª
 
-LibraryWizardDescription=‚±‚ÌƒEƒBƒU[ƒh‚Å‚ÍAV‚µ‚¢ BIRT ƒŒƒ|[ƒgƒ‰ƒCƒuƒ‰ƒŠ‚ğì¬‚µ‚Ü‚·B
+LibraryWizardDescription=ã“ã®ã‚¦ã‚£ã‚¶ãƒ¼ãƒ‰ã§ã¯ã€æ–°ã—ã„ BIRT ãƒ¬ãƒãƒ¼ãƒˆãƒ©ã‚¤ãƒ–ãƒ©ãƒªã‚’ä½œæˆã—ã¾ã™ã€‚

@@ -8,10 +8,10 @@
 # * Contributors:
 # *  Actuate Corporation  - initial API and implementation
 # *******************************************************************************/
-design.xmlsource=XML 家胶(&X)
+design.xmlsource=XML 靻岇姢(&X)
 
-template.xmlsource=XML 家胶(&X)
+template.xmlsource=XML 靻岇姢(&X)
 
-library.xmlsource=XML 家胶(&X)
+library.xmlsource=XML 靻岇姢(&X)
 
-pageSet.source=XML 家胶 其捞瘤(&X)
+pageSet.source=XML 靻岇姢 韼橃澊歆�(&X)

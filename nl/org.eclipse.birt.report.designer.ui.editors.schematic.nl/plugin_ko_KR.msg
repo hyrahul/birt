@@ -8,28 +8,28 @@
 # * Contributors:
 # *  Actuate Corporation  - initial API and implementation
 # *******************************************************************************/
-design.layout=·¹ÀÌ¾Æ¿ô(&O)
+design.layout=ë ˆì´ì•„ì›ƒ(&O)
 
-design.masterPage=¸¶½ºÅÍ ÆäÀÌÁö(&M)
+design.masterPage=ë§ˆìŠ¤í„° í˜ì´ì§€(&M)
 
-design.script=½ºÅ©¸³Æ®(&S)
+design.script=ìŠ¤í¬ë¦½íŠ¸(&S)
 
-design.xmlsource=XML ¼Ò½º(&X)
+design.xmlsource=XML ì†ŒìŠ¤(&X)
 
-template.layout=·¹ÀÌ¾Æ¿ô(&O)
+template.layout=ë ˆì´ì•„ì›ƒ(&O)
 
-template.masterPage=¸¶½ºÅÍ ÆäÀÌÁö(&M)
+template.masterPage=ë§ˆìŠ¤í„° í˜ì´ì§€(&M)
 
-template.script=½ºÅ©¸³Æ®(&S)
+template.script=ìŠ¤í¬ë¦½íŠ¸(&S)
 
-template.xmlsource=XML ¼Ò½º(&X)
+template.xmlsource=XML ì†ŒìŠ¤(&X)
 
-pageSet.layout=·¹ÀÌ¾Æ¿ô ÆäÀÌÁö(&L)
+pageSet.layout=ë ˆì´ì•„ì›ƒ í˜ì´ì§€(&L)
 
-pageSet.master=¸¶½ºÅÍ ÆäÀÌÁö(&M)
+pageSet.master=ë§ˆìŠ¤í„° í˜ì´ì§€(&M)
 
-pageSet.preview=¹Ì¸® º¸±â ÆäÀÌÁö(&P)
+pageSet.preview=ë¯¸ë¦¬ ë³´ê¸° í˜ì´ì§€(&P)
 
-pageSet.script=½ºÅ©¸³Æ® ÆäÀÌÁö(&S)
+pageSet.script=ìŠ¤í¬ë¦½íŠ¸ í˜ì´ì§€(&S)
 
-pageSet.source=XML ¼Ò½º ÆäÀÌÁö(&X)
+pageSet.source=XML ì†ŒìŠ¤ í˜ì´ì§€(&X)

@@ -19,11 +19,11 @@ Script.source.locator=Bericht zu Skript-Source Locator
 Debug.jsEditor=Bericht zu JavaScript-Editor-Debug
 
 javaSourceLocatorName=Java Source Locator
-Watch.label=Zu Überwachung hinzufügen
+Watch.label=Zu Ãœberwachung hinzufÃ¼gen
 
 ReportActionSet=Berichtsaktionen
 
-Run=&Ausführen
+Run=&AusfÃ¼hren
 
 ScriptLaunchShortcut.label=Bericht
 

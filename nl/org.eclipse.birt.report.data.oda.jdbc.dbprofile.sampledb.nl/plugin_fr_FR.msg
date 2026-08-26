@@ -22,7 +22,7 @@ driver.template.property.vendor =Vendeur
 
 driver.template.property.version =Version
 
-driver.template.property.dbname =Base de données
+driver.template.property.dbname =Base de donnÃ©es
 
 driver.template.property.connection.url =URL de connexion
 

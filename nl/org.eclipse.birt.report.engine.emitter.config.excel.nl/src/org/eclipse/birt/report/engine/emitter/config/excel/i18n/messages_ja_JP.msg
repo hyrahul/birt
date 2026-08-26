@@ -11,30 +11,30 @@
 
 ###########################################################
 #Excel Emitter
-ExcelEmitter.Description=XML ƒXƒvƒŒƒbƒhƒV[ƒg 2003 Œ`®‚ÅƒŒƒ|[ƒg‚ğƒŒƒ“ƒ_ƒŠƒ“ƒO‚·‚é‚½‚ß‚ÌƒIƒvƒVƒ‡ƒ“‚ğİ’è‚µ‚Ü‚·B
+ExcelEmitter.Description=XML ã‚¹ãƒ—ãƒ¬ãƒƒãƒ‰ã‚·ãƒ¼ãƒˆ 2003 å½¢å¼ã§ãƒ¬ãƒãƒ¼ãƒˆã‚’ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã™ã‚‹ãŸã‚ã®ã‚ªãƒ—ã‚·ãƒ§ãƒ³ã‚’è¨­å®šã—ã¾ã™ã€‚
 
 ExcelEmitter.DisplayName=Excel (XLS)
 
 ###########################################################
 #Option Display Value
-OptionDisplayValue.WrappingText=•¶š—ñ‚ÌÜ‚è•Ô‚µ‚ğ—LŒø‚É‚·‚é
+OptionDisplayValue.WrappingText=æ–‡å­—åˆ—ã®æŠ˜ã‚Šè¿”ã—ã‚’æœ‰åŠ¹ã«ã™ã‚‹
 
-OptionDisplayValue.OfficeVersion=o—Íƒo[ƒWƒ‡ƒ“ :
+OptionDisplayValue.OfficeVersion=å‡ºåŠ›ãƒãƒ¼ã‚¸ãƒ§ãƒ³ :
 
 OptionDisplayValue.Office2003=Microsoft Office 2003
 OptionDisplayValue.Office2007=Microsoft Office 2007
-OptionDisplayValue.ChartDpi=ƒOƒ‰ƒt‚Ì DPI
+OptionDisplayValue.ChartDpi=ã‚°ãƒ©ãƒ•ã® DPI
 
-OptionDisplayValue.HideGridlines=Œrü‚ğ”ñ•\¦
+OptionDisplayValue.HideGridlines=ç½«ç·šã‚’éè¡¨ç¤º
 
 ###########################################################
 #Option Description
-OptionDescription.WrappingText=•¶š—ñ‚ğÜ‚è•Ô‚·‚©‚Ç‚¤‚©‚ğ¦‚µ‚Ü‚·B
+OptionDescription.WrappingText=æ–‡å­—åˆ—ã‚’æŠ˜ã‚Šè¿”ã™ã‹ã©ã†ã‹ã‚’ç¤ºã—ã¾ã™ã€‚
 
-OptionDescription.ChartDpi=ƒOƒ‰ƒt‚Ì¶¬‚Ég—p‚·‚é DPI ‚Å‚·B
+OptionDescription.ChartDpi=ã‚°ãƒ©ãƒ•ã®ç”Ÿæˆã«ä½¿ç”¨ã™ã‚‹ DPI ã§ã™ã€‚
 
-OptionDescription.HideGridlines=Œrü‚ğ”ñ•\¦‚É‚µ‚Ü‚·B
+OptionDescription.HideGridlines=ç½«ç·šã‚’éè¡¨ç¤ºã«ã—ã¾ã™ã€‚
 
 ###########################################################
 #tooltip
-Tooltip.ChartDpi=ƒOƒ‰ƒtƒGƒ“ƒWƒ“‚ªƒOƒ‰ƒt‚Ì¶¬‚Ég—p‚·‚é DPI ‚Å‚·B —á : 192
+Tooltip.ChartDpi=ã‚°ãƒ©ãƒ•ã‚¨ãƒ³ã‚¸ãƒ³ãŒã‚°ãƒ©ãƒ•ã®ç”Ÿæˆã«ä½¿ç”¨ã™ã‚‹ DPI ã§ã™ã€‚ ä¾‹ : 192

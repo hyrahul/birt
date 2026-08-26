@@ -17,15 +17,15 @@ Build=@BUILD@
 About=Business Intelligence and Reporting Tools
 ApplicationName=BIRT Report Designer
 ReportPerspective=BIRT Report Designer
-CHEAT_SHEETS=Consejos útiles
+CHEAT_SHEETS=Consejos Ãºtiles
 
-CHEAT_SHEETS_MENU=&Consejos útiles...
+CHEAT_SHEETS_MENU=&Consejos Ãºtiles...
 
 ReportEditor=Editor de informes
 
 ReportDocumentEditor=Editor de documentos de informe
 
-LibraryEditor=Editor de librerías
+LibraryEditor=Editor de librerÃ­as
 
 TemplateEditor=Editor de plantillas
 
@@ -39,6 +39,6 @@ TemplateWizard=Plantilla
 
 TemplateWizardDescription=Este asistente crea una nueva plantilla BIRT.
 
-LibraryWizard=Librería
+LibraryWizard=LibrerÃ­a
 
-LibraryWizardDescription=Este asistente crea una nueva librería de informes BIRT.
+LibraryWizardDescription=Este asistente crea una nueva librerÃ­a de informes BIRT.

@@ -11,28 +11,28 @@
 #  
 #************************************************************************
 #
-sqbWizPage_cannotOpenConnectionMsg=ÎŞ·¨½¨Á¢Á¬½ÓÒÔÉú³É SQL ²éÑ¯¡£Çë¼ì²éÊı¾İÔ´Á¬½ÓÊôĞÔ¡£
+sqbWizPage_cannotOpenConnectionMsg=æ— æ³•å»ºç«‹è¿æ¥ä»¥ç”Ÿæˆ SQL æŸ¥è¯¢ã€‚è¯·æ£€æŸ¥æ•°æ®æºè¿æ¥å±æ€§ã€‚
 
-sqbWizPage_cannotOpenConnectionTitle=Á¬½Ó´íÎó
+sqbWizPage_cannotOpenConnectionTitle=è¿æ¥é”™è¯¯
 
-sqbWizPage_dataSourceDesignError=Êı¾İÔ´Éè¼Æ´íÎó
+sqbWizPage_dataSourceDesignError=æ•°æ®æºè®¾è®¡é”™è¯¯
 
-sqbWizPage_dbErrorMsg=Êı¾İ¿â´íÎóÏûÏ¢:
+sqbWizPage_dbErrorMsg=æ•°æ®åº“é”™è¯¯æ¶ˆæ¯:
 
-sqbWizPage_defaultMessage=Éú³É SQL Ñ¡Ôñ²éÑ¯¡£
+sqbWizPage_defaultMessage=ç”Ÿæˆ SQL é€‰æ‹©æŸ¥è¯¢ã€‚
 
-sqbWizPage_detectExternalSqlTextChangedMsg=SQL ²éÑ¯ÎÄ±¾ÒÑÔÚÊı¾İ¼¯Éè¼ÆÍâ²¿¸ü¸Ä¡£ÊÇ·ñÒªÊ¹ÓÃÕâĞ©¸ü¸ÄÌæ»» SQL ²éÑ¯Éú³ÉÆ÷ÄÚÈİ?
+sqbWizPage_detectExternalSqlTextChangedMsg=SQL æŸ¥è¯¢æ–‡æœ¬å·²åœ¨æ•°æ®é›†è®¾è®¡å¤–éƒ¨æ›´æ”¹ã€‚æ˜¯å¦è¦ä½¿ç”¨è¿™äº›æ›´æ”¹æ›¿æ¢ SQL æŸ¥è¯¢ç”Ÿæˆå™¨å†…å®¹?
 
-sqbWizPage_detectSqlTextChangedTitle=SQL ²éÑ¯ÎÄ±¾ÒÑ¸ü¸Ä
+sqbWizPage_detectSqlTextChangedTitle=SQL æŸ¥è¯¢æ–‡æœ¬å·²æ›´æ”¹
 
-sqbWizPage_inputFailOnOpenAskUserMessage=ÊÇ·ñÒª¼ÌĞø?
+sqbWizPage_inputFailOnOpenAskUserMessage=æ˜¯å¦è¦ç»§ç»­?
 
-sqbWizPage_invalidSqbStateMsg=ÎŞ·¨»Ö¸´ SQL ²éÑ¯Éú³ÉÆ÷µÄÏÈÇ°×´Ì¬¡£
+sqbWizPage_invalidSqbStateMsg=æ— æ³•æ¢å¤ SQL æŸ¥è¯¢ç”Ÿæˆå™¨çš„å…ˆå‰çŠ¶æ€ã€‚
 
-sqbWizPage_invalidSqbStateTitle=ÎŞĞ§µÄ SQL ²éÑ¯Éú³ÉÆ÷×´Ì¬
+sqbWizPage_invalidSqbStateTitle=æ— æ•ˆçš„ SQL æŸ¥è¯¢ç”Ÿæˆå™¨çŠ¶æ€
 
-sqbWizPage_noConnProfileMsg=Êı¾İ¿âÁ¬½ÓÅäÖÃÎÄ¼şÕÒ²»µ½»òÎŞĞ§¡£ÎŞ·¨´ò¿ª SQL ²éÑ¯Éú³ÉÆ÷¡£
+sqbWizPage_noConnProfileMsg=æ•°æ®åº“è¿æ¥é…ç½®æ–‡ä»¶æ‰¾ä¸åˆ°æˆ–æ— æ•ˆã€‚æ— æ³•æ‰“å¼€ SQL æŸ¥è¯¢ç”Ÿæˆå™¨ã€‚
 
-sqbWizPage_connectingDB=ÕıÔÚÁ¬½Óµ½Êı¾İ¿â...
+sqbWizPage_connectingDB=æ­£åœ¨è¿æ¥åˆ°æ•°æ®åº“...
 
-sqbDesignState_invalidSqbStateVersion=±£´æµÄ SQL ²éÑ¯Éú³ÉÆ÷×´Ì¬ÖĞµÄ°æ±¾ÎŞĞ§¡£
+sqbDesignState_invalidSqbStateVersion=ä¿å­˜çš„ SQL æŸ¥è¯¢ç”Ÿæˆå™¨çŠ¶æ€ä¸­çš„ç‰ˆæœ¬æ— æ•ˆã€‚

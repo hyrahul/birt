@@ -17,68 +17,68 @@ Build=@BUILD@
 ###############################################################################
 # General Info
 ###############################################################################
-ReportWizardDescription=´ËÏòµ¼Ê¹ÓÃÔ¤¶¨ÒåÄ£°å´´½¨ĞÂ±¨±í¡£
+ReportWizardDescription=æ­¤å‘å¯¼ä½¿ç”¨é¢„å®šä¹‰æ¨¡æ¿åˆ›å»ºæ–°æŠ¥è¡¨ã€‚
 
-ReportProjectWizardDescription=´´½¨ĞÂ±¨±íÏîÄ¿¡£
+ReportProjectWizardDescription=åˆ›å»ºæ–°æŠ¥è¡¨é¡¹ç›®ã€‚
 
-ReportPerspective=±¨±íÉè¼Æ
+ReportPerspective=æŠ¥è¡¨è®¾è®¡
 
-ReportViews=±¨±íÉè¼Æ
+ReportViews=æŠ¥è¡¨è®¾è®¡
 
 WizardCategoryName=Business Intelligence and Reporting Tools
-ReportWizard=±¨±í
+ReportWizard=æŠ¥è¡¨
 
-ReportProjectWizard=±¨±íÏîÄ¿
+ReportProjectWizard=æŠ¥è¡¨é¡¹ç›®
 
-ReportEditor=±¨±í±à¼­Æ÷
+ReportEditor=æŠ¥è¡¨ç¼–è¾‘å™¨
 
 
 ###############################################################################
 # UI Framework
 ###############################################################################
-designer.ui.extensionPointName=±¨±íÀ©Õ¹ÔªËØ UI
+designer.ui.extensionPointName=æŠ¥è¡¨æ‰©å±•å…ƒç´  UI
 
 ###############################################################################
 # Preference
 ###############################################################################
-preference.birt=±¨±íÉè¼Æ
+preference.birt=æŠ¥è¡¨è®¾è®¡
 
-preference.datasetpreview=Êı¾İ¼¯±à¼­Æ÷
+preference.datasetpreview=æ•°æ®é›†ç¼–è¾‘å™¨
 
-preference.preview=Ô¤ÀÀ
+preference.preview=é¢„è§ˆ
 
-preference.preview.server=Ô¤ÀÀ·şÎñÆ÷
+preference.preview.server=é¢„è§ˆæœåŠ¡å™¨
 
-preference.elementnames=ÔªËØÃû³Æ
+preference.elementnames=å…ƒç´ åç§°
 
-preference.library=¿â
+preference.library=åº“
 
-preference.template=Ä£°å
+preference.template=æ¨¡æ¿
 
-preference.resource=×ÊÔ´
+preference.resource=èµ„æº
 
-preference.commenttemplates=×¢ÊÍÄ£°å
+preference.commenttemplates=æ³¨é‡Šæ¨¡æ¿
 #hcg_bidi
-preference.bidiproperties=Ë«ÏòÊôĞÔ
+preference.bidiproperties=åŒå‘å±æ€§
 
-preference.layout=²¼¾Ö
+preference.layout=å¸ƒå±€
 
-preference.expressionsyntax=±í´ïÊ½Óï·¨
+preference.expressionsyntax=è¡¨è¾¾å¼è¯­æ³•
 
-designer.action.undo.label=³·Ïû
+designer.action.undo.label=æ’¤æ¶ˆ
 
-designer.action.redo.label=ÖØ¸´
+designer.action.redo.label=é‡å¤
 
-extension.odadatasource=ODA Êı¾İÔ´À©Õ¹µã
+extension.odadatasource=ODA æ•°æ®æºæ‰©å±•ç‚¹
 
-publish.template=Ê¹ÓÃĞÂ½¨±¨±íÏòµ¼À´×¢²áÄ£°å(&Z)...
+publish.template=ä½¿ç”¨æ–°å»ºæŠ¥è¡¨å‘å¯¼æ¥æ³¨å†Œæ¨¡æ¿(&Z)...
 
-publish.library=½«¿â¸´ÖÆµ½¹²Ïí×ÊÔ´ÎÄ¼ş¼Ğ...
+publish.library=å°†åº“å¤åˆ¶åˆ°å…±äº«èµ„æºæ–‡ä»¶å¤¹...
 
-ActionSet.Publish=·¢²¼×ÊÔ´
+ActionSet.Publish=å‘å¸ƒèµ„æº
 
 Dummy.label=
 
-preference.classpath=ÀàÂ·¾¶
+preference.classpath=ç±»è·¯å¾„
 
-parameter.actions=ĞÂ±¨±í²ÎÊı(&P)
+parameter.actions=æ–°æŠ¥è¡¨å‚æ•°(&P)

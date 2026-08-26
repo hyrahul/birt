@@ -1,62 +1,62 @@
 ###########################################################
 #Sample Reports View properties
-SampleReportsView.defautDescription=¹üÁÖ¿¡¼­ »ùÇÃ º¸°í¼­¸¦ ¼±ÅÃÇÏ½Ê½Ã¿À.
+SampleReportsView.defautDescription=ë²”ì£¼ì—ì„œ ìƒ˜í”Œ ë³´ê³ ì„œë¥¼ ì„ íƒí•˜ì‹­ì‹œì˜¤.
 
-SampleReportsView.Text.Explorer=»ùÇÃ º¸°í¼­
+SampleReportsView.Text.Explorer=ìƒ˜í”Œ ë³´ê³ ì„œ
 
-SampleReportsView.Text.Preview=¹Ì¸® º¸±â
+SampleReportsView.Text.Preview=ë¯¸ë¦¬ ë³´ê¸°
 
-SampleReportsView.Text.Description=¼³¸í
+SampleReportsView.Text.Description=ì„¤ëª…
 
-SampleReportsView.MessageDialog.Title=Áú¹®
+SampleReportsView.MessageDialog.Title=ì§ˆë¬¸
 
-SampleReportsView.MessageDialog.Message=''{0}''ÀÌ(°¡) ÀÌ¹Ì ÀÖ½À´Ï´Ù. ¹Ù²Ù½Ã°Ú½À´Ï±î?
+SampleReportsView.MessageDialog.Message=''{0}''ì´(ê°€) ì´ë¯¸ ìˆìŠµë‹ˆë‹¤. ë°”ê¾¸ì‹œê² ìŠµë‹ˆê¹Œ?
 
-SampleReportsView.Action.exportSampleReport=ÀúÀå
+SampleReportsView.Action.exportSampleReport=ì €ì¥
 
-SampleReportsView.Action.openSampleReport=¿­±â(&O)
+SampleReportsView.Action.openSampleReport=ì—´ê¸°(&O)
 
-SampleReportsView.Action.exportSampleReport.toolTipText=¼±ÅÃµÈ »ùÇÃ º¸°í¼­ ³»º¸³»±â
+SampleReportsView.Action.exportSampleReport.toolTipText=ì„ íƒëœ ìƒ˜í”Œ ë³´ê³ ì„œ ë‚´ë³´ë‚´ê¸°
 
-SampleReportsView.Action.openSampleReport.toolTipText.ide=º¸°í¼­ ÇÁ·ÎÁ§Æ®¸¦ »ı¼ºÇÏ¿© º¸°í¼­¸¦ ÇÁ·ÎÁ§Æ® Æú´õ¿¡ ¹èÄ¡
+SampleReportsView.Action.openSampleReport.toolTipText.ide=ë³´ê³ ì„œ í”„ë¡œì íŠ¸ë¥¼ ìƒì„±í•˜ì—¬ ë³´ê³ ì„œë¥¼ í”„ë¡œì íŠ¸ í´ë”ì— ë°°ì¹˜
 
-SampleReportsView.Action.openSampleReport.toolTipText.rcp=¼±ÅÃµÈ »ùÇÃ º¸°í¼­¸¦ ÀÛ¾÷ ¿µ¿ª Æú´õ¿¡ Á÷Á¢ ³»º¸³»±â
+SampleReportsView.Action.openSampleReport.toolTipText.rcp=ì„ íƒëœ ìƒ˜í”Œ ë³´ê³ ì„œë¥¼ ì‘ì—… ì˜ì—­ í´ë”ì— ì§ì ‘ ë‚´ë³´ë‚´ê¸°
 
-SampleReportsView.Text.Contribute_Samples=±â¿© ¿¹Á¦
+SampleReportsView.Text.Contribute_Samples=ê¸°ì—¬ ì˜ˆì œ
 
-IDEOpenSampleReportAction.ProjectNameDialog.Label.PrjectName=ÇÁ·ÎÁ§Æ® ÀÌ¸§(&N):
+IDEOpenSampleReportAction.ProjectNameDialog.Label.PrjectName=í”„ë¡œì íŠ¸ ì´ë¦„(&N):
 
-IDEOpenSampleReportAction.ProjectNameDialog.Title.PrjectName=ÇÁ·ÎÁ§Æ® ÀÌ¸§
+IDEOpenSampleReportAction.ProjectNameDialog.Title.PrjectName=í”„ë¡œì íŠ¸ ì´ë¦„
 
-IDEOpenSampleReportAction.MessageDialog.ProjectExists.Title=ÇÁ·ÎÁ§Æ®°¡ ÀÖ½À´Ï´Ù.
+IDEOpenSampleReportAction.MessageDialog.ProjectExists.Title=í”„ë¡œì íŠ¸ê°€ ìˆìŠµë‹ˆë‹¤.
 
-IDEOpenSampleReportAction.MessageDialog.ProjectExists.Message=ÇÁ·ÎÁ§Æ®°¡ ÀÌ¹Ì ÀÖ½À´Ï´Ù. ÀÌ ÇÁ·ÎÁ§Æ®¸¦ »ç¿ëÇÏ·Á¸é ''{0}''À»(¸¦), ±âÁ¸ ÇÁ·ÎÁ§Æ®¸¦ Áö¿ì°í »õ ÇÁ·ÎÁ§Æ®¸¦ ¸¸µé·Á¸é ''{1}''À»(¸¦), Ãë¼ÒÇÏ·Á¸é ''{2}''À»(¸¦) ´©¸£½Ê½Ã¿À.
+IDEOpenSampleReportAction.MessageDialog.ProjectExists.Message=í”„ë¡œì íŠ¸ê°€ ì´ë¯¸ ìˆìŠµë‹ˆë‹¤. ì´ í”„ë¡œì íŠ¸ë¥¼ ì‚¬ìš©í•˜ë ¤ë©´ ''{0}''ì„(ë¥¼), ê¸°ì¡´ í”„ë¡œì íŠ¸ë¥¼ ì§€ìš°ê³  ìƒˆ í”„ë¡œì íŠ¸ë¥¼ ë§Œë“¤ë ¤ë©´ ''{1}''ì„(ë¥¼), ì·¨ì†Œí•˜ë ¤ë©´ ''{2}''ì„(ë¥¼) ëˆ„ë¥´ì‹­ì‹œì˜¤.
 
-IDEOpenSampleReportAction.MessageDialog.ProjectExists.ButtonText=µ¤¾î¾²±â(&O)
+IDEOpenSampleReportAction.MessageDialog.ProjectExists.ButtonText=ë®ì–´ì“°ê¸°(&O)
 
 ###########################################################
 #NewReportProjectWizard properties
 
 NewReportProjectWizard.bin=bin
-NewReportProjectWizard.caseVariantExistsError=ÆÄÀÏ ½Ã½ºÅÛÀº ´ë/¼Ò¹®ÀÚ¸¦ ±¸ºĞÇÏÁö ¾Ê½À´Ï´Ù. ''{0}''¿Í(°ú) Ãæµ¹ÇÏ´Â ±âÁ¸ ÇÁ·ÎÁ§Æ®°¡ ÀÖ½À´Ï´Ù.
+NewReportProjectWizard.caseVariantExistsError=íŒŒì¼ ì‹œìŠ¤í…œì€ ëŒ€/ì†Œë¬¸ìë¥¼ êµ¬ë¶„í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤. ''{0}''ì™€(ê³¼) ì¶©ëŒí•˜ëŠ” ê¸°ì¡´ í”„ë¡œì íŠ¸ê°€ ìˆìŠµë‹ˆë‹¤.
 
-NewReportProjectWizard.description=»õ º¸°í¼­ ÇÁ·ÎÁ§Æ®¸¦ »ı¼ºÇÕ´Ï´Ù.
+NewReportProjectWizard.description=ìƒˆ ë³´ê³ ì„œ í”„ë¡œì íŠ¸ë¥¼ ìƒì„±í•©ë‹ˆë‹¤.
 
-NewReportProjectWizard.errorMessage=»õ º¸°í¼­ ÇÁ·ÎÁ§Æ®¸¦ »ı¼ºÇÏ´Â Áß ¹®Á¦°¡ ¹ß»ıÇß½À´Ï´Ù.
+NewReportProjectWizard.errorMessage=ìƒˆ ë³´ê³ ì„œ í”„ë¡œì íŠ¸ë¥¼ ìƒì„±í•˜ëŠ” ì¤‘ ë¬¸ì œê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-NewReportProjectWizard.errorOpeningWindow=Ã¢À» ¿©´Â Áß ¹®Á¦°¡ ¹ß»ıÇß½À´Ï´Ù.
+NewReportProjectWizard.errorOpeningWindow=ì°½ì„ ì—¬ëŠ” ì¤‘ ë¬¸ì œê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-NewReportProjectWizard.internalError=³»ºÎ ¿À·ù: {0}
+NewReportProjectWizard.internalError=ë‚´ë¶€ ì˜¤ë¥˜: {0}
 
-NewReportProjectWizard.javaProject=Java ÇÁ·ÎÁ§Æ® »ı¼º
+NewReportProjectWizard.javaProject=Java í”„ë¡œì íŠ¸ ìƒì„±
 
-NewReportProjectWizard.perspSwitchMessage=ÀÌ·¯ÇÑ Á¾·ùÀÇ ÇÁ·ÎÁ§Æ®´Â {0} ¿ø±Ù°¨°ú °ü·ÃµÇ¾î ÀÖ½À´Ï´Ù. ÀÌ ¿ø±Ù°¨À¸·Î Áö±İ ÀüÈ¯ÇÏ½Ã°Ú½À´Ï±î?
+NewReportProjectWizard.perspSwitchMessage=ì´ëŸ¬í•œ ì¢…ë¥˜ì˜ í”„ë¡œì íŠ¸ëŠ” {0} ì›ê·¼ê°ê³¼ ê´€ë ¨ë˜ì–´ ìˆìŠµë‹ˆë‹¤. ì´ ì›ê·¼ê°ìœ¼ë¡œ ì§€ê¸ˆ ì „í™˜í•˜ì‹œê² ìŠµë‹ˆê¹Œ?
 
-NewReportProjectWizard.perspSwitchTitle=¿ø±Ù°¨ ÀüÈ¯ È®ÀÎ
+NewReportProjectWizard.perspSwitchTitle=ì›ê·¼ê° ì „í™˜ í™•ì¸
 
-NewReportProjectWizard.projectSetting=ÇÁ·ÎÁ§Æ® ¼³Á¤
+NewReportProjectWizard.projectSetting=í”„ë¡œì íŠ¸ ì„¤ì •
 
 NewReportProjectWizard.src=src
-NewReportProjectWizard.title=º¸°í¼­ ÇÁ·ÎÁ§Æ®
+NewReportProjectWizard.title=ë³´ê³ ì„œ í”„ë¡œì íŠ¸
 
-NewReportProjectWizard.windowTitle=»õ º¸°í¼­ ÇÁ·ÎÁ§Æ®
+NewReportProjectWizard.windowTitle=ìƒˆ ë³´ê³ ì„œ í”„ë¡œì íŠ¸

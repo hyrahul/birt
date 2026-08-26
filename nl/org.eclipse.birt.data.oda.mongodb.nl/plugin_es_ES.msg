@@ -11,19 +11,19 @@ oda.data.source.id=org.eclipse.birt.data.oda.mongodb
 # NLS Strings
 ###############################################################################
 #
-plugin.name=Controlador de tiempo de ejecuci髇 ODA de fuente de datos MongoDB
+plugin.name=Controlador de tiempo de ejecuci贸n ODA de fuente de datos MongoDB
 
 data.source.name=MongoDB Data Source
 data.set.name=Conjunto de datos MongoDB
 
-connection.profile.name=Perfil de conexi髇 de fuente de datos MongoDB
+connection.profile.name=Perfil de conexi贸n de fuente de datos MongoDB
 
 # Data source properties
 datasource.property.mongoDbUri=URI de base de datos &Mongo
 
 datasource.property.ignoreURI=&Omitir URI
 
-datasource.property.serverHost=&Anfitri髇 del servidor
+datasource.property.serverHost=&Anfitri贸n del servidor
 
 datasource.property.serverPort=P&uerto del servidor:
 
@@ -31,42 +31,42 @@ datasource.property.databaseName=&Nombre de base de datos
 
 datasource.property.userName=Nombre de u&suario
 
-datasource.property.password=Cont&rase馻
+datasource.property.password=Cont&rase帽a
 
 datasource.property.socketKeepAlive=Mantener socket &activo
 
-datasource.property.useRequestSession=Sesi髇 de &solicitud coherente
+datasource.property.useRequestSession=Sesi贸n de &solicitud coherente
 
 datasource.property.group.uriElements=&Elementos URI de base de datos Mongo
 
 datasource.property.group.options=&Ajustes suplementarios del cliente
 
 # Data set properties - query definition
-dataset.property.collectionName=Nombre de &colecci髇
+dataset.property.collectionName=Nombre de &colecci贸n
 
-dataset.property.operationType=Tipo de &operaci髇 de comando
+dataset.property.operationType=Tipo de &operaci贸n de comando
 
-dataset.property.operationExpr=&Expresi髇 de comando
+dataset.property.operationExpr=&Expresi贸n de comando
 
 dataset.property.selectedFields=Campos se&leccionados
 
-dataset.property.findQueryExpr=&Expresi髇 de consulta
+dataset.property.findQueryExpr=&Expresi贸n de consulta
 
-dataset.property.sortExpr=&Expresi髇 de ordenaci髇
+dataset.property.sortExpr=&Expresi贸n de ordenaci贸n
 # Data set properties - advanced runtime properties
-dataset.property.batchSize=M醲imo de objetos de resultado en un &lote
+dataset.property.batchSize=M谩ximo de objetos de resultado en un &lote
 
-dataset.property.rtMDSearchLimit=M醲imo de documentos para buscar para &metadatos de tiempo de ejecuci髇
+dataset.property.rtMDSearchLimit=M谩ximo de documentos para buscar para &metadatos de tiempo de ejecuci贸n
 
-dataset.property.numSkipDocuments=M醲imo de documentos para o&mitir
+dataset.property.numSkipDocuments=M谩ximo de documentos para o&mitir
 
-dataset.property.indexHints=Expresi髇 de sugeren&cia de 韓dice
+dataset.property.indexHints=Expresi贸n de sugeren&cia de 铆ndice
 
 dataset.property.queryReadPreference=Preferencia de lectu&ra de cursor de consultas
 
 dataset.property.queryReadPreferenceTags=Conjuntos de eti&quetas de preferencia de lectura
 
-dataset.property.noTimeOut=&Sin l韒ite de tiempo de cursor
+dataset.property.noTimeOut=&Sin l铆mite de tiempo de cursor
 
 dataset.property.allowsPartialResults=Permite resultados &parciales
 
@@ -78,4 +78,4 @@ dataset.property.value.readPrefPrimaryPreferred=primaryPreferred
 dataset.property.value.readPrefSecondary=secundario
 
 dataset.property.value.readPrefSecondaryPreferred=secondaryPreferred
-dataset.property.value.readPrefNearest=m醩 cercano
+dataset.property.value.readPrefNearest=m谩s cercano

@@ -1,25 +1,25 @@
-datasource.page.title=${odadesignerid.ds.displayname} µ¥ÀÌÅÍ ¿øº» Á¤ÀÇ
+datasource.page.title=${odadesignerid.ds.displayname} ë°ì´í„° ì›ë³¸ ì •ì˜
 
-datasource.page.msg=Hive¿¡ ¿¬°áÇÏ´Â JDBC µ¥ÀÌÅÍ ¿øº»
+datasource.page.msg=Hiveì— ì—°ê²°í•˜ëŠ” JDBC ë°ì´í„° ì›ë³¸
 
-datasource.page.driver.class=µå¶óÀÌ¹ö Å¬·¡½º:
+datasource.page.driver.class=ë“œë¼ì´ë²„ í´ë˜ìŠ¤:
 
-datasource.page.url=µ¥ÀÌÅÍº£ÀÌ½º URL:
+datasource.page.url=ë°ì´í„°ë² ì´ìŠ¤ URL:
 
-datasource.page.user=µ¥ÀÌÅÍº£ÀÌ½º »ç¿ëÀÚ:
+datasource.page.user=ë°ì´í„°ë² ì´ìŠ¤ ì‚¬ìš©ì:
 
-datasource.upgrade.msg.firstLine=ÀÌ µ¥ÀÌÅÍ ÁıÇÕ¿¡¼­ »ç¿ëÇÏ´Â µ¥ÀÌÅÍ ¿øº»({0})Àº ÀÌ Á¦Ç°ÀÇ ÀÌÀü ¸±¸®½º¿¡¼­ »ı¼ºµÇ¾ú½À´Ï´Ù.
+datasource.upgrade.msg.firstLine=ì´ ë°ì´í„° ì§‘í•©ì—ì„œ ì‚¬ìš©í•˜ëŠ” ë°ì´í„° ì›ë³¸({0})ì€ ì´ ì œí’ˆì˜ ì´ì „ ë¦´ë¦¬ìŠ¤ì—ì„œ ìƒì„±ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-datasource.upgrade.msg.secondLine=µ¥ÀÌÅÍ ¿øº»ÀÇ Á¤ÀÇ¸¦ ¾÷µ¥ÀÌÆ®ÇØ¾ß ÇÕ´Ï´Ù. \n\nÁö±İ µ¥ÀÌÅÍ ¿øº» {0}À»(¸¦) ¾÷µ¥ÀÌÆ®ÇÏ·Á¸é "È®ÀÎ"À» ¼±ÅÃÇÏ½Ê½Ã¿À.
+datasource.upgrade.msg.secondLine=ë°ì´í„° ì›ë³¸ì˜ ì •ì˜ë¥¼ ì—…ë°ì´íŠ¸í•´ì•¼ í•©ë‹ˆë‹¤. \n\nì§€ê¸ˆ ë°ì´í„° ì›ë³¸ {0}ì„(ë¥¼) ì—…ë°ì´íŠ¸í•˜ë ¤ë©´ "í™•ì¸"ì„ ì„ íƒí•˜ì‹­ì‹œì˜¤.
 
-datasource.upgrade.msg.thirdLine=±×·± ´ÙÀ½ ÀÌ µ¥ÀÌÅÍ ÁıÇÕ ÆíÁı±â¸¦ ´Ù½Ã ¿©½Ê½Ã¿À.
+datasource.upgrade.msg.thirdLine=ê·¸ëŸ° ë‹¤ìŒ ì´ ë°ì´í„° ì§‘í•© í¸ì§‘ê¸°ë¥¼ ë‹¤ì‹œ ì—¬ì‹­ì‹œì˜¤.
 
 datasource.propertyPage.tooltip=Hive Data Source
-datasource.addfile=ÆÄÀÏ Ãß°¡ ¹®(&D):
+datasource.addfile=íŒŒì¼ ì¶”ê°€ ë¬¸(&D):
 
 datasource.group.text=Hive Server
-datasource.label.ServerType=¼­¹ö À¯Çü(&S):
+datasource.label.ServerType=ì„œë²„ ìœ í˜•(&S):
 
 datasource.ServerType.type1=HiveServer1
 datasource.ServerType.type2=HiveServer2
-datasource.error.EmptyURL=µ¥ÀÌÅÍº£ÀÌ½º URLÀ» ÀÔ·ÂÇØ¾ß ÇÕ´Ï´Ù.
+datasource.error.EmptyURL=ë°ì´í„°ë² ì´ìŠ¤ URLì„ ì…ë ¥í•´ì•¼ í•©ë‹ˆë‹¤.

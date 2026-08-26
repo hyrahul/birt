@@ -2,7 +2,7 @@ preference.description = Formato bidireccional predeterminado para la fuente de 
 
 preference.bidiframe.title = Formato bidireccional
 
-preference.bidiframe.arabictitle = Funciones espec韋icas del 醨abe
+preference.bidiframe.arabictitle = Funciones espec铆ficas del 谩rabe
 
 report.bidi.properties.externalbidiformat.orderingscheme.metadata=Esquema de &orden
 
@@ -12,23 +12,23 @@ report.bidi.properties.externalbidiformat.shaping.metadata=Forma de te&xto
 
 report.bidi.properties.externalbidiformat.shaping.content=Forma de t&exto
 
-report.bidi.properties.externalbidiformat.numshaping.metadata=Forma &num閞ica
+report.bidi.properties.externalbidiformat.numshaping.metadata=Forma &num茅rica
 
-report.bidi.properties.externalbidiformat.numshaping.content=Forma n&um閞ica
+report.bidi.properties.externalbidiformat.numshaping.content=Forma n&um茅rica
 
-report.bidi.properties.externalbidiformat.symswap.metadata=Intercambio &sim閠rico
+report.bidi.properties.externalbidiformat.symswap.metadata=Intercambio &sim茅trico
 
-report.bidi.properties.externalbidiformat.symswap.content=Intercambio s&im閠rico
+report.bidi.properties.externalbidiformat.symswap.content=Intercambio s&im茅trico
 
-report.bidi.properties.externalbidiformat.textdirection.metadata=&Direcci髇 de texto
+report.bidi.properties.externalbidiformat.textdirection.metadata=&Direcci贸n de texto
 
-report.bidi.properties.externalbidiformat.textdirection.content=Direcci髇 de te&xto
+report.bidi.properties.externalbidiformat.textdirection.content=Direcci贸n de te&xto
 
 report.bidi.properties.externalbidiformat.orderingscheme.tooltip = Elegir valor de esquema de orden
 
-report.bidi.properties.externalbidiformat.textdirection.tooltip = Elegir valor de direcci髇 del texto
+report.bidi.properties.externalbidiformat.textdirection.tooltip = Elegir valor de direcci贸n del texto
 
-report.bidi.properties.externalbidiformat.symswap.tooltip = Elegir valor de intercambio sim閠rico
+report.bidi.properties.externalbidiformat.symswap.tooltip = Elegir valor de intercambio sim茅trico
 
 report.bidi.properties.externalbidiformat.symswap.true=True
 
@@ -36,11 +36,11 @@ report.bidi.properties.externalbidiformat.symswap.false=False
 
 report.bidi.properties.externalbidiformat.shaping.tooltip = Elegir valor de forma del texto
 
-report.bidi.properties.externalbidiformat.numshaping.tooltip = Elegir forma num閞ica
+report.bidi.properties.externalbidiformat.numshaping.tooltip = Elegir forma num茅rica
 
 report.bidi.properties.externalbidiformat.orderingscheme.visual =Visual
 
-report.bidi.properties.externalbidiformat.orderingscheme.logical =L骻ica
+report.bidi.properties.externalbidiformat.orderingscheme.logical =L贸gica
 
 report.bidi.properties.externalbidiformat.textdirection.ltr=De izquierda a derecha
 
@@ -74,5 +74,5 @@ metadata.bidiframe.title=Formato bidireccional de metadatos del sistema externo
 
 content.bidiframe.title=Formato bidireccional de contenido del sistema externo
 
-disablebidi.checkbox.label=Desa&ctivar transformaci髇 bidimensional
+disablebidi.checkbox.label=Desa&ctivar transformaci贸n bidimensional
 

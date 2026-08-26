@@ -1,79 +1,79 @@
 # wizard dialog messages
-wizard.title.selectFolder=XML ƒf[ƒ^ƒ\[ƒX
-wizard.defaultMessage.selectFolder=XML ƒtƒ@ƒCƒ‹‚ÆƒXƒL[ƒ}î•ñ‚É URL ‚ğ’è‹`‚µ‚Ä‚­‚¾‚³‚¢B
-wizard.title.newDataSet=V‹Kƒf[ƒ^ƒZƒbƒg
-wizard.title.selectXmlFile=ƒvƒŒƒrƒ…[‚·‚é XML ƒf[ƒ^‚Ì‘I‘ğ
-wizard.defaultMessage.selectFile=‚±‚ÌƒZƒbƒVƒ‡ƒ“‚Åƒf[ƒ^‚ğƒvƒŒƒrƒ…[‚·‚é‚É‚ÍAƒTƒ“ƒvƒ‹‚Ì XML ƒ\[ƒX‚ğ‘I‘ğ‚µ‚Ä‚­‚¾‚³‚¢B
-wizard.title.xPathChoose=ƒe[ƒuƒ‹ƒ}ƒbƒsƒ“ƒO‚Ì’è‹`
-wizard.defaultMessage.selectXPath=ƒe[ƒuƒ‹‚Æ‚µ‚Äg—p‚³‚ê‚é—v‘f‚ğ’è‹`‚·‚é‚É‚ÍAXML \‘¢‚©‚ç—v‘f‚ğ‘I‘ğ‚µ‚Ä [sƒ}ƒbƒsƒ“ƒO] ‚É’Ç‰Á‚µ‚Ä‚­‚¾‚³‚¢Bƒe[ƒuƒ‹‚Ìƒ}ƒbƒsƒ“ƒO‚ÍAXML ƒf[ƒ^ƒZƒbƒg‚ ‚½‚è 1 ŒÂ‚¾‚¯ŠÜ‚ß‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
-wizard.title.selectColumn=—ñƒ}ƒbƒsƒ“ƒO‚Ì’è‹`
-wizard.title.defineColumnMapping=—ñƒ}ƒbƒsƒ“ƒO‚ğ’è‹`‚·‚é‚É‚ÍAXML \‘¢‚©‚ç—v‘f‚Ü‚½‚Í‘®«‚ğ‘I‘ğ‚µ‚Ä [—ñƒ}ƒbƒsƒ“ƒO] ‚É’Ç‰Á‚µ‚Ä‚­‚¾‚³‚¢B 
+wizard.title.selectFolder=XML ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹
+wizard.defaultMessage.selectFolder=XML ãƒ•ã‚¡ã‚¤ãƒ«ã¨ã‚¹ã‚­ãƒ¼ãƒæƒ…å ±ã« URL ã‚’å®šç¾©ã—ã¦ãã ã•ã„ã€‚
+wizard.title.newDataSet=æ–°è¦ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆ
+wizard.title.selectXmlFile=ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼ã™ã‚‹ XML ãƒ‡ãƒ¼ã‚¿ã®é¸æŠ
+wizard.defaultMessage.selectFile=ã“ã®ã‚»ãƒƒã‚·ãƒ§ãƒ³ã§ãƒ‡ãƒ¼ã‚¿ã‚’ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼ã™ã‚‹ã«ã¯ã€ã‚µãƒ³ãƒ—ãƒ«ã® XML ã‚½ãƒ¼ã‚¹ã‚’é¸æŠã—ã¦ãã ã•ã„ã€‚
+wizard.title.xPathChoose=ãƒ†ãƒ¼ãƒ–ãƒ«ãƒãƒƒãƒ”ãƒ³ã‚°ã®å®šç¾©
+wizard.defaultMessage.selectXPath=ãƒ†ãƒ¼ãƒ–ãƒ«ã¨ã—ã¦ä½¿ç”¨ã•ã‚Œã‚‹è¦ç´ ã‚’å®šç¾©ã™ã‚‹ã«ã¯ã€XML æ§‹é€ ã‹ã‚‰è¦ç´ ã‚’é¸æŠã—ã¦ [è¡Œãƒãƒƒãƒ”ãƒ³ã‚°] ã«è¿½åŠ ã—ã¦ãã ã•ã„ã€‚ãƒ†ãƒ¼ãƒ–ãƒ«ã®ãƒãƒƒãƒ”ãƒ³ã‚°ã¯ã€XML ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã‚ãŸã‚Š 1 å€‹ã ã‘å«ã‚ã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚
+wizard.title.selectColumn=åˆ—ãƒãƒƒãƒ”ãƒ³ã‚°ã®å®šç¾©
+wizard.title.defineColumnMapping=åˆ—ãƒãƒƒãƒ”ãƒ³ã‚°ã‚’å®šç¾©ã™ã‚‹ã«ã¯ã€XML æ§‹é€ ã‹ã‚‰è¦ç´ ã¾ãŸã¯å±æ€§ã‚’é¸æŠã—ã¦ [åˆ—ãƒãƒƒãƒ”ãƒ³ã‚°] ã«è¿½åŠ ã—ã¦ãã ã•ã„ã€‚ 
 
 #preference
-designer.preview.preference.numberOfElementPassedToGetSchema=XML ƒXƒL[ƒ}ƒcƒŠ[‚Ì‰ğÍ’†‚ÉƒAƒNƒZƒX‚µ‚½—v‘f‚Ì”
-designer.preview.preference.numberOfElementPassedToGetSchema.errormessage=0`{0} ‚Ü‚Å‚Ì”’l‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢B
-designer.preview.preference.columnMappingPage.group.title=ƒJƒ‰ƒ€ƒ}ƒbƒsƒ“ƒOƒy[ƒW
+designer.preview.preference.numberOfElementPassedToGetSchema=XML ã‚¹ã‚­ãƒ¼ãƒãƒ„ãƒªãƒ¼ã®è§£æä¸­ã«ã‚¢ã‚¯ã‚»ã‚¹ã—ãŸè¦ç´ ã®æ•°
+designer.preview.preference.numberOfElementPassedToGetSchema.errormessage=0ã€œ{0} ã¾ã§ã®æ•°å€¤ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„ã€‚
+designer.preview.preference.columnMappingPage.group.title=ã‚«ãƒ©ãƒ ãƒãƒƒãƒ”ãƒ³ã‚°ãƒšãƒ¼ã‚¸
 
 #table mapping page messages
-xPathChoosePage.messages.rowMapping=ƒe[ƒuƒ‹‚Ìƒ}ƒbƒsƒ“ƒO
-xPathChoosePage.messages.xPathExpression=XPath ®(&X)
-xPathChoosePage.messages.xmlStructure=XML \‘¢
-xPathChoosePage.messages.xmlColumnMapping=—ñƒ}ƒbƒsƒ“ƒO
+xPathChoosePage.messages.rowMapping=ãƒ†ãƒ¼ãƒ–ãƒ«ã®ãƒãƒƒãƒ”ãƒ³ã‚°
+xPathChoosePage.messages.xPathExpression=XPath å¼(&X)
+xPathChoosePage.messages.xmlStructure=XML æ§‹é€ 
+xPathChoosePage.messages.xmlColumnMapping=åˆ—ãƒãƒƒãƒ”ãƒ³ã‚°
 
 #sample xml data file page messages
-xmlDataSetSelectionPage.messages.lineofdata=ƒ\[ƒXƒf[ƒ^‚Ìs
-xmlDataSetSelectionPage.warning.errorReadXMLFile=ƒtƒ@ƒCƒ‹ [{0}] {1} ‚©‚ç XML ƒf[ƒ^‚ğ“Ç‚İ‚ß‚Ü‚¹‚ñB\n‘±s‚µ‚Ü‚·‚© ?
+xmlDataSetSelectionPage.messages.lineofdata=ã‚½ãƒ¼ã‚¹ãƒ‡ãƒ¼ã‚¿ã®è¡Œ
+xmlDataSetSelectionPage.warning.errorReadXMLFile=ãƒ•ã‚¡ã‚¤ãƒ« [{0}] {1} ã‹ã‚‰ XML ãƒ‡ãƒ¼ã‚¿ã‚’èª­ã¿è¾¼ã‚ã¾ã›ã‚“ã€‚\nç¶šè¡Œã—ã¾ã™ã‹ ?
 
 #column mapping page messages
-button.refresh=XV
-menu.menuItem.removeAll=‚·‚×‚Äíœ
-menu.menuItem.remove=íœ
-lable.selectXmlFile=XML ƒ\[ƒX‚Ì URL ‚ğ“ü—Í‚·‚é‚©Aƒf[ƒ^‚ª“ü‚Á‚Ä‚¢‚éƒtƒ@ƒCƒ‹‚ğQÆ‚µ‚Ä‚­‚¾‚³‚¢(&X) :
-lable.selectXmlSchmaFile=XML ƒXƒL[ƒ}‚Ì URL ‚ğ“ü—Í‚·‚é‚©AƒXƒL[ƒ}‚ª“ü‚Á‚Ä‚¢‚é\nƒtƒ@ƒCƒ‹‚ğQÆ‚µ‚Ä‚­‚¾‚³‚¢BƒXƒL[ƒ}‚ª‚È‚¢ê‡‚ÍA‚±‚ÌƒtƒB[ƒ‹ƒh‚ğ‹ó”’‚Ì‚Ü‚Ü‚É‚µ‚Ä‚¨‚¢‚Ä‚­‚¾‚³‚¢(&M) :
-label.preview=Å‰‚ÉƒvƒŒƒrƒ…[(&P)
-label.useXMLFileFromDataSource=ƒf[ƒ^ƒ\[ƒX‚É’è‹`‚³‚ê‚Ä‚¢‚é XML ƒtƒ@ƒCƒ‹‚ğg—p‚·‚é
-RowMappingDialog.title=XPath ®‚Ì‘I‘ğE•ÒW
-RowMappingDialog.info=‘I‘ğ‚µ‚½ƒm[ƒh‚É“K—p‚·‚é’è‹`Ï‚İ‚Ì XPath ®‚ğ\n‘I‘ğ‚·‚é‚©A•Ê‚Ì®‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢ :
-ColumnMappingDialog.info.columnName=—ñ–¼ :
-ColumnMappingDialog.info.xPath=XPath ® :
-ColumnMappingDialog.info.dataType=ƒf[ƒ^Œ^ :
-ColumnMappingDialog.info.dataPreview=ƒe[ƒuƒ‹‚ÌƒvƒŒƒrƒ…[
-ColumnMappingDialog.prompt.new=‚±‚±‚ÉV‚µ‚¢ƒ}ƒbƒsƒ“ƒO‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢...
-ColumnMappingDialog.prompt.maxRow=500 sˆÈã‚Ìƒ\[ƒXƒf[ƒ^‚ª‚ ‚è‚Ü‚·B‚±‚Ìƒy[ƒW‚É‚ÍÅ‰‚Ì 500 s‚¾‚¯‚ª•\¦‚³‚ê‚Ü‚·B
-ColumnMappingDialog.prompt.dialog.title=Œ‹‰Ê‚ÌƒvƒŒƒrƒ…[
+button.refresh=æ›´æ–°
+menu.menuItem.removeAll=ã™ã¹ã¦å‰Šé™¤
+menu.menuItem.remove=å‰Šé™¤
+lable.selectXmlFile=XML ã‚½ãƒ¼ã‚¹ã® URL ã‚’å…¥åŠ›ã™ã‚‹ã‹ã€ãƒ‡ãƒ¼ã‚¿ãŒå…¥ã£ã¦ã„ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ã‚’å‚ç…§ã—ã¦ãã ã•ã„(&X) :
+lable.selectXmlSchmaFile=XML ã‚¹ã‚­ãƒ¼ãƒã® URL ã‚’å…¥åŠ›ã™ã‚‹ã‹ã€ã‚¹ã‚­ãƒ¼ãƒãŒå…¥ã£ã¦ã„ã‚‹\nãƒ•ã‚¡ã‚¤ãƒ«ã‚’å‚ç…§ã—ã¦ãã ã•ã„ã€‚ã‚¹ã‚­ãƒ¼ãƒãŒãªã„å ´åˆã¯ã€ã“ã®ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’ç©ºç™½ã®ã¾ã¾ã«ã—ã¦ãŠã„ã¦ãã ã•ã„(&M) :
+label.preview=æœ€åˆã«ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼(&P)
+label.useXMLFileFromDataSource=ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ã«å®šç¾©ã•ã‚Œã¦ã„ã‚‹ XML ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä½¿ç”¨ã™ã‚‹
+RowMappingDialog.title=XPath å¼ã®é¸æŠãƒ»ç·¨é›†
+RowMappingDialog.info=é¸æŠã—ãŸãƒãƒ¼ãƒ‰ã«é©ç”¨ã™ã‚‹å®šç¾©æ¸ˆã¿ã® XPath å¼ã‚’\né¸æŠã™ã‚‹ã‹ã€åˆ¥ã®å¼ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„ :
+ColumnMappingDialog.info.columnName=åˆ—å :
+ColumnMappingDialog.info.xPath=XPath å¼ :
+ColumnMappingDialog.info.dataType=ãƒ‡ãƒ¼ã‚¿å‹ :
+ColumnMappingDialog.info.dataPreview=ãƒ†ãƒ¼ãƒ–ãƒ«ã®ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼
+ColumnMappingDialog.prompt.new=ã“ã“ã«æ–°ã—ã„ãƒãƒƒãƒ”ãƒ³ã‚°ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„...
+ColumnMappingDialog.prompt.maxRow=500 è¡Œä»¥ä¸Šã®ã‚½ãƒ¼ã‚¹ãƒ‡ãƒ¼ã‚¿ãŒã‚ã‚Šã¾ã™ã€‚ã“ã®ãƒšãƒ¼ã‚¸ã«ã¯æœ€åˆã® 500 è¡Œã ã‘ãŒè¡¨ç¤ºã•ã‚Œã¾ã™ã€‚
+ColumnMappingDialog.prompt.dialog.title=çµæœã®ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼
 
-dataset.editor.columnName=–¼‘O
+dataset.editor.columnName=åå‰
 dataset.editor.xpathexpression=XPath
-dataset.editor.datatype=Œ^
-dataset.editor.rowelement=s—v‘f
-dataset.error.populateXMLTree=XML ƒf[ƒ^ƒ\[ƒX‚ğæ“¾‚Å‚«‚Ü‚¹‚ñBXML ƒf[ƒ^ƒ\[ƒXƒtƒ@ƒCƒ‹‚ª–³Œø‚©A‘¶İ‚µ‚Ü‚¹‚ñB
+dataset.editor.datatype=å‹
+dataset.editor.rowelement=è¡Œè¦ç´ 
+dataset.error.populateXMLTree=XML ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚XML ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ãƒ•ã‚¡ã‚¤ãƒ«ãŒç„¡åŠ¹ã‹ã€å­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-error.label=ƒGƒ‰[
-error.selectFolder=‘I‘ğ‚µ‚½ƒtƒ@ƒCƒ‹‚Ì URL ‚Í–³Œø‚©Aƒtƒ@ƒCƒ‹‚ª‘¶İ‚µ‚Ü‚¹‚ñB
-error.emptyPath=ƒtƒ@ƒCƒ‹‚Ì URL ‚ª‹ó”’‚Å‚·B
-error.xpath.canNotContainAttribute=XPath ®‚Í XML ‘®«‚Éƒ}ƒbƒsƒ“ƒO‚Å‚«‚Ü‚¹‚ñB
-error.dataset.maxRowNumberError=Å‘ås”‚É‚ÍA”’l‚ğw’è‚µ‚Ä‚­‚¾‚³‚¢B
-error.columnMapping.noMappingColumn=­‚È‚­‚Æ‚à 1 ‚Â‚Ì—ñ‚ğƒ}ƒbƒsƒ“ƒO‚µ‚Ä‚­‚¾‚³‚¢B
-error.file.null=ƒf[ƒ^ƒ\[ƒX‚ª‘I‘ğ‚³‚ê‚Ä‚¢‚È‚¢‚½‚ßAURL ‚ª‚·‚×‚Ä‹ó”’‚É‚È‚Á‚Ä‚¢‚Ü‚·B‚±‚Ì‚Ü‚Ü‘±s‚µ‚Ü‚·‚© ?
-error.columnMapping.sameColumnName=—ñ–¼ [{0}] ‚Í‚·‚Å‚Ég—p‚³‚ê‚Ä‚¢‚Ü‚·B•Ê‚Ì–¼‘O‚ğg—p‚µ‚Ä‚­‚¾‚³‚¢B
-error.invalidXpath=XPath ® "{0}" ‚ª–³Œø‚Å‚·B
+error.label=ã‚¨ãƒ©ãƒ¼
+error.selectFolder=é¸æŠã—ãŸãƒ•ã‚¡ã‚¤ãƒ«ã® URL ã¯ç„¡åŠ¹ã‹ã€ãƒ•ã‚¡ã‚¤ãƒ«ãŒå­˜åœ¨ã—ã¾ã›ã‚“ã€‚
+error.emptyPath=ãƒ•ã‚¡ã‚¤ãƒ«ã® URL ãŒç©ºç™½ã§ã™ã€‚
+error.xpath.canNotContainAttribute=XPath å¼ã¯ XML å±æ€§ã«ãƒãƒƒãƒ”ãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚
+error.dataset.maxRowNumberError=æœ€å¤§è¡Œæ•°ã«ã¯ã€æ•°å€¤ã‚’æŒ‡å®šã—ã¦ãã ã•ã„ã€‚
+error.columnMapping.noMappingColumn=å°‘ãªãã¨ã‚‚ 1 ã¤ã®åˆ—ã‚’ãƒãƒƒãƒ”ãƒ³ã‚°ã—ã¦ãã ã•ã„ã€‚
+error.file.null=ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ãŒé¸æŠã•ã‚Œã¦ã„ãªã„ãŸã‚ã€URL ãŒã™ã¹ã¦ç©ºç™½ã«ãªã£ã¦ã„ã¾ã™ã€‚ã“ã®ã¾ã¾ç¶šè¡Œã—ã¾ã™ã‹ ?
+error.columnMapping.sameColumnName=åˆ—å [{0}] ã¯ã™ã§ã«ä½¿ç”¨ã•ã‚Œã¦ã„ã¾ã™ã€‚åˆ¥ã®åå‰ã‚’ä½¿ç”¨ã—ã¦ãã ã•ã„ã€‚
+error.invalidXpath=XPath å¼ "{0}" ãŒç„¡åŠ¹ã§ã™ã€‚
 
 #data types for column mapping
-datatypes.dateTime=ƒ^ƒCƒ€ƒXƒ^ƒ“ƒv
+datatypes.dateTime=ã‚¿ã‚¤ãƒ ã‚¹ã‚¿ãƒ³ãƒ—
 datatypes.decimal=BigDecimal
-datatypes.float=•‚“®¬”’l
-datatypes.integer=®”’l
-datatypes.string=•¶š—ñ
-datatypes.date=“ú•t
-datatypes.time=ŠÔ
+datatypes.float=æµ®å‹•å°æ•°å€¤
+datatypes.integer=æ•´æ•°å€¤
+datatypes.string=æ–‡å­—åˆ—
+datatypes.date=æ—¥ä»˜
+datatypes.time=æ™‚é–“
 
 #column name in column mapping table
-columnName.name=–¼‘O
+columnName.name=åå‰
 columnName.xPathName=XPath
-columnName.typeName=Œ^
+columnName.typeName=å‹
 
-dataset.new=V‹Kƒf[ƒ^ƒZƒbƒg
-file.choose=QÆ(&B)...
-title.warning=Œx
+dataset.new=æ–°è¦ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆ
+file.choose=å‚ç…§(&B)...
+title.warning=è­¦å‘Š
 
-datasource.propertyPage.tooltip=XML ƒf[ƒ^ƒ\[ƒX
+datasource.propertyPage.tooltip=XML ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹

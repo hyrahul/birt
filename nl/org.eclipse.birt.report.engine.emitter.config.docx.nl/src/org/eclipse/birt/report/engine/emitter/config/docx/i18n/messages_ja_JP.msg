@@ -11,24 +11,24 @@
 
 ###########################################################
 #Docx Emitter
-DocxEmitter.Description=XML �h�L�������g 2007 �`���Ń��|�[�g�������_�����O���邽�߂̃I�v�V������ݒ肵�܂��B
+DocxEmitter.Description=XML ドキュメント 2007 形式でレポートをレンダリングするためのオプションを設定します。
 
 DocxEmitter.DisplayName=Word (DOCX)
 
 ###########################################################
 #Option Display Value
-OptionDisplayValue.ChartDpi=�O���t�� DPI
+OptionDisplayValue.ChartDpi=グラフの DPI
 
-OptionDisplayValue.EmbedHtml=HTML �𖄂ߍ���
+OptionDisplayValue.EmbedHtml=HTML を埋め込む
 
 ###########################################################
 #Option Description
-OptionDescription.ChartDpi=�O���t�̐����Ɏg�p���� DPI �ł��B
+OptionDescription.ChartDpi=グラフの生成に使用する DPI です。
 
-OptionDescription.EmbedHtml=���ߍ��܂ꂽ HTML �� DOCX �ł̎g�p��������
+OptionDescription.EmbedHtml=埋め込まれた HTML の DOCX での使用を許可する
 
 ###########################################################
 #tooltip
-Tooltip.ChartDpi=�O���t�G���W�����O���t�̐����Ɏg�p���� DPI �ł��B �� : 192
+Tooltip.ChartDpi=グラフエンジンがグラフの生成に使用する DPI です。 例 : 192
 
-Tooltip.EmbedHtml=HTML �R���e���c�� DOCX �o�͂ɒ��ږ��ߍ��ޕK�v������ꍇ
+Tooltip.EmbedHtml=HTML コンテンツを DOCX 出力に直接埋め込む必要がある場合

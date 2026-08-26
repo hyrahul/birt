@@ -1,37 +1,37 @@
 ###############################################################################
 # Preview Framework
 ###############################################################################
-designer.preview.previewtoolbarmenuaction.label=ƒŒƒ|[ƒg‚Ì•\¦
+designer.preview.previewtoolbarmenuaction.label=ãƒ¬ãƒãƒ¼ãƒˆã®è¡¨ç¤º
 
-designer.preview.previewcascadingmenugroup.label=ƒŒƒ|[ƒg‚Ì•\¦(&R)
+designer.preview.previewcascadingmenugroup.label=ãƒ¬ãƒãƒ¼ãƒˆã®è¡¨ç¤º(&R)
 
-document.preview.previewtoolbarmenuaction.label=•¶‘‚Ì•\¦
+document.preview.previewtoolbarmenuaction.label=æ–‡æ›¸ã®è¡¨ç¤º
 
-document.preview.previewmenugroup.label=•¶‘‚Ì•\¦(&D)
+document.preview.previewmenugroup.label=æ–‡æ›¸ã®è¡¨ç¤º(&D)
 
-ActionSet.Preview=ƒvƒŒƒrƒ…[
+ActionSet.Preview=ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼
 
-ActionSet.PreviewWithSecurity=ƒhƒLƒ…ƒƒ“ƒg‚ÌƒvƒŒƒrƒ…[
+ActionSet.PreviewWithSecurity=ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆã®ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼
 
-Action.GenDocument=•¶‘‚Ì¶¬(&D)
+Action.GenDocument=æ–‡æ›¸ã®ç”Ÿæˆ(&D)
 
-template.preview=ƒvƒŒƒrƒ…[(&V)
+template.preview=ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼(&V)
 
-design.preview=ƒvƒŒƒrƒ…[(&V)
+design.preview=ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼(&V)
 
-preference.preview=ƒvƒŒƒrƒ…[
+preference.preview=ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼
 
-preference.preview.server=ƒvƒŒƒrƒ…[—p‚ÌƒT[ƒo
+preference.preview.server=ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼ç”¨ã®ã‚µãƒ¼ãƒ
 
-preference.preview.data=ƒf[ƒ^
+preference.preview.data=ãƒ‡ãƒ¼ã‚¿
 
-menu.run=Às(&R)
+menu.run=å®Ÿè¡Œ(&R)
 
 ###############################################################################
 # Actions
 ###############################################################################
-Menu.Report=ƒŒƒ|[ƒg(&T)
+Menu.Report=ãƒ¬ãƒãƒ¼ãƒˆ(&T)
 
-Action.RunReport=ƒŒƒ|[ƒg‚ÌÀsi&R)
+Action.RunReport=ãƒ¬ãƒãƒ¼ãƒˆã®å®Ÿè¡Œï¼ˆ&R)
 
-Action.ViewDocument=•¶‘‚Ì•\¦(&V)
+Action.ViewDocument=æ–‡æ›¸ã®è¡¨ç¤º(&V)

@@ -21,35 +21,35 @@ OptionDisplayValue.BidiProcessing=BIDI-Verarbeitung
 
 OptionDisplayValue.TextWrapping=Zeilenumbruch
 
-OptionDisplayValue.PageOverFlow=Seitenüberlauf-Verarbeitung
+OptionDisplayValue.PageOverFlow=SeitenÃ¼berlauf-Verarbeitung
 
 OptionDisplayValue.CLIP_CONTENT=Inhalt zuschneiden
 
-OptionDisplayValue.FIT_TO_PAGE_SIZE=An Seitengröße anpassen
+OptionDisplayValue.FIT_TO_PAGE_SIZE=An SeitengrÃ¶ÃŸe anpassen
 
 OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=Mehrere Seiten ausgeben
 
-OptionDisplayValue.ENLARGE_PAGE_SIZE=Seite vergrößern
+OptionDisplayValue.ENLARGE_PAGE_SIZE=Seite vergrÃ¶ÃŸern
 
 OptionDisplayValue.FontSubstitution=Schriftart ersetzen
 
 OptionDisplayValue.ChartDpi=Diagramm-DPI
 
-OptionDisplayValue.Export2Office2010And2013=Exportdatei für Microsoft Office 2010/2013
+OptionDisplayValue.Export2Office2010And2013=Exportdatei fÃ¼r Microsoft Office 2010/2013
 
 ###########################################################
 #Option Description
-OptionDescription.BidiProcessing=Unterstützt bidirektionalen Text.
+OptionDescription.BidiProcessing=UnterstÃ¼tzt bidirektionalen Text.
 
-OptionDescription.TextWrapping=Gibt an, ob der Text Zeilenumbrüche enthält.
+OptionDescription.TextWrapping=Gibt an, ob der Text ZeilenumbrÃ¼che enthÃ¤lt.
 
 OptionDescription.PageOverFlow=Legt fest, wie der Inhalt ausgegeben wird.
 
-OptionDescription.FontSubstitution=Wählt Schriftarten automatisch aus, wenn die angegebene Schriftart das Zeichen nicht darstellen kann.
+OptionDescription.FontSubstitution=WÃ¤hlt Schriftarten automatisch aus, wenn die angegebene Schriftart das Zeichen nicht darstellen kann.
 
 OptionDescription.ChartDpi=DPI zum Erstellen von Diagrammen.
 
-OptionDescription.Export2Office2010And2013=Unterstützt .mht-Format in PPT bei Verwendung von Office 2010/2013.
+OptionDescription.Export2Office2010And2013=UnterstÃ¼tzt .mht-Format in PPT bei Verwendung von Office 2010/2013.
 
 ###########################################################
 #tooltip

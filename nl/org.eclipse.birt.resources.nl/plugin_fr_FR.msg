@@ -1,16 +1,16 @@
 cheatsheet.category=Business Intelligence and Reporting Tools
 cheatsheet.simplelisting=Etat - Listes simples
 
-cheatsheet.groupedlisting=Etat - Listes groupées
+cheatsheet.groupedlisting=Etat - Listes groupÃ©es
 
 cheatsheet.dualcolumnlisting=Etat - Listes de colonnes doubles
 
 cheatsheet.chartlisting=Etat - Graphiques et listes
 
-cheatsheet.sidebysidechartlisting=Etat - Graphiques et listes juxtaposés
+cheatsheet.sidebysidechartlisting=Etat - Graphiques et listes juxtaposÃ©s
 
 cheatsheet.dualcolumnchartlisting=Etat - Graphiques et listes de colonnes doubles
 
-cheatsheet.firstreport=Mon premier état
+cheatsheet.firstreport=Mon premier Ã©tat
 
-cheatsheet.crosstab=Etat de tableau croisé
+cheatsheet.crosstab=Etat de tableau croisÃ©

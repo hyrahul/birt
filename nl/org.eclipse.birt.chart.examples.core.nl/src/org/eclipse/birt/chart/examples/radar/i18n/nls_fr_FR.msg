@@ -1,4 +1,4 @@
-RadarSeriesImpl.displayName=Série en radar
+RadarSeriesImpl.displayName=SÃ©rie en radar
 
 RadarChart.Txt.DefaultRadarChartTitle=Titre du graphique en radar
 
@@ -6,23 +6,23 @@ RadarChart.Txt.DisplayName=Graphique en radar
 
 RadarChart.SubType.Standard=Graphique en radar standard
 
-RadarChart.SubType.Spider=Graphique en radar avec toile d'araignée
+RadarChart.SubType.Spider=Graphique en radar avec toile d'araignÃ©e
 
 RadarChart.SubType.Bullseye=Graphique en radar avec cercles concentriques
 
-RadarChart.Tooltip.InputExpression=Entrer une expression affichée comme texte de légende pour chaque élément
+RadarChart.Tooltip.InputExpression=Entrer une expression affichÃ©e comme texte de lÃ©gende pour chaque Ã©lÃ©ment
 
-RadarChart.Txt.HelpText=Les graphiques en radar indiquent la valeur de données actuelle d'une mesure spécifique. Les zones de différentes couleurs représentent les plages de valeurs de mesure. Une aiguille est associée à un cadran et indique la valeur correspondante.
+RadarChart.Txt.HelpText=Les graphiques en radar indiquent la valeur de donnÃ©es actuelle d'une mesure spÃ©cifique. Les zones de diffÃ©rentes couleurs reprÃ©sentent les plages de valeurs de mesure. Une aiguille est associÃ©e Ã  un cadran et indique la valeur correspondante.
 
-RadarChart.Txt.Description=Les graphiques en radar standard contiennent une grille circulaire superposée à un ou plusieurs polygones/lignes de série
+RadarChart.Txt.Description=Les graphiques en radar standard contiennent une grille circulaire superposÃ©e Ã  un ou plusieurs polygones/lignes de sÃ©rie
 
-RadarChart.Txt.SpiderDescription=Les graphiques en radar avec toile d'araignée contiennent une grille circulaire superposée à un ou plusieurs polygones/lignes de série
+RadarChart.Txt.SpiderDescription=Les graphiques en radar avec toile d'araignÃ©e contiennent une grille circulaire superposÃ©e Ã  un ou plusieurs polygones/lignes de sÃ©rie
 
-RadarChart.Txt.BullseyeDescription=Les graphiques en radar avec cercles concentriques contiennent une grille circulaire superposée à un ou plusieurs polygones/lignes de série
+RadarChart.Txt.BullseyeDescription=Les graphiques en radar avec cercles concentriques contiennent une grille circulaire superposÃ©e Ã  un ou plusieurs polygones/lignes de sÃ©rie
 
 RadarSeriesAttributeComposite.Lbl.Radius=Ray&on :
 
-RadarSeriesAttributeComposite.Lbl.StartAngle=An&gle de début :
+RadarSeriesAttributeComposite.Lbl.StartAngle=An&gle de dÃ©but :
 
 RadarSeriesAttributeComposite.Lbl.StopAngle=An&gle de fin :
 
@@ -30,81 +30,81 @@ RadarSeriesAttributeSheetImpl.Lbl.Type=Type :
 
 RadarSeriesAttributeSheetImpl.Lbl.Fill=Remplissage :
 
-RadarSeriesAttributeComposite.Lbl.DialTicks=&Repères
+RadarSeriesAttributeComposite.Lbl.DialTicks=&RepÃ¨res
 
 RadarSeriesAttributeComposite.Lbl.DialScale=E&chelle :
 
-RadarBaseSeriesComponent.Label.CategoryDefinition=Définition de &catégorie :
+RadarBaseSeriesComponent.Label.CategoryDefinition=DÃ©finition de &catÃ©gorie :
 
-RadarSeriesAttributeComposite.Lbl.ShowWeb=Afficher les &étiquettes Web
+RadarSeriesAttributeComposite.Lbl.ShowWeb=Afficher les &Ã©tiquettes Web
 
-RadarSeriesAttributeComposite.Lbl.ShowCat=Afficher les &étiquettes de catégorie
+RadarSeriesAttributeComposite.Lbl.ShowCat=Afficher les &Ã©tiquettes de catÃ©gorie
 
-RadarSeriesAttributeComposite.Exception.IllegalArgument=La série de type {0} est un argument non valide pour RadarSeriesAttributeComposite.
+RadarSeriesAttributeComposite.Exception.IllegalArgument=La sÃ©rie de type {0} est un argument non valide pour RadarSeriesAttributeComposite.
 
-RadarSeriesAttributeComposite.Lbl.LinePalette=Utiliser la &palette de série pour la couleur de trait
+RadarSeriesAttributeComposite.Lbl.LinePalette=Utiliser la &palette de sÃ©rie pour la couleur de trait
 
 RadarSeriesAttributeComposite.Lbl.FillPoly=Remplir les poly&gones
 
-RadarSeriesAttributeComposite.Lbl.ConnectPoints=&Connecter les points finaux du jeu de données (polygone)
+RadarSeriesAttributeComposite.Lbl.ConnectPoints=&Connecter les points finaux du jeu de donnÃ©es (polygone)
 
 RadarSeriesAttributeComposite.Lbl.ShowLinesAsCurves=A&fficher les lignes sous la forme de courbes
 
-RadarSeriesMarkerSheet.Label.Markers=&Repère
+RadarSeriesMarkerSheet.Label.Markers=&RepÃ¨re
 
-RadarSeriesMarkerSheet.GroupLabel.Markers=Repère
+RadarSeriesMarkerSheet.GroupLabel.Markers=RepÃ¨re
 
 RadarSeriesMarkerSheet.Label.Web=Configuration des lignes en radar
 
-RadarSeriesMarkerSheet.Label.Series=Configuration des lignes de série
+RadarSeriesMarkerSheet.Label.Series=Configuration des lignes de sÃ©rie
 
-Radar.Composite.Label.ScaleCount.MinMaxWarning=Le nombre d'étapes doit être compris entre {0} et {1}.
+Radar.Composite.Label.ScaleCount.MinMaxWarning=Le nombre d'Ã©tapes doit Ãªtre compris entre {0} et {1}.
 
-Radar.Composite.Label.ScaleCount=&Nombre d'étapes
+Radar.Composite.Label.ScaleCount=&Nombre d'Ã©tapes
 
-Radar.Composite.Label.ScaleCountToolTip=Numéroter les étapes (échelles) à partir desquelles créer le graphique
+Radar.Composite.Label.ScaleCountToolTip=NumÃ©roter les Ã©tapes (Ã©chelles) Ã  partir desquelles crÃ©er le graphique
 
-Radar.Composite.Label.bullsEye=Définir les couleurs des cercles concentriques sur Translucide
+Radar.Composite.Label.bullsEye=DÃ©finir les couleurs des cercles concentriques sur Translucide
 
-Format.Button.Web.Label=&Formater les étiquettes Web
+Format.Button.Web.Label=&Formater les Ã©tiquettes Web
 
-Format.Button.Cat.Label=&Formater les étiquettes de catégorie
+Format.Button.Cat.Label=&Formater les Ã©tiquettes de catÃ©gorie
 
-WebLabel.Tooltip.FormatSpecifier=Formater les étiquettes Web
+WebLabel.Tooltip.FormatSpecifier=Formater les Ã©tiquettes Web
 
-CatLabel.Tooltip.FormatSpecifier=Formater les étiquettes de catégorie
+CatLabel.Tooltip.FormatSpecifier=Formater les Ã©tiquettes de catÃ©gorie
 
-RadarSeriesMarkerSheet.Label.WebLabel=Configurer les étiquettes Web
+RadarSeriesMarkerSheet.Label.WebLabel=Configurer les Ã©tiquettes Web
 
-RadarSeriesMarkerSheet.Label.CatLabel=Configurer les étiquettes de catégorie
+RadarSeriesMarkerSheet.Label.CatLabel=Configurer les Ã©tiquettes de catÃ©gorie
 
 RadarSeriesUIProvider..Title.RadarLine=Ligne en radar
 
-RadarSeriesUIProvider.Label.CategoryLabels=Etiquettes de caté&gorie
+RadarSeriesUIProvider.Label.CategoryLabels=Etiquettes de catÃ©&gorie
 
 RadarSeriesUIProvider.Label.RadarLine=Ligne en ra&dar
 
-RadarSeriesUIProvider.Label.ValueDefinition=Définition de la valeur de radar :
+RadarSeriesUIProvider.Label.ValueDefinition=DÃ©finition de la valeur de radar :
 
 RadarSeriesUIProvider.Label.WebLabels=Etiquettes &Web
 
-RadarSeriesUIProvider.Title.CategoryLabels=Etiquettes de catégorie
+RadarSeriesUIProvider.Title.CategoryLabels=Etiquettes de catÃ©gorie
 
 RadarSeriesUIProvider.Title.WebLabels=Etiquettes Web
 
 Radar.Composite.Label.ScaleAuto=Echelle automatique
 
-Radar.Composite.Label.ScaleAutoTooltip=L'échelle du graphique est automatiquement ajustée
+Radar.Composite.Label.ScaleAutoTooltip=L'Ã©chelle du graphique est automatiquement ajustÃ©e
 
 Radar.Composite.Label.ScaleMax=Echelle maximale
 
-Radar.Composite.Label.ScaleMaxToolTip=Définir l'échelle du graphique au maximum
+Radar.Composite.Label.ScaleMaxToolTip=DÃ©finir l'Ã©chelle du graphique au maximum
 
 Radar.Composite.Label.ScaleMin=Echelle minimale
 
-Radar.Composite.Label.ScaleMinToolTip=Définir l'échelle du graphique au minimum
+Radar.Composite.Label.ScaleMinToolTip=DÃ©finir l'Ã©chelle du graphique au minimum
 
-Radar.Composite.Label.PlotPercentageToolTip=Pourcentage de zone de tracé occupée par le graphique en radar
+Radar.Composite.Label.PlotPercentageToolTip=Pourcentage de zone de tracÃ© occupÃ©e par le graphique en radar
 
 ItemLabel.Visible=Visible :
 
@@ -120,4 +120,4 @@ ItemLabel.Hide=Masquer
 
 ItemLabel.Enable=Activer
 
-ItemLabel.Disable=Désactiver
+ItemLabel.Disable=DÃ©sactiver

@@ -10,19 +10,19 @@
 #  
 #************************************************************************
 #
-mDbConnection_failedToOpenConn=No es posible abrir la conexi髇 con las propiedades especificadas.
+mDbConnection_failedToOpenConn=No es posible abrir la conexi贸n con las propiedades especificadas.
 
 mDbConnection_invalidDatabaseName=La base de datos \"{0}\" especificada no existe.
 
 mDbConnection_missingValueDBName=Falta un valor necesario en la propiedad de Nombre de base de datos.
 
-mDbConnection_noConnection=No existe conexi髇 abierta para preparar la consulta.
+mDbConnection_noConnection=No existe conexi贸n abierta para preparar la consulta.
 
-mDbDriver_missingValueServerHost=Falta un valor necesario en la propiedad de Anfitri髇 del servidor.
+mDbDriver_missingValueServerHost=Falta un valor necesario en la propiedad de Anfitri贸n del servidor.
 
 mDbDriver_nonDefinedDataType=Sin definir
 
-mDbDriver_readPrefNearest=m醩 cercano
+mDbDriver_readPrefNearest=m谩s cercano
 
 mDbDriver_readPrefPrimary=primario
 
@@ -31,53 +31,53 @@ mDbDriver_readPrefSecondary=secundario
 
 mDbDriver_readPrefSecondaryPreferred=secondaryPreferred
 mDbDSMetaData_dataSourceName=MongoDB Data Source
-mDbMetaData_invalidCollectionName=Nombre de colecci髇 no v醠ido: {0}
+mDbMetaData_invalidCollectionName=Nombre de colecci贸n no v谩lido: {0}
 
-mDbMetaData_missingCmdExprText=Falta la expresi髇 de la operaci髇 de comando {0}.
+mDbMetaData_missingCmdExprText=Falta la expresi贸n de la operaci贸n de comando {0}.
 
-mDbQuery_invalidQueryExecQuery=La consulta no es v醠ida y no se puede ejecutar.
+mDbQuery_invalidQueryExecQuery=La consulta no es v谩lida y no se puede ejecutar.
 
-mDbQuery_invalidQueryGetMD=La consulta no es v醠ida y no se pueden preparar los metadatos del conjunto de resultados.
+mDbQuery_invalidQueryGetMD=La consulta no es v谩lida y no se pueden preparar los metadatos del conjunto de resultados.
 
-driverUtil_invalidExpr=Tipo de expresi髇 inesperado: {0}.
+driverUtil_invalidExpr=Tipo de expresi贸n inesperado: {0}.
 
-driverUtil_parsingError=Error al analizar la expresi髇 JSON: {0}
+driverUtil_parsingError=Error al analizar la expresi贸n JSON: {0}
 
-mDbOp_aggrCmdFailed=No es posible ejecutar la operaci髇 de comando Agregar. \nCompruebe que su servidor MongoDB conectado es la versi髇 2.2 o posterior.
+mDbOp_aggrCmdFailed=No es posible ejecutar la operaci贸n de comando Agregar. \nCompruebe que su servidor MongoDB conectado es la versi贸n 2.2 o posterior.
 
-mDbOp_dbCmdFailed=No es posible ejecutar la operaci髇 de comando ({0})
+mDbOp_dbCmdFailed=No es posible ejecutar la operaci贸n de comando ({0})
 
-mDbOp_invalidQueryExpr=Expresi髇 de consulta no v醠ida; no se puede ejecutar la consulta.
+mDbOp_invalidQueryExpr=Expresi贸n de consulta no v谩lida; no se puede ejecutar la consulta.
 
-mDbOp_mapReduceCmdFailed=No es posible ejecutar la operaci髇 de comando MapReduce ({0})
+mDbOp_mapReduceCmdFailed=No es posible ejecutar la operaci贸n de comando MapReduce ({0})
 
 mDbOp_noCmdResults=No hay resultados de comando disponibles.
 
 mDbResultSet_cannotConvertFieldData=No se ha podido convertir el valor de campo '{0}' ({1}) en el tipo de datos {2} a un valor {3}
 
-queryModel_emptyExprErrorMsg=<expresi髇 vac韆>
+queryModel_emptyExprErrorMsg=<expresi贸n vac铆a>
 
-queryModel_invalidCollectionName=Nombre de colecci髇 no v醠ido (${0}).
+queryModel_invalidCollectionName=Nombre de colecci贸n no v谩lido (${0}).
 
 queryModel_invalidDbCmdKeyValue=El comando ({0}) de la base de datos solo es compatible con: \n    {1}
 
-queryModel_invalidModelToExec=Definici髇 de consulta no v醠ida; no se puede ejecutar la consulta.
+queryModel_invalidModelToExec=Definici贸n de consulta no v谩lida; no se puede ejecutar la consulta.
 
-queryModel_invalidModelToPrepare=Definici髇 de consulta no v醠ida; no se puede preparar la consulta.
+queryModel_invalidModelToPrepare=Definici贸n de consulta no v谩lida; no se puede preparar la consulta.
 
-queryModel_invalidPipelineOp=Operaci髇 de canalizaci髇 no v醠ida: {0}
+queryModel_invalidPipelineOp=Operaci贸n de canalizaci贸n no v谩lida: {0}
 
-queryModel_invalidQuerySortExpr=La expresi髇 de ordenaci髇 de una consulta debe especificar un valor positivo o negativo para el orden: \n    {0}
+queryModel_invalidQuerySortExpr=La expresi贸n de ordenaci贸n de una consulta debe especificar un valor positivo o negativo para el orden: \n    {0}
 
-queryModel_invalidSortAggrValue=Una operaci髇 de canalizaci髇 {0} debe especificar un valor de 1 o -1 en la clave de ordenaci髇: \n    {1}
+queryModel_invalidSortAggrValue=Una operaci贸n de canalizaci贸n {0} debe especificar un valor de 1 o -1 en la clave de ordenaci贸n: \n    {1}
 
-queryModel_missingCollectionName=No se ha definido una colecci髇 MongoDB en la consulta de conjunto de datos.
+queryModel_missingCollectionName=No se ha definido una colecci贸n MongoDB en la consulta de conjunto de datos.
 
-queryModel_missingGroupAggrKey=Una operaci髇 de canalizaci髇 {0} debe especificar un campo {1}: \n    {2}
+queryModel_missingGroupAggrKey=Una operaci贸n de canalizaci贸n {0} debe especificar un campo {1}: \n    {2}
 
-queryModel_missingMapReduceKey=Falta la clave de la expresi髇 de comando: {0}
+queryModel_missingMapReduceKey=Falta la clave de la expresi贸n de comando: {0}
 
-queryModel_missingMapReduceValue=La clave de la expresi髇 de comando {0} requiere un valor.
+queryModel_missingMapReduceValue=La clave de la expresi贸n de comando {0} requiere un valor.
 
 queryModel_missingQueryProps=No se ha definido una consulta en el conjunto de datos.
 
@@ -87,7 +87,7 @@ queryProperties_aggrCmdName=Total
 
 queryProperties_dbCmdName=Ejecutar comando de la base de datos
 
-queryProperties_errDeSerializeDBObject=No es posible deserializar la expresi髇 MongoDB: {0}
+queryProperties_errDeSerializeDBObject=No es posible deserializar la expresi贸n MongoDB: {0}
 
 queryProperties_mapReduceCmdName=MapReduce
-resultDataHandler_invalidFieldName=Nombre de campo no v醠ido: {0}
+resultDataHandler_invalidFieldName=Nombre de campo no v谩lido: {0}

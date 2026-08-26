@@ -8,10 +8,10 @@
 # * Contributors:
 # *  Actuate Corporation  - initial API and implementation
 # *******************************************************************************/
-design.script=スクリプト(&S)
+design.script=繧ｹ繧ｯ繝ｪ繝励ヨ(&S)
 
-template.script=スクリプト(&S)
+template.script=繧ｹ繧ｯ繝ｪ繝励ヨ(&S)
 
-library.script=スクリプト(&S)
+library.script=繧ｹ繧ｯ繝ｪ繝励ヨ(&S)
 
-pageSet.script=スクリプトページ(&S)
+pageSet.script=繧ｹ繧ｯ繝ｪ繝励ヨ繝壹�ｼ繧ｸ(&S)

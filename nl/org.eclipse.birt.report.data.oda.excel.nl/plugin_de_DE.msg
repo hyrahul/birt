@@ -26,9 +26,9 @@ datasource.property.yes=JA
 
 ###############################################################################
 #	Date Set Properties
-datasource.property.excelFile=Wählen Sie die Excel-Datei.
+datasource.property.excelFile=WÃ¤hlen Sie die Excel-Datei.
 
-datasource.property.worksheets=Arbei&tsblätter
+datasource.property.worksheets=Arbei&tsblÃ¤tter
 
 dataset.property.worksheets.dateFormat=Datenformat
 #

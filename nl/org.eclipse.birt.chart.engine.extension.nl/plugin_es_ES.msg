@@ -19,11 +19,11 @@ DistinctCount.displayName=Recuento diferenciado
 
 First.displayName=Primero
 
-Last.displayName=Último
+Last.displayName=Ãšltimo
 
-Min.displayName=Mínimo
+Min.displayName=MÃ­nimo
 
-Max.displayName=Máximo
+Max.displayName=MÃ¡ximo
 
 WeightedAverage.displayName=Media ponderada
 
@@ -47,9 +47,9 @@ Quartile.displayName=Cuartil
 #Running aggregates.
 MovingAverage.displayName=Media de traslado
 
-RunningSum.displayName=Suma en ejecución
+RunningSum.displayName=Suma en ejecuciÃ³n
 
-RunningNPV.displayName=NPV en ejecución
+RunningNPV.displayName=NPV en ejecuciÃ³n
 
 Rank.displayName=Rango
 
@@ -65,4 +65,4 @@ PercentRank.displayName=Rango de porcentaje
 
 PercentSum.displayName=Suma de porcentaje
 
-RunningCount.displayName=Recuento en ejecución
+RunningCount.displayName=Recuento en ejecuciÃ³n

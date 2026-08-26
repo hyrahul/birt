@@ -10,29 +10,29 @@
 # *******************************************************************************/
 
 report.debug=BIRT Report
-script.debug=ƒŒƒ|[ƒg
+script.debug=ãƒ¬ãƒãƒ¼ãƒˆ
 
-LaunchActionSet.label=ƒŒƒ|[ƒg‚ÌƒfƒoƒbƒO(&E)
+LaunchActionSet.label=ãƒ¬ãƒãƒ¼ãƒˆã®ãƒ‡ãƒãƒƒã‚°(&E)
 
-Script.source.locator=ƒŒƒ|[ƒgƒXƒNƒŠƒvƒg‚Ìƒ\[ƒXƒƒP[ƒ^
+Script.source.locator=ãƒ¬ãƒãƒ¼ãƒˆã‚¹ã‚¯ãƒªãƒ—ãƒˆã®ã‚½ãƒ¼ã‚¹ãƒ­ã‚±ãƒ¼ã‚¿
 
-Debug.jsEditor=ƒŒƒ|[ƒgƒfƒoƒbƒO JavaScript ƒGƒfƒBƒ^
+Debug.jsEditor=ãƒ¬ãƒãƒ¼ãƒˆãƒ‡ãƒãƒƒã‚° JavaScript ã‚¨ãƒ‡ã‚£ã‚¿
 
 javaSourceLocatorName=Java Source Locator
-Watch.label=ƒEƒHƒbƒ`‚É’Ç‰Á
+Watch.label=ã‚¦ã‚©ãƒƒãƒã«è¿½åŠ 
 
-ReportActionSet=ƒŒƒ|[ƒg‚ÌƒAƒNƒVƒ‡ƒ“ƒZƒbƒg
+ReportActionSet=ãƒ¬ãƒãƒ¼ãƒˆã®ã‚¢ã‚¯ã‚·ãƒ§ãƒ³ã‚»ãƒƒãƒˆ
 
-Run=Às(&R)
+Run=å®Ÿè¡Œ(&R)
 
-ScriptLaunchShortcut.label=ƒŒƒ|[ƒg
+ScriptLaunchShortcut.label=ãƒ¬ãƒãƒ¼ãƒˆ
 
-DebugReportLaunchShortcut.description=ƒŒƒ|[ƒg‚ÌƒfƒoƒbƒO
+DebugReportLaunchShortcut.description=ãƒ¬ãƒãƒ¼ãƒˆã®ãƒ‡ãƒãƒƒã‚°
 
-EnableBreakpoint.label=ƒuƒŒ[ƒNƒ|ƒCƒ“ƒg‚Ì—LŒø‰»
+EnableBreakpoint.label=ãƒ–ãƒ¬ãƒ¼ã‚¯ãƒã‚¤ãƒ³ãƒˆã®æœ‰åŠ¹åŒ–
 
-ToggleBreakpoint.label=ƒuƒŒ[ƒNƒ|ƒCƒ“ƒg‚ÌØ‚è‘Ö‚¦
+ToggleBreakpoint.label=ãƒ–ãƒ¬ãƒ¼ã‚¯ãƒã‚¤ãƒ³ãƒˆã®åˆ‡ã‚Šæ›¿ãˆ
 
-Action.DebugReport=ƒfƒoƒbƒOƒŒƒ|[ƒg
+Action.DebugReport=ãƒ‡ãƒãƒƒã‚°ãƒ¬ãƒãƒ¼ãƒˆ
 
-Menu.Report=ƒŒƒ|[ƒg
+Menu.Report=ãƒ¬ãƒãƒ¼ãƒˆ

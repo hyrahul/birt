@@ -21,27 +21,27 @@ birt-viewer-driver-path=birt/plugins/org.eclipse.birt.report.data.oda.jdbc/drive
 ###############################################################################
 # NLS String
 ###############################################################################
-dataset.editor.page.query=Äõ¸®
+dataset.editor.page.query=ì¿¼ë¦¬
 
-datasource.name=JDBC µ¥ÀÌÅÍ ¿øº»
+datasource.name=JDBC ë°ì´í„° ì›ë³¸
 
-dataset.jdbcselect=JDBC¸¦ ÅëÇÑ SQL SELECT
+dataset.jdbcselect=JDBCë¥¼ í†µí•œ SQL SELECT
 
-datasource.editor.page.connection=µ¥ÀÌÅÍ ¿øº» ¿¬°á
+datasource.editor.page.connection=ë°ì´í„° ì›ë³¸ ì—°ê²°
 
-preference.datasetpreview=JDBC µ¥ÀÌÅÍ ÁıÇÕ
+preference.datasetpreview=JDBC ë°ì´í„° ì§‘í•©
 
-preference.bidi.datasource.title =JDBC µ¥ÀÌÅÍ ¿øº»
+preference.bidi.datasource.title =JDBC ë°ì´í„° ì›ë³¸
 
-wizard.data.set.title=»õ µ¥ÀÌÅÍ ÁıÇÕ
+wizard.data.set.title=ìƒˆ ë°ì´í„° ì§‘í•©
 
 
 plugin.name=BIRT JDBC UI Plug-in
 newwizard.name=BIRT JDBC Data Source
-newwizard.description=BIRT JDBC ¿¬°á ÇÁ·ÎÇÊ »ı¼º
+newwizard.description=BIRT JDBC ì—°ê²° í”„ë¡œí•„ ìƒì„±
 
-wizard.window.title=»õ JDBC µ¥ÀÌÅÍ ¿øº» ÇÁ·ÎÇÊ
+wizard.window.title=ìƒˆ JDBC ë°ì´í„° ì›ë³¸ í”„ë¡œí•„
 
-wizard.data.source.page.title=»õ µ¥ÀÌÅÍ ¿øº» »ı¼º
+wizard.data.source.page.title=ìƒˆ ë°ì´í„° ì›ë³¸ ìƒì„±
 
 profile.propertypage.name=BIRT JDBC Data Source

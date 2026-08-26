@@ -19,4 +19,4 @@ wizard.data.source.page.title=Excel Data Source
 profile.propertypage.name=Excel Data Source Connection Properties
 wizard.data.set.window.title=Neuer Excel-Datensatz
 
-wizard.data.set.page.title=Spalten ausw‰hlen
+wizard.data.set.page.title=Spalten ausw√§hlen

@@ -1,58 +1,58 @@
 ###########################################################
 #Primitive Charts
-SideBySideBar=Gruppierte Balkendiagramme stellen Balken jeder Datenreihe nebeneinander dar. Die Balken sind so angeordnet, dass alle dieselbe Breite besitzen. Die Balkenbreite hängt von der Anzahl der abgebildeten Datenreihen ab.
+SideBySideBar=Gruppierte Balkendiagramme stellen Balken jeder Datenreihe nebeneinander dar. Die Balken sind so angeordnet, dass alle dieselbe Breite besitzen. Die Balkenbreite hÃ¤ngt von der Anzahl der abgebildeten Datenreihen ab.
 
-StackedBar=Gestapelte Balkendiagramme stellen übereinander gestapelte Balken dar. Positive und negative Werte werden separat über bzw. unter dem Ursprung gestapelt.
+StackedBar=Gestapelte Balkendiagramme stellen Ã¼bereinander gestapelte Balken dar. Positive und negative Werte werden separat Ã¼ber bzw. unter dem Ursprung gestapelt.
 
-PercentStackedBar=Gestapelte Balkendiagramme (100 %) stellen übereinander gestapelte Balken dar, so dass die Gesamthöhe der gestapelten Balken (vom niedrigsten zum höchsten Punkt) stets 100 beträgt.
+PercentStackedBar=Gestapelte Balkendiagramme (100Â %) stellen Ã¼bereinander gestapelte Balken dar, so dass die GesamthÃ¶he der gestapelten Balken (vom niedrigsten zum hÃ¶chsten Punkt) stetsÂ 100 betrÃ¤gt.
 
-OverlayLine=Überlagerungs-Liniendiagramme stellen Linien aus jeder Datenreihe unabhängig voneinander dar. Die Linien verbinden dabei die Werte der jeweiligen Datenreihe.
+OverlayLine=Ãœberlagerungs-Liniendiagramme stellen Linien aus jeder Datenreihe unabhÃ¤ngig voneinander dar. Die Linien verbinden dabei die Werte der jeweiligen Datenreihe.
 
-StackedLine=Gestapelte Liniendiagramme stellen übereinander gestapelte Linien dar. Positive und negative Werte werden separat über bzw. unter dem Ursprung gestapelt.
+StackedLine=Gestapelte Liniendiagramme stellen Ã¼bereinander gestapelte Linien dar. Positive und negative Werte werden separat Ã¼ber bzw. unter dem Ursprung gestapelt.
 
-PercentStackedLine=Gestapelte Liniendiagramme (100 %) stellen übereinander gestapelte Linien dar, so dass die Gesamthöhe der gestapelten Linien (vom niedrigsten zum höchsten Punkt jeder Einheit) stets 100 beträgt.
+PercentStackedLine=Gestapelte Liniendiagramme (100Â %) stellen Ã¼bereinander gestapelte Linien dar, so dass die GesamthÃ¶he der gestapelten Linien (vom niedrigsten zum hÃ¶chsten Punkt jeder Einheit) stets 100 betrÃ¤gt.
 
-OverlayArea=Überlagerte Flächendiagramme stellen Flächen aus jeder Datenreihe unabhängig voneinander dar. Die Flächen verbinden dabei die Werte der jeweiligen Datenreihe.
+OverlayArea=Ãœberlagerte FlÃ¤chendiagramme stellen FlÃ¤chen aus jeder Datenreihe unabhÃ¤ngig voneinander dar. Die FlÃ¤chen verbinden dabei die Werte der jeweiligen Datenreihe.
 
-StackedArea=Gestapelte Flächendiagramme stellen übereinander gestapelte Flächen dar. Positive und negative Werte werden separat über bzw. unter dem Ursprung gestapelt.
+StackedArea=Gestapelte FlÃ¤chendiagramme stellen Ã¼bereinander gestapelte FlÃ¤chen dar. Positive und negative Werte werden separat Ã¼ber bzw. unter dem Ursprung gestapelt.
 
-PercentStackedArea=Gestapelte Flächendiagramme (100 %) stellen übereinander gestapelte Flächen dar, so dass die Gesamthöhe der gestapelten Flächen (vom niedrigsten zum höchsten Punkt jeder Einheit) stets 100 beträgt.
+PercentStackedArea=Gestapelte FlÃ¤chendiagramme (100Â %) stellen Ã¼bereinander gestapelte FlÃ¤chen dar, so dass die GesamthÃ¶he der gestapelten FlÃ¤chen (vom niedrigsten zum hÃ¶chsten Punkt jeder Einheit) stets 100 betrÃ¤gt.
 
-Pie=Kreisdiagramme stellen Werte als Segmente eines Kreises dar. Die Größe des Segments ist proportional zum dargestellten Wert. Kreisdiagramme für mehrere Datenreihen werden mit mehreren Kreisen abgebildet, die jeweils für eine Datenreihe stehen.
+Pie=Kreisdiagramme stellen Werte als Segmente eines Kreises dar. Die GrÃ¶ÃŸe des Segments ist proportional zum dargestellten Wert. Kreisdiagramme fÃ¼r mehrere Datenreihen werden mit mehreren Kreisen abgebildet, die jeweils fÃ¼r eine Datenreihe stehen.
 
 StandardMeter=Standard-Tachometerdiagramme enthalten einen einzelnen Tachometer mit einem oder mehreren Bereichen. Der Hintergrund des Tachometers kann in Bereiche mit unterschiedlichen Farben unterteilt werden.
 
-SuperImposedMeter=Übereinandergelagerte Tachometerdiagramme enthalten mehrere Tachometer mit identischen Bereichen. Die Tachometer überlappen sich, so dass innerhalb eines einzigen Bereichs mehrere Nadeln dargestellt werden können.
+SuperImposedMeter=Ãœbereinandergelagerte Tachometerdiagramme enthalten mehrere Tachometer mit identischen Bereichen. Die Tachometer Ã¼berlappen sich, so dass innerhalb eines einzigen Bereichs mehrere Nadeln dargestellt werden kÃ¶nnen.
 
 Scatter=In Punktdiagrammen sind die Werte entsprechend der Kategorie und der Datenwerte als Koordinaten angeordnet. Jeder Datenwert wird durch eine Markierung gekennzeichnet.
 
-BarStickStock=Ein Barstick-Kursdiagramm enthält eine senkrechte Linie, an die zwei waagerechte Linien angefügt sind. Die obersten und untersten Punkte der senkrechten Linie entsprechen dem Höchst- und dem Tiefstwert der Aktie. Die beiden waagerechten Linien stellen Eröffnung- und Schlusswert dar.
+BarStickStock=Ein Barstick-Kursdiagramm enthÃ¤lt eine senkrechte Linie, an die zwei waagerechte Linien angefÃ¼gt sind. Die obersten und untersten Punkte der senkrechten Linie entsprechen dem HÃ¶chst- und dem Tiefstwert der Aktie. Die beiden waagerechten Linien stellen ErÃ¶ffnung- und Schlusswert dar.
 
-CandleStickStock=Ein Candlestick-Kursdiagramm enthält ein Feld mit Linien, die an den Enden nach oben und nach unten erweitert sind. Die oberen und unteren Kanten des Felds stellen die Werte für den Eröffnungskurs und Schlusskurs dar. Die oberen und unteren Punkte der Linie repräsentieren die Höchst- und Tiefstwerte.
+CandleStickStock=Ein Candlestick-Kursdiagramm enthÃ¤lt ein Feld mit Linien, die an den Enden nach oben und nach unten erweitert sind. Die oberen und unteren Kanten des Felds stellen die Werte fÃ¼r den ErÃ¶ffnungskurs und Schlusskurs dar. Die oberen und unteren Punkte der Linie reprÃ¤sentieren die HÃ¶chst- und Tiefstwerte.
 
 Bubble=Blasendiagramme sind eine Erweiterung von Punktdiagrammen und zeigen die Punkte als Blasen. Die Blasendurchmesser sind proportional zu einem dritten Datenwert neben den X- und Y-Koordinaten.
 
-Difference=Differenz-Diagramme zeigen den Bereich zwischen zwei Linien, geben alle Datenreiheneigenschaften wieder und können auch einen negativen Bereich andersfarbig darstellen.
+Difference=Differenz-Diagramme zeigen den Bereich zwischen zwei Linien, geben alle Datenreiheneigenschaften wieder und kÃ¶nnen auch einen negativen Bereich andersfarbig darstellen.
 
-Gantt=Gantt-Diagramme werden zur Verfolgung der Dauer und des Fortschritts von Aufgaben verwendet. Dazu werden auf einer Y-Achse vom Typ 'Datum/Uhrzeit' Balken mit benutzerdefinierter Breite mit optionalen Start- und Endmarkierungen dargestellt. Jeder Balken ist durch Kategorie, Beschriftung für Aufgabe, Anfangs- und Endzeit definiert. Zur Verfolgung des Fortschritts geplanter Aufgaben etwa können mehrere Gantt-Reihen mit verschiedenen Breiten überlagert werden.
+Gantt=Gantt-Diagramme werden zur Verfolgung der Dauer und des Fortschritts von Aufgaben verwendet. Dazu werden auf einer Y-Achse vom Typ 'Datum/Uhrzeit' Balken mit benutzerdefinierter Breite mit optionalen Start- und Endmarkierungen dargestellt. Jeder Balken ist durch Kategorie, Beschriftung fÃ¼r Aufgabe, Anfangs- und Endzeit definiert. Zur Verfolgung des Fortschritts geplanter Aufgaben etwa kÃ¶nnen mehrere Gantt-Reihen mit verschiedenen Breiten Ã¼berlagert werden.
 
-Tube=Röhrendiagramme sind ähnlich wie Balkendiagramme, wobei die Balken als Röhren dargestellt werden.
+Tube=RÃ¶hrendiagramme sind Ã¤hnlich wie Balkendiagramme, wobei die Balken als RÃ¶hren dargestellt werden.
 
-Cone=Kegeldiagramme sind ähnlich wie Balkendiagramme, wobei die Balken als Kegel dargestellt werden.
+Cone=Kegeldiagramme sind Ã¤hnlich wie Balkendiagramme, wobei die Balken als Kegel dargestellt werden.
 
-Pyramid=Pyramidendiagramme sind ähnlich wie Balkendiagramme, wobei die Balken als Pyramiden dargestellt werden.
+Pyramid=Pyramidendiagramme sind Ã¤hnlich wie Balkendiagramme, wobei die Balken als Pyramiden dargestellt werden.
 
-Radar=Standardradardiagramme enthalten ein zirkuläres Raster, das von einem oder mehreren Reihenpolygonen bzw. einer oder mehreren Reihenlinien überlagert wird.
+Radar=Standardradardiagramme enthalten ein zirkulÃ¤res Raster, das von einem oder mehreren Reihenpolygonen bzw. einer oder mehreren Reihenlinien Ã¼berlagert wird.
 
 ###########################################################
 #3D Charts
 Bar=Dreidimensionales gruppiertes Balkendiagramm.
 
-Line=Dreidimensionales überlagertes Liniendiagramm.
+Line=Dreidimensionales Ã¼berlagertes Liniendiagramm.
 
-Area=Dreidimensionales überlagertes Flächendiagramm.
+Area=Dreidimensionales Ã¼berlagertes FlÃ¤chendiagramm.
 
-Tube3D=Dreidimensionales gruppiertes Röhrendiagramm.
+Tube3D=Dreidimensionales gruppiertes RÃ¶hrendiagramm.
 
 Cone3D=Dreidimensionales gruppiertes Kegeldiagramm.
 
@@ -65,15 +65,15 @@ BarAndLine=Kombinationsdiagramme aus Balken und Linien enthalten zwei Datenreihe
 
 ###########################################################
 #Formatted Charts
-AxisLabelFormat=Geben Sie das Format für die Achsenbeschriftungen an: Y-Achse ($###,###) und X-Achse (dd/MM/yyyy). Darüber hinaus können die Benutzer die Farbe, die Schriftart, den Umriss und andere Attribute für die Beschriftung festlegen.
+AxisLabelFormat=Geben Sie das Format fÃ¼r die Achsenbeschriftungen an: Y-Achse ($###,###) und X-Achse (dd/MM/yyyy). DarÃ¼ber hinaus kÃ¶nnen die Benutzer die Farbe, die Schriftart, den Umriss und andere Attribute fÃ¼r die Beschriftung festlegen.
 
-AxisTitleFormat=Sämtliche Beschriftungsattribute können auf den Achsentitel angewendet werden.
+AxisTitleFormat=SÃ¤mtliche Beschriftungsattribute kÃ¶nnen auf den Achsentitel angewendet werden.
 
 ColoredByCategorySeries=Legen Sie den Legendenelementtyp als Kategorie fest.
 
-OpenJavaSourceAction.Text.Description=Java Source aus dem relevanten Verzeichnis öffnen
+OpenJavaSourceAction.Text.Description=Java Source aus dem relevanten Verzeichnis Ã¶ffnen
 
-OpenJavaSourceAction.Text.ToolTip=Java Source öffnen
+OpenJavaSourceAction.Text.ToolTip=Java Source Ã¶ffnen
 
 SaveXMLAction.MessageBox.Message=Die XML-Quelldatei ist im Verzeichnis bereits vorhanden.\nErsetzen?
 
@@ -85,21 +85,21 @@ SaveXMLAction.Text.ToolTip=XML-Quelldatei speichern
 
 ColoredByValueSeries=Legen Sie den Legendenelementtyp als Datenreihe fest.
 
-CurveFittingArea=Aktivieren Sie das Kurvenanpassungsattribut für Flächendatenreihen.
+CurveFittingArea=Aktivieren Sie das Kurvenanpassungsattribut fÃ¼r FlÃ¤chendatenreihen.
 
-CurveFittingBar=Erstellen Sie eine Kurvenattributslinie für Balkendatenreihen.
+CurveFittingBar=Erstellen Sie eine Kurvenattributslinie fÃ¼r Balkendatenreihen.
 
-CurveFittingLine=Das Kurvenanpassungsattribut für Liniendatenreihen aktivieren.
+CurveFittingLine=Das Kurvenanpassungsattribut fÃ¼r Liniendatenreihen aktivieren.
 
-CurveFittingStock=Erstellen Sie eine Kurvenattributslinie für Kursdiagramm-Datenreihen.
+CurveFittingStock=Erstellen Sie eine Kurvenattributslinie fÃ¼r Kursdiagramm-Datenreihen.
 
-LegendFormat=Die Legende kann links, rechts, oben und unten und innen positioniert werden. Die Client-Fläche befindet sich innerhalb der Legende. Sie enthält die Legendenelemente.
+LegendFormat=Die Legende kann links, rechts, oben und unten und innen positioniert werden. Die Client-FlÃ¤che befindet sich innerhalb der Legende. Sie enthÃ¤lt die Legendenelemente.
 
-MarkerLine=Es kann eine Markierungslinie sowohl für die X-Achse als auch für die Y-Achse erstellt werden (nur für Diagrammtypen mit Achsen).
+MarkerLine=Es kann eine Markierungslinie sowohl fÃ¼r die X-Achse als auch fÃ¼r die Y-Achse erstellt werden (nur fÃ¼r Diagrammtypen mit Achsen).
 
-MarkerRange=Es kann ein Markierungsbereich sowohl für die X-Achse als auch für die Y-Achse erstellt werden (nur für Diagrammtypen mit Achsen).
+MarkerRange=Es kann ein Markierungsbereich sowohl fÃ¼r die X-Achse als auch fÃ¼r die Y-Achse erstellt werden (nur fÃ¼r Diagrammtypen mit Achsen).
 
-MultiplePie=Ein einzelnes Kreisdiagramm enthält mehrere Kreisdiagramm-Datenreihen. Diese bilden eine Kreisgruppe, um den Wertevergleich darzustellen.
+MultiplePie=Ein einzelnes Kreisdiagramm enthÃ¤lt mehrere Kreisdiagramm-Datenreihen. Diese bilden eine Kreisgruppe, um den Wertevergleich darzustellen.
 
 MDialSRegionMeter=Mehrere Nadeln in einem einzelnen Tachometer.
 
@@ -107,35 +107,35 @@ SDialSRegionMeter=Eine Nadel in einem einzelnen Tachometer.
 
 PercentageValueFormat=Stellen Sie den Datenreihenwert als Prozentzahl dar.
 
-PlotFormat=Geben Sie die Darstellung der Diagramm- und Client-Fläche an.
+PlotFormat=Geben Sie die Darstellung der Diagramm- und Client-FlÃ¤che an.
 
-SeriesValueFormat=Geben Sie das Format für Wertedaten ($###,###.00) und Beschriftung der X-Achse (tt/MM/jjjj) an.
+SeriesValueFormat=Geben Sie das Format fÃ¼r Wertedaten ($###,###.00) und Beschriftung der X-Achse (tt/MM/jjjj) an.
 
 ###########################################################
 #Scripted Charts
-AxisLabelScript=Mit beforeDrawAxisLabel() können die Benutzer Attribute für Achsen und Beschriftungen (Axis.getLabel()) bearbeiten.
+AxisLabelScript=Mit beforeDrawAxisLabel() kÃ¶nnen die Benutzer Attribute fÃ¼r Achsen und Beschriftungen (Axis.getLabel()) bearbeiten.
 
-AxisTitleScript=Mit beforeDrawAxisTitle() können die Benutzer Attribute für Achsen und Beschriftungen (Axis.getTitle()) bearbeiten.
+AxisTitleScript=Mit beforeDrawAxisTitle() kÃ¶nnen die Benutzer Attribute fÃ¼r Achsen und Beschriftungen (Axis.getTitle()) bearbeiten.
 
-BlockScript=Mit beforeDrawBlock() können die Benutzer Attribute für den Block (z. B. Diagramm, Titel, Legende) bearbeiten.
+BlockScript=Mit beforeDrawBlock() kÃ¶nnen die Benutzer Attribute fÃ¼r den Block (z.Â B. Diagramm, Titel, Legende) bearbeiten.
 
-CurveFittingScript=Mit beforeDrawFittingCurve() können die Benutzer Attribute für CurveFitting bearbeiten.
+CurveFittingScript=Mit beforeDrawFittingCurve() kÃ¶nnen die Benutzer Attribute fÃ¼r CurveFitting bearbeiten.
 
-DataPointLabelScript=Mit beforeDrawDataPointLabel() können die Benutzer Attribute für DataPointHints und Beschriftungen bearbeiten.
+DataPointLabelScript=Mit beforeDrawDataPointLabel() kÃ¶nnen die Benutzer Attribute fÃ¼r DataPointHints und Beschriftungen bearbeiten.
 
-LegendScript=beforeDrawLegendItem() ermöglicht den Benutzern die Bearbeitung von Legendenelementen und Grenzenattributen.
+LegendScript=beforeDrawLegendItem() ermÃ¶glicht den Benutzern die Bearbeitung von Legendenelementen und Grenzenattributen.
 
-MarkerLineScript=Mit beforeDrawMarkerLine() können die Benutzer Attribute für Achsen und die Markierungslinie bearbeiten.
+MarkerLineScript=Mit beforeDrawMarkerLine() kÃ¶nnen die Benutzer Attribute fÃ¼r Achsen und die Markierungslinie bearbeiten.
 
-MarkerRangeScript=Mit beforeDrawMarkerRange() können die Benutzer Attribute für Achsen und MarkerRange bearbeiten.
+MarkerRangeScript=Mit beforeDrawMarkerRange() kÃ¶nnen die Benutzer Attribute fÃ¼r Achsen und MarkerRange bearbeiten.
 
-SeriesScript=Mit beforeDrawSeries() können die Benutzer Attribute für Datenreihen und ISeriesRenderer (BaseRenderer oder AxesRenderer) bearbeiten.
+SeriesScript=Mit beforeDrawSeries() kÃ¶nnen die Benutzer Attribute fÃ¼r Datenreihen und ISeriesRenderer (BaseRenderer oder AxesRenderer) bearbeiten.
 
-SeriesTitleScript=Mit beforeDrawSeriesTitle() können die Benutzer Attribute für Datenreihen und Beschriftungen (Series.getTitle()) bearbeiten. Das gilt nur für Kreisdiagramme.
+SeriesTitleScript=Mit beforeDrawSeriesTitle() kÃ¶nnen die Benutzer Attribute fÃ¼r Datenreihen und Beschriftungen (Series.getTitle()) bearbeiten. Das gilt nur fÃ¼r Kreisdiagramme.
 
 ###########################################################
 #Data Operations
-MinSlice=Der Benutzer hat die Möglichkeit, den Mindestwert (absolut oder in Prozent) für ein Segment anzugeben. Das Kreisdiagrammsegment kann ausgerückt dargestellt werden, indem ein Ausdruck für das Ausrückungsattribut festgelegt wird.
+MinSlice=Der Benutzer hat die MÃ¶glichkeit, den Mindestwert (absolut oder in Prozent) fÃ¼r ein Segment anzugeben. Das Kreisdiagrammsegment kann ausgerÃ¼ckt dargestellt werden, indem ein Ausdruck fÃ¼r das AusrÃ¼ckungsattribut festgelegt wird.
 
 MultipleYAxes=Ein Diagramm kann mehr als eine Y-Achse enthalten.
 
@@ -145,7 +145,7 @@ WorkingWithBIRTDataEngine=Ein Diagramm arbeitet mit ODA/DtE (BIRT-Datenengine), 
 
 ###########################################################
 #Default
-DefaultDescription=Wählen Sie ein Beispiel aus den Kategorien aus.
+DefaultDescription=WÃ¤hlen Sie ein Beispiel aus den Kategorien aus.
 
 ###########################################################
 #Example View labels
@@ -153,7 +153,7 @@ ChartExamples.Description=Beschreibung
 
 ChartExamples.Preview=Vorschau
 
-ChartExamples.SelectExamples=Beispiele auswählen
+ChartExamples.SelectExamples=Beispiele auswÃ¤hlen
 
 ############################################################
 #Category Names
@@ -167,7 +167,7 @@ SampleChartCategory.FormattedCharts=Formatierte Diagramme
 
 SampleChartCategory.ScriptedCharts=Geskriptete Diagramme
 
-SampleChartCategory.DataOperations=Datenvorgänge
+SampleChartCategory.DataOperations=DatenvorgÃ¤nge
 #Sample Chart Names
 #Primitive Charts
 SampleChartName.SideBySideBar=Gruppierte Balken
@@ -176,23 +176,23 @@ SampleChartName.StackedBar=Stapelbalken
 
 SampleChartName.PercentStackedBar=Stapelbalken (prozentual)
 
-SampleChartName.OverlayLine=Überlagerungslinie
+SampleChartName.OverlayLine=Ãœberlagerungslinie
 
 SampleChartName.StackedLine=Stapellinie
 
 SampleChartName.PercentStackedLine=Stapellinie (prozentual)
 
-SampleChartName.OverlayArea=Überlagerte Fläche
+SampleChartName.OverlayArea=Ãœberlagerte FlÃ¤che
 
-SampleChartName.StackedArea=Stapelfläche
+SampleChartName.StackedArea=StapelflÃ¤che
 
-SampleChartName.PercentStackedArea=Stapelfläche (prozentual)
+SampleChartName.PercentStackedArea=StapelflÃ¤che (prozentual)
 
 SampleChartName.Pie=Kreis
 
 SampleChartName.StandardMeter=Standard-Tachometer
 
-SampleChartName.SuperImposedMeter=Überlagertes Tachometer
+SampleChartName.SuperImposedMeter=Ãœberlagertes Tachometer
 
 SampleChartName.Scatter=Punkt
 
@@ -206,7 +206,7 @@ SampleChartName.Difference=Differenz
 
 SampleChartName.Gantt=Gantt
 
-SampleChartName.Tube=Röhre
+SampleChartName.Tube=RÃ¶hre
 
 SampleChartName.Cone=Kegel
 
@@ -218,9 +218,9 @@ SampleChartName.Bar=Balken
 
 SampleChartName.Line=Linie
 
-SampleChartName.Area=Fläche
+SampleChartName.Area=FlÃ¤che
 
-SampleChartName.Tube3D=Röhre
+SampleChartName.Tube3D=RÃ¶hre
 
 SampleChartName.Cone3D=Kegel
 
@@ -228,23 +228,23 @@ SampleChartName.Pyramid3D=Pyramide
 #Combination Charts
 SampleChartName.BarAndLine=Balken und Linien
 #Formatted Charts
-SampleChartName.AxisLabelFormat=Formatierung für Achsenbeschriftung
+SampleChartName.AxisLabelFormat=Formatierung fÃ¼r Achsenbeschriftung
 
-SampleChartName.AxisTitleFormat=Formatierung für Achsentitel
+SampleChartName.AxisTitleFormat=Formatierung fÃ¼r Achsentitel
 
-SampleChartName.ColoredByCategorySeries=Färbung nach Kategorie-Datenreihe
+SampleChartName.ColoredByCategorySeries=FÃ¤rbung nach Kategorie-Datenreihe
 
-SampleChartName.ColoredByValueSeries=Färbung nach Wert-Datenreihe
+SampleChartName.ColoredByValueSeries=FÃ¤rbung nach Wert-Datenreihe
 
-SampleChartName.CurveFittingArea=Kurvenanpassung für Fläche
+SampleChartName.CurveFittingArea=Kurvenanpassung fÃ¼r FlÃ¤che
 
-SampleChartName.CurveFittingBar=Kurvenanpassung für Balken
+SampleChartName.CurveFittingBar=Kurvenanpassung fÃ¼r Balken
 
-SampleChartName.CurveFittingLine=Kurvenanpassung für Linie
+SampleChartName.CurveFittingLine=Kurvenanpassung fÃ¼r Linie
 
-SampleChartName.CurveFittingStock=Kurvenanpassung für Kurs
+SampleChartName.CurveFittingStock=Kurvenanpassung fÃ¼r Kurs
 
-SampleChartName.LegendFormat=Formatierung für Legende
+SampleChartName.LegendFormat=Formatierung fÃ¼r Legende
 
 SampleChartName.MarkerLine=Markierungslinie
 
@@ -258,9 +258,9 @@ SampleChartName.SDialSRegionMeter=Tachometer, ein Zeiger, eine Region
 
 SampleChartName.PercentageValueFormat=Prozentzahlformat
 
-SampleChartName.PlotFormat=Formatierung für Zeichnung
+SampleChartName.PlotFormat=Formatierung fÃ¼r Zeichnung
 
-SampleChartName.SeriesValueFormat=Formatierung für Datenreihenwert
+SampleChartName.SeriesValueFormat=Formatierung fÃ¼r Datenreihenwert
 #Scripted Charts
 SampleChartName.AxisLabelScript=Achsenbeschriftungsskript
 
@@ -282,7 +282,7 @@ SampleChartName.SeriesScript=Datenreihenskript
 
 SampleChartName.SeriesTitleScript=Datenreihentitelskript
 #Data Operations
-SampleChartName.MinSlice=Mindestgröße für Segment
+SampleChartName.MinSlice=MindestgrÃ¶ÃŸe fÃ¼r Segment
 
 SampleChartName.MultipleYAxes=Mehrere Y-Achsen
 

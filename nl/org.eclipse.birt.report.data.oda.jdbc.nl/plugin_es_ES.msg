@@ -30,20 +30,20 @@ datasource.property.odaDataSource=Fuente de datos
 
 datasource.property.odaUser=&Nombre de usuario
 
-datasource.property.odaPassword=Cont&raseña
+datasource.property.odaPassword=Cont&raseÃ±a
 
 datasource.property.odaJndiURL=&JNDI URL
-datasource.property.autocommit= &Confirmar automáticamente
+datasource.property.autocommit= &Confirmar automÃ¡ticamente
 
 datasource.property.isolationmode=&Modo de aislamiento
 
-dataset.query.sqltype=Consulta de selección de SQL
+dataset.query.sqltype=Consulta de selecciÃ³n de SQL
 
 dataset.query.sptype=Consulta de stored procedure de SQL
 
-dataset.property.queryTimeOut=Tiem&po límite de consulta (en segundos)
+dataset.property.queryTimeOut=Tiem&po lÃ­mite de consulta (en segundos)
 
-dataset.property.rowFetchSize=Tamaño de recuperación de &fila
+dataset.property.rowFetchSize=TamaÃ±o de recuperaciÃ³n de &fila
 
 dataset.connection.autocommit.false=false
 
@@ -61,7 +61,7 @@ dataset.connection.isolationmode.serializable=serializable
 #  Below NLS messages apply to all ODA data sources; should be re-factored
 #
 oda.connection.factory.name=ODA Connection Factory
-datasource.property.ssl.trustStorePassword=Contra&señadeTrustStore:
+datasource.property.ssl.trustStorePassword=Contra&seÃ±adeTrustStore:
 
-datasource.property.ssl.keyStorePassword=ContraseñaKe&yStore:
+datasource.property.ssl.keyStorePassword=ContraseÃ±aKe&yStore:
 

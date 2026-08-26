@@ -1,28 +1,28 @@
-birt.web.category.name=ƒrƒWƒlƒXƒCƒ“ƒeƒŠƒWƒFƒ“ƒX‚ÆƒŒƒ|[ƒgì¬ƒc[ƒ‹(&B)
+birt.web.category.name=ãƒ“ã‚¸ãƒã‚¹ã‚¤ãƒ³ãƒ†ãƒªã‚¸ã‚§ãƒ³ã‚¹ã¨ãƒ¬ãƒãƒ¼ãƒˆä½œæˆãƒ„ãƒ¼ãƒ«(&B)
 
-birt.web.project.name=ƒOƒ‰ƒtƒ‰ƒ“ƒ^ƒCƒ€•t‚« Web ƒvƒƒWƒFƒNƒg
+birt.web.project.name=ã‚°ãƒ©ãƒ•ãƒ©ãƒ³ã‚¿ã‚¤ãƒ ä»˜ã Web ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ
 
-birt.web.project.description=BIRT ƒOƒ‰ƒtƒRƒ“ƒ|[ƒlƒ“ƒg‚ðŠÜ‚Þ Web ƒvƒƒWƒFƒNƒg‚ðì¬‚µ‚Ü‚·B
+birt.web.project.description=BIRT ã‚°ãƒ©ãƒ•ã‚³ãƒ³ãƒãƒ¼ãƒãƒ³ãƒˆã‚’å«ã‚€ Web ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ä½œæˆã—ã¾ã™ã€‚
 
-birt.web.actionsets.description=BIRT ƒOƒ‰ƒtì¬ Web ƒvƒƒWƒFƒNƒg‚Å‚Ì‘€ì
+birt.web.actionsets.description=BIRT ã‚°ãƒ©ãƒ•ä½œæˆ Web ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã§ã®æ“ä½œ
 
-create.birt.web.module=BIRT ƒOƒ‰ƒtì¬ Web ƒ‚ƒWƒ…[ƒ‹‚Ìì¬
+create.birt.web.module=BIRT ã‚°ãƒ©ãƒ•ä½œæˆ Web ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã®ä½œæˆ
 
-BIRT_FACET_LABEL=BIRT ƒOƒ‰ƒtì¬ƒ‰ƒ“ƒ^ƒCƒ€ƒRƒ“ƒ|[ƒlƒ“ƒg
+BIRT_FACET_LABEL=BIRT ã‚°ãƒ©ãƒ•ä½œæˆãƒ©ãƒ³ã‚¿ã‚¤ãƒ ã‚³ãƒ³ãƒãƒ¼ãƒãƒ³ãƒˆ
 
-BIRT_FACET_DESCRIPTION=BIRT ƒOƒ‰ƒtì¬ƒ‰ƒ“ƒ^ƒCƒ€ƒRƒ“ƒ|[ƒlƒ“ƒg
+BIRT_FACET_DESCRIPTION=BIRT ã‚°ãƒ©ãƒ•ä½œæˆãƒ©ãƒ³ã‚¿ã‚¤ãƒ ã‚³ãƒ³ãƒãƒ¼ãƒãƒ³ãƒˆ
 
-BIRT_FACET_TEMPLATE_LABEL=BIRT ƒOƒ‰ƒtì¬ Web ƒvƒƒWƒFƒNƒg
+BIRT_FACET_TEMPLATE_LABEL=BIRT ã‚°ãƒ©ãƒ•ä½œæˆ Web ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ
 
-BIRT_FACET_TEMPLATE_DESCRIPTION=BIRT ƒOƒ‰ƒtì¬ƒ‰ƒ“ƒ^ƒCƒ€ƒRƒ“ƒ|[ƒlƒ“ƒg‚Ì Web ƒvƒƒWƒFƒNƒg
+BIRT_FACET_TEMPLATE_DESCRIPTION=BIRT ã‚°ãƒ©ãƒ•ä½œæˆãƒ©ãƒ³ã‚¿ã‚¤ãƒ ã‚³ãƒ³ãƒãƒ¼ãƒãƒ³ãƒˆã® Web ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ
 
-JSP_New_context_type_Extension_Element.name=V‹K JSP (BIRT ƒOƒ‰ƒtì¬ƒ^ƒO‚ðŽg—p)
+JSP_New_context_type_Extension_Element.name=æ–°è¦ JSP (BIRT ã‚°ãƒ©ãƒ•ä½œæˆã‚¿ã‚°ã‚’ä½¿ç”¨)
 
-JSP_Tag_context_type_Extension_Element.name=V‹K BIRT ƒOƒ‰ƒtì¬ JSP ƒ^ƒO
+JSP_Tag_context_type_Extension_Element.name=æ–°è¦ BIRT ã‚°ãƒ©ãƒ•ä½œæˆ JSP ã‚¿ã‚°
 
-birtResourcesDefinition= ƒOƒ‰ƒtì¬—p‚Ì Web ƒAƒvƒŠƒP[ƒVƒ‡ƒ“ƒŠƒ\[ƒX‚Ì’è‹`
+birtResourcesDefinition= ã‚°ãƒ©ãƒ•ä½œæˆç”¨ã® Web ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ãƒªã‚½ãƒ¼ã‚¹ã®å®šç¾©
 
-birt.action.importruntime.name=ƒOƒ‰ƒtì¬—p‚Ìƒ‰ƒ“ƒ^ƒCƒ€ƒRƒ“ƒ|[ƒlƒ“ƒg‚ÌƒCƒ“ƒ|[ƒg(&C)...
+birt.action.importruntime.name=ã‚°ãƒ©ãƒ•ä½œæˆç”¨ã®ãƒ©ãƒ³ã‚¿ã‚¤ãƒ ã‚³ãƒ³ãƒãƒ¼ãƒãƒ³ãƒˆã®ã‚¤ãƒ³ãƒãƒ¼ãƒˆ(&C)...
 
 ##################Do not externalize the version number
 runtime.version=4.4.0

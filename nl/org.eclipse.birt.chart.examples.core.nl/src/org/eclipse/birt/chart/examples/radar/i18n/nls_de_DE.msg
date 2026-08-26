@@ -10,15 +10,15 @@ RadarChart.SubType.Spider=Netzradardiagramm
 
 RadarChart.SubType.Bullseye=Punktradardiagramm
 
-RadarChart.Tooltip.InputExpression=Geben Sie einen Ausdruck ein, der für jedes Objekt als Legendentext angezeigt wird.
+RadarChart.Tooltip.InputExpression=Geben Sie einen Ausdruck ein, der fÃ¼r jedes Objekt als Legendentext angezeigt wird.
 
-RadarChart.Txt.HelpText=Radardiagramme zeigen den aktuellen Datenwert einer bestimmten Messgröße an. Die verschiedenfarbigen Abschnitte stellen die Bereiche der Messgrößenwerte dar. Nadeln sind mit Tachometern verknüpft und zeigen deren Wert an.
+RadarChart.Txt.HelpText=Radardiagramme zeigen den aktuellen Datenwert einer bestimmten MessgrÃ¶ÃŸe an. Die verschiedenfarbigen Abschnitte stellen die Bereiche der MessgrÃ¶ÃŸenwerte dar. Nadeln sind mit Tachometern verknÃ¼pft und zeigen deren Wert an.
 
-RadarChart.Txt.Description=Standardradardiagramme enthalten ein zirkuläres Raster, das von einem oder mehreren Reihenpolygonen bzw. einer oder mehreren Reihenlinien überlagert wird.
+RadarChart.Txt.Description=Standardradardiagramme enthalten ein zirkulÃ¤res Raster, das von einem oder mehreren Reihenpolygonen bzw. einer oder mehreren Reihenlinien Ã¼berlagert wird.
 
-RadarChart.Txt.SpiderDescription=Netzradardiagramme enthalten ein polygonales Raster, das von einem oder mehreren Reihenpolygonen bzw. einer oder mehreren Reihenlinien überlagert wird.
+RadarChart.Txt.SpiderDescription=Netzradardiagramme enthalten ein polygonales Raster, das von einem oder mehreren Reihenpolygonen bzw. einer oder mehreren Reihenlinien Ã¼berlagert wird.
 
-RadarChart.Txt.BullseyeDescription=Punktradardiagramme enthalten ein zirkuläres, gefülltes Raster, das von einem oder mehreren Reihenpolygonen bzw. einer oder mehreren Reihenlinien überlagert wird.
+RadarChart.Txt.BullseyeDescription=Punktradardiagramme enthalten ein zirkulÃ¤res, gefÃ¼lltes Raster, das von einem oder mehreren Reihenpolygonen bzw. einer oder mehreren Reihenlinien Ã¼berlagert wird.
 
 RadarSeriesAttributeComposite.Lbl.Radius=Radi&us:
 
@@ -28,9 +28,9 @@ RadarSeriesAttributeComposite.Lbl.StopAngle=Endwink&el:
 
 RadarSeriesAttributeSheetImpl.Lbl.Type=Geben Sie Folgendes ein:
 
-RadarSeriesAttributeSheetImpl.Lbl.Fill=Füllung:
+RadarSeriesAttributeSheetImpl.Lbl.Fill=FÃ¼llung:
 
-RadarSeriesAttributeComposite.Lbl.DialTicks=&Häkchen
+RadarSeriesAttributeComposite.Lbl.DialTicks=&HÃ¤kchen
 
 RadarSeriesAttributeComposite.Lbl.DialScale=S&kalierung
 
@@ -40,11 +40,11 @@ RadarSeriesAttributeComposite.Lbl.ShowWeb=&Webbeschriftungen anzeigen
 
 RadarSeriesAttributeComposite.Lbl.ShowCat=Kategoriebes&chriftungen anzeigen
 
-RadarSeriesAttributeComposite.Exception.IllegalArgument=Datenreihe vom Typ {0} ist ein ungültiges Argument für RadarSeriesAttributeComposite.
+RadarSeriesAttributeComposite.Exception.IllegalArgument=Datenreihe vom Typ {0} ist ein ungÃ¼ltiges Argument fÃ¼r RadarSeriesAttributeComposite.
 
-RadarSeriesAttributeComposite.Lbl.LinePalette=&Palette für Datenreihe als Linienfarbe verwenden
+RadarSeriesAttributeComposite.Lbl.LinePalette=&Palette fÃ¼r Datenreihe als Linienfarbe verwenden
 
-RadarSeriesAttributeComposite.Lbl.FillPoly=Poly&gons füllen
+RadarSeriesAttributeComposite.Lbl.FillPoly=Poly&gons fÃ¼llen
 
 RadarSeriesAttributeComposite.Lbl.ConnectPoints=Datensatzendpunkte verbinden (polygonal)
 
@@ -96,15 +96,15 @@ Radar.Composite.Label.ScaleAuto=Automatisch skalieren
 
 Radar.Composite.Label.ScaleAutoTooltip=Chart wird automatisch skaliert
 
-Radar.Composite.Label.ScaleMax=Maximalwert für Skalierung
+Radar.Composite.Label.ScaleMax=Maximalwert fÃ¼r Skalierung
 
-Radar.Composite.Label.ScaleMaxToolTip=Maximalwert für Skalierung des Charts festlegen
+Radar.Composite.Label.ScaleMaxToolTip=Maximalwert fÃ¼r Skalierung des Charts festlegen
 
-Radar.Composite.Label.ScaleMin=Minimalwert für Skalierung
+Radar.Composite.Label.ScaleMin=Minimalwert fÃ¼r Skalierung
 
-Radar.Composite.Label.ScaleMinToolTip=Minimalwert für Skalierung des Charts festlegen
+Radar.Composite.Label.ScaleMinToolTip=Minimalwert fÃ¼r Skalierung des Charts festlegen
 
-Radar.Composite.Label.PlotPercentageToolTip=Prozentsatz der Zeichnungsfläche, der für den Radar erforderlich ist
+Radar.Composite.Label.PlotPercentageToolTip=Prozentsatz der ZeichnungsflÃ¤che, der fÃ¼r den Radar erforderlich ist
 
 ItemLabel.Visible=Sichtbar:
 

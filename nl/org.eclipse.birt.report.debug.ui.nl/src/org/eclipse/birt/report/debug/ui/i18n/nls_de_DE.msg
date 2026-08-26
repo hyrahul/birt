@@ -6,7 +6,7 @@ ScriptMainTab.msg.eclipse.home=Eclipse-Stammverzeichnis
 
 ScriptMainTab.msg.engine.home=Engine-Stammverzeichnis
 
-ScriptMainTab.msg.temp.folder=Temporärer Ordner
+ScriptMainTab.msg.temp.folder=TemporÃ¤rer Ordner
 
 ScriptMainTab.msg.debug.type=Debug-Typ
 
@@ -20,13 +20,13 @@ ScriptMainTab.msg.debug.type.all=Alle
 
 ScriptMainTab.msg.debug.type.java=Java
 ScriptMainTab.msg.debug.type.script=Java Script
-ScriptMainTab.msg.task.type.run.and.render=Ausführen und Rendern
+ScriptMainTab.msg.task.type.run.and.render=AusfÃ¼hren und Rendern
 
-ScriptMainTab.msg.task.type.run=Ausführen
+ScriptMainTab.msg.task.type.run=AusfÃ¼hren
 
 ScriptMainTab.msg.task.type.render=Rendern
 
-ScriptMainTab.msg.task.type.run.plus.render=Ausführen + Rendern
+ScriptMainTab.msg.task.type.run.plus.render=AusfÃ¼hren + Rendern
 
 ScriptMainTab.error.msg.no.eclipse.home=Eclipse-Stammverzeichnis wurde nicht angegeben.
 
@@ -40,38 +40,38 @@ ScriptMainTab.error.msg.nonexist.engine.home=Engine-Stammverzeichnis ist nicht v
 
 ScriptMainTab.error.msg.invalid.engine.home=Engine-Stammverzeichnis muss ein Verzeichnis sein.
 
-ScriptMainTab.error.msg.no.temp.folder=Temporärer Ordner wurde nicht angegeben.
+ScriptMainTab.error.msg.no.temp.folder=TemporÃ¤rer Ordner wurde nicht angegeben.
 
-ScriptMainTab.error.msg.nonexist.temp.folder=Temporärer Ordner ist nicht vorhanden.
+ScriptMainTab.error.msg.nonexist.temp.folder=TemporÃ¤rer Ordner ist nicht vorhanden.
 
-ScriptMainTab.error.msg.invalid.temp.folder=Temporärer Ordner muss ein Verzeichnis sein.
+ScriptMainTab.error.msg.invalid.temp.folder=TemporÃ¤rer Ordner muss ein Verzeichnis sein.
 
 ScriptMainTab.error.msg.no.report.file=Berichtdatei wurde nicht angegeben.
 
 ScriptMainTab.error.msg.nonexist.report.file=Berichtdatei ist nicht vorhanden.
 
-ScriptMainTab.error.msg.invalid.report.file=Die angegebene Datei ist keine gültige Berichtdesigndatei.
+ScriptMainTab.error.msg.invalid.report.file=Die angegebene Datei ist keine gÃ¼ltige Berichtdesigndatei.
 
-ScriptMainTab.error.msg.invalid.document.file=Die angegebene Datei ist keine gültige Berichtdokumentdatei.
+ScriptMainTab.error.msg.invalid.document.file=Die angegebene Datei ist keine gÃ¼ltige Berichtdokumentdatei.
 
 ScriptMainTab.title.eclipse.home=Eclipse-Stammverzeichnis
 
-ScriptMainTab.msg.select.eclipse.home=Wählen Sie ein Verzeichnis im Eclipse-Stammverzeichnis.
+ScriptMainTab.msg.select.eclipse.home=WÃ¤hlen Sie ein Verzeichnis im Eclipse-Stammverzeichnis.
 
-ScriptMainTab.title.temp.folder=Verzeichnis des temporären Ordners
+ScriptMainTab.title.temp.folder=Verzeichnis des temporÃ¤ren Ordners
 
-ScriptMainTab.msg.select.temp.folder=Wählen Sie ein Verzeichnis im Verzeichnis des temporären Ordners.
+ScriptMainTab.msg.select.temp.folder=WÃ¤hlen Sie ein Verzeichnis im Verzeichnis des temporÃ¤ren Ordners.
 
 ScriptMainTab.title.engine.home=Engine-Stammverzeichnis
 
-ScriptMainTab.msg.select.engine.home=Wählen Sie ein Verzeichnis im Engine-Stammverzeichnis.
+ScriptMainTab.msg.select.engine.home=WÃ¤hlen Sie ein Verzeichnis im Engine-Stammverzeichnis.
 
-ScriptMainTab.msg.select.report.file=Wählen Sie eine Berichtdatei.
+ScriptMainTab.msg.select.report.file=WÃ¤hlen Sie eine Berichtdatei.
 
 ScriptMainTab.button.text.search=Suchen...
 
 ScriptMainTab.button.text.variables=Variablen...
 
-ScriptMainTab.msg.open.target.file=Erstellte Datei nach dem Beenden öffnen
+ScriptMainTab.msg.open.target.file=Erstellte Datei nach dem Beenden Ã¶ffnen
 
 ScriptMainTab.msg.use.default.engine.home=Standard-Engine-Stammverzeichnis verwenden

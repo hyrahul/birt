@@ -1,190 +1,190 @@
-ChartAggregationCellViewProvider.Chart.DisplayName=Í¼±í
+ChartAggregationCellViewProvider.Chart.DisplayName=å›¾è¡¨
 
-ChartDataSetBindingSheetImpl.Lbl.SelectDataBinding=Ñ¡ÔñÊı¾İ°ó¶¨:
+ChartDataSetBindingSheetImpl.Lbl.SelectDataBinding=é€‰æ‹©æ•°æ®ç»‘å®š:
 
-ChartDataSetBindingSheetImpl.Title.SheetTitle=Êı¾İ - Ñ¡ÔñÊı¾İ¼¯
+ChartDataSetBindingSheetImpl.Title.SheetTitle=æ•°æ® - é€‰æ‹©æ•°æ®é›†
 
-ChartPageGenerator.List.General=³£¹æ
+ChartPageGenerator.List.General=å¸¸è§„
 
-ChartPageGenerator.List.AltText=Ìæ´úÎÄ±¾
+ChartPageGenerator.List.AltText=æ›¿ä»£æ–‡æœ¬
 
-ChartDataBindingPage.Lbl.Parameter=²ÎÊı
+ChartDataBindingPage.Lbl.Parameter=å‚æ•°
 
-ChartDataBindingPage.Lbl.DataType=Êı¾İÀàĞÍ
+ChartDataBindingPage.Lbl.DataType=æ•°æ®ç±»å‹
 
-ChartDataBindingPage.Lbl.Value=Öµ
+ChartDataBindingPage.Lbl.Value=å€¼
 
-ChartDataBindingPage.Lbl.None=ÎŞ
+ChartDataBindingPage.Lbl.None=æ— 
 
-ChartDataBindingPage.Lbl.DefaultValue=£¨Ä¬ÈÏÖµ£©
+ChartDataBindingPage.Lbl.DefaultValue=ï¼ˆé»˜è®¤å€¼ï¼‰
 
-ChartDataBindingPage.Lbl.DataSet=Êı¾İ¼¯
+ChartDataBindingPage.Lbl.DataSet=æ•°æ®é›†
 
-ChartDataBindingPage.Lbl.SaveParameterBinding=±£´æ²ÎÊı°ó¶¨
+ChartDataBindingPage.Lbl.SaveParameterBinding=ä¿å­˜å‚æ•°ç»‘å®š
 
-ChartDataBindingPage.Lbl.SaveDataSet=¸ü¸ÄÊı¾İ¼¯
+ChartDataBindingPage.Lbl.SaveDataSet=æ›´æ”¹æ•°æ®é›†
 
-ChartDataBindingPage.Msg.AskSaveDataSet=ÊÇ·ñÒª¸ü¸Ä°ó¶¨Êı¾İ¼¯?
+ChartDataBindingPage.Msg.AskSaveDataSet=æ˜¯å¦è¦æ›´æ”¹ç»‘å®šæ•°æ®é›†?
 
-DesignerRepresentation.error.Error=´íÎó:
+DesignerRepresentation.error.Error=é”™è¯¯:
 
-DesignerRepresentation.log.UnableToFind=Éè¼ÆÆ÷ÖĞÖ´ĞĞ³ÊÏÖ²Ù×÷Ê±ÎŞ·¨ÕÒµ½Í¼±íÄ£ĞÍ
+DesignerRepresentation.log.UnableToFind=è®¾è®¡å™¨ä¸­æ‰§è¡Œå‘ˆç°æ“ä½œæ—¶æ— æ³•æ‰¾åˆ°å›¾è¡¨æ¨¡å‹
 
-DesignerRepresentation.msg.InvalidChart=µ±Ç°Í¼±íÎŞĞ§¡£Èç¹ûÒª¼ÌĞøÊ¹ÓÃ´ËÍ¼±í£¬ÇëÏÈÉ¾³ıËü¡£
+DesignerRepresentation.msg.InvalidChart=å½“å‰å›¾è¡¨æ— æ•ˆã€‚å¦‚æœè¦ç»§ç»­ä½¿ç”¨æ­¤å›¾è¡¨ï¼Œè¯·å…ˆåˆ é™¤å®ƒã€‚
 
-ChartReportItemBuilderImpl.problem.hasNotBeenFound=¸ÃÍ¼±íÉĞÎ´°ó¶¨µ½Êı¾İ¼¯»ò¶àÎ¬Êı¾İ¼¯¡£
+ChartReportItemBuilderImpl.problem.hasNotBeenFound=è¯¥å›¾è¡¨å°šæœªç»‘å®šåˆ°æ•°æ®é›†æˆ–å¤šç»´æ•°æ®é›†ã€‚
 
-ChartReportItemBuilderImpl.log.UnableToLocate=ÎŞ·¨ÎªÍ¼±í¶ÔÏóÕÒµ½±¨±íÏî°ü×°³ÌĞò¡£
+ChartReportItemBuilderImpl.log.UnableToLocate=æ— æ³•ä¸ºå›¾è¡¨å¯¹è±¡æ‰¾åˆ°æŠ¥è¡¨é¡¹åŒ…è£…ç¨‹åºã€‚
 
-ChartPreferencePage.Label.MaxRowNumber=Êı¾İÔ¤ÀÀµÄ×î´óĞĞºÅ(&M):
+ChartPreferencePage.Label.MaxRowNumber=æ•°æ®é¢„è§ˆçš„æœ€å¤§è¡Œå·(&M):
 
-ChartPreferencePage.Error.MaxRowInvalid=×î´óĞĞºÅ±ØĞëÎªĞ¡ÓÚ {0} µÄÕûÊı
+ChartPreferencePage.Error.MaxRowInvalid=æœ€å¤§è¡Œå·å¿…é¡»ä¸ºå°äº {0} çš„æ•´æ•°
 
-ChartPreferencePage.Label.EnableLivePreview=ÔÚÍ¼±íÉú³ÉÆ÷ÖĞÆôÓÃÊµÊ±Ô¤ÀÀ(&E)
+ChartPreferencePage.Label.EnableLivePreview=åœ¨å›¾è¡¨ç”Ÿæˆå™¨ä¸­å¯ç”¨å®æ—¶é¢„è§ˆ(&E)
 
-ChartReportItemUIImpl.Command.ResizeChart=µ÷ÕûÍ¼±í´óĞ¡
+ChartReportItemUIImpl.Command.ResizeChart=è°ƒæ•´å›¾è¡¨å¤§å°
 
-ChartReportItemUIImpl.log.ReceivedNotification=ÊÕµ½¹ØÓÚÇå³ıÀ©Õ¹Í¼±íµÄÍ¨Öª¡£
+ChartReportItemUIImpl.log.ReceivedNotification=æ”¶åˆ°å…³äºæ¸…é™¤æ‰©å±•å›¾è¡¨çš„é€šçŸ¥ã€‚
 
-ChartReportItemViewProvider.BarChart.Text.Title=ÌõĞÎÍ¼±êÌâ
+ChartReportItemViewProvider.BarChart.Text.Title=æ¡å½¢å›¾æ ‡é¢˜
 
-ChartReportItemViewProvider.ChartViewName=Í¼±í
+ChartReportItemViewProvider.ChartViewName=å›¾è¡¨
 
-ChartExpressionProvider.Category.ChartVariables=±äÁ¿
+ChartExpressionProvider.Category.ChartVariables=å˜é‡
 
-ChartExpressionProvider.ChartVariables.DataPoints=Í¼±íÊı¾İµã
+ChartExpressionProvider.ChartVariables.DataPoints=å›¾è¡¨æ•°æ®ç‚¹
 
-ChartExpressionProvider.ChartVariables.LegendItems=Í¼±íÍ¼Àı
+ChartExpressionProvider.ChartVariables.LegendItems=å›¾è¡¨å›¾ä¾‹
 
-ChartExpressionProvider.DataPoints.BaseValue=Àà±ğÊı¾İ
+ChartExpressionProvider.DataPoints.BaseValue=ç±»åˆ«æ•°æ®
 
-ChartExpressionProvider.DataPoints.OrthogonalValue=ÖµÊı¾İ
+ChartExpressionProvider.DataPoints.OrthogonalValue=å€¼æ•°æ®
 
 ChartExpressionProvider.ChartVariables.JavaScript=JavaScript
-ChartExpressionProvider.ChartVariables.Event=ÊÂ¼ş
+ChartExpressionProvider.ChartVariables.Event=äº‹ä»¶
 
-ChartExpressionProvider.DataPoints.SeriesValue=ÏµÁĞÊı¾İ
+ChartExpressionProvider.DataPoints.SeriesValue=ç³»åˆ—æ•°æ®
 
-ChartColumnBindingDialog.Button.Refresh=Ë¢ĞÂ(&F)
+ChartColumnBindingDialog.Button.Refresh=åˆ·æ–°(&F)
 
-OpenChartTaskAction.Text.SelectChartType=Ñ¡ÔñÍ¼±íÀàĞÍ(&L)...
+OpenChartTaskAction.Text.SelectChartType=é€‰æ‹©å›¾è¡¨ç±»å‹(&L)...
 
-OpenChartTaskAction.Text.SelectData=Ñ¡ÔñÊı¾İ(&E)...
+OpenChartTaskAction.Text.SelectData=é€‰æ‹©æ•°æ®(&E)...
 
-OpenChartTaskAction.Text.FormatChart=Í¼±í¸ñÊ½(&H)...
+OpenChartTaskAction.Text.FormatChart=å›¾è¡¨æ ¼å¼(&H)...
 
-FlipAxisAction.Text.FlipAxis=·­×ªÖá(&P)
+FlipAxisAction.Text.FlipAxis=ç¿»è½¬è½´(&P)
 
-GeneralPage.Library.Included=¿â:
+GeneralPage.Library.Included=åº“:
 
-ChartEventHandlerPage.dialog.Browse=ä¯ÀÀ(&B)...
+ChartEventHandlerPage.dialog.Browse=æµè§ˆ(&B)...
 
-ReportDataServiceProvider.Label.DataModel=(Êı¾İÄ£ĞÍ)
+ReportDataServiceProvider.Label.DataModel=(æ•°æ®æ¨¡å‹)
 
-ReportDataServiceProvider.Option.None=<ÎŞ>
+ReportDataServiceProvider.Option.None=<æ— >
 
-ReportDataServiceProvider.Option.Inherits=<ÈİÆ÷µÄ {0}>
+ReportDataServiceProvider.Option.Inherits=<å®¹å™¨çš„ {0}>
 
-ReportDataServiceProvider.Tooltip.Aggregate=¾ÛºÏ:
+ReportDataServiceProvider.Tooltip.Aggregate=èšåˆ:
 
-ReportDataServiceProvider.Tooltip.GroupExpression=×é±í´ïÊ½:
+ReportDataServiceProvider.Tooltip.GroupExpression=ç»„è¡¨è¾¾å¼:
 
-ReportDataServiceProvider.Tooltip.OnGroup=°´×é:
+ReportDataServiceProvider.Tooltip.OnGroup=æŒ‰ç»„:
 
-ShowAxisAction.Text.ShowValueAxis=ÏÔÊ¾ÖµÖá
+ShowAxisAction.Text.ShowValueAxis=æ˜¾ç¤ºå€¼è½´
 
-StandardChartDataSheet.CheckCubeWarning=ÁĞ°ó¶¨Ó¦°üº¬ÖÁÉÙÒ»¸öÎ¬ºÍÒ»¸ö¶ÈÁ¿¡£
+StandardChartDataSheet.CheckCubeWarning=åˆ—ç»‘å®šåº”åŒ…å«è‡³å°‘ä¸€ä¸ªç»´å’Œä¸€ä¸ªåº¦é‡ã€‚
 
-StandardChartDataSheet.Combo.DataCubes=---------¶àÎ¬Êı¾İ¼¯---------
+StandardChartDataSheet.Combo.DataCubes=---------å¤šç»´æ•°æ®é›†---------
 
-StandardChartDataSheet.Combo.DataSets=----------Êı¾İ¼¯----------
+StandardChartDataSheet.Combo.DataSets=----------æ•°æ®é›†----------
 
-StandardChartDataSheet.Combo.InheritColumnsGroups=¼Ì³ĞÁĞºÍ×é
+StandardChartDataSheet.Combo.InheritColumnsGroups=ç»§æ‰¿åˆ—å’Œç»„
 
-StandardChartDataSheet.Combo.InheritColumnsOnly=½ö¼Ì³ĞÁĞ
+StandardChartDataSheet.Combo.InheritColumnsOnly=ä»…ç»§æ‰¿åˆ—
 
-StandardChartDataSheet.Combo.ReportItems=--------±¨±íÏî--------
+StandardChartDataSheet.Combo.ReportItems=--------æŠ¥è¡¨é¡¹--------
 
-StandardChartDataSheet.Label.Axis=Öá
+StandardChartDataSheet.Label.Axis=è½´
 
-StandardChartDataSheet.Label.ToBindADataColumn=Ê¹ÓÃÓÒ¼üµ¥»÷²Ëµ¥½«Êı¾İ°ó¶¨µ½Í¼±í
+StandardChartDataSheet.Label.ToBindADataColumn=ä½¿ç”¨å³é”®å•å‡»èœå•å°†æ•°æ®ç»‘å®šåˆ°å›¾è¡¨
 
-StandardChartDataSheet.Label.SelectDataSet=Ñ¡ÔñÊı¾İ
+StandardChartDataSheet.Label.SelectDataSet=é€‰æ‹©æ•°æ®
 
-StandardChartDataSheet.Label.UseReportData=´ÓÈİÆ÷¼Ì³ĞÊı¾İ(&I)
+StandardChartDataSheet.Label.UseReportData=ä»å®¹å™¨ç»§æ‰¿æ•°æ®(&I)
 
-StandardChartDataSheet.Label.UseReportItem=Ê¹ÓÃ±¨±íÏî(&R)
+StandardChartDataSheet.Label.UseReportItem=ä½¿ç”¨æŠ¥è¡¨é¡¹(&R)
 
-StandardChartDataSheet.Label.UseDataSet=Ê¹ÓÃÒÔÏÂÀ´Ô´µÄÊı¾İ(&D)
+StandardChartDataSheet.Label.UseDataSet=ä½¿ç”¨ä»¥ä¸‹æ¥æºçš„æ•°æ®(&D)
 
-StandardChartDataSheet.Label.DataPreview=Êı¾İÔ¤ÀÀ
+StandardChartDataSheet.Label.DataPreview=æ•°æ®é¢„è§ˆ
 
-StandardChartDataSheet.Label.DataBinding=Êı¾İ°ó¶¨(&A)...
+StandardChartDataSheet.Label.DataBinding=æ•°æ®ç»‘å®š(&A)...
 
-StandardChartDataSheet.Label.Filters=É¸Ñ¡Æ÷(&T)...
+StandardChartDataSheet.Label.Filters=ç­›é€‰å™¨(&T)...
 
-StandardChartDataSheet.Label.Parameters=²ÎÊı(&P)...
+StandardChartDataSheet.Label.Parameters=å‚æ•°(&P)...
 
-StandardChartDataSheet.Task.Description=Ñ¡ÔñÍ¼±íÖĞÒªÏÔÊ¾µÄÊı¾İ²¢½«Æä°ó¶¨µ½ÏµÁĞ¡£
+StandardChartDataSheet.Task.Description=é€‰æ‹©å›¾è¡¨ä¸­è¦æ˜¾ç¤ºçš„æ•°æ®å¹¶å°†å…¶ç»‘å®šåˆ°ç³»åˆ—ã€‚
 
-StandardChartDataSheet.Exception.UnableToSwitchToDataset=ÎŞ·¨ÇĞ»»µ½Êı¾İ¼¯
+StandardChartDataSheet.Exception.UnableToSwitchToDataset=æ— æ³•åˆ‡æ¢åˆ°æ•°æ®é›†
 
-StandardChartDataSheet.Label.InsertAggregation=²åÈë¾ÛºÏ
+StandardChartDataSheet.Label.InsertAggregation=æ’å…¥èšåˆ
 
-StandardChartDataSheet.Label.DataExpressionBuilder=Êı¾İ±í´ïÊ½Éú³ÉÆ÷
+StandardChartDataSheet.Label.DataExpressionBuilder=æ•°æ®è¡¨è¾¾å¼ç”Ÿæˆå™¨
 
-StandardChartDataSheet.Label.DragCube=ÓÒ¼üµ¥»÷»ò½«¼¶±ğÍÏ¶¯µ½¡°Àà±ğÏµÁĞ¡±»ò¡°¿ÉÑ¡ Y ÏµÁĞ¡±£¬½«¡°¶ÈÁ¿¡±ÍÏ¶¯µ½¡°ÖµÏµÁĞ¡±¡£
+StandardChartDataSheet.Label.DragCube=å³é”®å•å‡»æˆ–å°†çº§åˆ«æ‹–åŠ¨åˆ°â€œç±»åˆ«ç³»åˆ—â€æˆ–â€œå¯é€‰ Y ç³»åˆ—â€ï¼Œå°†â€œåº¦é‡â€æ‹–åŠ¨åˆ°â€œå€¼ç³»åˆ—â€ã€‚
 
-StandardChartDataSheet.Label.Component=\ ×é¼ş
+StandardChartDataSheet.Label.Component=\ ç»„ä»¶
 
-StandardChartDataSheet.Label.CubeTree=¶àÎ¬Êı¾İ¼¯: ×éºÍÕªÒª
+StandardChartDataSheet.Label.CubeTree=å¤šç»´æ•°æ®é›†: ç»„å’Œæ‘˜è¦
 
-StandardChartDataSheet.Label.Overlay=¸²¸Ç
+StandardChartDataSheet.Label.Overlay=è¦†ç›–
 
-StandardChartDataSheet.Label.Series=ÏµÁĞ
+StandardChartDataSheet.Label.Series=ç³»åˆ—
 
-StandardChartDataSheet.Label.ShareCrossTab=ÔÚÖµ (Y) ÏµÁĞÏÂ£¬µ¥»÷¼ıÍ·°´Å¥²¢´ÓÁĞ±íÖĞÑ¡ÔñÒ»¸ö¶ÈÁ¿
+StandardChartDataSheet.Label.ShareCrossTab=åœ¨å€¼ (Y) ç³»åˆ—ä¸‹ï¼Œå•å‡»ç®­å¤´æŒ‰é’®å¹¶ä»åˆ—è¡¨ä¸­é€‰æ‹©ä¸€ä¸ªåº¦é‡
 
-StandardChartDataSheet.Label.ShowDataPreview=ÏÔÊ¾Êı¾İÔ¤ÀÀ(&S)
+StandardChartDataSheet.Label.ShowDataPreview=æ˜¾ç¤ºæ•°æ®é¢„è§ˆ(&S)
 
-StandardChartDataSheet.Label.UseAsCategoryXAxis=ÓÃ×÷Àà±ğ (X) Öá(&U)
+StandardChartDataSheet.Label.UseAsCategoryXAxis=ç”¨ä½œç±»åˆ« (X) è½´(&U)
 
-StandardChartDataSheet.Label.UseAsCategorySeries=ÓÃ×÷Àà±ğÏµÁĞ(&U)
+StandardChartDataSheet.Label.UseAsCategorySeries=ç”¨ä½œç±»åˆ«ç³»åˆ—(&U)
 
-StandardChartDataSheet.Label.PlotAsValueYSeries=»æÖÆÎªÖµ (Y) ÏµÁĞ(&P)
+StandardChartDataSheet.Label.PlotAsValueYSeries=ç»˜åˆ¶ä¸ºå€¼ (Y) ç³»åˆ—(&P)
 
-StandardChartDataSheet.Label.PlotAsGaugeValue=»æÖÆÎªÒÇ±íÖµ(&P)
+StandardChartDataSheet.Label.PlotAsGaugeValue=ç»˜åˆ¶ä¸ºä»ªè¡¨å€¼(&P)
 
-StandardChartDataSheet.Label.PlotAsValueSeries=»æÖÆÎªÖµÏµÁĞ(&P)
+StandardChartDataSheet.Label.PlotAsValueSeries=ç»˜åˆ¶ä¸ºå€¼ç³»åˆ—(&P)
 
-StandardChartDataSheet.Label.UseToGroupYSeries=ÓÃÀ´½« Y ÏµÁĞ·Ö×é(&S)
+StandardChartDataSheet.Label.UseToGroupYSeries=ç”¨æ¥å°† Y ç³»åˆ—åˆ†ç»„(&S)
 
-StandardChartDataSheet.Label.EnableLivePreview=ÆôÓÃÊµÊ±Í¼±íÔ¤ÀÀ
+StandardChartDataSheet.Label.EnableLivePreview=å¯ç”¨å®æ—¶å›¾è¡¨é¢„è§ˆ
 
-StandardChartDataSheet.Label.UseToGroupValueSeries=ÓÃÀ´½«ÖµÏµÁĞ·Ö×é(&S)
+StandardChartDataSheet.Label.UseToGroupValueSeries=ç”¨æ¥å°†å€¼ç³»åˆ—åˆ†ç»„(&S)
 
-StandardChartDataSheet.Message.RetrieveData=¼ìË÷ÓÃÓÚÔ¤ÀÀµÄÊı¾İ
+StandardChartDataSheet.Message.RetrieveData=æ£€ç´¢ç”¨äºé¢„è§ˆçš„æ•°æ®
 
-StandardChartDataSheet.NewDataCube=<ĞÂ½¨¶àÎ¬Êı¾İ¼¯...>
+StandardChartDataSheet.NewDataCube=<æ–°å»ºå¤šç»´æ•°æ®é›†...>
 
-StandardChartDataSheet.NewDataSet=<ĞÂ½¨Êı¾İ¼¯...>
+StandardChartDataSheet.NewDataSet=<æ–°å»ºæ•°æ®é›†...>
 
-ChartBindingGroupDescriptorProvider.DataSets.Default=---Êı¾İ¼¯---
+ChartBindingGroupDescriptorProvider.DataSets.Default=---æ•°æ®é›†---
 
-ChartBindingGroupDescriptorProvider.DataCubes.Default=---¶àÎ¬Êı¾İ¼¯---
+ChartBindingGroupDescriptorProvider.DataCubes.Default=---å¤šç»´æ•°æ®é›†---
 
-BindingPage.Data.Label=Êı¾İ:
+BindingPage.Data.Label=æ•°æ®:
 
-BindingPage.ReportItem.NoName=ÎŞÃû³Æ
+BindingPage.ReportItem.NoName=æ— åç§°
 
-Error.ChartShouldIncludeAxes=Í¼±íÓ¦°üÀ¨Öá¡£
+Error.ChartShouldIncludeAxes=å›¾è¡¨åº”åŒ…æ‹¬è½´ã€‚
 
-ChartCubeFilterConditionBuilder.Expression.CategoryItem.Prefix=Àà±ğ:
+ChartCubeFilterConditionBuilder.Expression.CategoryItem.Prefix=ç±»åˆ«:
 
-ChartCubeFilterConditionBuilder.Expression.ValueItemPrefix=Öµ:
+ChartCubeFilterConditionBuilder.Expression.ValueItemPrefix=å€¼:
 
-ChartCubeFilterConditionBuilder.Expression.YOptionItem.Prefix=Y Ñ¡Ïî:
+ChartCubeFilterConditionBuilder.Expression.YOptionItem.Prefix=Y é€‰é¡¹:
 
-ChartCubeFilterConditionBuilder.SelectValueDialog.messages.info.selectVauleUnavailable=ÖµÁĞ±í¶Ô¸ø¶¨µÄ±í´ïÊ½²»¿ÉÓÃ¡£
+ChartCubeFilterConditionBuilder.SelectValueDialog.messages.info.selectVauleUnavailable=å€¼åˆ—è¡¨å¯¹ç»™å®šçš„è¡¨è¾¾å¼ä¸å¯ç”¨ã€‚
 
-ChartCubeFilterConditionBuilder.SelectValueDialog.messages.info.illegalVauleExpr=Ö»ÓĞ data["name"]/[name] Ö®Àà¸ñÊ½µÄ±í´ïÊ½²ÅÄÜ»ñµÃÖµÁĞ±í¡£
+ChartCubeFilterConditionBuilder.SelectValueDialog.messages.info.illegalVauleExpr=åªæœ‰ data["name"]/[name] ä¹‹ç±»æ ¼å¼çš„è¡¨è¾¾å¼æ‰èƒ½è·å¾—å€¼åˆ—è¡¨ã€‚

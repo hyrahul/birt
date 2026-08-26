@@ -11,12 +11,12 @@ oda.data.source.id=org.eclipse.birt.report.data.oda.excel
 #
 plugin.name=Excel Data Source ODA Designer
 newwizard.name=Excel Data Source
-newwizard.description=´´½¨ Excel Êı¾İÔ´Á¬½ÓÅäÖÃÎÄ¼ş
+newwizard.description=åˆ›å»º Excel æ•°æ®æºè¿æ¥é…ç½®æ–‡ä»¶
 
-wizard.window.title=ĞÂ½¨ Excel Êı¾İÔ´ÅäÖÃÎÄ¼ş
+wizard.window.title=æ–°å»º Excel æ•°æ®æºé…ç½®æ–‡ä»¶
 
 wizard.data.source.page.title=Excel Data Source
 profile.propertypage.name=Excel Data Source Connection Properties
-wizard.data.set.window.title=ĞÂ½¨ Excel Êı¾İ¼¯
+wizard.data.set.window.title=æ–°å»º Excel æ•°æ®é›†
 
-wizard.data.set.page.title=Ñ¡ÔñÁĞ
+wizard.data.set.page.title=é€‰æ‹©åˆ—

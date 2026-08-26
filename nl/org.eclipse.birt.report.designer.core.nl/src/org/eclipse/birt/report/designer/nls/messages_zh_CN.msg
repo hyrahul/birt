@@ -19,1137 +19,1137 @@
 
 ###########################################################
 #AbstractDataSetWizard properties
-AbstractDataSetWizard.ModelTrans.Create=¶¨ÒåÊı¾İ¼¯µÄÃû³Æ¡¢Ô´ºÍÀàĞÍ
+AbstractDataSetWizard.ModelTrans.Create=å®šä¹‰æ•°æ®é›†çš„åç§°ã€æºå’Œç±»å‹
 ###########################################################
 #CssErrDialog
-CssErrDialog.shellTitle.ImportCssStyleMssageTitle=µ¼ÈëÏûÏ¢
+CssErrDialog.shellTitle.ImportCssStyleMssageTitle=å¯¼å…¥æ¶ˆæ¯
 
-CssErrDialog.AreaTitle=µ¼Èë CSS ÑùÊ½ÏûÏ¢
+CssErrDialog.AreaTitle=å¯¼å…¥ CSS æ ·å¼æ¶ˆæ¯
 
-CssErrDialog.AreaMessage=µ¼Èë css ÑùÊ½Ê±³öÏÖÄ³Ğ©´íÎó»ò¾¯¸æ¡£
+CssErrDialog.AreaMessage=å¯¼å…¥ css æ ·å¼æ—¶å‡ºç°æŸäº›é”™è¯¯æˆ–è­¦å‘Šã€‚
 
-CssErrDialog.Severity=ÑÏÖØĞÔ£º
+CssErrDialog.Severity=ä¸¥é‡æ€§ï¼š
 
-CssErrDialog.Message=ÏûÏ¢:
+CssErrDialog.Message=æ¶ˆæ¯:
 
-CssErrDialog.FatalError=ÖÂÃü´íÎó
+CssErrDialog.FatalError=è‡´å‘½é”™è¯¯
 
-CssErrDialog.Error=´íÎó
+CssErrDialog.Error=é”™è¯¯
 
-CssErrDialog.Warning=¾¯¸æ
+CssErrDialog.Warning=è­¦å‘Š
 
 ###########################################################
 #AddGroupAction properties
-AddGroupAction.actionMsg.addGroup=²åÈë×é...
+AddGroupAction.actionMsg.addGroup=æ’å…¥ç»„...
 
-AddGroupAction.Menu.Text=²åÈë×é...
+AddGroupAction.Menu.Text=æ’å…¥ç»„...
 
-AddGroupAction.stackMsg.addGroup=²åÈë×é
+AddGroupAction.stackMsg.addGroup=æ’å…¥ç»„
 
 ###########################################################
 #AddLibraryAction properties
-AddLibraryAction.Error.FileNotFound=Î´ÕÒµ½ÎÄ¼ş ''{0}''¡£
+AddLibraryAction.Error.FileNotFound=æœªæ‰¾åˆ°æ–‡ä»¶ ''{0}''ã€‚
 
-AddLibraryAction.Error.FileIsNotLibrary=ÎÄ¼ş¡°{0}¡±Ã»ÓĞÒÔ¡°{1}¡±½áÊø¡£
+AddLibraryAction.Error.FileIsNotLibrary=æ–‡ä»¶â€œ{0}â€æ²¡æœ‰ä»¥â€œ{1}â€ç»“æŸã€‚
 
-AddLibraryAction.Error.Message=ÎÄ¼şÒÑ¾­´æÔÚ¡£
+AddLibraryAction.Error.Message=æ–‡ä»¶å·²ç»å­˜åœ¨ã€‚
 
-AddLibraryAction.Error.Title=´íÎó
+AddLibraryAction.Error.Title=é”™è¯¯
 
-AddLibraryAction.Text=Ìí¼Ó¿â...
+AddLibraryAction.Text=æ·»åŠ åº“...
 
-AddLibraryAction.Dialog.Tilte=Ñ¡Ôñ¿â
+AddLibraryAction.Dialog.Tilte=é€‰æ‹©åº“
 
 ###########################################################
 #AddCSSAction properties
-AddCSSAction.Text=Ìí¼Ó CSS ÎÄ¼ş...
+AddCSSAction.Text=æ·»åŠ  CSS æ–‡ä»¶...
 
 ###########################################################
 #AddResourceAction properties
-AddResourceAction.Text=Ìí¼Ó×ÊÔ´(&R)...
+AddResourceAction.Text=æ·»åŠ èµ„æº(&R)...
 
-AddResourceAction.Dialog.Tilte=Ñ¡Ôñ×ÊÔ´
+AddResourceAction.Dialog.Tilte=é€‰æ‹©èµ„æº
 
-AddResourceAction.Error.Message=ÎÄ¼şÒÑ¾­´æÔÚ¡£
+AddResourceAction.Error.Message=æ–‡ä»¶å·²ç»å­˜åœ¨ã€‚
 
-AddResourceAction.Error.FileNotFound=Î´ÕÒµ½ÎÄ¼ş ''{0}''¡£
+AddResourceAction.Error.FileNotFound=æœªæ‰¾åˆ°æ–‡ä»¶ ''{0}''ã€‚
 
-AddResourceAction.Error.Title=´íÎó
+AddResourceAction.Error.Title=é”™è¯¯
 
-AddResourceAction.Error.FileIsNotResource=ÎÄ¼ş¡°{0}¡±²»ÊÇ×ÊÔ´¡£
+AddResourceAction.Error.FileIsNotResource=æ–‡ä»¶â€œ{0}â€ä¸æ˜¯èµ„æºã€‚
 
 ###########################################################
 #AddCSSDialog
-AddCSSWizardDialog.ShellText=Ìí¼Ó CSS ÎÄ¼ş
+AddCSSWizardDialog.ShellText=æ·»åŠ  CSS æ–‡ä»¶
 
-AddCSSWizardDialog.TitleArea=½« CSS ÎÄ¼şÌí¼Óµ½×ÊÔ´ÎÄ¼ş¼Ğ
+AddCSSWizardDialog.TitleArea=å°† CSS æ–‡ä»¶æ·»åŠ åˆ°èµ„æºæ–‡ä»¶å¤¹
 
-AddCSSWizardDialog.Message=Ñ¡ÔñÒ»¸ö CSS ÎÄ¼şÒÔ±ã½«ÑùÊ½µ¼Èëµ½×ÊÔ´ÎÄ¼ş¼Ğ
+AddCSSWizardDialog.Message=é€‰æ‹©ä¸€ä¸ª CSS æ–‡ä»¶ä»¥ä¾¿å°†æ ·å¼å¯¼å…¥åˆ°èµ„æºæ–‡ä»¶å¤¹
 
 ###########################################################
 #MoveResourceDialog
-MoveResourceDialog.Title=ÒÆ¶¯×ÊÔ´
+MoveResourceDialog.Title=ç§»åŠ¨èµ„æº
 
-MoveResourceDialog.Message=Ñ¡ÔñÎÄ¼ş¼Ğ
+MoveResourceDialog.Message=é€‰æ‹©æ–‡ä»¶å¤¹
 
 ###########################################################
 #NewLibraryDialog
-NewLibraryDialog.Title=ĞÂ½¨¿â
+NewLibraryDialog.Title=æ–°å»ºåº“
 
-NewLibraryDialog.Message=Ñ¡ÔñÎÄ¼ş¼Ğ
+NewLibraryDialog.Message=é€‰æ‹©æ–‡ä»¶å¤¹
 
-NewLibraryDialog.label.NewLibrary=ĞÂ¿âÃû
+NewLibraryDialog.label.NewLibrary=æ–°åº“å
 
 ###########################################################
 #PublishCSSAction properties
-PublishCSSAction.wizard.errorTitle=´íÎó
+PublishCSSAction.wizard.errorTitle=é”™è¯¯
 
-PublishCSSAction.wizard.message=ÎŞ·¨½« CSS ÎÄ¼ş·¢²¼µ½ËüËùÔÚµÄÄ¿Â¼£¬ÇëÑ¡ÔñÆäËüÄ¿Â¼½øĞĞ·¢²¼¡£
+PublishCSSAction.wizard.message=æ— æ³•å°† CSS æ–‡ä»¶å‘å¸ƒåˆ°å®ƒæ‰€åœ¨çš„ç›®å½•ï¼Œè¯·é€‰æ‹©å…¶å®ƒç›®å½•è¿›è¡Œå‘å¸ƒã€‚
 
-PublishCSSAction.wizard.msgDirErr=Ä¿±êÄ¿Â¼²»´æÔÚ£¬µ«ÎŞ·¨´´½¨¡£
+PublishCSSAction.wizard.msgDirErr=ç›®æ ‡ç›®å½•ä¸å­˜åœ¨ï¼Œä½†æ— æ³•åˆ›å»ºã€‚
 
-PublishCSSAction.wizard.message.SourceFileNotExist=Ô´ÎÄ¼ş²»´æÔÚ¡£
+PublishCSSAction.wizard.message.SourceFileNotExist=æºæ–‡ä»¶ä¸å­˜åœ¨ã€‚
 
-PublishCSSAction.wizard.notvalidfolder=Ê×Ñ¡ÏîÖĞ¶¨ÒåµÄ×ÊÔ´ÎÄ¼ş¼ĞÎŞĞ§¡£
+PublishCSSAction.wizard.notvalidfolder=é¦–é€‰é¡¹ä¸­å®šä¹‰çš„èµ„æºæ–‡ä»¶å¤¹æ— æ•ˆã€‚
 
 
 ###########################################################
 #ResourceAction properties
-DeleteLibraryAction.Text=É¾³ı(&D)
+DeleteLibraryAction.Text=åˆ é™¤(&D)
 
-CopyLibraryAction.Text=¸´ÖÆ(&C)
+CopyLibraryAction.Text=å¤åˆ¶(&C)
 
-PasteLibraryAction.Text=Õ³Ìù(&P)
+PasteLibraryAction.Text=ç²˜è´´(&P)
 
-MoveLibraryAction.Text=ÒÆ¶¯(&V)...
+MoveLibraryAction.Text=ç§»åŠ¨(&V)...
 
-RenameLibraryAction.Text=ÖØÃüÃû(&M)
+RenameLibraryAction.Text=é‡å‘½å(&M)
 
-NewFolderAction.Text=ÎÄ¼ş¼Ğ(&F)
+NewFolderAction.Text=æ–‡ä»¶å¤¹(&F)
 
-NewLibraryAction.Text=¿â(&L)
+NewLibraryAction.Text=åº“(&L)
 
-NewResource.MenuGroup.Text=ĞÂ½¨(&N)
+NewResource.MenuGroup.Text=æ–°å»º(&N)
 
-RenameResourceAction.nameExists=¾ßÓĞ´ËÃû³ÆµÄÎÄ¼ş»òÎÄ¼ş¼ĞÒÑ´æÔÚ
+RenameResourceAction.nameExists=å…·æœ‰æ­¤åç§°çš„æ–‡ä»¶æˆ–æ–‡ä»¶å¤¹å·²å­˜åœ¨
 
-RenameResourceAction.inputDialogTitle=ÖØÃüÃû×ÊÔ´
+RenameResourceAction.inputDialogTitle=é‡å‘½åèµ„æº
 
-RenameResourceAction.inputDialogMessage=ĞÂÃû³Æ:
+RenameResourceAction.inputDialogMessage=æ–°åç§°:
 
-NewFolderAction.nameExists=¾ßÓĞ´ËÃû³ÆµÄÎÄ¼ş¼ĞÒÑ´æÔÚ
+NewFolderAction.nameExists=å…·æœ‰æ­¤åç§°çš„æ–‡ä»¶å¤¹å·²å­˜åœ¨
 
-NewFolderAction.emptyName=Ãû³Æ²»ÄÜÎª¿Õ
+NewFolderAction.emptyName=åç§°ä¸èƒ½ä¸ºç©º
 
-NewFolderAction.inputDialogTitle=ĞÂ½¨ÎÄ¼ş¼Ğ
+NewFolderAction.inputDialogTitle=æ–°å»ºæ–‡ä»¶å¤¹
 
-NewFolderAction.inputDialogMessage=ÎÄ¼ş¼ĞÃû³Æ:
+NewFolderAction.inputDialogMessage=æ–‡ä»¶å¤¹åç§°:
 
-DeleteResourceAction.Dialog.Title=É¾³ı×ÊÔ´
+DeleteResourceAction.Dialog.Title=åˆ é™¤èµ„æº
 
-DeleteResourceAction.Dialog.Message=È·ÊµÒªÉ¾³ıÑ¡¶¨×ÊÔ´Âğ?
+DeleteResourceAction.Dialog.Message=ç¡®å®è¦åˆ é™¤é€‰å®šèµ„æºå—?
 
-PasteResourceAction.Dialog.Title=Õ³Ìù×ÊÔ´
+PasteResourceAction.Dialog.Title=ç²˜è´´èµ„æº
 
-PasteResourceAction.ReadOnlyEncounter.Title=Óöµ½Ö»¶ÁÎÄ¼ş
+PasteResourceAction.ReadOnlyEncounter.Title=é‡åˆ°åªè¯»æ–‡ä»¶
 
-PasteResourceAction.ReadOnlyEncounter.Message=ÎÄ¼ş¡°{0}¡±ÎªÖ»¶Á£¬ÇëÊ×ÏÈÈ·±£Ëü¿ÉÒÔĞ´Èë¡£
+PasteResourceAction.ReadOnlyEncounter.Message=æ–‡ä»¶â€œ{0}â€ä¸ºåªè¯»ï¼Œè¯·é¦–å…ˆç¡®ä¿å®ƒå¯ä»¥å†™å…¥ã€‚
 
-PasteResourceAction.Dialog.Message=×ÊÔ´´æÔÚ¡£ Ö¸¶¨ĞÂÃû³Æ(&N):
+PasteResourceAction.Dialog.Message=èµ„æºå­˜åœ¨ã€‚ æŒ‡å®šæ–°åç§°(&N):
 
-PasteResourceAction.Dialog.FilenameSuffix.CopyOf=¸´ÖÆ
+PasteResourceAction.Dialog.FilenameSuffix.CopyOf=å¤åˆ¶
 
-MoveResourceAction.Dialog.Title=ÒÆ¶¯×ÊÔ´
+MoveResourceAction.Dialog.Title=ç§»åŠ¨èµ„æº
 
-MoveResourceAction.Dialog.Message=×ÊÔ´ÒÑ´æÔÚ¡£ÊÇ·ñÒªÌæ»»?
+MoveResourceAction.Dialog.Message=èµ„æºå·²å­˜åœ¨ã€‚æ˜¯å¦è¦æ›¿æ¢?
 
-ResourceAction.ConvertToFile.URLIsNull=URL Îª¿Õ£¬ÎŞ·¨×ª»»³ÉÎÄ¼ş¡£
+ResourceAction.ConvertToFile.URLIsNull=URL ä¸ºç©ºï¼Œæ— æ³•è½¬æ¢æˆæ–‡ä»¶ã€‚
 
-ResourceAction.FileRemoveFailure=ÎÄ¼şÉ¾³ıÊ§°Ü¡£
+ResourceAction.FileRemoveFailure=æ–‡ä»¶åˆ é™¤å¤±è´¥ã€‚
 
-LibraryNotExist.Dialog.Title=´ò¿ª¿â
+LibraryNotExist.Dialog.Title=æ‰“å¼€åº“
 
-LibraryNotExist.Dialog.Message=¿â²»´æÔÚ£¬ÒªË¢ĞÂ×ÊÔ´¹ÜÀíÆ÷Âğ?
+LibraryNotExist.Dialog.Message=åº“ä¸å­˜åœ¨ï¼Œè¦åˆ·æ–°èµ„æºç®¡ç†å™¨å—?
 
-DesignerNotExist.Dialog.Title=´ò¿ª±¨±íÉè¼Æ
+DesignerNotExist.Dialog.Title=æ‰“å¼€æŠ¥è¡¨è®¾è®¡
 
-DesignerNotExist.Dialog.Message=±¨±íÉè¼Æ²»´æÔÚ£¬ÒªË¢ĞÂ×ÊÔ´¹ÜÀíÆ÷Âğ?
+DesignerNotExist.Dialog.Message=æŠ¥è¡¨è®¾è®¡ä¸å­˜åœ¨ï¼Œè¦åˆ·æ–°èµ„æºç®¡ç†å™¨å—?
 ###########################################################
 #LibraryFileFilterAction properties
-LibraryFileFilterAction.Text=É¸Ñ¡...
+LibraryFileFilterAction.Text=ç­›é€‰...
 
 ###########################################################
 #AddStyleRuleAction properties
-AddStyleAction.actionMsg.addStyleRule=ĞÂ½¨ÑùÊ½(&N)...
+AddStyleAction.actionMsg.addStyleRule=æ–°å»ºæ ·å¼(&N)...
 
-AddStyleAction.stackMsg.addStyle=ĞÂ½¨ÑùÊ½(&N)
+AddStyleAction.stackMsg.addStyle=æ–°å»ºæ ·å¼(&N)
 
 ###########################################################
 #ApplyStyleAction properties
-ApplyStyleAction.actionLabel.none=ÎŞ
+ApplyStyleAction.actionLabel.none=æ— 
 
-ApplyStyleAction.stackMsg.applyStyle=Ó¦ÓÃÑùÊ½
+ApplyStyleAction.stackMsg.applyStyle=åº”ç”¨æ ·å¼
 
 ###########################################################
 #ApplyThemeAction properties
-ApplyThemeAction.actionLabel.none=ÎŞ
+ApplyThemeAction.actionLabel.none=æ— 
 
-ApplyThemeAction.stackMsg.applyStyle=Ó¦ÓÃ²¼¾°Ö÷Ìâ
+ApplyThemeAction.stackMsg.applyStyle=åº”ç”¨å¸ƒæ™¯ä¸»é¢˜
 
 ###########################################################
 #AttributesBuilder properties
-AttributesBuilder.Label.Cell=ÊôĞÔ±à¼­Æ÷ - µ¥Ôª¸ñ
+AttributesBuilder.Label.Cell=å±æ€§ç¼–è¾‘å™¨ - å•å…ƒæ ¼
 
-AttributesBuilder.Label.Column=ÊôĞÔ±à¼­Æ÷ - ÁĞ
+AttributesBuilder.Label.Column=å±æ€§ç¼–è¾‘å™¨ - åˆ—
 
-AttributesBuilder.Label.Data=ÊôĞÔ±à¼­Æ÷ - Êı¾İ
+AttributesBuilder.Label.Data=å±æ€§ç¼–è¾‘å™¨ - æ•°æ®
 
-AttributesBuilder.Label.Generic=ÊôĞÔ±à¼­Æ÷ - {0}
+AttributesBuilder.Label.Generic=å±æ€§ç¼–è¾‘å™¨ - {0}
 
-AttributesBuilder.Label.Grid=ÊôĞÔ±à¼­Æ÷ - Íø¸ñ
+AttributesBuilder.Label.Grid=å±æ€§ç¼–è¾‘å™¨ - ç½‘æ ¼
 
-AttributesBuilder.Label.Label=ÊôĞÔ±à¼­Æ÷ - ±êÇ©
+AttributesBuilder.Label.Label=å±æ€§ç¼–è¾‘å™¨ - æ ‡ç­¾
 
-AttributesBuilder.Label.Library=ÊôĞÔ±à¼­Æ÷ - ¿â
+AttributesBuilder.Label.Library=å±æ€§ç¼–è¾‘å™¨ - åº“
 
-AttributesBuilder.Label.List=ÊôĞÔ±à¼­Æ÷ - ÁĞ±í
+AttributesBuilder.Label.List=å±æ€§ç¼–è¾‘å™¨ - åˆ—è¡¨
 
-AttributesBuilder.Label.Cube=ÊôĞÔ±à¼­Æ÷ - ¶àÎ¬Êı¾İ¼¯
+AttributesBuilder.Label.Cube=å±æ€§ç¼–è¾‘å™¨ - å¤šç»´æ•°æ®é›†
 
-AttributesBuilder.Label.DynamicFilterParameter=ÊôĞÔ±à¼­Æ÷ - ¶¯Ì¬É¸Ñ¡Æ÷²ÎÊı
+AttributesBuilder.Label.DynamicFilterParameter=å±æ€§ç¼–è¾‘å™¨ - åŠ¨æ€ç­›é€‰å™¨å‚æ•°
 
-AttributesBuilder.Label.MasterPage=ÊôĞÔ±à¼­Æ÷ - Ö÷Ò³
+AttributesBuilder.Label.MasterPage=å±æ€§ç¼–è¾‘å™¨ - ä¸»é¡µ
 
-AttributesBuilder.Label.None=ÊôĞÔ±à¼­Æ÷ - ÎŞ
+AttributesBuilder.Label.None=å±æ€§ç¼–è¾‘å™¨ - æ— 
 
-AttributesBuilder.Label.Picture=ÊôĞÔ±à¼­Æ÷ - Í¼Ïñ
+AttributesBuilder.Label.Picture=å±æ€§ç¼–è¾‘å™¨ - å›¾åƒ
 
-AttributesBuilder.Label.Report=ÊôĞÔ±à¼­Æ÷ - ±¨±í
+AttributesBuilder.Label.Report=å±æ€§ç¼–è¾‘å™¨ - æŠ¥è¡¨
 
-AttributesBuilder.Label.Row=ÊôĞÔ±à¼­Æ÷ - ĞĞ
+AttributesBuilder.Label.Row=å±æ€§ç¼–è¾‘å™¨ - è¡Œ
 
-AttributesBuilder.Label.Table=ÊôĞÔ±à¼­Æ÷ - ±í
+AttributesBuilder.Label.Table=å±æ€§ç¼–è¾‘å™¨ - è¡¨
 
-AttributesBuilder.Label.Text=ÊôĞÔ±à¼­Æ÷ - ÎÄ±¾
+AttributesBuilder.Label.Text=å±æ€§ç¼–è¾‘å™¨ - æ–‡æœ¬
 
-AttributesBuilder.Label.TextData=ÊôĞÔ±à¼­Æ÷ - ¶¯Ì¬ÎÄ±¾
+AttributesBuilder.Label.TextData=å±æ€§ç¼–è¾‘å™¨ - åŠ¨æ€æ–‡æœ¬
 
-AttributesBuilder.Label.DataSourceHandle=ÊôĞÔ±à¼­Æ÷ - Êı¾İÔ´
+AttributesBuilder.Label.DataSourceHandle=å±æ€§ç¼–è¾‘å™¨ - æ•°æ®æº
 
-AttributesBuilder.Label.VariableElementHandle=ÊôĞÔ±à¼­Æ÷ - ±äÁ¿
+AttributesBuilder.Label.VariableElementHandle=å±æ€§ç¼–è¾‘å™¨ - å˜é‡
 
-AttributesBuilder.Label.DataSetHandle=ÊôĞÔ±à¼­Æ÷ - Êı¾İ¼¯
+AttributesBuilder.Label.DataSetHandle=å±æ€§ç¼–è¾‘å™¨ - æ•°æ®é›†
 
-AttributesBuilder.Label.ScalarParameterHandle=ÊôĞÔ±à¼­Æ÷ - ²ÎÊı
+AttributesBuilder.Label.ScalarParameterHandle=å±æ€§ç¼–è¾‘å™¨ - å‚æ•°
 
-AttributesBuilder.Label.TemplateReportItemHandle=ÊôĞÔ±à¼­Æ÷ - Ä£°å±¨±íÏî
+AttributesBuilder.Label.TemplateReportItemHandle=å±æ€§ç¼–è¾‘å™¨ - æ¨¡æ¿æŠ¥è¡¨é¡¹
 
-AttributesBuilder.Label.AutoText=ÊôĞÔ±à¼­Æ÷ - ×Ô¶¯ÎÄ±¾
+AttributesBuilder.Label.AutoText=å±æ€§ç¼–è¾‘å™¨ - è‡ªåŠ¨æ–‡æœ¬
 
-AttributesBuilder.Label.ParameterGroup=ÊôĞÔ±à¼­Æ÷ - ²ÎÊı×é
+AttributesBuilder.Label.ParameterGroup=å±æ€§ç¼–è¾‘å™¨ - å‚æ•°ç»„
 
-AttributesBuilder.Label.CascadingParameterGroup=ÊôĞÔ±à¼­Æ÷ - ¼¶Áª²ÎÊı×é
+AttributesBuilder.Label.CascadingParameterGroup=å±æ€§ç¼–è¾‘å™¨ - çº§è”å‚æ•°ç»„
 
 ###########################################################
 #AttributeView properties
-AttributeView.dialg.Message.Warning=¾¯¸æ
+AttributeView.dialg.Message.Warning=è­¦å‘Š
 
-AttributeView.dialg.Message.Yes=ÊÇ(&E)
+AttributeView.dialg.Message.Yes=æ˜¯(&E)
 
-AttributeView.dialg.Message.No=·ñ(&O)
+AttributeView.dialg.Message.No=å¦(&O)
 
-AttributeView.dialg.Message.Cancel=È¡Ïû(&A)
+AttributeView.dialg.Message.Cancel=å–æ¶ˆ(&A)
 
-AttributeView.dialg.Message.PromptMsg=ÊÇ·ñÈ·ÊµÒªÇå³ıËùÓĞ±¾µØÊôĞÔ?
+AttributeView.dialg.Message.PromptMsg=æ˜¯å¦ç¡®å®è¦æ¸…é™¤æ‰€æœ‰æœ¬åœ°å±æ€§?
 
-AttributeView.toolbar.tooltip.EditingToggleAction.ClearMsg=Çå³ı±¾µØÊôĞÔ¡£
+AttributeView.toolbar.tooltip.EditingToggleAction.ClearMsg=æ¸…é™¤æœ¬åœ°å±æ€§ã€‚
 
-AttributeView.toolbar.tooltip.EditingToggleAction.EnableEditingMsg=ÆôÓÃÊôĞÔ±à¼­¡£
+AttributeView.toolbar.tooltip.EditingToggleAction.EnableEditingMsg=å¯ç”¨å±æ€§ç¼–è¾‘ã€‚
 
-AttributeView.toolbar.tooltip.EditingToggleAction.DisabledActionMsg=´Ë²Ù×÷²»ÊÊÓÃÓÚ±¾µØÔªËØ¡£
+AttributeView.toolbar.tooltip.EditingToggleAction.DisabledActionMsg=æ­¤æ“ä½œä¸é€‚ç”¨äºæœ¬åœ°å…ƒç´ ã€‚
 
-AttributeView.view.message.Emptypage= ´Ë {0} À©Õ¹×Ô¿â {2} ÖĞµÄ {1}¡£ÒªÔÚ´Ë±¨±íÉè¼ÆÖĞĞŞ¸Ä {3} µÄÊôĞÔ£¬Çëµ¥»÷¡°ÊôĞÔ±à¼­Æ÷¡±¹¤¾ßÀ¸ÖĞµÄ¡°ÆôÓÃ¡±°´Å¥¡£
+AttributeView.view.message.Emptypage= æ­¤ {0} æ‰©å±•è‡ªåº“ {2} ä¸­çš„ {1}ã€‚è¦åœ¨æ­¤æŠ¥è¡¨è®¾è®¡ä¸­ä¿®æ”¹ {3} çš„å±æ€§ï¼Œè¯·å•å‡»â€œå±æ€§ç¼–è¾‘å™¨â€å·¥å…·æ ä¸­çš„â€œå¯ç”¨â€æŒ‰é’®ã€‚
 
-AttributeView.toolbar.tooltip.RestoreLibraryPropertiesAction.RestoreMsg=Í¨¹ıÔ­Ê¼¿âÏîÄ¿»¹Ô­ÊôĞÔ
+AttributeView.toolbar.tooltip.RestoreLibraryPropertiesAction.RestoreMsg=é€šè¿‡åŸå§‹åº“é¡¹ç›®è¿˜åŸå±æ€§
 
-AttributeView.defaultText.noAttributeView = ÊôĞÔ±à¼­Æ÷²»¿ÉÓÃ¡£
+AttributeView.defaultText.noAttributeView = å±æ€§ç¼–è¾‘å™¨ä¸å¯ç”¨ã€‚
 ###########################################################
 #BackGroundPreferencePage properties
-BackGroundPreferencePage.displayname.Title=±³¾°
+BackGroundPreferencePage.displayname.Title=èƒŒæ™¯
 
 ###########################################################
 #BasAttributePage properties
-BasAttributePage.Label.Attributes=ÊôĞÔ:
+BasAttributePage.Label.Attributes=å±æ€§:
 
-BaseAttributePage.CommandStack.ResetStyle.Message=»¹Ô­µ½Ä¬ÈÏÑùÊ½
+BaseAttributePage.CommandStack.ResetStyle.Message=è¿˜åŸåˆ°é»˜è®¤æ ·å¼
 
 ###########################################################
 #BaseInsertMenuAction properties
-BaseInsertMenuAction.stackMsg.insertElement=²åÈëÔªËØ
+BaseInsertMenuAction.stackMsg.insertElement=æ’å…¥å…ƒç´ 
 
 
 
 ###########################################################
 #BasePaletteFactory properties
-BasePaletteFactory.AutoText.Confidential=»úÃÜ
+BasePaletteFactory.AutoText.Confidential=æœºå¯†
 
-BasePaletteFactory.AutoTextLabel.CreatedBy=´´½¨Õß:
+BasePaletteFactory.AutoTextLabel.CreatedBy=åˆ›å»ºè€…:
 
-BasePaletteFactory.AutoTextLabel.CreatedOn=´´½¨Ê±¼ä:
+BasePaletteFactory.AutoTextLabel.CreatedOn=åˆ›å»ºæ—¶é—´:
 
-BasePaletteFactory.AutoTextLabel.Filename=ÎÄ¼şÃû:
+BasePaletteFactory.AutoTextLabel.Filename=æ–‡ä»¶å:
 
-BasePaletteFactory.AutoTextLabel.LastPrinted=ÉÏ´Î´òÓ¡Ê±¼ä:
+BasePaletteFactory.AutoTextLabel.LastPrinted=ä¸Šæ¬¡æ‰“å°æ—¶é—´:
 
-BasePaletteFactory.AutoTextLabel.Page=Ò³:
+BasePaletteFactory.AutoTextLabel.Page=é¡µ:
 
-BasePaletteFactory.AutoTextLabel.PageCount=Ò³Êı:
+BasePaletteFactory.AutoTextLabel.PageCount=é¡µæ•°:
 
-BasePaletteFactory.AutoTextLabel.PageXofY=µÚ X Ò³£¬¹² Y Ò³
+BasePaletteFactory.AutoTextLabel.PageXofY=ç¬¬ X é¡µï¼Œå…± Y é¡µ
 
-BasePaletteFactory.categoryName.PointerSelect=Ñ¡ÔñÖ¸Õë
+BasePaletteFactory.categoryName.PointerSelect=é€‰æ‹©æŒ‡é’ˆ
 
-BasePaletteFactory.categoryName.RectangleSelect=Ñ¡Ôñ¾ØĞÎ
+BasePaletteFactory.categoryName.RectangleSelect=é€‰æ‹©çŸ©å½¢
 
-BasePaletteFactory.Group.Items=Êı¾İÏî
+BasePaletteFactory.Group.Items=æ•°æ®é¡¹
 
-BasePaletteFactory.toolTip.PointerSelect=µ¥»÷ÒªÑ¡ÔñµÄÄ³¸öÏî£¬»ò°´×¡ Ctrl ¼üµ¥»÷ÒªÑ¡ÔñµÄ¶à¸öÏî¡£
+BasePaletteFactory.toolTip.PointerSelect=å•å‡»è¦é€‰æ‹©çš„æŸä¸ªé¡¹ï¼Œæˆ–æŒ‰ä½ Ctrl é”®å•å‡»è¦é€‰æ‹©çš„å¤šä¸ªé¡¹ã€‚
 
-BasePaletteFactory.toolTip.RectangleSelect=µ¥»÷²¢ÍÏ¶¯ÒÔÑ¡Ôñ¾ØĞÎÖĞµÄËùÓĞÏî¡£
+BasePaletteFactory.toolTip.RectangleSelect=å•å‡»å¹¶æ‹–åŠ¨ä»¥é€‰æ‹©çŸ©å½¢ä¸­çš„æ‰€æœ‰é¡¹ã€‚
 
 ###########################################################
 #BaseStylePreferencePage properties
-BaseStylePreferencePage.displayname.Title=³£¹æ
+BaseStylePreferencePage.displayname.Title=å¸¸è§„
 
 ###########################################################
 #BgImageFieldEditor properties
-BgImageFieldEditor.displayname.Browse=ä¯ÀÀ(&W)...
+BgImageFieldEditor.displayname.Browse=æµè§ˆ(&W)...
 
 ###########################################################
 #BindingPage properties
-BindingPage.Dataset.Label=Êı¾İ¼¯(&T):
+BindingPage.Dataset.Label=æ•°æ®é›†(&T):
 
-BindingPage.DataSetBindingSelector.Title.DataSet=Êı¾İÉèÖÃ°ó¶¨
+BindingPage.DataSetBindingSelector.Title.DataSet=æ•°æ®è®¾ç½®ç»‘å®š
 
-BindingPage.DataSetBindingSelector.Title.LinkModel=Êı¾İÄ£ĞÍ°ó¶¨
+BindingPage.DataSetBindingSelector.Title.LinkModel=æ•°æ®æ¨¡å‹ç»‘å®š
 
-BindingPage.ReportItem.Label=±¨±íÏî(&I):
+BindingPage.ReportItem.Label=æŠ¥è¡¨é¡¹(&I):
 
-BindingPage.ReportItem.NoName=ÎŞÃû³Æ
+BindingPage.ReportItem.NoName=æ— åç§°
 
-BindingPage.Label.Binding=°ó¶¨
+BindingPage.Label.Binding=ç»‘å®š
 
-BindingPage.MessageDlg.SaveParamBinding=±£´æ ParamBinding
+BindingPage.MessageDlg.SaveParamBinding=ä¿å­˜ ParamBinding
 
-BindingPage.None=ÎŞ
+BindingPage.None=æ— 
 
-BindingPage.TableColumn.DataType=Êı¾İÀàĞÍ
+BindingPage.TableColumn.DataType=æ•°æ®ç±»å‹
 
-BindingPage.TableColumn.Parameter=²ÎÊı
+BindingPage.TableColumn.Parameter=å‚æ•°
 
-BindingPage.TableColumn.Value=Öµ
+BindingPage.TableColumn.Value=å€¼
 
-ColumnBingingDialog.Label.Warn=¸ü¸ÄÊı¾İ¼¯»ò±¨±íÏîÒıÓÃ»áÊ¹ËùÓĞ½á¹û¼¯ÁĞ±í´ïÊ½ÎŞĞ§¡£
+ColumnBingingDialog.Label.Warn=æ›´æ”¹æ•°æ®é›†æˆ–æŠ¥è¡¨é¡¹å¼•ç”¨ä¼šä½¿æ‰€æœ‰ç»“æœé›†åˆ—è¡¨è¾¾å¼æ— æ•ˆã€‚
 
-ColumnBindingDialog.Label.DataSet=Êı¾İ¼¯:
+ColumnBindingDialog.Label.DataSet=æ•°æ®é›†:
 
-ColumnBindingDialog.Column.Expression=±í´ïÊ½
+ColumnBindingDialog.Column.Expression=è¡¨è¾¾å¼
 
-ColumnBindingDialog.DialogTitle=Ñ¡ÔñÊı¾İ°ó¶¨
+ColumnBindingDialog.DialogTitle=é€‰æ‹©æ•°æ®ç»‘å®š
 
-ColumnBindingDialog.Column.Name=Ãû³Æ
+ColumnBindingDialog.Column.Name=åç§°
 
-ColumnBindingDialog.Column.Filter=É¸Ñ¡Æ÷
+ColumnBindingDialog.Column.Filter=ç­›é€‰å™¨
 
-ColumnBindingDialog.Column.Function=º¯Êı
+ColumnBindingDialog.Column.Function=å‡½æ•°
 
-ColumnBindingDialog.Column.DisplayName=ÏÔÊ¾Ãû³Æ
+ColumnBindingDialog.Column.DisplayName=æ˜¾ç¤ºåç§°
 
-ColumnBindingDialog.Column.DisplayNameID=ÏÔÊ¾Ãû³Æ ID
+ColumnBindingDialog.Column.DisplayNameID=æ˜¾ç¤ºåç§° ID
 
-ColumnBindingDialog.InputPrompt=<ÔÚ´Ë´¦ÊäÈëĞÂÖµ...>
+ColumnBindingDialog.InputPrompt=<åœ¨æ­¤å¤„è¾“å…¥æ–°å€¼...>
 
-ColumnBindingDialog.Button.Generate=Éú³ÉÁĞ°ó¶¨
+ColumnBindingDialog.Button.Generate=ç”Ÿæˆåˆ—ç»‘å®š
 
-ColumnBindingDialog.Column.DataType=Êı¾İÀàĞÍ
+ColumnBindingDialog.Column.DataType=æ•°æ®ç±»å‹
 
-ColumnBindingDialog.Column.AggregateOn=¾ÛºÏÌõ¼ş
+ColumnBindingDialog.Column.AggregateOn=èšåˆæ¡ä»¶
 
-ColumnBindingDialog.All=È«²¿
+ColumnBindingDialog.All=å…¨éƒ¨
 
-ColumnBindingDialog.NONE=ÎŞ
+ColumnBindingDialog.NONE=æ— 
 
-ColumnBindingDialog.Choice.DatasetFromContainer=ÈİÆ÷µÄÊı¾İ¼¯
+ColumnBindingDialog.Choice.DatasetFromContainer=å®¹å™¨çš„æ•°æ®é›†
 
-ColumnBindingDialog.Choice.ReportItemFromContainer=ÈİÆ÷µÄÒıÓÃ±¨±íÏî
+ColumnBindingDialog.Choice.ReportItemFromContainer=å®¹å™¨çš„å¼•ç”¨æŠ¥è¡¨é¡¹
 
 ColumnBindingDialog.AGGREGATEON.NONE=N/A
-ColumnBindingDialog.Text.Add=Ìí¼Ó(&A)...
+ColumnBindingDialog.Text.Add=æ·»åŠ (&A)...
 
-ColumnBindingDialog.Text.Edit=±à¼­(&E)...
+ColumnBindingDialog.Text.Edit=ç¼–è¾‘(&E)...
 
-ColumnBindingDialog.Text.Del=É¾³ı(&R)
+ColumnBindingDialog.Text.Del=åˆ é™¤(&R)
 
-ColumnBindingDialog.Text.Refresh=Ë¢ĞÂ(&F)
+ColumnBindingDialog.Text.Refresh=åˆ·æ–°(&F)
 
-ColumnBindingDialog.Text.AddAggr=Ìí¼Ó¾ÛºÏ(&G)...
-
-###########################################################
-#BlockPreferencePage properties
-BlockPreferencePage.displayname.Title=ÎÄ±¾¿é
+ColumnBindingDialog.Text.AddAggr=æ·»åŠ èšåˆ(&G)...
 
 ###########################################################
 #BlockPreferencePage properties
-SizePreferencePage.displayname.Title=´óĞ¡
+BlockPreferencePage.displayname.Title=æ–‡æœ¬å—
+
+###########################################################
+#BlockPreferencePage properties
+SizePreferencePage.displayname.Title=å¤§å°
 
 ###########################################################
 #BorderCanvas properties
-BorderCanvas.Label.Inherited=(ÒÑ¼Ì³Ğ)
+BorderCanvas.Label.Inherited=(å·²ç»§æ‰¿)
 
 ###########################################################
 #BorderPreferencePage properties
-BorderPreferencePage.displayname.Color=ÑÕÉ«
+BorderPreferencePage.displayname.Color=é¢œè‰²
 
-BorderPreferencePage.displayname.Style=ÑùÊ½
+BorderPreferencePage.displayname.Style=æ ·å¼
 
-BorderPreferencePage.displayname.Title=±ß¿ò
+BorderPreferencePage.displayname.Title=è¾¹æ¡†
 
-BorderPreferencePage.displayname.Width=¿í¶È
+BorderPreferencePage.displayname.Width=å®½åº¦
 
-BorderPreferencePage.text.Bottom=µ×²¿:
+BorderPreferencePage.text.Bottom=åº•éƒ¨:
 
-BorderPreferencePage.text.Left=×ó:
+BorderPreferencePage.text.Left=å·¦:
 
-BorderPreferencePage.text.Right=ÓÒ:
+BorderPreferencePage.text.Right=å³:
 
-BorderPreferencePage.text.Top=¶¥²¿:
+BorderPreferencePage.text.Top=é¡¶éƒ¨:
 
 ###########################################################
 #BordersPage properties
-BordersPage.Label.Borders=±ß¿ò(&B):
+BordersPage.Label.Borders=è¾¹æ¡†(&B):
 
-BordersPage.Label.Color=ÑÕÉ«(&C):
+BordersPage.Label.Color=é¢œè‰²(&C):
 
-BordersPage.Label.Presets=Ô¤Éè:
+BordersPage.Label.Presets=é¢„è®¾:
 
-BordersPage.Label.Style=ÑùÊ½(&Y):
+BordersPage.Label.Style=æ ·å¼(&Y):
 
-BordersPage.Label.Width=¿í¶È(&T):
+BordersPage.Label.Width=å®½åº¦(&T):
 
-BordersPage.Tooltip.All=ËùÓĞ¿òÏß
+BordersPage.Tooltip.All=æ‰€æœ‰æ¡†çº¿
 
-BordersPage.Tooltip.Bottom=ÏÂ¿òÏß
+BordersPage.Tooltip.Bottom=ä¸‹æ¡†çº¿
 
-BordersPage.Tooltip.Left=×ó¿òÏß
+BordersPage.Tooltip.Left=å·¦æ¡†çº¿
 
-BordersPage.Tooltip.None=ÎŞ
+BordersPage.Tooltip.None=æ— 
 
-BordersPage.Tooltip.Right=ÓÒ¿òÏß
+BordersPage.Tooltip.Right=å³æ¡†çº¿
 
-BordersPage.Tooltip.Top=ÉÏ¿òÏß
+BordersPage.Tooltip.Top=ä¸Šæ¡†çº¿
 
-BordersPage.text.Preview=Ô¤ÀÀ:
+BordersPage.text.Preview=é¢„è§ˆ:
 
-BordersPage.Trans.SelectBorder=Ñ¡Ôñ±ß¿ò
+BordersPage.Trans.SelectBorder=é€‰æ‹©è¾¹æ¡†
 
-BordersPage.Trans.UnSelectBorder=È¡ÏûÑ¡Ôñ±ß¿ò
+BordersPage.Trans.UnSelectBorder=å–æ¶ˆé€‰æ‹©è¾¹æ¡†
 
-BordersPage.Trans.SelectAllborders=Ñ¡ÔñËùÓĞ±ß¿ò
+BordersPage.Trans.SelectAllborders=é€‰æ‹©æ‰€æœ‰è¾¹æ¡†
 
-BordersPage.Trans.UnSelectAllborders=È¡ÏûÑ¡ÔñËùÓĞ±ß¿ò
+BordersPage.Trans.UnSelectAllborders=å–æ¶ˆé€‰æ‹©æ‰€æœ‰è¾¹æ¡†
 
 ###########################################################
 #BoxPreferencePage properties
-BoxPreferencePage.displayname.Title=¿ò
+BoxPreferencePage.displayname.Title=æ¡†
 
-BoxPreferencePage.text.Margin=±ß¾à
+BoxPreferencePage.text.Margin=è¾¹è·
 
-BoxPreferencePage.text.Padding=Ìî³ä
+BoxPreferencePage.text.Padding=å¡«å……
 
 ###########################################################
 #CommentsPreferencePage properties
-CommentsPreferencePage.displayname.Title=±¸×¢
+CommentsPreferencePage.displayname.Title=å¤‡æ³¨
 
 ###########################################################
 #ButtonPaneComposite properties
-ButtonPaneComposite.tooltip.MasterPage=Ö÷Ò³
+ButtonPaneComposite.tooltip.MasterPage=ä¸»é¡µ
 
-ButtonPaneComposite.tooltip.Normal=Õı³£
+ButtonPaneComposite.tooltip.Normal=æ­£å¸¸
 
-ButtonPaneComposite.tooltip.Ruler=±ê³ß
+ButtonPaneComposite.tooltip.Ruler=æ ‡å°º
 
 ###########################################################
 #SettingsPage properties
-SettingsPage.dataFetchSetting.label=´ÓÊı¾İÔ´ÌáÈ¡µÄ×î´óĞĞÊı(&M):
+SettingsPage.dataFetchSetting.label=ä»æ•°æ®æºæå–çš„æœ€å¤§è¡Œæ•°(&M):
 
-SettingsPage.CachePreference.button.clear=Çå³ı»º´æ(&C)
+SettingsPage.CachePreference.button.clear=æ¸…é™¤ç¼“å­˜(&C)
 
-SettingsPage.CachePreference.checkBox.text=»º´æÊı¾İ¼¯Êı¾İÒÔ±ã½øĞĞ±¨±íÔ¤ÀÀ(&H)
+SettingsPage.CachePreference.checkBox.text=ç¼“å­˜æ•°æ®é›†æ•°æ®ä»¥ä¾¿è¿›è¡ŒæŠ¥è¡¨é¢„è§ˆ(&H)
 
-SettingsPage.CachePreference.description=¶¨Òå»º´æ´óĞ¡:
+SettingsPage.CachePreference.description=å®šä¹‰ç¼“å­˜å¤§å°:
 
-SettingsPage.CachePreference.Filter.Tooltip=Ê¹ÓÃ»º´æ½«Êı¾İ´«Èë»ò´«³öÊı¾İ¼¯
+SettingsPage.CachePreference.Filter.Tooltip=ä½¿ç”¨ç¼“å­˜å°†æ•°æ®ä¼ å…¥æˆ–ä¼ å‡ºæ•°æ®é›†
 
-SettingsPage.CachePreference.label.text=ĞĞ
+SettingsPage.CachePreference.label.text=è¡Œ
 
-SettingsPage.CachePreference.messageBox.info=»º´æÒÑ±»Çå³ı
+SettingsPage.CachePreference.messageBox.info=ç¼“å­˜å·²è¢«æ¸…é™¤
 
-SettingsPage.CachePreference.messageBox.title=»º´æÇå³ı
+SettingsPage.CachePreference.messageBox.title=ç¼“å­˜æ¸…é™¤
 
-SettingsPage.CachePreference.radioBox.entireNumText=»º´æÕû¸öÊı¾İ¼¯(&E)
+SettingsPage.CachePreference.radioBox.entireNumText=ç¼“å­˜æ•´ä¸ªæ•°æ®é›†(&E)
 
-SettingsPage.CachePreference.radioBox.numText=»º´æºÍÊ¹ÓÃµÚÒ»¸ö(&U)
+SettingsPage.CachePreference.radioBox.numText=ç¼“å­˜å’Œä½¿ç”¨ç¬¬ä¸€ä¸ª(&U)
 
 ###########################################################
 #CascadingParametersDialog properties
-CascadingParametersDialog.Button.isRequired=±ØĞè(&Q)
+CascadingParametersDialog.Button.isRequired=å¿…éœ€(&Q)
 
-CascadingParametersDialog.default.preview.string=ÎÒµÄ×Ö·û´®
+CascadingParametersDialog.default.preview.string=æˆ‘çš„å­—ç¬¦ä¸²
 
-CascadingParametersDialog.display.controlType.comboBox=×éºÏ¿ò
+CascadingParametersDialog.display.controlType.comboBox=ç»„åˆæ¡†
 
-CascadingParametersDialog.display.controlType.listBox=ÁĞ±í¿ò
+CascadingParametersDialog.display.controlType.listBox=åˆ—è¡¨æ¡†
 
-CascadingParametersDialog.Label.button.changeFormat=¸ü¸Ä(&G)...
+CascadingParametersDialog.Label.button.changeFormat=æ›´æ”¹(&G)...
 
-CascadingParametersDialog.Label.button.createNew.dataset=ĞÂ½¨(&W)...
+CascadingParametersDialog.Label.button.createNew.dataset=æ–°å»º(&W)...
 
-CascadingParametersDialog.Label.cascadingParam.name=¼¶Áª²ÎÊı×éÃû³Æ(&R):
+CascadingParametersDialog.Label.cascadingParam.name=çº§è”å‚æ•°ç»„åç§°(&R):
 
-CascadingParametersDialog.Label.column.displayText=ÏÔÊ¾ÎÄ±¾
+CascadingParametersDialog.Label.column.displayText=æ˜¾ç¤ºæ–‡æœ¬
 
-CascadingParametersDialog.Label.column.dataSet=Êı¾İ¼¯
+CascadingParametersDialog.Label.column.dataSet=æ•°æ®é›†
 
-CascadingParametersDialog.Label.column.name=Ãû³Æ
+CascadingParametersDialog.Label.column.name=åç§°
 
-CascadingParametersDialog.Label.column.value=Öµ
+CascadingParametersDialog.Label.column.value=å€¼
 
-CascadingParametersDialog.Label.createNewParam=<´´½¨ĞÂ²ÎÊı...>
+CascadingParametersDialog.Label.createNewParam=<åˆ›å»ºæ–°å‚æ•°...>
 
-CascadingParametersDialog.Label.dataSets=Êı¾İ¼¯(&S):
+CascadingParametersDialog.Label.dataSets=æ•°æ®é›†(&S):
 
-CascadingParametersDialog.Label.dataType=Êı¾İÀàĞÍ(&Y)
+CascadingParametersDialog.Label.dataType=æ•°æ®ç±»å‹(&Y)
 
-CascadingParametersDialog.Label.defaultValue=Ä¬ÈÏÖµ(&V):
+CascadingParametersDialog.Label.defaultValue=é»˜è®¤å€¼(&V):
 
-CascadingParametersDialog.Label.displayType=ÏÔÊ¾ÀàĞÍ(&S):
+CascadingParametersDialog.Label.displayType=æ˜¾ç¤ºç±»å‹(&S):
 
-CascadingParametersDialog.Label.formatAs=¸ñÊ½Îª:
+CascadingParametersDialog.Label.formatAs=æ ¼å¼ä¸º:
 
-CascadingParametersDialog.Label.group.general=³£¹æ
+CascadingParametersDialog.Label.group.general=å¸¸è§„
 
-CascadingParametersDialog.Label.group.moreOptions=¸ü¶àÑ¡Ïî
+CascadingParametersDialog.Label.group.moreOptions=æ›´å¤šé€‰é¡¹
 
-CascadingParametersDialog.Label.group.properties=ÊôĞÔ
+CascadingParametersDialog.Label.group.properties=å±æ€§
 
-CascadingParametersDialog.Label.helpText=°ïÖúÎÄ±¾(&H):
+CascadingParametersDialog.Label.helpText=å¸®åŠ©æ–‡æœ¬(&H):
 
-CascadingParametersDialog.Label.listLimit=ÁĞ±íÏŞÖÆ(&L):
+CascadingParametersDialog.Label.listLimit=åˆ—è¡¨é™åˆ¶(&L):
 
-CascadingParametersDialog.Label.NoColumnAvailable=<Ã»ÓĞ¿ÉÓÃµÄÁĞ>
+CascadingParametersDialog.Label.NoColumnAvailable=<æ²¡æœ‰å¯ç”¨çš„åˆ—>
 
-CascadingParametersDialog.Label.param.name=Ãû³Æ(&N):
+CascadingParametersDialog.Label.param.name=åç§°(&N):
 
-CascadingParametersDialog.Label.parameters=²ÎÊı
+CascadingParametersDialog.Label.parameters=å‚æ•°
 
-CascadingParametersDialog.Label.preview=´ø¸ñÊ½Ô¤ÀÀ
+CascadingParametersDialog.Label.preview=å¸¦æ ¼å¼é¢„è§ˆ
 
-CascadingParametersDialog.Label.groupPromptText=ÌáÊ¾ÎÄ±¾(&P):
+CascadingParametersDialog.Label.groupPromptText=æç¤ºæ–‡æœ¬(&P):
 
-CascadingParametersDialog.Label.parameterPromptText=ÌáÊ¾ÎÄ±¾(&X):
+CascadingParametersDialog.Label.parameterPromptText=æç¤ºæ–‡æœ¬(&X):
 
-CascadingParametersDialog.Label.selectDataSet=<Ñ¡ÔñÊı¾İ¼¯>
+CascadingParametersDialog.Label.selectDataSet=<é€‰æ‹©æ•°æ®é›†>
 
-CascadingParametersDialog.Label.selectDisplayColumn=<Î´ÉèÖÃÏÔÊ¾ÁĞ>
+CascadingParametersDialog.Label.selectDisplayColumn=<æœªè®¾ç½®æ˜¾ç¤ºåˆ—>
 
-CascadingParametersDialog.Label.selectValueColumn=<Î´ÉèÖÃÖµÁĞ>
+CascadingParametersDialog.Label.selectValueColumn=<æœªè®¾ç½®å€¼åˆ—>
 
-CascadingParametersDialog.Label.values=Öµ
+CascadingParametersDialog.Label.values=å€¼
 
-CascadingParametersDialog.Radio.Single=µ¥¸öÊı¾İ¼¯(&N)
+CascadingParametersDialog.Radio.Single=å•ä¸ªæ•°æ®é›†(&N)
 
-CascadingParametersDialog.Radio.Mutli=¶à¸öÊı¾İ¼¯(&U)
+CascadingParametersDialog.Radio.Mutli=å¤šä¸ªæ•°æ®é›†(&U)
 
-CascadingParametersDialog.Choice.NullValue=¿ÕÖµ
+CascadingParametersDialog.Choice.NullValue=ç©ºå€¼
 
-CascadingParametersDialog.Choice.BlankValue=¿Õ°×Öµ
+CascadingParametersDialog.Choice.BlankValue=ç©ºç™½å€¼
 
-CascadingParametersDialog.Choice.SelectValue=<Ñ¡ÔñÖµ...>
+CascadingParametersDialog.Choice.SelectValue=<é€‰æ‹©å€¼...>
 
-CascadingParametersDialog.Button.Add=Ìí¼Ó(&A)
+CascadingParametersDialog.Button.Add=æ·»åŠ (&A)
 
-CascadingParametersDialog.Button.Edit=±à¼­(&I)
+CascadingParametersDialog.Button.Edit=ç¼–è¾‘(&I)
 
-CascadingParametersDialog.Button.Delete=É¾³ı(&T)
+CascadingParametersDialog.Button.Delete=åˆ é™¤(&T)
 
-CascadingParametersDialog.Button.IsMultiple=ÔÊĞí¶à¸öÖµ(&W)
+CascadingParametersDialog.Button.IsMultiple=å…è®¸å¤šä¸ªå€¼(&W)
 
-CascadingParametersDialog.DefalutValue.Add=Ìí¼Ó(&D)
+CascadingParametersDialog.DefalutValue.Add=æ·»åŠ (&D)
 
-CascadingParametersDialog.ExpressionEditor.Title=±à¼­±í´ïÊ½
+CascadingParametersDialog.ExpressionEditor.Title=ç¼–è¾‘è¡¨è¾¾å¼
 
-CascadingParametersDialog.Title.AddCascadingParameter=Ìí¼Ó¼¶Áª²ÎÊı×é
+CascadingParametersDialog.Title.AddCascadingParameter=æ·»åŠ çº§è”å‚æ•°ç»„
 
-CascadingParametersDialog.Title.EditCascadingParameter=±à¼­¼¶Áª²ÎÊı×é
+CascadingParametersDialog.Title.EditCascadingParameter=ç¼–è¾‘çº§è”å‚æ•°ç»„
 
-CascadingParametersDialog.items.None=<ÎŞ>
+CascadingParametersDialog.items.None=<æ— >
 
 ###########################################################
 #CellPageGenerator properties
-CellPageGenerator.List.Borders=±ß¿ò
+CellPageGenerator.List.Borders=è¾¹æ¡†
 
-CellPageGenerator.List.CellPadding=Ìî³ä
+CellPageGenerator.List.CellPadding=å¡«å……
 
-CellPageGenerator.List.Font=×ÖÌå
+CellPageGenerator.List.Font=å­—ä½“
 
-CellPageGenerator.List.General=³£¹æ
+CellPageGenerator.List.General=å¸¸è§„
 
 
 ###########################################################
 #ChoiceSetFactory properties
-ChoiceSetFactory.choice.Auto=×Ô¶¯
+ChoiceSetFactory.choice.Auto=è‡ªåŠ¨
 
-ChoiceSetFactory.choice.None=ÎŞ
+ChoiceSetFactory.choice.None=æ— 
 
 ###########################################################
 #CodePageAction properties
-CodePageAction.actionText.code=½Å±¾
+CodePageAction.actionText.code=è„šæœ¬
 
 ###########################################################
 #ColorBuilder properties
-ColorBuilder.text.Auto=×Ô¶¯
+ColorBuilder.text.Auto=è‡ªåŠ¨
 
-ColorBuilder.Button.ChooseColor=´ò¿ªÉ«°å
+ColorBuilder.Button.ChooseColor=æ‰“å¼€è‰²æ¿
 
-ColorSelector.ColorDialog.Title=ÑÕÉ«
+ColorSelector.ColorDialog.Title=é¢œè‰²
 
-ColorSelector.Name=ÑÕÉ«Ñ¡ÔñÆ÷
+ColorSelector.Name=é¢œè‰²é€‰æ‹©å™¨
 ###########################################################
 #ColumnPageGenerator properties
-ColumnPageGenerator.List.Borders=±ß¿ò
+ColumnPageGenerator.List.Borders=è¾¹æ¡†
 
-ColumnPageGenerator.List.CellPadding=µ¥Ôª¸ñ±ß¾à
+ColumnPageGenerator.List.CellPadding=å•å…ƒæ ¼è¾¹è·
 
-ColumnPageGenerator.List.Font=×ÖÌå
+ColumnPageGenerator.List.Font=å­—ä½“
 
-ColumnPageGenerator.List.General=³£¹æ
+ColumnPageGenerator.List.General=å¸¸è§„
 
-ColumnPageGenerator.List.Visibility=¿É¼ûĞÔ
+ColumnPageGenerator.List.Visibility=å¯è§æ€§
 
 ###########################################################
 #Commom properties
-Commom.ShortDateTime.Fri=Îå
+Commom.ShortDateTime.Fri=äº”
 
-Commom.ShortDateTime.Mon=Ò»
+Commom.ShortDateTime.Mon=ä¸€
 
-Commom.ShortDateTime.Sat=Áù
+Commom.ShortDateTime.Sat=å…­
 
-Commom.ShortDateTime.Sun=ÈÕ
+Commom.ShortDateTime.Sun=æ—¥
 
-Commom.ShortDateTime.Thu=ËÄ
+Commom.ShortDateTime.Thu=å››
 
-Commom.ShortDateTime.Tue=¶ş
+Commom.ShortDateTime.Tue=äºŒ
 
-Commom.ShortDateTime.Wed=Èı
+Commom.ShortDateTime.Wed=ä¸‰
 
 ###########################################################
 #CopyAction properties
-CopyAction.text=¸´ÖÆ(&C)
+CopyAction.text=å¤åˆ¶(&C)
 
 ###########################################################
 #CreatePlaceHolderAction properties
-CreatePlaceHolderAction.text=´´½¨Ä£°å±¨±íÏî(&A)...
+CreatePlaceHolderAction.text=åˆ›å»ºæ¨¡æ¿æŠ¥è¡¨é¡¹(&A)...
 
 ###########################################################
 #CutAction properties
-CutAction.text=¼ôÇĞ(&T)
+CutAction.text=å‰ªåˆ‡(&T)
 
-CutAction.trans=¼ôÇĞÔªËØ
+CutAction.trans=å‰ªåˆ‡å…ƒç´ 
 
 ###########################################################
 #dataBinding properties
-dataBinding.label.selectBinding=Ñ¡ÔñÊı¾İ°ó¶¨:
+dataBinding.label.selectBinding=é€‰æ‹©æ•°æ®ç»‘å®š:
 
-dataBinding.message.changeDataSet=Äú½«Òª¸ü¸ÄÔªËØµÄÊı¾İ°ó¶¨¡£\n\nÊÇ·ñÒªÇå³ıÈ«²¿ÏÖÓĞµÄÊı¾İ×Ö¶ÎĞÅÏ¢?
+dataBinding.message.changeDataSet=æ‚¨å°†è¦æ›´æ”¹å…ƒç´ çš„æ•°æ®ç»‘å®šã€‚\n\næ˜¯å¦è¦æ¸…é™¤å…¨éƒ¨ç°æœ‰çš„æ•°æ®å­—æ®µä¿¡æ¯?
 
-dataBinding.message.changeReference=Äú½«Òª¸ü¸ÄÔªËØµÄÊı¾İ°ó¶¨¡£\n\nÊÇ·ñÒªÖ´ĞĞ²Ù×÷?
+dataBinding.message.changeReference=æ‚¨å°†è¦æ›´æ”¹å…ƒç´ çš„æ•°æ®ç»‘å®šã€‚\n\næ˜¯å¦è¦æ‰§è¡Œæ“ä½œ?
 
-dataBinding.title.changeDataSet=ÊÇ·ñ¸ü¸ÄÊı¾İ¼¯£¿
+dataBinding.title.changeDataSet=æ˜¯å¦æ›´æ”¹æ•°æ®é›†ï¼Ÿ
 
-dataBinding.title=Êı¾İ°ó¶¨
+dataBinding.title=æ•°æ®ç»‘å®š
 
-dataBinding.message.haveNoName=ÄúÑ¡ÔñµÄÏîÄ¿Ã»ÓĞÃû³Æ¡£\n\nÇë·µ»Ø²¢ÎªÏîÄ¿Ö¸¶¨Ãû³Æ£¬Ê¹Æä¿ÉÑ¡Ôñ¡£
+dataBinding.message.haveNoName=æ‚¨é€‰æ‹©çš„é¡¹ç›®æ²¡æœ‰åç§°ã€‚\n\nè¯·è¿”å›å¹¶ä¸ºé¡¹ç›®æŒ‡å®šåç§°ï¼Œä½¿å…¶å¯é€‰æ‹©ã€‚
 
-dataBinding.title.haveNoName=Ã»ÓĞÃû³Æ?
+dataBinding.title.haveNoName=æ²¡æœ‰åç§°?
 
-dataBinding.button.OK=È·¶¨(&O)
+dataBinding.button.OK=ç¡®å®š(&O)
 
-parameterBinding.title=Êı¾İ¼¯²ÎÊı°ó¶¨(&B)...
+parameterBinding.title=æ•°æ®é›†å‚æ•°ç»‘å®š(&B)...
 
-ParameterBindingDialog.title=Êı¾İ¼¯²ÎÊı°ó¶¨
+ParameterBindingDialog.title=æ•°æ®é›†å‚æ•°ç»‘å®š
 
-dataBinding.title.generateOutputParam=Éú³É°ó¶¨?
+dataBinding.title.generateOutputParam=ç”Ÿæˆç»‘å®š?
 
-dataBinding.msg.generateOutputParam=Êı¾İ¼¯¾ßÓĞÒ»¸ö»ò¶à¸öÊä³ö²ÎÊı¡£\n\n ÄúÒªÎªËüÃÇÉú³É°ó¶¨Âğ?
-
-###########################################################
-#DataEditPart properties
-DataEditPart.Figure.Dafault=Êı¾İ
-
-DataEditPart.Figure.Expression=±í´ïÊ½
-
-DataEditPart.stackMsg.edit=±à¼­Êı¾İ°ó¶¨
-
-DataEditPart.text.AggregateOn=¾ÛºÏÌõ¼ş
+dataBinding.msg.generateOutputParam=æ•°æ®é›†å…·æœ‰ä¸€ä¸ªæˆ–å¤šä¸ªè¾“å‡ºå‚æ•°ã€‚\n\n æ‚¨è¦ä¸ºå®ƒä»¬ç”Ÿæˆç»‘å®šå—?
 
 ###########################################################
 #DataEditPart properties
-DestroyEditPart.Message=´Ë±¨±íÏîµÄÄÚÈİÒÑËğ»µ¡£ÈçÒª¼ÌĞøÊ¹ÓÃ´Ë±¨±í£¬ÇëÏÈÉ¾³ı´ËÏîÄ¿¡£´Ë²Ù×÷¿ÉÄÜ»áµ¼ÖÂ±¨±íÉè¼ÆÎÄ¼ş½øÒ»²½Ëğ»µºÍ/»òÖÂÊ¹ report designer ÎŞÏìÓ¦¡£
+DataEditPart.Figure.Dafault=æ•°æ®
+
+DataEditPart.Figure.Expression=è¡¨è¾¾å¼
+
+DataEditPart.stackMsg.edit=ç¼–è¾‘æ•°æ®ç»‘å®š
+
+DataEditPart.text.AggregateOn=èšåˆæ¡ä»¶
+
+###########################################################
+#DataEditPart properties
+DestroyEditPart.Message=æ­¤æŠ¥è¡¨é¡¹çš„å†…å®¹å·²æŸåã€‚å¦‚è¦ç»§ç»­ä½¿ç”¨æ­¤æŠ¥è¡¨ï¼Œè¯·å…ˆåˆ é™¤æ­¤é¡¹ç›®ã€‚æ­¤æ“ä½œå¯èƒ½ä¼šå¯¼è‡´æŠ¥è¡¨è®¾è®¡æ–‡ä»¶è¿›ä¸€æ­¥æŸåå’Œ/æˆ–è‡´ä½¿ report designer æ— å“åº”ã€‚
 
 ###########################################################
 #DataPageGenerator properties
-DataPageGenerator.List.Bookmark=ÊéÇ©
+DataPageGenerator.List.Bookmark=ä¹¦ç­¾
 
-DataPageGenerator.List.Borders=±ß¿ò
+DataPageGenerator.List.Borders=è¾¹æ¡†
 
-DataPageGenerator.List.Duplicates=ÖØ¸´Ïî
+DataPageGenerator.List.Duplicates=é‡å¤é¡¹
 
-DataPageGenerator.List.Expression=±í´ïÊ½
+DataPageGenerator.List.Expression=è¡¨è¾¾å¼
 
-DataPageGenerator.List.Format=¸ñÊ½
+DataPageGenerator.List.Format=æ ¼å¼
 
-DataPageGenerator.List.formatDateTime=ÈÕÆÚÊ±¼ä¸ñÊ½
+DataPageGenerator.List.formatDateTime=æ—¥æœŸæ—¶é—´æ ¼å¼
 
-DataPageGenerator.List.formatNumber=ÊıÖµ¸ñÊ½
+DataPageGenerator.List.formatNumber=æ•°å€¼æ ¼å¼
 
-DataPageGenerator.List.formatString=×Ö·û´®¸ñÊ½
+DataPageGenerator.List.formatString=å­—ç¬¦ä¸²æ ¼å¼
 
-DataPageGenerator.List.General=³£¹æ
+DataPageGenerator.List.General=å¸¸è§„
 
-DataPageGenerator.List.Highlights=Í»³öÏÔÊ¾
+DataPageGenerator.List.Highlights=çªå‡ºæ˜¾ç¤º
 
-DataPageGenerator.List.HyperLink=³¬¼¶Á´½Ó
+DataPageGenerator.List.HyperLink=è¶…çº§é“¾æ¥
 
-DataPageGenerator.List.Margin=±ß¾à
+DataPageGenerator.List.Margin=è¾¹è·
 
-DataPageGenerator.List.Padding=Ìî³ä
+DataPageGenerator.List.Padding=å¡«å……
 
-DataPageGenerator.List.Section=·ÖÒ³·û
+DataPageGenerator.List.Section=åˆ†é¡µç¬¦
 
-DataPageGenerator.List.TOC=Ä¿Â¼
+DataPageGenerator.List.TOC=ç›®å½•
 
-DataPageGenerator.List.Visibility=¿É¼ûĞÔ
+DataPageGenerator.List.Visibility=å¯è§æ€§
 
 ###########################################################
 #dataset properties
-dataset.edit=±à¼­Êı¾İ¼¯ - {0}
+dataset.edit=ç¼–è¾‘æ•°æ®é›† - {0}
 
-dataset.editor.settings=ÉèÖÃ
+dataset.editor.settings=è®¾ç½®
 
-dataset.editor.settings.dataFetchSetting.errorNumberFormat=ÇëÎªĞĞÈ¡ÊıÏŞÖÆÊäÈëÒ»¸ö´óÓÚÁãµÄÕûÊı¡£
+dataset.editor.settings.dataFetchSetting.errorNumberFormat=è¯·ä¸ºè¡Œå–æ•°é™åˆ¶è¾“å…¥ä¸€ä¸ªå¤§äºé›¶çš„æ•´æ•°ã€‚
 
-dataset.editor.settings.dataFetchSetting.errorNumberFormatForResultSet=ÇëÎª½á¹û¼¯ÊıÖµÊäÈëÒ»¸öÕıÕûÊı¡£
+dataset.editor.settings.dataFetchSetting.errorNumberFormatForResultSet=è¯·ä¸ºç»“æœé›†æ•°å€¼è¾“å…¥ä¸€ä¸ªæ­£æ•´æ•°ã€‚
 
-dataset.editor.settings.dataFetchSetting=Êı¾İÌáÈ¡ÉèÖÃ
+dataset.editor.settings.dataFetchSetting=æ•°æ®æå–è®¾ç½®
 
-dataset.editor.settings.resultsetselection.resultSetSelection=½á¹û¼¯Ñ¡Ôñ
+dataset.editor.settings.resultsetselection.resultSetSelection=ç»“æœé›†é€‰æ‹©
 
-dataset.editor.settings.resultsetselection.enableResultSetSelection=ÆôÓÃ½á¹û¼¯Ñ¡Ôñ(&E)
+dataset.editor.settings.resultsetselection.enableResultSetSelection=å¯ç”¨ç»“æœé›†é€‰æ‹©(&E)
 
-dataset.editor.settings.resultsetselection.selectResultSetByName=°´Ãû³ÆÑ¡Ôñ½á¹û¼¯(&R):
+dataset.editor.settings.resultsetselection.selectResultSetByName=æŒ‰åç§°é€‰æ‹©ç»“æœé›†(&R):
 
-dataset.editor.settings.resultsetselection.selectResultSetByNumber=°´ÊıÖµÑ¡Ôñ½á¹û¼¯(&S):
+dataset.editor.settings.resultsetselection.selectResultSetByNumber=æŒ‰æ•°å€¼é€‰æ‹©ç»“æœé›†(&S):
 
-dataset.editor.settings.dataFetchSetting.fetchAll=´ÓÊı¾İÔ´ÌáÈ¡ËùÓĞĞĞ(&A)¡£
+dataset.editor.settings.dataFetchSetting.fetchAll=ä»æ•°æ®æºæå–æ‰€æœ‰è¡Œ(&A)ã€‚
 
-dataset.editor.settings.cachePreference.errorNumberFormat=ÇëÎª»º´æĞĞ´óĞ¡ÊäÈëÒ»¸ö´óÓÚÁãµÄÊı¡£
+dataset.editor.settings.cachePreference.errorNumberFormat=è¯·ä¸ºç¼“å­˜è¡Œå¤§å°è¾“å…¥ä¸€ä¸ªå¤§äºé›¶çš„æ•°ã€‚
 
-dataset.editor.settings.cachePreference=»º´æÊ×Ñ¡Ïî
+dataset.editor.settings.cachePreference=ç¼“å­˜é¦–é€‰é¡¹
 
-dataset.editor.computedColumns=¼ÆËãÁĞ
+dataset.editor.computedColumns=è®¡ç®—åˆ—
 
-dataset.editor.dataSource.Tooltip=²é¿´/¸ü¸ÄÊı¾İÔ´¡£
+dataset.editor.dataSource.Tooltip=æŸ¥çœ‹/æ›´æ”¹æ•°æ®æºã€‚
 
-dataset.editor.dataSource=Êı¾İÔ´
+dataset.editor.dataSource=æ•°æ®æº
 
-dataset.editor.error.columnOrAliasNameAlreadyUsed=ĞÂµÄÁĞÃû³Æ»ò±ğÃû ({0}) ÒÑ¾­ÓÉË÷Òı {1} ´¦µÄÁĞÊ¹ÓÃ¡£
+dataset.editor.error.columnOrAliasNameAlreadyUsed=æ–°çš„åˆ—åç§°æˆ–åˆ«å ({0}) å·²ç»ç”±ç´¢å¼• {1} å¤„çš„åˆ—ä½¿ç”¨ã€‚
 
-dataset.editor.error.computedColumnNameAlreadyUsed=ĞÂµÄ¼ÆËãÁĞÃû³Æ ({0}) ÒÑ¾­ÓÃ×÷Êä³öÁĞÖĞÁĞ ({1}) µÄÁĞ±ğÃû¡£
+dataset.editor.error.computedColumnNameAlreadyUsed=æ–°çš„è®¡ç®—åˆ—åç§° ({0}) å·²ç»ç”¨ä½œè¾“å‡ºåˆ—ä¸­åˆ— ({1}) çš„åˆ—åˆ«åã€‚
 
-dataset.editor.error.duplicateParameterName=ÖØ¸´µÄ²ÎÊıÃû³Æ¡£
+dataset.editor.error.duplicateParameterName=é‡å¤çš„å‚æ•°åç§°ã€‚
 
-dataset.editor.error.nonemptyDefaultvalue=Ä¬ÈÏÖµ²»ÄÜÎª¿Õ
+dataset.editor.error.nonemptyDefaultvalue=é»˜è®¤å€¼ä¸èƒ½ä¸ºç©º
 
-dataset.editor.error.emptyName=Ãû³Æ²»ÄÜÎª¿Õ°×¡£
+dataset.editor.error.emptyName=åç§°ä¸èƒ½ä¸ºç©ºç™½ã€‚
 
-dataset.editor.error.missingComputedColumnExpression=¼ÆËãÁĞ {0} µÄ±í´ïÊ½²»ÄÜÎª¿Õ»ò¿Õ°×¡£
+dataset.editor.error.missingComputedColumnExpression=è®¡ç®—åˆ— {0} çš„è¡¨è¾¾å¼ä¸èƒ½ä¸ºç©ºæˆ–ç©ºç™½ã€‚
 
-dataset.editor.error.missingComputedColumnName=¼ÆËãÁĞÃû³Æ²»ÄÜÎª¿Õ»ò¿Õ°×¡£
+dataset.editor.error.missingComputedColumnName=è®¡ç®—åˆ—åç§°ä¸èƒ½ä¸ºç©ºæˆ–ç©ºç™½ã€‚
 
-dataset.editor.error.noDataSource=Ã»ÓĞ¿ÉÓÃÓÚÊı¾İ¼¯µÄÊı¾İÔ´ {0}£¬ÇëÔÚÊôĞÔÊÓÍ¼µÄ¡°Êı¾İÔ´¡±ÌõÄ¿ÖĞÑ¡ÔñÊı¾İÔ´¡£
+dataset.editor.error.noDataSource=æ²¡æœ‰å¯ç”¨äºæ•°æ®é›†çš„æ•°æ®æº {0}ï¼Œè¯·åœ¨å±æ€§è§†å›¾çš„â€œæ•°æ®æºâ€æ¡ç›®ä¸­é€‰æ‹©æ•°æ®æºã€‚
 
-dataset.editor.error.nonmatchedDataSource=Êı¾İ¼¯¡°{0}¡±µÄÊı¾İÔ´²»Æ¥Åä£¬ÇëÑ¡ÔñÓëÊı¾İ¼¯ÀàĞÍ¡°{1}¡±Æ¥ÅäµÄÊı¾İÔ´¡£
+dataset.editor.error.nonmatchedDataSource=æ•°æ®é›†â€œ{0}â€çš„æ•°æ®æºä¸åŒ¹é…ï¼Œè¯·é€‰æ‹©ä¸æ•°æ®é›†ç±»å‹â€œ{1}â€åŒ¹é…çš„æ•°æ®æºã€‚
 
-dataset.editor.error.noEditorsFound=Î´ÕÒµ½¿ÉÓÃÓÚÊı¾İ¼¯µÄ±à¼­Æ÷ {0}¡£
+dataset.editor.error.noEditorsFound=æœªæ‰¾åˆ°å¯ç”¨äºæ•°æ®é›†çš„ç¼–è¾‘å™¨ {0}ã€‚
 
-dataset.editor.error.noInputParameterDefaultValue=ÊäÈë²ÎÊı {0} Ó¦¾ßÓĞ·Ç¿ÕÄ¬ÈÏÖµ¡£
+dataset.editor.error.noInputParameterDefaultValue=è¾“å…¥å‚æ•° {0} åº”å…·æœ‰éç©ºé»˜è®¤å€¼ã€‚
 
-dataset.editor.error.title=¾¯¸æ
+dataset.editor.error.title=è­¦å‘Š
 
-dataset.editor.error.unsupportedDataSet=²»Ö§³ÖµÄÊı¾İ¼¯ÀàĞÍ - {0}¡£
+dataset.editor.error.unsupportedDataSet=ä¸æ”¯æŒçš„æ•°æ®é›†ç±»å‹ - {0}ã€‚
 
-dataset.editor.error.validationParameter=ÊäÈë²ÎÊı [{0}] ¾ßÓĞ¿ÕÖµ¡£ÊÇ·ñÒª±£ÁôÎª¿Õ?
+dataset.editor.error.validationParameter=è¾“å…¥å‚æ•° [{0}] å…·æœ‰ç©ºå€¼ã€‚æ˜¯å¦è¦ä¿ç•™ä¸ºç©º?
 
-dataset.editor.filters=É¸Ñ¡Æ÷
+dataset.editor.filters=ç­›é€‰å™¨
 
-dataset.editor.label.selectDataSource=Ñ¡ÔñÊı¾İÔ´(&D):
+dataset.editor.label.selectDataSource=é€‰æ‹©æ•°æ®æº(&D):
 
-dataset.editor.outputColumns=Êä³öÁĞ
+dataset.editor.outputColumns=è¾“å‡ºåˆ—
 
-dataset.editor.parameters=²ÎÊı
+dataset.editor.parameters=å‚æ•°
 
-dataset.editor.preview=Ô¤ÀÀ½á¹û
+dataset.editor.preview=é¢„è§ˆç»“æœ
 
-dataset.editor.outputparameters=Ô¤ÀÀÊä³ö²ÎÊı
+dataset.editor.outputparameters=é¢„è§ˆè¾“å‡ºå‚æ•°
 
-dataset.editor.title.alias=±ğÃû
+dataset.editor.title.alias=åˆ«å
 
-dataset.editor.title.columnName=ÁĞÃû
+dataset.editor.title.columnName=åˆ—å
 
-dataset.editor.title.dataType=Êı¾İÀàĞÍ
+dataset.editor.title.dataType=æ•°æ®ç±»å‹
 
-dataset.editor.title.defaultValue=Ä¬ÈÏÖµ
+dataset.editor.title.defaultValue=é»˜è®¤å€¼
 
-dataset.editor.title.direction=·½Ïò
+dataset.editor.title.direction=æ–¹å‘
 
-DataSetParameterPage.editor.title.linkToSalarParameter=Á´½Óµ½±¨±í²ÎÊı
+DataSetParameterPage.editor.title.linkToSalarParameter=é“¾æ¥åˆ°æŠ¥è¡¨å‚æ•°
 
-dataset.editor.title.displayName=ÏÔÊ¾Ãû³Æ
+dataset.editor.title.displayName=æ˜¾ç¤ºåç§°
 
-dataset.editor.title.displayNameKey=ÏÔÊ¾Ãû³Æ¹Ø¼ü×Ö
+dataset.editor.title.displayNameKey=æ˜¾ç¤ºåç§°å…³é”®å­—
 
-dataset.editor.title.expression=±í´ïÊ½
+dataset.editor.title.expression=è¡¨è¾¾å¼
 
-dataset.editor.title.aggrFunc=¾ÛºÏ
+dataset.editor.title.aggrFunc=èšåˆ
 
-dataset.editor.title.aggrArgu=²ÎÊı(&R)
+dataset.editor.title.aggrArgu=å‚æ•°(&R)
 
-dataset.editor.title.filter=É¸Ñ¡Æ÷
+dataset.editor.title.filter=ç­›é€‰å™¨
 
-dataset.editor.title.helpText=°ïÖúÎÄ±¾
+dataset.editor.title.helpText=å¸®åŠ©æ–‡æœ¬
 
-dataset.editor.title.isInput=ÊäÈë
+dataset.editor.title.isInput=è¾“å…¥
 
-dataset.editor.title.isNullable=ÔÊĞí Null
+dataset.editor.title.isNullable=å…è®¸ Null
 
-dataset.editor.title.isOptional=¿ÉÑ¡
+dataset.editor.title.isOptional=å¯é€‰
 
-dataset.editor.title.isOutput=Êä³ö
+dataset.editor.title.isOutput=è¾“å‡º
 
-dataset.editor.title.name=Ãû³Æ
+dataset.editor.title.name=åç§°
 
-dataset.editor.title.nativeName=±¾µØÃû³Æ
+dataset.editor.title.nativeName=æœ¬åœ°åç§°
 
-dataset.editor.title.operator=ÔËËã·û
+dataset.editor.title.operator=è¿ç®—ç¬¦
 
-dataset.editor.title.type=ÀàĞÍ
+dataset.editor.title.type=ç±»å‹
 
-dataset.editor.title.value1=Öµ 1
+dataset.editor.title.value1=å€¼ 1
 
-dataset.editor.title.value2=Öµ 2
+dataset.editor.title.value2=å€¼ 2
 
-dataset.editor.inputDialog.displayName=ÏÔÊ¾Ãû³Æ(&D)
+dataset.editor.inputDialog.displayName=æ˜¾ç¤ºåç§°(&D)
 
-dataset.editor.inputDialog.displayNameKey=ÏÔÊ¾Ãû³Æ¹Ø¼ü×Ö(&K)
+dataset.editor.inputDialog.displayNameKey=æ˜¾ç¤ºåç§°å…³é”®å­—(&K)
 
-dataset.editor.inputDialog.name=Ãû³Æ(&N)
+dataset.editor.inputDialog.name=åç§°(&N)
 
-dataset.editor.inputDialog.nativeName=±¾µØÃû³Æ(&A):
+dataset.editor.inputDialog.nativeName=æœ¬åœ°åç§°(&A):
 
-dataset.editor.inputDialog.type=ÀàĞÍ(&T)
+dataset.editor.inputDialog.type=ç±»å‹(&T)
 
-dataset.editor.inputDialog.alias=±ğÃû(&A)
+dataset.editor.inputDialog.alias=åˆ«å(&A)
 
-dataset.editor.inputDialog.columnName=ÁĞÃû³Æ(&C)
+dataset.editor.inputDialog.columnName=åˆ—åç§°(&C)
 
-dataset.editor.inputDialog.dataType=Êı¾İÀàĞÍ(&T)
+dataset.editor.inputDialog.dataType=æ•°æ®ç±»å‹(&T)
 
-dataset.editor.inputDialog.expression=±í´ïÊ½(&E)
+dataset.editor.inputDialog.expression=è¡¨è¾¾å¼(&E)
 
-dataset.editor.inputDialog.aggrArgu=²ÎÊı(&R)
+dataset.editor.inputDialog.aggrArgu=å‚æ•°(&R)
 
-dataset.editor.inputDialog.aggrFunc=¾ÛºÏ(&G)
+dataset.editor.inputDialog.aggrFunc=èšåˆ(&G)
 
-dataset.editor.inputDialog.filter=É¸Ñ¡Æ÷(&F)
+dataset.editor.inputDialog.filter=ç­›é€‰å™¨(&F)
 
-dataset.editor.inputDialog.value1=Öµ 1(&1)
+dataset.editor.inputDialog.value1=å€¼ 1(&1)
 
-dataset.editor.inputDialog.value2=Öµ 2(&2)
+dataset.editor.inputDialog.value2=å€¼ 2(&2)
 
-dataset.editor.inputDialog.operator=ÔËËã·û(&O)
+dataset.editor.inputDialog.operator=è¿ç®—ç¬¦(&O)
 
-dataset.editor.inputDialog.defaultValue=Ä¬ÈÏÖµ(&V)
+dataset.editor.inputDialog.defaultValue=é»˜è®¤å€¼(&V)
 
-dataset.editor.inputDialog.direction=·½Ïò(&D)
+dataset.editor.inputDialog.direction=æ–¹å‘(&D)
 
-dataset.editor.historybar.backward=ºóÍË
+dataset.editor.historybar.backward=åé€€
 
-dataset.editor.historybar.forward=Ç°½ø
+dataset.editor.historybar.forward=å‰è¿›
 
-dataset.editor.historybar.to=µ½
+dataset.editor.historybar.to=åˆ°
 
-dataset.error.noDataSources=Ã»ÓĞ¿ÉÓÃµÄÊı¾İÔ´¡£ÊÇ·ñÒªÁ¢¼´Ìí¼ÓÊı¾İÔ´?
+dataset.error.noDataSources=æ²¡æœ‰å¯ç”¨çš„æ•°æ®æºã€‚æ˜¯å¦è¦ç«‹å³æ·»åŠ æ•°æ®æº?
 
-dataset.error.dataSourceMissing=È±ÉÙ´ËÊı¾İ¼¯µÄÊı¾İÔ´¡£
+dataset.error.dataSourceMissing=ç¼ºå°‘æ­¤æ•°æ®é›†çš„æ•°æ®æºã€‚
 
-dataset.error.title.noDataSources=ÎŞ¿ÉÓÃÊı¾İÔ´¡£
+dataset.error.title.noDataSources=æ— å¯ç”¨æ•°æ®æºã€‚
 
-dataset.message.create=´´½¨ĞÂÊı¾İ¼¯¡£
+dataset.message.create=åˆ›å»ºæ–°æ•°æ®é›†ã€‚
 
-dataset.new.defaultName=Êı¾İ¼¯
+dataset.new.defaultName=æ•°æ®é›†
 
-dataset.new=ĞÂ½¨Êı¾İ¼¯
+dataset.new=æ–°å»ºæ•°æ®é›†
 
-dataset.action.new=ĞÂ½¨Êı¾İ¼¯(&S)
+dataset.action.new=æ–°å»ºæ•°æ®é›†(&S)
 
-dataset.join.new=ĞÂ½¨Áª½ÓÊı¾İ¼¯
+dataset.join.new=æ–°å»ºè”æ¥æ•°æ®é›†
 
-dataset.action.join.new=ĞÂ½¨Áª½ÓÊı¾İ¼¯(&J)
+dataset.action.join.new=æ–°å»ºè”æ¥æ•°æ®é›†(&J)
 
-dataset.resultset.preview.tooltip=Ô¤ÀÀ²éÑ¯½á¹û¡£
+dataset.resultset.preview.tooltip=é¢„è§ˆæŸ¥è¯¢ç»“æœã€‚
 
-dataset.resultset.preview.promptMessage.recordsNum=¹²ÏÔÊ¾ {0} ¸ö¼ÇÂ¼¡£
+dataset.resultset.preview.promptMessage.recordsNum=å…±æ˜¾ç¤º {0} ä¸ªè®°å½•ã€‚
 
-dataset.resultset.preview.promptMessage.MoreRecordsExist=½á¹û°üº¬Î´ÏÔÊ¾µÄ¸ü¶à¼ÇÂ¼¡£
+dataset.resultset.preview.promptMessage.MoreRecordsExist=ç»“æœåŒ…å«æœªæ˜¾ç¤ºçš„æ›´å¤šè®°å½•ã€‚
 
-dataset.outputparameters.preview.tooltip=Ô¤ÀÀÊä³ö²ÎÊı¡£
+dataset.outputparameters.preview.tooltip=é¢„è§ˆè¾“å‡ºå‚æ•°ã€‚
 
-dataset.wizard.label.datasetName=Êı¾İ¼¯Ãû³Æ(&M):
+dataset.wizard.label.datasetName=æ•°æ®é›†åç§°(&M):
 
-dataset.wizard.label.datasetType=Êı¾İ¼¯ÀàĞÍ(&T):
+dataset.wizard.label.datasetType=æ•°æ®é›†ç±»å‹(&T):
 
-dataset.wizard.label.dataSource=Êı¾İÔ´(&S):
+dataset.wizard.label.dataSource=æ•°æ®æº(&S):
 
-dataSourceSelectionPage.title=ÓëÊı¾İÔ´Á´½Ó¡£
+dataSourceSelectionPage.title=ä¸æ•°æ®æºé“¾æ¥ã€‚
 
-dataset.error.title.noReportDesign=´íÎó
+dataset.error.title.noReportDesign=é”™è¯¯
 
-dataset.error.msg.noReportDesign=Ã»ÓĞ¿ÉÓÃµÄ±¨±íÉè¼Æ¡£
+dataset.error.msg.noReportDesign=æ²¡æœ‰å¯ç”¨çš„æŠ¥è¡¨è®¾è®¡ã€‚
 
-dataset.warning.invalidReponseStatus=×Ô¶¨Òå ODA Ò³ÃæÖĞµÄÉè¼ÆÏìÓ¦ÎŞĞ§¡£ODA Éè¼Æ»á»°ÏìÓ¦×´Ì¬: {0}¡£
+dataset.warning.invalidReponseStatus=è‡ªå®šä¹‰ ODA é¡µé¢ä¸­çš„è®¾è®¡å“åº”æ— æ•ˆã€‚ODA è®¾è®¡ä¼šè¯å“åº”çŠ¶æ€: {0}ã€‚
 
 ###########################################################
 #DataSetBasePage properties
-DataSetBasePage.tooltip=Ãû³Æ²»ÄÜÎª¿Õ¡£
+DataSetBasePage.tooltip=åç§°ä¸èƒ½ä¸ºç©ºã€‚
 
-DataSetBasePage.ScriptedDataSet.name=½Å±¾»¯Êı¾İ¼¯
+DataSetBasePage.ScriptedDataSet.name=è„šæœ¬åŒ–æ•°æ®é›†
 
-DataSetBasePage.ScriptedDataSource.name=½Å±¾»¯Êı¾İÔ´
+DataSetBasePage.ScriptedDataSource.name=è„šæœ¬åŒ–æ•°æ®æº
 
-DataSetBasePage.Group.DataSourceSelection=Êı¾İÔ´Ñ¡Ôñ
+DataSetBasePage.Group.DataSourceSelection=æ•°æ®æºé€‰æ‹©
 
-DataSetBasePage.CassandraScriptedDataSet.name=Cassandra ½Å±¾»¯Êı¾İ¼¯
+DataSetBasePage.CassandraScriptedDataSet.name=Cassandra è„šæœ¬åŒ–æ•°æ®é›†
 
-DataSetBasePage.CassandraScriptedDataSource.name=Cassandra ½Å±¾»¯Êı¾İÔ´
+DataSetBasePage.CassandraScriptedDataSource.name=Cassandra è„šæœ¬åŒ–æ•°æ®æº
 
-DataSetBindingSelector.Button.DeselectAll=È¡ÏûÈ«Ñ¡(&A)
+DataSetBindingSelector.Button.DeselectAll=å–æ¶ˆå…¨é€‰(&A)
 
-DataSetBindingSelector.Button.SelectAll=È«Ñ¡(&S)
+DataSetBindingSelector.Button.SelectAll=å…¨é€‰(&S)
 
-DataSetBindingSelector.Combo.DataSet=Êı¾İ¼¯(&D):
+DataSetBindingSelector.Combo.DataSet=æ•°æ®é›†(&D):
 
-DataSetBindingSelector.Label.SelectBindingColumns=ÇëÑ¡Ôñ°ó¶¨ÁĞ¡£
+DataSetBindingSelector.Label.SelectBindingColumns=è¯·é€‰æ‹©ç»‘å®šåˆ—ã€‚
 
-DataSetBindingSelectorPage.Label.SelectBindingColumns=ÇëÑ¡Ôñ°ó¶¨ÁĞ¡£
+DataSetBindingSelectorPage.Label.SelectBindingColumns=è¯·é€‰æ‹©ç»‘å®šåˆ—ã€‚
 
-DataSetBindingSelectorPage.Title=Êı¾İÉèÖÃ°ó¶¨
+DataSetBindingSelectorPage.Title=æ•°æ®è®¾ç½®ç»‘å®š
 
-CassandraScriptedDataSource.display.name=Cassandra ½Å±¾»¯Êı¾İÔ´
+CassandraScriptedDataSource.display.name=Cassandra è„šæœ¬åŒ–æ•°æ®æº
 
-CassandraScriptedDataSource.error.classNotFound=ÎŞ·¨ÕÒµ½ Hector ¿Í»§¶Ë¿â jar ÒÔÖ§³Ö Cassandra ½Å±¾»¯Êı¾İÔ´¡£
+CassandraScriptedDataSource.error.classNotFound=æ— æ³•æ‰¾åˆ° Hector å®¢æˆ·ç«¯åº“ jar ä»¥æ”¯æŒ Cassandra è„šæœ¬åŒ–æ•°æ®æºã€‚
 
 ###########################################################
 #JointDataSetPage properties
-JointDataSetPage.pageName=Áª½ÓÊı¾İ¼¯
+JointDataSetPage.pageName=è”æ¥æ•°æ®é›†
 
-JointDataSetPage.page.detail=´ÓÃ¿¶ËÑ¡ÔñÒ»¸öÊı¾İ¼¯ºÍÒ»¸öÁĞÒÔ¶¨ÒåÁª½Ó¡£
+JointDataSetPage.page.detail=ä»æ¯ç«¯é€‰æ‹©ä¸€ä¸ªæ•°æ®é›†å’Œä¸€ä¸ªåˆ—ä»¥å®šä¹‰è”æ¥ã€‚
 
-JointDataSetPage.button.innerJoin=ÄÚÁª½Ó(&I)
+JointDataSetPage.button.innerJoin=å†…è”æ¥(&I)
 
-JointDataSetPage.button.leftJoin=×óÍâÁª½Ó(&L)
+JointDataSetPage.button.leftJoin=å·¦å¤–è”æ¥(&L)
 
-JointDataSetPage.button.rightJoin=ÓÒÍâÁª½Ó(&R)
+JointDataSetPage.button.rightJoin=å³å¤–è”æ¥(&R)
 
-JointDataSetPage.button.fullJoin=ÍêÈ«Íâ²¿Áª½Ó(&O)
+JointDataSetPage.button.fullJoin=å®Œå…¨å¤–éƒ¨è”æ¥(&O)
 
-JointDataSetPage.joinType=Áª½ÓÀàĞÍ
+JointDataSetPage.joinType=è”æ¥ç±»å‹
 
-JointDataSetPage.error.nodataset.title=Î´ÕÒµ½Êı¾İ¼¯¡£
+JointDataSetPage.error.nodataset.title=æœªæ‰¾åˆ°æ•°æ®é›†ã€‚
 
-JointDataSetPage.error.nodataset.right=Î´ÕÒµ½ÓÒÊı¾İ¼¯¡£
+JointDataSetPage.error.nodataset.right=æœªæ‰¾åˆ°å³æ•°æ®é›†ã€‚
 
-JointDataSetPage.error.nodataset.left=Î´ÕÒµ½×óÊı¾İ¼¯¡£
+JointDataSetPage.error.nodataset.left=æœªæ‰¾åˆ°å·¦æ•°æ®é›†ã€‚
 
-JointDataSetPage.pageDescription=¶¨ÒåÁª½ÓÊı¾İ¼¯
+JointDataSetPage.pageDescription=å®šä¹‰è”æ¥æ•°æ®é›†
 
-JointDataSetPage.query=²éÑ¯
+JointDataSetPage.query=æŸ¥è¯¢
 
 ###########################################################
 #DerivedDataSet properties
-DerivedDataSet.action.error.message.NoDataSet=Î´ÕÒµ½¿ÉÓÃÊı¾İ¼¯¡£
+DerivedDataSet.action.error.message.NoDataSet=æœªæ‰¾åˆ°å¯ç”¨æ•°æ®é›†ã€‚
 
-DerivedDataSet.action.error.title.createDerivedDataSet=´´½¨ÑÜÉúÊı¾İ¼¯Ê±³ö´í
+DerivedDataSet.action.error.title.createDerivedDataSet=åˆ›å»ºè¡ç”Ÿæ•°æ®é›†æ—¶å‡ºé”™
 
-DerivedDataSet.action.error.message.InvalidNumber.DataSet=¿ÉÓÃµÄÊı¾İ¼¯ÊıÉÙÓÚÁ½¸ö¡£
+DerivedDataSet.action.error.message.InvalidNumber.DataSet=å¯ç”¨çš„æ•°æ®é›†æ•°å°‘äºä¸¤ä¸ªã€‚
 
 ###########################################################
 #DataSetComputedColumnsPage properties
-DataSetComputedColumnsPage.ComputedColumns.Tooltip=¶¨Òå¼ÆËãÁĞ¡£
+DataSetComputedColumnsPage.ComputedColumns.Tooltip=å®šä¹‰è®¡ç®—åˆ—ã€‚
 
-DataSetComputedColumnsPage.description=¶¨Òå¼ÆËãÁĞ
+DataSetComputedColumnsPage.description=å®šä¹‰è®¡ç®—åˆ—
 
-DataSetComputedColumnsPage.duplicatedName=ÖØ¸´µÄÁĞÃû³Æ¡£
+DataSetComputedColumnsPage.duplicatedName=é‡å¤çš„åˆ—åç§°ã€‚
 
-DataSetComputedColumnsPage.numberName=ÁĞÃû³Æ²»ÄÜÊÇÊı×Ö¡£
+DataSetComputedColumnsPage.numberName=åˆ—åç§°ä¸èƒ½æ˜¯æ•°å­—ã€‚
 
-DataSetComputedColumnsPage.toolTipText.Down=¼ÆËãÁĞÏÂÒÆ¡£
+DataSetComputedColumnsPage.toolTipText.Down=è®¡ç®—åˆ—ä¸‹ç§»ã€‚
 
-DataSetComputedColumnsPage.toolTipText.Up=¼ÆËãÁĞÉÏÒÆ¡£
+DataSetComputedColumnsPage.toolTipText.Up=è®¡ç®—åˆ—ä¸Šç§»ã€‚
 
-DataSetComputedColumnsPage.toolTipText.Remove=É¾³ı¼ÆËãÁĞ¡£
+DataSetComputedColumnsPage.toolTipText.Remove=åˆ é™¤è®¡ç®—åˆ—ã€‚
 
-DataSetComputedColumnsPage.toolTipText.New=ĞÂ½¨¼ÆËãÁĞ¡£
+DataSetComputedColumnsPage.toolTipText.New=æ–°å»ºè®¡ç®—åˆ—ã€‚
 
-DataSetComputedColumnsPage.toolTipText.Edit=±à¼­¼ÆËãÁĞ¡£
+DataSetComputedColumnsPage.toolTipText.Edit=ç¼–è¾‘è®¡ç®—åˆ—ã€‚
 
-DataSetComputedColumnsPage.InputDialog.title.New=ĞÂ½¨¼ÆËãÁĞ
+DataSetComputedColumnsPage.InputDialog.title.New=æ–°å»ºè®¡ç®—åˆ—
 
-DataSetComputedColumnsPage.InputDialog.title.Edit=±à¼­¼ÆËãÁĞ
+DataSetComputedColumnsPage.InputDialog.title.Edit=ç¼–è¾‘è®¡ç®—åˆ—
 
-DataSetComputedColumnsPage.InputDialog.message.error.AggregationExpression=¾ÛºÏ±í´ïÊ½²»ÄÜ°üº¬¾ÛºÏ¼ÆËãÁĞ!
+DataSetComputedColumnsPage.InputDialog.message.error.AggregationExpression=èšåˆè¡¨è¾¾å¼ä¸èƒ½åŒ…å«èšåˆè®¡ç®—åˆ—!
 
-DataSetComputedColumnsPage.title.ComputedColumnInputDialog=¼ÆËãÁĞ
+DataSetComputedColumnsPage.title.ComputedColumnInputDialog=è®¡ç®—åˆ—
 
 ###########################################################
 #DataSetFiltersPage properties
-DataSetFiltersPage.description=¶¨ÒåÉ¸Ñ¡Æ÷:
+DataSetFiltersPage.description=å®šä¹‰ç­›é€‰å™¨:
 
-DataSetFiltersPage.exception.msg.operator.notSupport=²»Ö§³Ö´ËÔËËã·û:
+DataSetFiltersPage.exception.msg.operator.notSupport=ä¸æ”¯æŒæ­¤è¿ç®—ç¬¦:
 
-DataSetFiltersPage.Filter.Tooltip=Ê¹ÓÃ BIRT ±í´ïÊ½É¸Ñ¡Êı¾İĞĞ¡£
+DataSetFiltersPage.Filter.Tooltip=ä½¿ç”¨ BIRT è¡¨è¾¾å¼ç­›é€‰æ•°æ®è¡Œã€‚
 
-DataSetFiltersPage.toolTipText.Down=É¸Ñ¡Æ÷ÏÂÒÆ¡£
+DataSetFiltersPage.toolTipText.Down=ç­›é€‰å™¨ä¸‹ç§»ã€‚
 
-DataSetFiltersPage.toolTipText.Up=É¸Ñ¡Æ÷ÉÏÒÆ¡£
+DataSetFiltersPage.toolTipText.Up=ç­›é€‰å™¨ä¸Šç§»ã€‚
 
-DataSetFiltersPage.toolTipText.Remove=É¾³ıÉ¸Ñ¡Æ÷¡£
+DataSetFiltersPage.toolTipText.Remove=åˆ é™¤ç­›é€‰å™¨ã€‚
 
-DataSetFiltersPage.toolTipText.New=ĞÂ½¨É¸Ñ¡Æ÷¡£
+DataSetFiltersPage.toolTipText.New=æ–°å»ºç­›é€‰å™¨ã€‚
 
-DataSetFiltersPage.toolTipText.Edit=±à¼­É¸Ñ¡Æ÷¡£
+DataSetFiltersPage.toolTipText.Edit=ç¼–è¾‘ç­›é€‰å™¨ã€‚
 
-DataSetFiltersPage.title.FilterInputDialog=É¸Ñ¡Æ÷
+DataSetFiltersPage.title.FilterInputDialog=ç­›é€‰å™¨
 
-DataSetFiltersPage.messages.selectVauleUnavailable=ÖµÁĞ±í¶Ô¸ø¶¨µÄ±í´ïÊ½²»¿ÉÓÃ¡£
+DataSetFiltersPage.messages.selectVauleUnavailable=å€¼åˆ—è¡¨å¯¹ç»™å®šçš„è¡¨è¾¾å¼ä¸å¯ç”¨ã€‚
 
-DataSetFiltersPage.DynamicFilter.DynamicParameter.NotFound=¶¯Ì¬É¸Ñ¡Æ÷µÄÁ´½Ó¶¯Ì¬²ÎÊı¡°{0}¡±²»´æÔÚ!
+DataSetFiltersPage.DynamicFilter.DynamicParameter.NotFound=åŠ¨æ€ç­›é€‰å™¨çš„é“¾æ¥åŠ¨æ€å‚æ•°â€œ{0}â€ä¸å­˜åœ¨!
 
 ###########################################################
 #DataSetNodeProvider properties
-DataSetNodeProvider.menu.text=±à¼­(&E)
+DataSetNodeProvider.menu.text=ç¼–è¾‘(&E)
 
 ###########################################################
 #DataSetParametersPage properties
-DataSetParametersPage.description=¶¨ÒåÊäÈë²ÎÊı:
+DataSetParametersPage.description=å®šä¹‰è¾“å…¥å‚æ•°:
 
-DataSetParametersPage.Filter.Tooltip=½«²ÎÊı´«Èë»ò´«³öÊı¾İ¼¯¡£
+DataSetParametersPage.Filter.Tooltip=å°†å‚æ•°ä¼ å…¥æˆ–ä¼ å‡ºæ•°æ®é›†ã€‚
 
-DataSetParameterBindingInputDialog.Title=±à¼­Êı¾İ¼¯²ÎÊı°ó¶¨
+DataSetParameterBindingInputDialog.Title=ç¼–è¾‘æ•°æ®é›†å‚æ•°ç»‘å®š
 
-DataSetParametersPage.ErrorTitle.InvalidInput=ÎŞĞ§ÊäÈë¡£
+DataSetParametersPage.ErrorTitle.InvalidInput=æ— æ•ˆè¾“å…¥ã€‚
 
-DataSetParameterBindingInputDialog.Label.Name=²ÎÊıÃû³Æ:
+DataSetParameterBindingInputDialog.Label.Name=å‚æ•°åç§°:
 
-DataSetParametersPage.ErrorMessage.CanootBeNull=¸ÃÖµ²»ÄÜÎª null¡£
+DataSetParametersPage.ErrorMessage.CanootBeNull=è¯¥å€¼ä¸èƒ½ä¸º nullã€‚
 
-DataSetParameterBindingInputDialog.Title.NewParameter=ĞÂ½¨²ÎÊı
+DataSetParameterBindingInputDialog.Title.NewParameter=æ–°å»ºå‚æ•°
 
-DataSetParameterBindingInputDialog.Title.EditParameter=±à¼­²ÎÊı
+DataSetParameterBindingInputDialog.Title.EditParameter=ç¼–è¾‘å‚æ•°
 
-DataSetParameterBindingInputDialog.Label.DataType=Êı¾İÀàĞÍ:
+DataSetParameterBindingInputDialog.Label.DataType=æ•°æ®ç±»å‹:
 
-DataSetParameterBindingInputDialog.Label.Value=Öµ(&V):
+DataSetParameterBindingInputDialog.Label.Value=å€¼(&V):
 
-DataSetParametersPage.ParameterButton.Tooltip.Edit=±à¼­±¨±í²ÎÊı
+DataSetParametersPage.ParameterButton.Tooltip.Edit=ç¼–è¾‘æŠ¥è¡¨å‚æ•°
 
-DataSetParametersPage.ParameterButton.Tooltip.New=ĞÂ½¨±¨±í²ÎÊı
+DataSetParametersPage.ParameterButton.Tooltip.New=æ–°å»ºæŠ¥è¡¨å‚æ•°
 
-DataSetParametersPage.Prompt.new=<´Ë´¦ÎªĞÂ²ÎÊı...>
+DataSetParametersPage.Prompt.new=<æ­¤å¤„ä¸ºæ–°å‚æ•°...>
 
 DataSetParametersPage.default.None=N/A
-DataSetParametersPage.reportParam.None=ÎŞ
+DataSetParametersPage.reportParam.None=æ— 
 
-DataSetParametersPage.errorMessage.LinkedReportParamNotFound=Êı¾İ¼¯²ÎÊı¡°{1}¡±µÄÁ´½Ó±¨±í²ÎÊı¡°{0}¡±ÏÖÔÚ²»´æÔÚ¡£
+DataSetParametersPage.errorMessage.LinkedReportParamNotFound=æ•°æ®é›†å‚æ•°â€œ{1}â€çš„é“¾æ¥æŠ¥è¡¨å‚æ•°â€œ{0}â€ç°åœ¨ä¸å­˜åœ¨ã€‚
 
-DataSetParametersPage.errorMessage.InvalidType.LinkedReportParam=Èç¹ûÓÃ»§Îª±¨±í²ÎÊıÉèÖÃ¶à¸öÖµ£¬ÔòÊı¾İ¼¯²ÎÊı½öÊ¹ÓÃµÚÒ»¸öÖµ¡£
+DataSetParametersPage.errorMessage.InvalidType.LinkedReportParam=å¦‚æœç”¨æˆ·ä¸ºæŠ¥è¡¨å‚æ•°è®¾ç½®å¤šä¸ªå€¼ï¼Œåˆ™æ•°æ®é›†å‚æ•°ä»…ä½¿ç”¨ç¬¬ä¸€ä¸ªå€¼ã€‚
 
-DataSetParameterPage.cell.linkToSalarParameter=Á´½Óµ½±¨±í²ÎÊı(&L)
+DataSetParameterPage.cell.linkToSalarParameter=é“¾æ¥åˆ°æŠ¥è¡¨å‚æ•°(&L)
 
-DataSetParameterPage.title.ParameterInputDialog=²ÎÊı
+DataSetParameterPage.title.ParameterInputDialog=å‚æ•°
 
-DataSetParameterPage.toolTipText.New=ĞÂ½¨²ÎÊı
+DataSetParameterPage.toolTipText.New=æ–°å»ºå‚æ•°
 
-DataSetParameterPage.toolTipText.Edit=±à¼­²ÎÊı
+DataSetParameterPage.toolTipText.Edit=ç¼–è¾‘å‚æ•°
 
-DataSetParameterPage.toolTipText.Remove=É¾³ı²ÎÊı
+DataSetParameterPage.toolTipText.Remove=åˆ é™¤å‚æ•°
 
-DataSetParameterPage.toolTipText.Up=²ÎÊıÉÏÒÆ
+DataSetParameterPage.toolTipText.Up=å‚æ•°ä¸Šç§»
 
-DataSetParameterPage.toolTipText.Down=²ÎÊıÏÂÒÆ
+DataSetParameterPage.toolTipText.Down=å‚æ•°ä¸‹ç§»
 
-DataSetParameterPage.WarningMessage.updatePosition=Ä³Ğ©»òËùÓĞÊı¾İ¼¯²ÎÊı¾ßÓĞÎŞĞ§µÄÎ»ÖÃÖµ¡£ÕıÔÚ¸ù¾İÆäĞòÁĞ¸üĞÂÆäÎ»ÖÃ¡£
+DataSetParameterPage.WarningMessage.updatePosition=æŸäº›æˆ–æ‰€æœ‰æ•°æ®é›†å‚æ•°å…·æœ‰æ— æ•ˆçš„ä½ç½®å€¼ã€‚æ­£åœ¨æ ¹æ®å…¶åºåˆ—æ›´æ–°å…¶ä½ç½®ã€‚
 
-DataSetParameterPage.warning.UnmatchedParamDataType=Êı¾İ¼¯ÀàĞÍÓëÁ´½ÓµÄ±¨±í²ÎÊıÀàĞÍ²»Æ¥Åä¡£
+DataSetParameterPage.warning.UnmatchedParamDataType=æ•°æ®é›†ç±»å‹ä¸é“¾æ¥çš„æŠ¥è¡¨å‚æ•°ç±»å‹ä¸åŒ¹é…ã€‚
 
-DataSetParameterPage.multiValuesType=¶àÖµÀàĞÍ
+DataSetParameterPage.multiValuesType=å¤šå€¼ç±»å‹
 
-DataSetParameterPage.warningLinkedMultipleValuesParams.title=¾¯¸æ¶Ô»°¿ò
+DataSetParameterPage.warningLinkedMultipleValuesParams.title=è­¦å‘Šå¯¹è¯æ¡†
 
-DataSetParameterPage.updateReportParameter.title=±¨±í²ÎÊı¸üĞÂÉèÖÃ
+DataSetParameterPage.updateReportParameter.title=æŠ¥è¡¨å‚æ•°æ›´æ–°è®¾ç½®
 
-DataSetParameterPage.updateReportParameter.message=ÊÇ·ñÒªÊ¹ÓÃÊı¾İ¼¯²ÎÊıµÄÉèÖÃÀ´¸üĞÂÁ´½Ó±¨±í²ÎÊı?
+DataSetParameterPage.updateReportParameter.message=æ˜¯å¦è¦ä½¿ç”¨æ•°æ®é›†å‚æ•°çš„è®¾ç½®æ¥æ›´æ–°é“¾æ¥æŠ¥è¡¨å‚æ•°?
 
-DataSetParameterPage.updateReportParameter.promptButtonYes=ÊÇ
+DataSetParameterPage.updateReportParameter.promptButtonYes=æ˜¯
 
-DataSetParameterPage.updateReportParameter.promptButtonNo=·ñ
+DataSetParameterPage.updateReportParameter.promptButtonNo=å¦
 
-DataSetParameterPage.updateReportParameter.propmtText=¼Ç×¡ÎÒµÄ¾ö¶¨
+DataSetParameterPage.updateReportParameter.propmtText=è®°ä½æˆ‘çš„å†³å®š
 
-PromptParameterDialog.title=È·ÈÏ¸üĞÂÉè¼ÆÊôĞÔ
+PromptParameterDialog.title=ç¡®è®¤æ›´æ–°è®¾è®¡å±æ€§
 
-PromptParameterDialog.okButton.text=Ó¦ÓÃ
+PromptParameterDialog.okButton.text=åº”ç”¨
 
-PromptParameterDialog.parameterGroup.title=²ÎÊıÉè¼ÆÊôĞÔ
+PromptParameterDialog.parameterGroup.title=å‚æ•°è®¾è®¡å±æ€§
 
-PromptParameterDialog.parameterGroup.label=Ê¹ÓÃÒÑ±à¼­Êı¾İ¼¯Éè¼ÆĞŞ¶©ºóµÄÊôĞÔÖµ¸üĞÂËùÑ¡²ÎÊı¡£
+PromptParameterDialog.parameterGroup.label=ä½¿ç”¨å·²ç¼–è¾‘æ•°æ®é›†è®¾è®¡ä¿®è®¢åçš„å±æ€§å€¼æ›´æ–°æ‰€é€‰å‚æ•°ã€‚
 
-PromptParameterDialog.parameterGroup.nameColumn=Ãû³Æ
+PromptParameterDialog.parameterGroup.nameColumn=åç§°
 
-PromptParameterDialog.parameterGroup.previousValue=ÒÔÇ°µÄÖµ
+PromptParameterDialog.parameterGroup.previousValue=ä»¥å‰çš„å€¼
 
-PromptParameterDialog.parameterGroup.revisedValue=ĞŞ¶©ºóµÄÖµ
+PromptParameterDialog.parameterGroup.revisedValue=ä¿®è®¢åçš„å€¼
 
 ###########################################################
 #PropertyBindingpage properties
-PropertyBindingPage.datasource.property.empty=ODA À©Õ¹Ã»ÓĞÎª´ËÊı¾İÔ´¶¨Òå¹«¹²ÊôĞÔ¡£
+PropertyBindingPage.datasource.property.empty=ODA æ‰©å±•æ²¡æœ‰ä¸ºæ­¤æ•°æ®æºå®šä¹‰å…¬å…±å±æ€§ã€‚
 
-PropertyBindingPage.dataset.property.empty=ODA À©Õ¹Ã»ÓĞÎª´ËÊı¾İ¼¯¶¨Òå¹«¹²ÊôĞÔ¡£
+PropertyBindingPage.dataset.property.empty=ODA æ‰©å±•æ²¡æœ‰ä¸ºæ­¤æ•°æ®é›†å®šä¹‰å…¬å…±å±æ€§ã€‚
 
-PropertyBindingPage.dataset.queryText=²éÑ¯ÎÄ±¾(&T)
+PropertyBindingPage.dataset.queryText=æŸ¥è¯¢æ–‡æœ¬(&T)
 
-PropertyBindingPage.property.tooltip=ÎªÔËĞĞÊ±¶¨ÒåÊôĞÔ°ó¶¨¡£
+PropertyBindingPage.property.tooltip=ä¸ºè¿è¡Œæ—¶å®šä¹‰å±æ€§ç»‘å®šã€‚
 
-PropertyBindingPage.button.tooltip=´ò¿ª±í´ïÊ½Éú³ÉÆ÷ÒÔÊäÈë {0} Öµ¡£
+PropertyBindingPage.button.tooltip=æ‰“å¼€è¡¨è¾¾å¼ç”Ÿæˆå™¨ä»¥è¾“å…¥ {0} å€¼ã€‚
 
 PropertyBindingPage.label.colon=:
 PropertyBindingPage.label.LeftParenthesis=(
@@ -1157,4329 +1157,4329 @@ PropertyBindingPage.label.RightParenthesis=)
 
 ###########################################################
 #DataSetProcess properties
-DataSetProcess.action.Delete=É¾³ıÊı¾İ¼¯
+DataSetProcess.action.Delete=åˆ é™¤æ•°æ®é›†
 
-DataSetProcess.action.Edit=±à¼­Êı¾İ¼¯
+DataSetProcess.action.Edit=ç¼–è¾‘æ•°æ®é›†
 
-DataSetProcess.action.Preview=Ô¤ÀÀ
+DataSetProcess.action.Preview=é¢„è§ˆ
 
-DataSetProcess.text.DisplayName=Êı¾İ¼¯
+DataSetProcess.text.DisplayName=æ•°æ®é›†
 
-DataSetProcess.text.Prefix=ÒÔÏÂÊı¾İ¼¯Ê¹ÓÃ´ËÊı¾İÔ´:
+DataSetProcess.text.Prefix=ä»¥ä¸‹æ•°æ®é›†ä½¿ç”¨æ­¤æ•°æ®æº:
 
-DataSetProcess.text.Show=ÏÔÊ¾¸ÃÊı¾İ¼¯µÄÊı¾İ¼¯±à¼­Æ÷Ò³¡£
+DataSetProcess.text.Show=æ˜¾ç¤ºè¯¥æ•°æ®é›†çš„æ•°æ®é›†ç¼–è¾‘å™¨é¡µã€‚
 
-DataSetProcess.text.Suffix=ÊÇ·ñÈ·¶¨É¾³ı´ËÔªËØ£¿
+DataSetProcess.text.Suffix=æ˜¯å¦ç¡®å®šåˆ é™¤æ­¤å…ƒç´ ï¼Ÿ
 
 ###########################################################
 #datasource properties
-datasource.action.edit=±à¼­(&E)
+datasource.action.edit=ç¼–è¾‘(&E)
 
-datasource.edit=±à¼­Êı¾İÔ´ - {0}
+datasource.edit=ç¼–è¾‘æ•°æ®æº - {0}
 
-datasource.new.defaultName=Êı¾İÔ´
+datasource.new.defaultName=æ•°æ®æº
 
-datasource.new=ĞÂ½¨Êı¾İÔ´
+datasource.new=æ–°å»ºæ•°æ®æº
 
-datasource.action.new=ĞÂ½¨Êı¾İÔ´(&S)
+datasource.action.new=æ–°å»ºæ•°æ®æº(&S)
 
-datasource.wizard.label.dataSourceName=Êı¾İÔ´Ãû³Æ(&M):
+datasource.wizard.label.dataSourceName=æ•°æ®æºåç§°(&M):
 
-datasource.wizard.label.datasources=¸ù¾İÒÔÏÂÁĞ±íÖĞµÄÊı¾İÔ´ÀàĞÍ´´½¨(&D)
+datasource.wizard.label.datasources=æ ¹æ®ä»¥ä¸‹åˆ—è¡¨ä¸­çš„æ•°æ®æºç±»å‹åˆ›å»º(&D)
 
-datasource.wizard.label.connectionfile=¸ù¾İÅäÖÃÎÄ¼ş´æ´¢ÖĞµÄÁ¬½ÓÅäÖÃÎÄ¼ş´´½¨(&C)
+datasource.wizard.label.connectionfile=æ ¹æ®é…ç½®æ–‡ä»¶å­˜å‚¨ä¸­çš„è¿æ¥é…ç½®æ–‡ä»¶åˆ›å»º(&C)
 
-datasource.wizard.message.selectType=ÎªĞÂÊı¾İÔ´Ìá¹©ËùÓĞÉèÖÃ£¬»òÑ¡ÔñÔ¤¶¨ÒåµÄÁ¬½ÓÅäÖÃÎÄ¼ş¡£
+datasource.wizard.message.selectType=ä¸ºæ–°æ•°æ®æºæä¾›æ‰€æœ‰è®¾ç½®ï¼Œæˆ–é€‰æ‹©é¢„å®šä¹‰çš„è¿æ¥é…ç½®æ–‡ä»¶ã€‚
 
-datasource.wizard.title.select=Ñ¡ÔñÊı¾İÔ´ÀàĞÍ£¬»òÑ¡ÔñÁ¬½ÓÅäÖÃÎÄ¼ş¡£
+datasource.wizard.title.select=é€‰æ‹©æ•°æ®æºç±»å‹ï¼Œæˆ–é€‰æ‹©è¿æ¥é…ç½®æ–‡ä»¶ã€‚
 
-datasource.editor.property=ÊôĞÔ°ó¶¨
+datasource.editor.property=å±æ€§ç»‘å®š
 
-datasource.editor.duplicatedName=Êı¾İÔ´Ãû³Æ¡°{0}¡±ÖØ¸´¡£
+datasource.editor.duplicatedName=æ•°æ®æºåç§°â€œ{0}â€é‡å¤ã€‚
 
-datasource.error.title.noReportDesign=´íÎó
+datasource.error.title.noReportDesign=é”™è¯¯
 
-datasource.error.msg.noReportDesign=Ã»ÓĞ¿ÉÓÃµÄ±¨±íÉè¼Æ¡£
+datasource.error.msg.noReportDesign=æ²¡æœ‰å¯ç”¨çš„æŠ¥è¡¨è®¾è®¡ã€‚
 
-datasource.exprotToCP.title=µ¼³ö
+datasource.exprotToCP.title=å¯¼å‡º
 
-datasource.exportToCP.message=ÄúÕıÔÚ½«¡°{0}¡±µ¼³öµ½Êı¾İÔ´×ÊÔ´¹ÜÀíÆ÷¡£
+datasource.exportToCP.message=æ‚¨æ­£åœ¨å°†â€œ{0}â€å¯¼å‡ºåˆ°æ•°æ®æºèµ„æºç®¡ç†å™¨ã€‚
 
-datasource.exportToCP.checkBox=Îªµ¼³öµÄÊı¾İÔ´´´½¨Á¬½ÓÅäÖÃÎÄ¼ş´æ´¢(&C)¡£
+datasource.exportToCP.checkBox=ä¸ºå¯¼å‡ºçš„æ•°æ®æºåˆ›å»ºè¿æ¥é…ç½®æ–‡ä»¶å­˜å‚¨(&C)ã€‚
 
-datasource.exportToCP.externalCheckBox=Ê¹ÓÃÊı¾İÔ´ÖĞÍâ²¿»¯µÄÁ¬½ÓÅäÖÃÎÄ¼ş(&U)¡£
+datasource.exportToCP.externalCheckBox=ä½¿ç”¨æ•°æ®æºä¸­å¤–éƒ¨åŒ–çš„è¿æ¥é…ç½®æ–‡ä»¶(&U)ã€‚
 
-datasource.exportToCP.label.specifyName=Á¬½ÓÅäÖÃÎÄ¼şÃû³Æ(&E):
+datasource.exportToCP.label.specifyName=è¿æ¥é…ç½®æ–‡ä»¶åç§°(&E):
 
-datasource.exportToCP.errorBox.button.OK=È·¶¨
+datasource.exportToCP.errorBox.button.OK=ç¡®å®š
 
-datasource.exportToCP.error.emptyFileName=±ØĞëÖ¸¶¨Ò»¸ö·Ç¿ÕÁ¬½ÓÅäÖÃÎÄ¼şÃû³Æ!
+datasource.exportToCP.error.emptyFileName=å¿…é¡»æŒ‡å®šä¸€ä¸ªéç©ºè¿æ¥é…ç½®æ–‡ä»¶åç§°!
 
-datasource.exportToCP.error.invalidFileName=Ö¸¶¨µÄÁ¬½ÓÅäÖÃÎÄ¼şÃû³Æ°üº¬ÎŞĞ§×Ö·û!
+datasource.exportToCP.error.invalidFileName=æŒ‡å®šçš„è¿æ¥é…ç½®æ–‡ä»¶åç§°åŒ…å«æ— æ•ˆå­—ç¬¦!
 
-datasource.exportToCP.error.duplicatedFileName=¸ÃÁ¬½ÓÅäÖÃÎÄ¼şÃû³ÆÒÑ´æÔÚ!
+datasource.exportToCP.error.duplicatedFileName=è¯¥è¿æ¥é…ç½®æ–‡ä»¶åç§°å·²å­˜åœ¨!
 
-datasource.exportToCP.error.alreadyExported=Êı¾İÔ´¡°{0}¡±ÒÑ¾­Î´Íâ²¿»¯ÆäÊôĞÔ¡£
+datasource.exportToCP.error.alreadyExported=æ•°æ®æºâ€œ{0}â€å·²ç»æœªå¤–éƒ¨åŒ–å…¶å±æ€§ã€‚
 
 
 ###########################################################
 #DataSourceProcess properties
-DataSourceProcess.action.Delete=É¾³ıÊı¾İÔ´
+DataSourceProcess.action.Delete=åˆ é™¤æ•°æ®æº
 
-DataSourceProcess.action.Edit=±à¼­Êı¾İÔ´
+DataSourceProcess.action.Edit=ç¼–è¾‘æ•°æ®æº
 
 DataSourceProcess.text.DisplayName=DataSource
-DataSourceProcess.text.Prefix=ÒÔÏÂÊı¾İ¼¯Ê¹ÓÃ´ËÊı¾İÔ´
+DataSourceProcess.text.Prefix=ä»¥ä¸‹æ•°æ®é›†ä½¿ç”¨æ­¤æ•°æ®æº
 
-DataSourceProcess.text.Show=ÏÔÊ¾Êı¾İÔ´±à¼­Æ÷Ò³
+DataSourceProcess.text.Show=æ˜¾ç¤ºæ•°æ®æºç¼–è¾‘å™¨é¡µ
 
-DataSourceProcess.text.Suffix=ÊÇ·ñÈ·¶¨É¾³ı´ËÔªËØ£¿
+DataSourceProcess.text.Suffix=æ˜¯å¦ç¡®å®šåˆ é™¤æ­¤å…ƒç´ ï¼Ÿ
 
 ###########################################################
 #DataSourceSelectionPage properties
-DataSourceSelectionPage.ScriptDataSource.DisplayName=½Å±¾»¯Êı¾İÔ´
+DataSourceSelectionPage.ScriptDataSource.DisplayName=è„šæœ¬åŒ–æ•°æ®æº
 
 ###########################################################
 #DataSourcesSlotOutlineProcess properties
-DataSourcesSlotOutlineProcess.action.New=ĞÂ½¨Êı¾İÔ´
+DataSourcesSlotOutlineProcess.action.New=æ–°å»ºæ•°æ®æº
 
 ###########################################################
 #datatypes properties
-datatypes.any=ÈÎºÎ
+datatypes.any=ä»»ä½•
 
-datatypes.auto=×Ô¶¯
+datatypes.auto=è‡ªåŠ¨
 
-datatypes.dateTime=ÈÕÆÚÊ±¼ä
+datatypes.dateTime=æ—¥æœŸæ—¶é—´
 
-datatypes.decimal=Ğ¡Êı
+datatypes.decimal=å°æ•°
 
-datatypes.float=¸¡µã
+datatypes.float=æµ®ç‚¹
 
-datatypes.integer=ÕûĞÍ
+datatypes.integer=æ•´å‹
 
-datatypes.string=×Ö·û´®
+datatypes.string=å­—ç¬¦ä¸²
 
 ###########################################################
 #DataView properties
-DataView.defaultText.noDataView=Êı¾İÊÓÍ¼²»¿ÉÓÃ
+DataView.defaultText.noDataView=æ•°æ®è§†å›¾ä¸å¯ç”¨
 
 ###########################################################
 #DataViewTreeViewerPage properties
-DataViewTreeViewerPage.tooltip.DoubleClickToEdit=Ë«»÷ÒÔ½øĞĞ±à¼­
+DataViewTreeViewerPage.tooltip.DoubleClickToEdit=åŒå‡»ä»¥è¿›è¡Œç¼–è¾‘
 
-DataViewTreeViewerPage.tooltip.DragToInsertColumn=ÍÏ¶¯²åÈëÁĞ
+DataViewTreeViewerPage.tooltip.DragToInsertColumn=æ‹–åŠ¨æ’å…¥åˆ—
 
-DataViewTreeViewerPage.tooltip.DragToInsertDataSetColumns=ÍÏ¶¯ÒÔ²åÈëËùÓĞÊı¾İ¼¯ÁĞ
+DataViewTreeViewerPage.tooltip.DragToInsertDataSetColumns=æ‹–åŠ¨ä»¥æ’å…¥æ‰€æœ‰æ•°æ®é›†åˆ—
 
-DataViewTreeViewerPage.tooltip.DragToInsertParameter=ÍÏ¶¯ÒÔ²åÈë±¨±í²ÎÊı;
+DataViewTreeViewerPage.tooltip.DragToInsertParameter=æ‹–åŠ¨ä»¥æ’å…¥æŠ¥è¡¨å‚æ•°;
 
 ###########################################################
 #DebugUtil properties
-DebugUtil.importProject.fail="µ¼ÈëÏÖÓĞÏîÄ¿Ê§°Ü¡£"
+DebugUtil.importProject.fail="å¯¼å…¥ç°æœ‰é¡¹ç›®å¤±è´¥ã€‚"
 
 ###########################################################
 #DecorationFieldEditor properties
-DecorationFieldEditor.text.Linethrough=É¾³ıÏß
+DecorationFieldEditor.text.Linethrough=åˆ é™¤çº¿
 
-DecorationFieldEditor.text.Overline=ÉÏ»®Ïß
+DecorationFieldEditor.text.Overline=ä¸Šåˆ’çº¿
 
-DecorationFieldEditor.text.Underline=ÏÂ»®Ïß
+DecorationFieldEditor.text.Underline=ä¸‹åˆ’çº¿
 
 ###########################################################
 #DefaultNodeProvider properties
-DefaultNodeProvider.Dlg.Confirm=µ¥»÷¡°ÊÇ¡±¼ÌĞøÉ¾³ı {0}¡£ ·ñÔò£¬µ¥»÷¡°·ñ¡±
+DefaultNodeProvider.Dlg.Confirm=å•å‡»â€œæ˜¯â€ç»§ç»­åˆ é™¤ {0}ã€‚ å¦åˆ™ï¼Œå•å‡»â€œå¦â€
 
-DefaultNodeProvider.ParameterGroup.ConfirmMessage=Äú¼´½«É¾³ı²ÎÊı×é¡£Èç¹ûÄúÒªÉ¾³ı²ÎÊı×é£¬½«»áÉ¾³ı¸Ã×éÄÚµÄËùÓĞ²ÎÊı¡£ÊÇ·ñ¼ÌĞø£¿
+DefaultNodeProvider.ParameterGroup.ConfirmMessage=æ‚¨å³å°†åˆ é™¤å‚æ•°ç»„ã€‚å¦‚æœæ‚¨è¦åˆ é™¤å‚æ•°ç»„ï¼Œå°†ä¼šåˆ é™¤è¯¥ç»„å†…çš„æ‰€æœ‰å‚æ•°ã€‚æ˜¯å¦ç»§ç»­ï¼Ÿ
 
-DefaultNodeProvider.ParameterGroup.ConfirmTitle=È·ÈÏ²ÎÊı×éÉ¾³ı
+DefaultNodeProvider.ParameterGroup.ConfirmTitle=ç¡®è®¤å‚æ•°ç»„åˆ é™¤
 
-DefaultNodeProvider.Tree.Body=ÕıÎÄ
+DefaultNodeProvider.Tree.Body=æ­£æ–‡
 
-DefaultNodeProvider.Tree.Clients={0} ±»ÒÔÏÂÔªËØÊ¹ÓÃ
+DefaultNodeProvider.Tree.Clients={0} è¢«ä»¥ä¸‹å…ƒç´ ä½¿ç”¨
 
-DefaultNodeProvider.Tree.ColumnHedings=ÁĞ±êÌâ
+DefaultNodeProvider.Tree.ColumnHedings=åˆ—æ ‡é¢˜
 
-DefaultNodeProvider.Tree.Components = ±¨±íÏî
+DefaultNodeProvider.Tree.Components = æŠ¥è¡¨é¡¹
 
-DefaultNodeProvider.Tree.DataSets=Êı¾İ¼¯
+DefaultNodeProvider.Tree.DataSets=æ•°æ®é›†
 
-DefaultNodeProvider.Tree.DataSources=Êı¾İÔ´
+DefaultNodeProvider.Tree.DataSources=æ•°æ®æº
 
-DefaultNodeProvider.Tree.Detail=ÏêÏ¸×ÊÁÏ
+DefaultNodeProvider.Tree.Detail=è¯¦ç»†èµ„æ–™
 
-DefaultNodeProvider.Tree.Footer=Ò³½Å
+DefaultNodeProvider.Tree.Footer=é¡µè„š
 
-DefaultNodeProvider.Tree.Groups=×é
+DefaultNodeProvider.Tree.Groups=ç»„
 
-DefaultNodeProvider.Tree.Header=Ò³Ã¼
+DefaultNodeProvider.Tree.Header=é¡µçœ‰
 
-DefaultNodeProvider.Tree.Images=Ç¶ÈëÍ¼Ïñ
+DefaultNodeProvider.Tree.Images=åµŒå…¥å›¾åƒ
 
-DefaultNodeProvider.Tree.Invalid=ÎŞĞ§½Úµã
+DefaultNodeProvider.Tree.Invalid=æ— æ•ˆèŠ‚ç‚¹
 
 DefaultNodeProvider.Tree.MasterPages=MasterPages
-DefaultNodeProvider.Tree.PageSetup=Ò³ÃæÉèÖÃ
+DefaultNodeProvider.Tree.PageSetup=é¡µé¢è®¾ç½®
 
-DefaultNodeProvider.Tree.Parameters=±¨±í²ÎÊı
+DefaultNodeProvider.Tree.Parameters=æŠ¥è¡¨å‚æ•°
 
-DefaultNodeProvider.Tree.Reference=¾¯¸æ
+DefaultNodeProvider.Tree.Reference=è­¦å‘Š
 
-DefaultNodeProvider.Tree.Scratch=±ã¼ã²¾
+DefaultNodeProvider.Tree.Scratch=ä¾¿ç¬ºç°¿
 
-DefaultNodeProvider.Tree.Styles=ÑùÊ½
+DefaultNodeProvider.Tree.Styles=æ ·å¼
 
-DefaultNodeProvider.Tree.Themes=²¼¾°Ö÷Ìâ
+DefaultNodeProvider.Tree.Themes=å¸ƒæ™¯ä¸»é¢˜
 
-DefaultNodeProvider.WarningDialog.Title=¾¯¸æ
+DefaultNodeProvider.WarningDialog.Title=è­¦å‘Š
 
-DefaultNodeProvider.WarningDialog.EmptyList=Ã»ÓĞ¿É¹©²åÈëµÄÔªËØ¡£
+DefaultNodeProvider.WarningDialog.EmptyList=æ²¡æœ‰å¯ä¾›æ’å…¥çš„å…ƒç´ ã€‚
 
-DefaultNodeProvider.stackMsg.changeBinding=¸ü¸ÄÊı¾İ°ó¶¨
+DefaultNodeProvider.stackMsg.changeBinding=æ›´æ”¹æ•°æ®ç»‘å®š
 
 ###########################################################
 #DeleteAction properties
-DeleteAction.text=É¾³ı(&D)
+DeleteAction.text=åˆ é™¤(&D)
 
-DeleteAction.trans=É¾³ıÔªËØ
+DeleteAction.trans=åˆ é™¤å…ƒç´ 
 
 ###########################################################
 #DeleteColumnAction properties
-DeleteColumnAction.actionMsg.delete=É¾³ı(&D)
+DeleteColumnAction.actionMsg.delete=åˆ é™¤(&D)
 
 ###########################################################
 #DeleteGroupAction properties
-DeleteGroupAction.actionMsg.deleteGroup=É¾³ı×é(&G)
+DeleteGroupAction.actionMsg.deleteGroup=åˆ é™¤ç»„(&G)
 
 ###########################################################
 #DeleteListGroupAction properties
-DeleteListGroupAction.actionMsg.deleteGroup=É¾³ı×é(&G)
+DeleteListGroupAction.actionMsg.deleteGroup=åˆ é™¤ç»„(&G)
 
 ###########################################################
 #DeleteRowAction properties
-DeleteRowAction.actionMsg.delete=É¾³ı(&D)
+DeleteRowAction.actionMsg.delete=åˆ é™¤(&D)
 
 ###########################################################
 #designer properties
-designer.preview.browserTitle=Ô¤ÀÀ
+designer.preview.browserTitle=é¢„è§ˆ
 
-designer.preview.preference.browser.autoSave=Ô¤ÀÀÇ°×Ô¶¯±£´æ
+designer.preview.preference.browser.autoSave=é¢„è§ˆå‰è‡ªåŠ¨ä¿å­˜
 
-designer.preview.preference.browser.browse=ä¯ÀÀ(&B)...
+designer.preview.preference.browser.browse=æµè§ˆ(&B)...
 
-designer.preview.preference.browser.currentBrowsers=µ±Ç°Íâ²¿ Web ä¯ÀÀÆ÷ÊÊÅäÆ÷(&U):
+designer.preview.preference.browser.currentBrowsers=å½“å‰å¤–éƒ¨ Web æµè§ˆå™¨é€‚é…å™¨(&U):
 
-designer.preview.preference.browser.description=¸ÃÑ¡ÔñÈ·¶¨ÓÃÓÚÔ¤ÀÀ BIRT ±¨±íµÄ web ä¯ÀÀÆ÷¡£\nÈç¹û½öÅäÖÃÁËÒ»¸öä¯ÀÀÆ÷ÊÊÅäÆ÷£¬ÔòÎŞ·¨¸ü¸Ä\nÑ¡Ôñ¡£
+designer.preview.preference.browser.description=è¯¥é€‰æ‹©ç¡®å®šç”¨äºé¢„è§ˆ BIRT æŠ¥è¡¨çš„ web æµè§ˆå™¨ã€‚\nå¦‚æœä»…é…ç½®äº†ä¸€ä¸ªæµè§ˆå™¨é€‚é…å™¨ï¼Œåˆ™æ— æ³•æ›´æ”¹\né€‰æ‹©ã€‚
 
-designer.preview.preference.browser.details=Ñ¡Ôñä¯ÀÀÆ÷³ÌĞò
+designer.preview.preference.browser.details=é€‰æ‹©æµè§ˆå™¨ç¨‹åº
 
-designer.preview.preference.browser.program=×Ô¶¨Òåä¯ÀÀÆ÷ÃüÁî(&S):
+designer.preview.preference.browser.program=è‡ªå®šä¹‰æµè§ˆå™¨å‘½ä»¤(&S):
 
-designer.preview.preference.browser.svg=ÆôÓÃ SVG Í¼±í(&E)
+designer.preview.preference.browser.svg=å¯ç”¨ SVG å›¾è¡¨(&E)
 
-designer.preview.preference.browser.extbrowser.link=ÓĞ¹ØÅäÖÃÓÃÓÚÏÔÊ¾±¨±íµÄÍâ²¿ä¯ÀÀÆ÷µÄĞÅÏ¢£¬Çë²ÎÔÄ<a>¡°{0}¡±</a>¡£
+designer.preview.preference.browser.extbrowser.link=æœ‰å…³é…ç½®ç”¨äºæ˜¾ç¤ºæŠ¥è¡¨çš„å¤–éƒ¨æµè§ˆå™¨çš„ä¿¡æ¯ï¼Œè¯·å‚é˜…<a>â€œ{0}â€</a>ã€‚
 
-designer.preview.preference.masterpagecontent=ÆôÓÃÖ÷Ò³ÄÚÈİ(&M)
+designer.preview.preference.masterpagecontent=å¯ç”¨ä¸»é¡µå†…å®¹(&M)
 
-designer.preview.preference.appcontextkey=Ê¹ÓÃ×Ô¶¨ÒåÓ¦ÓÃ³ÌĞòÉÏÏÂÎÄ(&U)
+designer.preview.preference.appcontextkey=ä½¿ç”¨è‡ªå®šä¹‰åº”ç”¨ç¨‹åºä¸Šä¸‹æ–‡(&U)
 
-designer.preview.preference.browser.useExternal=Ê¼ÖÕÊ¹ÓÃÍâ²¿ä¯ÀÀÆ÷(&W)
+designer.preview.preference.browser.useExternal=å§‹ç»ˆä½¿ç”¨å¤–éƒ¨æµè§ˆå™¨(&W)
 
 designer.preview.preference.elementname.columnwidth=125
 
-designer.preview.preference.elementname.customname.Enabled=Õæ
+designer.preview.preference.elementname.customname.Enabled=çœŸ
 
-designer.preview.preference.elementname.customname=Ä¬ÈÏÃû³Æ
+designer.preview.preference.elementname.customname=é»˜è®¤åç§°
 
-designer.preview.preference.elementname.defaultname.Enabled=¼Ù
+designer.preview.preference.elementname.defaultname.Enabled=å‡
 
-designer.preview.preference.elementname.defaultname=ÔªËØÃû³Æ
+designer.preview.preference.elementname.defaultname=å…ƒç´ åç§°
 
-designer.preview.preference.elementname.description.Enabled=¼Ù
+designer.preview.preference.elementname.description.Enabled=å‡
 
-designer.preview.preference.elementname.description=ÃèÊö
+designer.preview.preference.elementname.description=æè¿°
 
-designer.preview.preference.elementname.Enabled=Õæ
+designer.preview.preference.elementname.Enabled=çœŸ
 
-designer.preview.preference.locale.description=Ñ¡ÔñÇøÓòÉèÖÃ(&C):
+designer.preview.preference.locale.description=é€‰æ‹©åŒºåŸŸè®¾ç½®(&C):
 
-designer.preview.preference.timezone.description=Ê±Çø(&T):
+designer.preview.preference.timezone.description=æ—¶åŒº(&T):
 
-designer.preview.preference.resultset.sqldatasetpage.group.title=²éÑ¯Ò³Ãæ
+designer.preview.preference.resultset.sqldatasetpage.group.title=æŸ¥è¯¢é¡µé¢
 
-designer.preview.preference.resultset.previewpage.group.title=Ô¤ÀÀÒ³Ãæ
+designer.preview.preference.resultset.previewpage.group.title=é¢„è§ˆé¡µé¢
 
-designer.preview.preference.resultset.groupTitle.DispalyRowLimitsSetting=Ô¤ÀÀĞĞÏŞÖÆÉèÖÃ
+designer.preview.preference.resultset.groupTitle.DispalyRowLimitsSetting=é¢„è§ˆè¡Œé™åˆ¶è®¾ç½®
 
-designer.preview.preference.resultset.NoLimitOfDispalyRow=ÒªÏÔÊ¾µÄĞĞÊıÎŞÏŞÖÆ(&N)¡£
+designer.preview.preference.resultset.NoLimitOfDispalyRow=è¦æ˜¾ç¤ºçš„è¡Œæ•°æ— é™åˆ¶(&N)ã€‚
 
-designer.preview.preference.resultset.maxNoOfSchema.description=ÒªÏÔÊ¾µÄ×î´ó¼Ü¹¹Êı(&S):
+designer.preview.preference.resultset.maxNoOfSchema.description=è¦æ˜¾ç¤ºçš„æœ€å¤§æ¶æ„æ•°(&S):
 
-designer.preview.preference.resultset.maxNoOfTable.description=Ã¿¸ö¼Ü¹¹ÖĞÒªÏÔÊ¾µÄ×î´ó±íÊı(&T):
+designer.preview.preference.resultset.maxNoOfTable.description=æ¯ä¸ªæ¶æ„ä¸­è¦æ˜¾ç¤ºçš„æœ€å¤§è¡¨æ•°(&T):
 
-designer.preview.preference.resultset.maxNoOfSchema.errormessage=ÇëÎª×î´ó¼Ü¹¹ÊıÊäÈëÒ»¸ö½éÓÚ 0 ºÍ {0} Ö®¼äµÄÊı¡£
+designer.preview.preference.resultset.maxNoOfSchema.errormessage=è¯·ä¸ºæœ€å¤§æ¶æ„æ•°è¾“å…¥ä¸€ä¸ªä»‹äº 0 å’Œ {0} ä¹‹é—´çš„æ•°ã€‚
 
-designer.preview.preference.resultset.maxNoOfTable.errormessage=ÇëÔÚÃ¿¸ö¼Ü¹¹ÖĞ·Ö±ğÎª×î´ó±íÊıÊäÈëÒ»¸ö½éÓÚ 0 ºÍ {0} Ö®¼äµÄÊı¡£
+designer.preview.preference.resultset.maxNoOfTable.errormessage=è¯·åœ¨æ¯ä¸ªæ¶æ„ä¸­åˆ†åˆ«ä¸ºæœ€å¤§è¡¨æ•°è¾“å…¥ä¸€ä¸ªä»‹äº 0 å’Œ {0} ä¹‹é—´çš„æ•°ã€‚
 
-designer.preview.preference.resultset.maxrow.description=ÒªÏÔÊ¾µÄĞĞÊı(&R):
+designer.preview.preference.resultset.maxrow.description=è¦æ˜¾ç¤ºçš„è¡Œæ•°(&R):
 
-designer.preview.preference.resultset.maxrow.errormessage=ÇëÎª×î´óĞĞÊıÊäÈëÒ»¸ö½éÓÚ 1 ºÍ {0} Ö®¼äµÄÊı¡£
+designer.preview.preference.resultset.maxrow.errormessage=è¯·ä¸ºæœ€å¤§è¡Œæ•°è¾“å…¥ä¸€ä¸ªä»‹äº 1 å’Œ {0} ä¹‹é—´çš„æ•°ã€‚
 
-designer.preview.preference.resultset.maxrowlevelmember.description=ÒªÏÔÊ¾µÄÃ¿¸öĞĞ¼¶±ğµÄ¼ÆÊı(&L):
+designer.preview.preference.resultset.maxrowlevelmember.description=è¦æ˜¾ç¤ºçš„æ¯ä¸ªè¡Œçº§åˆ«çš„è®¡æ•°(&L):
 
-designer.preview.preference.resultset.maxrowlevelmember.errormessage=ÇëÎª×î´óĞĞ¼¶±ğÊıÊäÈëÒ»¸ö½éÓÚ 1 ºÍ {0} Ö®¼äµÄÊı¡£
+designer.preview.preference.resultset.maxrowlevelmember.errormessage=è¯·ä¸ºæœ€å¤§è¡Œçº§åˆ«æ•°è¾“å…¥ä¸€ä¸ªä»‹äº 1 å’Œ {0} ä¹‹é—´çš„æ•°ã€‚
 
-designer.preview.preference.resultset.maxcolumnlevelmember.description=ÒªÏÔÊ¾µÄÃ¿¸öÁĞ¼¶±ğµÄ¼ÆÊı(&C):
+designer.preview.preference.resultset.maxcolumnlevelmember.description=è¦æ˜¾ç¤ºçš„æ¯ä¸ªåˆ—çº§åˆ«çš„è®¡æ•°(&C):
 
-designer.preview.preference.resultset.maxcolumnlevelmember.errormessage=ÇëÎª×î´óÁĞ¼¶±ğÊıÊäÈëÒ»¸ö½éÓÚ 1 ºÍ {0} Ö®¼äµÄÊı¡£
+designer.preview.preference.resultset.maxcolumnlevelmember.errormessage=è¯·ä¸ºæœ€å¤§åˆ—çº§åˆ«æ•°è¾“å…¥ä¸€ä¸ªä»‹äº 1 å’Œ {0} ä¹‹é—´çš„æ•°ã€‚
 
-designer.preview.preference.resultset.maxinmemorycubesize.description=ÄÚ´æ¶àÎ¬Êı¾İ¼¯´óĞ¡(MB)(&S):
+designer.preview.preference.resultset.maxinmemorycubesize.description=å†…å­˜å¤šç»´æ•°æ®é›†å¤§å°(MB)(&S):
 
-designer.preview.preference.resultset.maxinmemorycubesize.errormessage=ÇëÎª×î´óÄÚ´æ¶àÎ¬Êı¾İ¼¯´óĞ¡ÊäÈëÒ»¸ö½éÓÚ 1 ºÍ {0} Ö®¼äµÄÊı¡£
+designer.preview.preference.resultset.maxinmemorycubesize.errormessage=è¯·ä¸ºæœ€å¤§å†…å­˜å¤šç»´æ•°æ®é›†å¤§å°è¾“å…¥ä¸€ä¸ªä»‹äº 1 å’Œ {0} ä¹‹é—´çš„æ•°ã€‚
 
-designer.preview.preference.server.description=Internal Application Server ÅäÖÃ¡£¸Ã·şÎñÆ÷ÓÉ \nBIRT Report Designer Preview Framework ÄÚ²¿Ê¹ÓÃ¡£
+designer.preview.preference.server.description=Internal Application Server é…ç½®ã€‚è¯¥æœåŠ¡å™¨ç”± \nBIRT Report Designer Preview Framework å†…éƒ¨ä½¿ç”¨ã€‚
 
-designer.preview.preference.server.hostDescription=±¾µØ¼ÆËã»úµÄÖ÷»úÃû»ò IP µØÖ·¡£½«ÆäÁô¿ÕÒÔ×Ô¶¯\nÈ·¶¨(&H)¡£
+designer.preview.preference.server.hostDescription=æœ¬åœ°è®¡ç®—æœºçš„ä¸»æœºåæˆ– IP åœ°å€ã€‚å°†å…¶ç•™ç©ºä»¥è‡ªåŠ¨\nç¡®å®š(&H)ã€‚
 
-designer.preview.preference.server.note=×¢£º
+designer.preview.preference.server.note=æ³¨ï¼š
 
-designer.preview.preference.server.portDescription=Òª¼àÌıµÄ·şÎñÆ÷¶Ë¿Ú¡£ÉèÖÃÎª 0 ÒÔ¶¯Ì¬·ÖÅä(&P)¡£
+designer.preview.preference.server.portDescription=è¦ç›‘å¬çš„æœåŠ¡å™¨ç«¯å£ã€‚è®¾ç½®ä¸º 0 ä»¥åŠ¨æ€åˆ†é…(&P)ã€‚
 
-designer.preview.preference.server.requireRestart=Èç¹û¸Ã·şÎñÆ÷ÒÑÔÚÔËĞĞ£¬ÕâĞ©Ê×Ñ¡ÏîÖ»ÓĞÔÚ\nÖØĞÂÆô¶¯ºó²ÅÉúĞ§¡£
+designer.preview.preference.server.requireRestart=å¦‚æœè¯¥æœåŠ¡å™¨å·²åœ¨è¿è¡Œï¼Œè¿™äº›é¦–é€‰é¡¹åªæœ‰åœ¨\né‡æ–°å¯åŠ¨åæ‰ç”Ÿæ•ˆã€‚
 
-designer.preview.preference.bidiOrientation.label=Ë«Ïò(&B):
+designer.preview.preference.bidiOrientation.label=åŒå‘(&B):
 
-designer.preview.preference.bidiOrientation.auto=×Ô¶¯
+designer.preview.preference.bidiOrientation.auto=è‡ªåŠ¨
 
-designer.preview.preference.bidiOrientation.ltr=´Ó×óµ½ÓÒ
+designer.preview.preference.bidiOrientation.ltr=ä»å·¦åˆ°å³
 
-designer.preview.preference.bidiOrientation.rtl=´ÓÓÒµ½×ó
+designer.preview.preference.bidiOrientation.rtl=ä»å³åˆ°å·¦
 
-designer.preview.preference.updateParameter.confirmMessage=È·ÈÏ¸üĞÂ
+designer.preview.preference.updateParameter.confirmMessage=ç¡®è®¤æ›´æ–°
 
-designer.preview.preference.updateParameter.confirmButton=Èç¹û²éÑ¯¸ü¸Ä£¬ÔÚ½«Êı¾İ¼¯²ÎÊıÊôĞÔÓë ODA ²ÎÊıÊôĞÔÍ¬²½Ê±Ê¼ÖÕÌáÊ¾È·ÈÏ(&A)¡£
+designer.preview.preference.updateParameter.confirmButton=å¦‚æœæŸ¥è¯¢æ›´æ”¹ï¼Œåœ¨å°†æ•°æ®é›†å‚æ•°å±æ€§ä¸ ODA å‚æ•°å±æ€§åŒæ­¥æ—¶å§‹ç»ˆæç¤ºç¡®è®¤(&A)ã€‚
 
-designer.preview.preference.updateReportParameter.confirmButton=²»ÒªÌáÊ¾È·ÈÏ¸üĞÂÁ´½Ó±¨±í²ÎÊı(&D)¡£
+designer.preview.preference.updateReportParameter.confirmButton=ä¸è¦æç¤ºç¡®è®¤æ›´æ–°é“¾æ¥æŠ¥è¡¨å‚æ•°(&D)ã€‚
 
-designer.preview.preference.updateReportParameter.confirmOption.always=Ê¼ÖÕ(&W):
+designer.preview.preference.updateReportParameter.confirmOption.always=å§‹ç»ˆ(&W):
 
-designer.preview.preference.updateReportParameter.confirmOption.update=¸üĞÂ(&U)
+designer.preview.preference.updateReportParameter.confirmOption.update=æ›´æ–°(&U)
 
-designer.preview.preference.updateReportParameter.confirmOption.ignore=ºöÂÔ(&I)
+designer.preview.preference.updateReportParameter.confirmOption.ignore=å¿½ç•¥(&I)
 
-designer.preview.previewaction.label.webviewer=ÔÚ Web ²é¿´Æ÷ÖĞ²é¿´±¨±í
+designer.preview.previewaction.label.webviewer=åœ¨ Web æŸ¥çœ‹å™¨ä¸­æŸ¥çœ‹æŠ¥è¡¨
 
-designer.preview.previewaction.label=ÒÔ {0} ¸ñÊ½²é¿´±¨±í
+designer.preview.previewaction.label=ä»¥ {0} æ ¼å¼æŸ¥çœ‹æŠ¥è¡¨
 
-designer.preview.previewaction.ErrorMessage=ÓÉÓÚÎ´°²×°»òÎ´ÕÒµ½ iText£¬²»Ö§³Ö PDF Éú³É¡£
+designer.preview.previewaction.ErrorMessage=ç”±äºæœªå®‰è£…æˆ–æœªæ‰¾åˆ° iTextï¼Œä¸æ”¯æŒ PDF ç”Ÿæˆã€‚
 
-designer.preview.previewaction.ErrorMessage.title=¾¯¸æ
+designer.preview.previewaction.ErrorMessage.title=è­¦å‘Š
 
-designer.preview.run.webviewer=ÔÚ Web ²é¿´Æ÷ÖĞ
+designer.preview.run.webviewer=åœ¨ Web æŸ¥çœ‹å™¨ä¸­
 
-designer.preview.run=×÷Îª {0}
+designer.preview.run=ä½œä¸º {0}
 
 ###########################################################
 #DesignerActionBarContributor properties
-DesignerActionBarContributor.element.group=²åÈë×é(&G)
+DesignerActionBarContributor.element.group=æ’å…¥ç»„(&G)
 
-DesignerActionBarContributor.element.InsertColumnLeft=ÔÚ×ó²à²åÈëÁĞ(&L)
+DesignerActionBarContributor.element.InsertColumnLeft=åœ¨å·¦ä¾§æ’å…¥åˆ—(&L)
 
-DesignerActionBarContributor.element.InsertColumnRight=ÔÚÓÒ²à²åÈëÁĞ(&R)
+DesignerActionBarContributor.element.InsertColumnRight=åœ¨å³ä¾§æ’å…¥åˆ—(&R)
 
-DesignerActionBarContributor.element.InsertRowAbove=ÔÚÉÏ·½²åÈëĞĞ(&A)
+DesignerActionBarContributor.element.InsertRowAbove=åœ¨ä¸Šæ–¹æ’å…¥è¡Œ(&A)
 
-DesignerActionBarContributor.element.InsertRowBelow=ÔÚÏÂ·½²åÈëĞĞ(&B)
+DesignerActionBarContributor.element.InsertRowBelow=åœ¨ä¸‹æ–¹æ’å…¥è¡Œ(&B)
 
-DesignerActionBarContributor.element.merge=ºÏ²¢µ¥Ôª¸ñ(&M)
+DesignerActionBarContributor.element.merge=åˆå¹¶å•å…ƒæ ¼(&M)
 
-DesignerActionBarContributor.element.split=²ğ·Öµ¥Ôª¸ñ(&S)
+DesignerActionBarContributor.element.split=æ‹†åˆ†å•å…ƒæ ¼(&S)
 
-designerActionBarContributor.menu.data-newdataset=ĞÂ½¨Êı¾İ¼¯(&E)
+designerActionBarContributor.menu.data-newdataset=æ–°å»ºæ•°æ®é›†(&E)
 
-designerActionBarContributor.menu.data-newdatasource=ĞÂ½¨Êı¾İÔ´(&O)
+designerActionBarContributor.menu.data-newdatasource=æ–°å»ºæ•°æ®æº(&O)
 
-DesignerActionBarContributor.menu.data=Êı¾İ(&D)
+DesignerActionBarContributor.menu.data=æ•°æ®(&D)
 
-DesignerActionBarContributor.menu.element-EditGroup=±à¼­×é(&E)
+DesignerActionBarContributor.menu.element-EditGroup=ç¼–è¾‘ç»„(&E)
 
-DesignerActionBarContributor.menu.element-LayoutMode=²¼¾ÖÄ£Ê½(&D)
+DesignerActionBarContributor.menu.element-LayoutMode=å¸ƒå±€æ¨¡å¼(&D)
 
-DesignerActionBarContributor.menu.element-showRuler=ÏÔÊ¾±ê³ß(&R)
+DesignerActionBarContributor.menu.element-showRuler=æ˜¾ç¤ºæ ‡å°º(&R)
 
-DesignerActionBarContributor.menu.element.editDataBinding=±à¼­Êı¾İ°ó¶¨(&B)...
+DesignerActionBarContributor.menu.element.editDataBinding=ç¼–è¾‘æ•°æ®ç»‘å®š(&B)...
 
-DesignerActionBarContributor.menu.element=ÔªËØ(&L)
+DesignerActionBarContributor.menu.element=å…ƒç´ (&L)
 
-DesignerActionBarContributor.menu.format=¸ñÊ½
+DesignerActionBarContributor.menu.format=æ ¼å¼
 
-DesignerActionBarContributor.menu.insert=²åÈë(&I)
+DesignerActionBarContributor.menu.insert=æ’å…¥(&I)
 
-DesignerActionBarContributor.menu.page=Ò³Ãæ(&G)
+DesignerActionBarContributor.menu.page=é¡µé¢(&G)
 
-DesignerActionBarContributor.menu.style-rule-apply=Ó¦ÓÃÑùÊ½(&P)
+DesignerActionBarContributor.menu.style-rule-apply=åº”ç”¨æ ·å¼(&P)
 
-DesignerActionBarContributor.menu.style-rule-edit=±à¼­ÑùÊ½(&D)
+DesignerActionBarContributor.menu.style-rule-edit=ç¼–è¾‘æ ·å¼(&D)
 
-DesignerActionBarContributor.menu.style-rule-remove=É¾³ıÑùÊ½(&R)
+DesignerActionBarContributor.menu.style-rule-remove=åˆ é™¤æ ·å¼(&R)
 
-DesignerActionBarContributor.style.new=ĞÂ½¨ÑùÊ½(&N)...
+DesignerActionBarContributor.style.new=æ–°å»ºæ ·å¼(&N)...
 
-DesignerActionBarContributor.menu.data-NewParameter=ĞÂ½¨±¨±í²ÎÊı(&P)
+DesignerActionBarContributor.menu.data-NewParameter=æ–°å»ºæŠ¥è¡¨å‚æ•°(&P)
 
-DesignerActionBarContributor.menu.data-NewDataSetParent=ĞÂ½¨Êı¾İ¼¯(&S)
+DesignerActionBarContributor.menu.data-NewDataSetParent=æ–°å»ºæ•°æ®é›†(&S)
 
-designerActionBarContributor.menu.data-newDataset=ĞÂ½¨Êı¾İ¼¯(&E)
+designerActionBarContributor.menu.data-newDataset=æ–°å»ºæ•°æ®é›†(&E)
 
-designerActionBarContributor.menu.data-newJointDataset=ĞÂ½¨Áª½ÓÊı¾İ¼¯(&J)
+designerActionBarContributor.menu.data-newJointDataset=æ–°å»ºè”æ¥æ•°æ®é›†(&J)
 
-DesignerActionBarContributor.menu.element.insert=²åÈë(&I)
+DesignerActionBarContributor.menu.element.insert=æ’å…¥(&I)
 
-DesignerActionBarContributor.menu.element.group=·Ö×é(&G)
+DesignerActionBarContributor.menu.element.group=åˆ†ç»„(&G)
 
-DesignerActionBarContributor.menu.element.style=ÑùÊ½(&Y)
+DesignerActionBarContributor.menu.element.style=æ ·å¼(&Y)
 
-DesignerActionBarContributor.menu.zoomCombo.tooltip=Ëõ·Å¼¶±ğ
+DesignerActionBarContributor.menu.zoomCombo.tooltip=ç¼©æ”¾çº§åˆ«
 ###########################################################
 #DesignerOutlinePage properties
-DesignerOutlinePage.action.Delete=É¾³ıÑ¡Ôñ
+DesignerOutlinePage.action.Delete=åˆ é™¤é€‰æ‹©
 
-DesignerOutlinePage.action.Hide=Òş²ØÒ³Ã¼ºÍÒ³½Å
+DesignerOutlinePage.action.Hide=éšè—é¡µçœ‰å’Œé¡µè„š
 
-DesignerOutlinePage.action.Redo=»Ö¸´
+DesignerOutlinePage.action.Redo=æ¢å¤
 
-DesignerOutlinePage.action.Undo=³·Ïû
+DesignerOutlinePage.action.Undo=æ’¤æ¶ˆ
 
-DesignerOutlinePage.menu.Filters=É¸Ñ¡Æ÷
+DesignerOutlinePage.menu.Filters=ç­›é€‰å™¨
 
 ###########################################################
 #Content outline page switch action
-ContentOutlinePage.action.text.reportOutline=ÇĞ»»ÖÁ XML Ô´´ó¸Ù
+ContentOutlinePage.action.text.reportOutline=åˆ‡æ¢è‡³ XML æºå¤§çº²
 
-ContentOutlinePage.action.text.reportXMLSourceOutline=ÇĞ»»ÖÁ±¨±í´ó¸Ù
+ContentOutlinePage.action.text.reportXMLSourceOutline=åˆ‡æ¢è‡³æŠ¥è¡¨å¤§çº²
 
 ###########################################################
 #DesignerPaletteFactory properties
-DesignerPaletteFactory.categoryName.reportItems=±¨±íÏî
+DesignerPaletteFactory.categoryName.reportItems=æŠ¥è¡¨é¡¹
 
-DesignerPaletteFactory.elementLabel.data=Êı¾İ
+DesignerPaletteFactory.elementLabel.data=æ•°æ®
 
-DesignerPaletteFactory.elementLabel.grid=Íø¸ñ
+DesignerPaletteFactory.elementLabel.grid=ç½‘æ ¼
 
-DesignerPaletteFactory.elementLabel.image=Í¼Ïñ
+DesignerPaletteFactory.elementLabel.image=å›¾åƒ
 
-DesignerPaletteFactory.elementLabel.label=±êÇ©
+DesignerPaletteFactory.elementLabel.label=æ ‡ç­¾
 
-DesignerPaletteFactory.elementLabel.list=ÁĞ±í
+DesignerPaletteFactory.elementLabel.list=åˆ—è¡¨
 
-DesignerPaletteFactory.elementLabel.tabel=±í
+DesignerPaletteFactory.elementLabel.tabel=è¡¨
 
-DesignerPaletteFactory.elementLabel.text=ÎÄ±¾
+DesignerPaletteFactory.elementLabel.text=æ–‡æœ¬
 
-DesignerPaletteFactory.elementName.data=Êı¾İ
+DesignerPaletteFactory.elementName.data=æ•°æ®
 
-DesignerPaletteFactory.elementName.grid=Íø¸ñ
+DesignerPaletteFactory.elementName.grid=ç½‘æ ¼
 
-DesignerPaletteFactory.elementName.image=Í¼Ïñ
+DesignerPaletteFactory.elementName.image=å›¾åƒ
 
-DesignerPaletteFactory.elementName.label=±êÇ©
+DesignerPaletteFactory.elementName.label=æ ‡ç­¾
 
-DesignerPaletteFactory.elementName.list=ÁĞ±í
+DesignerPaletteFactory.elementName.list=åˆ—è¡¨
 
-DesignerPaletteFactory.elementName.table=±í
+DesignerPaletteFactory.elementName.table=è¡¨
 
-DesignerPaletteFactory.elementName.text=ÎÄ±¾
+DesignerPaletteFactory.elementName.text=æ–‡æœ¬
 
-DesignerPaletteFactory.elementName.textdata=¶¯Ì¬ÎÄ±¾
+DesignerPaletteFactory.elementName.textdata=åŠ¨æ€æ–‡æœ¬
 
-DesignerPaletteFactory.toolTip.dataReportItem=²åÈëÊı¾İ¼¯ÁĞ»ò±í´ïÊ½½á¹û¡£
+DesignerPaletteFactory.toolTip.dataReportItem=æ’å…¥æ•°æ®é›†åˆ—æˆ–è¡¨è¾¾å¼ç»“æœã€‚
 
-DesignerPaletteFactory.toolTip.gridReportItem=²åÈëĞĞ/ÁĞ²¼¾ÖÒÔÖ±¹ÛÅÅÁĞÆäËüÏî¡£
+DesignerPaletteFactory.toolTip.gridReportItem=æ’å…¥è¡Œ/åˆ—å¸ƒå±€ä»¥ç›´è§‚æ’åˆ—å…¶å®ƒé¡¹ã€‚
 
-DesignerPaletteFactory.toolTip.imageReportItem=´ÓÎÄ¼ş»ò URL ÖĞ²åÈëÍ¼Ïñ¡£
+DesignerPaletteFactory.toolTip.imageReportItem=ä»æ–‡ä»¶æˆ– URL ä¸­æ’å…¥å›¾åƒã€‚
 
-DesignerPaletteFactory.toolTip.labelReportItem=²åÈëÒ»¶Î¾²Ì¬ÎÄ±¾¡£
+DesignerPaletteFactory.toolTip.labelReportItem=æ’å…¥ä¸€æ®µé™æ€æ–‡æœ¬ã€‚
 
-DesignerPaletteFactory.toolTip.listReportItem=ÔÚÒ³Ã¼/ÏêÏ¸ĞÅÏ¢/Ò³½ÅÇø¶ÎÖĞ²åÈëÊı¾İ¼¯ĞĞµÄÁé»î¸ñÊ½±íÊ¾
+DesignerPaletteFactory.toolTip.listReportItem=åœ¨é¡µçœ‰/è¯¦ç»†ä¿¡æ¯/é¡µè„šåŒºæ®µä¸­æ’å…¥æ•°æ®é›†è¡Œçš„çµæ´»æ ¼å¼è¡¨ç¤º
 
-DesignerPaletteFactory.toolTip.multiLineDataReportItem=´ÓÎÄ¼ş¡¢Êı¾İ¼¯ÁĞ»ò±í´ïÊ½½á¹ûÖĞ²åÈëÎÄ±¾¿é£¨´¿ÎÄ±¾/HTML/RTF£©¡£
+DesignerPaletteFactory.toolTip.multiLineDataReportItem=ä»æ–‡ä»¶ã€æ•°æ®é›†åˆ—æˆ–è¡¨è¾¾å¼ç»“æœä¸­æ’å…¥æ–‡æœ¬å—ï¼ˆçº¯æ–‡æœ¬/HTML/RTFï¼‰ã€‚
 
-DesignerPaletteFactory.toolTip.tableReportItem=ÔÚÒ³Ã¼/ÏêÏ¸ĞÅÏ¢/Ò³½ÅÇø¶ÎÖĞ²åÈëÊı¾İ¼¯ĞĞµÄÁĞ±íÊ¾
+DesignerPaletteFactory.toolTip.tableReportItem=åœ¨é¡µçœ‰/è¯¦ç»†ä¿¡æ¯/é¡µè„šåŒºæ®µä¸­æ’å…¥æ•°æ®é›†è¡Œçš„åˆ—è¡¨ç¤º
 
-DesignerPaletteFactory.toolTip.textDataReportItem=²åÈë´øÓĞ¿ÉÑ¡ CLOB Êı¾İ±í´ïÊ½µÄÎÄ±¾¿é
+DesignerPaletteFactory.toolTip.textDataReportItem=æ’å…¥å¸¦æœ‰å¯é€‰ CLOB æ•°æ®è¡¨è¾¾å¼çš„æ–‡æœ¬å—
 
-DesignerPaletteFactory.toolTip.textReportItem=²åÈëÎÄ±¾¿é£¨´¿ÎÄ±¾/HTML£©ºÍ¿ÉÑ¡Ç¶Èë±í´ïÊ½¡£
+DesignerPaletteFactory.toolTip.textReportItem=æ’å…¥æ–‡æœ¬å—ï¼ˆçº¯æ–‡æœ¬/HTMLï¼‰å’Œå¯é€‰åµŒå…¥è¡¨è¾¾å¼ã€‚
 
-DesignerPaletteFactory.quicktool.title=¿ìËÙ¹¤¾ß
+DesignerPaletteFactory.quicktool.title=å¿«é€Ÿå·¥å…·
 
-DesignerPaletteFactory.quicktool.agg.title=¾ÛºÏ
+DesignerPaletteFactory.quicktool.agg.title=èšåˆ
 
-DesignerPaletteFactory.quicktool.agg.toolTip=²åÈë¾ÛºÏÏî
+DesignerPaletteFactory.quicktool.agg.toolTip=æ’å…¥èšåˆé¡¹
 
-DesignerPaletteFactory.quicktool.timeperiod.title=Ïà¶ÔÊ±¼äÖÜÆÚ
+DesignerPaletteFactory.quicktool.timeperiod.title=ç›¸å¯¹æ—¶é—´å‘¨æœŸ
 
-DesignerPaletteFactory.quicktool.timeperiod.toolTip=²åÈëÊ±¼äÖÜÆÚÏî
+DesignerPaletteFactory.quicktool.timeperiod.toolTip=æ’å…¥æ—¶é—´å‘¨æœŸé¡¹
 
 ###########################################################
 #DimensionBuilderDialog properties
-DimensionBuilderDialog.LabelMeasure=¶ÈÁ¿£º
+DimensionBuilderDialog.LabelMeasure=åº¦é‡ï¼š
 
-DimensionBuilderDialog.LabelUnit=µ¥Î»£º
+DimensionBuilderDialog.LabelUnit=å•ä½ï¼š
 
 DimensionBuilderDialog.Title=Dimension Builder
 
 ###########################################################
 #DNDUtil properties
-DNDUtil.trans.copy=¸´ÖÆÔªËØ
+DNDUtil.trans.copy=å¤åˆ¶å…ƒç´ 
 
-DNDUtil.trans.cut=ÒÆ¶¯ÔªËØ
+DNDUtil.trans.cut=ç§»åŠ¨å…ƒç´ 
 
 ###########################################################
 #DuplicatesPage properties
-DuplicatesPage.Check.HideDuplicates=Òş²ØÖØ¸´Ïî
+DuplicatesPage.Check.HideDuplicates=éšè—é‡å¤é¡¹
 
-DuplicatesPage.Group.Repeat=¸´ÖÆ£¨ÖØ¸´£©
+DuplicatesPage.Group.Repeat=å¤åˆ¶ï¼ˆé‡å¤ï¼‰
 
-DuplicatesPage.Group.RepeatonPage=¸´ÖÆ£¨Ò³ÉÏÖØ¸´£©
+DuplicatesPage.Group.RepeatonPage=å¤åˆ¶ï¼ˆé¡µä¸Šé‡å¤ï¼‰
 
-DuplicatesPage.Label.RepeatInfo=Òş²ØÓëÉÏÒ»Êı¾İĞĞÏàÍ¬µÄÖµ¡£
+DuplicatesPage.Label.RepeatInfo=éšè—ä¸ä¸Šä¸€æ•°æ®è¡Œç›¸åŒçš„å€¼ã€‚
 
-DuplicatesPage.Label.RepeatOnPage.1=Òş²ØÓëÉÏÒ»ĞĞÏàÍ¬µÄÖµ£¬
+DuplicatesPage.Label.RepeatOnPage.1=éšè—ä¸ä¸Šä¸€è¡Œç›¸åŒçš„å€¼ï¼Œ
 
-DuplicatesPage.Label.RepeatOnPage.2=\\ µ«Ê¼ÖÕÔÚÃ¿¸öĞÂÒ³¶¥²¿ÏÔÊ¾¸ÃÖµ¡£
+DuplicatesPage.Label.RepeatOnPage.2=\\ ä½†å§‹ç»ˆåœ¨æ¯ä¸ªæ–°é¡µé¡¶éƒ¨æ˜¾ç¤ºè¯¥å€¼ã€‚
 
-DuplicatesPage.Label.ResetonGroup=¶ÔÒÔÏÂ×é½øĞĞÖØÖÃ
+DuplicatesPage.Label.ResetonGroup=å¯¹ä»¥ä¸‹ç»„è¿›è¡Œé‡ç½®
 
-DuplicatesPage.Radio.Repeat=ÖØ¸´
+DuplicatesPage.Radio.Repeat=é‡å¤
 
-DuplicatesPage.Radio.RepeatonPage=Ò³ÉÏÖØ¸´
+DuplicatesPage.Radio.RepeatonPage=é¡µä¸Šé‡å¤
 
 ###########################################################
 #EditAction properties
-EditAction.text=±à¼­(&E)
+EditAction.text=ç¼–è¾‘(&E)
 
 ###########################################################
 #EditGroupAction properties
-EditGroupAction.stackMsg.editGroup=±à¼­×é
+EditGroupAction.stackMsg.editGroup=ç¼–è¾‘ç»„
 
 ###########################################################
 #EditGroupAction properties
-InsertGroupHeaderFooterAction.stackMsg.editGroup=²åÈë×éÒ³Ã¼/Ò³½Å
+InsertGroupHeaderFooterAction.stackMsg.editGroup=æ’å…¥ç»„é¡µçœ‰/é¡µè„š
 
-InsertGroupHeaderFooterAction.Text.Header=Ò³Ã¼
+InsertGroupHeaderFooterAction.Text.Header=é¡µçœ‰
 
-InsertGroupHeaderFooterAction.Text.Footer=Ò³½Å
+InsertGroupHeaderFooterAction.Text.Footer=é¡µè„š
 
 ###########################################################
 #DeleteGroupAction properties
-DeleteGroupAction.stackMsg.deleteGroup=É¾³ı×é
+DeleteGroupAction.stackMsg.deleteGroup=åˆ é™¤ç»„
 
 ###########################################################
 #EditLabelAction properties
-EditLabelAction.text=±à¼­(&E)
+EditLabelAction.text=ç¼–è¾‘(&E)
 
-EditorDragGuidePolicy.pixels.label=ÏñËØ
+EditorDragGuidePolicy.pixels.label=åƒç´ 
 
-EditorGuide.bottom.label=µ×²¿:
+EditorGuide.bottom.label=åº•éƒ¨:
 
-EditorGuide.left.label=×ó²à:
+EditorGuide.left.label=å·¦ä¾§:
 
-EditorGuide.right.label=ÓÒ²à:
+EditorGuide.right.label=å³ä¾§:
 
-EditorGuide.top.label=¶¥²¿:
+EditorGuide.top.label=é¡¶éƒ¨:
 
 ###########################################################
 #Element properties
-Element.AbstractScalarParameter.dataType=Êı¾İÀàĞÍ(&D):
+Element.AbstractScalarParameter.dataType=æ•°æ®ç±»å‹(&D):
 
-Element.AutoText.type=ÀàĞÍ:
+Element.AutoText.type=ç±»å‹:
 
-Element.Cell.colSpan=ÁĞ¿ç¶È:
+Element.Cell.colSpan=åˆ—è·¨åº¦:
 
-Element.Cell.column=ÁĞ:
+Element.Cell.column=åˆ—:
 
-Element.Cell.drop=·ÅÖÃ(&D):
+Element.Cell.drop=æ”¾ç½®(&D):
 
-Element.Cell.height=¸ß¶È:
+Element.Cell.height=é«˜åº¦:
 
-Element.Cell.rowSpan=ĞĞ¿ç¶È:
+Element.Cell.rowSpan=è¡Œè·¨åº¦:
 
-Element.Cell.slot.content=ÄÚÈİ:
+Element.Cell.slot.content=å†…å®¹:
 
-Element.Cell.verticalAlign=´¹Ö±¶ÔÆë:
+Element.Cell.verticalAlign=å‚ç›´å¯¹é½:
 
-Element.Cell.width=¿í¶È:
+Element.Cell.width=å®½åº¦:
 
-Element.Column.alignment=¶ÔÆë:
+Element.Column.alignment=å¯¹é½:
 
-Element.Column.repeat=ÖØ¸´:
+Element.Column.repeat=é‡å¤:
 
-Element.Column.width=¿í¶È(&W):
+Element.Column.width=å®½åº¦(&W):
 
-Element.Column.suppressDuplicates=ÒÖÖÆÖØ¸´
+Element.Column.suppressDuplicates=æŠ‘åˆ¶é‡å¤
 
-Element.Container.slot.reportItems=±¨±íÏî:
+Element.Container.slot.reportItems=æŠ¥è¡¨é¡¹:
 
-Element.Data.action=²Ù×÷:
+Element.Data.action=æ“ä½œ:
 
-Element.Data.helpText=°ïÖúÎÄ±¾:
+Element.Data.helpText=å¸®åŠ©æ–‡æœ¬:
 
-Element.Data.helpTextID=°ïÖúÎÄ±¾¹Ø¼ü×Ö
+Element.Data.helpTextID=å¸®åŠ©æ–‡æœ¬å…³é”®å­—
 
-Element.TextData.valueExpr=Öµ±í´ïÊ½(&U):
+Element.TextData.valueExpr=å€¼è¡¨è¾¾å¼(&U):
 
-Element.DataSet.afterClose.toolTip=½öÔÚ¹Ø±ÕÊı¾İ¼¯Ö®ºóµ÷ÓÃ¡£
+Element.DataSet.afterClose.toolTip=ä»…åœ¨å…³é—­æ•°æ®é›†ä¹‹åè°ƒç”¨ã€‚
 
-Element.DataSet.afterClose=¹Ø±Õºó:
+Element.DataSet.afterClose=å…³é—­å:
 
-Element.DataSet.afterOpen.toolTip=½öÔÚ´ò¿ªÊı¾İ¼¯Ö®ºóµ÷ÓÃ¡£
+Element.DataSet.afterOpen.toolTip=ä»…åœ¨æ‰“å¼€æ•°æ®é›†ä¹‹åè°ƒç”¨ã€‚
 
-Element.DataSet.afterOpen=´ò¿ªºó:
+Element.DataSet.afterOpen=æ‰“å¼€å:
 
-Element.DataSet.beforeClose.toolTip=½öÔÚ¹Ø±ÕÊı¾İ¼¯Ö®Ç°µ÷ÓÃ¡£
+Element.DataSet.beforeClose.toolTip=ä»…åœ¨å…³é—­æ•°æ®é›†ä¹‹å‰è°ƒç”¨ã€‚
 
-Element.DataSet.beforeClose=¹Ø±ÕÇ°:
+Element.DataSet.beforeClose=å…³é—­å‰:
 
-Element.DataSet.beforeOpen.toolTip=½öÔÚ´ò¿ªÊı¾İ¼¯Ö®Ç°µ÷ÓÃ¡£
+Element.DataSet.beforeOpen.toolTip=ä»…åœ¨æ‰“å¼€æ•°æ®é›†ä¹‹å‰è°ƒç”¨ã€‚
 
-Element.DataSet.beforeOpen=´ò¿ªÇ°:
+Element.DataSet.beforeOpen=æ‰“å¼€å‰:
 
-Element.DataSet.cachedMetaData=»º´æÔªÊı¾İ:
+Element.DataSet.cachedMetaData=ç¼“å­˜å…ƒæ•°æ®:
 
-Element.DataSet.columnHints=ÁĞÌáÊ¾:
+Element.DataSet.columnHints=åˆ—æç¤º:
 
-Element.DataSet.computedColumns=¼ÆËãÁĞ:
+Element.DataSet.computedColumns=è®¡ç®—åˆ—:
 
-Element.DataSet.dataSource=Êı¾İÔ´:
+Element.DataSet.dataSource=æ•°æ®æº:
 
-Element.DataSet.filter=É¸Ñ¡Æ÷:
+Element.DataSet.filter=ç­›é€‰å™¨:
 
-Element.DataSet.inputParameters=ÊäÈë²ÎÊı:
+Element.DataSet.inputParameters=è¾“å…¥å‚æ•°:
 
-Element.DataSet.onFetch.toolTip=½öÔÚ´ÓÊı¾İ¼¯»ñÈ¡Êı¾İĞĞÖ®Ç°µ÷ÓÃ¡£
+Element.DataSet.onFetch.toolTip=ä»…åœ¨ä»æ•°æ®é›†è·å–æ•°æ®è¡Œä¹‹å‰è°ƒç”¨ã€‚
 
-Element.DataSet.onFetch=»ñÈ¡ÖĞ:
+Element.DataSet.onFetch=è·å–ä¸­:
 
-Element.DataSet.outputParameters=Êä³ö²ÎÊı:
+Element.DataSet.outputParameters=è¾“å‡ºå‚æ•°:
 
-Element.DataSet.paramBindings=²ÎÊı°ó¶¨:
+Element.DataSet.paramBindings=å‚æ•°ç»‘å®š:
 
-Element.DataSet.resultSet=½á¹û¼¯:
+Element.DataSet.resultSet=ç»“æœé›†:
 
-Element.DataSource.afterClose.toolTip=½öÔÚ¹Ø±ÕÊı¾İÔ´Ö®ºóµ÷ÓÃ¡£
+Element.DataSource.afterClose.toolTip=ä»…åœ¨å…³é—­æ•°æ®æºä¹‹åè°ƒç”¨ã€‚
 
-Element.DataSource.afterClose=¹Ø±Õºó:
+Element.DataSource.afterClose=å…³é—­å:
 
-Element.DataSource.afterOpen.toolTip=½öÔÚ´ò¿ªÊı¾İÔ´Ö®ºóµ÷ÓÃ¡£
+Element.DataSource.afterOpen.toolTip=ä»…åœ¨æ‰“å¼€æ•°æ®æºä¹‹åè°ƒç”¨ã€‚
 
-Element.DataSource.afterOpen=´ò¿ªºó:
+Element.DataSource.afterOpen=æ‰“å¼€å:
 
-Element.DataSource.beforeClose.toolTip=½öÔÚ¹Ø±ÕÊı¾İÔ´Ö®Ç°µ÷ÓÃ¡£
+Element.DataSource.beforeClose.toolTip=ä»…åœ¨å…³é—­æ•°æ®æºä¹‹å‰è°ƒç”¨ã€‚
 
-Element.DataSource.beforeClose=¹Ø±ÕÇ°:
+Element.DataSource.beforeClose=å…³é—­å‰:
 
-Element.DataSource.beforeOpen.toolTip=½öÔÚ´ò¿ªÊı¾İÔ´Ö®Ç°µ÷ÓÃ¡£
+Element.DataSource.beforeOpen.toolTip=ä»…åœ¨æ‰“å¼€æ•°æ®æºä¹‹å‰è°ƒç”¨ã€‚
 
-Element.DataSource.beforeOpen=´ò¿ªÇ°:
+Element.DataSource.beforeOpen=æ‰“å¼€å‰:
 
-Element.ExtendedItem.extension=À©Õ¹Ãû:
+Element.ExtendedItem.extension=æ‰©å±•å:
 
-Element.ExtendedItem.extensionName=À©Õ¹Ãû:
+Element.ExtendedItem.extensionName=æ‰©å±•å:
 
-Element.FreeForm.slot.reportItems=±¨±íÏî:
+Element.FreeForm.slot.reportItems=æŠ¥è¡¨é¡¹:
 
-Element.GraphicMasterPage.columns=ÁĞ:
+Element.GraphicMasterPage.columns=åˆ—:
 
-Element.GraphicMasterPage.columnSpacing=ÁĞ¼ä¾à:
+Element.GraphicMasterPage.columnSpacing=åˆ—é—´è·:
 
-Element.GraphicMasterPage.slot.contents=ÄÚÈİ:
+Element.GraphicMasterPage.slot.contents=å†…å®¹:
 
-Element.Grid.slot.columns=ÁĞ:
+Element.Grid.slot.columns=åˆ—:
 
-Element.Grid.slot.row=ĞĞ:
+Element.Grid.slot.row=è¡Œ:
 
-Element.Image.action=²Ù×÷:
+Element.Image.action=æ“ä½œ:
 
-Element.Image.altText=Ìæ´úÎÄ±¾(&A):
+Element.Image.altText=æ›¿ä»£æ–‡æœ¬(&A):
 
-Element.Image.altTextID=Ìæ´úÎÄ±¾¹Ø¼ü×Ö(&K):
+Element.Image.altTextID=æ›¿ä»£æ–‡æœ¬å…³é”®å­—(&K):
 
-Element.Image.helpText=°ïÖúÎÄ±¾:
+Element.Image.helpText=å¸®åŠ©æ–‡æœ¬:
 
-Element.Image.helpTextID=°ïÖúÎÄ±¾¹Ø¼ü×Ö
+Element.Image.helpTextID=å¸®åŠ©æ–‡æœ¬å…³é”®å­—
 
-Element.Image.imageName=Í¼ÏñÃû³Æ:
+Element.Image.imageName=å›¾åƒåç§°:
 
-Element.Image.scale=±ÈÀı:
+Element.Image.scale=æ¯”ä¾‹:
 
-Element.Image.size=´óĞ¡:
+Element.Image.size=å¤§å°:
 
-Element.Image.source=Ô´:
+Element.Image.source=æº:
 
-Element.Image.typeExpr=ÀàĞÍ±í´ïÊ½:
+Element.Image.typeExpr=ç±»å‹è¡¨è¾¾å¼:
 
 Element.Image.uri=uri:
-Element.Image.valueExpr=Öµ±í´ïÊ½:
+Element.Image.valueExpr=å€¼è¡¨è¾¾å¼:
 
-Element.JdbcDataSource.dataSource=Êı¾İÔ´:
+Element.JdbcDataSource.dataSource=æ•°æ®æº:
 
-Element.JdbcDataSource.driver=Çı¶¯³ÌĞò:
+Element.JdbcDataSource.driver=é©±åŠ¨ç¨‹åº:
 
-Element.JdbcDataSource.password=ÃÜÂë:
+Element.JdbcDataSource.password=å¯†ç :
 
 Element.JdbcDataSource.url=Url:
-Element.JdbcDataSource.userName=ÓÃ»§Ãû:
+Element.JdbcDataSource.userName=ç”¨æˆ·å:
 
-Element.JdbcSelectDataSet.getStatement.toolTip=·µ»Ø²éÑ¯µÄ×Ô¶¨Òå SQL Óï¾ä¡£
+Element.JdbcSelectDataSet.getStatement.toolTip=è¿”å›æŸ¥è¯¢çš„è‡ªå®šä¹‰ SQL è¯­å¥ã€‚
 
-Element.JdbcSelectDataSet.getStatement=»ñÈ¡Óï¾ä:
+Element.JdbcSelectDataSet.getStatement=è·å–è¯­å¥:
 
-Element.JdbcSelectDataSet.statement=Óï¾ä:
+Element.JdbcSelectDataSet.statement=è¯­å¥:
 
-Element.Label.action=²Ù×÷:
+Element.Label.action=æ“ä½œ:
 
-Element.Label.helpText=°ïÖúÎÄ±¾:
+Element.Label.helpText=å¸®åŠ©æ–‡æœ¬:
 
-Element.Label.helpTextID=°ïÖúÎÄ±¾¹Ø¼ü×Ö
+Element.Label.helpTextID=å¸®åŠ©æ–‡æœ¬å…³é”®å­—
 
-Element.Label.text=ÎÄ±¾:
+Element.Label.text=æ–‡æœ¬:
 
-Element.Label.textID=ÎÄ±¾¹Ø¼ü×Ö(&T):
+Element.Label.textID=æ–‡æœ¬å…³é”®å­—(&T):
 
-Element.Line.orientation=·½Ïò:
+Element.Line.orientation=æ–¹å‘:
 
 Element.List.slot.columnHeader=columnHeader:
-Element.List.slot.detail=ÏêÏ¸×ÊÁÏ:
+Element.List.slot.detail=è¯¦ç»†èµ„æ–™:
 
-Element.List.slot.footer=Ò³½Å:
+Element.List.slot.footer=é¡µè„š:
 
-Element.List.slot.group=×é:
+Element.List.slot.group=ç»„:
 
-Element.List.slot.header=Ò³Ã¼:
+Element.List.slot.header=é¡µçœ‰:
 
-Element.ListGroup.slot.footer=Ò³½Å:
+Element.ListGroup.slot.footer=é¡µè„š:
 
-Element.ListGroup.slot.header=Ò³Ã¼:
+Element.ListGroup.slot.header=é¡µçœ‰:
 
-Element.Listing.filter=É¸Ñ¡Æ÷:
+Element.Listing.filter=ç­›é€‰å™¨:
 
-Element.Listing.onFinish.toolTip=ÔÚ´Ó´ËÔªËØµÄÊı¾İ¼¯ÄÚ¶ÁÈ¡×îºóÒ»ĞĞÖ®ºóµ÷ÓÃ£¬µ«ÔÚ´´½¨Ò³½ÅÇø¶ÎÖ®Ç°¡£
+Element.Listing.onFinish.toolTip=åœ¨ä»æ­¤å…ƒç´ çš„æ•°æ®é›†å†…è¯»å–æœ€åä¸€è¡Œä¹‹åè°ƒç”¨ï¼Œä½†åœ¨åˆ›å»ºé¡µè„šåŒºæ®µä¹‹å‰ã€‚
 
-Element.Listing.onFinish=Íê³ÉÊ±:
+Element.Listing.onFinish=å®Œæˆæ—¶:
 
-Element.Listing.onRow.toolTip=Îª´Ó´ËÔªËØµÄÊı¾İ¼¯ÖĞ¼ìË÷³öµÄÃ¿ĞĞµ÷ÓÃ£¬µ«ÔÚÎª¸ÃĞĞ´´½¨ÄÚÈİÖ®Ç°¡£
+Element.Listing.onRow.toolTip=ä¸ºä»æ­¤å…ƒç´ çš„æ•°æ®é›†ä¸­æ£€ç´¢å‡ºçš„æ¯è¡Œè°ƒç”¨ï¼Œä½†åœ¨ä¸ºè¯¥è¡Œåˆ›å»ºå†…å®¹ä¹‹å‰ã€‚
 
-Element.Listing.onRow=Óöµ½ĞĞÊ±:
+Element.Listing.onRow=é‡åˆ°è¡Œæ—¶:
 
-Element.Listing.onStart.toolTip=ÔÚ´ò¿ªÊı¾İ¼¯Ö®ºó¡¢ÔÚ´´½¨ÌâÍ·Çø¶ÎÖ®Ç°²¢ÇÒÔÚ´Ó´ËÔªËØµÄÊı¾İ¼¯¼ìË÷Ê×ĞĞÖ®Ç°µ÷ÓÃ¡£
+Element.Listing.onStart.toolTip=åœ¨æ‰“å¼€æ•°æ®é›†ä¹‹åã€åœ¨åˆ›å»ºé¢˜å¤´åŒºæ®µä¹‹å‰å¹¶ä¸”åœ¨ä»æ­¤å…ƒç´ çš„æ•°æ®é›†æ£€ç´¢é¦–è¡Œä¹‹å‰è°ƒç”¨ã€‚
 
-Element.Listing.onStart=Æô¶¯Ê±:
+Element.Listing.onStart=å¯åŠ¨æ—¶:
 
-Element.Listing.pageBreakInterval=·ÖÒ³·û¼ä¸ô(&K):
+Element.Listing.pageBreakInterval=åˆ†é¡µç¬¦é—´éš”(&K):
 
-Element.Listing.sorting=ÅÅĞò:
+Element.Listing.sorting=æ’åº:
 
-Element.ListingGroup.filter=É¸Ñ¡Æ÷:
+Element.ListingGroup.filter=ç­›é€‰å™¨:
 
-Element.ListingGroup.groupName=Ãû³Æ
+Element.ListingGroup.groupName=åç§°
 
-Element.ListingGroup.interval=¼ä¸ô:
+Element.ListingGroup.interval=é—´éš”:
 
-Element.ListingGroup.intervalRange=¼ä¸ô·¶Î§:
+Element.ListingGroup.intervalRange=é—´éš”èŒƒå›´:
 
-Element.ListingGroup.keyExpr=¹Ø¼ü×Ö±í´ïÊ½
+Element.ListingGroup.keyExpr=å…³é”®å­—è¡¨è¾¾å¼
 
-Element.ListingGroup.onFinish.toolTip=ÔÚ´Ó´ËÔªËØµÄÊı¾İ¼¯ÄÚ¶ÁÈ¡×îºóÒ»ĞĞÖ®ºóµ÷ÓÃ£¬µ«ÔÚ´´½¨Ò³½ÅÇø¶ÎÖ®Ç°¡£
+Element.ListingGroup.onFinish.toolTip=åœ¨ä»æ­¤å…ƒç´ çš„æ•°æ®é›†å†…è¯»å–æœ€åä¸€è¡Œä¹‹åè°ƒç”¨ï¼Œä½†åœ¨åˆ›å»ºé¡µè„šåŒºæ®µä¹‹å‰ã€‚
 
-Element.ListingGroup.onFinish=Íê³ÉÊ±:
+Element.ListingGroup.onFinish=å®Œæˆæ—¶:
 
-Element.ListingGroup.onRow.toolTip=¶Ô´Ó´ËÔªËØµÄÊı¾İ¼¯¼ìË÷µÄÃ¿ĞĞµ÷ÓÃ£¬µ«ÊÇÔÚÎª¸ÃĞĞ´´½¨ÈÎºÎÄÚÈİÖ®Ç°µ÷ÓÃ¡£
+Element.ListingGroup.onRow.toolTip=å¯¹ä»æ­¤å…ƒç´ çš„æ•°æ®é›†æ£€ç´¢çš„æ¯è¡Œè°ƒç”¨ï¼Œä½†æ˜¯åœ¨ä¸ºè¯¥è¡Œåˆ›å»ºä»»ä½•å†…å®¹ä¹‹å‰è°ƒç”¨ã€‚
 
-Element.ListingGroup.onRow=Óöµ½ĞĞÊ±:
+Element.ListingGroup.onRow=é‡åˆ°è¡Œæ—¶:
 
-Element.ListingGroup.onStart.toolTip=ÔÚ´ò¿ªÊı¾İ¼¯Ö®ºó¡¢ÔÚ´´½¨ÌâÍ·Çø¶ÎÖ®Ç°²¢ÇÒÔÚ´Ó´ËÔªËØµÄÊı¾İ¼¯¼ìË÷Ê×ĞĞÖ®Ç°µ÷ÓÃ¡£
+Element.ListingGroup.onStart.toolTip=åœ¨æ‰“å¼€æ•°æ®é›†ä¹‹åã€åœ¨åˆ›å»ºé¢˜å¤´åŒºæ®µä¹‹å‰å¹¶ä¸”åœ¨ä»æ­¤å…ƒç´ çš„æ•°æ®é›†æ£€ç´¢é¦–è¡Œä¹‹å‰è°ƒç”¨ã€‚
 
-Element.ListingGroup.onStart=Æô¶¯Ê±:
+Element.ListingGroup.onStart=å¯åŠ¨æ—¶:
 
-Element.ListingGroup.pageBreakAfter=¶ÔÏóºóÃæµÄ·ÖÒ³·û:
+Element.ListingGroup.pageBreakAfter=å¯¹è±¡åé¢çš„åˆ†é¡µç¬¦:
 
-Element.ListingGroup.pageBreakBefore=¶ÔÏóÇ°ÃæµÄ·ÖÒ³·û:
+Element.ListingGroup.pageBreakBefore=å¯¹è±¡å‰é¢çš„åˆ†é¡µç¬¦:
 
-Element.ListingGroup.sort=ÅÅĞò:
+Element.ListingGroup.sort=æ’åº:
 
-Element.ListingGroup.sortDirection=ÅÅĞò·½Ïò:
+Element.ListingGroup.sortDirection=æ’åºæ–¹å‘:
 
-Element.ListingGroup.toc=Ä¿Â¼:
+Element.ListingGroup.toc=ç›®å½•:
 
-Element.MasterPage.bottomMargin=ÏÂ±ß¾à(&B):
+Element.MasterPage.bottomMargin=ä¸‹è¾¹è·(&B):
 
-Element.MasterPage.columns=ÁĞ:
+Element.MasterPage.columns=åˆ—:
 
-Element.MasterPage.columnSpacing=¼ä¾à(&S):
+Element.MasterPage.columnSpacing=é—´è·(&S):
 
-Element.MasterPage.height=¸ß¶È(&E):
+Element.MasterPage.height=é«˜åº¦(&E):
 
-Element.MasterPage.leftMargin=×ó±ß¾à(&L):
+Element.MasterPage.leftMargin=å·¦è¾¹è·(&L):
 
-Element.MasterPage.margin=±ß¾à:
+Element.MasterPage.margin=è¾¹è·:
 
-Element.MasterPage.orientation=·½Ïò(&R):
+Element.MasterPage.orientation=æ–¹å‘(&R):
 
-Element.MasterPage.rightMargin=ÓÒ±ß¾à(&R):
+Element.MasterPage.rightMargin=å³è¾¹è·(&R):
 
-Element.MasterPage.slot.contents=ÄÚÈİ:
+Element.MasterPage.slot.contents=å†…å®¹:
 
-Element.MasterPage.topMargin=ÉÏ±ß¾à(&T):
+Element.MasterPage.topMargin=ä¸Šè¾¹è·(&T):
 
-Element.MasterPage.type=ÀàĞÍ(&Y):
+Element.MasterPage.type=ç±»å‹(&Y):
 
-Element.MasterPage.width=¿í¶È(&W):
+Element.MasterPage.width=å®½åº¦(&W):
 
-Element.Module.author=×÷Õß(&U):
+Element.Module.author=ä½œè€…(&U):
 
-Element.Module.base=»ù±¾:
+Element.Module.base=åŸºæœ¬:
 
-Element.Module.colorPalette=µ÷É«°å:
+Element.Module.colorPalette=è°ƒè‰²æ¿:
 
-Element.Module.comments=±¸×¢(&C):
+Element.Module.comments=å¤‡æ³¨(&C):
 
-Element.Module.configVars=ÅäÖÃ±äÁ¿:
+Element.Module.configVars=é…ç½®å˜é‡:
 
-Element.Module.createdBy=´´½¨Õß(&C):
+Element.Module.createdBy=åˆ›å»ºè€…(&C):
 
-Element.Module.description=ÃèÊö(&E):
+Element.Module.description=æè¿°(&E):
 
-Element.Module.descriptionID=ËµÃ÷¹Ø¼ü×Ö:
+Element.Module.descriptionID=è¯´æ˜å…³é”®å­—:
 
-Element.Module.helpGuide=°ïÖúÖ¸ÄÏ:
+Element.Module.helpGuide=å¸®åŠ©æŒ‡å—:
 
-Element.Module.images=Í¼Ïñ:
+Element.Module.images=å›¾åƒ:
 
-Element.Module.includeLibraries=°üº¬¿â:
+Element.Module.includeLibraries=åŒ…å«åº“:
 
-Element.Module.includeResource=×ÊÔ´ÎÄ¼ş(&E):
+Element.Module.includeResource=èµ„æºæ–‡ä»¶(&E):
 
-Element.Module.includeScripts=°üº¬½Å±¾:
+Element.Module.includeScripts=åŒ…å«è„šæœ¬:
 
-Element.Module.initialize.toolTip=¿ªÊ¼Ö´ĞĞ±¨±íÊ±µ÷ÓÃ¡£
+Element.Module.initialize.toolTip=å¼€å§‹æ‰§è¡ŒæŠ¥è¡¨æ—¶è°ƒç”¨ã€‚
 
-Element.Module.initialize=³õÊ¼»¯:
+Element.Module.initialize=åˆå§‹åŒ–:
 
-Element.LayoutModule.theme=²¼¾°Ö÷Ìâ(&H):
+Element.LayoutModule.theme=å¸ƒæ™¯ä¸»é¢˜(&H):
 
-Element.Module.title=±êÌâ(&I):
+Element.Module.title=æ ‡é¢˜(&I):
 
-Element.Module.titleID=±êÌâ¹Ø¼ü×Ö:
+Element.Module.titleID=æ ‡é¢˜å…³é”®å­—:
 
-Element.Module.units=µ¥Î»(&S):
+Element.Module.units=å•ä½(&S):
 
-Element.MultiLineData.contentTypeExpr=ÄÚÈİÀàĞÍ±í´ïÊ½:
+Element.MultiLineData.contentTypeExpr=å†…å®¹ç±»å‹è¡¨è¾¾å¼:
 
-Element.MultiLineData.valueExpr=Öµ±í´ïÊ½:
+Element.MultiLineData.valueExpr=å€¼è¡¨è¾¾å¼:
 
-Element.OdaDataSet.privateDriverDesignState=Ë½ÓĞÇı¶¯³ÌĞòÉè¼Æ×´Ì¬:
+Element.OdaDataSet.privateDriverDesignState=ç§æœ‰é©±åŠ¨ç¨‹åºè®¾è®¡çŠ¶æ€:
 
-Element.OdaDataSet.privateDriverProperties=Ë½ÓĞÇı¶¯³ÌĞòÊôĞÔ:
+Element.OdaDataSet.privateDriverProperties=ç§æœ‰é©±åŠ¨ç¨‹åºå±æ€§:
 
-Element.OdaDataSet.publicDriverProperties=¹«¹²Çı¶¯³ÌĞòÊôĞÔ:
+Element.OdaDataSet.publicDriverProperties=å…¬å…±é©±åŠ¨ç¨‹åºå±æ€§:
 
 Element.OdaDataSet.queryScript.toolTip=TBD:
 
-Element.OdaDataSet.queryScript=½Å±¾:
+Element.OdaDataSet.queryScript=è„šæœ¬:
 
-Element.OdaDataSet.queryText=²éÑ¯:
+Element.OdaDataSet.queryText=æŸ¥è¯¢:
 
-Element.OdaDataSet.resultSetName=½á¹û¼¯Ãû³Æ:
+Element.OdaDataSet.resultSetName=ç»“æœé›†åç§°:
 
-Element.OdaDataSet.type=ÀàĞÍ:
+Element.OdaDataSet.type=ç±»å‹:
 
-Element.OdaDataSource.driverName=Çı¶¯³ÌĞòÃû³Æ:
+Element.OdaDataSource.driverName=é©±åŠ¨ç¨‹åºåç§°:
 
-Element.OdaDataSource.privateDriverProperties=Ë½ÓĞÇı¶¯³ÌĞòÊôĞÔ:
+Element.OdaDataSource.privateDriverProperties=ç§æœ‰é©±åŠ¨ç¨‹åºå±æ€§:
 
-Element.OdaDataSource.publicDriverProperties=¹«¹²Çı¶¯³ÌĞòÊôĞÔ:
+Element.OdaDataSource.publicDriverProperties=å…¬å…±é©±åŠ¨ç¨‹åºå±æ€§:
 
-Element.Parameter.helpText=°ïÖúÎÄ±¾:
+Element.Parameter.helpText=å¸®åŠ©æ–‡æœ¬:
 
-Element.Parameter.helpTextID=°ïÖúÎÄ±¾¹Ø¼ü×Ö(&Y):
+Element.Parameter.helpTextID=å¸®åŠ©æ–‡æœ¬å…³é”®å­—(&Y):
 
-Element.Parameter.hidden=Òş²Ø:
+Element.Parameter.hidden=éšè—:
 
-Element.Parameter.promptTextID=ÌáÊ¾ÎÄ±¾¹Ø¼ü×Ö(&K):
+Element.Parameter.promptTextID=æç¤ºæ–‡æœ¬å…³é”®å­—(&K):
 
-Element.ParameterGroup.helpText=°ïÖúÎÄ±¾:
+Element.ParameterGroup.helpText=å¸®åŠ©æ–‡æœ¬:
 
-Element.ParameterGroup.helpTextID=°ïÖúÎÄ±¾¹Ø¼ü×Ö(&Y):
+Element.ParameterGroup.helpTextID=å¸®åŠ©æ–‡æœ¬å…³é”®å­—(&Y):
 
-Element.ParameterGroup.slot.parameters=²ÎÊı:
+Element.ParameterGroup.slot.parameters=å‚æ•°:
 
-Element.ParameterGroup.startExpanded=¿ªÊ¼Õ¹¿ª:
+Element.ParameterGroup.startExpanded=å¼€å§‹å±•å¼€:
 
-Element.ParameterGroup.promptTextID=ÌáÊ¾ÎÄ±¾¹Ø¼ü×Ö(&Y):
+Element.ParameterGroup.promptTextID=æç¤ºæ–‡æœ¬å…³é”®å­—(&Y):
 
-Element.ReportDesign.afterCloseDoc.toolTip=½öÔÚÉú³É½×¶Î¹Ø±Õ±¨±íÎÄµµÎÄ¼şÖ®ºóµ÷ÓÃ¡£
+Element.ReportDesign.afterCloseDoc.toolTip=ä»…åœ¨ç”Ÿæˆé˜¶æ®µå…³é—­æŠ¥è¡¨æ–‡æ¡£æ–‡ä»¶ä¹‹åè°ƒç”¨ã€‚
 
-Element.ReportDesign.layoutPreference=²¼¾ÖÊ×Ñ¡Ïî:
+Element.ReportDesign.layoutPreference=å¸ƒå±€é¦–é€‰é¡¹:
 
-Element.ReportDesign.afterCloseDoc=¹Ø±ÕÎÄµµºó:
+Element.ReportDesign.afterCloseDoc=å…³é—­æ–‡æ¡£å:
 
-Element.ReportDesign.afterFactory.toolTip=ÔÚÉú³É½×¶Î½áÊøÊ±²¢ÇÒÔÚ¹Ø±Õ±¨±íÎÄµµ£¨Èç¹ûÓĞ£©Ö®ºóµ÷ÓÃ¡£ÕâÊÇÉú³É½×¶Îµ÷ÓÃµÄ×îºóÒ»¸ö·½·¨¡£
+Element.ReportDesign.afterFactory.toolTip=åœ¨ç”Ÿæˆé˜¶æ®µç»“æŸæ—¶å¹¶ä¸”åœ¨å…³é—­æŠ¥è¡¨æ–‡æ¡£ï¼ˆå¦‚æœæœ‰ï¼‰ä¹‹åè°ƒç”¨ã€‚è¿™æ˜¯ç”Ÿæˆé˜¶æ®µè°ƒç”¨çš„æœ€åä¸€ä¸ªæ–¹æ³•ã€‚
 
-Element.ReportDesign.afterFactory=³ö³§ºó:
+Element.ReportDesign.afterFactory=å‡ºå‚å:
 
-Element.ReportDesign.afterOpenDoc.toolTip=½öÔÚÉú³É½×¶Î´ò¿ª±¨±íÎÄµµÖ®ºóµ÷ÓÃ¡£
+Element.ReportDesign.afterOpenDoc.toolTip=ä»…åœ¨ç”Ÿæˆé˜¶æ®µæ‰“å¼€æŠ¥è¡¨æ–‡æ¡£ä¹‹åè°ƒç”¨ã€‚
 
-Element.ReportDesign.afterOpenDoc=´ò¿ªÎÄµµºó:
+Element.ReportDesign.afterOpenDoc=æ‰“å¼€æ–‡æ¡£å:
 
-Element.ReportDesign.afterRender.toolTip=¿ªÊ¼Õ¹Ê¾Ê±¼ä²Ù×÷ºóµ÷ÓÃ¡£
+Element.ReportDesign.afterRender.toolTip=å¼€å§‹å±•ç¤ºæ—¶é—´æ“ä½œåè°ƒç”¨ã€‚
 
-Element.ReportDesign.afterRender=ÊµÊ©ºó:
+Element.ReportDesign.afterRender=å®æ–½å:
 
-Element.ReportDesign.beforeCloseDoc.toolTip=½öÔÚÉú³É½×¶Î¹Ø±Õ±¨±íÎÄµµÎÄ¼şÖ®Ç°µ÷ÓÃ¡£
+Element.ReportDesign.beforeCloseDoc.toolTip=ä»…åœ¨ç”Ÿæˆé˜¶æ®µå…³é—­æŠ¥è¡¨æ–‡æ¡£æ–‡ä»¶ä¹‹å‰è°ƒç”¨ã€‚
 
-Element.ReportDesign.beforeCloseDoc=¹Ø±ÕÎÄµµÇ°:
+Element.ReportDesign.beforeCloseDoc=å…³é—­æ–‡æ¡£å‰:
 
-Element.ReportDesign.beforeFactory.toolTip=ÔÚÉú³É½×¶Î¿ªÊ¼Ê±£¬ÔÚ initialize( ) ·½·¨Ö®ºó²¢ÇÒÔÚ´ò¿ª±¨±íÎÄµµ£¨Èç¹ûÓĞ£©Ö®Ç°µ÷ÓÃ¡£
+Element.ReportDesign.beforeFactory.toolTip=åœ¨ç”Ÿæˆé˜¶æ®µå¼€å§‹æ—¶ï¼Œåœ¨ initialize( ) æ–¹æ³•ä¹‹åå¹¶ä¸”åœ¨æ‰“å¼€æŠ¥è¡¨æ–‡æ¡£ï¼ˆå¦‚æœæœ‰ï¼‰ä¹‹å‰è°ƒç”¨ã€‚
 
-Element.ReportDesign.beforeFactory=³ö³§Ç°:
+Element.ReportDesign.beforeFactory=å‡ºå‚å‰:
 
-Element.ReportDesign.beforeOpenDoc.toolTip=½öÔÚÉú³É½×¶Î´ò¿ª±¨±íÎÄµµÖ®Ç°µ÷ÓÃ¡£
+Element.ReportDesign.beforeOpenDoc.toolTip=ä»…åœ¨ç”Ÿæˆé˜¶æ®µæ‰“å¼€æŠ¥è¡¨æ–‡æ¡£ä¹‹å‰è°ƒç”¨ã€‚
 
-Element.ReportDesign.beforeOpenDoc=´ò¿ªÎÄµµÖ®Ç°:
+Element.ReportDesign.beforeOpenDoc=æ‰“å¼€æ–‡æ¡£ä¹‹å‰:
 
-Element.ReportDesign.beforeRender.toolTip=¿ªÊ¼Õ¹Ê¾Ê±¼ä²Ù×÷Ç°µ÷ÓÃ¡£
+Element.ReportDesign.beforeRender.toolTip=å¼€å§‹å±•ç¤ºæ—¶é—´æ“ä½œå‰è°ƒç”¨ã€‚
 
-Element.ReportDesign.beforeRender=ÊµÊ©Ç°:
+Element.ReportDesign.beforeRender=å®æ–½å‰:
 
-Element.ReportDesign.displayName=ÏÔÊ¾Ãû³Æ(&Y):
+Element.ReportDesign.displayName=æ˜¾ç¤ºåç§°(&Y):
 
-Element.ReportDesign.eventHandlerClass=ÊÂ¼ş´¦Àí³ÌĞòÀà(&C):
+Element.ReportDesign.eventHandlerClass=äº‹ä»¶å¤„ç†ç¨‹åºç±»(&C):
 
-Element.ReportDesign.iconFile=ËõÂÔÍ¼(&N):
+Element.ReportDesign.iconFile=ç¼©ç•¥å›¾(&N):
 
-Element.ReportDesign.refreshRate=Ë¢ĞÂÂÊ:
+Element.ReportDesign.refreshRate=åˆ·æ–°ç‡:
 
-Element.ReportDesign.bidiLayoutOrientation=±¨±í·½Ïò(&R):
+Element.ReportDesign.bidiLayoutOrientation=æŠ¥è¡¨æ–¹å‘(&R):
 
-Element.ReportElement.comments=±¸×¢(&C):
+Element.ReportElement.comments=å¤‡æ³¨(&C):
 
-Element.ReportElement.Cube=Êı¾İ(&D):
+Element.ReportElement.Cube=æ•°æ®(&D):
 
-Element.ReportElement.customXml=×Ô¶¨Òå XML:
+Element.ReportElement.customXml=è‡ªå®šä¹‰ XML:
 
-Element.ReportElement.displayName=ÏÔÊ¾Ãû³Æ(&Y):
+Element.ReportElement.displayName=æ˜¾ç¤ºåç§°(&Y):
 
-Element.ReportElement.displayNameID=ÏÔÊ¾Ãû³Æ¹Ø¼ü×Ö:
+Element.ReportElement.displayNameID=æ˜¾ç¤ºåç§°å…³é”®å­—:
 
-Element.ReportElement.extends=À©Õ¹:
+Element.ReportElement.extends=æ‰©å±•:
 
-Element.ReportElement.javaClass=Java Àà:
+Element.ReportElement.javaClass=Java ç±»:
 
-Element.ReportElement.name=Ãû³Æ(&N):
+Element.ReportElement.name=åç§°(&N):
 
-Element.ReportElement.propertyMask=ÊôĞÔÑÚÂë:
+Element.ReportElement.propertyMask=å±æ€§æ©ç :
 
-Element.ReportElement.style=ÑùÊ½(&Y):
+Element.ReportElement.style=æ ·å¼(&Y):
 
-Element.ReportItem.bookmark=ÊéÇ©(&B):
+Element.ReportItem.bookmark=ä¹¦ç­¾(&B):
 
-Element.ReportItem.dataSet=Êı¾İ¼¯:
+Element.ReportItem.dataSet=æ•°æ®é›†:
 
-Element.ReportItem.height=¸ß¶È(&H):
+Element.ReportItem.height=é«˜åº¦(&H):
 
-Element.ReportItem.onCreate.toolTip=ÔÚÉú³É½×¶Î´´½¨¸ÃÔªËØÊ±Ö´ĞĞ¡£
+Element.ReportItem.onCreate.toolTip=åœ¨ç”Ÿæˆé˜¶æ®µåˆ›å»ºè¯¥å…ƒç´ æ—¶æ‰§è¡Œã€‚
 
-Element.ReportItem.onCreate=´´½¨Ê±:
+Element.ReportItem.onCreate=åˆ›å»ºæ—¶:
 
-Element.ReportItem.onRender.toolTip=ÔÚÕ¹Ê¾½×¶Î×¼±¸¸ÃÔªËØÒÔ±ã»æÖÆÊ±Ö´ĞĞ¡£
+Element.ReportItem.onRender.toolTip=åœ¨å±•ç¤ºé˜¶æ®µå‡†å¤‡è¯¥å…ƒç´ ä»¥ä¾¿ç»˜åˆ¶æ—¶æ‰§è¡Œã€‚
 
-Element.ReportItem.onRender=ÊµÊ©Ê±:
+Element.ReportItem.onRender=å®æ–½æ—¶:
 
-Element.ReportItem.paramBindings=²ÎÊı°ó¶¨:
+Element.ReportItem.paramBindings=å‚æ•°ç»‘å®š:
 
-Element.ReportItem.toc=Ä¿Â¼(&T):
+Element.ReportItem.toc=ç›®å½•(&T):
 
-Element.ReportItem.visibility=¿É¼ûĞÔ:
+Element.ReportItem.visibility=å¯è§æ€§:
 
-Element.ReportItem.width=¿í¶È(&W):
+Element.ReportItem.width=å®½åº¦(&W):
 
 Element.ReportItem.x=X:
 
 Element.ReportItem.y=Y:
 
-Element.ReportItem.altText=Ìæ´úÎÄ±¾
+Element.ReportItem.altText=æ›¿ä»£æ–‡æœ¬
 
-Element.ReportItem.altTextID=Ìæ´úÎÄ±¾¹Ø¼ü×Ö
+Element.ReportItem.altTextID=æ›¿ä»£æ–‡æœ¬å…³é”®å­—
 
-Element.Row.bookmark=ÊéÇ©:
+Element.Row.bookmark=ä¹¦ç­¾:
 
-Element.Row.height=¸ß¶È(&H):
+Element.Row.height=é«˜åº¦(&H):
 
-Element.Row.slot.cell=µ¥Ôª¸ñ:
+Element.Row.slot.cell=å•å…ƒæ ¼:
 
-Element.Row.visibility=¿É¼ûĞÔ:
+Element.Row.visibility=å¯è§æ€§:
 
-Element.ScalarParameter.alignment=¶ÔÆë:
+Element.ScalarParameter.alignment=å¯¹é½:
 
-Element.ScalarParameter.allowBlank=ÔÊĞíÎª¿Õ:
+Element.ScalarParameter.allowBlank=å…è®¸ä¸ºç©º:
 
-Element.ScalarParameter.allowNull=ÔÊĞí Null:
+Element.ScalarParameter.allowNull=å…è®¸ Null:
 
-Element.ScalarParameter.concealValue=Òş²ØÖµ:
+Element.ScalarParameter.concealValue=éšè—å€¼:
 
-Element.ScalarParameter.controlType=¿Ø¼şÀàĞÍ(&C):
+Element.ScalarParameter.controlType=æ§ä»¶ç±»å‹(&C):
 
-Element.ScalarParameter.defaultValue=Ä¬ÈÏÖµ:
+Element.ScalarParameter.defaultValue=é»˜è®¤å€¼:
 
-Element.ScalarParameter.dynamicList.dataSetName=Êı¾İ¼¯Ãû³Æ:
+Element.ScalarParameter.dynamicList.dataSetName=æ•°æ®é›†åç§°:
 
-Element.ScalarParameter.dynamicList.labelExpr=±êÇ©±í´ïÊ½:
+Element.ScalarParameter.dynamicList.labelExpr=æ ‡ç­¾è¡¨è¾¾å¼:
 
-Element.ScalarParameter.dynamicList.valueExpr=Öµ±í´ïÊ½:
+Element.ScalarParameter.dynamicList.valueExpr=å€¼è¡¨è¾¾å¼:
 
-Element.ScalarParameter.dynamicList=¶¯Ì¬ÁĞ±í:
+Element.ScalarParameter.dynamicList=åŠ¨æ€åˆ—è¡¨:
 
-Element.ScalarParameter.format=¸ñÊ½:
+Element.ScalarParameter.format=æ ¼å¼:
 
-Element.ScalarParameter.selectionList.fixedOrder=¹Ì¶¨Ë³Ğò:
+Element.ScalarParameter.selectionList.fixedOrder=å›ºå®šé¡ºåº:
 
-Element.ScalarParameter.selectionList.mustMatch=±ØĞëÆ¥Åä:
+Element.ScalarParameter.selectionList.mustMatch=å¿…é¡»åŒ¹é…:
 
-Element.ScalarParameter.selectionList.selectionList=Ñ¡ÔñÁĞ±í:
+Element.ScalarParameter.selectionList.selectionList=é€‰æ‹©åˆ—è¡¨:
 
-Element.ScalarParameter.selectionList=Ñ¡ÔñÁĞ±í:
+Element.ScalarParameter.selectionList=é€‰æ‹©åˆ—è¡¨:
 
-Element.ScalarParameter.promptTextID=ÌáÊ¾ÎÄ±¾¹Ø¼ü×Ö(&Y):
+Element.ScalarParameter.promptTextID=æç¤ºæ–‡æœ¬å…³é”®å­—(&Y):
 
-Element.ScriptDataSet.close.toolTip=¹Ø±ÕÊı¾İ¼¯¡£
+Element.ScriptDataSet.close.toolTip=å…³é—­æ•°æ®é›†ã€‚
 
-Element.ScriptDataSet.close=¹Ø±Õ:
+Element.ScriptDataSet.close=å…³é—­:
 
-Element.ScriptDataSet.describe.toolTip=ËµÃ÷½á¹û¼¯¡£
+Element.ScriptDataSet.describe.toolTip=è¯´æ˜ç»“æœé›†ã€‚
 
-Element.ScriptDataSet.describe=ËµÃ÷:
+Element.ScriptDataSet.describe=è¯´æ˜:
 
-Element.ScriptDataSet.fetch.toolTip=´´½¨¡¢ÌîĞ´²¢·µ»ØÀàĞÍ¡°Êı¾İĞĞ¡±¶ÔÏó¡£
+Element.ScriptDataSet.fetch.toolTip=åˆ›å»ºã€å¡«å†™å¹¶è¿”å›ç±»å‹â€œæ•°æ®è¡Œâ€å¯¹è±¡ã€‚
 
-Element.ScriptDataSet.fetch=»ñÈ¡:
+Element.ScriptDataSet.fetch=è·å–:
 
-Element.ScriptDataSet.open.toolTip=´ò¿ªÊı¾İ¼¯¡£
+Element.ScriptDataSet.open.toolTip=æ‰“å¼€æ•°æ®é›†ã€‚
 
-Element.ScriptDataSet.open=´ò¿ª:
+Element.ScriptDataSet.open=æ‰“å¼€:
 
-Element.ScriptDataSource.close.toolTip=¶Ï¿ªÓëÊı¾İÔ´µÄÁ¬½Ó¡£
+Element.ScriptDataSource.close.toolTip=æ–­å¼€ä¸æ•°æ®æºçš„è¿æ¥ã€‚
 
-Element.ScriptDataSource.close=¹Ø±Õ:
+Element.ScriptDataSource.close=å…³é—­:
 
-Element.ScriptDataSource.open.toolTip=½¨Á¢ÖÁÊı¾İÔ´µÄÁ¬½Ó¡£
+Element.ScriptDataSource.open.toolTip=å»ºç«‹è‡³æ•°æ®æºçš„è¿æ¥ã€‚
 
-Element.ScriptDataSource.open=´ò¿ª:
+Element.ScriptDataSource.open=æ‰“å¼€:
 
-Element.SimpleMasterPage.floatingFooter=¸¡¶¯½Å×¢(&F)
+Element.SimpleMasterPage.floatingFooter=æµ®åŠ¨è„šæ³¨(&F)
 
-Element.SimpleMasterPage.footerHeight=Ò³½Å¸ß¶È(&F):
+Element.SimpleMasterPage.footerHeight=é¡µè„šé«˜åº¦(&F):
 
-Element.SimpleMasterPage.headerHeight=Ò³Ã¼¸ß¶È(&H):
+Element.SimpleMasterPage.headerHeight=é¡µçœ‰é«˜åº¦(&H):
 
-Element.SimpleMasterPage.showFooterOnLast=ÔÚ×îºóÒ»Ò³ÏÔÊ¾Ìâ×¢(&F)
+Element.SimpleMasterPage.showFooterOnLast=åœ¨æœ€åä¸€é¡µæ˜¾ç¤ºé¢˜æ³¨(&F)
 
-Element.SimpleMasterPage.showHeaderOnFirst=ÔÚµÚÒ»Ò³ÏÔÊ¾ÌâÍ·(&H)
+Element.SimpleMasterPage.showHeaderOnFirst=åœ¨ç¬¬ä¸€é¡µæ˜¾ç¤ºé¢˜å¤´(&H)
 
-Element.SimpleMasterPage.slot.pageFooter=Ò³½Å:
+Element.SimpleMasterPage.slot.pageFooter=é¡µè„š:
 
-Element.SimpleMasterPage.slot.pageHeader=Ò³Ã¼:
+Element.SimpleMasterPage.slot.pageHeader=é¡µçœ‰:
 
-Element.Style.background.attachment=¸½¼ş(&A):
+Element.Style.background.attachment=é™„ä»¶(&A):
 
-Element.Style.background.color=±³¾°É«(&B):
+Element.Style.background.color=èƒŒæ™¯è‰²(&B):
 
-Element.Style.background.image=±³¾°Í¼Ïñ(&G):
+Element.Style.background.image=èƒŒæ™¯å›¾åƒ(&G):
 
-Element.Style.background.positionX=Ë®Æ½Î»ÖÃ(&H):
+Element.Style.background.positionX=æ°´å¹³ä½ç½®(&H):
 
-Element.Style.background.positionY=´¹Ö±Î»ÖÃ(&V):
+Element.Style.background.positionY=å‚ç›´ä½ç½®(&V):
 
-Element.Style.background.repeat=ÖØ¸´(&R):
+Element.Style.background.repeat=é‡å¤(&R):
 
-Element.Style.background=±³¾°:
+Element.Style.background=èƒŒæ™¯:
 
-Element.Style.border.bottom.color=ÏÂ(&M):
+Element.Style.border.bottom.color=ä¸‹(&M):
 
-Element.Style.border.bottom.style=ÏÂ(&B):
+Element.Style.border.bottom.style=ä¸‹(&B):
 
-Element.Style.border.bottom.width=µ×²¿(&:):
+Element.Style.border.bottom.width=åº•éƒ¨(&:):
 
-Element.Style.border.fillColor=±ß¿òÌî³äÉ«:
+Element.Style.border.fillColor=è¾¹æ¡†å¡«å……è‰²:
 
-Element.Style.border.hmiddle.color=±ß¿òË®Æ½ÖĞ¼äÉ«:
+Element.Style.border.hmiddle.color=è¾¹æ¡†æ°´å¹³ä¸­é—´è‰²:
 
-Element.Style.border.hmiddle.style=±ß¿òË®Æ½ÖĞ¼äÑùÊ½:
+Element.Style.border.hmiddle.style=è¾¹æ¡†æ°´å¹³ä¸­é—´æ ·å¼:
 
-Element.Style.border.hmiddle.width=±ß¿òË®Æ½ÖĞ¼ä¿í¶È:
+Element.Style.border.hmiddle.width=è¾¹æ¡†æ°´å¹³ä¸­é—´å®½åº¦:
 
-Element.Style.border.left.color=×ó(&F):
+Element.Style.border.left.color=å·¦(&F):
 
-Element.Style.border.left.style=×ó(&L):
+Element.Style.border.left.style=å·¦(&L):
 
-Element.Style.border.left.width=×ó(&E):
+Element.Style.border.left.width=å·¦(&E):
 
-Element.Style.border.right.color=ÓÒ(&H):
+Element.Style.border.right.color=å³(&H):
 
-Element.Style.border.right.style=ÓÒ(&R)
+Element.Style.border.right.style=å³(&R)
 
-Element.Style.border.right.width=ÓÒ(&I):
+Element.Style.border.right.width=å³(&I):
 
-Element.Style.border.top.color=ÉÏ(&P):
+Element.Style.border.top.color=ä¸Š(&P):
 
-Element.Style.border.top.style=ÉÏ(&T):
+Element.Style.border.top.style=ä¸Š(&T):
 
-Element.Style.border.top.width=ÉÏ(&O):
+Element.Style.border.top.width=ä¸Š(&O):
 
-Element.Style.border.vmiddle.color=±ß¿ò´¹Ö±ÖĞ¼äÉ«:
+Element.Style.border.vmiddle.color=è¾¹æ¡†å‚ç›´ä¸­é—´è‰²:
 
-Element.Style.border.vmiddle.style=±ß¿ò´¹Ö±ÖĞ¼äÑùÊ½:
+Element.Style.border.vmiddle.style=è¾¹æ¡†å‚ç›´ä¸­é—´æ ·å¼:
 
-Element.Style.border.vmiddle.width=±ß¿ò´¹Ö±ÖĞ¼ä¿í¶È:
+Element.Style.border.vmiddle.width=è¾¹æ¡†å‚ç›´ä¸­é—´å®½åº¦:
 
-Element.Style.border=±ß¿ò:
+Element.Style.border=è¾¹æ¡†:
 
-Element.Style.box=¿ò:
+Element.Style.box=æ¡†:
 
-Element.Style.canShrink=¿ÉÒÔËõĞ¡(&K)
+Element.Style.canShrink=å¯ä»¥ç¼©å°(&K)
 
-Element.Style.color=ÑÕÉ«(&C):
+Element.Style.color=é¢œè‰²(&C):
 
-Element.Style.display=ÏÔÊ¾(&P):
+Element.Style.display=æ˜¾ç¤º(&P):
 
-Element.Style.font.family=×ÖÌå(&F):
+Element.Style.font.family=å­—ä½“(&F):
 
-Element.Style.font.size=´óĞ¡(&Z):
+Element.Style.font.size=å¤§å°(&Z):
 
-Element.Style.font.style=ÑùÊ½(&T):
+Element.Style.font.style=æ ·å¼(&T):
 
-Element.Style.font.textLineThrough=É¾³ıÏß(&L)
+Element.Style.font.textLineThrough=åˆ é™¤çº¿(&L)
 
-Element.Style.font.textOverline=ÉÏ»®Ïß(&O)
+Element.Style.font.textOverline=ä¸Šåˆ’çº¿(&O)
 
-Element.Style.font.textUnderline=ÏÂ»®Ïß(&U)
+Element.Style.font.textUnderline=ä¸‹åˆ’çº¿(&U)
 
-Element.Style.font.variant=×ÖÌå±äÌå:
+Element.Style.font.variant=å­—ä½“å˜ä½“:
 
-Element.Style.font.weight=´ÖÏ¸(&W):
+Element.Style.font.weight=ç²—ç»†(&W):
 
-Element.Style.font=×ÖÌå(&F):
+Element.Style.font=å­—ä½“(&F):
 
-Element.Style.format.dateTime=ÈÕÆÚ/Ê±¼ä:
+Element.Style.format.dateTime=æ—¥æœŸ/æ—¶é—´:
 
-Element.Style.format.number.align=¸ñÊ½ÊıÖµ¶ÔÆë:
+Element.Style.format.number.align=æ ¼å¼æ•°å€¼å¯¹é½:
 
-Element.Style.format.number=±àºÅ:
+Element.Style.format.number=ç¼–å·:
 
-Element.Style.format.string=×Ö·û´®:
+Element.Style.format.string=å­—ç¬¦ä¸²:
 
-Element.Style.format=¸ñÊ½:
+Element.Style.format=æ ¼å¼:
 
-Element.Style.highlight.rules=Í»³öÏÔÊ¾¹æÔò:
+Element.Style.highlight.rules=çªå‡ºæ˜¾ç¤ºè§„åˆ™:
 
-Element.Style.highlight.testExpr=Í»³öÏÔÊ¾²âÊÔ±í´ïÊ½:
+Element.Style.highlight.testExpr=çªå‡ºæ˜¾ç¤ºæµ‹è¯•è¡¨è¾¾å¼:
 
-Element.Style.letterSpacing=×ÖÄ¸¼ä¾à(&T):
+Element.Style.letterSpacing=å­—æ¯é—´è·(&T):
 
-Element.Style.lineHeight=ĞĞ¸ß(&N):
+Element.Style.lineHeight=è¡Œé«˜(&N):
 
-Element.Style.map.rules=Ó³Éä¹æÔò:
+Element.Style.map.rules=æ˜ å°„è§„åˆ™:
 
-Element.Style.map.testExpr=Ó³Éä²âÊÔ±í´ïÊ½:
+Element.Style.map.testExpr=æ˜ å°„æµ‹è¯•è¡¨è¾¾å¼:
 
-Element.Style.margin.bottom=ÏÂ(&B):
+Element.Style.margin.bottom=ä¸‹(&B):
 
-Element.Style.margin.left=×ó(&E):
+Element.Style.margin.left=å·¦(&E):
 
-Element.Style.margin.right=ÓÒ(&I)
+Element.Style.margin.right=å³(&I)
 
-Element.Style.margin.top=ÉÏ(&P):
+Element.Style.margin.top=ä¸Š(&P):
 
-Element.Style.masterPage=Ö÷Ò³(&P):
+Element.Style.masterPage=ä¸»é¡µ(&P):
 
-Element.Style.orphans=¹ÂĞĞ(&O):
+Element.Style.orphans=å­¤è¡Œ(&O):
 
-Element.Style.padding.bottom=ÏÂ(&B):
+Element.Style.padding.bottom=ä¸‹(&B):
 
-Element.Style.padding.left=×ó(&L):
+Element.Style.padding.left=å·¦(&L):
 
-Element.Style.padding.right=ÓÒ(&R)
+Element.Style.padding.right=å³(&R)
 
-Element.Style.padding.top=ÉÏ(&T):
+Element.Style.padding.top=ä¸Š(&T):
 
-Element.Style.padding=Ìî³ä:
+Element.Style.padding=å¡«å……:
 
-Element.Style.pageBreakAfter=Ö®ºó(&A):
+Element.Style.pageBreakAfter=ä¹‹å(&A):
 
-Element.Style.pageBreakBefore=Ö®Ç°(&B):
+Element.Style.pageBreakBefore=ä¹‹å‰(&B):
 
-Element.Style.pageBreakInside=ÄÚ²¿(&I):
+Element.Style.pageBreakInside=å†…éƒ¨(&I):
 
-Element.Style.section=ÇøÓò:
+Element.Style.section=åŒºåŸŸ:
 
-Element.Style.showIfBlank=Èç¹ûÎª¿Õ°×ÔòÏÔÊ¾(&W)
+Element.Style.showIfBlank=å¦‚æœä¸ºç©ºç™½åˆ™æ˜¾ç¤º(&W)
 
-Element.Style.text.align=ÎÄ±¾¶ÔÆë(&L):
+Element.Style.text.align=æ–‡æœ¬å¯¹é½(&L):
 
-Element.Style.width=¿í¶È(&W):
+Element.Style.width=å®½åº¦(&W):
 
-Element.Style.height=¸ß¶È(&H):
+Element.Style.height=é«˜åº¦(&H):
 #bidi_hcg
-Element.Style.text.direction=Ë«ÏòÎÄ±¾·½Ïò(&B):
+Element.Style.text.direction=åŒå‘æ–‡æœ¬æ–¹å‘(&B):
 
-Element.Style.text.indent=ÎÄ±¾Ëõ½ø(&X):
+Element.Style.text.indent=æ–‡æœ¬ç¼©è¿›(&X):
 
-Element.Style.text.transform=ÎÄ±¾×ª»»(&R):
+Element.Style.text.transform=æ–‡æœ¬è½¬æ¢(&R):
 
-Element.Style.text=ÎÄ±¾:
+Element.Style.text=æ–‡æœ¬:
 
-Element.Style.verticalAlign=´¹Ö±¶ÔÆë(&A):
+Element.Style.verticalAlign=å‚ç›´å¯¹é½(&A):
 
-Element.Style.whiteSpace=¿Õ¸ñ(&I):
+Element.Style.whiteSpace=ç©ºæ ¼(&I):
 
-Element.Style.widows=´°¿Ú(&D):
+Element.Style.widows=çª—å£(&D):
 
-Element.Style.wordSpacing=×Ö¼ä¾à(&W):
+Element.Style.wordSpacing=å­—é—´è·(&W):
 
-Element.Table.caption=±êÌâ:
+Element.Table.caption=æ ‡é¢˜:
 
-Element.Table.captionID=±êÌâ¹Ø¼ü×Ö:
+Element.Table.captionID=æ ‡é¢˜å…³é”®å­—:
 
-Element.Table.repeatHeader=ÖØ¸´±êÌâ:
+Element.Table.repeatHeader=é‡å¤æ ‡é¢˜:
 
 Element.Table.slot.columnHeader=columnHeader:
-Element.Table.slot.columns=ÁĞ:
+Element.Table.slot.columns=åˆ—:
 
-Element.Table.slot.detail=ÏêÏ¸×ÊÁÏ:
+Element.Table.slot.detail=è¯¦ç»†èµ„æ–™:
 
-Element.Table.slot.footer=Ò³½Å:
+Element.Table.slot.footer=é¡µè„š:
 
-Element.Table.slot.group=×é:
+Element.Table.slot.group=ç»„:
 
-Element.Table.slot.header=Ò³Ã¼:
+Element.Table.slot.header=é¡µçœ‰:
 
-Element.TableGroup.slot.footer=Ò³½Å:
+Element.TableGroup.slot.footer=é¡µè„š:
 
-Element.TableGroup.slot.header=Ò³Ã¼:
+Element.TableGroup.slot.header=é¡µçœ‰:
 
-Element.Text.content=ÄÚÈİ:
+Element.Text.content=å†…å®¹:
 
-Element.Text.contentID=ÄÚÈİ¹Ø¼ü×Ö(&K):
+Element.Text.contentID=å†…å®¹å…³é”®å­—(&K):
 
-Element.Text.contentType=ÄÚÈİÀàĞÍ(&P):
+Element.Text.contentType=å†…å®¹ç±»å‹(&P):
 
-Element.TemplateElement.name=Ãû³Æ(&N)
+Element.TemplateElement.name=åç§°(&N)
 
-Element.Toc.Sytle=ÑùÊ½(&Y)
+Element.Toc.Sytle=æ ·å¼(&Y)
 
-Element.VariableElement.name=Ãû³Æ(&N):
+Element.VariableElement.name=åç§°(&N):
 
-Element.VariableElement.type=ÀàĞÍ(&T):
+Element.VariableElement.type=ç±»å‹(&T):
 
-Element.VariableElement.value=Öµ(&V):
+Element.VariableElement.value=å€¼(&V):
 
 ###########################################################
 #EmbeddedImageNodeProvider properties
-EmbeddedImageNodeProvider.action.New=ĞÂ½¨Ç¶ÈëÍ¼Ïñ(&B)
+EmbeddedImageNodeProvider.action.New=æ–°å»ºåµŒå…¥å›¾åƒ(&B)
 
 ###########################################################
 #EmbeddedImagesNodeProvider properties
-EmbeddedImagesNodeProvider.action.New=ĞÂ½¨Ç¶ÈëÍ¼Ïñ(&B)
+EmbeddedImagesNodeProvider.action.New=æ–°å»ºåµŒå…¥å›¾åƒ(&B)
 
 ###########################################################
 #ElementIdDescriptorProvider properties
-ElementIdDescriptorProvider.Display.Element.ID=ÔªËØ ID(&E):
+ElementIdDescriptorProvider.Display.Element.ID=å…ƒç´  ID(&E):
 
 ###########################################################
 #EmptyEditPart properties
-EmptyEditPart.Msg.EmptyLib=¿âÎ´°üº¬¿É¼ûÔªËØ¡£ÒªÌí¼Ó¿É¼ûÔªËØ£¬½«ÏîÄ¿´ÓÑ¡Ïî°åÍÏ¶¯µ½¿â´ó¸ÙÊÓÍ¼£¬»òÕßÊ¹ÓÃ´ó¸ÙÊÓÍ¼ÖĞµÄ²åÈë²Ëµ¥¡£
+EmptyEditPart.Msg.EmptyLib=åº“æœªåŒ…å«å¯è§å…ƒç´ ã€‚è¦æ·»åŠ å¯è§å…ƒç´ ï¼Œå°†é¡¹ç›®ä»é€‰é¡¹æ¿æ‹–åŠ¨åˆ°åº“å¤§çº²è§†å›¾ï¼Œæˆ–è€…ä½¿ç”¨å¤§çº²è§†å›¾ä¸­çš„æ’å…¥èœå•ã€‚
 
-EmptyEditPart.Msg.NonVisual=Ñ¡ÔñÁË²»¿É¼ûÔªËØ¡£
+EmptyEditPart.Msg.NonVisual=é€‰æ‹©äº†ä¸å¯è§å…ƒç´ ã€‚
 
 ###########################################################
 #error properties
-error.duplicateName=ĞÂÃû³ÆÓëÍ¬Ò»Ãû³Æ¿Õ¼äÖĞµÄÏÖÓĞÃû³ÆÖØ¸´¡£
+error.duplicateName=æ–°åç§°ä¸åŒä¸€åç§°ç©ºé—´ä¸­çš„ç°æœ‰åç§°é‡å¤ã€‚
 
-error.DataSource.emptyName=Êı¾İÔ´Ãû³Æ²»ÄÜÎª¿Õ¡£
+error.DataSource.emptyName=æ•°æ®æºåç§°ä¸èƒ½ä¸ºç©ºã€‚
 
-error.DataSet.emptyName=Êı¾İ¼¯Ãû³Æ²»ÄÜÎª¿Õ¡£
+error.DataSet.emptyName=æ•°æ®é›†åç§°ä¸èƒ½ä¸ºç©ºã€‚
 
-error.OutputColumn.emptyName=Êä³öÁĞÃû³Æ²»ÄÜÎª¿Õ¡£
+error.OutputColumn.emptyName=è¾“å‡ºåˆ—åç§°ä¸èƒ½ä¸ºç©ºã€‚
 
-error.invalidName=Ãû³Æ¡°{0}¡±ÎŞĞ§£¬ÒòÎªËü°üº¬×Ö·û "."¡¢"/"¡¢"\\"¡¢"!"¡¢";" ºÍ ","¡£
+error.invalidName=åç§°â€œ{0}â€æ— æ•ˆï¼Œå› ä¸ºå®ƒåŒ…å«å­—ç¬¦ "."ã€"/"ã€"\\"ã€"!"ã€";" å’Œ ","ã€‚
 
 ###########################################################
 #ExceptionHandler properties
-ExceptionHandler.Label.ErrorCode=´íÎó´úÂë
+ExceptionHandler.Label.ErrorCode=é”™è¯¯ä»£ç 
 
-ExceptionHandler.Label.ErrorMessage=´íÎóÏûÏ¢
+ExceptionHandler.Label.ErrorMessage=é”™è¯¯æ¶ˆæ¯
 
-ExceptionHandler.Label.PluginId=²å¼ş ID:
+ExceptionHandler.Label.PluginId=æ’ä»¶ ID:
 
-ExceptionHandler.Label.PluginName=²å¼şÃû³Æ:
+ExceptionHandler.Label.PluginName=æ’ä»¶åç§°:
 
-ExceptionHandler.Label.PluginProvider=²å¼şÌá¹©³ÌĞò:
+ExceptionHandler.Label.PluginProvider=æ’ä»¶æä¾›ç¨‹åº:
 
-ExceptionHandler.Label.PluginVersion=°æ±¾:
+ExceptionHandler.Label.PluginVersion=ç‰ˆæœ¬:
 
-ExceptionHandler.Label.UnknownPlugin=Î´Öª²å¼ş
+ExceptionHandler.Label.UnknownPlugin=æœªçŸ¥æ’ä»¶
 
-ExceptionHandler.Meesage.UnexceptedExceptionOccur=·¢ÉúÒâÍâµÄÄÚ²¿Òì³£¡£ÏêÇéÇë²ÎÔÄÈÕÖ¾¡£
+ExceptionHandler.Meesage.UnexceptedExceptionOccur=å‘ç”Ÿæ„å¤–çš„å†…éƒ¨å¼‚å¸¸ã€‚è¯¦æƒ…è¯·å‚é˜…æ—¥å¿—ã€‚
 
-ExceptionHandler.Message.BirtExceptionOccur=·¢Éú BIRT Òì³£¡£
+ExceptionHandler.Message.BirtExceptionOccur=å‘ç”Ÿ BIRT å¼‚å¸¸ã€‚
 
-ExceptionHandler.Message.CausedBy=ÓÉ {0} ÒıÆğ¡£
+ExceptionHandler.Message.CausedBy=ç”± {0} å¼•èµ·ã€‚
 
-ExceptionHandler.Message.FileNotFound=Î´ÕÒµ½ÎÄ¼ş:
+ExceptionHandler.Message.FileNotFound=æœªæ‰¾åˆ°æ–‡ä»¶:
 
-ExceptionHandler.Message.OutOfMemory=ÄÚ´æ²»×ã¡£
+ExceptionHandler.Message.OutOfMemory=å†…å­˜ä¸è¶³ã€‚
 
-ExceptionHandler.Message.PartInitError=²¿·Ö³õÊ¼»¯Ê§°Ü¡£
+ExceptionHandler.Message.PartInitError=éƒ¨åˆ†åˆå§‹åŒ–å¤±è´¥ã€‚
 
-ExceptionHandler.Message.SemanticFail=ÓïÒå¼ì²éÊ§°Ü¡£
+ExceptionHandler.Message.SemanticFail=è¯­ä¹‰æ£€æŸ¥å¤±è´¥ã€‚
 
-ExceptionHandler.Message.UnexceptedExceptionOccur=³öÏÖÄÚ²¿Òì³£¡£ÏêÇéÇë²ÎÔÄÈÕÖ¾ÎÄ¼ş¡£
+ExceptionHandler.Message.UnexceptedExceptionOccur=å‡ºç°å†…éƒ¨å¼‚å¸¸ã€‚è¯¦æƒ…è¯·å‚é˜…æ—¥å¿—æ–‡ä»¶ã€‚
 
-ExceptionHandler.Message.UnknownHost=Î´ÖªÖ÷»ú:
+ExceptionHandler.Message.UnknownHost=æœªçŸ¥ä¸»æœº:
 
-ExceptionHandler.Title.Error=´íÎó
+ExceptionHandler.Title.Error=é”™è¯¯
 
-ExceptionHandler.Title.FileNotFound=Î´ÕÒµ½ÎÄ¼ş¡£
+ExceptionHandler.Title.FileNotFound=æœªæ‰¾åˆ°æ–‡ä»¶ã€‚
 
-ExceptionHandler.Title.PartInitError=²¿·Ö³õÊ¼»¯´íÎó¡£
+ExceptionHandler.Title.PartInitError=éƒ¨åˆ†åˆå§‹åŒ–é”™è¯¯ã€‚
 
-ExceptionHandler.Title.UnknownHost=Î´ÖªÖ÷»ú
+ExceptionHandler.Title.UnknownHost=æœªçŸ¥ä¸»æœº
 
-ExceptionHandler.Meesage.ExceptionOccur=·¢ÉúÒì³£¡£ ÏêÇéÇë²ÎÔÄÈÕÖ¾¡£
+ExceptionHandler.Meesage.ExceptionOccur=å‘ç”Ÿå¼‚å¸¸ã€‚ è¯¦æƒ…è¯·å‚é˜…æ—¥å¿—ã€‚
 
 ###########################################################
 #ExportAction properties
-ExportAction.actionMsg.export=µ¼³ö
+ExportAction.actionMsg.export=å¯¼å‡º
 
 ###########################################################
 #ExportToLibraryAction properties
-ExportToLibraryAction.action.text=µ¼³öµ½¿â(&X)...
+ExportToLibraryAction.action.text=å¯¼å‡ºåˆ°åº“(&X)...
 
-ExportToLibraryAction.Button.Cancel=È¡Ïû
+ExportToLibraryAction.Button.Cancel=å–æ¶ˆ
 
-ExportToLibraryAction.Button.No=·ñ
+ExportToLibraryAction.Button.No=å¦
 
-ExportToLibraryAction.Button.Yes=ÊÇ
+ExportToLibraryAction.Button.Yes=æ˜¯
 
-ExportToLibraryAction.Dialog.Message=\nÄ¿±ê¿â¿ÉÄÜ¾ßÓĞÏàÍ¬µÄÉè¼ÆÔªËØ¡£ ÊÇ·ñÒª¸²¸Ç?
+ExportToLibraryAction.Dialog.Message=\nç›®æ ‡åº“å¯èƒ½å…·æœ‰ç›¸åŒçš„è®¾è®¡å…ƒç´ ã€‚ æ˜¯å¦è¦è¦†ç›–?
 
-ExportToLibraryAction.Dialog.Title=µ¼³öÔªËØ
+ExportToLibraryAction.Dialog.Title=å¯¼å‡ºå…ƒç´ 
 
-ExportToLibraryAction.Message.RememberDecision=¼Ç×¡ÎÒµÄ¾ö¶¨(&R)
+ExportToLibraryAction.Message.RememberDecision=è®°ä½æˆ‘çš„å†³å®š(&R)
 
 
 ###########################################################
 #ExportElementToLibraryAction properties
-ExportElementToLibraryAction.action.text=µ¼³öµ½¿â(&X)...
+ExportElementToLibraryAction.action.text=å¯¼å‡ºåˆ°åº“(&X)...
 
-ExportToCPSouceAction.action.text=Íâ²¿»¯Á¬½ÓÅäÖÃÎÄ¼ş(&O)...
+ExportToCPSouceAction.action.text=å¤–éƒ¨åŒ–è¿æ¥é…ç½®æ–‡ä»¶(&O)...
 
 
 ###########################################################
 #LibraryExplorerTreeViewPage tooltips
-LibraryElementsToolHandleExtends_message=ÔªËØ°üº¬±¾µØ°ó¶¨¶øÎ´Ö¸¶¨ÏÔÊ½Êı¾İ¼¯£¬Õâ¿ÉÄÜµ¼ÖÂÔËĞĞÊ±ĞÔÄÜµÍ¡£ ÊÇ·ñÒª½«±¾µØ°ó¶¨ÒÆ¶¯µ½¸¸²ãÒÔ»ñµÃ¸üºÃµÄĞÔÄÜ?
+LibraryElementsToolHandleExtends_message=å…ƒç´ åŒ…å«æœ¬åœ°ç»‘å®šè€ŒæœªæŒ‡å®šæ˜¾å¼æ•°æ®é›†ï¼Œè¿™å¯èƒ½å¯¼è‡´è¿è¡Œæ—¶æ€§èƒ½ä½ã€‚ æ˜¯å¦è¦å°†æœ¬åœ°ç»‘å®šç§»åŠ¨åˆ°çˆ¶å±‚ä»¥è·å¾—æ›´å¥½çš„æ€§èƒ½?
 
-LibraryElementsToolHandleExtends_question=½«±¾µØ°ó¶¨ÒÆ¶¯µ½¸¸²ãÒÔ»ñµÃ¸üºÃµÄĞÔÄÜ?
+LibraryElementsToolHandleExtends_question=å°†æœ¬åœ°ç»‘å®šç§»åŠ¨åˆ°çˆ¶å±‚ä»¥è·å¾—æ›´å¥½çš„æ€§èƒ½?
 
-LibraryElementsToolHandleExtends_toggle=¼Ç×¡ÎÒµÄ¾ö¶¨(&R)
+LibraryElementsToolHandleExtends_toggle=è®°ä½æˆ‘çš„å†³å®š(&R)
 
-LibraryExplorerTreeViewPage.toolTips.DragAndDropOutline=ÍÏ·Åµ½¡°´ó¸Ù¡±ÊÓÍ¼
+LibraryExplorerTreeViewPage.toolTips.DragAndDropOutline=æ‹–æ”¾åˆ°â€œå¤§çº²â€è§†å›¾
 
-LibraryExplorerTreeViewPage.toolTips.DragAndDropLayout=ÍÏ·Åµ½¡°²¼¾Ö¡±±à¼­Æ÷
+LibraryExplorerTreeViewPage.toolTips.DragAndDropLayout=æ‹–æ”¾åˆ°â€œå¸ƒå±€â€ç¼–è¾‘å™¨
 
-LibraryExplorerTreeViewPage.toolTips.DragAndDropToOutlineORLayout=ÍÏ·Åµ½¡°´ó¸Ù¡±ÊÓÍ¼»ò¡°²¼¾Ö¡±±à¼­Æ÷
+LibraryExplorerTreeViewPage.toolTips.DragAndDropToOutlineORLayout=æ‹–æ”¾åˆ°â€œå¤§çº²â€è§†å›¾æˆ–â€œå¸ƒå±€â€ç¼–è¾‘å™¨
 
 ###########################################################
 #ExpressionBuidler properties
-ExpressionBuidler.Dialog.Title=±í´ïÊ½Éú³ÉÆ÷(JavaScript)
+ExpressionBuidler.Dialog.Title=è¡¨è¾¾å¼ç”Ÿæˆå™¨(JavaScript)
 
-ExpressionBuidler.Title=±í´ïÊ½Éú³ÉÆ÷
+ExpressionBuidler.Title=è¡¨è¾¾å¼ç”Ÿæˆå™¨
 
-ExpressionBuilder.tooltip.Sort=ÅÅĞò
+ExpressionBuilder.tooltip.Sort=æ’åº
 
-ExpressionBuilder.toolTipText.Button=´ò¿ª±í´ïÊ½Éú³ÉÆ÷
+ExpressionBuilder.toolTipText.Button=æ‰“å¼€è¡¨è¾¾å¼ç”Ÿæˆå™¨
 
 ###########################################################
 #ExpressionBuilder properties
-ExpressionBuilder.Label.Category=Àà±ğ(&C):
+ExpressionBuilder.Label.Category=ç±»åˆ«(&C):
 
-ExpressionBuilder.Label.Functions=Ë«»÷ÒÔ²åÈë(&I):
+ExpressionBuilder.Label.Functions=åŒå‡»ä»¥æ’å…¥(&I):
 
-ExpressionBuilder.Label.Hint=ÌáÊ¾
+ExpressionBuilder.Label.Hint=æç¤º
 
-ExpressionBuilder.Label.Operators=ÔËËã·û:
+ExpressionBuilder.Label.Operators=è¿ç®—ç¬¦:
 
-ExpressionBuilder.Label.SubCategory=×ÓÀà±ğ(&S):
+ExpressionBuilder.Label.SubCategory=å­ç±»åˆ«(&S):
 
-ExpressionBuilder.Message.Prompt=ÔÚ¡°±í´ïÊ½¡±×Ö¶ÎÖĞÊäÈëÒ»¸ö±í´ïÊ½¡£ä¯ÀÀ¿ÉÓÃ¶ÔÏóÁĞ±í²¢Ë«»÷¶ÔÏóÒÔ½«Æä¸´ÖÆµ½±í´ïÊ½ÖĞ¡£
+ExpressionBuilder.Message.Prompt=åœ¨â€œè¡¨è¾¾å¼â€å­—æ®µä¸­è¾“å…¥ä¸€ä¸ªè¡¨è¾¾å¼ã€‚æµè§ˆå¯ç”¨å¯¹è±¡åˆ—è¡¨å¹¶åŒå‡»å¯¹è±¡ä»¥å°†å…¶å¤åˆ¶åˆ°è¡¨è¾¾å¼ä¸­ã€‚
 
-ExpressionBuilder.ToolTip=´ò¿ª±í´ïÊ½Éú³ÉÆ÷
+ExpressionBuilder.ToolTip=æ‰“å¼€è¡¨è¾¾å¼ç”Ÿæˆå™¨
 
-ExpressionBuilder.toolTipText.validate=ÑéÖ¤
+ExpressionBuilder.toolTipText.validate=éªŒè¯
 
-ExpressionBuilder.Script.NoError=µ±Ç°½Å±¾ÖĞÕÒ²»µ½Óï·¨´íÎó¡£
+ExpressionBuilder.Script.NoError=å½“å‰è„šæœ¬ä¸­æ‰¾ä¸åˆ°è¯­æ³•é”™è¯¯ã€‚
 
-ExpressionBuilder.Script.Error=[ĞĞ:{0}, ÁĞ:{1}] {2}
+ExpressionBuilder.Script.Error=[è¡Œ:{0}, åˆ—:{1}] {2}
 
-ExpressionBuilder.Script.Warning=¾¯¸æ
+ExpressionBuilder.Script.Warning=è­¦å‘Š
 
-ExpressionBuilder.Script.Confirm=\nµ±Ç°½Å±¾ÖĞÕÒµ½Óï·¨´íÎó¡£ÊÇ·ñÈ·ÊµÒª±£´æ?
+ExpressionBuilder.Script.Confirm=\nå½“å‰è„šæœ¬ä¸­æ‰¾åˆ°è¯­æ³•é”™è¯¯ã€‚æ˜¯å¦ç¡®å®è¦ä¿å­˜?
 
-ExpressionBuilder.toolTipText.calendar=ÈÕÀú
+ExpressionBuilder.toolTipText.calendar=æ—¥å†
 
-ExpressionBuilder.Calendar.Button.OK=È·¶¨
+ExpressionBuilder.Calendar.Button.OK=ç¡®å®š
 
-ExpressionButtonProvider.Constant=³£Á¿
+ExpressionButtonProvider.Constant=å¸¸é‡
 
-ExpressionButtonProvider.Javascript=JavaScript Óï·¨
+ExpressionButtonProvider.Javascript=JavaScript è¯­æ³•
 
 ###########################################################
 #ExpressionPropertyDescriptor properties
-ExpressionPropertyDescriptor.text.Edit=±í´ïÊ½Éú³ÉÆ÷(&X)...
+ExpressionPropertyDescriptor.text.Edit=è¡¨è¾¾å¼ç”Ÿæˆå™¨(&X)...
 
 ###########################################################
 #ExpressionProvider properties
-ExpressionProvider.Category.Context=ÉÏÏÂÎÄ
+ExpressionProvider.Category.Context=ä¸Šä¸‹æ–‡
 
-ExpressionProvider.Category.BirtObjects=BIRT º¯Êı
+ExpressionProvider.Category.BirtObjects=BIRT å‡½æ•°
 
-ExpressionProvider.Category.DataSets=¿ÉÓÃÊı¾İ¼¯
+ExpressionProvider.Category.DataSets=å¯ç”¨æ•°æ®é›†
 
-ExpressionProvider.Category.NativeObjects=±¾µØ JavaScript º¯Êı
+ExpressionProvider.Category.NativeObjects=æœ¬åœ° JavaScript å‡½æ•°
 
-ExpressionProvider.Category.ColumnBinding=¿ÉÓÃÁĞ°ó¶¨
+ExpressionProvider.Category.ColumnBinding=å¯ç”¨åˆ—ç»‘å®š
 
-ExpressionProvider.Category.Operators=ÔËËã·û
+ExpressionProvider.Category.Operators=è¿ç®—ç¬¦
 
-ExpressionProvider.Category.Parameters=±¨±í²ÎÊı
+ExpressionProvider.Category.Parameters=æŠ¥è¡¨å‚æ•°
 
-ExpressionProvider.Category.DataCubes=µ±Ç°¶àÎ¬Êı¾İ¼¯
+ExpressionProvider.Category.DataCubes=å½“å‰å¤šç»´æ•°æ®é›†
 
-ExpressionProvider.Category.Variables=±äÁ¿
+ExpressionProvider.Category.Variables=å˜é‡
 
-ExpressionProvider.Label.All=---È«²¿---
+ExpressionProvider.Label.All=---å…¨éƒ¨---
 
-ExpressionProvider.Operator.Add=½«Á½¸öÖµÏà¼Ó¡£
+ExpressionProvider.Operator.Add=å°†ä¸¤ä¸ªå€¼ç›¸åŠ ã€‚
 
-ExpressionProvider.Operator.AddTo=ÔÚµ±Ç°ÖµÉÏ¼ÓÖµµÄ¿ì½İ·½Ê½¡£
+ExpressionProvider.Operator.AddTo=åœ¨å½“å‰å€¼ä¸ŠåŠ å€¼çš„å¿«æ·æ–¹å¼ã€‚
 
-ExpressionProvider.Operator.And=ÅĞ¶ÏÁ½¸ö±í´ïÊ½£¬²¢ÇÒÔÚÁ½¸ö±í´ïÊ½¾ùÎªÕæÊ±·µ»ØÕæÖµ¡£
+ExpressionProvider.Operator.And=åˆ¤æ–­ä¸¤ä¸ªè¡¨è¾¾å¼ï¼Œå¹¶ä¸”åœ¨ä¸¤ä¸ªè¡¨è¾¾å¼å‡ä¸ºçœŸæ—¶è¿”å›çœŸå€¼ã€‚
 
-ExpressionProvider.Operator.Assign=½«Ò»¸öÖµÉèÖÃÎªÓëÁíÒ»¸öÖµÏàµÈ¡£
+ExpressionProvider.Operator.Assign=å°†ä¸€ä¸ªå€¼è®¾ç½®ä¸ºä¸å¦ä¸€ä¸ªå€¼ç›¸ç­‰ã€‚
 
-ExpressionProvider.Operator.BitAnd=A & B: ·µ»Ø A ºÍ B µÄÖğÎ» AND ½á¹û¡£
+ExpressionProvider.Operator.BitAnd=A & B: è¿”å› A å’Œ B çš„é€ä½ AND ç»“æœã€‚
 
-ExpressionProvider.Operator.BitOr=A | B: ·µ»Ø A ºÍ B µÄÖğÎ» OR ½á¹û¡£
+ExpressionProvider.Operator.BitOr=A | B: è¿”å› A å’Œ B çš„é€ä½ OR ç»“æœã€‚
 
-ExpressionProvider.Operator.Dec=µİ¼õ¸ÃÖµ£¬È»ºó·µ»Ø½á¹û¡£
+ExpressionProvider.Operator.Dec=é€’å‡è¯¥å€¼ï¼Œç„¶åè¿”å›ç»“æœã€‚
 
-ExpressionProvider.Operator.DividingFrom=³ıµ±Ç°ÖµµÄ¿ì½İ·½Ê½¡£
+ExpressionProvider.Operator.DividingFrom=é™¤å½“å‰å€¼çš„å¿«æ·æ–¹å¼ã€‚
 
-ExpressionProvider.Tooltip.ColumnBinding=ÒıÓÃ
+ExpressionProvider.Tooltip.ColumnBinding=å¼•ç”¨
 
-ExpressionProvider.Operator.Divides=½«×ó²àµÄÖµ³ıÒÔÓÒ²àµÄÖµ²¢·µ»Ø½á¹û¡£
+ExpressionProvider.Operator.Divides=å°†å·¦ä¾§çš„å€¼é™¤ä»¥å³ä¾§çš„å€¼å¹¶è¿”å›ç»“æœã€‚
 
-ExpressionProvider.Operator.Equals=Èç¹ûÕâĞ©ÏîÏàÍ¬£¬Ôò·µ»ØÕæÖµ¡£
+ExpressionProvider.Operator.Equals=å¦‚æœè¿™äº›é¡¹ç›¸åŒï¼Œåˆ™è¿”å›çœŸå€¼ã€‚
 
-ExpressionProvider.Operator.Greater=A > B: Èç¹û A ´óÓÚ B£¬Ôò·µ»ØÕæÖµ¡£
+ExpressionProvider.Operator.Greater=A > B: å¦‚æœ A å¤§äº Bï¼Œåˆ™è¿”å›çœŸå€¼ã€‚
 
-ExpressionProvider.Operator.GreaterEquals=A >= B: Èç¹û A ´óÓÚ»òµÈÓÚ B£¬Ôò·µ»ØÕæÖµ¡£
+ExpressionProvider.Operator.GreaterEquals=A >= B: å¦‚æœ A å¤§äºæˆ–ç­‰äº Bï¼Œåˆ™è¿”å›çœŸå€¼ã€‚
 
-ExpressionProvider.Operator.Inc=µİÔö¸ÃÖµ£¬È»ºó·µ»Ø½á¹û¡£
+ExpressionProvider.Operator.Inc=é€’å¢è¯¥å€¼ï¼Œç„¶åè¿”å›ç»“æœã€‚
 
-ExpressionProvider.Operator.LeftBracket=×óÀ¨ºÅ
+ExpressionProvider.Operator.LeftBracket=å·¦æ‹¬å·
 
-ExpressionProvider.Operator.RightBracket=ÓÒÀ¨ºÅ
+ExpressionProvider.Operator.RightBracket=å³æ‹¬å·
 
-ExpressionProvider.Operator.Less=A < B: Èç¹û A Ğ¡ÓÚ B£¬Ôò·µ»ØÕæÖµ¡£
+ExpressionProvider.Operator.Less=A < B: å¦‚æœ A å°äº Bï¼Œåˆ™è¿”å›çœŸå€¼ã€‚
 
-ExpressionProvider.Operator.LessEqual=A <= B: Èç¹û A Ğ¡ÓÚ»òµÈÓÚ B£¬Ôò·µ»ØÕæÖµ¡£
+ExpressionProvider.Operator.LessEqual=A <= B: å¦‚æœ A å°äºæˆ–ç­‰äº Bï¼Œåˆ™è¿”å›çœŸå€¼ã€‚
 
-ExpressionProvider.Operator.Mult=½«Á½¸öÖµÏà³Ë¡£
+ExpressionProvider.Operator.Mult=å°†ä¸¤ä¸ªå€¼ç›¸ä¹˜ã€‚
 
-ExpressionProvider.Operator.MultTo=³ËÒÔµ±Ç°ÖµµÄ¿ì½İ·½Ê½¡£
+ExpressionProvider.Operator.MultTo=ä¹˜ä»¥å½“å‰å€¼çš„å¿«æ·æ–¹å¼ã€‚
 
-ExpressionProvider.Operator.Not=!A: A Îª¼ÙÔò·µ»ØÕæ£¬A ÎªÕæÔò·µ»Ø¼Ù¡£
+ExpressionProvider.Operator.Not=!A: A ä¸ºå‡åˆ™è¿”å›çœŸï¼ŒA ä¸ºçœŸåˆ™è¿”å›å‡ã€‚
 
-ExpressionProvider.Operator.NotEqual=A <> B: Èç¹û A ²»µÈÓÚ B£¬Ôò·µ»ØÕæÖµ¡£
+ExpressionProvider.Operator.NotEqual=A <> B: å¦‚æœ A ä¸ç­‰äº Bï¼Œåˆ™è¿”å›çœŸå€¼ã€‚
 
-ExpressionProvider.Operator.Or=ÅĞ¶ÏÁ½¸ö±í´ïÊ½£¬²¢ÇÒÔÚÁ½¸ö±í´ïÊ½Ö®Ò»ÎªÕæÊ±·µ»ØÕæÖµ¡£
+ExpressionProvider.Operator.Or=åˆ¤æ–­ä¸¤ä¸ªè¡¨è¾¾å¼ï¼Œå¹¶ä¸”åœ¨ä¸¤ä¸ªè¡¨è¾¾å¼ä¹‹ä¸€ä¸ºçœŸæ—¶è¿”å›çœŸå€¼ã€‚
 
-ExpressionProvider.Operator.ReturnDec=·µ»Ø¸ÃÖµ£¬È»ºóµİ¼õ¸ÃÖµ¡£
+ExpressionProvider.Operator.ReturnDec=è¿”å›è¯¥å€¼ï¼Œç„¶åé€’å‡è¯¥å€¼ã€‚
 
-ExpressionProvider.Operator.ReturnInc=·µ»Ø¸ÃÖµ£¬È»ºóµİÔö¸ÃÖµ¡£
+ExpressionProvider.Operator.ReturnInc=è¿”å›è¯¥å€¼ï¼Œç„¶åé€’å¢è¯¥å€¼ã€‚
 
-ExpressionProvider.Operator.Sub=´ÓÁíÒ»ÖµÖĞ¼õÈ¥Ò»¸öÖµ¡£
+ExpressionProvider.Operator.Sub=ä»å¦ä¸€å€¼ä¸­å‡å»ä¸€ä¸ªå€¼ã€‚
 
-ExpressionProvider.Operator.SubFrom=´Óµ±Ç°ÖµÖĞ¼õÖµµÄ¿ì½İ·½Ê½¡£
+ExpressionProvider.Operator.SubFrom=ä»å½“å‰å€¼ä¸­å‡å€¼çš„å¿«æ·æ–¹å¼ã€‚
 
-ExpressionProvider.Operators.Assignment=¸³Öµ
+ExpressionProvider.Operators.Assignment=èµ‹å€¼
 
-ExpressionProvider.Operators.Comparison=±È½Ï
+ExpressionProvider.Operators.Comparison=æ¯”è¾ƒ
 
-ExpressionProvider.Operators.Computational=¼ÆËãµÄ
+ExpressionProvider.Operators.Computational=è®¡ç®—çš„
 
-ExpressionProvider.Operators.Logical=Âß¼­
+ExpressionProvider.Operators.Logical=é€»è¾‘
 
-ExpressionProvider.EditBindings=±à¼­°ó¶¨...
+ExpressionProvider.EditBindings=ç¼–è¾‘ç»‘å®š...
 
-ExpressionProvider.Expression.RowNumName=ĞĞÊı
+ExpressionProvider.Expression.RowNumName=è¡Œæ•°
 
-ExpressionProvider.Expression.RowNumTooltip=·µ»Øµ±Ç°ĞĞÊıµÄ±í´ïÊ½¡£
+ExpressionProvider.Expression.RowNumTooltip=è¿”å›å½“å‰è¡Œæ•°çš„è¡¨è¾¾å¼ã€‚
 
-ExpressionProvider.Variables=±äÁ¿
+ExpressionProvider.Variables=å˜é‡
 
-ExpressionProvider.Variables.Report=±¨±í±äÁ¿
+ExpressionProvider.Variables.Report=æŠ¥è¡¨å˜é‡
 
-ExpressionProvider.Variables.Page=Ò³Ãæ±äÁ¿
+ExpressionProvider.Variables.Page=é¡µé¢å˜é‡
 
-ExpressionTreeSupport.Category.Global=È«¾Ö
+ExpressionTreeSupport.Category.Global=å…¨å±€
 
 ###########################################################
 #ExpressionValueCellEditor properties
-ExpressionValueCellEditor.buildExpressionAction=<¹¹½¨±í´ïÊ½...>
+ExpressionValueCellEditor.buildExpressionAction=<æ„å»ºè¡¨è¾¾å¼...>
 
-ExpressionValueCellEditor.selectValueAction=<Ñ¡ÔñÖµ...>
+ExpressionValueCellEditor.selectValueAction=<é€‰æ‹©å€¼...>
 
-ExpressionValueCellEditor.title=Ñ¡ÔñÖµ
+ExpressionValueCellEditor.title=é€‰æ‹©å€¼
 
 ###########################################################
 #ExtendedEditPart properties
-ExtendedEditPart.edit=±à¼­ {0}
+ExtendedEditPart.edit=ç¼–è¾‘ {0}
 
 ###########################################################
 #ExtendedItemPageGenerator properties
-ExtendedItemPageGenerator.List.Bookmark=ÊéÇ©
+ExtendedItemPageGenerator.List.Bookmark=ä¹¦ç­¾
 
-ExtendedItemPageGenerator.List.TOC=Ä¿Â¼
+ExtendedItemPageGenerator.List.TOC=ç›®å½•
 
 ###########################################################
 #FilterHandleProvider properties
-FilterHandleProvider.ColumnName.Value=Öµ
+FilterHandleProvider.ColumnName.Value=å€¼
 
-FilterHandleProvider.Label.Filterby=É¸Ñ¡ÒÀ¾İ:
+FilterHandleProvider.Label.Filterby=ç­›é€‰ä¾æ®:
 
-FilterHandleProvider.Modify.SaveValues=±£´æÖµ
+FilterHandleProvider.Modify.SaveValues=ä¿å­˜å€¼
 
 ###########################################################
 #filters properties
-filters.empty.columnName=±í´ïÊ½²»ÄÜÎª¿Õ¡£
+filters.empty.columnName=è¡¨è¾¾å¼ä¸èƒ½ä¸ºç©ºã€‚
 
-filters.error.title=ÎŞĞ§ÊäÈë¡£
+filters.error.title=æ— æ•ˆè¾“å…¥ã€‚
 
-filters.operators.any=ÈÎÒâ
+filters.operators.any=ä»»æ„
 
-filters.operators.between=½éÓÚ
+filters.operators.between=ä»‹äº
 
-filters.operators.bottomN=ÏÂ (n) Ïî
+filters.operators.bottomN=ä¸‹ (n) é¡¹
 
-filters.operators.bottomPercent=ÏÂ (n) °Ù·Ö±È
+filters.operators.bottomPercent=ä¸‹ (n) ç™¾åˆ†æ¯”
 
-filters.operators.equal=µÈÓÚ
+filters.operators.equal=ç­‰äº
 
-filters.operators.false=Îª¼Ù
+filters.operators.false=ä¸ºå‡
 
-filters.operators.greaterThan=´óÓÚ
+filters.operators.greaterThan=å¤§äº
 
-filters.operators.greaterThanEqual=´óÓÚ»òµÈÓÚ
+filters.operators.greaterThanEqual=å¤§äºæˆ–ç­‰äº
 
-filters.operators.lessThan=Ğ¡ÓÚ
+filters.operators.lessThan=å°äº
 
-filters.operators.lessThanEqual=Ğ¡ÓÚ»òµÈÓÚ
+filters.operators.lessThanEqual=å°äºæˆ–ç­‰äº
 
-filters.operators.like=ÀàËÆ
+filters.operators.like=ç±»ä¼¼
 
-filters.operators.notBetween=²»½éÓÚ
+filters.operators.notBetween=ä¸ä»‹äº
 
-filters.operators.notEqual=²»µÈÓÚ
+filters.operators.notEqual=ä¸ç­‰äº
 
-filters.operators.notNull=²»Îª NULL
+filters.operators.notNull=ä¸ä¸º NULL
 
-filters.operators.null=Îª NULL
+filters.operators.null=ä¸º NULL
 
-filters.operators.topN=¶¥²¿ (n) ¸öÏîÄ¿
+filters.operators.topN=é¡¶éƒ¨ (n) ä¸ªé¡¹ç›®
 
-filters.operators.topPercent=¶¥²¿ (n) °Ù·Ö±È
+filters.operators.topPercent=é¡¶éƒ¨ (n) ç™¾åˆ†æ¯”
 
-filters.operators.true=ÎªÕæ
+filters.operators.true=ä¸ºçœŸ
 
-filters.prompt.new=<´Ë´¦ÎªĞÂÉ¸Ñ¡...>
+filters.prompt.new=<æ­¤å¤„ä¸ºæ–°ç­›é€‰...>
 
 ###########################################################
 #FixTableLayoutCalculator properties
-FixTableLayoutCalculator.Error.CannotParse=ÎŞ·¨·ÖÎöÊäÈëÖµ¡£
+FixTableLayoutCalculator.Error.CannotParse=æ— æ³•åˆ†æè¾“å…¥å€¼ã€‚
 
 ###########################################################
 #FlowMoveChildCommand properties
-FlowMoveChildCommand.transLabel.moveElement=ÒÆ¶¯ÔªËØ
+FlowMoveChildCommand.transLabel.moveElement=ç§»åŠ¨å…ƒç´ 
 
 ###########################################################
 #FontPreferencePage properties
-FontPreferencePage.displayname.Title=×ÖÌå
+FontPreferencePage.displayname.Title=å­—ä½“
 
-FontPreferencePage.label.fontDecoration=ĞŞÊÎ:
+FontPreferencePage.label.fontDecoration=ä¿®é¥°:
 
-FontPreferencePage.text.Preview=Ê¾ÀıÔ¤ÀÀ
+FontPreferencePage.text.Preview=ç¤ºä¾‹é¢„è§ˆ
 
 FontPreferencePage.text.PreviewContent=AaBbYyZz
 
 ###########################################################
 #FontSizeBuilder properties
-FontSizeBuilder.displayname.Auto=×Ô¶¯
+FontSizeBuilder.displayname.Auto=è‡ªåŠ¨
 
 ###########################################################
 #FormatBuilder properties
-FormatAdapter.DisplayName.None=×Ô¶¯
+FormatAdapter.DisplayName.None=è‡ªåŠ¨
 
-FormatBuilder.Title=¸ñÊ½Éú³ÉÆ÷
+FormatBuilder.Title=æ ¼å¼ç”Ÿæˆå™¨
 
 ###########################################################
 #FormatDateTimeAttributePage properties
-FormatDateTimeAttributePage.Trans.SetDateTimeFormat = ÉèÖÃÈÕÆÚÊ±¼ä¸ñÊ½¡£
+FormatDateTimeAttributePage.Trans.SetDateTimeFormat = è®¾ç½®æ—¥æœŸæ—¶é—´æ ¼å¼ã€‚
 
 ###########################################################
 #FormatDateTimePage properties
-FormatDateTimePage.label.custom.settings.label=¸ñÊ½Ê¾Àı (µ¥»÷ÏÂÃæÒª¸´ÖÆµÄÒ»Ïî£¬È»ºó½øĞĞĞŞ¸Ä)(&P):
+FormatDateTimePage.label.custom.settings.label=æ ¼å¼ç¤ºä¾‹ (å•å‡»ä¸‹é¢è¦å¤åˆ¶çš„ä¸€é¡¹ï¼Œç„¶åè¿›è¡Œä¿®æ”¹)(&P):
 
-FormatDateTimePage.label.custom.settings=×Ô¶¨ÒåÉèÖÃ
+FormatDateTimePage.label.custom.settings=è‡ªå®šä¹‰è®¾ç½®
 
-FormatDateTimePage.label.format.code=¸ñÊ½´úÂë(&C):
+FormatDateTimePage.label.format.code=æ ¼å¼ä»£ç (&C):
 
-FormatDateTimePage.label.format.page=¸ñÊ½Îª(&F):
+FormatDateTimePage.label.format.page=æ ¼å¼ä¸º(&F):
 
-FormatDateTimePage.label.format.locale=ÇøÓòÉèÖÃ(&L):
+FormatDateTimePage.label.format.locale=åŒºåŸŸè®¾ç½®(&L):
 
-FormatDateTimePage.label.general.preview.group=´ø¸ñÊ½Ô¤ÀÀ
+FormatDateTimePage.label.general.preview.group=å¸¦æ ¼å¼é¢„è§ˆ
 
 ###########################################################
 # LOCALE SPECIAL:
 # The datetime pattern string in this text should be formatted locale-dependent if needed
 FormatDateTimePage.label.guide.format=yyyy/MM/dd hh:mm:ss a
 
-FormatDateTimePage.label.guide.text=Çë°´ÒÔÏÂ¸ñÊ½ÊäÈë: yyyy/MM/dd hh:mm:ss AM/PM
+FormatDateTimePage.label.guide.text=è¯·æŒ‰ä»¥ä¸‹æ ¼å¼è¾“å…¥: yyyy/MM/dd hh:mm:ss AM/PM
 
-FormatDateTimePage.label.preview.dateTime=ÒªÔ¤ÀÀµÄÈÕÆÚÊ±¼ä(&P):
+FormatDateTimePage.label.preview.dateTime=è¦é¢„è§ˆçš„æ—¥æœŸæ—¶é—´(&P):
 
-FormatDateTimePage.label.preview.group=Ô¤ÀÀ
+FormatDateTimePage.label.preview.group=é¢„è§ˆ
 
-FormatDateTimePage.label.preview.label=´ø¸ñÊ½Ô¤ÀÀ:
+FormatDateTimePage.label.preview.label=å¸¦æ ¼å¼é¢„è§ˆ:
 
-FormatDateTimePage.label.table.column.format.name=Ê¾Àı¸ñÊ½
+FormatDateTimePage.label.table.column.format.name=ç¤ºä¾‹æ ¼å¼
 
-FormatDateTimePage.label.table.column.format.result=Ê¾Àı¸ñÊ½½á¹û
+FormatDateTimePage.label.table.column.format.result=ç¤ºä¾‹æ ¼å¼ç»“æœ
 
-FormatDateTimePage.label.table.column.format.code=Ê¾Àı´úÂë
+FormatDateTimePage.label.table.column.format.code=ç¤ºä¾‹ä»£ç 
 
-FormatDateTimePage.preview.invalid.dateTime=ÒªÔ¤ÀÀµÄÈÕÆÚÊ±¼äÎŞĞ§
+FormatDateTimePage.preview.invalid.dateTime=è¦é¢„è§ˆçš„æ—¥æœŸæ—¶é—´æ— æ•ˆ
 
-FormatDateTimePage.preview.invalid.formatCode=ÎŞĞ§¸ñÊ½´úÂë
+FormatDateTimePage.preview.invalid.formatCode=æ— æ•ˆæ ¼å¼ä»£ç 
 
 ###########################################################
 #FormatDateTimePreferencePage properties
-FormatDateTimePreferencePage.formatDateTime.title=ÈÕÆÚÊ±¼ä¸ñÊ½
+FormatDateTimePreferencePage.formatDateTime.title=æ—¥æœŸæ—¶é—´æ ¼å¼
 
 ###########################################################
 #FormatNumberAttributePage properties
-FormatNumberAttributePage.Trans.SetNumberFormat = ÉèÖÃÊıÖµ¸ñÊ½¡£
+FormatNumberAttributePage.Trans.SetNumberFormat = è®¾ç½®æ•°å€¼æ ¼å¼ã€‚
 
 ###########################################################
 #FormatNumberPage properties
-FormatNumberPage.currency.symbol.none=ÎŞ·ûºÅ
+FormatNumberPage.currency.symbol.none=æ— ç¬¦å·
 
-FormatNumberPage.label.currency.settings=»õ±ÒÉèÖÃ
+FormatNumberPage.label.currency.settings=è´§å¸è®¾ç½®
 
-FormatNumberPage.label.custom.preview.group=Ô¤ÀÀ
+FormatNumberPage.label.custom.preview.group=é¢„è§ˆ
 
-FormatNumberPage.label.custom.preview.label=´ø¸ñÊ½Ô¤ÀÀ:
+FormatNumberPage.label.custom.preview.label=å¸¦æ ¼å¼é¢„è§ˆ:
 
-FormatNumberPage.label.custom.settings.lable=¸ñÊ½Ê¾Àı (µ¥»÷ÏÂÃæÒª¸´ÖÆµÄÒ»Ïî£¬È»ºó½øĞĞĞŞ¸Ä)(&P):
+FormatNumberPage.label.custom.settings.lable=æ ¼å¼ç¤ºä¾‹ (å•å‡»ä¸‹é¢è¦å¤åˆ¶çš„ä¸€é¡¹ï¼Œç„¶åè¿›è¡Œä¿®æ”¹)(&P):
 
-FormatNumberPage.label.custom.settings=×Ô¶¨ÒåÉèÖÃ
+FormatNumberPage.label.custom.settings=è‡ªå®šä¹‰è®¾ç½®
 
-FormatNumberPage.label.decimal.places=Ğ¡ÊıÎ»(&D):
+FormatNumberPage.label.decimal.places=å°æ•°ä½(&D):
 
-FormatNumberPage.label.rounding.mode=ÉáÈëÄ£Ê½(&R):
+FormatNumberPage.label.rounding.mode=èˆå…¥æ¨¡å¼(&R):
 
-FormatNumberPage.label.fixed.settings=¹Ì¶¨ÉèÖÃ
+FormatNumberPage.label.fixed.settings=å›ºå®šè®¾ç½®
 
-FormatNumberPage.label.format.code=¸ñÊ½´úÂë(&C):
+FormatNumberPage.label.format.code=æ ¼å¼ä»£ç (&C):
 
-FormatNumberPage.label.format.number.page=¸ñÊ½Îª(&F):
+FormatNumberPage.label.format.number.page=æ ¼å¼ä¸º(&F):
 
-FormatNumberPage.label.format.number.locale=ÇøÓòÉèÖÃ(&L):
+FormatNumberPage.label.format.number.locale=åŒºåŸŸè®¾ç½®(&L):
 
-FormatNumberPage.label.general.preview.group=´ø¸ñÊ½Ô¤ÀÀ
+FormatNumberPage.label.general.preview.group=å¸¦æ ¼å¼é¢„è§ˆ
 
-FormatNumberPage.label.negative.numbers=¸ºÊı(&N):
+FormatNumberPage.label.negative.numbers=è´Ÿæ•°(&N):
 
-FormatNumberPage.label.percent.settings=°Ù·Ö±ÈÉèÖÃ
+FormatNumberPage.label.percent.settings=ç™¾åˆ†æ¯”è®¾ç½®
 
-FormatNumberPage.label.preview.number=ÒªÔ¤ÀÀµÄÊıÖµ(&P):
+FormatNumberPage.label.preview.number=è¦é¢„è§ˆçš„æ•°å€¼(&P):
 
-FormatNumberPage.label.scientific.settings=¿ÆÑ§¼ÇÊıÉèÖÃ
+FormatNumberPage.label.scientific.settings=ç§‘å­¦è®°æ•°è®¾ç½®
 
-FormatNumberPage.label.symbol.position=·ûºÅÎ»ÖÃ(&Y):
+FormatNumberPage.label.symbol.position=ç¬¦å·ä½ç½®(&Y):
 
-FormatNumberPage.label.symbol=·ûºÅ(&B):
+FormatNumberPage.label.symbol=ç¬¦å·(&B):
 
-FormatNumberPage.label.table.column.format.code=Ê¾Àı¸ñÊ½
+FormatNumberPage.label.table.column.format.code=ç¤ºä¾‹æ ¼å¼
 
-FormatNumberPage.label.table.column.format.result=Ê¾Àı¸ñÊ½½á¹û
+FormatNumberPage.label.table.column.format.result=ç¤ºä¾‹æ ¼å¼ç»“æœ
 
-FormatNumberPage.label.use1000sSeparator=Ê¹ÓÃÇ§Î»·Ö¸ô·û(&1)
+FormatNumberPage.label.use1000sSeparator=ä½¿ç”¨åƒä½åˆ†éš”ç¬¦(&1)
 
-FormatNumberPage.label.useLeadingZero=Ê¹ÓÃÇ°µ¼Áã
+FormatNumberPage.label.useLeadingZero=ä½¿ç”¨å‰å¯¼é›¶
 
-FormatNumberPage.label.useSymbolSpace=Ê¹ÓÃ·ûºÅ¿Õ¼ä(&U)
+FormatNumberPage.label.useSymbolSpace=ä½¿ç”¨ç¬¦å·ç©ºé—´(&U)
 
-FormatNumberPage.preview.invalidFormatCode=ÎŞĞ§¸ñÊ½´úÂë
+FormatNumberPage.preview.invalidFormatCode=æ— æ•ˆæ ¼å¼ä»£ç 
 
-FormatNumberPage.preview.invalidNumber=ÒªÔ¤ÀÀµÄÊıÖµÎŞĞ§
+FormatNumberPage.preview.invalidNumber=è¦é¢„è§ˆçš„æ•°å€¼æ— æ•ˆ
 
-FormatNumberPage.symblePos.after=Ö®ºó
+FormatNumberPage.symblePos.after=ä¹‹å
 
-FormatNumberPage.symblePos.before=Ö®Ç°
+FormatNumberPage.symblePos.before=ä¹‹å‰
 
-FormatNumberPage.roundingMode.halfUp=Ïò×î½üµÄÒ»±ßÉáÈë£¬¾àÀëÏàµÈÊ±ÏòÉÏÉáÈë
+FormatNumberPage.roundingMode.halfUp=å‘æœ€è¿‘çš„ä¸€è¾¹èˆå…¥ï¼Œè·ç¦»ç›¸ç­‰æ—¶å‘ä¸Šèˆå…¥
 
-FormatNumberPage.roundingMode.halfDown=Ïò×î½üµÄÒ»±ßÉáÈë£¬¾àÀëÏàµÈÊ±ÏòÏÂÉáÈë
+FormatNumberPage.roundingMode.halfDown=å‘æœ€è¿‘çš„ä¸€è¾¹èˆå…¥ï¼Œè·ç¦»ç›¸ç­‰æ—¶å‘ä¸‹èˆå…¥
 
-FormatNumberPage.roundingMode.halfEven=Ïò×î½üµÄÒ»±ßÉáÈë£¬¾àÀëÏàµÈÊ±ÏòÅ¼Êı±ßÉáÈë
+FormatNumberPage.roundingMode.halfEven=å‘æœ€è¿‘çš„ä¸€è¾¹èˆå…¥ï¼Œè·ç¦»ç›¸ç­‰æ—¶å‘å¶æ•°è¾¹èˆå…¥
 
-FormatNumberPage.roundingMode.up=ÉÏÒÆ
+FormatNumberPage.roundingMode.up=ä¸Šç§»
 
-FormatNumberPage.roundingMode.down=ÏÂÒÆ
+FormatNumberPage.roundingMode.down=ä¸‹ç§»
 
-FormatNumberPage.roundingMode.ceiling=ÏòÕıÎŞÇî·½ÏòÉáÈë
+FormatNumberPage.roundingMode.ceiling=å‘æ­£æ— ç©·æ–¹å‘èˆå…¥
 
-FormatNumberPage.roundingMode.floor=Ïò¸ºÎŞÇî·½ÏòÉáÈë
+FormatNumberPage.roundingMode.floor=å‘è´Ÿæ— ç©·æ–¹å‘èˆå…¥
 
-FormatNumberPage.roundingMode.unnecessary=²»ĞèÒªÉáÈë
+FormatNumberPage.roundingMode.unnecessary=ä¸éœ€è¦èˆå…¥
 
 ###########################################################
 #FormatNumberPreferencePage properties
-FormatNumberPreferencePage.formatNumber.title=ÊıÖµ¸ñÊ½
+FormatNumberPreferencePage.formatNumber.title=æ•°å€¼æ ¼å¼
 
 ###########################################################
 #FormatPreferencePage properties
-FormatPreferencePage.displayname.Title=¸ñÊ½
+FormatPreferencePage.displayname.Title=æ ¼å¼
 
 ###########################################################
 #FormatStringAttributePage properties
-FormatStringAttributePage.Trans.SetStringFormat = ÉèÖÃ×Ö·û´®¸ñÊ½¡£
+FormatStringAttributePage.Trans.SetStringFormat = è®¾ç½®å­—ç¬¦ä¸²æ ¼å¼ã€‚
 
 ###########################################################
 #FormatStringPage properties
-FormatStringPage.default.preview.text=ÎÒµÄ×Ö·û´®
+FormatStringPage.default.preview.text=æˆ‘çš„å­—ç¬¦ä¸²
 
-FormatStringPage.label.custom.preview.label=´ø¸ñÊ½Ô¤ÀÀ:
+FormatStringPage.label.custom.preview.label=å¸¦æ ¼å¼é¢„è§ˆ:
 
-FormatStringPage.label.custom.settings.label=¸ñÊ½Ê¾Àı (µ¥»÷ÏÂÃæÒª¸´ÖÆµÄÒ»Ïî£¬È»ºó½øĞĞĞŞ¸Ä)(&P):
+FormatStringPage.label.custom.settings.label=æ ¼å¼ç¤ºä¾‹ (å•å‡»ä¸‹é¢è¦å¤åˆ¶çš„ä¸€é¡¹ï¼Œç„¶åè¿›è¡Œä¿®æ”¹)(&P):
 
-FormatStringPage.label.customSettings=×Ô¶¨ÒåÉèÖÃ
+FormatStringPage.label.customSettings=è‡ªå®šä¹‰è®¾ç½®
 
-FormatStringPage.label.format.code=¸ñÊ½´úÂë(&C):
+FormatStringPage.label.format.code=æ ¼å¼ä»£ç (&C):
 
-FormatStringPage.label.formatStringAs=¸ñÊ½Îª(&F):
+FormatStringPage.label.formatStringAs=æ ¼å¼ä¸º(&F):
 
-FormatStringPage.label.locale=ÇøÓòÉèÖÃ(&L):
+FormatStringPage.label.locale=åŒºåŸŸè®¾ç½®(&L):
 
-FormatStringPage.label.preview.group=Ô¤ÀÀ
+FormatStringPage.label.preview.group=é¢„è§ˆ
 
-FormatStringPage.label.preview.string=ÒªÔ¤ÀÀµÄ×Ö·û´®(&R):
+FormatStringPage.label.preview.string=è¦é¢„è§ˆçš„å­—ç¬¦ä¸²(&R):
 
-FormatStringPage.label.previewWithFormat=´ø¸ñÊ½Ô¤ÀÀ
+FormatStringPage.label.previewWithFormat=å¸¦æ ¼å¼é¢„è§ˆ
 
-FormatStringPage.label.table.collumn.exampleFormatCode=Ê¾Àı¸ñÊ½
+FormatStringPage.label.table.collumn.exampleFormatCode=ç¤ºä¾‹æ ¼å¼
 
-FormatStringPage.label.table.collumn.exampleFormatResult=Ê¾Àı¸ñÊ½½á¹û
+FormatStringPage.label.table.collumn.exampleFormatResult=ç¤ºä¾‹æ ¼å¼ç»“æœ
 
-FormatStringPage.previewText.invalidFormatCode=ÎŞĞ§¸ñÊ½´úÂë
+FormatStringPage.previewText.invalidFormatCode=æ— æ•ˆæ ¼å¼ä»£ç 
 
 ###########################################################
 #FormatStringPreferencePage properties
-FormatStringPreferencePage.formatString.title=×Ö·û´®¸ñÊ½
+FormatStringPreferencePage.formatString.title=å­—ç¬¦ä¸²æ ¼å¼
 
 ###########################################################
 #FormPage properties
-FormPage.Button.Add=Ìí¼Ó(&A)
+FormPage.Button.Add=æ·»åŠ (&A)
 
-FormPage.Button.AddWithDialog=Ìí¼Ó(&A)...
+FormPage.Button.AddWithDialog=æ·»åŠ (&A)...
 
-FormPage.Button.AddWithDialog.PROP=Ìí¼ÓÎÄ¼ş(&A)...
+FormPage.Button.AddWithDialog.PROP=æ·»åŠ æ–‡ä»¶(&A)...
 
-FormPage.Button.AddWithDialog.JAR=Ìí¼ÓÎÄ¼ş(&L)...
+FormPage.Button.AddWithDialog.JAR=æ·»åŠ æ–‡ä»¶(&L)...
 
-FormPage.Button.AddWithDialog.JS=Ìí¼ÓÎÄ¼ş&...
+FormPage.Button.AddWithDialog.JS=æ·»åŠ æ–‡ä»¶&...
 
-FormPage.Button.Add.AggregateOn=Ìí¼Ó¾ÛºÏ(&G)
+FormPage.Button.Add.AggregateOn=æ·»åŠ èšåˆ(&G)
 
-FormPage.Button.AddWithDialog.AggregateOn=Ìí¼Ó¾ÛºÏ(&G)...
+FormPage.Button.AddWithDialog.AggregateOn=æ·»åŠ èšåˆ(&G)...
 
-FormPage.Button.Delete=É¾³ı(&R)
+FormPage.Button.Delete=åˆ é™¤(&R)
 
-FormPage.Button.DeleteFile=É¾³ıÎÄ¼ş(&R)
+FormPage.Button.DeleteFile=åˆ é™¤æ–‡ä»¶(&R)
 
-FormPage.Button.DeleteFile.Alt1=É¾³ıÎÄ¼ş(&I)
+FormPage.Button.DeleteFile.Alt1=åˆ é™¤æ–‡ä»¶(&I)
 
-FormPage.Button.DeleteFile.Alt2=É¾³ıÎÄ¼ş(&F)
+FormPage.Button.DeleteFile.Alt2=åˆ é™¤æ–‡ä»¶(&F)
 
-FormPage.Button.Down=ÏÂÒÆ(&N)
+FormPage.Button.Down=ä¸‹ç§»(&N)
 
-FormPage.Button.Down.Alt1=ÏÂÒÆ(&W)
+FormPage.Button.Down.Alt1=ä¸‹ç§»(&W)
 
-FormPage.Button.Down.Alt2=ÏÂÒÆ(&D)
+FormPage.Button.Down.Alt2=ä¸‹ç§»(&D)
 
-FormPage.Button.Edit=±à¼­(&D)
+FormPage.Button.Edit=ç¼–è¾‘(&D)
 
-FormPage.Button.EditWithDialog=±à¼­(&D)...
+FormPage.Button.EditWithDialog=ç¼–è¾‘(&D)...
 
-FormPage.Button.Up=ÉÏÒÆ(&U)
+FormPage.Button.Up=ä¸Šç§»(&U)
 
-FormPage.Button.Up.Alt1=ÉÏÒÆ(&P)
+FormPage.Button.Up.Alt1=ä¸Šç§»(&P)
 
-FormPage.Button.Up.Alt2=ÉÏÒÆ(&E)
+FormPage.Button.Up.Alt2=ä¸Šç§»(&E)
 
-FormPage.Button.Binding.Refresh=Ë¢ĞÂ(&F)
+FormPage.Button.Binding.Refresh=åˆ·æ–°(&F)
 
-FormPage.Button.Binding.Clear=Çå³ı(&C)
+FormPage.Button.Binding.Clear=æ¸…é™¤(&C)
 
-FormPage.Menu.ModifyProperty=ĞŞ¸ÄÊôĞÔ
+FormPage.Menu.ModifyProperty=ä¿®æ”¹å±æ€§
 
-FormPage.toolTipText.Up=ÉÏÒÆ
+FormPage.toolTipText.Up=ä¸Šç§»
 
-FormPage.toolTipText.Down=ÏÂÒÆ
+FormPage.toolTipText.Down=ä¸‹ç§»
 ###########################################################
 #GeneralInsertMenuAction properties
-GeneralInsertMenuAction.text.Data=Êı¾İ(&D)
+GeneralInsertMenuAction.text.Data=æ•°æ®(&D)
 
-GeneralInsertMenuAction.text.DynamicText=¶¯Ì¬ÎÄ±¾(&Y)
+GeneralInsertMenuAction.text.DynamicText=åŠ¨æ€æ–‡æœ¬(&Y)
 
-GeneralInsertMenuAction.text.Grid=Íø¸ñ(&G)
+GeneralInsertMenuAction.text.Grid=ç½‘æ ¼(&G)
 
-GeneralInsertMenuAction.text.Image=Í¼Ïñ(&I)
+GeneralInsertMenuAction.text.Image=å›¾åƒ(&I)
 
-GeneralInsertMenuAction.text.Label=±êÇ©(&L)
+GeneralInsertMenuAction.text.Label=æ ‡ç­¾(&L)
 
-GeneralInsertMenuAction.text.List=ÁĞ±í(&S)
+GeneralInsertMenuAction.text.List=åˆ—è¡¨(&S)
 
-GeneralInsertMenuAction.text.Table=±í(&B)
+GeneralInsertMenuAction.text.Table=è¡¨(&B)
 
-GeneralInsertMenuAction.text.Text=ÎÄ±¾(&T)
+GeneralInsertMenuAction.text.Text=æ–‡æœ¬(&T)
 
 ###########################################################
 #GeneralPreferencePage properties
-GeneralPreferencePage.errorMsg.duplicate.styleName=ÖØ¸´µÄÑùÊ½Ãû³Æ¡£
+GeneralPreferencePage.errorMsg.duplicate.styleName=é‡å¤çš„æ ·å¼åç§°ã€‚
 
-GeneralPreferencePage.label.styleNameDuplicate=ÑùÊ½Ãû³Æ¡°{0}¡±ÒÑ´æÔÚ£¬ÇëÑ¡ÔñÁíÒ»¸öÃû³Æ
+GeneralPreferencePage.label.styleNameDuplicate=æ ·å¼åç§°â€œ{0}â€å·²å­˜åœ¨ï¼Œè¯·é€‰æ‹©å¦ä¸€ä¸ªåç§°
 
-GeneralPreferencePage.label.styleNamePredefind=ÑùÊ½Ãû³Æ¡°{0}¡±ÒÑÔ¤¶¨Òå£¬ÇëÑ¡ÔñÁíÒ»¸öÃû³Æ
+GeneralPreferencePage.label.styleNamePredefind=æ ·å¼åç§°â€œ{0}â€å·²é¢„å®šä¹‰ï¼Œè¯·é€‰æ‹©å¦ä¸€ä¸ªåç§°
 
-GeneralPreferencePage.label.customStyle=×Ô¶¨ÒåÑùÊ½(&C)
+GeneralPreferencePage.label.customStyle=è‡ªå®šä¹‰æ ·å¼(&C)
 
-GeneralPreferencePage.Label.CustomStyle=Ãû³Æ:
+GeneralPreferencePage.Label.CustomStyle=åç§°:
 
-GeneralPreferencePage.Label.Note=×¢: * ½«ÑùÊ½ÊôĞÔÓ¦ÓÃÓÚÖ¸¶¨ÀàĞÍµÄ±¨±íÔªËØ¡£
+GeneralPreferencePage.Label.Note=æ³¨: * å°†æ ·å¼å±æ€§åº”ç”¨äºæŒ‡å®šç±»å‹çš„æŠ¥è¡¨å…ƒç´ ã€‚
 
-GeneralPreferencePage.Label.PreDefinedStyle=Ñ¡Ôñ±¨±íÔªËØ:
+GeneralPreferencePage.Label.PreDefinedStyle=é€‰æ‹©æŠ¥è¡¨å…ƒç´ :
 
-GeneralPreferencePage.label.predefinedStyle=Ô¤¶¨ÒåÑùÊ½(&P) *
+GeneralPreferencePage.label.predefinedStyle=é¢„å®šä¹‰æ ·å¼(&P) *
 
-GeneralPreferencePage.label.nameEmpty=²»ÔÊĞí¿ÕÑùÊ½Ãû³Æ¡£
+GeneralPreferencePage.label.nameEmpty=ä¸å…è®¸ç©ºæ ·å¼åç§°ã€‚
 
 ###########################################################
 #GridEditPart properties
-GraphicalEditorWithFlyoutPalette_Redo.Text0=»Ö¸´(&R)
+GraphicalEditorWithFlyoutPalette_Redo.Text0=æ¢å¤(&R)
 
-GraphicalEditorWithFlyoutPalette_Redo.Text1=»Ö¸´ {0}(&R)
+GraphicalEditorWithFlyoutPalette_Redo.Text1=æ¢å¤ {0}(&R)
 
-GraphicalEditorWithFlyoutPalette_Redo.ToolTip0=»Ö¸´
+GraphicalEditorWithFlyoutPalette_Redo.ToolTip0=æ¢å¤
 
-GraphicalEditorWithFlyoutPalette_Redo.ToolTip1=»Ö¸´ {0}
+GraphicalEditorWithFlyoutPalette_Redo.ToolTip1=æ¢å¤ {0}
 
-GraphicalEditorWithFlyoutPalette_Undo.Text0=³·Ïû(&U)
+GraphicalEditorWithFlyoutPalette_Undo.Text0=æ’¤æ¶ˆ(&U)
 
-GraphicalEditorWithFlyoutPalette_Undo.Text1=³·Ïû {0}(&U)
+GraphicalEditorWithFlyoutPalette_Undo.Text1=æ’¤æ¶ˆ {0}(&U)
 
-GraphicalEditorWithFlyoutPalette_Undo.ToolTip0=³·Ïû
+GraphicalEditorWithFlyoutPalette_Undo.ToolTip0=æ’¤æ¶ˆ
 
-GraphicalEditorWithFlyoutPalette_Undo.ToolTip1=³·Ïû {0}
+GraphicalEditorWithFlyoutPalette_Undo.ToolTip1=æ’¤æ¶ˆ {0}
 
-GridEditPart.GUIDEHANDLE_TEXT = Íø¸ñ
+GridEditPart.GUIDEHANDLE_TEXT = ç½‘æ ¼
 
 ###########################################################
 #GridFigure properties
-GridFigure.BORDER_TEXT=Íø¸ñ
+GridFigure.BORDER_TEXT=ç½‘æ ¼
 
 ###########################################################
 #GridPageGenerator properties
-GridPageGenerator.List.Bookmark=ÊéÇ©
+GridPageGenerator.List.Bookmark=ä¹¦ç­¾
 
-GridPageGenerator.List.Borders=±ß¿ò
+GridPageGenerator.List.Borders=è¾¹æ¡†
 
-GridPageGenerator.List.Font=×ÖÌå
+GridPageGenerator.List.Font=å­—ä½“
 
-GridPageGenerator.List.General=³£¹æ
+GridPageGenerator.List.General=å¸¸è§„
 
-GridPageGenerator.List.Margin=±ß¾à
+GridPageGenerator.List.Margin=è¾¹è·
 
-GridPageGenerator.List.Section=·ÖÒ³·û
+GridPageGenerator.List.Section=åˆ†é¡µç¬¦
 
-GridPageGenerator.List.TOC=Ä¿Â¼
+GridPageGenerator.List.TOC=ç›®å½•
 
-GridPageGenerator.List.Visibility=¿É¼ûĞÔ
+GridPageGenerator.List.Visibility=å¯è§æ€§
 
 ###########################################################
 #GridProvider properties
-GridProvider.action.text=²åÈëĞĞ(&S)
+GridProvider.action.text=æ’å…¥è¡Œ(&S)
 
 ###########################################################
 #GroupDialog properties
-GroupDialog.Dialog.GroupDetail=×éÏêÏ¸×ÊÁÏ
+GroupDialog.Dialog.GroupDetail=ç»„è¯¦ç»†èµ„æ–™
 
-GroupDialog.Label.Bookmark=ÊéÇ©(&B):
+GroupDialog.Label.Bookmark=ä¹¦ç­¾(&B):
 
-GroupDialog.Dialog.TOCGroup=Ä¿Â¼
+GroupDialog.Dialog.TOCGroup=ç›®å½•
 
-GroupDialog.Dialog.TOC=ÏîÄ¿±í´ïÊ½(&T)
+GroupDialog.Dialog.TOC=é¡¹ç›®è¡¨è¾¾å¼(&T)
 
-GroupDialog.Dialog.TOCStyle=ÑùÊ½(&Y):
+GroupDialog.Dialog.TOCStyle=æ ·å¼(&Y):
 
-GroupDialog.DialogTitle.NoData=³õÊ¼»¯Ê§°Ü
+GroupDialog.DialogTitle.NoData=åˆå§‹åŒ–å¤±è´¥
 
-GroupDialog.DialogTitle.SemanticCheckFailed=ÓïÒå¼ì²éÊ§°Ü
+GroupDialog.DialogTitle.SemanticCheckFailed=è¯­ä¹‰æ£€æŸ¥å¤±è´¥
 
-GroupDialog.ErrorMesaage.IllegalGroup=´Ë×é·Ç·¨¡£
+GroupDialog.ErrorMesaage.IllegalGroup=æ­¤ç»„éæ³•ã€‚
 
-GroupDialog.ErrorMessage.NoData=Ã»ÓĞ¿ÉÓÃµÄÊı¾İĞĞ¡£
+GroupDialog.ErrorMessage.NoData=æ²¡æœ‰å¯ç”¨çš„æ•°æ®è¡Œã€‚
 
-GroupDialog.Label.FilterSorting=É¸Ñ¡Æ÷ºÍÅÅĞò
+GroupDialog.Label.FilterSorting=ç­›é€‰å™¨å’Œæ’åº
 
-GroupDialog.Label.GroupOn=·Ö×éÒÀ¾İ(&G):
+GroupDialog.Label.GroupOn=åˆ†ç»„ä¾æ®(&G):
 
-GroupDialog.Label.HeaderFooter=Ò³Ã¼ºÍÒ³½Å
+GroupDialog.Label.HeaderFooter=é¡µçœ‰å’Œé¡µè„š
 
-GroupDialog.Label.IncludeFooter=°üº¬×éÒ³½Å(&F)
+GroupDialog.Label.IncludeFooter=åŒ…å«ç»„é¡µè„š(&F)
 
-GroupDialog.Label.IncludeHeader=°üº¬×éÒ³Ã¼(&H)
+GroupDialog.Label.IncludeHeader=åŒ…å«ç»„é¡µçœ‰(&H)
 
-GroupDialog.Label.Interval=¼ä¸ô(&V):
+GroupDialog.Label.Interval=é—´éš”(&V):
 
-GroupDialog.PageBreakBefore=Ö®Ç°(&O):
+GroupDialog.PageBreakBefore=ä¹‹å‰(&O):
 
-GroupDialog.PageBreakAfter=Ö®ºó(&F):
+GroupDialog.PageBreakAfter=ä¹‹å(&F):
 
-GroupDialog.PageBreakInside=ÄÚ²¿(&I):
+GroupDialog.PageBreakInside=å†…éƒ¨(&I):
 
-GroupDialog.Label.IntervalBase=¶Ô¼ä¸ôÊ¹ÓÃ¹Ì¶¨»ùÖµ(&X):
+GroupDialog.Label.IntervalBase=å¯¹é—´éš”ä½¿ç”¨å›ºå®šåŸºå€¼(&X):
 
-GroupDialog.Label.Name=Ãû³Æ(&M):
+GroupDialog.Label.Name=åç§°(&M):
 
-GroupDialog.Label.Range=·¶Î§(&E):
+GroupDialog.Label.Range=èŒƒå›´(&E):
 
-GroupDialog.Tab.Binding=Êı¾İ°ó¶¨
+GroupDialog.Tab.Binding=æ•°æ®ç»‘å®š
 
-GroupDialog.Tab.Filter=É¸Ñ¡Æ÷
+GroupDialog.Tab.Filter=ç­›é€‰å™¨
 
-GroupDialog.Tab.Sorting=ÅÅĞò
+GroupDialog.Tab.Sorting=æ’åº
 
-GroupDialog.RepeatHeader=ÖØ¸´±êÌâ(&P)
+GroupDialog.RepeatHeader=é‡å¤æ ‡é¢˜(&P)
 
-GroupDialog.Title.Edit=±à¼­×é
+GroupDialog.Title.Edit=ç¼–è¾‘ç»„
 
-GroupDialog.Title.New=ĞÂ½¨×é
+GroupDialog.Title.New=æ–°å»ºç»„
 
-GroupDialog.PageBreak=·ÖÒ³·û
+GroupDialog.PageBreak=åˆ†é¡µç¬¦
 
-GroupDialog.buttion.HideDetail=Òş²ØÏêÏ¸ĞÅÏ¢(&H)
+GroupDialog.buttion.HideDetail=éšè—è¯¦ç»†ä¿¡æ¯(&H)
 
-GroupDialog.toolTipText.openExprButton=´ò¿ª±í´ïÊ½Éú³ÉÆ÷
+GroupDialog.toolTipText.openExprButton=æ‰“å¼€è¡¨è¾¾å¼ç”Ÿæˆå™¨
 
-GroupDialog.Button.Ascending=ÉıĞò(&A)
+GroupDialog.Button.Ascending=å‡åº(&A)
 
-GroupDialog.Button.Descending=½µĞò(&C)
+GroupDialog.Button.Descending=é™åº(&C)
 ###########################################################
 #GroupHandleProvider properties
-GroupHandleProvider.Label.Groups=×éÁĞ±í:
+GroupHandleProvider.Label.Groups=ç»„åˆ—è¡¨:
 
 ###########################################################
 #GroupProvider properties
-GroupProvider.action.text=±à¼­×é(&E)
+GroupProvider.action.text=ç¼–è¾‘ç»„(&E)
 
 ###########################################################
 #GuiExtensionManager properties
-GuiExtensionManager.label.name=À©Õ¹Ïî
+GuiExtensionManager.label.name=æ‰©å±•é¡¹
 
-GuiExtensionManager.tooltip.insert=²åÈë {0}
+GuiExtensionManager.tooltip.insert=æ’å…¥ {0}
 
 ###########################################################
 #HighlightHandleProvider properties
-HighlightHandleProvider.text.Preview=AaBbCcYyZz (×ÖÌå´óĞ¡ =
+HighlightHandleProvider.text.Preview=AaBbCcYyZz (å­—ä½“å¤§å° =
 
 ###########################################################
 #HighlightRuleBuilderDialog properties
-HightlightRuleBuilder.button.add=Ìí¼Ó(&A)
+HightlightRuleBuilder.button.add=æ·»åŠ (&A)
 
-HightlightRuleBuilder.button.add.tooltip=½«ÖµÌí¼Óµ½ÖµÁĞ±í
+HightlightRuleBuilder.button.add.tooltip=å°†å€¼æ·»åŠ åˆ°å€¼åˆ—è¡¨
 
-HightlightRuleBuilder.button.delete=É¾³ı(&M)
+HightlightRuleBuilder.button.delete=åˆ é™¤(&M)
 
-HightlightRuleBuilder.button.delete.tooltip=´ÓÁĞ±íÖĞÉ¾³ıÑ¡¶¨Öµ
+HightlightRuleBuilder.button.delete.tooltip=ä»åˆ—è¡¨ä¸­åˆ é™¤é€‰å®šå€¼
 
-HightlightRuleBuilder.button.deleteall=È«²¿É¾³ı(&O)
+HightlightRuleBuilder.button.deleteall=å…¨éƒ¨åˆ é™¤(&O)
 
-HightlightRuleBuilder.button.deleteall.tooltip=´ÓÁĞ±íÖĞÉ¾³ıËùÓĞÖµ
+HightlightRuleBuilder.button.deleteall.tooltip=ä»åˆ—è¡¨ä¸­åˆ é™¤æ‰€æœ‰å€¼
 
-HightlightRuleBuilder.button.edit=±à¼­(&E)...
+HightlightRuleBuilder.button.edit=ç¼–è¾‘(&E)...
 
-HightlightRuleBuilder.button.edit.tooltip=±à¼­ÖµÁĞ±íÖĞµÄÑ¡¶¨Öµ
+HightlightRuleBuilder.button.edit.tooltip=ç¼–è¾‘å€¼åˆ—è¡¨ä¸­çš„é€‰å®šå€¼
 
-HightlightRuleBuilder.label.value=Öµ(&V):
+HightlightRuleBuilder.label.value=å€¼(&V):
 
-HightlightRuleBuilder.list.item1=Öµ
+HightlightRuleBuilder.list.item1=å€¼
 
-HightlightRuleBuilder.MsgDlg.Msg=¾¯¸æ
+HightlightRuleBuilder.MsgDlg.Msg=è­¦å‘Š
 
-HightlightRuleBuilder.MsgDlg.Title=Öµ²»ÄÜÎª¿Õ¡£
+HightlightRuleBuilder.MsgDlg.Title=å€¼ä¸èƒ½ä¸ºç©ºã€‚
 
 HightlightRuleBuilder.text.AND=AND
 
-HighlightRuleBuilderDialog.choice.ValueOfThisDataItem=´ËÊı¾İÏîµÄÖµ
+HighlightRuleBuilderDialog.choice.ValueOfThisDataItem=æ­¤æ•°æ®é¡¹çš„å€¼
 
-HighlightRuleBuilderDialog.text.AND=Óë
+HighlightRuleBuilderDialog.text.AND=ä¸
 
-HighlightRuleBuilderDialog.text.Any=ÈÎÒâ
+HighlightRuleBuilderDialog.text.Any=ä»»æ„
 
-HighlightRuleBuilderDialog.text.BackgroundColor=±³¾°É«(&B):
+HighlightRuleBuilderDialog.text.BackgroundColor=èƒŒæ™¯è‰²(&B):
 
-HighlightRuleBuilderDialog.text.Between=½éÓÚ
+HighlightRuleBuilderDialog.text.Between=ä»‹äº
 
-HighlightRuleBuilderDialog.text.Color=ÑÕÉ«(&C):
+HighlightRuleBuilderDialog.text.Color=é¢œè‰²(&C):
 
-HighlightRuleBuilderDialog.text.Default=×Ô¶¯
+HighlightRuleBuilderDialog.text.Default=è‡ªåŠ¨
 
-HighlightRuleBuilderDialog.text.ET=µÈÓÚ
+HighlightRuleBuilderDialog.text.ET=ç­‰äº
 
-HighlightRuleBuilderDialog.text.False=Îª¼Ù
+HighlightRuleBuilderDialog.text.False=ä¸ºå‡
 
-HighlightRuleBuilderDialog.text.Font=×ÖÌå(&F):
+HighlightRuleBuilderDialog.text.Font=å­—ä½“(&F):
 
-HighlightRuleBuilderDialog.text.GE=´óÓÚ»òµÈÓÚ
+HighlightRuleBuilderDialog.text.GE=å¤§äºæˆ–ç­‰äº
 
-HighlightRuleBuilderDialog.text.GT=´óÓÚ
+HighlightRuleBuilderDialog.text.GT=å¤§äº
 
-HighlightRuleBuilderDialog.text.LE=Ğ¡ÓÚ»òµÈÓÚ
+HighlightRuleBuilderDialog.text.LE=å°äºæˆ–ç­‰äº
 
-HighlightRuleBuilderDialog.text.Like=ÀàËÆ
+HighlightRuleBuilderDialog.text.Like=ç±»ä¼¼
 
-HighlightRuleBuilderDialog.text.LT=Ğ¡ÓÚ
+HighlightRuleBuilderDialog.text.LT=å°äº
 
-HighlightRuleBuilderDialog.text.NE=²»µÈÓÚ
+HighlightRuleBuilderDialog.text.NE=ä¸ç­‰äº
 
-HighlightRuleBuilderDialog.text.NotBetween=²»½éÓÚ
+HighlightRuleBuilderDialog.text.NotBetween=ä¸ä»‹äº
 
-HighlightRuleBuilderDialog.text.NotNull=²»Îª NULL
+HighlightRuleBuilderDialog.text.NotNull=ä¸ä¸º NULL
 
-HighlightRuleBuilderDialog.text.Null=Îª NULL
+HighlightRuleBuilderDialog.text.Null=ä¸º NULL
 
-HighlightRuleBuilderDialog.text.Preview=Ô¤ÀÀ:
+HighlightRuleBuilderDialog.text.Preview=é¢„è§ˆ:
 
 HighlightRuleBuilderDialog.text.PreviewContent=AaBbCcYyZz
-HighlightRuleBuilderDialog.text.Size=´óĞ¡(&Z):
+HighlightRuleBuilderDialog.text.Size=å¤§å°(&Z):
 
-HighlightRuleBuilderDialog.text.Title=Í»³öÏÔÊ¾
+HighlightRuleBuilderDialog.text.Title=çªå‡ºæ˜¾ç¤º
 
-HighlightRuleBuilderDialog.text.True=ÎªÕæ
+HighlightRuleBuilderDialog.text.True=ä¸ºçœŸ
 
-HighlightRuleBuilderDialog.tooltip.ExpBuilder=´ò¿ª±í´ïÊ½Éú³ÉÆ÷
+HighlightRuleBuilderDialog.tooltip.ExpBuilder=æ‰“å¼€è¡¨è¾¾å¼ç”Ÿæˆå™¨
 
-HighlightRuleBuilderDialog.tooltip.Bold=´ÖÌå
+HighlightRuleBuilderDialog.tooltip.Bold=ç²—ä½“
 
-HighlightRuleBuilderDialog.tooltip.Italic=Ğ±Ìå
+HighlightRuleBuilderDialog.tooltip.Italic=æ–œä½“
 
-HighlightRuleBuilderDialog.tooltip.Underline=ÏÂ»®Ïß
+HighlightRuleBuilderDialog.tooltip.Underline=ä¸‹åˆ’çº¿
 
-HighlightRuleBuilderDialog.tooltip.Text_Line_Through=ÎÄ±¾É¾³ıÏß
+HighlightRuleBuilderDialog.tooltip.Text_Line_Through=æ–‡æœ¬åˆ é™¤çº¿
 
-HighlightRuleBuilderDialog.text.applyStyle=Ó¦ÓÃÑùÊ½(&Y):
+HighlightRuleBuilderDialog.text.applyStyle=åº”ç”¨æ ·å¼(&Y):
 
-HighlightRuleBuilderDialog.displayText.None=ÎŞ
+HighlightRuleBuilderDialog.displayText.None=æ— 
 
-HighlightRuleBuilderDialog.text.Description=Ïò {0} Ó¦ÓÃÌõ¼ş¸ñÊ½¡£ÇëÖ¸¶¨Ìõ¼ş±í´ïÊ½ºÍ¸ñÊ½¡£\nÈç¹û±í´ïÊ½ÅĞ¶¨Îª¡°Õæ¡±£¬Ôò½«Ó¦ÓÃ¸ñÊ½¡£
+HighlightRuleBuilderDialog.text.Description=å‘ {0} åº”ç”¨æ¡ä»¶æ ¼å¼ã€‚è¯·æŒ‡å®šæ¡ä»¶è¡¨è¾¾å¼å’Œæ ¼å¼ã€‚\nå¦‚æœè¡¨è¾¾å¼åˆ¤å®šä¸ºâ€œçœŸâ€ï¼Œåˆ™å°†åº”ç”¨æ ¼å¼ã€‚
 
-HighlightRuleBuilderDialog.text.Description.Element.Table=±í
+HighlightRuleBuilderDialog.text.Description.Element.Table=è¡¨
 
-HighlightRuleBuilderDialog.text.Description.Element.Grid=Íø¸ñ
+HighlightRuleBuilderDialog.text.Description.Element.Grid=ç½‘æ ¼
 
-HighlightRuleBuilderDialog.text.Description.Element.List=ÁĞ±í
+HighlightRuleBuilderDialog.text.Description.Element.List=åˆ—è¡¨
 
-HighlightRuleBuilderDialog.text.Description.Element.Row=ĞĞ
+HighlightRuleBuilderDialog.text.Description.Element.Row=è¡Œ
 
-HighlightRuleBuilderDialog.text.Description.Element.Column=ÁĞ
+HighlightRuleBuilderDialog.text.Description.Element.Column=åˆ—
 
-HighlightRuleBuilderDialog.text.Description.Element.DataItem=Êı¾İÏî
+HighlightRuleBuilderDialog.text.Description.Element.DataItem=æ•°æ®é¡¹
 
-HighlightRuleBuilderDialog.text.Description.Element.Cell=µ¥Ôª¸ñ
+HighlightRuleBuilderDialog.text.Description.Element.Cell=å•å…ƒæ ¼
 
-HighlightRuleBuilderDialog.text.Group.Condition=Ìõ¼ş(&D)
+HighlightRuleBuilderDialog.text.Group.Condition=æ¡ä»¶(&D)
 
-HighlightRuleBuilderDialog.text.Group.Format=¸ñÊ½
+HighlightRuleBuilderDialog.text.Group.Format=æ ¼å¼
 
-HighlightRuleBuilderDialog.text.Description.Element.ReportElement=±¨±íÔªËØ
+HighlightRuleBuilderDialog.text.Description.Element.ReportElement=æŠ¥è¡¨å…ƒç´ 
 
 ###########################################################
 #HighlightsPage properties
-HighlightsPage.Button.Add=Ìí¼Ó(&A)...
+HighlightsPage.Button.Add=æ·»åŠ (&A)...
 
-HighlightsPage.Button.Delete=É¾³ı(&R)
+HighlightsPage.Button.Delete=åˆ é™¤(&R)
 
-HighlightsPage.Dialog.EditHighlight=±à¼­Í»³öÏÔÊ¾
+HighlightsPage.Dialog.EditHighlight=ç¼–è¾‘çªå‡ºæ˜¾ç¤º
 
-HighlightsPage.Dialog.NewHighlight=ĞÂ½¨Í»³öÏÔÊ¾
+HighlightsPage.Dialog.NewHighlight=æ–°å»ºçªå‡ºæ˜¾ç¤º
 
-HighlightsPage.Label.Highlights=Í»³öÏÔÊ¾ÁĞ±í:
+HighlightsPage.Label.Highlights=çªå‡ºæ˜¾ç¤ºåˆ—è¡¨:
 
-HighlightsPage.TableColumn.Condition=Ìõ¼ş
+HighlightsPage.TableColumn.Condition=æ¡ä»¶
 
-HighlightsPage.TableColumn.Preview=Ô¤ÀÀ:
+HighlightsPage.TableColumn.Preview=é¢„è§ˆ:
 
-HighlightsPage.trans.Add=Ìí¼ÓÍ»³öÏÔÊ¾¹æÔò
+HighlightsPage.trans.Add=æ·»åŠ çªå‡ºæ˜¾ç¤ºè§„åˆ™
 
-HighlightsPage.trans.Delete=É¾³ıÍ»³öÏÔÊ¾¹æÔò
+HighlightsPage.trans.Delete=åˆ é™¤çªå‡ºæ˜¾ç¤ºè§„åˆ™
 
-HighlightsPage.trans.Edit=±à¼­Í»³öÏÔÊ¾¹æÔò
+HighlightsPage.trans.Edit=ç¼–è¾‘çªå‡ºæ˜¾ç¤ºè§„åˆ™
 
-HighlightsPage.trans.MoveDown=ÏÂÒÆÍ»³öÏÔÊ¾¹æÔò
+HighlightsPage.trans.MoveDown=ä¸‹ç§»çªå‡ºæ˜¾ç¤ºè§„åˆ™
 
-HighlightsPage.trans.MoveUp=ÉÏÒÆÍ»³öÏÔÊ¾¹æÔò
+HighlightsPage.trans.MoveUp=ä¸Šç§»çªå‡ºæ˜¾ç¤ºè§„åˆ™
 
-HighlightsPage.toolTipText.MoveDown=Í»³öÏÔÊ¾¹æÔòÏÂÒÆ
+HighlightsPage.toolTipText.MoveDown=çªå‡ºæ˜¾ç¤ºè§„åˆ™ä¸‹ç§»
 
-HighlightsPage.toolTipText.MoveUp=Í»³öÏÔÊ¾¹æÔòÉÏÒÆ
+HighlightsPage.toolTipText.MoveUp=çªå‡ºæ˜¾ç¤ºè§„åˆ™ä¸Šç§»
 
-HighlightsPage.label.duplicate=¸´ÖÆ(&C)
+HighlightsPage.label.duplicate=å¤åˆ¶(&C)
 
-HighlightsPage.toolTipText.duplicate=ÖØ¸´Í»³öÏÔÊ¾¹æÔò
+HighlightsPage.toolTipText.duplicate=é‡å¤çªå‡ºæ˜¾ç¤ºè§„åˆ™
 
-HighlightsPage.trans.Duplicate=ÖØ¸´Í»³öÏÔÊ¾¹æÔò
+HighlightsPage.trans.Duplicate=é‡å¤çªå‡ºæ˜¾ç¤ºè§„åˆ™
 
 ###########################################################
 #HighlightsPreferencePage properties
-HighlightsPreferencePage.displayname.Condition=Ìõ¼ş
+HighlightsPreferencePage.displayname.Condition=æ¡ä»¶
 
-HighlightsPreferencePage.displayname.Preview=Ô¤ÀÀ
+HighlightsPreferencePage.displayname.Preview=é¢„è§ˆ
 
-HighlightsPreferencePage.displayname.Title=Í»³öÏÔÊ¾
+HighlightsPreferencePage.displayname.Title=çªå‡ºæ˜¾ç¤º
 
-HighlightsPreferencePage.text.Add=Ìí¼Ó(&A)...
+HighlightsPreferencePage.text.Add=æ·»åŠ (&A)...
 
-HighlightsPreferencePage.text.Delete=É¾³ı(&R)
+HighlightsPreferencePage.text.Delete=åˆ é™¤(&R)
 
-HighlightsPreferencePage.text.Description=Í»³öÏÔÊ¾ÁĞ±í:
+HighlightsPreferencePage.text.Description=çªå‡ºæ˜¾ç¤ºåˆ—è¡¨:
 
-HighlightsPreferencePage.text.Edit=±à¼­(&D)...
+HighlightsPreferencePage.text.Edit=ç¼–è¾‘(&D)...
 
-HighlightsPreferencePage.toolTipText.Up=Í»³öÏÔÊ¾ÉÏÒÆ
+HighlightsPreferencePage.toolTipText.Up=çªå‡ºæ˜¾ç¤ºä¸Šç§»
 
-HighlightsPreferencePage.toolTipText.Down=Í»³öÏÔÊ¾ÏÂÒÆ
+HighlightsPreferencePage.toolTipText.Down=çªå‡ºæ˜¾ç¤ºä¸‹ç§»
 
-HighlightsPreferencePage.text.Duplicate=ÖØ¸´(&D)
+HighlightsPreferencePage.text.Duplicate=é‡å¤(&D)
 
-HighlightsPreferencePage.toolTipText.Duplicate=ÖØ¸´Í»³öÏÔÊ¾
+HighlightsPreferencePage.toolTipText.Duplicate=é‡å¤çªå‡ºæ˜¾ç¤º
 
 
 ###########################################################
 #HyperlinkBuilder properties
-HyperlinkBuilder.Column.Parameters=²ÎÊı
+HyperlinkBuilder.Column.Parameters=å‚æ•°
 
-HyperlinkBuilder.DrillThrough.SelectTargetReport=Ñ¡ÔñÄ¿±êÎÄ¼ş
+HyperlinkBuilder.DrillThrough.SelectTargetReport=é€‰æ‹©ç›®æ ‡æ–‡ä»¶
 
-HyperlinkBuilder.DrillThrough.SelectTargetAnchor=Ñ¡ÔñÄ¿±ê¶¨Î»±ê¼Ç
+HyperlinkBuilder.DrillThrough.SelectTargetAnchor=é€‰æ‹©ç›®æ ‡å®šä½æ ‡è®°
 
-HyperlinkBuilder.DrillThrough.CreateLinkExpr=´´½¨ÓëÄ¿±êÊéÇ©Æ¥ÅäµÄÁ´½Ó±í´ïÊ½
+HyperlinkBuilder.DrillThrough.CreateLinkExpr=åˆ›å»ºä¸ç›®æ ‡ä¹¦ç­¾åŒ¹é…çš„é“¾æ¥è¡¨è¾¾å¼
 
-HyperlinkBuilder.DrillThrough.ShowTargetReport=ÏÔÊ¾ÒÔÏÂ·¶Î§ÄÚµÄÄ¿±ê±¨±í
+HyperlinkBuilder.DrillThrough.ShowTargetReport=æ˜¾ç¤ºä»¥ä¸‹èŒƒå›´å†…çš„ç›®æ ‡æŠ¥è¡¨
 
-HyperlinkBuilder.DrillThrough.SelectFormat=ÎªÄ¿±ê±¨±íÑ¡Ôñ¸ñÊ½
+HyperlinkBuilder.DrillThrough.SelectFormat=ä¸ºç›®æ ‡æŠ¥è¡¨é€‰æ‹©æ ¼å¼
 
-HyperlinkBuilder.DrillThrough.Tooltip=¹¤¾ßÌáÊ¾
+HyperlinkBuilder.DrillThrough.Tooltip=å·¥å…·æç¤º
 
-HyperlinkBuilder.Step.1=µÚ 1 ²½:
+HyperlinkBuilder.Step.1=ç¬¬ 1 æ­¥:
 
-HyperlinkBuilder.Step.2=µÚ 2 ²½:
+HyperlinkBuilder.Step.2=ç¬¬ 2 æ­¥:
 
-HyperlinkBuilder.Step.3=µÚ 3 ²½:
+HyperlinkBuilder.Step.3=ç¬¬ 3 æ­¥:
 
-HyperlinkBuilder.Step.4=µÚ 4 ²½:
+HyperlinkBuilder.Step.4=ç¬¬ 4 æ­¥:
 
-HyperlinkBuilder.Step.5=µÚ 5 ²½:
+HyperlinkBuilder.Step.5=ç¬¬ 5 æ­¥:
 
-HyperlinkBuilder.Step.6=µÚ 6 ²½:
+HyperlinkBuilder.Step.6=ç¬¬ 6 æ­¥:
 
-HyperlinkBuilder.ParameterRequired=±ØĞè
+HyperlinkBuilder.ParameterRequired=å¿…éœ€
 
-HyperlinkBuilder.ParamterBuilder.Add.Title=Ìí¼Ó³¬¼¶Á´½Ó²ÎÊı
+HyperlinkBuilder.ParamterBuilder.Add.Title=æ·»åŠ è¶…çº§é“¾æ¥å‚æ•°
 
-HyperlinkBuilder.ParamterBuilder.Edit.Title=±à¼­³¬¼¶Á´½Ó²ÎÊı
+HyperlinkBuilder.ParamterBuilder.Edit.Title=ç¼–è¾‘è¶…çº§é“¾æ¥å‚æ•°
 
-HyperlinkBuilder.Column.DataType=Êı¾İÀàĞÍ
+HyperlinkBuilder.Column.DataType=æ•°æ®ç±»å‹
 
-HyperlinkBuilder.Column.Values=Öµ
+HyperlinkBuilder.Column.Values=å€¼
 
-HyperlinkBuilder.DialogTitle=³¬¼¶Á´½ÓÑ¡Ïî
+HyperlinkBuilder.DialogTitle=è¶…çº§é“¾æ¥é€‰é¡¹
 
-HyperlinkBuilder.ErrorMessage.InvalidReport=ÎŞ·¨½âÎöÄ¿±ê±¨±íÉè¼Æ£¬Ô¤¶¨Òå²ÎÊıĞÅÏ¢½«²»¿ÉÓÃ¡£
+HyperlinkBuilder.ErrorMessage.InvalidReport=æ— æ³•è§£æç›®æ ‡æŠ¥è¡¨è®¾è®¡ï¼Œé¢„å®šä¹‰å‚æ•°ä¿¡æ¯å°†ä¸å¯ç”¨ã€‚
 
-HyperlinkBuilder.ErrorMessage.ReportReqired=±ØĞëÖ¸¶¨±¨±íÎÄ¼ş¡£
+HyperlinkBuilder.ErrorMessage.ReportReqired=å¿…é¡»æŒ‡å®šæŠ¥è¡¨æ–‡ä»¶ã€‚
 
-HyperlinkBuilder.DrillThroughTargetBookmark=Ä¿±êÊéÇ©(&T)
+HyperlinkBuilder.DrillThroughTargetBookmark=ç›®æ ‡ä¹¦ç­¾(&T)
 
-HyperlinkBuilder.DrillThroughLinkExpression=Á´½Ó±í´ïÊ½(&E):
+HyperlinkBuilder.DrillThroughLinkExpression=é“¾æ¥è¡¨è¾¾å¼(&E):
 
-HyperlinkBuilder.Label.Bookmark=ÊéÇ©(&B):
+HyperlinkBuilder.Label.Bookmark=ä¹¦ç­¾(&B):
 
-HyperlinkBuilder.Label.Format=¸ñÊ½:
+HyperlinkBuilder.Label.Format=æ ¼å¼:
 
-HyperlinkBuilder.Label.LinkedExpression=Á´½Ó±í´ïÊ½(&E):
+HyperlinkBuilder.Label.LinkedExpression=é“¾æ¥è¡¨è¾¾å¼(&E):
 
-HyperlinkBuilder.DrillThroughTargetToc=Ä¿±ê±¨±íÖĞµÄÄ¿Â¼Ïî(&B)
+HyperlinkBuilder.DrillThroughTargetToc=ç›®æ ‡æŠ¥è¡¨ä¸­çš„ç›®å½•é¡¹(&B)
 
-HyperlinkBuilder.DrillThroughSameFrame=ÏàÍ¬¿ò¼Ü(&S)
+HyperlinkBuilder.DrillThroughSameFrame=ç›¸åŒæ¡†æ¶(&S)
 
-HyperlinkBuilder.DrillThroughNewWindow=ĞÂ½¨´°¿Ú(&N)
+HyperlinkBuilder.DrillThroughNewWindow=æ–°å»ºçª—å£(&N)
 
-HyperlinkBuilder.DrillThroughWholePage=ÕûÒ³(&W)
+HyperlinkBuilder.DrillThroughWholePage=æ•´é¡µ(&W)
 
-HyperlinkBuilder.DrillThroughParentFrame=¸¸¿ò¼Ü(&P)
+HyperlinkBuilder.DrillThroughParentFrame=çˆ¶æ¡†æ¶(&P)
 
-HyperlinkBuilder.DrillThrough.ErrorMsg.DuplicateParameterName=ÖØ¸´µÄ²ÎÊıÃû³Æ
+HyperlinkBuilder.DrillThrough.ErrorMsg.DuplicateParameterName=é‡å¤çš„å‚æ•°åç§°
 
-HyperlinkBuilder.Label.Location=Î»ÖÃ(&L):
+HyperlinkBuilder.Label.Location=ä½ç½®(&L):
 
-HyperlinkBuilder.Label.Location.hint=(Ê¾Àı: http://host/path, folder/file)
+HyperlinkBuilder.Label.Location.hint=(ç¤ºä¾‹: http://host/path, folder/file)
 
-HyperlinkBuilder.Label.Parameters=±¨±í²ÎÊı:
+HyperlinkBuilder.Label.Parameters=æŠ¥è¡¨å‚æ•°:
 
-HyperlinkBuilder.Label.Report=±¨±í:
+HyperlinkBuilder.Label.Report=æŠ¥è¡¨:
 
-HyperlinkBuilder.Label.SelectType=Ñ¡Ôñ³¬¼¶Á´½ÓÀàĞÍ:
+HyperlinkBuilder.Label.SelectType=é€‰æ‹©è¶…çº§é“¾æ¥ç±»å‹:
 
 HyperlinkBuilder.DrillThroughHtml=HTML
-HyperlinkBuilder.Label.Target=Ä¿±ê(&T):
+HyperlinkBuilder.Label.Target=ç›®æ ‡(&T):
 
-HyperlinkBuilder.Label.Tooltip=¹¤¾ßÌáÊ¾(&I):
+HyperlinkBuilder.Label.Tooltip=å·¥å…·æç¤º(&I):
 
-HyperlinkBuilder.Radio.Bookmark=ÄÚ²¿ÊéÇ©(&K)
+HyperlinkBuilder.Radio.Bookmark=å†…éƒ¨ä¹¦ç­¾(&K)
 
 HyperlinkBuilder.DrillThroughPdf=PDF
-HyperlinkBuilder.Radio.DrillThrough=×êÈ¡(&D)
+HyperlinkBuilder.Radio.DrillThrough=é’»å–(&D)
 
-HyperlinkBuilder.ReportDesignButton=±¨±íÉè¼Æ(&R):
+HyperlinkBuilder.ReportDesignButton=æŠ¥è¡¨è®¾è®¡(&R):
 
-HyperlinkBuilder.ReportDocumentButton=±¨±íÎÄµµ(&C):
+HyperlinkBuilder.ReportDocumentButton=æŠ¥è¡¨æ–‡æ¡£(&C):
 
-HyperlinkBuilder.Radio.None=ÎŞÁ´½Ó(&O)
+HyperlinkBuilder.Radio.None=æ— é“¾æ¥(&O)
 
 HyperlinkBuilder.Radio.Uri=&URI
-HyperlinkBuilder.BrowseForFile=ä¯ÀÀÎÄ¼ş
+HyperlinkBuilder.BrowseForFile=æµè§ˆæ–‡ä»¶
 
-HyperlinkBuilder.Button.AddParam=Ìí¼Ó(&A)...
+HyperlinkBuilder.Button.AddParam=æ·»åŠ (&A)...
 
-HyperlinkBuilder.Button.EditParam=±à¼­(&)...
+HyperlinkBuilder.Button.EditParam=ç¼–è¾‘(&)...
 
-HyperlinkBuilder.Button.RemoveAllParam=È«²¿É¾³ı(&L)
+HyperlinkBuilder.Button.RemoveAllParam=å…¨éƒ¨åˆ é™¤(&L)
 
-HyperlinkBuilder.Button.RemoveParam=É¾³ı(&M)
+HyperlinkBuilder.Button.RemoveParam=åˆ é™¤(&M)
 
-HyperlinkBuilder.OpenExpression=´ò¿ª±í´ïÊ½Éú³ÉÆ÷
+HyperlinkBuilder.OpenExpression=æ‰“å¼€è¡¨è¾¾å¼ç”Ÿæˆå™¨
 
-HyperlinkBuilder.FileNameError.Title=´íÎó
+HyperlinkBuilder.FileNameError.Title=é”™è¯¯
 
-HyperlinkBuilder.FileNameError.Message=Ñ¡ÔñµÄÎÄ¼şÎŞĞ§¡£
+HyperlinkBuilder.FileNameError.Message=é€‰æ‹©çš„æ–‡ä»¶æ— æ•ˆã€‚
 
-HyperlinkBuilder.TargetReportFormat=¸ñÊ½»¯ÒÔÏÂÎ»ÖÃµÄÄ¿±ê±¨±í(&F):
+HyperlinkBuilder.TargetReportFormat=æ ¼å¼åŒ–ä»¥ä¸‹ä½ç½®çš„ç›®æ ‡æŠ¥è¡¨(&F):
 
-HyperlinkParameterBuilder.Label.DataType=Êı¾İÀàĞÍ:
+HyperlinkParameterBuilder.Label.DataType=æ•°æ®ç±»å‹:
 
-HyperlinkParameterBuilder.Label.Parameter=²ÎÊı(&P):
+HyperlinkParameterBuilder.Label.Parameter=å‚æ•°(&P):
 
-HyperlinkParameterBuilder.Label.Value=Öµ(&V):
+HyperlinkParameterBuilder.Label.Value=å€¼(&V):
 
-HyperlinkParameterBuilder.Lable.Required=±ØĞè:
+HyperlinkParameterBuilder.Lable.Required=å¿…éœ€:
 
-HyperlinkParameterBuilder.Required.Choice.No=·ñ
+HyperlinkParameterBuilder.Required.Choice.No=å¦
 
-HyperlinkParameterBuilder.Required.Choice.Yes=ÊÇ
+HyperlinkParameterBuilder.Required.Choice.Yes=æ˜¯
 
 ###########################################################
 #HyperLinkPage properties
-HyperLinkPage.Label.LnikTo=Á´½ÓÖÁ(&L):
+HyperLinkPage.Label.LnikTo=é“¾æ¥è‡³(&L):
 
-HyperLinkPage.Label.None=ÎŞ
+HyperLinkPage.Label.None=æ— 
 
-HyperLinkPage.Menu.Save=¸ü¸Ä³¬¼¶Á´½Ó
+HyperLinkPage.Menu.Save=æ›´æ”¹è¶…çº§é“¾æ¥
 
-HyperLinkPage.Button.Text=±à¼­(&T)...
+HyperLinkPage.Button.Text=ç¼–è¾‘(&T)...
 
-HyperLinkPage.toolTipText.Button=´ò¿ª³¬¼¶Á´½ÓÑ¡Ïî
+HyperLinkPage.toolTipText.Button=æ‰“å¼€è¶…çº§é“¾æ¥é€‰é¡¹
 
 ###########################################################
 #I18nPage properties
-I18nPage.text.Note=×¢£ºÒªÉèÖÃ±¾µØ»¯£¬ÇëÑ¡Ôñ±¨±í£¬È»ºóÔÚÊôĞÔ±à¼­Æ÷µÄ¡°×ÊÔ´¡±Ñ¡Ïî¿¨ÉÏÉèÖÃ×ÊÔ´ÎÄ¼şÃû³Æ¡£
+I18nPage.text.Note=æ³¨ï¼šè¦è®¾ç½®æœ¬åœ°åŒ–ï¼Œè¯·é€‰æ‹©æŠ¥è¡¨ï¼Œç„¶ååœ¨å±æ€§ç¼–è¾‘å™¨çš„â€œèµ„æºâ€é€‰é¡¹å¡ä¸Šè®¾ç½®èµ„æºæ–‡ä»¶åç§°ã€‚
 
 ###########################################################
 #ImageBuilder properties
-ImageBuilder.Chooser.Title=´ò¿ªÍ¼ÏñÎÄ¼ş
+ImageBuilder.Chooser.Title=æ‰“å¼€å›¾åƒæ–‡ä»¶
 
-ImageBuilder.DialogTitle.Edit=±à¼­Í¼ÏñÏî
+ImageBuilder.DialogTitle.Edit=ç¼–è¾‘å›¾åƒé¡¹
 
-ImageBuilder.DialogTitle.ImportFailed=µ¼ÈëÊ§°Ü
+ImageBuilder.DialogTitle.ImportFailed=å¯¼å…¥å¤±è´¥
 
-ImageBuilder.DialogTitle.LoadingFailed=Í¼Ïñ¼ÓÔØÊ§°Ü
+ImageBuilder.DialogTitle.LoadingFailed=å›¾åƒåŠ è½½å¤±è´¥
 
-ImageBuilder.DialogTitle.New=ĞÂ½¨Í¼ÏñÏî
+ImageBuilder.DialogTitle.New=æ–°å»ºå›¾åƒé¡¹
 
-ImageBuilder.ErrorMessage.FileLoaded=ÎÄ¼şÃûÒÑ´æÔÚ£¬Çë½øĞĞ¸ü¸Ä²¢ÖØĞÂ¼ÓÔØ¡£
+ImageBuilder.ErrorMessage.FileLoaded=æ–‡ä»¶åå·²å­˜åœ¨ï¼Œè¯·è¿›è¡Œæ›´æ”¹å¹¶é‡æ–°åŠ è½½ã€‚
 
-ImageBuilder.ErrorMessage.LoadingFailed=ÎŞ·¨ÕıÈ·¼ÓÔØÍ¼Ïñ¡£
+ImageBuilder.ErrorMessage.LoadingFailed=æ— æ³•æ­£ç¡®åŠ è½½å›¾åƒã€‚
 
-ImageBuilder.BrowserResourceDialog.Title=ä¯ÀÀÍ¼ÏñÎÄ¼ş
+ImageBuilder.BrowserResourceDialog.Title=æµè§ˆå›¾åƒæ–‡ä»¶
 
-ImageBuilder.BrowserResourceDialog.Message=´Ó×ÊÔ´Â·¾¶ÎÄ¼ş¼ĞÖĞÑ¡ÔñÍ¼ÏñÎÄ¼ş
+ImageBuilder.BrowserResourceDialog.Message=ä»èµ„æºè·¯å¾„æ–‡ä»¶å¤¹ä¸­é€‰æ‹©å›¾åƒæ–‡ä»¶
 
-ImageBuilder.ErrorMessage.OutOfMemory=¸ÃÍ¼ÏñÌ«´ó£¬ÎŞ·¨×°ÈëÄÚ´æ¡£
+ImageBuilder.ErrorMessage.OutOfMemory=è¯¥å›¾åƒå¤ªå¤§ï¼Œæ— æ³•è£…å…¥å†…å­˜ã€‚
 
-ImageBuilder.FileDialog.FilterMessage=Ö§³ÖµÄÍ¼ÏñÎÄ¼ş
+ImageBuilder.FileDialog.FilterMessage=æ”¯æŒçš„å›¾åƒæ–‡ä»¶
 
-ImageBuilder.Button.Browser=ä¯ÀÀ...
+ImageBuilder.Button.Browser=æµè§ˆ...
 
-ImageBuilder.Button.Import=Ìí¼ÓÍ¼Ïñ(&A)...
+ImageBuilder.Button.Import=æ·»åŠ å›¾åƒ(&A)...
 
-ImageBuilder.Button.SelectImageData=Ñ¡ÔñÍ¼ÏñÊı¾İ(&L)...
+ImageBuilder.Button.SelectImageData=é€‰æ‹©å›¾åƒæ•°æ®(&L)...
 
-ImageBuilder.Button.Insert=²åÈë(&S)
+ImageBuilder.Button.Insert=æ’å…¥(&S)
 
-ImageBuilder.Label.SelectFrom=Ñ¡ÔñÍ¼Ïñ×Ô:
+ImageBuilder.Label.SelectFrom=é€‰æ‹©å›¾åƒè‡ª:
 
-ImageBuilder.Label.EnterURI=ÊäÈë URI(&N):
+ImageBuilder.Label.EnterURI=è¾“å…¥ URI(&N):
 
-ImageBuilder.Label.EnterResourceFile=ÊäÈë×ÊÔ´ÎÄ¼ş(&N):
+ImageBuilder.Label.EnterResourceFile=è¾“å…¥èµ„æºæ–‡ä»¶(&N):
 
-ImageBuilder.Label.EnterExpr=ÊäÈë¶¯Ì¬Í¼Ïñ±í´ïÊ½(&N):
+ImageBuilder.Label.EnterExpr=è¾“å…¥åŠ¨æ€å›¾åƒè¡¨è¾¾å¼(&N):
 
 ImageBuilder.Type.URI=&URI
-ImageBuilder.Type.ResourceFile=¹²Ïí×ÊÔ´ÖĞµÄÍ¼ÏñÎÄ¼ş(&I)
+ImageBuilder.Type.ResourceFile=å…±äº«èµ„æºä¸­çš„å›¾åƒæ–‡ä»¶(&I)
 
-ImageBuilder.Type.EmbededImage=Ç¶ÈëÍ¼Ïñ(&E)
+ImageBuilder.Type.EmbededImage=åµŒå…¥å›¾åƒ(&E)
 
-ImageBuilder.Type.DynamicImage=¶¯Ì¬Í¼Ïñ(&D)
+ImageBuilder.Type.DynamicImage=åŠ¨æ€å›¾åƒ(&D)
 
-ImageBuilder.Description.URI=Á´½Óµ½ web ÉÏµÄÍ¼Ïñ
+ImageBuilder.Description.URI=é“¾æ¥åˆ° web ä¸Šçš„å›¾åƒ
 
-ImageBuilder.Description.ResourceFile=Á´½Óµ½¹²Ïí×ÊÔ´ÖĞµÄÍ¼Ïñ
+ImageBuilder.Description.ResourceFile=é“¾æ¥åˆ°å…±äº«èµ„æºä¸­çš„å›¾åƒ
 
-ImageBuilder.Description.Embedded=½«Í¼ÏñÇ¶Èëµ½±¨±í(&M)
+ImageBuilder.Description.Embedded=å°†å›¾åƒåµŒå…¥åˆ°æŠ¥è¡¨(&M)
 
-ImageBuilder.Description.Dynamic=´ÓÊı¾İ¼¯(Êı¾İ¿â)ÖĞ¼ìË÷Í¼Ïñ
+ImageBuilder.Description.Dynamic=ä»æ•°æ®é›†(æ•°æ®åº“)ä¸­æ£€ç´¢å›¾åƒ
 
-ImageBuilder.Button.Browser.Tooltip=ä¯ÀÀÍ¼ÏñÎÄ¼ş
+ImageBuilder.Button.Browser.Tooltip=æµè§ˆå›¾åƒæ–‡ä»¶
 
-ImageBuilder.Reload.Tooltip=ÖØĞÂ¼ÓÔØÍ¼Ïñ
+ImageBuilder.Reload.Tooltip=é‡æ–°åŠ è½½å›¾åƒ
 
 ###########################################################
 #ImageEditPart properties
-ImageEditPart.trans.editImage=¸ü¸ÄÍ¼Ïñ
+ImageEditPart.trans.editImage=æ›´æ”¹å›¾åƒ
 
 ###########################################################
 #ImagePageGenerator properties
-ImagePageGenerator.List.AltText=Ìæ´úÎÄ±¾
+ImagePageGenerator.List.AltText=æ›¿ä»£æ–‡æœ¬
 
-ImagePageGenerator.List.Bookmark=ÊéÇ©
+ImagePageGenerator.List.Bookmark=ä¹¦ç­¾
 
-ImagePageGenerator.List.Borders=±ß¿ò
+ImagePageGenerator.List.Borders=è¾¹æ¡†
 
-ImagePageGenerator.List.General=³£¹æ
+ImagePageGenerator.List.General=å¸¸è§„
 
-ImagePageGenerator.List.HyperLink=³¬¼¶Á´½Ó
+ImagePageGenerator.List.HyperLink=è¶…çº§é“¾æ¥
 
-ImagePageGenerator.List.Reference=ÒıÓÃ
+ImagePageGenerator.List.Reference=å¼•ç”¨
 
-ImagePageGenerator.List.Section=·ÖÒ³·û
+ImagePageGenerator.List.Section=åˆ†é¡µç¬¦
 
-ImagePageGenerator.List.TOC=Ä¿Â¼
+ImagePageGenerator.List.TOC=ç›®å½•
 
-ImagePageGenerator.List.Visibility=¿É¼ûĞÔ
+ImagePageGenerator.List.Visibility=å¯è§æ€§
 
 ###########################################################
 #ImportCSSStyleAction properties
-ImportCSSStyleAction.text=µ¼Èë CSS ÑùÊ½(&I)...
+ImportCSSStyleAction.text=å¯¼å…¥ CSS æ ·å¼(&I)...
 
 ###########################################################
 #ImportLibraryAction properties
-ImportLibraryAction.Error.CannotBeEmpty=Ãû³Æ¿Õ¼ä²»ÄÜÎª¿Õ¡£
+ImportLibraryAction.Error.CannotBeEmpty=åç§°ç©ºé—´ä¸èƒ½ä¸ºç©ºã€‚
 
-ImportLibraryAction.Error.HasBeenUsed=´ËÃû³Æ¿Õ¼äÒÑ¾­ÔÚÊ¹ÓÃ¡£
+ImportLibraryAction.Error.HasBeenUsed=æ­¤åç§°ç©ºé—´å·²ç»åœ¨ä½¿ç”¨ã€‚
 
-ImportLibraryAction.Error.HasDot=Ãû³Æ¿Õ¼ä²»Ó¦°üº¬'.'
+ImportLibraryAction.Error.HasDot=åç§°ç©ºé—´ä¸åº”åŒ…å«'.'
 
-ImportLibraryAction.Message.ImportSuccessfully=¿â {0} ÒÑµ¼Èë¡£
+ImportLibraryAction.Message.ImportSuccessfully=åº“ {0} å·²å¯¼å…¥ã€‚
 
-ImportLibraryAction.Message=ÊÇ·ñÒªÔÚ±¨±íÉè¼ÆÖĞÊ¹ÓÃ´Ë¿â?
+ImportLibraryAction.Message=æ˜¯å¦è¦åœ¨æŠ¥è¡¨è®¾è®¡ä¸­ä½¿ç”¨æ­¤åº“?
 
-ImportLibraryAction.Namespace=Ãû³Æ¿Õ¼ä:
+ImportLibraryAction.Namespace=åç§°ç©ºé—´:
 
-ImportLibraryAction.Prefix=Ç°×º:
+ImportLibraryAction.Prefix=å‰ç¼€:
 
-ImportLibraryAction.Title.ImportSuccessfully=µ¼Èë³É¹¦
+ImportLibraryAction.Title.ImportSuccessfully=å¯¼å…¥æˆåŠŸ
 
-ImportLibraryAction.Dialog.Titile=Ê¹ÓÃ¿â
+ImportLibraryAction.Dialog.Titile=ä½¿ç”¨åº“
 
-ImportLibraryAction.Dialog.Message=Ñ¡ÔñÒª°üÀ¨ÔÚ±¨±íÖĞµÄ¿â¡£
+ImportLibraryAction.Dialog.Message=é€‰æ‹©è¦åŒ…æ‹¬åœ¨æŠ¥è¡¨ä¸­çš„åº“ã€‚
 
 ###########################################################
 #ImportLibraryDialog properties
-ImportLibraryDialog.Title=Ê¹ÓÃ¿â
+ImportLibraryDialog.Title=ä½¿ç”¨åº“
 
 ###########################################################
 #ImportValueDialog properties
-ImportValueDialog.Label.SelectColumn=Ñ¡ÔñÁĞ(&C):
+ImportValueDialog.Label.SelectColumn=é€‰æ‹©åˆ—(&C):
 
-ImportValueDialog.Label.SelectDataSet=Ñ¡ÔñÊı¾İ¼¯(&D):
+ImportValueDialog.Label.SelectDataSet=é€‰æ‹©æ•°æ®é›†(&D):
 
-ImportValueDialog.Label.SelectValue=Ñ¡Ôñ»òÊäÈëÒªÌí¼ÓµÄÖµ(&S)
+ImportValueDialog.Label.SelectValue=é€‰æ‹©æˆ–è¾“å…¥è¦æ·»åŠ çš„å€¼(&S)
 
-ImportValueDialog.Title=µ¼ÈëÖµ
+ImportValueDialog.Title=å¯¼å…¥å€¼
 
-ImportValueDialog.Button.Add.ToolTip=Ìí¼Ó
+ImportValueDialog.Button.Add.ToolTip=æ·»åŠ 
 
-ImportValueDialog.Button.AddAll.ToolTip=È«²¿Ìí¼Ó
+ImportValueDialog.Button.AddAll.ToolTip=å…¨éƒ¨æ·»åŠ 
 
-ImportValueDialog.Button.Remove.ToolTip=É¾³ı
+ImportValueDialog.Button.Remove.ToolTip=åˆ é™¤
 
-ImportValueDialog.Button.RemoveAll.ToolTip=È«²¿É¾³ı
+ImportValueDialog.Button.RemoveAll.ToolTip=å…¨éƒ¨åˆ é™¤
 ###########################################################
 #IncludeDetailAction properties
-IncludeDetailAction.actionMsg.includeDetail=ÏêÏ¸ĞÅÏ¢(&D)
+IncludeDetailAction.actionMsg.includeDetail=è¯¦ç»†ä¿¡æ¯(&D)
 
 ###########################################################
 #IncludeFooterAction properties
-IncludeFooterAction.actionMsg.includeFooter=Ò³½Å(&F)
+IncludeFooterAction.actionMsg.includeFooter=é¡µè„š(&F)
 
 ###########################################################
 #IncludeHeaderAction properties
-IncludeHeaderAction.actionMsg.includeHeader=Ò³Ã¼(&H)
+IncludeHeaderAction.actionMsg.includeHeader=é¡µçœ‰(&H)
 
 ###########################################################
 #IncludeListDetailAction properties
-IncludeListDetailAction.actionMsg.includeDetail=°üº¬ÏêÏ¸×ÊÁÏ
+IncludeListDetailAction.actionMsg.includeDetail=åŒ…å«è¯¦ç»†èµ„æ–™
 
 ###########################################################
 #IncludeListFooterAction properties
-IncludeListFooterAction.actionMsg.includeFooter=°üº¬Ò³½Å
+IncludeListFooterAction.actionMsg.includeFooter=åŒ…å«é¡µè„š
 
 ###########################################################
 #IncludeListHeaderAction properties
-IncludeListHeaderAction.actionMsg.includeHeader=°üº¬Ò³Ã¼
+IncludeListHeaderAction.actionMsg.includeHeader=åŒ…å«é¡µçœ‰
 
 ###########################################################
 #IncludeTableGroupFooterAction properties
-IncludeTableGroupFooterAction.actionMsg.includeFooter=×éÒ³½Å
+IncludeTableGroupFooterAction.actionMsg.includeFooter=ç»„é¡µè„š
 
 ###########################################################
 #IncludeTableGroupHeaderAction properties
-IncludeTableGroupHeaderAction.actionMsg.includeHeader=×éÒ³Ã¼
+IncludeTableGroupHeaderAction.actionMsg.includeHeader=ç»„é¡µçœ‰
 
 ###########################################################
 #InputParameterDailog properties
-InputParameterDailog.dialog.title.required=ËùĞèµÄ²ÎÊı - ±ØĞë¾ßÓĞÖµ
+InputParameterDailog.dialog.title.required=æ‰€éœ€çš„å‚æ•° - å¿…é¡»å…·æœ‰å€¼
 
-InputParameterDailog.dialog.title=ÊäÈë²ÎÊı
+InputParameterDailog.dialog.title=è¾“å…¥å‚æ•°
 
-InputParameterDailog.parameter.noparameter=Ã»ÓĞÓë´Ë±¨±íÏà¹ØÁªµÄ²ÎÊı¡£
+InputParameterDailog.parameter.noparameter=æ²¡æœ‰ä¸æ­¤æŠ¥è¡¨ç›¸å…³è”çš„å‚æ•°ã€‚
 
-InputParameterDialog.ErrorMessage.InvalidFile=±¨±í°üº¬´íÎó¡£
+InputParameterDialog.ErrorMessage.InvalidFile=æŠ¥è¡¨åŒ…å«é”™è¯¯ã€‚
 
-InputParameterDailog.parameter.null=¿ÕÖµ
+InputParameterDailog.parameter.null=ç©ºå€¼
 
-InputParameterDialog.ErrorTitle.Error=´íÎó
+InputParameterDialog.ErrorTitle.Error=é”™è¯¯
 
-InputParameterDialog.boolean.checked=ÊÇ
+InputParameterDialog.boolean.checked=æ˜¯
 
 ###########################################################
 #InsertAction properties
-InsertAction.text=²åÈëÔªËØ(&N)
+InsertAction.text=æ’å…¥å…ƒç´ (&N)
 
 ###########################################################
 #InsertColumnAction properties
-InsertColumnAction.actionMsg.insert=²åÈë
+InsertColumnAction.actionMsg.insert=æ’å…¥
 
 ###########################################################
 #InsertColumnLeftAction properties
-InsertColumnLeftAction.actionMsg.columnToLeft=ÔÚ×ó²à²åÈëÁĞ(&L)
+InsertColumnLeftAction.actionMsg.columnToLeft=åœ¨å·¦ä¾§æ’å…¥åˆ—(&L)
 
 ###########################################################
 #InsertColumnRightAction properties
-InsertColumnRightAction.actionMsg.columnToRight=ÔÚÓÒ²à²åÈëÁĞ(&R)
+InsertColumnRightAction.actionMsg.columnToRight=åœ¨å³ä¾§æ’å…¥åˆ—(&R)
 
 ###########################################################
 #InsertExpressionMenuAction properties
-InsertExpressionMenuAction.text.Expression=±í´ïÊ½...
+InsertExpressionMenuAction.text.Expression=è¡¨è¾¾å¼...
 
 ###########################################################
 #InsertGroupAction properties
-InsertGroupAction.actionMsg.group=²åÈë×é(&G)
+InsertGroupAction.actionMsg.group=æ’å…¥ç»„(&G)
 
-InsertGroupAction.stackMsg.addGroup=Ìí¼Ó×é
+InsertGroupAction.stackMsg.addGroup=æ·»åŠ ç»„
 
 ###########################################################
 #InsertGroupActionFactory properties
-InsertGroupActionFactory.label.insertGroup=²åÈë×é(&G)
+InsertGroupActionFactory.label.insertGroup=æ’å…¥ç»„(&G)
 
 ###########################################################
 #InsertInLayoutAction properties
-InsertInLayoutAction.action.text=ÔÚ²¼¾ÖÖĞ²åÈë(&N)
+InsertInLayoutAction.action.text=åœ¨å¸ƒå±€ä¸­æ’å…¥(&N)
 
 ###########################################################
 #InsertListGroupAction properties
-InsertListGroupAction.actionMsg.insertGroup=²åÈë×é
+InsertListGroupAction.actionMsg.insertGroup=æ’å…¥ç»„
 
-InsertListGroupAction.stackMsg.insertListGroup=²åÈëÁĞ±í×é
+InsertListGroupAction.stackMsg.insertListGroup=æ’å…¥åˆ—è¡¨ç»„
 
 ###########################################################
 #InsertPasteColumnAction properties
-InsertPasteColumnAction.text=²åÈë¸´ÖÆµÄÁĞ(&S)
+InsertPasteColumnAction.text=æ’å…¥å¤åˆ¶çš„åˆ—(&S)
 
 ###########################################################
 #InsertPositionGroupAction properties
-InsertPositionGroupAction.Label.Above=ÔÚÉÏÃæ(&A)
+InsertPositionGroupAction.Label.Above=åœ¨ä¸Šé¢(&A)
 
-InsertPositionGroupAction.Label.Below=ÔÚÏÂÃæ(&B)
+InsertPositionGroupAction.Label.Below=åœ¨ä¸‹é¢(&B)
 
-InsertPositionGroupAction.Label.Into=µ½
+InsertPositionGroupAction.Label.Into=åˆ°
 
 ###########################################################
 #InsertRowAboveAction properties
-InsertRowAboveAction.actionMsg.rowAbove=ÔÚÉÏÃæ(&A)
+InsertRowAboveAction.actionMsg.rowAbove=åœ¨ä¸Šé¢(&A)
 
 ###########################################################
 #InsertRowAction properties
-InsertRowAction.actionMsg.insert=²åÈë(&I)
+InsertRowAction.actionMsg.insert=æ’å…¥(&I)
 
 ###########################################################
 #InsertRowBelowAction properties
-InsertRowBelowAction.actionMsg.rowBelow=ÔÚÏÂÃæ(&B)
+InsertRowBelowAction.actionMsg.rowBelow=åœ¨ä¸‹é¢(&B)
 
 ###########################################################
 #IReportGraphicConstants properties
-IReportGraphicConstants.ImageType.All=ËùÓĞÍ¼ÏñÎÄ¼ş (*.bmp,*.JPG,*.JPEG,*.GIF,*.TIF,*.PNG,*.ICO)
+IReportGraphicConstants.ImageType.All=æ‰€æœ‰å›¾åƒæ–‡ä»¶ (*.bmp,*.JPG,*.JPEG,*.GIF,*.TIF,*.PNG,*.ICO)
 
-IReportGraphicConstants.ImageType.Bmp=Î»Í¼ÎÄ¼ş (*.bmp)
+IReportGraphicConstants.ImageType.Bmp=ä½å›¾æ–‡ä»¶ (*.bmp)
 
-IReportGraphicConstants.ImageType.Gif=GIF ÎÄ¼ş (*.GIF)
+IReportGraphicConstants.ImageType.Gif=GIF æ–‡ä»¶ (*.GIF)
 
-IReportGraphicConstants.ImageType.Icon=Í¼±êÎÄ¼ş (*.ICO)
+IReportGraphicConstants.ImageType.Icon=å›¾æ ‡æ–‡ä»¶ (*.ICO)
 
-IReportGraphicConstants.ImageType.Jpg=JPEG ÎÄ¼ş (*.JPG,*.JPEG)
+IReportGraphicConstants.ImageType.Jpg=JPEG æ–‡ä»¶ (*.JPG,*.JPEG)
 
-IReportGraphicConstants.ImageType.Png=PNG ÎÄ¼ş (*.PNG)
+IReportGraphicConstants.ImageType.Png=PNG æ–‡ä»¶ (*.PNG)
 
-IReportGraphicConstants.ImageType.Tif=TIF ÎÄ¼ş (*.TIF)
+IReportGraphicConstants.ImageType.Tif=TIF æ–‡ä»¶ (*.TIF)
 
 ###########################################################
 #JSDocumentProvider properties
-JSDocumentProvider.Content.Default=ĞÂÄÚÈİ
+JSDocumentProvider.Content.Default=æ–°å†…å®¹
 
-JSDocumentProvider.document.newName=ĞÂÄÚÈİ
+JSDocumentProvider.document.newName=æ–°å†…å®¹
 
 ###########################################################
 #JSEditor properties
-JSEditor.cmb.NewEventFunction=ĞÂ½¨ÊÂ¼şº¯Êı...
+JSEditor.cmb.NewEventFunction=æ–°å»ºäº‹ä»¶å‡½æ•°...
 
-JSEditor.Label.Script=½Å±¾:
+JSEditor.Label.Script=è„šæœ¬:
 
-JSEditor.Button.Validate=ÑéÖ¤½Å±¾
+JSEditor.Button.Validate=éªŒè¯è„šæœ¬
 
-JSEditor.Button.Reset=ÖØÖÃ½Å±¾
+JSEditor.Button.Reset=é‡ç½®è„šæœ¬
 
-JSEditor.Button.Help=ÏÔÊ¾ÃèÊö
+JSEditor.Button.Help=æ˜¾ç¤ºæè¿°
 
-JSEditor.Display.DefaultText=//JS ½Å±¾±à¼­Æ÷ \n
+JSEditor.Display.DefaultText=//JS è„šæœ¬ç¼–è¾‘å™¨ \n
 
-JSEditor.Display.NoExpression=´ËÔªËØÎŞ·½·¨¡£
+JSEditor.Display.NoExpression=æ­¤å…ƒç´ æ— æ–¹æ³•ã€‚
 
-JSEditor.Input.trial=ÊÔÓÃ°æ
+JSEditor.Input.trial=è¯•ç”¨ç‰ˆ
 
-JSEditor.Text.NoText=ÎŞÎÄ±¾
+JSEditor.Text.NoText=æ— æ–‡æœ¬
 
-JSEditor.Text.NoDescription=´Ë·½·¨Ã»ÓĞÃèÊö¡£
+JSEditor.Text.NoDescription=æ­¤æ–¹æ³•æ²¡æœ‰æè¿°ã€‚
 
-JSEditor.Validate.Title=ÑéÖ¤
+JSEditor.Validate.Title=éªŒè¯
 
-JSEditor.Validate.NoError=µ±Ç°½Å±¾ÖĞÕÒ²»µ½Óï·¨´íÎó¡£
+JSEditor.Validate.NoError=å½“å‰è„šæœ¬ä¸­æ‰¾ä¸åˆ°è¯­æ³•é”™è¯¯ã€‚
 
-JSEditor.Folding.Group=ÕÛµş
+JSEditor.Folding.Group=æŠ˜å 
 
-JSEditor.Folding.ExpandAll.label=È«²¿Õ¹¿ª
+JSEditor.Folding.ExpandAll.label=å…¨éƒ¨å±•å¼€
 
-JSEditor.Folding.CollapseAll.label=È«²¿ÕÛµş
+JSEditor.Folding.CollapseAll.label=å…¨éƒ¨æŠ˜å 
 
-JSEditor.Folding.CollapseMethods.label=ÕÛµş·½·¨
+JSEditor.Folding.CollapseMethods.label=æŠ˜å æ–¹æ³•
 
-JSEditor.Folding.CollapseComments.label=ÕÛµş±¸×¢
+JSEditor.Folding.CollapseComments.label=æŠ˜å å¤‡æ³¨
 
 ###########################################################
 #label properties
-label.defaultValue=£¨Ä¬ÈÏÖµ£©
+label.defaultValue=ï¼ˆé»˜è®¤å€¼ï¼‰
 
-label.input=ÊäÈë
+label.input=è¾“å…¥
 
-label.inputOutput=ÊäÈë/Êä³ö
+label.inputOutput=è¾“å…¥/è¾“å‡º
 
-label.no=·ñ
+label.no=å¦
 
-label.output=Êä³ö
+label.output=è¾“å‡º
 
-label.redo=ÖØ¸´
+label.redo=é‡å¤
 
-label.undo=³·Ïû
+label.undo=æ’¤æ¶ˆ
 
-label.yes=ÊÇ
+label.yes=æ˜¯
 
 ###########################################################
 #LabelEditPart properties
-LabelEditPart.Figure.Default=±êÇ©
+LabelEditPart.Figure.Default=æ ‡ç­¾
 
 ###########################################################
 #LabelPageGenerator properties
-LabelPageGenerator.List.Bookmark=ÊéÇ©
+LabelPageGenerator.List.Bookmark=ä¹¦ç­¾
 
-LabelPageGenerator.List.Borders=±ß¿ò
+LabelPageGenerator.List.Borders=è¾¹æ¡†
 
-LabelPageGenerator.List.General=³£¹æ
+LabelPageGenerator.List.General=å¸¸è§„
 
-LabelPageGenerator.List.HyperLink=³¬¼¶Á´½Ó
+LabelPageGenerator.List.HyperLink=è¶…çº§é“¾æ¥
 
-LabelPageGenerator.List.I18n=±¾µØ»¯
+LabelPageGenerator.List.I18n=æœ¬åœ°åŒ–
 
-LabelPageGenerator.List.Margin=±ß¾à
+LabelPageGenerator.List.Margin=è¾¹è·
 
-LabelPageGenerator.List.Padding=Ìî³ä
+LabelPageGenerator.List.Padding=å¡«å……
 
-LabelPageGenerator.List.Section=·ÖÒ³·û
+LabelPageGenerator.List.Section=åˆ†é¡µç¬¦
 
-LabelPageGenerator.List.TOC=Ä¿Â¼
+LabelPageGenerator.List.TOC=ç›®å½•
 
-LabelPageGenerator.List.Visibility=¿É¼ûĞÔ
+LabelPageGenerator.List.Visibility=å¯è§æ€§
 
 ###########################################################
 #LayoutConfigurationBlock properties
-LayoutConfigurationBlock.Default.Unit.Auto=×Ô¶¯
+LayoutConfigurationBlock.Default.Unit.Auto=è‡ªåŠ¨
 
-LayoutConfigurationBlock.Default.Unit.Label=Ä¬ÈÏµ¥Î»(&F):
-LayoutConfigurationBlock.Default.Layout.Label=Ä¬ÈÏ²¼¾Ö:
-LayoutConfigurationBlock.Default.Orientation.Label=Ä¬ÈÏ·½Ïò:
+LayoutConfigurationBlock.Default.Unit.Label=é»˜è®¤å•ä½(&F):
+LayoutConfigurationBlock.Default.Layout.Label=é»˜è®¤å¸ƒå±€:
+LayoutConfigurationBlock.Default.Orientation.Label=é»˜è®¤æ–¹å‘:
 
 ###########################################################
 #LayoutEditor properties
-LayoutEditor.ErrorMessage.OpenError=´ò¿ª±à¼­Æ÷Ê±³ö´í¡£
+LayoutEditor.ErrorMessage.OpenError=æ‰“å¼€ç¼–è¾‘å™¨æ—¶å‡ºé”™ã€‚
 
-LayoutEditor.Page.Layout=Õı³£
+LayoutEditor.Page.Layout=æ­£å¸¸
 
-LayoutEditor.Page.MasterPage=Ö÷Ò³
+LayoutEditor.Page.MasterPage=ä¸»é¡µ
 
-LayoutEditor.Page.Source=XML Ô´
+LayoutEditor.Page.Source=XML æº
 
 ###########################################################
 #LayoutPageAction properties
-LayoutPageAction.actionText.layout=²¼¾Ö
+LayoutPageAction.actionText.layout=å¸ƒå±€
 
 ###########################################################
 #LibrariesNodeProvider properties
-LibrariesNodeProvider.DisplayLabel.Libraries=¿â
+LibrariesNodeProvider.DisplayLabel.Libraries=åº“
 
 ###########################################################
 #LibraryExplorerView properties
-LibraryExplorerView.defaultText.notAvailable=×ÊÔ´²»¿ÉÓÃ¡£
+LibraryExplorerView.defaultText.notAvailable=èµ„æºä¸å¯ç”¨ã€‚
 
 ###########################################################
 #LibraryExplorerProvider properties
-LibraryExplorerProvider.FolderNotExist=Ê×Ñ¡ÏîÖĞ¶¨ÒåµÄ BIRT ×ÊÔ´ÎÄ¼ş¼Ğ²»´æÔÚ¡£
+LibraryExplorerProvider.FolderNotExist=é¦–é€‰é¡¹ä¸­å®šä¹‰çš„ BIRT èµ„æºæ–‡ä»¶å¤¹ä¸å­˜åœ¨ã€‚
 
 ###########################################################
 #LibraryPage properties
-LibraryPage.Label.Namespace=Ãû³Æ¿Õ¼ä(&N):
+LibraryPage.Label.Namespace=åç§°ç©ºé—´(&N):
 
-LibraryPage.Label.Path=Â·¾¶(&P):
+LibraryPage.Label.Path=è·¯å¾„(&P):
 
 ###########################################################
 #LibraryProvider properties
-LibraryProvider.openDefinedLibrary.error.dialog.message=´ò¿ª¶¨Òå¿â´íÎó
+LibraryProvider.openDefinedLibrary.error.dialog.message=æ‰“å¼€å®šä¹‰åº“é”™è¯¯
 
-LibraryProvider.openDefinedLibrary.error.dialog.title=´íÎó
+LibraryProvider.openDefinedLibrary.error.dialog.title=é”™è¯¯
 
 ###########################################################
 #ListBandControlFigure properties
-ListBandControlFigure.tooltip.GroupFooter=ÁĞ±í×é - Ò³½Å
+ListBandControlFigure.tooltip.GroupFooter=åˆ—è¡¨ç»„ - é¡µè„š
 
-ListBandControlFigure.tooltip.GroupHeader=ÁĞ±í×é - Ò³Ã¼
+ListBandControlFigure.tooltip.GroupHeader=åˆ—è¡¨ç»„ - é¡µçœ‰
 
-ListBandControlFigure.tooltip.ListDetail=ÁĞ±í - ÏêÏ¸×ÊÁÏ
+ListBandControlFigure.tooltip.ListDetail=åˆ—è¡¨ - è¯¦ç»†èµ„æ–™
 
-ListBandControlFigure.tooltip.ListFooter=ÁĞ±í - Ò³½Å
+ListBandControlFigure.tooltip.ListFooter=åˆ—è¡¨ - é¡µè„š
 
-ListBandControlFigure.tooltip.ListHeader=ÁĞ±í - Ò³Ã¼
+ListBandControlFigure.tooltip.ListHeader=åˆ—è¡¨ - é¡µçœ‰
 
 ###########################################################
 #ListBandProvider properties
-ListBandProvider.action.text=²åÈë×é(&N)
+ListBandProvider.action.text=æ’å…¥ç»„(&N)
 
 ###########################################################
 #ListBandProxy properties
-ListBandProxy.list.detail=ÏêÏ¸×ÊÁÏ
+ListBandProxy.list.detail=è¯¦ç»†èµ„æ–™
 
-ListBandProxy.list.footer=Ò³½Å
+ListBandProxy.list.footer=é¡µè„š
 
 ListBandProxy.list.groupFooter=GF
 
 ListBandProxy.list.groupHeader=GH
 
-ListBandProxy.list.header=Ò³Ã¼
+ListBandProxy.list.header=é¡µçœ‰
 
 ###########################################################
 #ListContainProcess properties
-ListContainProcess.action.New=ĞÂ½¨...
+ListContainProcess.action.New=æ–°å»º...
 
-ListContainProcess.action.NewRow=ĞÂ½¨ĞĞ
+ListContainProcess.action.NewRow=æ–°å»ºè¡Œ
 
-ListContainProcess.action.NewSubSection=ĞÂ½¨×ÓÇøÓò
+ListContainProcess.action.NewSubSection=æ–°å»ºå­åŒºåŸŸ
 
 ###########################################################
 #ListEditPart properties
-ListEditPart.GUIDEHANDLE_TEXT = ÁĞ±í
+ListEditPart.GUIDEHANDLE_TEXT = åˆ—è¡¨
 
 ###########################################################
 #ListFigure properties
-ListFigure.BORDER_TEXT=ÁĞ±í
+ListFigure.BORDER_TEXT=åˆ—è¡¨
 
 ###########################################################
 #ListHandleAdapt properties
-ListHandleAdapt.transLabel.insertGroup=²åÈë×é
+ListHandleAdapt.transLabel.insertGroup=æ’å…¥ç»„
 
 ###########################################################
 #ListPageGenerator properties
-ListPageGenerator.List.Bookmark=ÊéÇ©
+ListPageGenerator.List.Bookmark=ä¹¦ç­¾
 
-ListPageGenerator.List.Borders=±ß¿ò
+ListPageGenerator.List.Borders=è¾¹æ¡†
 
-ListPageGenerator.List.Font=×ÖÌå
+ListPageGenerator.List.Font=å­—ä½“
 
-ListPageGenerator.List.General=³£¹æ
+ListPageGenerator.List.General=å¸¸è§„
 
-ListPageGenerator.List.Section=·ÖÒ³·û
+ListPageGenerator.List.Section=åˆ†é¡µç¬¦
 
-ListPageGenerator.List.TOC=Ä¿Â¼
+ListPageGenerator.List.TOC=ç›®å½•
 
-ListPageGenerator.List.Visibility=¿É¼ûĞÔ
+ListPageGenerator.List.Visibility=å¯è§æ€§
 
 
 ###########################################################
 #MapPage properties
-MapPage.label.add=Ìí¼Ó(&A)...
+MapPage.label.add=æ·»åŠ (&A)...
 
-MapPage.label.condition=Ìõ¼ş
+MapPage.label.condition=æ¡ä»¶
 
-MapPage.label.delete=É¾³ı(&R)
+MapPage.label.delete=åˆ é™¤(&R)
 
-MapPage.label.displayValue=ÏÔÊ¾Öµ:
+MapPage.label.displayValue=æ˜¾ç¤ºå€¼:
 
-MapPage.label.mapList=Ó³ÉäÁĞ±í:
+MapPage.label.mapList=æ˜ å°„åˆ—è¡¨:
 
-MapPage.transName.addMapRule=Ìí¼ÓÓ³Éä¹æÔò
+MapPage.transName.addMapRule=æ·»åŠ æ˜ å°„è§„åˆ™
 
-MapPage.transName.deleteMapRule=É¾³ıÓ³Éä¹æÔò
+MapPage.transName.deleteMapRule=åˆ é™¤æ˜ å°„è§„åˆ™
 
-MapPage.transName.editMapRule=±à¼­Ó³Éä¹æÔò
+MapPage.transName.editMapRule=ç¼–è¾‘æ˜ å°„è§„åˆ™
 
-MapPage.transName.moveDownRule=ÏÂÒÆÓ³Éä¹æÔò
+MapPage.transName.moveDownRule=ä¸‹ç§»æ˜ å°„è§„åˆ™
 
-MapPage.transName.moveUpMapRule=ÉÏÒÆÓ³Éä¹æÔò
+MapPage.transName.moveUpMapRule=ä¸Šç§»æ˜ å°„è§„åˆ™
 
-MapPage.toolTipText.moveUp=Ó³Éä¹æÔòÉÏÒÆ
+MapPage.toolTipText.moveUp=æ˜ å°„è§„åˆ™ä¸Šç§»
 
-MapPage.toolTipText.moveDown=Ó³Éä¹æÔòÏÂÒÆ
+MapPage.toolTipText.moveDown=æ˜ å°„è§„åˆ™ä¸‹ç§»
 
-MapPage.label.duplicate=¸´ÖÆ(&C)
+MapPage.label.duplicate=å¤åˆ¶(&C)
 
-MapPage.toolTipText.duplicate=ÖØ¸´Ó³Éä¹æÔò
+MapPage.toolTipText.duplicate=é‡å¤æ˜ å°„è§„åˆ™
 
-MapPage.transName.Duplicate=ÖØ¸´Ó³Éä¹æÔò
+MapPage.transName.Duplicate=é‡å¤æ˜ å°„è§„åˆ™
 
 ###########################################################
 #MapPreferencePage properties
-MapPreferencePage.displayname.Condition=Ìõ¼ş
+MapPreferencePage.displayname.Condition=æ¡ä»¶
 
-MapPreferencePage.displayname.DisplayValue=ÏÔÊ¾Öµ
+MapPreferencePage.displayname.DisplayValue=æ˜¾ç¤ºå€¼
 
-MapPreferencePage.displayname.Title=Ó³Éä
+MapPreferencePage.displayname.Title=æ˜ å°„
 
-MapPreferencePage.text.Add=Ìí¼Ó(&A)...
+MapPreferencePage.text.Add=æ·»åŠ (&A)...
 
-MapPreferencePage.text.Delete=É¾³ı(&R)
+MapPreferencePage.text.Delete=åˆ é™¤(&R)
 
-MapPreferencePage.text.Description=Ó³Éä¹æÔò:
+MapPreferencePage.text.Description=æ˜ å°„è§„åˆ™:
 
-MapPreferencePage.text.Edit=±à¼­(&E)...
+MapPreferencePage.text.Edit=ç¼–è¾‘(&E)...
 
-MapPreferencePage.toolTipText.Up=Ó³Éä¹æÔòÉÏÒÆ
+MapPreferencePage.toolTipText.Up=æ˜ å°„è§„åˆ™ä¸Šç§»
 
-MapPreferencePage.toolTipText.Down=Ó³Éä¹æÔòÏÂÒÆ
+MapPreferencePage.toolTipText.Down=æ˜ å°„è§„åˆ™ä¸‹ç§»
 
-MapPreferencePage.text.Duplicate=ÖØ¸´(&D)
+MapPreferencePage.text.Duplicate=é‡å¤(&D)
 
-MapPreferencePage.toolTipText.Duplicate=ÖØ¸´Ó³Éä¹æÔò
+MapPreferencePage.toolTipText.Duplicate=é‡å¤æ˜ å°„è§„åˆ™
 
 ###########################################################
 #MapRuleBuilderDialog properties
-MapRuleBuilder.button.add=Ìí¼Ó(&A)
+MapRuleBuilder.button.add=æ·»åŠ (&A)
 
-MapRuleBuilder.button.add.tooltip=½«ÖµÌí¼Óµ½ÖµÁĞ±í
+MapRuleBuilder.button.add.tooltip=å°†å€¼æ·»åŠ åˆ°å€¼åˆ—è¡¨
 
-MapRuleBuilder.button.delete=É¾³ı(&R)
+MapRuleBuilder.button.delete=åˆ é™¤(&R)
 
-MapRuleBuilder.button.delete.tooltip=´ÓÁĞ±íÖĞÉ¾³ıÑ¡¶¨Öµ
+MapRuleBuilder.button.delete.tooltip=ä»åˆ—è¡¨ä¸­åˆ é™¤é€‰å®šå€¼
 
-MapRuleBuilder.button.deleteall=È«²¿É¾³ı(&O)
+MapRuleBuilder.button.deleteall=å…¨éƒ¨åˆ é™¤(&O)
 
-MapRuleBuilder.button.deleteall.tooltip=´ÓÁĞ±íÖĞÉ¾³ıËùÓĞÖµ
+MapRuleBuilder.button.deleteall.tooltip=ä»åˆ—è¡¨ä¸­åˆ é™¤æ‰€æœ‰å€¼
 
-MapRuleBuilder.button.edit=±à¼­(&E)...
+MapRuleBuilder.button.edit=ç¼–è¾‘(&E)...
 
-MapRuleBuilder.button.edit.tooltip=±à¼­ÖµÁĞ±íÖĞµÄÑ¡¶¨Öµ
+MapRuleBuilder.button.edit.tooltip=ç¼–è¾‘å€¼åˆ—è¡¨ä¸­çš„é€‰å®šå€¼
 
-MapRuleBuilder.DialogTitle.New=ĞÂ½¨Ó³Éä¹æÔò
+MapRuleBuilder.DialogTitle.New=æ–°å»ºæ˜ å°„è§„åˆ™
 
-MapRuleBuilder.DialogTitle.Edit=±à¼­Ó³Éä¹æÔò
+MapRuleBuilder.DialogTitle.Edit=ç¼–è¾‘æ˜ å°„è§„åˆ™
 
-MapRuleBuilder.Button.ResourceKey=×ÊÔ´¹Ø¼ü×Ö(&K):
+MapRuleBuilder.Button.ResourceKey=èµ„æºå…³é”®å­—(&K):
 
-MapRuleBuilder.Button.Reset=ÖØÖÃ(&R)
+MapRuleBuilder.Button.Reset=é‡ç½®(&R)
 
-MapRuleBuilder.Button.Browse=ä¯ÀÀ(&B)...
+MapRuleBuilder.Button.Browse=æµè§ˆ(&B)...
 
-MapRuleBuilder.Button.Browse.Tooltip=ä¯ÀÀºÍÑ¡Ôñ°´¼ü
+MapRuleBuilder.Button.Browse.Tooltip=æµè§ˆå’Œé€‰æ‹©æŒ‰é”®
 
-MapRuleBuilder.label.value=Öµ(&V):
+MapRuleBuilder.label.value=å€¼(&V):
 
-MapRuleBuilder.list.item1=Öµ
+MapRuleBuilder.list.item1=å€¼
 
-MapRuleBuilder.MsgDlg.Msg=¾¯¸æ
+MapRuleBuilder.MsgDlg.Msg=è­¦å‘Š
 
-MapRuleBuilder.MsgDlg.Title=Öµ²»ÄÜÎª¿Õ¡£
+MapRuleBuilder.MsgDlg.Title=å€¼ä¸èƒ½ä¸ºç©ºã€‚
 
 MapRuleBuilder.text.AND=AND
 
-MapRuleBuilderDialog.text.Between=½éÓÚ
+MapRuleBuilderDialog.text.Between=ä»‹äº
 
-MapRuleBuilderDialog.text.Condition=Èç¹ûÒÔÏÂÌõ¼şÎªÕæ(&I):
+MapRuleBuilderDialog.text.Condition=å¦‚æœä»¥ä¸‹æ¡ä»¶ä¸ºçœŸ(&I):
 
-MapRuleBuilderDialog.text.Display=ÔòÏÔÊ¾ÒÔÏÂÖµ(&T):
+MapRuleBuilderDialog.text.Display=åˆ™æ˜¾ç¤ºä»¥ä¸‹å€¼(&T):
 
-MapRuleBuilderDialog.text.ET=µÈÓÚ
+MapRuleBuilderDialog.text.ET=ç­‰äº
 
-MapRuleBuilderDialog.text.GE=´óÓÚ»òµÈÓÚ
+MapRuleBuilderDialog.text.GE=å¤§äºæˆ–ç­‰äº
 
-MapRuleBuilderDialog.text.GT=´óÓÚ
+MapRuleBuilderDialog.text.GT=å¤§äº
 
-MapRuleBuilderDialog.text.LE=Ğ¡ÓÚ»òµÈÓÚ
+MapRuleBuilderDialog.text.LE=å°äºæˆ–ç­‰äº
 
-MapRuleBuilderDialog.text.Like=ÀàËÆ
+MapRuleBuilderDialog.text.Like=ç±»ä¼¼
 
-MapRuleBuilderDialog.text.LT=Ğ¡ÓÚ
+MapRuleBuilderDialog.text.LT=å°äº
 
-MapRuleBuilderDialog.text.NE=²»µÈÓÚ
+MapRuleBuilderDialog.text.NE=ä¸ç­‰äº
 
-MapRuleBuilderDialog.text.NotBetween=²»½éÓÚ
+MapRuleBuilderDialog.text.NotBetween=ä¸ä»‹äº
 
-MapRuleBuilderDialog.text.NotNull=²»Îª NULL
+MapRuleBuilderDialog.text.NotNull=ä¸ä¸º NULL
 
-MapRuleBuilderDialog.text.Null=Îª NULL
+MapRuleBuilderDialog.text.Null=ä¸º NULL
 
-MapRuleBuilderDialog.text.Title=Ó³Éä
+MapRuleBuilderDialog.text.Title=æ˜ å°„
 
-MapRuleBuilderDialog.MsgDlg.Title=¾¯¸æ
+MapRuleBuilderDialog.MsgDlg.Title=è­¦å‘Š
 
-MapRuleBuilderDialog.MsgDlg.Msg=Öµ²»ÄÜÎª¿Õ¡£
+MapRuleBuilderDialog.MsgDlg.Msg=å€¼ä¸èƒ½ä¸ºç©ºã€‚
 
 ###########################################################
 #SortkeyBuilder dialog properties
-SortkeyBuilder.DialogTitle.New=ĞÂ½¨ÅÅĞò¹Ø¼ü×Ö
+SortkeyBuilder.DialogTitle.New=æ–°å»ºæ’åºå…³é”®å­—
 
-SortkeyBuilder.DialogTitle.Edit=±à¼­ÅÅĞò¹Ø¼ü×Ö
+SortkeyBuilder.DialogTitle.Edit=ç¼–è¾‘æ’åºå…³é”®å­—
 
-SortkeyBuilder.DialogMessage.New=ÇëÌî³äÏÂÁĞÄÚÈİÒÔ´´½¨ÅÅĞò¹Ø¼ü×Ö¡£
+SortkeyBuilder.DialogMessage.New=è¯·å¡«å……ä¸‹åˆ—å†…å®¹ä»¥åˆ›å»ºæ’åºå…³é”®å­—ã€‚
 
-SortkeyBuilder.DialogMessage.Edit=Çë±à¼­ÏÂÁĞÄÚÈİÒÔ¸üĞÂÅÅĞò¹Ø¼ü×Ö¡£
+SortkeyBuilder.DialogMessage.Edit=è¯·ç¼–è¾‘ä¸‹åˆ—å†…å®¹ä»¥æ›´æ–°æ’åºå…³é”®å­—ã€‚
 
-SortkeyBuilder.DialogTitle.Label.Prompt=ÊäÈëÓÃ×÷ÅÅĞòÒÀ¾İµÄ¹Ø¼ü×Ö:
+SortkeyBuilder.DialogTitle.Label.Prompt=è¾“å…¥ç”¨ä½œæ’åºä¾æ®çš„å…³é”®å­—:
 
-SortkeyBuilder.DialogTitle.Label.Key=¹Ø¼ü×Ö(&K):
+SortkeyBuilder.DialogTitle.Label.Key=å…³é”®å­—(&K):
 
-SortkeyBuilder.DialogTitle.Label.Direction=·½Ïò(&D):
+SortkeyBuilder.DialogTitle.Label.Direction=æ–¹å‘(&D):
 
-SortkeyBuilder.Label.Locale=ÇøÓòÉèÖÃ(&L):
+SortkeyBuilder.Label.Locale=åŒºåŸŸè®¾ç½®(&L):
 
-SortkeyBuilder.Label.Strength=Ç¿¶È(&S):
+SortkeyBuilder.Label.Strength=å¼ºåº¦(&S):
 
-SortkeyBuilder.DialogTitle.Button.ExpressionBuilder=´ò¿ª±í´ïÊ½Éú³ÉÆ÷
+SortkeyBuilder.DialogTitle.Button.ExpressionBuilder=æ‰“å¼€è¡¨è¾¾å¼ç”Ÿæˆå™¨
 
-SortkeyBuilder.DialogTitle.Error.SetSortKey.Title=´íÎó
+SortkeyBuilder.DialogTitle.Error.SetSortKey.Title=é”™è¯¯
 
-SortkeyBuilder.Locale.Auto=×Ô¶¯
+SortkeyBuilder.Locale.Auto=è‡ªåŠ¨
 
 SortkeyBuilder.Strength.ASCII=ASCII
-SortkeyBuilder.Strength.PRIMARY=µÚÒ»
+SortkeyBuilder.Strength.PRIMARY=ç¬¬ä¸€
 
-SortkeyBuilder.Strength.SECONDARY=µÚ¶ş
+SortkeyBuilder.Strength.SECONDARY=ç¬¬äºŒ
 
-SortkeyBuilder.Strength.TERTIARY=µÚÈı
+SortkeyBuilder.Strength.TERTIARY=ç¬¬ä¸‰
 
-SortkeyBuilder.Strength.QUATERNARY=µÚËÄ
+SortkeyBuilder.Strength.QUATERNARY=ç¬¬å››
 
-SortkeyBuilder.Strength.IDENTICAL=ÏàÍ¬
+SortkeyBuilder.Strength.IDENTICAL=ç›¸åŒ
 
 ###########################################################
 #FilterConditionBuilder dialog properties
-FilterConditionBuilder.DialogTitle.New=ĞÂ½¨É¸Ñ¡Ìõ¼ş
+FilterConditionBuilder.DialogTitle.New=æ–°å»ºç­›é€‰æ¡ä»¶
 
-FilterConditionBuilder.DialogTitle.Edit=±à¼­É¸Ñ¡Ìõ¼ş
+FilterConditionBuilder.DialogTitle.Edit=ç¼–è¾‘ç­›é€‰æ¡ä»¶
 
-FilterConditionBuilder.DialogMessage.New=ÇëÌî³äÏÂÁĞÄÚÈİÒÔ´´½¨É¸Ñ¡Ìõ¼ş¡£
+FilterConditionBuilder.DialogMessage.New=è¯·å¡«å……ä¸‹åˆ—å†…å®¹ä»¥åˆ›å»ºç­›é€‰æ¡ä»¶ã€‚
 
-FilterConditionBuilder.DialogMessage.Edit=Çë±à¼­ÏÂÁĞÄÚÈİÒÔ¸üĞÂÉ¸Ñ¡Ìõ¼ş¡£
+FilterConditionBuilder.DialogMessage.Edit=è¯·ç¼–è¾‘ä¸‹åˆ—å†…å®¹ä»¥æ›´æ–°ç­›é€‰æ¡ä»¶ã€‚
 
-FilterConditionBuilder.choice.ValueOfThisDataItem=´ËÊı¾İÏîµÄÖµ
+FilterConditionBuilder.choice.ValueOfThisDataItem=æ­¤æ•°æ®é¡¹çš„å€¼
 
-FilterConditionBuilder.tooltip.ExpBuilder=´ò¿ª±í´ïÊ½Éú³ÉÆ÷
+FilterConditionBuilder.tooltip.ExpBuilder=æ‰“å¼€è¡¨è¾¾å¼ç”Ÿæˆå™¨
 
-FilterConditionBuilder.text.AND=Óë
+FilterConditionBuilder.text.AND=ä¸
 
-FilterConditionBuilder.text.Condition=ÊäÈëÉ¸Ñ¡Ìõ¼ş:
+FilterConditionBuilder.text.Condition=è¾“å…¥ç­›é€‰æ¡ä»¶:
 
-FilterConditionBuilder.Shell.Title=É¸Ñ¡Ìõ¼ş
+FilterConditionBuilder.Shell.Title=ç­›é€‰æ¡ä»¶
 
-FilterConditionBuilder.list.item1=Öµ
+FilterConditionBuilder.list.item1=å€¼
 
-FilterConditionBuilder.button.edit=±à¼­(&E)...
+FilterConditionBuilder.button.edit=ç¼–è¾‘(&E)...
 
-FilterConditionBuilder.button.delete=É¾³ı(&M)
+FilterConditionBuilder.button.delete=åˆ é™¤(&M)
 
-FilterConditionBuilder.button.deleteall=È«²¿É¾³ı(&O)
+FilterConditionBuilder.button.deleteall=å…¨éƒ¨åˆ é™¤(&O)
 
-FilterConditionBuilder.button.add=Ìí¼Ó(&A)
+FilterConditionBuilder.button.add=æ·»åŠ (&A)
 
-FilterConditionBuilder.button.edit.tooltip=±à¼­ÖµÁĞ±íÖĞµÄÑ¡¶¨Öµ
+FilterConditionBuilder.button.edit.tooltip=ç¼–è¾‘å€¼åˆ—è¡¨ä¸­çš„é€‰å®šå€¼
 
-FilterConditionBuilder.button.delete.tooltip=´ÓÁĞ±íÖĞÉ¾³ıÑ¡¶¨Öµ
+FilterConditionBuilder.button.delete.tooltip=ä»åˆ—è¡¨ä¸­åˆ é™¤é€‰å®šå€¼
 
-FilterConditionBuilder.button.deleteall.tooltip=´ÓÁĞ±íÖĞÉ¾³ıËùÓĞÖµ
+FilterConditionBuilder.button.deleteall.tooltip=ä»åˆ—è¡¨ä¸­åˆ é™¤æ‰€æœ‰å€¼
 
-FilterConditionBuilder.button.add.tooltip=½«ÖµÌí¼Óµ½ÖµÁĞ±í
+FilterConditionBuilder.button.add.tooltip=å°†å€¼æ·»åŠ åˆ°å€¼åˆ—è¡¨
 
-FilterConditionBuilder.label.value=Öµ(&V):
+FilterConditionBuilder.label.value=å€¼(&V):
 
-FilterConditionBuilder.multipleValue.label=Öµ(&V)
+FilterConditionBuilder.multipleValue.label=å€¼(&V)
 
-FilterConditionBuilder.multipleValue.button.add=Ìí¼Ó(&A)
+FilterConditionBuilder.multipleValue.button.add=æ·»åŠ (&A)
 
-FilterConditionBuilder.multipleValue.button.remove=É¾³ı(&R)
+FilterConditionBuilder.multipleValue.button.remove=åˆ é™¤(&R)
 
-FilterConditionBuilder.multipleValue.button.removeAll=È«²¿É¾³ı(&M)
+FilterConditionBuilder.multipleValue.button.removeAll=å…¨éƒ¨åˆ é™¤(&M)
 
-FilterConditionBuilder.multipleValue.button.edit=±à¼­(&D)...
+FilterConditionBuilder.multipleValue.button.edit=ç¼–è¾‘(&D)...
 
-FilterConditionBuilder.Button.UpdateAggregation=ÖØĞÂ¼ÆËã×Ü¼Æ(&T)
+FilterConditionBuilder.Button.UpdateAggregation=é‡æ–°è®¡ç®—æ€»è®¡(&T)
 
 ###########################################################
 #MarignPropertyDescriptor properties
-MarignPropertyDescriptor.error.message=ÊäÈëµÄÖµÌ«´ó¡£
+MarignPropertyDescriptor.error.message=è¾“å…¥çš„å€¼å¤ªå¤§ã€‚
 
-MarignPropertyDescriptor.error.title=ÖµÌ«´ó
+MarignPropertyDescriptor.error.title=å€¼å¤ªå¤§
 
 ###########################################################
 #MasterPageAction properties
-MasterColumnsPropertyDescriptor.Button.Text.Custom=×Ô¶¨Òå(&C)
+MasterColumnsPropertyDescriptor.Button.Text.Custom=è‡ªå®šä¹‰(&C)
 
-MasterColumnsPropertyDescriptor.Button.Text.OneColumn=Ò»(&O)
+MasterColumnsPropertyDescriptor.Button.Text.OneColumn=ä¸€(&O)
 
-MasterColumnsPropertyDescriptor.Button.Text.ThreeColumns=Èı(&R)
+MasterColumnsPropertyDescriptor.Button.Text.ThreeColumns=ä¸‰(&R)
 
-MasterColumnsPropertyDescriptor.Button.Text.TwoColumns=¶ş(&T)
+MasterColumnsPropertyDescriptor.Button.Text.TwoColumns=äºŒ(&T)
 
-MasterColumnsPropertyDescriptor.Combo.Text.Column.Number=ÁĞÊı(&N):
+MasterColumnsPropertyDescriptor.Combo.Text.Column.Number=åˆ—æ•°(&N):
 
-MasterPageAction.actionText.masterPage=Ö÷Ò³
+MasterPageAction.actionText.masterPage=ä¸»é¡µ
 
 ###########################################################
 #MasterPageGenerator properties
-MasterPageGenerator.List.Columns=ÁĞ
+MasterPageGenerator.List.Columns=åˆ—
 
-MasterPageGenerator.List.General=³£¹æ
+MasterPageGenerator.List.General=å¸¸è§„
 
-MasterPageGenerator.List.Borders=±ß¿ò
+MasterPageGenerator.List.Borders=è¾¹æ¡†
 
-MasterPageGenerator.List.Header&Footer=Ò³Ã¼/Ò³½Å
+MasterPageGenerator.List.Header&Footer=é¡µçœ‰/é¡µè„š
 
-MasterPageGenerator.List.Margins=±ß¾à
+MasterPageGenerator.List.Margins=è¾¹è·
 
 ###########################################################
 #MasterPageGeneralPage properties
-MasterPageGeneralPage.Trans.SetType=¼¯ÀàĞÍ
+MasterPageGeneralPage.Trans.SetType=é›†ç±»å‹
 
 ###########################################################
 #MasterPagePaletteFactory properties
-MasterPagePaletteFactory.Autotext.TotalPageCount=×ÜÒ³Êı
+MasterPagePaletteFactory.Autotext.TotalPageCount=æ€»é¡µæ•°
 
-MasterPagePaletteFactory.Autotext.Author_Page_Date=×÷Õß\#£¬Ò³\#£¬ÈÕÆÚ\#
+MasterPagePaletteFactory.Autotext.Author_Page_Date=ä½œè€…\#ï¼Œé¡µ\#ï¼Œæ—¥æœŸ\#
 
-MasterPagePaletteFactory.Autotext.Confidential_Page=»úÃÜ£¬Ò³\#
+MasterPagePaletteFactory.Autotext.Confidential_Page=æœºå¯†ï¼Œé¡µ\#
 
-MasterPagePaletteFactory.Autotext.CreatedBy=´´½¨Õß
+MasterPagePaletteFactory.Autotext.CreatedBy=åˆ›å»ºè€…
 
-MasterPagePaletteFactory.Autotext.CreatedOn=´´½¨Ê±¼ä
+MasterPagePaletteFactory.Autotext.CreatedOn=åˆ›å»ºæ—¶é—´
 
-MasterPagePaletteFactory.Autotext.Date=ÈÕÆÚ
+MasterPagePaletteFactory.Autotext.Date=æ—¥æœŸ
 
-MasterPagePaletteFactory.Autotext.Filename=ÎÄ¼şÃû
+MasterPagePaletteFactory.Autotext.Filename=æ–‡ä»¶å
 
 MasterPagePaletteFactory.Autotext.Label=AutoText
-MasterPagePaletteFactory.Autotext.LastPrinted=ÉÏ´Î´òÓ¡
+MasterPagePaletteFactory.Autotext.LastPrinted=ä¸Šæ¬¡æ‰“å°
 
-MasterPagePaletteFactory.Autotext.Page=Ò³Ãæ
+MasterPagePaletteFactory.Autotext.Page=é¡µé¢
 
-MasterPagePaletteFactory.Autotext.PageXofY=µÚ n Ò³£¬¹² m Ò³
+MasterPagePaletteFactory.Autotext.PageXofY=ç¬¬ n é¡µï¼Œå…± m é¡µ
 
-MasterPagePaletteFactory.AutotextTooltip.TotalPageCount=×ÜÒ³Êı±¨±íÏî
+MasterPagePaletteFactory.AutotextTooltip.TotalPageCount=æ€»é¡µæ•°æŠ¥è¡¨é¡¹
 
-MasterPagePaletteFactory.AutotextTooltip.AuthorPageDate=×÷Õß#£¬ÈÕÆÚ# ±¨±íÏî
+MasterPagePaletteFactory.AutotextTooltip.AuthorPageDate=ä½œè€…#ï¼Œæ—¥æœŸ# æŠ¥è¡¨é¡¹
 
-MasterPagePaletteFactory.AutotextTooltip.ConfidentialPage=»úÃÜ±¨±íÏî
+MasterPagePaletteFactory.AutotextTooltip.ConfidentialPage=æœºå¯†æŠ¥è¡¨é¡¹
 
-MasterPagePaletteFactory.AutotextTooltip.CreatedBy=°´±¨±íÏî´´½¨
+MasterPagePaletteFactory.AutotextTooltip.CreatedBy=æŒ‰æŠ¥è¡¨é¡¹åˆ›å»º
 
-MasterPagePaletteFactory.AutotextTooltip.CreatedOn=ÔÚ´´½¨±¨±íÏîÊ±´´½¨
+MasterPagePaletteFactory.AutotextTooltip.CreatedOn=åœ¨åˆ›å»ºæŠ¥è¡¨é¡¹æ—¶åˆ›å»º
 
-MasterPagePaletteFactory.AutotextTooltip.Date=ÈÕÆÚ±¨±íÏî
+MasterPagePaletteFactory.AutotextTooltip.Date=æ—¥æœŸæŠ¥è¡¨é¡¹
 
-MasterPagePaletteFactory.AutoTextTooltip.Filename=ÎÄ¼şÃû±¨±íÏî
+MasterPagePaletteFactory.AutoTextTooltip.Filename=æ–‡ä»¶åæŠ¥è¡¨é¡¹
 
-MasterPagePaletteFactory.AutotextTooltip.LastPrinted=ÉÏ´Î´òÓ¡µÄ±¨±íÏî
+MasterPagePaletteFactory.AutotextTooltip.LastPrinted=ä¸Šæ¬¡æ‰“å°çš„æŠ¥è¡¨é¡¹
 
-MasterPagePaletteFactory.AutotextTooltip.Page=Ò³±¨±íÏî
+MasterPagePaletteFactory.AutotextTooltip.Page=é¡µæŠ¥è¡¨é¡¹
 
-MasterPagePaletteFactory.AutotextTooltip.PageXofY=¡°µÚ n Ò³£¬¹² m Ò³¡±±¨±íÏî
+MasterPagePaletteFactory.AutotextTooltip.PageXofY=â€œç¬¬ n é¡µï¼Œå…± m é¡µâ€æŠ¥è¡¨é¡¹
 
-MasterPagePaletteFactory.elementLabel.authorPageDate=×÷Õß±àºÅ£¬Ò³Âë£¬ÈÕÆÚ
+MasterPagePaletteFactory.elementLabel.authorPageDate=ä½œè€…ç¼–å·ï¼Œé¡µç ï¼Œæ—¥æœŸ
 
-MasterPagePaletteFactory.elementLabel.confidentialPage=»úÃÜ£¬Ò³
+MasterPagePaletteFactory.elementLabel.confidentialPage=æœºå¯†ï¼Œé¡µ
 
-MasterPagePaletteFactory.elementLabel.createdBy=´´½¨Õß
+MasterPagePaletteFactory.elementLabel.createdBy=åˆ›å»ºè€…
 
-MasterPagePaletteFactory.elementLabel.createdOn=´´½¨Ê±¼ä
+MasterPagePaletteFactory.elementLabel.createdOn=åˆ›å»ºæ—¶é—´
 
-MasterPagePaletteFactory.elementLabel.date=ÈÕÆÚ
+MasterPagePaletteFactory.elementLabel.date=æ—¥æœŸ
 
-MasterPagePaletteFactory.elementLabel.fileName=ÎÄ¼şÃû
+MasterPagePaletteFactory.elementLabel.fileName=æ–‡ä»¶å
 
-MasterPagePaletteFactory.elementLabel.lastPrinted=ÉÏ´Î´òÓ¡
+MasterPagePaletteFactory.elementLabel.lastPrinted=ä¸Šæ¬¡æ‰“å°
 
-MasterPagePaletteFactory.elementLabel.page=Ò³Ãæ
+MasterPagePaletteFactory.elementLabel.page=é¡µé¢
 
-MasterPagePaletteFactory.elementLabel.pageOf=µÚ n Ò³£¬¹² m Ò³
+MasterPagePaletteFactory.elementLabel.pageOf=ç¬¬ n é¡µï¼Œå…± m é¡µ
 
 MasterPagePaletteFactory.paletteDrawerName.autoText=AutoText
-MasterPagePaletteFactory.ToolTip.Grid=Íø¸ñ±¨±íÏî
+MasterPagePaletteFactory.ToolTip.Grid=ç½‘æ ¼æŠ¥è¡¨é¡¹
 
-MasterPagePaletteFactory.ToolTip.Text=ÎÄ±¾±¨±íÏî
+MasterPagePaletteFactory.ToolTip.Text=æ–‡æœ¬æŠ¥è¡¨é¡¹
 
-MasterPagePaletteFactory.Autotext.Variable=±äÁ¿
+MasterPagePaletteFactory.Autotext.Variable=å˜é‡
 
-MasterPagePaletteFactory.AutotextTooltip.Variable=±äÁ¿Ïî
+MasterPagePaletteFactory.AutotextTooltip.Variable=å˜é‡é¡¹
 
 ###########################################################
 #MasterPageProcess properties
-MasterPageProcess.action.Edit=±à¼­
+MasterPageProcess.action.Edit=ç¼–è¾‘
 
-MasterPageProcess.action.New=ĞÂ½¨
+MasterPageProcess.action.New=æ–°å»º
 
-MasterPageProcess.text.CannotDelete=Éè¼Æ½ö°üº¬Ò»¸öÖ÷Ò³£¬ÎŞ·¨É¾³ı
+MasterPageProcess.text.CannotDelete=è®¾è®¡ä»…åŒ…å«ä¸€ä¸ªä¸»é¡µï¼Œæ— æ³•åˆ é™¤
 
-MasterPageProcess.text.Display=ÏÔÊ¾Ò³ÃæÉèÖÃ¶Ô»°¿ò
+MasterPageProcess.text.Display=æ˜¾ç¤ºé¡µé¢è®¾ç½®å¯¹è¯æ¡†
 
 MasterPageProcess.text.DisplayName=MasterPage
 
 ###########################################################
 #MergeAction properties
-MergeAction.actionMsg.merge=ºÏ²¢µ¥Ôª¸ñ(&M)
+MergeAction.actionMsg.merge=åˆå¹¶å•å…ƒæ ¼(&M)
 
 ###########################################################
 #ModulePage properties
-ModulePage.ErrorMessage.Duplicate=¸ÃÃû³ÆÓëÏÖÓĞÃû³ÆÖØ¸´¡£
+ModulePage.ErrorMessage.Duplicate=è¯¥åç§°ä¸ç°æœ‰åç§°é‡å¤ã€‚
 
-ModulePage.ErrorMessage.WrongExtensionName=Ãû³Æ±ØĞëÒÔ ".properties" ½áÎ²¡£
+ModulePage.ErrorMessage.WrongExtensionName=åç§°å¿…é¡»ä»¥ ".properties" ç»“å°¾ã€‚
 
-ModulePage.ErrorMessage.InfoExtensionName=ÇëÊäÈëÒÔ ".properties" ½áÎ²µÄÃû³Æ¡£
+ModulePage.ErrorMessage.InfoExtensionName=è¯·è¾“å…¥ä»¥ ".properties" ç»“å°¾çš„åç§°ã€‚
 
-ModulePage.text.Add=Ìí¼Ó(&A)...
+ModulePage.text.Add=æ·»åŠ (&A)...
 
-ModulePage.text.ExistingFile=ÏÖÓĞÔ´ÎÄ¼ş:
+ModulePage.text.ExistingFile=ç°æœ‰æºæ–‡ä»¶:
 
-ModulePage.title.AddNewFile=Ìí¼ÓĞÂÔ´ÎÄ¼ş
+ModulePage.title.AddNewFile=æ·»åŠ æ–°æºæ–‡ä»¶
 
-ModulePage.Resourcefile.Dialog.Title=ä¯ÀÀ×ÊÔ´ÎÄ¼ş
+ModulePage.Resourcefile.Dialog.Title=æµè§ˆèµ„æºæ–‡ä»¶
 
-ModulePage.Resourcefile.Dialog.Message=Ñ¡Ôñ×ÊÔ´ÎÄ¼ş£¬»òÕßÑ¡ÔñÎÄ¼ş¼Ğ²¢ÊäÈëĞÂµÄÎÄ¼şÃû´´½¨×ÊÔ´ÎÄ¼ş¡£
+ModulePage.Resourcefile.Dialog.Message=é€‰æ‹©èµ„æºæ–‡ä»¶ï¼Œæˆ–è€…é€‰æ‹©æ–‡ä»¶å¤¹å¹¶è¾“å…¥æ–°çš„æ–‡ä»¶ååˆ›å»ºèµ„æºæ–‡ä»¶ã€‚
 
-ModulePage.text.Path=Â·¾¶(&P):
+ModulePage.text.Path=è·¯å¾„(&P):
 
 ###########################################################
 #MultiPageEditorContributor properties
-MultiPageEditorContributor.actionText.sampleAction=Ê¾Àı²Ù×÷
+MultiPageEditorContributor.actionText.sampleAction=ç¤ºä¾‹æ“ä½œ
 
-MultiPageEditorContributor.actionToolTip.sampleActionToolTip=Ê¾Àı²Ù×÷¹¤¾ßÌáÊ¾
+MultiPageEditorContributor.actionToolTip.sampleActionToolTip=ç¤ºä¾‹æ“ä½œå·¥å…·æç¤º
 
-MultiPageEditorContributor.actionToolTipText.sampleActionToolTip=Ê¾Àı²Ù×÷¹¤¾ßÌáÊ¾
+MultiPageEditorContributor.actionToolTipText.sampleActionToolTip=ç¤ºä¾‹æ“ä½œå·¥å…·æç¤º
 
-MultiPageEditorContributor.dialogMsg.sampleActionExecuted=Ö´ĞĞµÄÊ¾Àı²Ù×÷
+MultiPageEditorContributor.dialogMsg.sampleActionExecuted=æ‰§è¡Œçš„ç¤ºä¾‹æ“ä½œ
 
-MultiPageEditorContributor.menuText.editorMenu=±à¼­Æ÷²Ëµ¥(&M)
+MultiPageEditorContributor.menuText.editorMenu=ç¼–è¾‘å™¨èœå•(&M)
 
 ###########################################################
 #NewLibraryWizard properties
-NewLibraryWizard.choicePageTitle.report=¿â
+NewLibraryWizard.choicePageTitle.report=åº“
 
 NewLibraryWizard.displayName.NewReportFileExtension=.rptlibrary
-NewLibraryWizard.displayName.NewReportFileNamePrefix=ĞÂ¿â
+NewLibraryWizard.displayName.NewReportFileNamePrefix=æ–°åº“
 
-NewLibraryWizard.error.NoProject=¹¤×÷ÇøÖĞÃ»ÓĞÈÎºÎ´ò¿ªÏîÄ¿¡£ÇëÑ¡Ôñ¡°ÎÄ¼ş¡±->¡°ĞÂ½¨¡±->¡°ÏîÄ¿¡±£¬´´½¨ĞÂÏîÄ¿»ò´ò¿ªÏÖÓĞÏîÄ¿¡£
+NewLibraryWizard.error.NoProject=å·¥ä½œåŒºä¸­æ²¡æœ‰ä»»ä½•æ‰“å¼€é¡¹ç›®ã€‚è¯·é€‰æ‹©â€œæ–‡ä»¶â€->â€œæ–°å»ºâ€->â€œé¡¹ç›®â€ï¼Œåˆ›å»ºæ–°é¡¹ç›®æˆ–æ‰“å¼€ç°æœ‰é¡¹ç›®ã€‚
 
-NewLibraryWizard.pageDescription.createNewReport=ĞÂ½¨¿â¡£
+NewLibraryWizard.pageDescription.createNewReport=æ–°å»ºåº“ã€‚
 
-NewLibraryWizard.taskName.openFileForEdit=´ò¿ªÎÄ¼ş½øĞĞ±à¼­...
+NewLibraryWizard.taskName.openFileForEdit=æ‰“å¼€æ–‡ä»¶è¿›è¡Œç¼–è¾‘...
 
-NewLibraryWizard.text.ConfirmSwitchPerspective=È·ÈÏÇĞ»»Í¸ÊÓÍ¼
+NewLibraryWizard.text.ConfirmSwitchPerspective=ç¡®è®¤åˆ‡æ¢é€è§†å›¾
 
-NewLibraryWizard.text.Container=ÈİÆ÷ "
+NewLibraryWizard.text.Container=å®¹å™¨ "
 
-NewLibraryWizard.text.CreateReport=ĞÂ½¨¿â¡£
+NewLibraryWizard.text.CreateReport=æ–°å»ºåº“ã€‚
 
-NewLibraryWizard.text.Creating=´´½¨
+NewLibraryWizard.text.Creating=åˆ›å»º
 
-NewLibraryWizard.text.DoesNotExist=" ²»´æÔÚ¡£
+NewLibraryWizard.text.DoesNotExist=" ä¸å­˜åœ¨ã€‚
 
-NewLibraryWizard.text.OpenFileForEditing=´ò¿ªÎÄ¼ş½øĞĞ±à¼­...
+NewLibraryWizard.text.OpenFileForEditing=æ‰“å¼€æ–‡ä»¶è¿›è¡Œç¼–è¾‘...
 
-NewLibraryWizard.text.SwitchPerspective=´ËÎÄ¼şÀàĞÍÓë {0} Í¸ÊÓÍ¼Ïà¹ØÁª¡£ÊÇ·ñÁ¢¼´ÇĞ»»ÖÁ´ËÍ¸ÊÓÍ¼£¿
+NewLibraryWizard.text.SwitchPerspective=æ­¤æ–‡ä»¶ç±»å‹ä¸ {0} é€è§†å›¾ç›¸å…³è”ã€‚æ˜¯å¦ç«‹å³åˆ‡æ¢è‡³æ­¤é€è§†å›¾ï¼Ÿ
 
-NewLibraryWizard.title.Choose=Ñ¡Ôñ´´½¨¿âµÄ·½Ê½
+NewLibraryWizard.title.Choose=é€‰æ‹©åˆ›å»ºåº“çš„æ–¹å¼
 
-NewLibraryWizard.title.Error=´íÎó
+NewLibraryWizard.title.Error=é”™è¯¯
 
-NewLibraryWizard.title.New=ĞÂ½¨¿â
+NewLibraryWizard.title.New=æ–°å»ºåº“
 
-NewLibraryWizard.title.Report=¿â
+NewLibraryWizard.title.Report=åº“
 
-NewLibraryWizard.title.ReportWizard=¿âÏòµ¼
+NewLibraryWizard.title.ReportWizard=åº“å‘å¯¼
 
 NewLibraryWizard.title.Template=TemplateChoicePage
 NewLibraryWizard.title.WizardPage=WizardPage
-NewLibraryWizard.widowTitle.new=ĞÂ½¨
+NewLibraryWizard.widowTitle.new=æ–°å»º
 
-NewLibraryWizard.wizardPageTitle.report=¿â
+NewLibraryWizard.wizardPageTitle.report=åº“
 
 ###########################################################
 #NewReportProjectWizard properties
 
 NewReportProjectWizard.bin=bin
-NewReportProjectWizard.caseVariantExistsError=ÎÄ¼şÏµÍ³²»Çø·Ö´óĞ¡Ğ´¡£´æÔÚÒ»¸öÓë ''{0}'' ³åÍ»µÄÏÖÓĞÏîÄ¿¡£
+NewReportProjectWizard.caseVariantExistsError=æ–‡ä»¶ç³»ç»Ÿä¸åŒºåˆ†å¤§å°å†™ã€‚å­˜åœ¨ä¸€ä¸ªä¸ ''{0}'' å†²çªçš„ç°æœ‰é¡¹ç›®ã€‚
 
-NewReportProjectWizard.description=´´½¨ĞÂ±¨±íÏîÄ¿¡£
+NewReportProjectWizard.description=åˆ›å»ºæ–°æŠ¥è¡¨é¡¹ç›®ã€‚
 
-NewReportProjectWizard.errorMessage=´´½¨ĞÂ±¨±íÏîÄ¿Ê±³öÏÖÎÊÌâ¡£
+NewReportProjectWizard.errorMessage=åˆ›å»ºæ–°æŠ¥è¡¨é¡¹ç›®æ—¶å‡ºç°é—®é¢˜ã€‚
 
-NewReportProjectWizard.errorOpeningWindow=´ò¿ªÄ³¸ö´°¿ÚÊ±³öÏÖÎÊÌâ¡£
+NewReportProjectWizard.errorOpeningWindow=æ‰“å¼€æŸä¸ªçª—å£æ—¶å‡ºç°é—®é¢˜ã€‚
 
-NewReportProjectWizard.internalError=ÄÚ²¿´íÎó:{0}
+NewReportProjectWizard.internalError=å†…éƒ¨é”™è¯¯:{0}
 
-NewReportProjectWizard.javaProject=´´½¨ Java ÏîÄ¿
+NewReportProjectWizard.javaProject=åˆ›å»º Java é¡¹ç›®
 
-NewReportProjectWizard.perspSwitchMessage=´ËÏîÄ¿ÀàĞÍÓë {0} Í¸ÊÓÍ¼Ïà¹ØÁª¡£ÊÇ·ñÁ¢¼´ÇĞ»»ÖÁ´ËÍ¸ÊÓÍ¼£¿
+NewReportProjectWizard.perspSwitchMessage=æ­¤é¡¹ç›®ç±»å‹ä¸ {0} é€è§†å›¾ç›¸å…³è”ã€‚æ˜¯å¦ç«‹å³åˆ‡æ¢è‡³æ­¤é€è§†å›¾ï¼Ÿ
 
-NewReportProjectWizard.perspSwitchTitle=È·¶¨ÇĞ»»Í¸ÊÓÍ¼
+NewReportProjectWizard.perspSwitchTitle=ç¡®å®šåˆ‡æ¢é€è§†å›¾
 
-NewReportProjectWizard.projectSetting=ÏîÄ¿ÉèÖÃ
+NewReportProjectWizard.projectSetting=é¡¹ç›®è®¾ç½®
 
 NewReportProjectWizard.src=src
-NewReportProjectWizard.title=±¨±íÏîÄ¿
+NewReportProjectWizard.title=æŠ¥è¡¨é¡¹ç›®
 
-NewReportProjectWizard.windowTitle=ĞÂ½¨±¨±íÏîÄ¿
+NewReportProjectWizard.windowTitle=æ–°å»ºæŠ¥è¡¨é¡¹ç›®
 
 ###########################################################
 #NewReportWizard properties
-NewReportWizard.choicePageTitle.report=±¨±í
+NewReportWizard.choicePageTitle.report=æŠ¥è¡¨
 
 NewReportWizard.displayName.NewReportFileExtension=.rptdesign
 NewReportWizard.displayName.NewReportFileNamePrefix=new_report
-NewReportWizard.error.NoProject=¹¤×÷ÇøÖĞÃ»ÓĞÈÎºÎ´ò¿ªÏîÄ¿¡£ÇëÑ¡Ôñ¡°ÎÄ¼ş¡±->¡°ĞÂ½¨¡±->¡°ÏîÄ¿¡±£¬ÒÔ´´½¨ĞÂÏîÄ¿»ò´ò¿ªÏÖÓĞÏîÄ¿¡£
+NewReportWizard.error.NoProject=å·¥ä½œåŒºä¸­æ²¡æœ‰ä»»ä½•æ‰“å¼€é¡¹ç›®ã€‚è¯·é€‰æ‹©â€œæ–‡ä»¶â€->â€œæ–°å»ºâ€->â€œé¡¹ç›®â€ï¼Œä»¥åˆ›å»ºæ–°é¡¹ç›®æˆ–æ‰“å¼€ç°æœ‰é¡¹ç›®ã€‚
 
-NewReportWizard.pageDescription.createNewReport=´´½¨ĞÂ±¨±í¡£
+NewReportWizard.pageDescription.createNewReport=åˆ›å»ºæ–°æŠ¥è¡¨ã€‚
 
-NewReportWizard.pageDescription.selectReportTemplate=Ñ¡ÔñÒª´´½¨µÄ±¨±íÀàĞÍ
+NewReportWizard.pageDescription.selectReportTemplate=é€‰æ‹©è¦åˆ›å»ºçš„æŠ¥è¡¨ç±»å‹
 
-NewReportWizard.taskName.openFileForEdit=´ò¿ªÎÄ¼ş½øĞĞ±à¼­...
+NewReportWizard.taskName.openFileForEdit=æ‰“å¼€æ–‡ä»¶è¿›è¡Œç¼–è¾‘...
 
-NewReportWizard.text.ConfirmSwitchPerspective=È·ÈÏÇĞ»»Í¸ÊÓÍ¼
+NewReportWizard.text.ConfirmSwitchPerspective=ç¡®è®¤åˆ‡æ¢é€è§†å›¾
 
-NewReportWizard.text.Container=ÈİÆ÷ "
+NewReportWizard.text.Container=å®¹å™¨ "
 
-NewReportWizard.text.CreateReport=´´½¨ĞÂ±¨±í¡£
+NewReportWizard.text.CreateReport=åˆ›å»ºæ–°æŠ¥è¡¨ã€‚
 
-NewReportWizard.text.Creating=´´½¨
+NewReportWizard.text.Creating=åˆ›å»º
 
-NewReportWizard.text.DoesNotExist=" ²»´æÔÚ¡£
+NewReportWizard.text.DoesNotExist=" ä¸å­˜åœ¨ã€‚
 
-NewReportWizard.text.OpenFileForEditing=´ò¿ªÎÄ¼ş½øĞĞ±à¼­...
+NewReportWizard.text.OpenFileForEditing=æ‰“å¼€æ–‡ä»¶è¿›è¡Œç¼–è¾‘...
 
-NewReportWizard.text.SelectTemplate=Ñ¡ÔñÒª´´½¨µÄ±¨±íÀàĞÍ¡£
+NewReportWizard.text.SelectTemplate=é€‰æ‹©è¦åˆ›å»ºçš„æŠ¥è¡¨ç±»å‹ã€‚
 
-NewReportWizard.text.SwitchPerspective=´ËÎÄ¼şÀàĞÍÓë {0} Í¸ÊÓÍ¼Ïà¹ØÁª¡£ÊÇ·ñÁ¢¼´ÇĞ»»ÖÁ´ËÍ¸ÊÓÍ¼£¿
+NewReportWizard.text.SwitchPerspective=æ­¤æ–‡ä»¶ç±»å‹ä¸ {0} é€è§†å›¾ç›¸å…³è”ã€‚æ˜¯å¦ç«‹å³åˆ‡æ¢è‡³æ­¤é€è§†å›¾ï¼Ÿ
 
-NewReportWizard.title.Choose=Ñ¡ÔñÈçºÎ´´½¨±¨±í¡£
+NewReportWizard.title.Choose=é€‰æ‹©å¦‚ä½•åˆ›å»ºæŠ¥è¡¨ã€‚
 
-NewReportWizard.title.Error=´íÎó
+NewReportWizard.title.Error=é”™è¯¯
 
-NewReportWizard.title.New=ĞÂ½¨±¨±í
+NewReportWizard.title.New=æ–°å»ºæŠ¥è¡¨
 
-NewReportWizard.title.Report=±¨±í
+NewReportWizard.title.Report=æŠ¥è¡¨
 
-NewReportWizard.title.ReportWizard=±¨±íÏòµ¼
+NewReportWizard.title.ReportWizard=æŠ¥è¡¨å‘å¯¼
 
 NewReportWizard.title.Template=TemplateChoicePage
 NewReportWizard.title.WizardPage=WizardPage
-NewReportWizard.widowTitle.new=ĞÂ½¨
+NewReportWizard.widowTitle.new=æ–°å»º
 
-NewReportWizard.wizard.msgDirErr=Ä¿±êÄ¿Â¼²»´æÔÚ£¬µ«ÎŞ·¨´´½¨¡£
+NewReportWizard.wizard.msgDirErr=ç›®æ ‡ç›®å½•ä¸å­˜åœ¨ï¼Œä½†æ— æ³•åˆ›å»ºã€‚
 
 
 ###########################################################
 #NewResourceFileDialog properties
-NewResourceFileDialog.label.NewFile=ĞÂÎÄ¼şÃû³Æ(&N):
+NewResourceFileDialog.label.NewFile=æ–°æ–‡ä»¶åç§°(&N):
 
-NewResourceFileDialog.ErrorMessage=ÎÄ¼şÃû±ØĞëÒÔ .properties ½áÎ²
+NewResourceFileDialog.ErrorMessage=æ–‡ä»¶åå¿…é¡»ä»¥ .properties ç»“å°¾
 
-NewResourceFileDialog.ErrorMessageInvalid=ÎÄ¼şÃûÎŞĞ§
+NewResourceFileDialog.ErrorMessageInvalid=æ–‡ä»¶åæ— æ•ˆ
 
-NewResourceFileDialog.FileExists={0} ´æÔÚ¡£ ÊÇ·ñÒª¸²¸Ç?
+NewResourceFileDialog.FileExists={0} å­˜åœ¨ã€‚ æ˜¯å¦è¦è¦†ç›–?
 
 ###########################################################
 #ProjectFileDialog properties
-ProjectFileDialog.ErrorMessage=ÎÄ¼ş±ØĞëÊÇÎÄ¼ş£¬¶ø²»ÊÇÄ¿Â¼¡£
+ProjectFileDialog.ErrorMessage=æ–‡ä»¶å¿…é¡»æ˜¯æ–‡ä»¶ï¼Œè€Œä¸æ˜¯ç›®å½•ã€‚
 
-ProjectFileDialog.Title=Ñ¡ÔñÏîÄ¿ÎÄ¼ş
+ProjectFileDialog.Title=é€‰æ‹©é¡¹ç›®æ–‡ä»¶
 
-ProjectFileDialog.Message=Ñ¡Ôñµ±Ç°ÏîÄ¿ÖĞµÄÎÄ¼ş¡£
+ProjectFileDialog.Message=é€‰æ‹©å½“å‰é¡¹ç›®ä¸­çš„æ–‡ä»¶ã€‚
 
-ProjectFileDialog.Text.Menu=²Ëµ¥
+ProjectFileDialog.Text.Menu=èœå•
 
 ###########################################################
 #ProjectSelectionDialog properties
-ProjectSelectionDialog.Message=Ñ¡ÔñÒªÅäÖÃµÄÏîÄ¿:
+ProjectSelectionDialog.Message=é€‰æ‹©è¦é…ç½®çš„é¡¹ç›®:
 
-ProjectSelectionDialog.Text.SpecialSettings=½öÏÔÊ¾¾ßÓĞÏîÄ¿ÌØ¶¨ÉèÖÃµÄÏîÄ¿
+ProjectSelectionDialog.Text.SpecialSettings=ä»…æ˜¾ç¤ºå…·æœ‰é¡¹ç›®ç‰¹å®šè®¾ç½®çš„é¡¹ç›®
 
-ProjectSelectionDialog.Title=ÏîÄ¿ÌØ¶¨ÅäÖÃ
+ProjectSelectionDialog.Title=é¡¹ç›®ç‰¹å®šé…ç½®
 
 ###########################################################
 #ResourceFilterDialog properties
-ResourceFilterDialog.Title=±¨±íÔªËØÉ¸Ñ¡Æ÷
+ResourceFilterDialog.Title=æŠ¥è¡¨å…ƒç´ ç­›é€‰å™¨
 
-ResourceFilterDialog.Lable.Description=É¸Ñ¡Æ÷ÃèÊö:
+ResourceFilterDialog.Lable.Description=ç­›é€‰å™¨æè¿°:
 
-ResourceFilterDialog.Lable.Viewer=Ñ¡ÔñÒª´ÓÊÓÍ¼ÖĞÅÅ³ıµÄÔªËØ:
+ResourceFilterDialog.Lable.Viewer=é€‰æ‹©è¦ä»è§†å›¾ä¸­æ’é™¤çš„å…ƒç´ :
 
 ###########################################################
 #NewSectionDialog properties
-NewSectionDialog.displayname.Container=ÈİÆ÷
+NewSectionDialog.displayname.Container=å®¹å™¨
 
-NewSectionDialog.displayname.Data=Êı¾İ
+NewSectionDialog.displayname.Data=æ•°æ®
 
-NewSectionDialog.displayname.Grid=Íø¸ñ
+NewSectionDialog.displayname.Grid=ç½‘æ ¼
 
-NewSectionDialog.displayname.Image=Í¼Ïñ
+NewSectionDialog.displayname.Image=å›¾åƒ
 
-NewSectionDialog.displayname.Label=±êÇ©
+NewSectionDialog.displayname.Label=æ ‡ç­¾
 
-NewSectionDialog.displayname.Line=ÏßÌõ
+NewSectionDialog.displayname.Line=çº¿æ¡
 
-NewSectionDialog.displayname.List=ÁĞ±í
+NewSectionDialog.displayname.List=åˆ—è¡¨
 
-NewSectionDialog.displayname.Rectangle=¾ØĞÎ
+NewSectionDialog.displayname.Rectangle=çŸ©å½¢
 
-NewSectionDialog.displayname.Table=±í
+NewSectionDialog.displayname.Table=è¡¨
 
-NewSectionDialog.displayname.Text=ÎÄ±¾
+NewSectionDialog.displayname.Text=æ–‡æœ¬
 
-NewSectionDialog.text.Prefix=¿ÉÓÃÇøÓò:
+NewSectionDialog.text.Prefix=å¯ç”¨åŒºåŸŸ:
 
-NewSectionDialog.title.insertElement=²åÈëÔªËØ
+NewSectionDialog.title.insertElement=æ’å…¥å…ƒç´ 
 
-NewSectionDialog.Title=²åÈëÔªËØ
+NewSectionDialog.Title=æ’å…¥å…ƒç´ 
 
 ###########################################################
 #NewTemplateWizard properties
-NewTemplateWizard.displayName.NewReportFileNamePrefix=ĞÂÄ£°å
+NewTemplateWizard.displayName.NewReportFileNamePrefix=æ–°æ¨¡æ¿
 
-NewTemplateWizard.pageDescription.createNewTemplate=´´½¨ĞÂµÄ±¨±íÄ£°å¡£
+NewTemplateWizard.pageDescription.createNewTemplate=åˆ›å»ºæ–°çš„æŠ¥è¡¨æ¨¡æ¿ã€‚
 
-NewTemplateWizard.text.CreateReport=´´½¨ĞÂÄ£°å¡£
+NewTemplateWizard.text.CreateReport=åˆ›å»ºæ–°æ¨¡æ¿ã€‚
 
-NewTemplateWizard.text.Creating=´´½¨
+NewTemplateWizard.text.Creating=åˆ›å»º
 
-NewTemplateWizard.text.OpenFileForEditing=´ò¿ªÄ£°åÎÄ¼ş½øĞĞ±à¼­...
+NewTemplateWizard.text.OpenFileForEditing=æ‰“å¼€æ¨¡æ¿æ–‡ä»¶è¿›è¡Œç¼–è¾‘...
 
-NewTemplateWizard.title.New=ĞÂÄ£°å
+NewTemplateWizard.title.New=æ–°æ¨¡æ¿
 
-NewTemplateWizard.title.Report=±¨±í
+NewTemplateWizard.title.Report=æŠ¥è¡¨
 
-NewTemplateWizard.title.Template=Ä£°å
+NewTemplateWizard.title.Template=æ¨¡æ¿
 
 NewTemplateWizard.title.WizardPage=WizardPage
 
 ###########################################################
 #NoneAction properties
-NoneAction.text=ÎŞ
+NoneAction.text=æ— 
 
 ###########################################################
 #OutputColumnDefnPage properties
-OutputColumnDefnPage.description=ÊäÈëÈ¡Êı½Å±¾Éú³ÉµÄÊä³öÁĞµÄ¶¨Òå:
+OutputColumnDefnPage.description=è¾“å…¥å–æ•°è„šæœ¬ç”Ÿæˆçš„è¾“å‡ºåˆ—çš„å®šä¹‰:
 
-OutputColumnDefnPage.OutputColumns.Tooltip=²é¿´²¢¶¨ÒåÊı¾İĞĞÖĞµÄÁĞ
+OutputColumnDefnPage.OutputColumns.Tooltip=æŸ¥çœ‹å¹¶å®šä¹‰æ•°æ®è¡Œä¸­çš„åˆ—
 
-OutputColumnPage.error.createNewColumn=Ìí¼ÓĞÂÁĞ¹ı³ÌÖĞ·¢ÉúÄ³Ğ©´íÎó¡£
+OutputColumnPage.error.createNewColumn=æ·»åŠ æ–°åˆ—è¿‡ç¨‹ä¸­å‘ç”ŸæŸäº›é”™è¯¯ã€‚
 
-OutputColumnPage.error.invalidSelection=Ã»ÓĞÑ¡ÔñÓĞĞ§µÄ±í¸ñÏî¡£
+OutputColumnPage.error.invalidSelection=æ²¡æœ‰é€‰æ‹©æœ‰æ•ˆçš„è¡¨æ ¼é¡¹ã€‚
 
 ###########################################################
 #ColumnDefPage properties
-ColumnDefPage.description=½Å±¾Êı¾İ¼¯Êä³öÁĞ¶¨ÒåÒ³
+ColumnDefPage.description=è„šæœ¬æ•°æ®é›†è¾“å‡ºåˆ—å®šä¹‰é¡µ
 
-ColumnDefPage.title=Êä³öÁĞ
+ColumnDefPage.title=è¾“å‡ºåˆ—
 
 ###########################################################
 #ResultSetColumnPage properties
-ResultSetColumnPage.button.add=Ìí¼Ó(&A)...
+ResultSetColumnPage.button.add=æ·»åŠ (&A)...
 
-ResultSetColumnPage.button.edit=±à¼­(&E)...
+ResultSetColumnPage.button.edit=ç¼–è¾‘(&E)...
 
-ResultSetColumnPage.button.delete=É¾³ı(&D)
+ResultSetColumnPage.button.delete=åˆ é™¤(&D)
 
-ResultSetColumnPage.button.up=ÉÏÒÆ(&U)
+ResultSetColumnPage.button.up=ä¸Šç§»(&U)
 
-ResultSetColumnPage.button.down=ÏÂÒÆ(&W)
+ResultSetColumnPage.button.down=ä¸‹ç§»(&W)
 
-ResultSetColumnPage.inputDialog.newColumn.title=ĞÂ½¨½Å±¾Êı¾İ¼¯ÁĞ
+ResultSetColumnPage.inputDialog.newColumn.title=æ–°å»ºè„šæœ¬æ•°æ®é›†åˆ—
 
-ResultSetColumnPage.inputDialog.editColumn.title=±à¼­½Å±¾Êı¾İ¼¯ÁĞ
+ResultSetColumnPage.inputDialog.editColumn.title=ç¼–è¾‘è„šæœ¬æ•°æ®é›†åˆ—
 
-ResultSetColumnPage.inputDialog.label.columnName=ÁĞÃû³Æ(&C):
+ResultSetColumnPage.inputDialog.label.columnName=åˆ—åç§°(&C):
 
-ResultSetColumnPage.inputDialog.label.dataType=Êı¾İÀàĞÍ(&T):
+ResultSetColumnPage.inputDialog.label.dataType=æ•°æ®ç±»å‹(&T):
 
-ResultSetColumnPage.inputDialog.label.alias=ÁĞ±ğÃû(&A):
+ResultSetColumnPage.inputDialog.label.alias=åˆ—åˆ«å(&A):
 
-ResultSetColumnPage.inputDialog.label.displayName=ÏÔÊ¾Ãû³Æ(&D):
+ResultSetColumnPage.inputDialog.label.displayName=æ˜¾ç¤ºåç§°(&D):
 
-ResultSetColumnPage.inputDialog.label.displayNameKey=ÏÔÊ¾Ãû³Æ¹Ø¼ü×Ö(&K):
+ResultSetColumnPage.inputDialog.label.displayNameKey=æ˜¾ç¤ºåç§°å…³é”®å­—(&K):
 
-ResultSetColumnPage.inputDialog.warning.emptyColumnName=ÒªÇóÊäÈëÁĞÃû³Æ¡£
+ResultSetColumnPage.inputDialog.warning.emptyColumnName=è¦æ±‚è¾“å…¥åˆ—åç§°ã€‚
 
-ResultSetColumnPage.inputDialog.error.sameValue.columnNameAndAlias=ÁĞÃû³ÆºÍÆä±ğÃûÓ¦²»Í¬¡£
+ResultSetColumnPage.inputDialog.error.sameValue.columnNameAndAlias=åˆ—åç§°å’Œå…¶åˆ«ååº”ä¸åŒã€‚
 
-ResultSetColumnPage.inputDialog.error.duplicatedColumnName=ÁĞÃû³Æ¡°{0}¡±ÒÑ¾­ÔÚÊ¹ÓÃ¡£
+ResultSetColumnPage.inputDialog.error.duplicatedColumnName=åˆ—åç§°â€œ{0}â€å·²ç»åœ¨ä½¿ç”¨ã€‚
 
-ResultSetColumnPage.inputDialog.error.duplicatedAlias=ÁĞ±ğÃû¡°{0}¡±ÒÑ¾­ÔÚÊ¹ÓÃ¡£
+ResultSetColumnPage.inputDialog.error.duplicatedAlias=åˆ—åˆ«åâ€œ{0}â€å·²ç»åœ¨ä½¿ç”¨ã€‚
 
 ###########################################################
 #OutputColumnsPage properties
-OutputColumnPage.OutputColumns.Tooltip=²é¿´²¢¶¨ÒåÊı¾İĞĞÖĞµÄÁĞ
+OutputColumnPage.OutputColumns.Tooltip=æŸ¥çœ‹å¹¶å®šä¹‰æ•°æ®è¡Œä¸­çš„åˆ—
 
-OutputColumnPage.toolTipText.Edit=±à¼­Êä³öÁĞ
+OutputColumnPage.toolTipText.Edit=ç¼–è¾‘è¾“å‡ºåˆ—
 
-OutputColumnPage.title.OutputColumnInputDialog=Êä³öÁĞ
+OutputColumnPage.title.OutputColumnInputDialog=è¾“å‡ºåˆ—
 
-OutputColumnPage.title.OutputColumnInputDialog.NewOutputColumn=ĞÂ½¨Êä³öÁĞ
+OutputColumnPage.title.OutputColumnInputDialog.NewOutputColumn=æ–°å»ºè¾“å‡ºåˆ—
 
-OutputColumnPage.title.OutputColumnInputDialog.EditOutputColumn=±à¼­Êä³öÁĞ
+OutputColumnPage.title.OutputColumnInputDialog.EditOutputColumn=ç¼–è¾‘è¾“å‡ºåˆ—
 
-OutputColumnPage.OutputColumns.DuplicatedName=¸ÃÃû³ÆÒÑ´æÔÚ!
+OutputColumnPage.OutputColumns.DuplicatedName=è¯¥åç§°å·²å­˜åœ¨!
 
-OutputColumnsPage.description=¶¨ÒåÊä³öÁĞ:
+OutputColumnsPage.description=å®šä¹‰è¾“å‡ºåˆ—:
 
-OutputColumnsPage.DataTypeConvert.Note=×¢
+OutputColumnsPage.DataTypeConvert.Note=æ³¨
 
-OutputColumnsPage.DataTypeConvert.Message=´ËÀà×ª»»¿ÉÄÜµ¼ÖÂ¾«¶ÈËğÊ§»òÔËĞĞÊ±³ö´í£¬ÊÇ·ñÈ·¶¨Ó¦ÓÃËü?
+OutputColumnsPage.DataTypeConvert.Message=æ­¤ç±»è½¬æ¢å¯èƒ½å¯¼è‡´ç²¾åº¦æŸå¤±æˆ–è¿è¡Œæ—¶å‡ºé”™ï¼Œæ˜¯å¦ç¡®å®šåº”ç”¨å®ƒ?
 
 ###########################################################
 #PageBreakPreferencePage properties
-PageBreakPreferencePage.displayname.Title=·ÖÒ³·û
+PageBreakPreferencePage.displayname.Title=åˆ†é¡µç¬¦
 
 ###########################################################
 #PageSetAction properties
-PageSetAction.text.code=½Å±¾(&S)
+PageSetAction.text.code=è„šæœ¬(&S)
 
-PageSetAction.Text.EditCode=±à¼­½Å±¾(&S)...
+PageSetAction.Text.EditCode=ç¼–è¾‘è„šæœ¬(&S)...
 
-PageSetAction.text.layout=²¼¾Ö(&L)
+PageSetAction.text.layout=å¸ƒå±€(&L)
 
-PageSetAction.text.master=Ö÷»ú(&M)
+PageSetAction.text.master=ä¸»æœº(&M)
 
-PageSetAction.text.normal=Õı³£(&N)
+PageSetAction.text.normal=æ­£å¸¸(&N)
 
-PageSetAction.text.preview=Ô¤ÀÀ(&P)
+PageSetAction.text.preview=é¢„è§ˆ(&P)
 
 ###########################################################
 #PageSetupOutlineProcess properties
-PageSetupOutlineProcess.action.Edit=±à¼­Ò³ÃæÉèÖÃ
+PageSetupOutlineProcess.action.Edit=ç¼–è¾‘é¡µé¢è®¾ç½®
 
-PageSetupOutlineProcess.action.New=ĞÂ½¨Ö÷Ò³
+PageSetupOutlineProcess.action.New=æ–°å»ºä¸»é¡µ
 
-PageSetupOutlineProcess.text.Display=ÏÔÊ¾Ò³ÃæÉèÖÃ¶Ô»°¿ò
+PageSetupOutlineProcess.text.Display=æ˜¾ç¤ºé¡µé¢è®¾ç½®å¯¹è¯æ¡†
 
-PageSetupOutlineProcess.text.Switch=ÇĞ»»ÖÁÒ³ÃæÖ÷±à¼­Æ÷
+PageSetupOutlineProcess.text.Switch=åˆ‡æ¢è‡³é¡µé¢ä¸»ç¼–è¾‘å™¨
 
 ###########################################################
 #ParameterDialog properties
-ParameterDialog.Boolean.False=¼Ù
+ParameterDialog.Boolean.False=å‡
 
-ParameterDialog.Boolean.True=Õæ
+ParameterDialog.Boolean.True=çœŸ
 
-ParameterDialog.Button.ChangeFormat=¸ü¸Ä(&G)...
+ParameterDialog.Button.ChangeFormat=æ›´æ”¹(&G)...
 
-ParameterDialog.Button.CreateDataSet=ĞÂ½¨(&W)...
+ParameterDialog.Button.CreateDataSet=æ–°å»º(&W)...
 
-ParameterDialog.Button.ImportValue=µ¼ÈëÖµ(&U)...
+ParameterDialog.Button.ImportValue=å¯¼å…¥å€¼(&U)...
 
-ParameterDialog.Button.RemoveDefault=É¾³ıÄ¬ÈÏÖµ(&A)
+ParameterDialog.Button.RemoveDefault=åˆ é™¤é»˜è®¤å€¼(&A)
 
-ParameterDialog.Button.SetDefault=ÉèÎªÄ¬ÈÏÖµ(&A)
+ParameterDialog.Button.SetDefault=è®¾ä¸ºé»˜è®¤å€¼(&A)
 
-ParameterDialog.CheckBox.IsRequired=±ØĞè(&Q)
+ParameterDialog.CheckBox.IsRequired=å¿…éœ€(&Q)
 
-ParameterDialog.CheckBox.DoNotEchoInput=²»»ØÏÔÊäÈëÄÚÈİ(&O)
+ParameterDialog.CheckBox.DoNotEchoInput=ä¸å›æ˜¾è¾“å…¥å†…å®¹(&O)
 
-ParameterDialog.CheckBox.Hidden=Òş²Ø(&H)
+ParameterDialog.CheckBox.Hidden=éšè—(&H)
 
-ParameterDialog.CheckBox.Distinct=ÔÊĞíÖØ¸´Öµ(&L)
+ParameterDialog.CheckBox.Distinct=å…è®¸é‡å¤å€¼(&L)
 
-ParameterDialog.Choice.NoDefault=ÎŞÄ¬ÈÏÖµ
+ParameterDialog.Choice.NoDefault=æ— é»˜è®¤å€¼
 
-ParameterDialog.Choice.NullValue=¿ÕÖµ
+ParameterDialog.Choice.NullValue=ç©ºå€¼
 
-ParameterDialog.Choice.BlankValue=¿Õ°×Öµ
+ParameterDialog.Choice.BlankValue=ç©ºç™½å€¼
 
-ParameterDialog.Choice.None=ÎŞ
+ParameterDialog.Choice.None=æ— 
 
-ParameterDialog.Choice.DisplayText=ÏÔÊ¾ÎÄ±¾
+ParameterDialog.Choice.DisplayText=æ˜¾ç¤ºæ–‡æœ¬
 
-ParameterDialog.Choice.ValueColumn=ÖµÁĞ
+ParameterDialog.Choice.ValueColumn=å€¼åˆ—
 
-ParameterDialog.Choice.ASCENDING=ÉıĞò
+ParameterDialog.Choice.ASCENDING=å‡åº
 
-ParameterDialog.Choice.DESCENDING=½µĞò
+ParameterDialog.Choice.DESCENDING=é™åº
 
-ParameterDialog.Choice.SelectValue=<Ñ¡ÔñÖµ...>
+ParameterDialog.Choice.SelectValue=<é€‰æ‹©å€¼...>
 
-ParameterDialog.Column.Default=Ä¬ÈÏÖµ
+ParameterDialog.Column.Default=é»˜è®¤å€¼
 
-ParameterDialog.Column.DisplayText=ÏÔÊ¾ÎÄ±¾
+ParameterDialog.Column.DisplayText=æ˜¾ç¤ºæ–‡æœ¬
 
-ParameterDialog.Column.DisplayTextKey=ÏÔÊ¾ÎÄ±¾¹Ø¼ü×Ö
+ParameterDialog.Column.DisplayTextKey=æ˜¾ç¤ºæ–‡æœ¬å…³é”®å­—
 
-ParameterDialog.Column.Value=Öµ
+ParameterDialog.Column.Value=å€¼
 
-ParameterDialog.DefaultValue.Add=Ìí¼Ó(&A)
+ParameterDialog.DefaultValue.Add=æ·»åŠ (&A)
 
-ParameterDialog.DisplayLabel.Combo=×éºÏ¿ò
+ParameterDialog.DisplayLabel.Combo=ç»„åˆæ¡†
 
-ParameterDialog.DisplayLabel.List=ÁĞ±í¿ò
+ParameterDialog.DisplayLabel.List=åˆ—è¡¨æ¡†
 
-ParameterDialog.ErrorMessage.CanootBeBlank=¸ÃÖµ²»ÄÜÎª¿Õ¡£
+ParameterDialog.ErrorMessage.CanootBeBlank=è¯¥å€¼ä¸èƒ½ä¸ºç©ºã€‚
 
-ParameterDialog.ErrorMessage.CanootBeNull=¸ÃÖµ²»ÄÜÎª null¡£
+ParameterDialog.ErrorMessage.CanootBeNull=è¯¥å€¼ä¸èƒ½ä¸º nullã€‚
 
-ParameterDialog.ErrorMessage.DuplicatedLabel=¸ÃÏÔÊ¾ÎÄ±¾ÒÑ¾­´æÔÚ¡£
+ParameterDialog.ErrorMessage.DuplicatedLabel=è¯¥æ˜¾ç¤ºæ–‡æœ¬å·²ç»å­˜åœ¨ã€‚
 
-ParameterDialog.ErrorMessage.DuplicatedLabelKey=ÏÔÊ¾ÎÄ±¾¹Ø¼ü×ÖÒÑ´æÔÚ¡£
+ParameterDialog.ErrorMessage.DuplicatedLabelKey=æ˜¾ç¤ºæ–‡æœ¬å…³é”®å­—å·²å­˜åœ¨ã€‚
 
-ParameterDialog.ErrorMessage.DuplicatedName=¸ÃÃû³ÆÒÑ¾­ÔÚÊ¹ÓÃ¡£
+ParameterDialog.ErrorMessage.DuplicatedName=è¯¥åç§°å·²ç»åœ¨ä½¿ç”¨ã€‚
 
-ParameterDialog.ErrorMessage.DuplicatedValue=ÖµÒÑ¾­´æÔÚ¡£
+ParameterDialog.ErrorMessage.DuplicatedValue=å€¼å·²ç»å­˜åœ¨ã€‚
 
-ParameterDialog.ErrorMessage.EmptyName=Ãû³ÆÎª¿Õ¡£
+ParameterDialog.ErrorMessage.EmptyName=åç§°ä¸ºç©ºã€‚
 
-ParameterDialog.ErrorMessage.InvalidListLimit=ÏŞÖÆÖµÓ¦½éÓÚ 0 ºÍ {0} Ö®¼ä
+ParameterDialog.ErrorMessage.InvalidListLimit=é™åˆ¶å€¼åº”ä»‹äº 0 å’Œ {0} ä¹‹é—´
 
-ParameterDialog.ErrorMessage.MismatchDataType=ÖµÓëÊı¾İÀàĞÍ²»Æ¥Åä¡£
+ParameterDialog.ErrorMessage.MismatchDataType=å€¼ä¸æ•°æ®ç±»å‹ä¸åŒ¹é…ã€‚
 
-ParameterDialog.ErrorMessage.NoAvailableColumn=Ã»ÓĞ¿ÉÓÃµÄÁĞ¡£
+ParameterDialog.ErrorMessage.NoAvailableColumn=æ²¡æœ‰å¯ç”¨çš„åˆ—ã€‚
 
-ParameterDialog.ErrorMessage.ValueColumnEmpty=Ó¦Ö¸¶¨ÖµÁĞ¡£
+ParameterDialog.ErrorMessage.ValueColumnEmpty=åº”æŒ‡å®šå€¼åˆ—ã€‚
 
-ParameterDialog.ErrorMessage.NoDefaultValue=±ØĞëÉèÖÃÄ¬ÈÏÖµ¡£
+ParameterDialog.ErrorMessage.NoDefaultValue=å¿…é¡»è®¾ç½®é»˜è®¤å€¼ã€‚
 
-ParameterDialog.ErrorTitle.InvalidListLimit=ÎŞĞ§ÁĞ±íÏŞÖÆ
+ParameterDialog.ErrorTitle.InvalidListLimit=æ— æ•ˆåˆ—è¡¨é™åˆ¶
 
-ParameterDialog.ExpressionEditor.Title=±à¼­±í´ïÊ½
+ParameterDialog.ExpressionEditor.Title=ç¼–è¾‘è¡¨è¾¾å¼
 
-ParameterDialog.Flag.Default=Ä¬ÈÏ
+ParameterDialog.Flag.Default=é»˜è®¤
 
-ParameterDialog.Group.MoreOption=ÏÔÊ¾Îª
+ParameterDialog.Group.MoreOption=æ˜¾ç¤ºä¸º
 
-ParameterDialog.Group.Properties=ÊôĞÔ
+ParameterDialog.Group.Properties=å±æ€§
 
-ParameterDialog.Label.DataType=Êı¾İÀàĞÍ(&D):
+ParameterDialog.Label.DataType=æ•°æ®ç±»å‹(&D):
 
-ParameterDialog.SelectionDialog.Edit=±à¼­Ñ¡ÔñÑ¡Ïî
+ParameterDialog.SelectionDialog.Edit=ç¼–è¾‘é€‰æ‹©é€‰é¡¹
 
-ParameterDialog.Label.DefaultValue=Ä¬ÈÏÖµ(&F):
+ParameterDialog.Label.DefaultValue=é»˜è®¤å€¼(&F):
 
-ParameterDialog.Label.DisplayPrompt=ÏÔÊ¾ÌáÊ¾:
+ParameterDialog.Label.DisplayPrompt=æ˜¾ç¤ºæç¤º:
 
-ParameterDialog.Label.DisplayType=ÏÔÊ¾ÀàĞÍ(&T):
+ParameterDialog.Label.DisplayType=æ˜¾ç¤ºç±»å‹(&T):
 
-ParameterDialog.Label.Format=¸ñÊ½Îª:
+ParameterDialog.Label.Format=æ ¼å¼ä¸º:
 
-ParameterDialog.Label.HelpText=°ïÖúÎÄ±¾(&X):
+ParameterDialog.Label.HelpText=å¸®åŠ©æ–‡æœ¬(&X):
 
-ParameterDialog.Label.ListOfValue=Ñ¡ÔñÁĞ±íÖµ
+ParameterDialog.Label.ListOfValue=é€‰æ‹©åˆ—è¡¨å€¼
 
-ParameterDialog.Label.SortGroup=ÅÅĞò
+ParameterDialog.Label.SortGroup=æ’åº
 
-ParameterDialog.Label.Name=Ãû³Æ(&N):
+ParameterDialog.Label.Name=åç§°(&N):
 
-ParameterDialog.Label.None=<ÎŞ>
+ParameterDialog.Label.None=<æ— >
 
 ParameterDialog.Label.Null=NULL
 
-ParameterDialog.Label.Preview=´ø¸ñÊ½Ô¤ÀÀ
+ParameterDialog.Label.Preview=å¸¦æ ¼å¼é¢„è§ˆ
 
-ParameterDialog.Label.PromptText=ÌáÊ¾ÎÄ±¾(&P):
+ParameterDialog.Label.PromptText=æç¤ºæ–‡æœ¬(&P):
 
-ParameterDialog.Label.SelectDataSet=Êı¾İ¼¯(&A):
+ParameterDialog.Label.SelectDataSet=æ•°æ®é›†(&A):
 
-ParameterDialog.Label.SortKey=ÅÅĞòÒÀ¾İ(&B):
+ParameterDialog.Label.SortKey=æ’åºä¾æ®(&B):
 
-ParameterDialog.Label.SortDirection=ÅÅĞò·½Ïò(&C):
+ParameterDialog.Label.SortDirection=æ’åºæ–¹å‘(&C):
 
-ParameterDialog.SelectionDialog.New=ĞÂ½¨Ñ¡ÔñÑ¡Ïî
+ParameterDialog.SelectionDialog.New=æ–°å»ºé€‰æ‹©é€‰é¡¹
 
-ParameterDialog.SelectionDialog.Label.DisplayTextKey=ÏÔÊ¾ÎÄ±¾¹Ø¼ü×Ö(&K):
+ParameterDialog.SelectionDialog.Label.DisplayTextKey=æ˜¾ç¤ºæ–‡æœ¬å…³é”®å­—(&K):
 
-ParameterDialog.SelectionDialog.Label.DisplayText=ÏÔÊ¾ÎÄ±¾(&T):
+ParameterDialog.SelectionDialog.Label.DisplayText=æ˜¾ç¤ºæ–‡æœ¬(&T):
 
-ParameterDialog.SelectionDialog.Label.Value=Öµ(&V):
+ParameterDialog.SelectionDialog.Label.Value=å€¼(&V):
 
 ParameterDialog.SelectionDialog.Button.Resource=...
-ParameterDialog.SelectionDialog.Button.Resource.Tooltip=ä¯ÀÀºÍÑ¡Ôñ°´¼ü
+ParameterDialog.SelectionDialog.Button.Resource.Tooltip=æµè§ˆå’Œé€‰æ‹©æŒ‰é”®
 
-ParameterDialog.SelectionDialog.Button.Remove.Tooltip=É¾³ı°´¼ü
+ParameterDialog.SelectionDialog.Button.Remove.Tooltip=åˆ é™¤æŒ‰é”®
 
-ParameterDialog.SelectionDialog.Label.Note=×¢£ºÒªÉèÖÃÏÔÊ¾ÎÄ±¾¹Ø¼ü×Ö£¬ÇëÑ¡Ôñ±¨±í£¬È»ºóÔÚÊôĞÔ±à¼­Æ÷µÄ¡°×ÊÔ´¡±Ñ¡Ïî¿¨ÉÏÉèÖÃ×ÊÔ´ÎÄ¼şÃû³Æ¡£
+ParameterDialog.SelectionDialog.Label.Note=æ³¨ï¼šè¦è®¾ç½®æ˜¾ç¤ºæ–‡æœ¬å…³é”®å­—ï¼Œè¯·é€‰æ‹©æŠ¥è¡¨ï¼Œç„¶ååœ¨å±æ€§ç¼–è¾‘å™¨çš„â€œèµ„æºâ€é€‰é¡¹å¡ä¸Šè®¾ç½®èµ„æºæ–‡ä»¶åç§°ã€‚
 
-ParameterDialog.Label.SelectDisplayText=Ñ¡ÔñÏÔÊ¾ÎÄ±¾(&E):
+ParameterDialog.Label.SelectDisplayText=é€‰æ‹©æ˜¾ç¤ºæ–‡æœ¬(&E):
 
-ParameterDialog.Label.SelectValueColumn=Ñ¡ÔñÖµÁĞ(&U):
+ParameterDialog.Label.SelectValueColumn=é€‰æ‹©å€¼åˆ—(&U):
 
-ParameterDialog.Label.Value=Öµ:
+ParameterDialog.Label.Value=å€¼:
 
-ParameterDialog.Label.values=Öµ
+ParameterDialog.Label.values=å€¼
 
-ParameterDialog.Label.Sample=Ê¾Àı
+ParameterDialog.Label.Sample=ç¤ºä¾‹
 
-ParameterDialog.Label.Listlimit=ÁĞ±íÏŞÖÆ(&I):
+ParameterDialog.Label.Listlimit=åˆ—è¡¨é™åˆ¶(&I):
 
-ParameterDialog.Radio.Dynamic=¶¯Ì¬(&Y)
+ParameterDialog.Radio.Dynamic=åŠ¨æ€(&Y)
 
-ParameterDialog.Radio.Static=¾²Ì¬(&S)
+ParameterDialog.Radio.Static=é™æ€(&S)
 
-ParameterDialog.toolTipText.OpenExprButton=´ò¿ª±í´ïÊ½Éú³ÉÆ÷
+ParameterDialog.toolTipText.OpenExprButton=æ‰“å¼€è¡¨è¾¾å¼ç”Ÿæˆå™¨
 
-ParameterDialog.datetime.prompt=ÇëÊäÈëÒÔÏÂĞÎÊ½µÄÈÕÆÚÊ±¼äÖµ: {0}
+ParameterDialog.datetime.prompt=è¯·è¾“å…¥ä»¥ä¸‹å½¢å¼çš„æ—¥æœŸæ—¶é—´å€¼: {0}
 
-ParameterDialog.date.prompt=ÇëÊäÈëÒÔÏÂĞÎÊ½µÄÈÕÆÚÖµ: {0}
+ParameterDialog.date.prompt=è¯·è¾“å…¥ä»¥ä¸‹å½¢å¼çš„æ—¥æœŸå€¼: {0}
 
-ParameterDialog.time.prompt=ÇëÊäÈëÒÔÏÂĞÎÊ½µÄÊ±¼äÖµ: {0}
+ParameterDialog.time.prompt=è¯·è¾“å…¥ä»¥ä¸‹å½¢å¼çš„æ—¶é—´å€¼: {0}
 
-ParameterDialog.Check.AllowMulti=ÔÊĞí¶à¸öÖµ(&V)
+ParameterDialog.Check.AllowMulti=å…è®¸å¤šä¸ªå€¼(&V)
 
-ParameterDialog.checkBox.InputValue=ÊäÈëÖµ
+ParameterDialog.checkBox.InputValue=è¾“å…¥å€¼
 
-ParameterDialog.checkBox.BlankValue=¿Õ°×Öµ
+ParameterDialog.checkBox.BlankValue=ç©ºç™½å€¼
 
-ParameterDialog.checkBox.NullValue=¿ÕÖµ
+ParameterDialog.checkBox.NullValue=ç©ºå€¼
 
-ParameterDialog.emptyColumnValueExpression.title=ÎŞĞ§µÄÖµÁĞ±í´ïÊ½
+ParameterDialog.emptyColumnValueExpression.title=æ— æ•ˆçš„å€¼åˆ—è¡¨è¾¾å¼
 
-ParameterDialog.emptyColumnValueExpression.message=ÖµÁĞ±í´ïÊ½²»ÄÜÎª¿Õ!
+ParameterDialog.emptyColumnValueExpression.message=å€¼åˆ—è¡¨è¾¾å¼ä¸èƒ½ä¸ºç©º!
 
-ParameterDialog.Value.Empty=¿ÕÖµ
+ParameterDialog.Value.Empty=ç©ºå€¼
 
-ParameterDialog.Value.Null=¿ÕÖµ
+ParameterDialog.Value.Null=ç©ºå€¼
 
-ParameterDialog.message=¶¨Òå±¨±í²ÎÊıµÄÊôĞÔ¡£
+ParameterDialog.message=å®šä¹‰æŠ¥è¡¨å‚æ•°çš„å±æ€§ã€‚
 
 ###########################################################
 #SelectParameterDefaultValueDialog properties
-SelectParameterDefaultValueDialog.Title=Ñ¡ÔñÖµ
+SelectParameterDefaultValueDialog.Title=é€‰æ‹©å€¼
 
 ###########################################################
 #ParameterDropListener properties
-ParameterDropListener.Command.Copy=¸´ÖÆÔªËØ
+ParameterDropListener.Command.Copy=å¤åˆ¶å…ƒç´ 
 
-ParameterDropListener.Command.Move=ÒÆ¶¯ÔªËØ
+ParameterDropListener.Command.Move=ç§»åŠ¨å…ƒç´ 
 
 ###########################################################
 #ParameterGroupDialog properties
-ParameterGroupDialog.Page.Title=³£¹æ
+ParameterGroupDialog.Page.Title=å¸¸è§„
 
-ParameterGroupDialog.pageTitle.general=³£¹æ
+ParameterGroupDialog.pageTitle.general=å¸¸è§„
 
 ###########################################################
 #ParameterGroupGeneralPage properties
-ParameterGroupGeneralPage.Label.DisplayName=ÏÔÊ¾Ãû³Æ(&D):
+ParameterGroupGeneralPage.Label.DisplayName=æ˜¾ç¤ºåç§°(&D):
 
-ParameterGroupGeneralPage.Label.Name=Ãû³Æ(&N):
+ParameterGroupGeneralPage.Label.Name=åç§°(&N):
 
 ###########################################################
 #ParameterGroupNodeProvider properties
-ParameterGroupNodeProvider.Action.GroupNew=ĞÂ½¨²ÎÊı×é
+ParameterGroupNodeProvider.Action.GroupNew=æ–°å»ºå‚æ•°ç»„
 
-ParameterGroupNodeProvider.Action.ParameterEdit=±à¼­(&E)
+ParameterGroupNodeProvider.Action.ParameterEdit=ç¼–è¾‘(&E)
 
-ParameterGroupNodeProvider.Action.ParameterNew=ĞÂ½¨²ÎÊı(&N)
+ParameterGroupNodeProvider.Action.ParameterNew=æ–°å»ºå‚æ•°(&N)
 
-ParameterGroupNodeProvider.Dialogue.ParameterEdit=±à¼­²ÎÊı×é
+ParameterGroupNodeProvider.Dialogue.ParameterEdit=ç¼–è¾‘å‚æ•°ç»„
 
-ParameterGroupNodeProvider.Dialogue.ParameterNew=ĞÂ½¨²ÎÊı
+ParameterGroupNodeProvider.Dialogue.ParameterNew=æ–°å»ºå‚æ•°
 
-ParameterGroupNodeProvider.Node.Group=²ÎÊı×é
+ParameterGroupNodeProvider.Node.Group=å‚æ•°ç»„
 
 ###########################################################
 #ParameterGroupProcess properties
-ParameterGroupProcess.action.Delete=É¾³ı²ÎÊı×é
+ParameterGroupProcess.action.Delete=åˆ é™¤å‚æ•°ç»„
 
-ParameterGroupProcess.action.Edit=±à¼­²ÎÊı×é
+ParameterGroupProcess.action.Edit=ç¼–è¾‘å‚æ•°ç»„
 
-ParameterGroupProcess.action.New=ĞÂ½¨²ÎÊı
+ParameterGroupProcess.action.New=æ–°å»ºå‚æ•°
 
 ParameterGroupProcess.text.DisplayName=ParameterGroup
-ParameterGroupProcess.text.Show=ÏÔÊ¾Êı¾İÔ´±à¼­Æ÷Ò³
+ParameterGroupProcess.text.Show=æ˜¾ç¤ºæ•°æ®æºç¼–è¾‘å™¨é¡µ
 
 ###########################################################
 #ParameterNodeProvider properties
-ParameterNodeProvider.dial.title.editCascading=±à¼­¼¶Áª²ÎÊı×é
+ParameterNodeProvider.dial.title.editCascading=ç¼–è¾‘çº§è”å‚æ•°ç»„
 
-ParameterNodeProvider.dial.title.editScalar=±à¼­²ÎÊı
+ParameterNodeProvider.dial.title.editScalar=ç¼–è¾‘å‚æ•°
 
-ParameterNodeProvider.dial.title.newCascading=ĞÂ½¨¼¶Áª²ÎÊı×é
+ParameterNodeProvider.dial.title.newCascading=æ–°å»ºçº§è”å‚æ•°ç»„
 
-ParameterNodeProvider.menu.text.edit=±à¼­(&E)
+ParameterNodeProvider.menu.text.edit=ç¼–è¾‘(&E)
 
-ParameterNodeProvider.menu.text.new=ĞÂ½¨²ÎÊı
+ParameterNodeProvider.menu.text.new=æ–°å»ºå‚æ•°
 
 ###########################################################
 #ParameterProcess properties
-ParameterProcess.action.Delete=É¾³ı²ÎÊı
+ParameterProcess.action.Delete=åˆ é™¤å‚æ•°
 
-ParameterProcess.action.Edit=±à¼­²ÎÊı
+ParameterProcess.action.Edit=ç¼–è¾‘å‚æ•°
 
-ParameterProcess.text.DisplayName=²ÎÊı
+ParameterProcess.text.DisplayName=å‚æ•°
 
-ParameterProcess.text.Show=ÏÔÊ¾Êı¾İÔ´±à¼­Æ÷Ò³
+ParameterProcess.text.Show=æ˜¾ç¤ºæ•°æ®æºç¼–è¾‘å™¨é¡µ
 
 ###########################################################
 #parameters properties
-parameters.datatypes.boolean=²¼¶û
+parameters.datatypes.boolean=å¸ƒå°”
 
 parameters.datatypes.dateTime=DateTime
-parameters.datatypes.decimal=Ğ¡Êı
+parameters.datatypes.decimal=å°æ•°
 
-parameters.datatypes.float=¸¡µã
+parameters.datatypes.float=æµ®ç‚¹
 
-parameters.datatypes.string=×Ö·û´®
+parameters.datatypes.string=å­—ç¬¦ä¸²
 
-parameters.menuItem.reset=ÖØÖÃ
+parameters.menuItem.reset=é‡ç½®
 
 ###########################################################
 #ParametersNodeProvider properties
-ParametersNodeProvider.dialogue.title.group=ĞÂ½¨²ÎÊı×é
+ParametersNodeProvider.dialogue.title.group=æ–°å»ºå‚æ•°ç»„
 
-ParametersNodeProvider.dialogue.title.parameter=ĞÂ½¨²ÎÊı
+ParametersNodeProvider.dialogue.title.parameter=æ–°å»ºå‚æ•°
 
-ParametersNodeProvider.menu.text.cascadingParameter=ĞÂ½¨¼¶Áª²ÎÊı×é(&D)
+ParametersNodeProvider.menu.text.cascadingParameter=æ–°å»ºçº§è”å‚æ•°ç»„(&D)
 
-ParametersNodeProvider.menu.text.group=ĞÂ½¨²ÎÊı×é(&M)
+ParametersNodeProvider.menu.text.group=æ–°å»ºå‚æ•°ç»„(&M)
 
-ParametersNodeProvider.menu.text.parameter=ĞÂ½¨²ÎÊı(&A)
+ParametersNodeProvider.menu.text.parameter=æ–°å»ºå‚æ•°(&A)
 
 ###########################################################
 #ParametersOutlineProcess properties
-ParametersOutlineProcess.action.Edit=±à¼­
+ParametersOutlineProcess.action.Edit=ç¼–è¾‘
 
-ParametersOutlineProcess.action.New=ĞÂ½¨²ÎÊı
+ParametersOutlineProcess.action.New=æ–°å»ºå‚æ•°
 
-ParametersOutlineProcess.action.NewGroup=ĞÂ½¨×é
+ParametersOutlineProcess.action.NewGroup=æ–°å»ºç»„
 
-ParametersOutlineProcess.text.Open=´ò¿ª²ÎÊı±à¼­Æ÷
+ParametersOutlineProcess.text.Open=æ‰“å¼€å‚æ•°ç¼–è¾‘å™¨
 
-ParametersOutlineProcess.text.Show=ÏÔÊ¾Êı¾İ¼¯µÄÊı¾İ¼¯±à¼­Æ÷Ò³
+ParametersOutlineProcess.text.Show=æ˜¾ç¤ºæ•°æ®é›†çš„æ•°æ®é›†ç¼–è¾‘å™¨é¡µ
 
 ###########################################################
 #PasteAction properties
-PasteAction.dlg.title=ĞÅÏ¢
+PasteAction.dlg.title=ä¿¡æ¯
 
-PasteAction.ok=È·¶¨
+PasteAction.ok=ç¡®å®š
 
-PasteAction.text=Õ³Ìù(&P)
+PasteAction.text=ç²˜è´´(&P)
 
 ###########################################################
 #PlaceHolderEditPart properties
-PlaceHolderEditPart.Trans.TransferToElement=´«ËÍµ½±¨±íÏî
+PlaceHolderEditPart.Trans.TransferToElement=ä¼ é€åˆ°æŠ¥è¡¨é¡¹
 
 ###########################################################
 #PreviewAction properties
-PreviewAction.Text=Ô¤ÀÀ
+PreviewAction.Text=é¢„è§ˆ
 
 ###########################################################
 #PreviewEditor properties
-PreviewEditor.parameter.tooltip=ÏÔÊ¾±¨±í²ÎÊı
+PreviewEditor.parameter.tooltip=æ˜¾ç¤ºæŠ¥è¡¨å‚æ•°
 
-PreviewEditor.parameter.hint=Ë¢ĞÂ±¨±í
+PreviewEditor.parameter.hint=åˆ·æ–°æŠ¥è¡¨
 
-PreviewEditor.parameter.note=×¢:
+PreviewEditor.parameter.note=æ³¨:
 
-PreviewEditor.parameter.info=µ±Ç°Êı¾İĞĞÊıµÄ×î´óÏŞÖÆÎª {0}¡£
+PreviewEditor.parameter.info=å½“å‰æ•°æ®è¡Œæ•°çš„æœ€å¤§é™åˆ¶ä¸º {0}ã€‚
 
-PreviewEditor.parameter.change=µ¥»÷ÒÔ¸ü¸ÄÔ¤ÀÀÊ×Ñ¡Ïî
+PreviewEditor.parameter.change=å•å‡»ä»¥æ›´æ”¹é¢„è§ˆé¦–é€‰é¡¹
 
-PreviewEditor.ConfirmRefresh.Title=È·ÈÏË¢ĞÂ
+PreviewEditor.ConfirmRefresh.Title=ç¡®è®¤åˆ·æ–°
 
-PreviewEditor.ConfirmRefresh.Message=ÄúµÄ²Ù×÷¿ÉÄÜÓ°ÏìÔ¤ÀÀ½á¹û£¬ÊÇ·ñÒªË¢ĞÂÔ¤ÀÀÒ³Ãæ?
+PreviewEditor.ConfirmRefresh.Message=æ‚¨çš„æ“ä½œå¯èƒ½å½±å“é¢„è§ˆç»“æœï¼Œæ˜¯å¦è¦åˆ·æ–°é¢„è§ˆé¡µé¢?
 
-PreviewEditor.browser.notfound=ÄÚ²¿ä¯ÀÀÆ÷²»¿ÉÓÃ¡£
+PreviewEditor.browser.notfound=å†…éƒ¨æµè§ˆå™¨ä¸å¯ç”¨ã€‚
 
 ###########################################################
 #PreviewPageAction properties
-PreviewPageAction.actionText.preview=Ô¤ÀÀ
+PreviewPageAction.actionText.preview=é¢„è§ˆ
 
 ###########################################################
 #PropertiesAction properties
-PropertiesAction.Text=ÊôĞÔ
+PropertiesAction.Text=å±æ€§
 
 ###########################################################
 #PropertyHandleTableViewer properties
-PropertyHandleTableViewer.Button.New=ĞÂ½¨(&N)...
+PropertyHandleTableViewer.Button.New=æ–°å»º(&N)...
 
-PropertyHandleTableViewer.Button.Edit=±à¼­(&E)...
+PropertyHandleTableViewer.Button.Edit=ç¼–è¾‘(&E)...
 
-PropertyHandleTableViewer.Button.Remove=É¾³ı(&R)
+PropertyHandleTableViewer.Button.Remove=åˆ é™¤(&R)
 
-PropertyHandleTableViewer.Button.Up=ÉÏÒÆ(&U)
+PropertyHandleTableViewer.Button.Up=ä¸Šç§»(&U)
 
-PropertyHandleTableViewer.Button.Down=ÏÂÒÆ(&D)
+PropertyHandleTableViewer.Button.Down=ä¸‹ç§»(&D)
 
-PropertyHandleTableViewer.Menu.Remove=É¾³ı
+PropertyHandleTableViewer.Menu.Remove=åˆ é™¤
 
-PropertyHandleTableViewer.Menu.Up=ÉÏÒÆ
+PropertyHandleTableViewer.Menu.Up=ä¸Šç§»
 
-PropertyHandleTableViewer.Menu.Down=ÏÂÒÆ
+PropertyHandleTableViewer.Menu.Down=ä¸‹ç§»
 
-PropertyHandleTableViewer.Menu.RemoveAll=È«²¿É¾³ı
+PropertyHandleTableViewer.Menu.RemoveAll=å…¨éƒ¨åˆ é™¤
 
 ###########################################################
 #PropertyHandleInputDialog properties
-PropertyHandleInputDialog.Action.New=ĞÂ½¨
+PropertyHandleInputDialog.Action.New=æ–°å»º
 
-PropertyHandleInputDialog.Action.Edit=±à¼­
+PropertyHandleInputDialog.Action.Edit=ç¼–è¾‘
 
-PropertyHandleInputDialog.messages.error.blankProperty={0} ²»ÄÜÎª¿Õ°×
+PropertyHandleInputDialog.messages.error.blankProperty={0} ä¸èƒ½ä¸ºç©ºç™½
 
 ###########################################################
 #PropertyAndPreferencePage properties
-PropertyAndPreferencePage.Text.Configure.Special.Settings=ÅäÖÃÏîÄ¿ÌØ¶¨ÉèÖÃ...
+PropertyAndPreferencePage.Text.Configure.Special.Settings=é…ç½®é¡¹ç›®ç‰¹å®šè®¾ç½®...
 
-PropertyAndPreferencePage.Text.Configure.Workspace.Settings=ÅäÖÃ¹¤×÷ÇøÉèÖÃ...
+PropertyAndPreferencePage.Text.Configure.Workspace.Settings=é…ç½®å·¥ä½œåŒºè®¾ç½®...
 
-PropertyAndPreferencePage.Text.Enable.SpecialSettings=ÆôÓÃÏîÄ¿ÌØ¶¨ÉèÖÃ(&O)
+PropertyAndPreferencePage.Text.Enable.SpecialSettings=å¯ç”¨é¡¹ç›®ç‰¹å®šè®¾ç½®(&O)
 
 ###########################################################
 #PublishTemplateAction properties
-PublishTemplateAction.wizard.page.browse.cheatsheet.title=Ñ¡Ôñ±¸Íüµ¥ÎÄ¼ş
+PublishTemplateAction.wizard.page.browse.cheatsheet.title=é€‰æ‹©å¤‡å¿˜å•æ–‡ä»¶
 
-PublishTemplateAction.wizard.page.browse.title=Ñ¡ÔñÍ¼ÏñÎÄ¼ş
+PublishTemplateAction.wizard.page.browse.title=é€‰æ‹©å›¾åƒæ–‡ä»¶
 
-PublishTemplateAction.wizard.page.btn.browse=ä¯ÀÀ(&W)...
+PublishTemplateAction.wizard.page.btn.browse=æµè§ˆ(&W)...
 
-PublishTemplateAction.wizard.page.cheatsheetError=±¸Íüµ¥ÎÄ¼ş ''{0}'' ²»´æÔÚ¡£
+PublishTemplateAction.wizard.page.cheatsheetError=å¤‡å¿˜å•æ–‡ä»¶ ''{0}'' ä¸å­˜åœ¨ã€‚
 
-PublishTemplateAction.wizard.page.desc=×¢²áÄ£°åÖÁÄ£°åÎÄ¼ş¼Ğ¡£
+PublishTemplateAction.wizard.page.desc=æ³¨å†Œæ¨¡æ¿è‡³æ¨¡æ¿æ–‡ä»¶å¤¹ã€‚
 
-PublishTemplateAction.wizard.page.imageError=Í¼ÏñÎÄ¼ş ''{0}'' ²»´æÔÚ¡£
+PublishTemplateAction.wizard.page.imageError=å›¾åƒæ–‡ä»¶ ''{0}'' ä¸å­˜åœ¨ã€‚
 
-PublishTemplateAction.wizard.page.label.cheatsheet=±¸Íüµ¥ÎÄ¼ş:
+PublishTemplateAction.wizard.page.label.cheatsheet=å¤‡å¿˜å•æ–‡ä»¶:
 
-PublishTemplateAction.wizard.page.label.description=ÃèÊö(&D):
+PublishTemplateAction.wizard.page.label.description=æè¿°(&D):
 
-PublishTemplateAction.wizard.page.label.displayName=ÏÔÊ¾Ãû³Æ(&M):
+PublishTemplateAction.wizard.page.label.displayName=æ˜¾ç¤ºåç§°(&M):
 
-PublishTemplateAction.wizard.page.label.image=Ä£°åÍ¼Ïñ(&I):
+PublishTemplateAction.wizard.page.label.image=æ¨¡æ¿å›¾åƒ(&I):
 
-PublishTemplateAction.wizard.page.title=·¢²¼Ä£°å
+PublishTemplateAction.wizard.page.title=å‘å¸ƒæ¨¡æ¿
 
-PublishTemplateAction.wizard.title=·¢²¼Ä£°å
+PublishTemplateAction.wizard.title=å‘å¸ƒæ¨¡æ¿
 
-PublishTemplateAction.wizard.errorTitle=´íÎó
+PublishTemplateAction.wizard.errorTitle=é”™è¯¯
 
-PublishTemplateAction.wizard.message=ÎŞ·¨½«Ä£°å·¢²¼µ½ÆäËùÔÚµÄÄ¿Â¼£¬ÇëÑ¡ÔñÆäËüÄ¿Â¼½øĞĞ·¢²¼¡£
+PublishTemplateAction.wizard.message=æ— æ³•å°†æ¨¡æ¿å‘å¸ƒåˆ°å…¶æ‰€åœ¨çš„ç›®å½•ï¼Œè¯·é€‰æ‹©å…¶å®ƒç›®å½•è¿›è¡Œå‘å¸ƒã€‚
 
-PublishTemplateAction.wizard.msgDirErr=Ä¿±êÄ¿Â¼²»´æÔÚ£¬µ«ÎŞ·¨´´½¨¡£
+PublishTemplateAction.wizard.msgDirErr=ç›®æ ‡ç›®å½•ä¸å­˜åœ¨ï¼Œä½†æ— æ³•åˆ›å»ºã€‚
 
-PublishTemplateAction.wizard.notvalidfolder=Ê×Ñ¡ÏîÖĞ¶¨ÒåµÄÄ£°åÎÄ¼ş¼ĞÎŞĞ§¡£
+PublishTemplateAction.wizard.notvalidfolder=é¦–é€‰é¡¹ä¸­å®šä¹‰çš„æ¨¡æ¿æ–‡ä»¶å¤¹æ— æ•ˆã€‚
 
-PublishTemplateAction.wizard.page.nameInfo=±ØĞëÌá¹©ÏÔÊ¾Ãû³Æ
+PublishTemplateAction.wizard.page.nameInfo=å¿…é¡»æä¾›æ˜¾ç¤ºåç§°
 
-PublishTemplateAction.wizard.message.SourceFileNotExist=Ô´ÎÄ¼ş²»´æÔÚ¡£
+PublishTemplateAction.wizard.message.SourceFileNotExist=æºæ–‡ä»¶ä¸å­˜åœ¨ã€‚
 
-PublishTemplateAction.wizard.message.ThumbnailImageNotExist=ËõÂÔÍ¼²»´æÔÚ¡£
+PublishTemplateAction.wizard.message.ThumbnailImageNotExist=ç¼©ç•¥å›¾ä¸å­˜åœ¨ã€‚
 
-PublishTemplateAction.wizard.message.PreviewImageNotExist=Ô¤ÀÀÍ¼ÏñÎÄ¼ş²»´æÔÚ¡£
+PublishTemplateAction.wizard.message.PreviewImageNotExist=é¢„è§ˆå›¾åƒæ–‡ä»¶ä¸å­˜åœ¨ã€‚
 
-PublishTemplateAction.wizard.message.PreviewImageNotValid=Ô¤ÀÀÍ¼ÏñÎÄ¼ş²»ÊÇÓĞĞ§µÄÍ¼Ïñ¡£
+PublishTemplateAction.wizard.message.PreviewImageNotValid=é¢„è§ˆå›¾åƒæ–‡ä»¶ä¸æ˜¯æœ‰æ•ˆçš„å›¾åƒã€‚
 
-PublishTemplateAction.SaveBeforeGenerating.dialog.title=±£´æ±¨±í
+PublishTemplateAction.SaveBeforeGenerating.dialog.title=ä¿å­˜æŠ¥è¡¨
 
-PublishTemplateAction.SaveBeforeGenerating.dialog.message={0} ÒÑ±»ĞŞ¸Ä¡£ ·¢²¼Ö®Ç°±£´æ¸ü¸Ä?
+PublishTemplateAction.SaveBeforeGenerating.dialog.message={0} å·²è¢«ä¿®æ”¹ã€‚ å‘å¸ƒä¹‹å‰ä¿å­˜æ›´æ”¹?
 
-PublishTemplateAction.SaveBeforeGenerating.dialog.button.yes=ÊÇ(&Y)
+PublishTemplateAction.SaveBeforeGenerating.dialog.button.yes=æ˜¯(&Y)
 
-PublishTemplateAction.SaveBeforeGenerating.dialog.button.no=·ñ(&N)
+PublishTemplateAction.SaveBeforeGenerating.dialog.button.no=å¦(&N)
 ###########################################################
 #PublishLibraryAction properties
-PublishLibraryAction.wizard.errorTitle=´íÎó
+PublishLibraryAction.wizard.errorTitle=é”™è¯¯
 
-PublishLibraryAction.wizard.message=ÎŞ·¨½«¿â·¢²¼µ½ÆäËùÔÚµÄÄ¿Â¼£¬ÇëÑ¡ÔñÆäËüÄ¿Â¼½øĞĞ·¢²¼¡£
+PublishLibraryAction.wizard.message=æ— æ³•å°†åº“å‘å¸ƒåˆ°å…¶æ‰€åœ¨çš„ç›®å½•ï¼Œè¯·é€‰æ‹©å…¶å®ƒç›®å½•è¿›è¡Œå‘å¸ƒã€‚
 
-PublishLibraryAction.wizard.msgDirErr=Ä¿±êÄ¿Â¼²»´æÔÚ£¬µ«ÎŞ·¨´´½¨¡£
+PublishLibraryAction.wizard.msgDirErr=ç›®æ ‡ç›®å½•ä¸å­˜åœ¨ï¼Œä½†æ— æ³•åˆ›å»ºã€‚
 
-PublishLibraryAction.wizard.message.SourceFileNotExist=Ô´ÎÄ¼ş²»´æÔÚ¡£
+PublishLibraryAction.wizard.message.SourceFileNotExist=æºæ–‡ä»¶ä¸å­˜åœ¨ã€‚
 
-PublishLibraryAction.wizard.notvalidfolder=Ê×Ñ¡ÏîÖĞ¶¨ÒåµÄ¿âÎÄ¼ş¼ĞÎŞĞ§¡£
+PublishLibraryAction.wizard.notvalidfolder=é¦–é€‰é¡¹ä¸­å®šä¹‰çš„åº“æ–‡ä»¶å¤¹æ— æ•ˆã€‚
 
 ###########################################################
 #RedoAction properties
-RedoAction.Tooltip=»Ö¸´ {0}
+RedoAction.Tooltip=æ¢å¤ {0}
 
 ###########################################################
 #ExportReportWizard
-ExportToLibraryAction.wizard.windowTitle=µ¼³ö
+ExportToLibraryAction.wizard.windowTitle=å¯¼å‡º
 
-ExportToLibraryAction.wizard.page.title=ÎÄ¼şµ¼³öµ½¿â
+ExportToLibraryAction.wizard.page.title=æ–‡ä»¶å¯¼å‡ºåˆ°åº“
 
-ExportToLibraryAction.wizard.page.desc=±¨±íÉè¼Æµ¼³öµ½¿â
+ExportToLibraryAction.wizard.page.desc=æŠ¥è¡¨è®¾è®¡å¯¼å‡ºåˆ°åº“
 
-ExportToLibraryAction.wizard.page.label.filename=ÎÄ¼şÃû(&N):
+ExportToLibraryAction.wizard.page.label.filename=æ–‡ä»¶å(&N):
 
-ExportToLibraryAction.wizard.page.label.folder=ÎÄ¼ş¼Ğ(&F):
+ExportToLibraryAction.wizard.page.label.folder=æ–‡ä»¶å¤¹(&F):
 
-ExportToLibraryAction.wizard.page.button.browser=ä¯ÀÀ(&B)...
+ExportToLibraryAction.wizard.page.button.browser=æµè§ˆ(&B)...
 
-ExportToLibraryAction.wizard.page.dirdialog.message=Ñ¡ÔñÎÄ¼şÄÚÈİÄ¿Â¼
+ExportToLibraryAction.wizard.page.dirdialog.message=é€‰æ‹©æ–‡ä»¶å†…å®¹ç›®å½•
 
-ExportToLibraryAction.wizard.page.nameempty=±ØĞëÖ¸¶¨ÎÄ¼şÃû¡£
+ExportToLibraryAction.wizard.page.nameempty=å¿…é¡»æŒ‡å®šæ–‡ä»¶åã€‚
 
-ExportToLibraryAction.wizard.page.folderempty=±ØĞëÖ¸¶¨ÎÄ¼ş¼Ğ¡£
+ExportToLibraryAction.wizard.page.folderempty=å¿…é¡»æŒ‡å®šæ–‡ä»¶å¤¹ã€‚
 
-ExportToLibraryAction.wizard.page.foldererror=Ö¸¶¨µÄÎÄ¼ş¼Ğ²»´æÔÚ
+ExportToLibraryAction.wizard.page.foldererror=æŒ‡å®šçš„æ–‡ä»¶å¤¹ä¸å­˜åœ¨
 
 ###########################################################
 #PublishLibraryToResourceFolderAction
-PublishLibraryToResourceFolderAction.Action.Text=½«¿â¸´ÖÆµ½¹²Ïí×ÊÔ´ÎÄ¼ş¼Ğ...
+PublishLibraryToResourceFolderAction.Action.Text=å°†åº“å¤åˆ¶åˆ°å…±äº«èµ„æºæ–‡ä»¶å¤¹...
 
 ###########################################################
 #PublishTemplateViewAction
 DefaultNodeProvider.template.suffix=.rpttemplate
-PublishTemplateViewAction.action.displaytext=Ê¹ÓÃĞÂ½¨±¨±íÏòµ¼À´×¢²áÄ£°å(&Z)...
+PublishTemplateViewAction.action.displaytext=ä½¿ç”¨æ–°å»ºæŠ¥è¡¨å‘å¯¼æ¥æ³¨å†Œæ¨¡æ¿(&Z)...
 
 ###########################################################
 #RefreshModuleHandleAction
-RefreshModuleHandleAction.Action.Text=Ë¢ĞÂ¿â(&L)
+RefreshModuleHandleAction.Action.Text=åˆ·æ–°åº“(&L)
 
-RefreshModuleHandleAction.MessageBox.Title=Ë¢ĞÂ¿â
+RefreshModuleHandleAction.MessageBox.Title=åˆ·æ–°åº“
 
-RefreshModuleHandleAction.MessageBox.Text=µ±Ç°Éè¼Æ°üº¬Î´±£´æµÄ¸ü¸Ä¡£ ÊÇ·ñÏÈ±£´æÕâĞ©¸ü¸Ä?
+RefreshModuleHandleAction.MessageBox.Text=å½“å‰è®¾è®¡åŒ…å«æœªä¿å­˜çš„æ›´æ”¹ã€‚ æ˜¯å¦å…ˆä¿å­˜è¿™äº›æ›´æ”¹?
 
-RefreshModuleHandleAction.MessageBox.SaveButton=±£´æ(&S)
+RefreshModuleHandleAction.MessageBox.SaveButton=ä¿å­˜(&S)
 
-RefreshModuleHandleAction.MessageBox.DiscardButton=·ÅÆú(&D)
+RefreshModuleHandleAction.MessageBox.DiscardButton=æ”¾å¼ƒ(&D)
 
-RefreshModuleHandleAction.MessageBox.CancelButton=È¡Ïû
+RefreshModuleHandleAction.MessageBox.CancelButton=å–æ¶ˆ
 ###########################################################
 #ReloadCssStylesAction
-ReloadCssStylesAction.Action.Text=ÖØĞÂ¼ÓÔØ CSS ÎÄ¼ş(&R)
+ReloadCssStylesAction.Action.Text=é‡æ–°åŠ è½½ CSS æ–‡ä»¶(&R)
 
 ###########################################################
 #ReferencePage properties
-ReferencePage.Button.Edit=±à¼­(&D)...
+ReferencePage.Button.Edit=ç¼–è¾‘(&D)...
 
-ReferencePage.Label.Source=Ô´(&C):
+ReferencePage.Label.Source=æº(&C):
 
 ###########################################################
 #RefreshAction properties
-RefreshAction.text=Ë¢ĞÂ(&F)
+RefreshAction.text=åˆ·æ–°(&F)
 
 ###########################################################
 #RefreshLibExplorerAction properties
-RefreshLibExplorerAction.Text=Ë¢ĞÂ(&F)
+RefreshLibExplorerAction.Text=åˆ·æ–°(&F)
 
 ###########################################################
 #RemoveLibraryAction properties
-RemoveLibraryAction.Text=É¾³ı¿â(&B)
+RemoveLibraryAction.Text=åˆ é™¤åº“(&B)
 
-RemoveLibraryAction.config.Title=È·ÈÏ¿âÉ¾³ı
+RemoveLibraryAction.config.Title=ç¡®è®¤åº“åˆ é™¤
 
-RemoveLibraryAction.config.Message=ÊÇ·ñÈ·ÊµÒªÉ¾³ı´Ë¿â?
-
-###########################################################
-#UseCssInReportDesignAction properties
-UseCssInReportDesignAction.Text=ÔÚ±¨±íÉè¼ÆÖĞÊ¹ÓÃ CSS...
+RemoveLibraryAction.config.Message=æ˜¯å¦ç¡®å®è¦åˆ é™¤æ­¤åº“?
 
 ###########################################################
 #UseCssInReportDesignAction properties
-UseCssInThemeAction.Text=ÔÚ¿âÖĞÊ¹ÓÃ CSS...
+UseCssInReportDesignAction.Text=åœ¨æŠ¥è¡¨è®¾è®¡ä¸­ä½¿ç”¨ CSS...
+
+###########################################################
+#UseCssInReportDesignAction properties
+UseCssInThemeAction.Text=åœ¨åº“ä¸­ä½¿ç”¨ CSS...
 
 ###########################################################
 #RenameAction properties
-RenameAction.text=ÖØÃüÃû(&M)
+RenameAction.text=é‡å‘½å(&M)
 
 ###########################################################
 #RenameDialog properties
-RenameDialog.action.Cancel=È¡Ïû
+RenameDialog.action.Cancel=å–æ¶ˆ
 
-RenameDialog.action.Ok=\\ \\ È·¶¨
+RenameDialog.action.Ok=\\ \\ ç¡®å®š
 
-RenameDialog.text.NewName=ĞÂÃû³Æ:
+RenameDialog.text.NewName=æ–°åç§°:
 
-RenameDialog.text.Rename=ÖØÃüÃû
+RenameDialog.text.Rename=é‡å‘½å
 
-RenameDialog.text.ToolTip=Ãû³Æ²»ÄÜÎª¿Õ
+RenameDialog.text.ToolTip=åç§°ä¸èƒ½ä¸ºç©º
 
 
 ###########################################################
 #ExportElementToLibraryAction properties
-ExportElementToLibraryAction.SetNameAction.text=ÉèÖÃÃû³Æ
+ExportElementToLibraryAction.SetNameAction.text=è®¾ç½®åç§°
 
-ExportElementToLibraryAction.DialogTitle.setNameFailed=ÉèÖÃÃû³ÆÊ§°Ü
+ExportElementToLibraryAction.DialogTitle.setNameFailed=è®¾ç½®åç§°å¤±è´¥
 
-ExportElementToLibraryAction.TransLabel.Setname=ÉèÖÃÃû³Æ
+ExportElementToLibraryAction.TransLabel.Setname=è®¾ç½®åç§°
 
-ExportElementToLibraryAction.DialogTitle=ÉèÖÃÃû³Æ
+ExportElementToLibraryAction.DialogTitle=è®¾ç½®åç§°
 
-ExportElementToLibraryAction.DialogMessage=Äú¿ÉÒÔÔÚµ¼³öÖ®Ç°ÉèÖÃËùÑ¡ÔªËØµÄÃû³Æ£¬·ñÔò½«Ê¹ÓÃÄ¬ÈÏÃû³Æ¡£
+ExportElementToLibraryAction.DialogMessage=æ‚¨å¯ä»¥åœ¨å¯¼å‡ºä¹‹å‰è®¾ç½®æ‰€é€‰å…ƒç´ çš„åç§°ï¼Œå¦åˆ™å°†ä½¿ç”¨é»˜è®¤åç§°ã€‚
 
 
 ###########################################################
 #RenameInlineTool properties
-RenameInlineTool.DialogTitle.RenameFailed=ÖØÃüÃûÊ§°Ü
+RenameInlineTool.DialogTitle.RenameFailed=é‡å‘½åå¤±è´¥
 
-RenameInlineTool.TransLabel.Rename=ÖØÃüÃû
+RenameInlineTool.TransLabel.Rename=é‡å‘½å
 
 ###########################################################
 #RenameInputDialog properties
-RenameInputDialog.DialogTitle=ÖØÃüÃûÊäÈë
+RenameInputDialog.DialogTitle=é‡å‘½åè¾“å…¥
 
-RenameInputDialog.DialogMessage=ÇëÊäÈëĞÂÃû³Æ
+RenameInputDialog.DialogMessage=è¯·è¾“å…¥æ–°åç§°
 
 ###########################################################
 #report properties
-report.designer.ui.preferences.buttonadd=Ìí¼Ó(&D)...
+report.designer.ui.preferences.buttonadd=æ·»åŠ (&D)...
 
-report.designer.ui.preferences.buttonremove=É¾³ı(&R)
+report.designer.ui.preferences.buttonremove=åˆ é™¤(&R)
 
-report.designer.ui.preferences.buttonremoveall=È«²¿É¾³ı(&A)
+report.designer.ui.preferences.buttonremoveall=å…¨éƒ¨åˆ é™¤(&A)
 
-report.designer.ui.preferences.dialogtitle=´ò¿ª¿â
+report.designer.ui.preferences.dialogtitle=æ‰“å¼€åº“
 
-report.designer.ui.preferences.errormessage=¿âÒÑ¾­´æÔÚ¡£
+report.designer.ui.preferences.errormessage=åº“å·²ç»å­˜åœ¨ã€‚
 
-report.designer.ui.preferences.errortitle=´íÎó
+report.designer.ui.preferences.errortitle=é”™è¯¯
 
 report.designer.ui.preferences.extensions=*.rptlibrary
-report.designer.ui.preferences.labeltitle=Ìí¼Ó/É¾³ı¿â
+report.designer.ui.preferences.labeltitle=æ·»åŠ /åˆ é™¤åº“
 
-report.designer.ui.preferences.library.export.overwrite.always=Ê¼ÖÕ(&W)
+report.designer.ui.preferences.library.export.overwrite.always=å§‹ç»ˆ(&W)
 
-report.designer.ui.preferences.library.export.overwrite.never=´Ó²»(&N)
+report.designer.ui.preferences.library.export.overwrite.never=ä»ä¸(&N)
 
-report.designer.ui.preferences.library.export.overwrite.prompt=ÌáÊ¾(&P)
+report.designer.ui.preferences.library.export.overwrite.prompt=æç¤º(&P)
 
-report.designer.ui.preferences.library.export.title=ÔÚ½«Éè¼ÆÔªËØµ¼³öµ½¿âÖĞÊ±¸²¸ÇÏÖÓĞÔªËØ¡£
+report.designer.ui.preferences.library.export.title=åœ¨å°†è®¾è®¡å…ƒç´ å¯¼å‡ºåˆ°åº“ä¸­æ—¶è¦†ç›–ç°æœ‰å…ƒç´ ã€‚
 
-report.designer.ui.preferences.template.openDialogTitle=ÎÄ¼ş¼ĞÑ¡Ôñ
+report.designer.ui.preferences.template.openDialogTitle=æ–‡ä»¶å¤¹é€‰æ‹©
 
-report.designer.ui.preferences.template.select=Ñ¡Ôñ(&S)...
+report.designer.ui.preferences.template.select=é€‰æ‹©(&S)...
 
-report.designer.ui.preferences.template.templatedir=Ä£°å
+report.designer.ui.preferences.template.templatedir=æ¨¡æ¿
 
-report.designer.ui.preferences.template.templatefolder=Ä£°åÎÄ¼ş¼Ğ(&T)
+report.designer.ui.preferences.template.templatefolder=æ¨¡æ¿æ–‡ä»¶å¤¹(&T)
 
-report.designer.ui.preferences.template.title=ÇëÑ¡ÔñÄ£°åÎÄ¼ş¼Ğ¡£
+report.designer.ui.preferences.template.title=è¯·é€‰æ‹©æ¨¡æ¿æ–‡ä»¶å¤¹ã€‚
 
-org.eclipse.birt.report.designer.ui.preference.commenttemplates.enablecomment=´´½¨±¨±íÉè¼ÆÊ±Éú³É×¢ÊÍ(&G)
+org.eclipse.birt.report.designer.ui.preference.commenttemplates.enablecomment=åˆ›å»ºæŠ¥è¡¨è®¾è®¡æ—¶ç”Ÿæˆæ³¨é‡Š(&G)
 
-org.eclipse.birt.report.designer.ui.preference.commenttemplates.defaultcomment=°æÈ¨ËùÓĞ (c) 2008 <<´Ë´¦ÊÇÄú¹«Ë¾µÄÃû³Æ>>
+org.eclipse.birt.report.designer.ui.preference.commenttemplates.defaultcomment=ç‰ˆæƒæ‰€æœ‰ (c) 2008 <<æ­¤å¤„æ˜¯æ‚¨å…¬å¸çš„åç§°>>
 #bidi_hcg start
-report.designer.ui.preferences.bidiproperties.defaultdirection=Ä¬ÈÏ±¨±í·½Ïò(&O):
+report.designer.ui.preferences.bidiproperties.defaultdirection=é»˜è®¤æŠ¥è¡¨æ–¹å‘(&O):
 
-report.designer.ui.preferences.bidiproperties.ltrdirection=´Ó×óµ½ÓÒ
+report.designer.ui.preferences.bidiproperties.ltrdirection=ä»å·¦åˆ°å³
 
-report.designer.ui.preferences.bidiproperties.rtldirection=´ÓÓÒµ½×ó
+report.designer.ui.preferences.bidiproperties.rtldirection=ä»å³åˆ°å·¦
 #bidi_hcg end
 ###########################################################
 #Resource Preference page properties
-ResourecePreferencePage.title=¼üÈë»òÑ¡ÔñÒªÓÃÓÚ¿â×ÊÔ´¹ÜÀíÆ÷¡¢Í¼Ïñ¡¢\nÊôĞÔÎÄ¼şµÈµÄÄ¬ÈÏ×ÊÔ´ÎÄ¼ş¼Ğ¡£
+ResourecePreferencePage.title=é”®å…¥æˆ–é€‰æ‹©è¦ç”¨äºåº“èµ„æºç®¡ç†å™¨ã€å›¾åƒã€\nå±æ€§æ–‡ä»¶ç­‰çš„é»˜è®¤èµ„æºæ–‡ä»¶å¤¹ã€‚
 
-ResourecePreferencePage.folder=×ÊÔ´ÎÄ¼ş¼Ğ(&R)
+ResourecePreferencePage.folder=èµ„æºæ–‡ä»¶å¤¹(&R)
 
-ResourecePreferencePage.select=Ñ¡Ôñ(&S)...
+ResourecePreferencePage.select=é€‰æ‹©(&S)...
 
-ResourecePreferencePage.openDialogTitle=ä¯ÀÀÎÄ¼ş¼Ğ
+ResourecePreferencePage.openDialogTitle=æµè§ˆæ–‡ä»¶å¤¹
 
-ResourecePreferencePage.openDialogMessage=ÇëÑ¡ÔñÄ¬ÈÏ×ÊÔ´ÎÄ¼ş¼Ğ:
+ResourecePreferencePage.openDialogMessage=è¯·é€‰æ‹©é»˜è®¤èµ„æºæ–‡ä»¶å¤¹:
 
-ResourecePreferencePage.defaultResourceFolder.dispaly=<µ±Ç°ÏîÄ¿ÎÄ¼ş¼Ğ>
+ResourecePreferencePage.defaultResourceFolder.dispaly=<å½“å‰é¡¹ç›®æ–‡ä»¶å¤¹>
 
 ###########################################################
 #ReportAdvancedLauncherTab properties
-ReportAdvancedLauncherTab.DefaultsButtonText=»¹Ô­Ä¬ÈÏÖµ(&R)
+ReportAdvancedLauncherTab.DefaultsButtonText=è¿˜åŸé»˜è®¤å€¼(&R)
 
-ReportAdvancedLauncherTab.DeselectButtonText=È¡ÏûÈ«Ñ¡(&D)
+ReportAdvancedLauncherTab.DeselectButtonText=å–æ¶ˆå…¨é€‰(&D)
 
-ReportAdvancedLauncherTab.Name=±¨±íÏîÄ¿
+ReportAdvancedLauncherTab.Name=æŠ¥è¡¨é¡¹ç›®
 
-ReportAdvancedLauncherTab.SelectAllButtonText=È«Ñ¡(&S)
+ReportAdvancedLauncherTab.SelectAllButtonText=å…¨é€‰(&S)
 
-ReportAdvancedLauncherTab.UseListRadioText=´ÓÁĞ±íÖĞÑ¡ÔñÒªÆô¶¯µÄÏîÄ¿
+ReportAdvancedLauncherTab.UseListRadioText=ä»åˆ—è¡¨ä¸­é€‰æ‹©è¦å¯åŠ¨çš„é¡¹ç›®
 
-ReportAdvancedLauncherTab.VisibleLabelText=¿ÉÓÃÏîÄ¿(&A)
+ReportAdvancedLauncherTab.VisibleLabelText=å¯ç”¨é¡¹ç›®(&A)
 
-ReportAdvancedLauncherTab.WorkspaceReportProjects=¹¤×÷Çø±¨±íÏîÄ¿
+ReportAdvancedLauncherTab.WorkspaceReportProjects=å·¥ä½œåŒºæŠ¥è¡¨é¡¹ç›®
 
 ###########################################################
 #ReportClasspathLaucnTab properties
-ReportClasspathLaucnTab.DefaultButtonText=»¹Ô­Ä¬ÈÏÖµ(&R)
+ReportClasspathLaucnTab.DefaultButtonText=è¿˜åŸé»˜è®¤å€¼(&R)
 
-ReportClasspathLaucnTab.DeselectButtonText=È¡ÏûÈ«Ñ¡(&D)
+ReportClasspathLaucnTab.DeselectButtonText=å–æ¶ˆå…¨é€‰(&D)
 
-ReportClasspathLaucnTab.Name=Java ÏîÄ¿
+ReportClasspathLaucnTab.Name=Java é¡¹ç›®
 
-ReportClasspathLaucnTab.SelectAllButtonText=È«Ñ¡(&S)
+ReportClasspathLaucnTab.SelectAllButtonText=å…¨é€‰(&S)
 
-ReportClasspathLaucnTab.UseListRadioText=´ÓÁĞ±íÖĞÑ¡ÔñÒªÆô¶¯µÄÏîÄ¿£¬Ñ¡ÔñÏîÄ¿µÄÀàÊä³öÎÄ¼ş¼Ğ½«±»Ìí¼Óµ½ÀàÂ·¾¶ÖĞ
+ReportClasspathLaucnTab.UseListRadioText=ä»åˆ—è¡¨ä¸­é€‰æ‹©è¦å¯åŠ¨çš„é¡¹ç›®ï¼Œé€‰æ‹©é¡¹ç›®çš„ç±»è¾“å‡ºæ–‡ä»¶å¤¹å°†è¢«æ·»åŠ åˆ°ç±»è·¯å¾„ä¸­
 
-ReportClasspathLaucnTab.VisibleLabelText=¿ÉÓÃÏîÄ¿(&A)
+ReportClasspathLaucnTab.VisibleLabelText=å¯ç”¨é¡¹ç›®(&A)
 
-ReportClasspathLaucnTab.WorkspaceJavaProjects=¹¤×÷Çø java ÏîÄ¿
+ReportClasspathLaucnTab.WorkspaceJavaProjects=å·¥ä½œåŒº java é¡¹ç›®
 
 ###########################################################
 #ReportCreationTool properties
-ReportCreationTool.ModelTrans.CreateElement=²åÈëÔªËØ
+ReportCreationTool.ModelTrans.CreateElement=æ’å…¥å…ƒç´ 
 
 ###########################################################
 #ReportEditor properties
-ReportEditor.Button.Close=¹Ø±Õ
+ReportEditor.Button.Close=å…³é—­
 
-ReportEditor.Button.Save=±£´æ
+ReportEditor.Button.Save=ä¿å­˜
 
-ReportEditor.Dlg.Confirm=ÎÄ¼şÒÑ´ÓÎÄ¼şÏµÍ³ÖĞÉ¾³ı¡£ÊÇÒª±£´æ¸ü¸Ä»¹ÊÇÒª¹Ø±Õ±à¼­Æ÷¶ø²»±£´æ£¿
+ReportEditor.Dlg.Confirm=æ–‡ä»¶å·²ä»æ–‡ä»¶ç³»ç»Ÿä¸­åˆ é™¤ã€‚æ˜¯è¦ä¿å­˜æ›´æ”¹è¿˜æ˜¯è¦å…³é—­ç¼–è¾‘å™¨è€Œä¸ä¿å­˜ï¼Ÿ
 
-ReportEditor.Dlg.Save=±£´æ...
+ReportEditor.Dlg.Save=ä¿å­˜...
 
-ReportEditor.error.activated.outofsync.message=ÎÄ¼şÏµÍ³ÉÏµÄÎÄ¼şÒÑ¸ü¸Ä¡£ÊÇ·ñÒª¼ÓÔØ¸ü¸Ä£¿
+ReportEditor.error.activated.outofsync.message=æ–‡ä»¶ç³»ç»Ÿä¸Šçš„æ–‡ä»¶å·²æ›´æ”¹ã€‚æ˜¯å¦è¦åŠ è½½æ›´æ”¹ï¼Ÿ
 
-ReportEditor.error.activated.outofsync.title=ÎÄ¼şÒÑ¸ü¸Ä
+ReportEditor.error.activated.outofsync.title=æ–‡ä»¶å·²æ›´æ”¹
 
-ReportEditor.Error.Open=´ò¿ª´íÎó
+ReportEditor.Error.Open=æ‰“å¼€é”™è¯¯
 
-ReportEditor.Error.OpenEditor=ÎŞ·¨´ò¿ªÎÄ¼ş¡£
+ReportEditor.Error.OpenEditor=æ— æ³•æ‰“å¼€æ–‡ä»¶ã€‚
 
-ReportEditor.Page.Code=½Å±¾
+ReportEditor.Page.Code=è„šæœ¬
 
-ReportEditor.Page.Layout=²¼¾Ö
+ReportEditor.Page.Layout=å¸ƒå±€
 
 ReportEditor.Page.MasterPage=MasterPage
-ReportEditor.Page.Preview=Ô¤ÀÀ
+ReportEditor.Page.Preview=é¢„è§ˆ
 
-ReportEditor.Page.PreviewSaveMessage=±¨±íÎÄ¼şÒÑ±»ĞŞ¸Ä¡£ÔÚÔ¤ÀÀÖ®Ç°ÊÇ·ñÒª±£´æ¸ÃÎÄ¼ş£¿
+ReportEditor.Page.PreviewSaveMessage=æŠ¥è¡¨æ–‡ä»¶å·²è¢«ä¿®æ”¹ã€‚åœ¨é¢„è§ˆä¹‹å‰æ˜¯å¦è¦ä¿å­˜è¯¥æ–‡ä»¶ï¼Ÿ
 
-ReportEditor.Page.PreviewSaveTitle=±£´æ
+ReportEditor.Page.PreviewSaveTitle=ä¿å­˜
 
-ReportEditor.Page.PreviewSaveToggle=Ê¼ÖÕÔÚÔ¤ÀÀÇ°±£´æÎÄ¼ş¡£
+ReportEditor.Page.PreviewSaveToggle=å§‹ç»ˆåœ¨é¢„è§ˆå‰ä¿å­˜æ–‡ä»¶ã€‚
 
 ###########################################################
 #ReportLaunchConfigurationDelegate properties
-ReportLaunchConfigurationDelegate.badFeatureSetup=´íÎóµÄ¹¦ÄÜÉèÖÃ
+ReportLaunchConfigurationDelegate.badFeatureSetup=é”™è¯¯çš„åŠŸèƒ½è®¾ç½®
 
-ReportLaunchConfigurationDelegate.noStartup=ÎŞÆô¶¯
+ReportLaunchConfigurationDelegate.noStartup=æ— å¯åŠ¨
 
 ###########################################################
 #ReportPage properties
-ReportPage.text.Add=Ìí¼Ó(&A)...
+ReportPage.text.Add=æ·»åŠ (&A)...
 
-ReportPage.text.Browse=ä¯ÀÀ(&B)...
+ReportPage.text.Browse=æµè§ˆ(&B)...
 
-ReportPage.title.Location=Î»ÖÃ:
+ReportPage.title.Location=ä½ç½®:
 
-ReportPage.title.setPrewImg=Ñ¡ÔñÍ¼ÏñÎÄ¼ş
+ReportPage.title.setPrewImg=é€‰æ‹©å›¾åƒæ–‡ä»¶
 
-ReportPage.text.Resource.Add=ä¯ÀÀ(&B)...
+ReportPage.text.Resource.Add=æµè§ˆ(&B)...
 
-ReportPage.text.Thumbnail=ËõÂÔÍ¼(&H)...
+ReportPage.text.Thumbnail=ç¼©ç•¥å›¾(&H)...
 
 ###########################################################
 #ReportPageGenerator properties
-ReportPageGenerator.List.Comments=±¸×¢
+ReportPageGenerator.List.Comments=å¤‡æ³¨
 
-ReportPageGenerator.List.Description=ÃèÊö
+ReportPageGenerator.List.Description=æè¿°
 
-ReportPageGenerator.List.EventHandler=ÊÂ¼ş´¦Àí³ÌĞò
+ReportPageGenerator.List.EventHandler=äº‹ä»¶å¤„ç†ç¨‹åº
 
-ReportPageGenerator.List.General=³£¹æ
+ReportPageGenerator.List.General=å¸¸è§„
 
-ReportPageGenerator.List.Measurement=¶ÈÁ¿
+ReportPageGenerator.List.Measurement=åº¦é‡
 
-ReportPageGenerator.List.NamedExpressions=ÃüÃû±í´ïÊ½
+ReportPageGenerator.List.NamedExpressions=å‘½åè¡¨è¾¾å¼
 
-ReportPageGenerator.List.UserProperties=ÓÃ»§ÊôĞÔ
+ReportPageGenerator.List.UserProperties=ç”¨æˆ·å±æ€§
 
-ReportPageGenerator.List.Resources=×ÊÔ´
+ReportPageGenerator.List.Resources=èµ„æº
 
-ReportPageGenerator.List.Resources.JarFile=Jar ÎÄ¼ş:
+ReportPageGenerator.List.Resources.JarFile=Jar æ–‡ä»¶:
 
-ReportPageGenerator.List.AdvancedProperty=¸ß¼¶
+ReportPageGenerator.List.AdvancedProperty=é«˜çº§
 
 #OdaDataSourceGenerator properties
-DataSourcePageGenerator.List.General=³£¹æ
+DataSourcePageGenerator.List.General=å¸¸è§„
 
 #OdaDataSetGenerator properties
-DataSetPageGenerator.List.General=³£¹æ
+DataSetPageGenerator.List.General=å¸¸è§„
 
-DataSetPageGenerator.DataSourceName=Êı¾İÔ´(&D)
+DataSetPageGenerator.DataSourceName=æ•°æ®æº(&D)
 
 #ScalarParameterPageGenerator properties
-ScalarParameterPageGenerator.List.General=³£¹æ
+ScalarParameterPageGenerator.List.General=å¸¸è§„
 
-ScalarParameterPageGenerator.List.I18n=±¾µØ»¯
+ScalarParameterPageGenerator.List.I18n=æœ¬åœ°åŒ–
 
 #TemplateReportItemPageGenerator properties
-TemplateReportItemPageGenerator.List.General=³£¹æ
+TemplateReportItemPageGenerator.List.General=å¸¸è§„
 
-TemplateReportItemPage.description.Label.Instructions=ËµÃ÷(&I):
+TemplateReportItemPage.description.Label.Instructions=è¯´æ˜(&I):
 
-TemplateReportItemPageGenerator.List.I18n=±¾µØ»¯
+TemplateReportItemPageGenerator.List.I18n=æœ¬åœ°åŒ–
 
-TemplateReportItemPageGenerator.List.TextKey=ÎÄ±¾¹Ø¼ü×Ö:
+TemplateReportItemPageGenerator.List.TextKey=æ–‡æœ¬å…³é”®å­—:
 
 ###########################################################
 #ReportPropertySheetPage properties
-ReportPropertySheetPage.Column.Title.Property=ÊôĞÔ
+ReportPropertySheetPage.Column.Title.Property=å±æ€§
 
-ReportPropertySheetPage.Column.Title.Value=Öµ
+ReportPropertySheetPage.Column.Title.Value=å€¼
 
-ReportPropertySheetPage.Root.Default.Title=ĞÅÏ¢
+ReportPropertySheetPage.Root.Default.Title=ä¿¡æ¯
 
-ReportPropertySheetPage.Tooltip.Alphabetic=°´×ÖÄ¸ÅÅĞò
+ReportPropertySheetPage.Tooltip.Alphabetic=æŒ‰å­—æ¯æ’åº
 
-ReportPropertySheetPage.Tooltip.Group=°´×éÅÅĞò
+ReportPropertySheetPage.Tooltip.Group=æŒ‰ç»„æ’åº
 
-ReportPropertySheetPage.Tooltip.Local=ÏÔÊ¾±¾µØÊôĞÔ
+ReportPropertySheetPage.Tooltip.Local=æ˜¾ç¤ºæœ¬åœ°å±æ€§
 
-ReportPropertySheetPage.Value.Inherited=ÒÑ¼Ì³Ğ
+ReportPropertySheetPage.Value.Inherited=å·²ç»§æ‰¿
 
 ###########################################################
 #ReportTemplateTransferDropTargetListener properties
-ReportTemplateTransferDropTargetListener.ModelTrans.CreateElement=´´½¨ÔªËØ
+ReportTemplateTransferDropTargetListener.ModelTrans.CreateElement=åˆ›å»ºå…ƒç´ 
 
-ReportTemplateTransferDropTargetListener.transLabel.createElement=²åÈëÔªËØ
+ReportTemplateTransferDropTargetListener.transLabel.createElement=æ’å…¥å…ƒç´ 
 
 ###########################################################
 #ResourceEditDialog properties
-ResourceEditDialog.message.AddNote=¡°¿ìËÙÌí¼Ó¡±½«¹Ø¼ü×Ö±£´æÖÁµ±Ç°×ÊÔ´ÎÄ¼ş¡£
+ResourceEditDialog.message.AddNote=â€œå¿«é€Ÿæ·»åŠ â€å°†å…³é”®å­—ä¿å­˜è‡³å½“å‰èµ„æºæ–‡ä»¶ã€‚
 
-ResourceEditDialog.message.ResourceFile=×ÊÔ´ÎÄ¼ş:
+ResourceEditDialog.message.ResourceFile=èµ„æºæ–‡ä»¶:
 
-ResourceEditDialog.text.Add=Ìí¼Ó(&A)
+ResourceEditDialog.text.Add=æ·»åŠ (&A)
 
-ResourceEditDialog.text.AddWarningMsg=²»ÔÊĞí¿Õ°×¼ü¡£
+ResourceEditDialog.text.AddWarningMsg=ä¸å…è®¸ç©ºç™½é”®ã€‚
 
-ResourceEditDialog.text.AddWarningTitle=¾¯¸æ
+ResourceEditDialog.text.AddWarningTitle=è­¦å‘Š
 
-ResourceEditDialog.text.Delete=É¾³ı(&D)
+ResourceEditDialog.text.Delete=åˆ é™¤(&D)
 
-ResourceEditDialog.text.Key.TableColumn=¹Ø¼ü×Ö
+ResourceEditDialog.text.Key.TableColumn=å…³é”®å­—
 
-ResourceEditDialog.text.Key=¹Ø¼ü×Ö(&K)
+ResourceEditDialog.text.Key=å…³é”®å­—(&K)
 
-ResourceEditDialog.text.QuickAdd=¿ìËÙÌí¼Ó
+ResourceEditDialog.text.QuickAdd=å¿«é€Ÿæ·»åŠ 
 
-ResourceEditDialog.text.Value.TableColumn=Öµ
+ResourceEditDialog.text.Value.TableColumn=å€¼
 
-ResourceEditDialog.text.Value=Öµ(&V)
+ResourceEditDialog.text.Value=å€¼(&V)
 
 ###########################################################
 #ResourceKeyDescriptor properties
-ResourceKeyDescriptor.text.Browse=ä¯ÀÀ(&B)...
+ResourceKeyDescriptor.text.Browse=æµè§ˆ(&B)...
 
-ResourceKeyDescriptor.text.Browse.Alt=ä¯ÀÀ(&W)...
+ResourceKeyDescriptor.text.Browse.Alt=æµè§ˆ(&W)...
 
-ResourceKeyDescriptor.text.Reset=ÖØÖÃ(&R)
+ResourceKeyDescriptor.text.Reset=é‡ç½®(&R)
 
-ResourceKeyDescriptor.text.Reset.Alt=ÖØÖÃ(&E)
+ResourceKeyDescriptor.text.Reset.Alt=é‡ç½®(&E)
 
-ResourceKeyDescriptor.title.SelectKey=Ñ¡Ôñ¹Ø¼ü×Ö
+ResourceKeyDescriptor.title.SelectKey=é€‰æ‹©å…³é”®å­—
 
-ResourceKeyDescriptor.button.reset.tooltip=ÖØÖÃ°´¼ü
+ResourceKeyDescriptor.button.reset.tooltip=é‡ç½®æŒ‰é”®
 
-ResourceKeyDescriptor.button.browse.tooltip=ä¯ÀÀºÍÑ¡Ôñ°´¼ü
+ResourceKeyDescriptor.button.browse.tooltip=æµè§ˆå’Œé€‰æ‹©æŒ‰é”®
 
-ResourceKey.invalid.containSpace=ÏÔÊ¾Ãû³Æ¹Ø¼ü×ÖÎŞĞ§£¬Ëü²»Ó¦°üº¬ÈÎºÎÇ¶Èë¿Õ¸ñ
+ResourceKey.invalid.containSpace=æ˜¾ç¤ºåç§°å…³é”®å­—æ— æ•ˆï¼Œå®ƒä¸åº”åŒ…å«ä»»ä½•åµŒå…¥ç©ºæ ¼
 ###########################################################
 #RevertToReportItemAction properties
-RevertToReportItemAction.text=»Ø¸´µ½±¨±íÏî(&R)
+RevertToReportItemAction.text=å›å¤åˆ°æŠ¥è¡¨é¡¹(&R)
 
 ###########################################################
 #RevertToTemplateAction properties
-RevertToTemplateAction.text=»¹Ô­µ½Ä£°åÏî(&V)
+RevertToTemplateAction.text=è¿˜åŸåˆ°æ¨¡æ¿é¡¹(&V)
 
 ###########################################################
 #RowHandle properties
-RowHandle.tooltip.GridRow=Íø¸ñ - ĞĞ
+RowHandle.tooltip.GridRow=ç½‘æ ¼ - è¡Œ
 
-RowHandle.tooltip.GroupFooter=±í×é - Ò³½Å
+RowHandle.tooltip.GroupFooter=è¡¨ç»„ - é¡µè„š
 
-RowHandle.tooltip.GroupHeader=±í×é - Ò³Ã¼
+RowHandle.tooltip.GroupHeader=è¡¨ç»„ - é¡µçœ‰
 
-RowHandle.tooltip.TableDetail=±í - ÏêÏ¸×ÊÁÏ
+RowHandle.tooltip.TableDetail=è¡¨ - è¯¦ç»†èµ„æ–™
 
-RowHandle.tooltip.TableFooter=±í - Ò³½Å
+RowHandle.tooltip.TableFooter=è¡¨ - é¡µè„š
 
-RowHandle.tooltip.TableHeader=±í - Ò³Ã¼
+RowHandle.tooltip.TableHeader=è¡¨ - é¡µçœ‰
 
 ###########################################################
 #RowHandleAdapter properties
-RowHandleAdapter.table.detail=Ã÷Ï¸Êı¾İĞĞ
+RowHandleAdapter.table.detail=æ˜ç»†æ•°æ®è¡Œ
 
-RowHandleAdapter.table.footer=Ò³½ÅĞĞ
+RowHandleAdapter.table.footer=é¡µè„šè¡Œ
 
-RowHandleAdapter.table.groupFooter=×éÒ³½ÅĞĞ
+RowHandleAdapter.table.groupFooter=ç»„é¡µè„šè¡Œ
 
-RowHandleAdapter.table.groupHeader=×éÒ³Ã¼ĞĞ
+RowHandleAdapter.table.groupHeader=ç»„é¡µçœ‰è¡Œ
 
-RowHandleAdapter.table.header=Ò³Ã¼ĞĞ
+RowHandleAdapter.table.header=é¡µçœ‰è¡Œ
 
 ###########################################################
 #RowPageGenerator properties
-RowPageGenerator.List.Bookmark=ÊéÇ©
+RowPageGenerator.List.Bookmark=ä¹¦ç­¾
 
-RowPageGenerator.List.Borders=±ß¿ò
+RowPageGenerator.List.Borders=è¾¹æ¡†
 
-RowPageGenerator.List.Section=·ÖÒ³·û
+RowPageGenerator.List.Section=åˆ†é¡µç¬¦
 
-RowPageGenerator.List.CellPadding=µ¥Ôª¸ñ±ß¾à
+RowPageGenerator.List.CellPadding=å•å…ƒæ ¼è¾¹è·
 
-RowPageGenerator.List.Font=×ÖÌå
+RowPageGenerator.List.Font=å­—ä½“
 
-RowPageGenerator.List.General=³£¹æ
+RowPageGenerator.List.General=å¸¸è§„
 
-RowPageGenerator.List.Visibility=¿É¼ûĞÔ
+RowPageGenerator.List.Visibility=å¯è§æ€§
 
 ###########################################################
 #RowProvider properties
-RowProvider.action.text.above=ÔÚÉÏ·½²åÈëĞĞ(&A)
+RowProvider.action.text.above=åœ¨ä¸Šæ–¹æ’å…¥è¡Œ(&A)
 
-RowProvider.action.text.below=ÔÚÏÂ·½²åÈëĞĞ(&B)
+RowProvider.action.text.below=åœ¨ä¸‹æ–¹æ’å…¥è¡Œ(&B)
 
 ###########################################################
 #SaveAsDialog properties
-SaveAsDialog.message=½«ÎÄ¼ş±£´æÖÁÁíÒ»¸öÎ»ÖÃ¡£
+SaveAsDialog.message=å°†æ–‡ä»¶ä¿å­˜è‡³å¦ä¸€ä¸ªä½ç½®ã€‚
 
-SaveAsDialog.overwriteQuestion=ÎÄ¼ş¡°{0}¡±ÒÑ´æÔÚ¡£ ÊÇ·ñÒªÌæ»»ÏÖÓĞµÄÎÄ¼ş£¿
+SaveAsDialog.overwriteQuestion=æ–‡ä»¶â€œ{0}â€å·²å­˜åœ¨ã€‚ æ˜¯å¦è¦æ›¿æ¢ç°æœ‰çš„æ–‡ä»¶ï¼Ÿ
 
-SaveAsDialog.Question=ÎÊÌâ
+SaveAsDialog.Question=é—®é¢˜
 
-SaveAsDialog.text=Áí´æÎª
+SaveAsDialog.text=å¦å­˜ä¸º
 
-SaveAsDialog.title=Áí´æÎª
+SaveAsDialog.title=å¦å­˜ä¸º
 
 ###########################################################
 #CreateDirectory properties
-DirectoryDialog.createQuestion=Ä¿Â¼¡°{0}¡±²»´æÔÚ¡£ÊÇ·ñÒª´´½¨¸ÃÄ¿Â¼?
+DirectoryDialog.createQuestion=ç›®å½•â€œ{0}â€ä¸å­˜åœ¨ã€‚æ˜¯å¦è¦åˆ›å»ºè¯¥ç›®å½•?
 
-DirectoryDialog.Question=ÎÊÌâ
+DirectoryDialog.Question=é—®é¢˜
 
 ###########################################################
 #SchematicContextMenuProvider properties
-SchematicContextMenuProvider.ActionText.editData=±à¼­Öµ/±í´ïÊ½(&V)...
+SchematicContextMenuProvider.ActionText.editData=ç¼–è¾‘å€¼/è¡¨è¾¾å¼(&V)...
 
-SchematicContextMenuProvider.ActionText.editLabel=±à¼­(&E)
+SchematicContextMenuProvider.ActionText.editLabel=ç¼–è¾‘(&E)
 
-SchematicContextMenuProvider.label.ResetSize=ÖØÖÃÍ¼Ïñ´óĞ¡(&Z):
+SchematicContextMenuProvider.label.ResetSize=é‡ç½®å›¾åƒå¤§å°(&Z):
 
-SchematicContextMenuProvider.label.ResetToImageDPI=×î¼ÑÍ¼Ïñ·Ö±æÂÊ(&I)
+SchematicContextMenuProvider.label.ResetToImageDPI=æœ€ä½³å›¾åƒåˆ†è¾¨ç‡(&I)
 
-SchematicContextMenuProvider.label.ResetToReportDPI=×î¼Ñ±¨±í·Ö±æÂÊ(&R)
+SchematicContextMenuProvider.label.ResetToReportDPI=æœ€ä½³æŠ¥è¡¨åˆ†è¾¨ç‡(&R)
 
-SchematicContextMenuProvider.label.ResetToScreenDPI=×î¼ÑÆÁÄ»·Ö±æÂÊ(&S)
+SchematicContextMenuProvider.label.ResetToScreenDPI=æœ€ä½³å±å¹•åˆ†è¾¨ç‡(&S)
 
-SchematicContextMenuProvider.label.RestToOrginalPixels=µ¥Î»ÎªÔ­Ê¼ÏñËØ(&P)
+SchematicContextMenuProvider.label.RestToOrginalPixels=å•ä½ä¸ºåŸå§‹åƒç´ (&P)
 
-SchematicContextMenuProvider.Menu.EditGroup=±à¼­×é(&G)
+SchematicContextMenuProvider.Menu.EditGroup=ç¼–è¾‘ç»„(&G)
 
-SchematicContextMenuProvider.Menu.Insert=²åÈë(&I)
+SchematicContextMenuProvider.Menu.Insert=æ’å…¥(&I)
 
-SchematicContextMenuProvider.Menu.insertElement=²åÈë(&N)
+SchematicContextMenuProvider.Menu.insertElement=æ’å…¥(&N)
 
-SchematicContextMenuProvider.Menu.insertRow=ĞĞ(&R)
+SchematicContextMenuProvider.Menu.insertRow=è¡Œ(&R)
 
-SchematicContextMenuProvider.Menu.List=ÁĞ±í
+SchematicContextMenuProvider.Menu.List=åˆ—è¡¨
 
-SchematicContextMenuProvider.Menu.Show=ÏÔÊ¾
+SchematicContextMenuProvider.Menu.Show=æ˜¾ç¤º
 
-SchematicContextMenuProvider.Menu.Style=ÑùÊ½(&Y)
+SchematicContextMenuProvider.Menu.Style=æ ·å¼(&Y)
 
-SchematicContextMenuProvider.Menu.Style.Apply=Ó¦ÓÃÑùÊ½(&P)
+SchematicContextMenuProvider.Menu.Style.Apply=åº”ç”¨æ ·å¼(&P)
 
-SchematicContextMenuProvider.Menu.Theme=²¼¾°Ö÷Ìâ(&M)
+SchematicContextMenuProvider.Menu.Theme=å¸ƒæ™¯ä¸»é¢˜(&M)
 
-SchematicContextMenuProvider.Menu.Theme.Apply=Ó¦ÓÃ²¼¾°Ö÷Ìâ(&P)
+SchematicContextMenuProvider.Menu.Theme.Apply=åº”ç”¨å¸ƒæ™¯ä¸»é¢˜(&P)
 
-SchematicContextMenuProvider.Menu.Layout=²¼¾ÖÊ×Ñ¡Ïî(&A)
+SchematicContextMenuProvider.Menu.Layout=å¸ƒå±€é¦–é€‰é¡¹(&A)
 #SchematicContextMenuProvider.menutitle.applystylerule=Apply Style
 #SchematicContextMenuProvider.menutitle.applythemerule=&Apply Theme
 #SchematicContextMenuProvider.menutitle.editgroup=Edit Group
@@ -5487,1128 +5487,1128 @@ SchematicContextMenuProvider.Menu.Layout=²¼¾ÖÊ×Ñ¡Ïî(&A)
 #SchematicContextMenuProvider.menutitle.list=List
 #SchematicContextMenuProvider.menutitle.show=Show
 #SchematicContextMenuProvider.menutitle.style=Style
-SchematicContextMenuProvider.Menu.EditStyle=±à¼­ÑùÊ½(&T)
+SchematicContextMenuProvider.Menu.EditStyle=ç¼–è¾‘æ ·å¼(&T)
 
-SchematicContextMenuProvider.Menu.DeleteStyle=É¾³ıÑùÊ½(&S)
+SchematicContextMenuProvider.Menu.DeleteStyle=åˆ é™¤æ ·å¼(&S)
 
-SchematicContextMenuProvider.Menu.DeleteGroup=É¾³ı×é(&L)
+SchematicContextMenuProvider.Menu.DeleteGroup=åˆ é™¤ç»„(&L)
 
-SchematicContextMenuProvider.Menu.InsertGroupHeaderFooter=²åÈë×éÒ³Ã¼/Ò³½Å(&H)
+SchematicContextMenuProvider.Menu.InsertGroupHeaderFooter=æ’å…¥ç»„é¡µçœ‰/é¡µè„š(&H)
 
-SchematicContextMenuProvider.Menu.NewStyle=ĞÂÑùÊ½(&Y)
+SchematicContextMenuProvider.Menu.NewStyle=æ–°æ ·å¼(&Y)
 
 ###########################################################
 #ApplyLayoutPreferenceAction properties
-ApplyLayoutPreferenceAction.autoLayout=×Ô¶¯²¼¾Ö(&A)
+ApplyLayoutPreferenceAction.autoLayout=è‡ªåŠ¨å¸ƒå±€(&A)
 
-ApplyLayoutPreferenceAction.fixedLayout=¹Ì¶¨²¼¾Ö(&F)
+ApplyLayoutPreferenceAction.fixedLayout=å›ºå®šå¸ƒå±€(&F)
 
 ###########################################################
 #SectionProcess properties
-SectionProcess.action.Clear=Çå³ı
+SectionProcess.action.Clear=æ¸…é™¤
 
-SectionProcess.action.Delete=É¾³ı
+SectionProcess.action.Delete=åˆ é™¤
 
-SectionProcess.action.DeleteRow=É¾³ıĞĞ
+SectionProcess.action.DeleteRow=åˆ é™¤è¡Œ
 
-SectionProcess.action.New=ĞÂ½¨
+SectionProcess.action.New=æ–°å»º
 
-SectionProcess.action.NewCell=ĞÂ½¨µ¥Ôª¸ñ
+SectionProcess.action.NewCell=æ–°å»ºå•å…ƒæ ¼
 
-SectionProcess.action.NewGroup=ĞÂ½¨×é
+SectionProcess.action.NewGroup=æ–°å»ºç»„
 
-SectionProcess.action.NewRow=ĞÂ½¨ĞĞ
+SectionProcess.action.NewRow=æ–°å»ºè¡Œ
 
-SectionProcess.action.NewSection=ĞÂ½¨ÇøÓò
+SectionProcess.action.NewSection=æ–°å»ºåŒºåŸŸ
 
-SectionProcess.action.NewSubSection=ĞÂ½¨×ÓÇøÓò
+SectionProcess.action.NewSubSection=æ–°å»ºå­åŒºåŸŸ
 
-SectionProcess.displayname.GridProcess=Íø¸ñ
+SectionProcess.displayname.GridProcess=ç½‘æ ¼
 
-SectionProcess.displayname.GroupProcess=×é
+SectionProcess.displayname.GroupProcess=ç»„
 
-SectionProcess.displayname.ListProcess=ÁĞ±í
+SectionProcess.displayname.ListProcess=åˆ—è¡¨
 
-SectionProcess.displayname.TableProcess=±í
+SectionProcess.displayname.TableProcess=è¡¨
 
-SectionProcess.displayname.TableRowProcess=ĞĞ
+SectionProcess.displayname.TableRowProcess=è¡Œ
 
-SectionProcess.type.Container=£¨ÈİÆ÷£©
+SectionProcess.type.Container=ï¼ˆå®¹å™¨ï¼‰
 
-SectionProcess.type.Data=£¨Êı¾İ£©
+SectionProcess.type.Data=ï¼ˆæ•°æ®ï¼‰
 
-SectionProcess.type.Image=(Í¼Ïñ)
+SectionProcess.type.Image=(å›¾åƒ)
 
-SectionProcess.type.Label=£¨±êÇ©£©
+SectionProcess.type.Label=ï¼ˆæ ‡ç­¾ï¼‰
 
-SectionProcess.type.List=£¨ÁĞ±í£©
+SectionProcess.type.List=ï¼ˆåˆ—è¡¨ï¼‰
 
-SectionProcess.type.Prefix=ÁĞ
+SectionProcess.type.Prefix=åˆ—
 
-SectionProcess.type.Table=(±í)
+SectionProcess.type.Table=(è¡¨)
 
-SectionProcess.type.Text=(ÎÄ±¾)
+SectionProcess.type.Text=(æ–‡æœ¬)
 
 ###########################################################
 #SelectAllAction properties
-SelectAllAction.text=È«Ñ¡(&A)
+SelectAllAction.text=å…¨é€‰(&A)
 
 ###########################################################
 #SelectCssStyleWizard properties
-SelectCssStyleWizard.wizard.title=µ¼Èë CSS ÑùÊ½
+SelectCssStyleWizard.wizard.title=å¯¼å…¥ CSS æ ·å¼
 
-SelectCssStyleWizard.wizardPage.description.report=Ñ¡ÔñÒ»¸ö CSS ÎÄ¼ş£¬½«ÑùÊ½µ¼Èëµ½±¨±íÉè¼Æ¡£
+SelectCssStyleWizard.wizardPage.description.report=é€‰æ‹©ä¸€ä¸ª CSS æ–‡ä»¶ï¼Œå°†æ ·å¼å¯¼å…¥åˆ°æŠ¥è¡¨è®¾è®¡ã€‚
 
-SelectCssStyleWizard.wizardPage.description.library=Ñ¡ÔñÒ»¸ö CSS ÎÄ¼ş£¬½«ÑùÊ½µ¼Èëµ½¿â¡£
+SelectCssStyleWizard.wizardPage.description.library=é€‰æ‹©ä¸€ä¸ª CSS æ–‡ä»¶ï¼Œå°†æ ·å¼å¯¼å…¥åˆ°åº“ã€‚
 
-SelectCssStyleWizard.wizardPage.name=Ñ¡Ôñ Css ÑùÊ½
+SelectCssStyleWizard.wizardPage.name=é€‰æ‹© Css æ ·å¼
 
-SelectCssStyleWizard.wizardPage.title=´Ó CSS ÎÄ¼şµ¼ÈëÑùÊ½
+SelectCssStyleWizard.wizardPage.title=ä» CSS æ–‡ä»¶å¯¼å…¥æ ·å¼
 
 ###########################################################
 #UseCssInReportDialog properties
-UseCssInReportDialog.Wizard.Title=Ê¹ÓÃ CSS
+UseCssInReportDialog.Wizard.Title=ä½¿ç”¨ CSS
 
-UseCssInReportDialog.Wizard.Filename=ÎÄ¼şÃû(&F):
+UseCssInReportDialog.Wizard.Filename=æ–‡ä»¶å(&F):
 
-UseCssInReportDialog.Label.Styles=À´×Ô {0} µÄ¿ÉÓÃÑùÊ½(&A)
+UseCssInReportDialog.Label.Styles=æ¥è‡ª {0} çš„å¯ç”¨æ ·å¼(&A)
 
-UseCssInReportDialog.Label.notifications=Í¨Öª(&N)
+UseCssInReportDialog.Label.notifications=é€šçŸ¥(&N)
 
-UseCssInReportDialog.TitleArea.Title=ÔÚ±¨±íÉè¼ÆÖĞÊ¹ÓÃ CSS ÎÄ¼ş
+UseCssInReportDialog.TitleArea.Title=åœ¨æŠ¥è¡¨è®¾è®¡ä¸­ä½¿ç”¨ CSS æ–‡ä»¶
 
-UseCssInReportDialog.TitleArea.Message=´Ó¹²Ïí¿âÎÄ¼ş¼ĞÖĞÑ¡ÔñÒ»¸ö CSS ÎÄ¼ş²¢ÔÚ±¨±íÉè¼ÆÖĞÊ¹ÓÃÆäÑùÊ½¡£
+UseCssInReportDialog.TitleArea.Message=ä»å…±äº«åº“æ–‡ä»¶å¤¹ä¸­é€‰æ‹©ä¸€ä¸ª CSS æ–‡ä»¶å¹¶åœ¨æŠ¥è¡¨è®¾è®¡ä¸­ä½¿ç”¨å…¶æ ·å¼ã€‚
 
-UseCssInReportDialog.Label.No.File=Î´Ñ¡Ôñ CSS ÎÄ¼ş
+UseCssInReportDialog.Label.No.File=æœªé€‰æ‹© CSS æ–‡ä»¶
 
-UseCssInReportDialog.Dialog.Browse=ä¯ÀÀ
+UseCssInReportDialog.Dialog.Browse=æµè§ˆ
 
-UseCssInReportDialog.Dialog.Browse.Title=Ñ¡ÔñÒª°üÀ¨ÔÚ±¨±íÖĞµÄ CSS ÎÄ¼ş
+UseCssInReportDialog.Dialog.Browse.Title=é€‰æ‹©è¦åŒ…æ‹¬åœ¨æŠ¥è¡¨ä¸­çš„ CSS æ–‡ä»¶
 
-UseCssInReportDialog.Dialog.Browse.Library.Title=Ñ¡ÔñÒª°üÀ¨ÔÚ¿âÖĞµÄ CSS ÎÄ¼ş
+UseCssInReportDialog.Dialog.Browse.Library.Title=é€‰æ‹©è¦åŒ…æ‹¬åœ¨åº“ä¸­çš„ CSS æ–‡ä»¶
 
-UseCssInReportDialog.Error.Already.Include=ÒÑ°üÀ¨ {0}
+UseCssInReportDialog.Error.Already.Include=å·²åŒ…æ‹¬ {0}
 
-UseCssInReportDialog.Dialog.Button.viewTimeBtn.Text=²é¿´Ê±°üÀ¨ CSS ÎÄ¼ş(½öÊÊÓÃÓÚ HTML ¸ñÊ½)(&I)
+UseCssInReportDialog.Dialog.Button.viewTimeBtn.Text=æŸ¥çœ‹æ—¶åŒ…æ‹¬ CSS æ–‡ä»¶(ä»…é€‚ç”¨äº HTML æ ¼å¼)(&I)
 
-UseCssInReportDialog.Dialog.Label.viewTimeLb=CSS ÎÄ¼şµÄ²é¿´Ê±¼äÎ»ÖÃ:
+UseCssInReportDialog.Dialog.Label.viewTimeLb=CSS æ–‡ä»¶çš„æŸ¥çœ‹æ—¶é—´ä½ç½®:
 
-UseCssInReportDialog.Dialog.Label.example=Èç http://mydomain/test.css¡¢myfolder/test/css
+UseCssInReportDialog.Dialog.Label.example=å¦‚ http://mydomain/test.cssã€myfolder/test/css
 
-UseCssInReportDialog.Dialog.Label.Theme.Text=²¼¾°Ö÷Ìâ(&T):
+UseCssInReportDialog.Dialog.Label.Theme.Text=å¸ƒæ™¯ä¸»é¢˜(&T):
 
 UseCssInReportDialog.Dialog.Text.uri=&URI:
-UseCssInThemeDialog.TitleArea.Title=ÔÚ±¨±í¿âÖĞÊ¹ÓÃ CSS ÎÄ¼ş
+UseCssInThemeDialog.TitleArea.Title=åœ¨æŠ¥è¡¨åº“ä¸­ä½¿ç”¨ CSS æ–‡ä»¶
 
-UseCssInThemeDialog.TitleArea.Message=Ñ¡ÔñÒª·ÅÖÃ CSS ÎÄ¼şÑùÊ½µÄ²¼¾°Ö÷Ìâ¡£
+UseCssInThemeDialog.TitleArea.Message=é€‰æ‹©è¦æ”¾ç½® CSS æ–‡ä»¶æ ·å¼çš„å¸ƒæ™¯ä¸»é¢˜ã€‚
 
-CssStyleSheetNodeProvider.Label.FromServer=´Ó·şÎñÆ÷
+CssStyleSheetNodeProvider.Label.FromServer=ä»æœåŠ¡å™¨
 
-CssStyleSheetNodeProvider.Tooltip.URI=(²é¿´Ê±Ó¦ÓÃ)
+CssStyleSheetNodeProvider.Tooltip.URI=(æŸ¥çœ‹æ—¶åº”ç”¨)
 
 
 ###########################################################
 #SelectValueDialog properties
-SelectValueDialog.errorRetrievinglist=¼ìË÷ÁĞ±íÊ±³ö´í
+SelectValueDialog.errorRetrievinglist=æ£€ç´¢åˆ—è¡¨æ—¶å‡ºé”™
 
-SelectValueDialog.messages.info.selectVauleUnavailable=ÖµÁĞ±í²»¿ÉÓÃ¡£
+SelectValueDialog.messages.info.selectVauleUnavailable=å€¼åˆ—è¡¨ä¸å¯ç”¨ã€‚
 
-SelectValueDialog.messages.info.invalidSelectVauleExpression=¡°Ñ¡ÔñÖµ¡±º¯Êı½ö½ÓÊÜ¼òµ¥ÁĞ±í´ïÊ½¡£¾Ü¾ø¸´ÔÓ±í´ïÊ½¡£
+SelectValueDialog.messages.info.invalidSelectVauleExpression=â€œé€‰æ‹©å€¼â€å‡½æ•°ä»…æ¥å—ç®€å•åˆ—è¡¨è¾¾å¼ã€‚æ‹’ç»å¤æ‚è¡¨è¾¾å¼ã€‚
 
-SelectValueDialog.messages.warning.BlobColumn.unsupported=ÎŞ·¨¼ìË÷ÒıÓÃ Blob ÀàĞÍÁĞ/°ó¶¨µÄ±í´ïÊ½µÄÖµÁĞ±í¡£
+SelectValueDialog.messages.warning.BlobColumn.unsupported=æ— æ³•æ£€ç´¢å¼•ç”¨ Blob ç±»å‹åˆ—/ç»‘å®šçš„è¡¨è¾¾å¼çš„å€¼åˆ—è¡¨ã€‚
 
-SelectValueDialog.messages.error.selectVauleUnavailable=ÎŞ·¨¼ìË÷¸Ã±í´ïÊ½µÄÖµ¡£
+SelectValueDialog.messages.error.selectVauleUnavailable=æ— æ³•æ£€ç´¢è¯¥è¡¨è¾¾å¼çš„å€¼ã€‚
 
-SelectValueDialog.messages.error.selectValueNotSupported=²»Ö§³Ö´ËÀàÖµÑ¡Ôñ¡£
+SelectValueDialog.messages.error.selectValueNotSupported=ä¸æ”¯æŒæ­¤ç±»å€¼é€‰æ‹©ã€‚
 
-SelectValueDialog.noExpressionSet=ÉĞÎ´ÉèÖÃ±í´ïÊ½
+SelectValueDialog.noExpressionSet=å°šæœªè®¾ç½®è¡¨è¾¾å¼
 
-SelectValueDialog.retrieving=ÕıÔÚ¼ìË÷ÁĞ±í...
+SelectValueDialog.retrieving=æ­£åœ¨æ£€ç´¢åˆ—è¡¨...
 
-SelectValueDialog.selectValue=Ñ¡ÔñÖµ
+SelectValueDialog.selectValue=é€‰æ‹©å€¼
 
-SelectValueDialog.SelectValue.NullValue=<¿ÕÖµ>
+SelectValueDialog.SelectValue.NullValue=<ç©ºå€¼>
 
 ###########################################################
 #SetConstraintCommand properties
-SetConstraintCommand.Error.SetConstraintError=¶ÔÄ£ĞÍÉèÖÃÔ¼ÊøÊ±³ö´í¡£
+SetConstraintCommand.Error.SetConstraintError=å¯¹æ¨¡å‹è®¾ç½®çº¦æŸæ—¶å‡ºé”™ã€‚
 
-SetConstraintCommand.transLabel.setConstraint=ÉèÖÃÔ¼Êø
+SetConstraintCommand.transLabel.setConstraint=è®¾ç½®çº¦æŸ
 
-SetConstraintCommand.commandLabel.ResizeCommand=ÖØÉè´óĞ¡
+SetConstraintCommand.commandLabel.ResizeCommand=é‡è®¾å¤§å°
 ###########################################################
 #ProjectFilterAction properties
-ProjectFilterAction.text=É¸Ñ¡...
+ProjectFilterAction.text=ç­›é€‰...
 
 ###########################################################
 #ResourceFileFolderSelectionAction properties
-ResourceFileFolderSelectionAction.text=É¸Ñ¡...
+ResourceFileFolderSelectionAction.text=ç­›é€‰...
 
 ###########################################################
 #ResourceFileFolderSelectionDialog properties
-ResourceFileFolderSelectionDialog.Text.Menu=²Ëµ¥
+ResourceFileFolderSelectionDialog.Text.Menu=èœå•
 
-ResourceFileFolderSelectionDialog.button.importFile=µ¼ÈëÎÄ¼ş...
+ResourceFileFolderSelectionDialog.button.importFile=å¯¼å…¥æ–‡ä»¶...
 
-ResourceFileFolderSelectionDialog.title.error=´íÎó
+ResourceFileFolderSelectionDialog.title.error=é”™è¯¯
 
-ResourceFileFolderSelectionDialog.title.overwrite=¸²¸Ç
+ResourceFileFolderSelectionDialog.title.overwrite=è¦†ç›–
 
-ResourceFileFolderSelectionDialog.overwrite.msg=¾ßÓĞ´ËÃû³ÆµÄÎÄ¼şÒÑ¾­´æÔÚ£¬ÊÇ·ñÒª¸²¸ÇËü?
+ResourceFileFolderSelectionDialog.overwrite.msg=å…·æœ‰æ­¤åç§°çš„æ–‡ä»¶å·²ç»å­˜åœ¨ï¼Œæ˜¯å¦è¦è¦†ç›–å®ƒ?
 
-ResourceFileFolderSelectionDialog.import.msg=ÕıÔÚµ¼ÈëÎÄ¼ş...
+ResourceFileFolderSelectionDialog.import.msg=æ­£åœ¨å¯¼å…¥æ–‡ä»¶...
 
 ###########################################################
 #ShowPropertyAction properties
-ShowPropertyAction.text=ÊôĞÔ(&R)
+ShowPropertyAction.text=å±æ€§(&R)
 
 ###########################################################
 #SortingHandleProvider properties
-SortingHandleProvider.Label.SortOn=ÅÅĞòÒÀ¾İ:
+SortingHandleProvider.Label.SortOn=æ’åºä¾æ®:
 
 ###########################################################
 #Spinner properties
-Spinner.DialogTitle.InvalidNumber=ÎŞĞ§Êı×Ö
+Spinner.DialogTitle.InvalidNumber=æ— æ•ˆæ•°å­—
 
 ###########################################################
 #SplitAction properties
-SplitAction.actionMsg.splitCells=²ğ·Öµ¥Ôª¸ñ(&S)
+SplitAction.actionMsg.splitCells=æ‹†åˆ†å•å…ƒæ ¼(&S)
 
 ###########################################################
 #StyleBuilder properties
-StringVariableSelectionDialog.Dialog.Label=±äÁ¿ÃèÊö(&V):
+StringVariableSelectionDialog.Dialog.Label=å˜é‡æè¿°(&V):
 
-StringVariableSelectionDialog.Dialog.Prompt=Ñ¡Ôñ±äÁ¿(? = ÈÎÒâ×Ö·û£¬* = ÈÎÒâ×Ö·û´®)(&C):
+StringVariableSelectionDialog.Dialog.Prompt=é€‰æ‹©å˜é‡(? = ä»»æ„å­—ç¬¦ï¼Œ* = ä»»æ„å­—ç¬¦ä¸²)(&C):
 
-StringVariableSelectionDialog.Dialog.Title=Ñ¡Ôñ±äÁ¿
+StringVariableSelectionDialog.Dialog.Title=é€‰æ‹©å˜é‡
 
-StyleBuilder.action.Apply=Ó¦ÓÃ(&A)
+StyleBuilder.action.Apply=åº”ç”¨(&A)
 
-StyleBuilder.Edit.Info=ĞŞ¸ÄËùĞèµÄÑùÊ½ÊôĞÔ¡£Ê¹ÓÃ´ËÑùÊ½µÄËùÓĞ±¨±íÔªËØ½«×Ô¶¯¸üĞÂÒÔ·´Ó³ĞÂ¸ñÊ½¡£
+StyleBuilder.Edit.Info=ä¿®æ”¹æ‰€éœ€çš„æ ·å¼å±æ€§ã€‚ä½¿ç”¨æ­¤æ ·å¼çš„æ‰€æœ‰æŠ¥è¡¨å…ƒç´ å°†è‡ªåŠ¨æ›´æ–°ä»¥åæ˜ æ–°æ ¼å¼ã€‚
 
-StyleBuilder.New.Info=Í¨¹ı´Ó×ó²àÑ¡ÔñÊôĞÔÀà±ğ²¢Ö¸¶¨ÊôĞÔÖµ´´½¨ĞÂÑùÊ½¡£
+StyleBuilder.New.Info=é€šè¿‡ä»å·¦ä¾§é€‰æ‹©å±æ€§ç±»åˆ«å¹¶æŒ‡å®šå±æ€§å€¼åˆ›å»ºæ–°æ ·å¼ã€‚
 
-StyleBuilder.Title=ÑùÊ½
+StyleBuilder.Title=æ ·å¼
 
-SytleBuilder.DialogTitle.New=ĞÂ½¨ÑùÊ½
+SytleBuilder.DialogTitle.New=æ–°å»ºæ ·å¼
 
-SytleBuilder.DialogTitle.Edit=±à¼­ÑùÊ½
+SytleBuilder.DialogTitle.Edit=ç¼–è¾‘æ ·å¼
 
 ###########################################################
 #StyleComboProvider properties
-StyleComboProvider.LineStyle.None=ÎŞÑùÊ½
+StyleComboProvider.LineStyle.None=æ— æ ·å¼
 
 ###########################################################
 #StyleNodeProvider properties
-StyleNodeProvider.action.Edit=±à¼­ÑùÊ½(&E)...
+StyleNodeProvider.action.Edit=ç¼–è¾‘æ ·å¼(&E)...
 
-StyleNodeProvider.action.New=ĞÂ½¨ÑùÊ½(&N)...
+StyleNodeProvider.action.New=æ–°å»ºæ ·å¼(&N)...
 
 ###########################################################
 #StyleProcess properties
-StyleProcess.action.Delete=É¾³ıÑùÊ½
+StyleProcess.action.Delete=åˆ é™¤æ ·å¼
 
-StyleProcess.action.Edit=±à¼­ÑùÊ½(&E)...
+StyleProcess.action.Edit=ç¼–è¾‘æ ·å¼(&E)...
 
-StyleProcess.action.New=ĞÂ½¨ÑùÊ½(&N)...
+StyleProcess.action.New=æ–°å»ºæ ·å¼(&N)...
 
-StyleProcess.text.CannotDelete=ÎŞ·¨É¾³ıÄ¬ÈÏÑùÊ½¡£
+StyleProcess.text.CannotDelete=æ— æ³•åˆ é™¤é»˜è®¤æ ·å¼ã€‚
 
-StyleProcess.text.Show=ÏÔÊ¾¸ÃÊı¾İ¼¯µÄÊı¾İ¼¯±à¼­Æ÷¡£
+StyleProcess.text.Show=æ˜¾ç¤ºè¯¥æ•°æ®é›†çš„æ•°æ®é›†ç¼–è¾‘å™¨ã€‚
 
 ###########################################################
 #StylesNodeProvider properties
-StylesNodeProvider.action.New=ĞÂ½¨ÑùÊ½(&N)...
+StylesNodeProvider.action.New=æ–°å»ºæ ·å¼(&N)...
 
 ###########################################################
 #StylesOutlineProcess properties
-StylesOutlineProcess.action.New=ĞÂ½¨ÑùÊ½(&N)...
+StylesOutlineProcess.action.New=æ–°å»ºæ ·å¼(&N)...
 
 ###########################################################
 #TableBandProvider properties
-TableBandProvider.action.text.group=²åÈë×é(&N)
+TableBandProvider.action.text.group=æ’å…¥ç»„(&N)
 
-TableBandProvider.action.text.row=²åÈëĞĞ(&S)
+TableBandProvider.action.text.row=æ’å…¥è¡Œ(&S)
 
 ###########################################################
 #TableEditPart properties
-TableEditPart.GUIDEHANDLE_TEXT =±í
+TableEditPart.GUIDEHANDLE_TEXT =è¡¨
 
-TableEditPart.Label.Merge=ºÏ²¢µ¥Ôª¸ñ
+TableEditPart.Label.Merge=åˆå¹¶å•å…ƒæ ¼
 
-TableEditPart.Label.ResizeColumn=ÖØĞÂÉè¶¨ÁĞ´óĞ¡
+TableEditPart.Label.ResizeColumn=é‡æ–°è®¾å®šåˆ—å¤§å°
 
-TableEditPart.Label.ResizeRow=ÖØĞÂÉè¶¨ĞĞ´óĞ¡
+TableEditPart.Label.ResizeRow=é‡æ–°è®¾å®šè¡Œå¤§å°
 
 ###########################################################
 #TableFigure properties
-TableFigure.BORDER_TEXT=±í
+TableFigure.BORDER_TEXT=è¡¨
 
-TableArea.Button.New=ĞÂ½¨(&W)...
+TableArea.Button.New=æ–°å»º(&W)...
 
-TableArea.Button.Edit=±à¼­(&E)...
+TableArea.Button.Edit=ç¼–è¾‘(&E)...
 
-TableArea.Button.Remove=É¾³ı(&R)
+TableArea.Button.Remove=åˆ é™¤(&R)
 
-TableArea.Button.Down=ÏÂÒÆ(&O)
+TableArea.Button.Down=ä¸‹ç§»(&O)
 
-TableArea.Button.RemoveAll=È«²¿É¾³ı(&M)
+TableArea.Button.RemoveAll=å…¨éƒ¨åˆ é™¤(&M)
 
 ###########################################################
 #TableHandleAdapter properties
-TableHandleAdapter.name.detail=ÏêÏ¸×ÊÁÏ
+TableHandleAdapter.name.detail=è¯¦ç»†èµ„æ–™
 
-TableHandleAdapter.name.footer=Ò³½Å
+TableHandleAdapter.name.footer=é¡µè„š
 
-TableHandleAdapter.name.header=Ò³Ã¼
+TableHandleAdapter.name.header=é¡µçœ‰
 
-TableHandleAdapter.transLabel.deleteColumn=É¾³ıÁĞ
+TableHandleAdapter.transLabel.deleteColumn=åˆ é™¤åˆ—
 
-TableHandleAdapter.transLabel.deleteColumns=É¾³ıÁĞ
+TableHandleAdapter.transLabel.deleteColumns=åˆ é™¤åˆ—
 
-TableHandleAdapter.transLabel.deleteRow=É¾³ıĞĞ
+TableHandleAdapter.transLabel.deleteRow=åˆ é™¤è¡Œ
 
-TableHandleAdapter.transLabel.deleteRows=É¾³ıĞĞ
+TableHandleAdapter.transLabel.deleteRows=åˆ é™¤è¡Œ
 
-TableHandleAdapter.transLabel.include=°üÀ¨
+TableHandleAdapter.transLabel.include=åŒ…æ‹¬
 
-TableHandleAdapter.transLabel.insertColumn=²åÈëÁĞ
+TableHandleAdapter.transLabel.insertColumn=æ’å…¥åˆ—
 
-TableHandleAdapter.transLabel.insertGroup=²åÈë×é
+TableHandleAdapter.transLabel.insertGroup=æ’å…¥ç»„
 
-TableHandleAdapter.transLabel.insertRow=²åÈëĞĞ
+TableHandleAdapter.transLabel.insertRow=æ’å…¥è¡Œ
 
-TableHandleAdapter.transLabel.notInclude=ÅÅ³ı
+TableHandleAdapter.transLabel.notInclude=æ’é™¤
 
-TableHandleAdapter.transLabel.splitCells=²ğ·Öµ¥Ôª¸ñ
+TableHandleAdapter.transLabel.splitCells=æ‹†åˆ†å•å…ƒæ ¼
 
-TableHandleAdapter.transLable.deleteGroup=É¾³ı±í×é
+TableHandleAdapter.transLable.deleteGroup=åˆ é™¤è¡¨ç»„
 
 ###########################################################
 #TableOptionDialog properties
-TableOptionDialog.message.RememberGrid=¶ÔĞÂÍø¸ñÊ¹ÓÃÕâĞ©Î¬(&U)¡£
+TableOptionDialog.message.RememberGrid=å¯¹æ–°ç½‘æ ¼ä½¿ç”¨è¿™äº›ç»´(&U)ã€‚
 
-TableOptionDialog.message.RememberTable=¶ÔĞÂ±íÊ¹ÓÃÕâĞ©Î¬(&U)¡£
+TableOptionDialog.message.RememberTable=å¯¹æ–°è¡¨ä½¿ç”¨è¿™äº›ç»´(&U)ã€‚
 
-TableOptionDialog.text.Column=ÁĞÊı(&C):
+TableOptionDialog.text.Column=åˆ—æ•°(&C):
 
-TableOptionDialog.text.GridRow=ĞĞÊı(&R):
+TableOptionDialog.text.GridRow=è¡Œæ•°(&R):
 
-TableOptionDialog.text.GridSize=Íø¸ñ´óĞ¡
+TableOptionDialog.text.GridSize=ç½‘æ ¼å¤§å°
 
-TableOptionDialog.text.TableDetail=Ã÷Ï¸Êı¾İÊı(&D):
+TableOptionDialog.text.TableDetail=æ˜ç»†æ•°æ®æ•°(&D):
 
-TableOptionDialog.text.TableSize=±í´óĞ¡
+TableOptionDialog.text.TableSize=è¡¨å¤§å°
 
-TableOptionDialog.title.InsertGrid=²åÈëÍø¸ñ
+TableOptionDialog.title.InsertGrid=æ’å…¥ç½‘æ ¼
 
-TableOptionDialog.title.InsertTable=²åÈë±í
+TableOptionDialog.title.InsertTable=æ’å…¥è¡¨
 
-TableOptionDialog.text.DataSet=Êı¾İ¼¯(&S):
+TableOptionDialog.text.DataSet=æ•°æ®é›†(&S):
 
-TableOptionDialog.text.AutoSummary=×Ô¶¯»ã×ÜÌõ¼ş(&M)
+TableOptionDialog.text.AutoSummary=è‡ªåŠ¨æ±‡æ€»æ¡ä»¶(&M)
 
-TableOptionPage.Title=²åÈë±í
+TableOptionPage.Title=æ’å…¥è¡¨
 
 ###########################################################
 #TablePageGenerator properties
-TablePageGenerator.List.Bookmark=ÊéÇ©
+TablePageGenerator.List.Bookmark=ä¹¦ç­¾
 
-TablePageGenerator.List.Borders=±ß¿ò
+TablePageGenerator.List.Borders=è¾¹æ¡†
 
-TablePageGenerator.List.CellPadding=µ¥Ôª¸ñ±ß¾à
+TablePageGenerator.List.CellPadding=å•å…ƒæ ¼è¾¹è·
 
-TablePageGenerator.List.Font=×ÖÌå
+TablePageGenerator.List.Font=å­—ä½“
 
-TablePageGenerator.List.General=³£¹æ
+TablePageGenerator.List.General=å¸¸è§„
 
-TablePageGenerator.List.Marign=±ß¾à
+TablePageGenerator.List.Marign=è¾¹è·
 
-TablePageGenerator.List.Section=·ÖÒ³·û
+TablePageGenerator.List.Section=åˆ†é¡µç¬¦
 
-TablePageGenerator.List.TOC=Ä¿Â¼
+TablePageGenerator.List.TOC=ç›®å½•
 
-TablePageGenerator.List.Visibility=¿É¼ûĞÔ
+TablePageGenerator.List.Visibility=å¯è§æ€§
 
 ###########################################################
 #TemplateReportItemPropertiesDialog properties
-TemplateReportItemPropertiesDialog.errorMessage=ÌáÊ¾ÎÄ±¾²»ÄÜÎª¿Õ¡£
+TemplateReportItemPropertiesDialog.errorMessage=æç¤ºæ–‡æœ¬ä¸èƒ½ä¸ºç©ºã€‚
 
-TemplateReportItemPropertiesDialog.errorTitle=´íÎó
+TemplateReportItemPropertiesDialog.errorTitle=é”™è¯¯
 
-TemplateReportItemPropertiesDialog.group=Ä£°å±¨±íÏîÊôĞÔ
+TemplateReportItemPropertiesDialog.group=æ¨¡æ¿æŠ¥è¡¨é¡¹å±æ€§
 
-TemplateReportItemPropertiesDialog.objectType=ÔªËØÀàĞÍ:
+TemplateReportItemPropertiesDialog.objectType=å…ƒç´ ç±»å‹:
 
-TemplateReportItemPropertiesDialog.nameText=Ãû³Æ(&N):
+TemplateReportItemPropertiesDialog.nameText=åç§°(&N):
 
-TemplateReportItemPropertiesDialog.promptText=ËµÃ÷(&I):
+TemplateReportItemPropertiesDialog.promptText=è¯´æ˜(&I):
 
-TemplateReportItemPropertiesDialog.title=´´½¨Ä£°å±¨±íÏî
+TemplateReportItemPropertiesDialog.title=åˆ›å»ºæ¨¡æ¿æŠ¥è¡¨é¡¹
 
 ###########################################################
 #performCreatePlaceHolder action
-performCreatePlaceHolder.errorMessage.title=´íÎó
+performCreatePlaceHolder.errorMessage.title=é”™è¯¯
 
-performCreatePlaceHolder.errorMessage.content=ÄúÖ¸¶¨µÄÃû³ÆÒÑ´æÔÚ£¬ÇëÑ¡ÔñÁíÒ»¸öÃû³Æ»ò±£ÁôÎª¿Õ°×¡£
+performCreatePlaceHolder.errorMessage.content=æ‚¨æŒ‡å®šçš„åç§°å·²å­˜åœ¨ï¼Œè¯·é€‰æ‹©å¦ä¸€ä¸ªåç§°æˆ–ä¿ç•™ä¸ºç©ºç™½ã€‚
 
 ###########################################################
 #TogglePropertyDescriptor properties
-TogglePropertyDescriptor.toolTipText.Bold=´ÖÌå
+TogglePropertyDescriptor.toolTipText.Bold=ç²—ä½“
 
-TogglePropertyDescriptor.toolTipText.Italic=Ğ±Ìå
+TogglePropertyDescriptor.toolTipText.Italic=æ–œä½“
 
-TogglePropertyDescriptor.toolTipText.Underline=ÏÂ»®Ïß
+TogglePropertyDescriptor.toolTipText.Underline=ä¸‹åˆ’çº¿
 
-TogglePropertyDescriptor.toolTipText.Text_Line_Through=ÎÄ±¾É¾³ıÏß
+TogglePropertyDescriptor.toolTipText.Text_Line_Through=æ–‡æœ¬åˆ é™¤çº¿
 
 ###########################################################
 #TextAlignPropertyDescriptor properties
-TextAlignPropertyDescriptor.0=×ó¶ÔÆë
+TextAlignPropertyDescriptor.0=å·¦å¯¹é½
 
-TextAlignPropertyDescriptor.1=¾ÓÖĞ
+TextAlignPropertyDescriptor.1=å±…ä¸­
 
-TextAlignPropertyDescriptor.2=ÓÒ¶ÔÆë
+TextAlignPropertyDescriptor.2=å³å¯¹é½
 
-TextAlignPropertyDescriptor.3=Á½¶Ë¶ÔÆë
+TextAlignPropertyDescriptor.3=ä¸¤ç«¯å¯¹é½
 
 ###########################################################
 #TextAreaContextMenu properties
-TextAreaContextMenu.Copy.description=¸´ÖÆ
+TextAreaContextMenu.Copy.description=å¤åˆ¶
 
 TextAreaContextMenu.Copy.image=
 
-TextAreaContextMenu.Copy.label=¸´ÖÆ(&C)
+TextAreaContextMenu.Copy.label=å¤åˆ¶(&C)
 
-TextAreaContextMenu.Copy.tooltip=¸´ÖÆ
+TextAreaContextMenu.Copy.tooltip=å¤åˆ¶
 
-TextAreaContextMenu.Cut.description=¼ôÇĞ
+TextAreaContextMenu.Cut.description=å‰ªåˆ‡
 
 TextAreaContextMenu.Cut.image=
 
-TextAreaContextMenu.Cut.label=¼ôÇĞ(&T)
+TextAreaContextMenu.Cut.label=å‰ªåˆ‡(&T)
 
-TextAreaContextMenu.Cut.tooltip=¼ôÇĞ
+TextAreaContextMenu.Cut.tooltip=å‰ªåˆ‡
 
-TextAreaContextMenu.Paste.description=Õ³Ìù
+TextAreaContextMenu.Paste.description=ç²˜è´´
 
 TextAreaContextMenu.Paste.image=
 
-TextAreaContextMenu.Paste.label=Õ³Ìù(&P)
+TextAreaContextMenu.Paste.label=ç²˜è´´(&P)
 
-TextAreaContextMenu.Paste.tooltip=Õ³Ìù
+TextAreaContextMenu.Paste.tooltip=ç²˜è´´
 
-TextAreaContextMenu.Redo.description=»Ö¸´
+TextAreaContextMenu.Redo.description=æ¢å¤
 
 TextAreaContextMenu.Redo.image=
 
-TextAreaContextMenu.Redo.label=»Ö¸´(&R)
+TextAreaContextMenu.Redo.label=æ¢å¤(&R)
 
-TextAreaContextMenu.Redo.tooltip=»Ö¸´
+TextAreaContextMenu.Redo.tooltip=æ¢å¤
 
-TextAreaContextMenu.SelectAll.description=È«Ñ¡
+TextAreaContextMenu.SelectAll.description=å…¨é€‰
 
 TextAreaContextMenu.SelectAll.image=
 
-TextAreaContextMenu.SelectAll.label=È«Ñ¡(&A)
+TextAreaContextMenu.SelectAll.label=å…¨é€‰(&A)
 
-TextAreaContextMenu.SelectAll.tooltip=È«Ñ¡
+TextAreaContextMenu.SelectAll.tooltip=å…¨é€‰
 
-TextAreaContextMenu.Undo.description=³·Ïû
+TextAreaContextMenu.Undo.description=æ’¤æ¶ˆ
 
 TextAreaContextMenu.Undo.image=
 
-TextAreaContextMenu.Undo.label=³·Ïû(&U)
+TextAreaContextMenu.Undo.label=æ’¤æ¶ˆ(&U)
 
-TextAreaContextMenu.Undo.tooltip=³·Ïû
+TextAreaContextMenu.Undo.tooltip=æ’¤æ¶ˆ
 
 ###########################################################
 #TextDataEditPart properties
-TextDataEditPart.Figure.Dafault=¶¯Ì¬ÎÄ±¾
+TextDataEditPart.Figure.Dafault=åŠ¨æ€æ–‡æœ¬
 
 ###########################################################
 #TextEditDialog properties
-TextEditDialog.action.text.direction=´ÓÓÒµ½×óÔÄ¶ÁË³Ğò(&R)
+TextEditDialog.action.text.direction=ä»å³åˆ°å·¦é˜…è¯»é¡ºåº(&R)
 
-TextEditDialog.action.text.editDynamicText=±à¼­¶¯Ì¬ÎÄ±¾(&X)
+TextEditDialog.action.text.editDynamicText=ç¼–è¾‘åŠ¨æ€æ–‡æœ¬(&X)
 
-TextEditDialog.action.text.formatDateTime=ÈÕÆÚÊ±¼ä¸ñÊ½(&E)
+TextEditDialog.action.text.formatDateTime=æ—¥æœŸæ—¶é—´æ ¼å¼(&E)
 
-TextEditDialog.action.text.formatNumber=ÊıÖµ¸ñÊ½(&N)
+TextEditDialog.action.text.formatNumber=æ•°å€¼æ ¼å¼(&N)
 
-TextEditDialog.action.text.formatString=¸ñÊ½×Ö·û´®(&G)
+TextEditDialog.action.text.formatString=æ ¼å¼å­—ç¬¦ä¸²(&G)
 
-TextEditDialog.action.text.formatHTML=HTML ¸ñÊ½(&H)
+TextEditDialog.action.text.formatHTML=HTML æ ¼å¼(&H)
 
-TextEditDialog.choice.HTML=HTML/¶¯Ì¬ÎÄ±¾
+TextEditDialog.choice.HTML=HTML/åŠ¨æ€æ–‡æœ¬
 
-TextEditDialog.choice.plainText=´¿ÎÄ±¾
+TextEditDialog.choice.plainText=çº¯æ–‡æœ¬
 
-TextEditDialog.choice.Auto=×Ô¶¯
+TextEditDialog.choice.Auto=è‡ªåŠ¨
 
-TextEditDialog.comboText.formattingAndLayout=¸ñÊ½ºÍ²¼¾Ö
+TextEditDialog.comboText.formattingAndLayout=æ ¼å¼å’Œå¸ƒå±€
 
-TextEditDialog.format.dynamicText=¶¯Ì¬ÎÄ±¾
+TextEditDialog.format.dynamicText=åŠ¨æ€æ–‡æœ¬
 
-TextEditDialog.format.formatting=¸ñÊ½ºÍ²¼¾Ö
+TextEditDialog.format.formatting=æ ¼å¼å’Œå¸ƒå±€
 
-TextEditDialog.format.lists=ÁĞ±í
+TextEditDialog.format.lists=åˆ—è¡¨
 
-TextEditDialog.format.pageComposition=Ò³ºÏ³É
+TextEditDialog.format.pageComposition=é¡µåˆæˆ
 
-TextEditDialog.format.pageElements=Ò³ÃæÔªËØ
+TextEditDialog.format.pageElements=é¡µé¢å…ƒç´ 
 
-TextEditDialog.formatChoice.content=ÄÚÈİ
+TextEditDialog.formatChoice.content=å†…å®¹
 
-TextEditDialog.formatChoice.dynamicText=¶¯Ì¬ÎÄ±¾
+TextEditDialog.formatChoice.dynamicText=åŠ¨æ€æ–‡æœ¬
 
-TextEditDialog.formatChoice.formatting=¸ñÊ½»¯
+TextEditDialog.formatChoice.formatting=æ ¼å¼åŒ–
 
-TextEditDialog.formatChoice.layout=²¼¾Ö
+TextEditDialog.formatChoice.layout=å¸ƒå±€
 
-TextEditDialog.formatChoice.lists=ÁĞ±í
+TextEditDialog.formatChoice.lists=åˆ—è¡¨
 
-TextEditDialog.toolTip.tag.a=¶¨Î»
+TextEditDialog.toolTip.tag.a=å®šä½
 
-TextEditDialog.toolTip.tag.b=´ÖÌåÎÄ±¾ÑùÊ½
+TextEditDialog.toolTip.tag.b=ç²—ä½“æ–‡æœ¬æ ·å¼
 
-TextEditDialog.toolTip.tag.birtImage=BIRT ÌØ¶¨Í¼Ïñ
+TextEditDialog.toolTip.tag.birtImage=BIRT ç‰¹å®šå›¾åƒ
 
-TextEditDialog.toolTip.tag.br=»»ĞĞ·û
+TextEditDialog.toolTip.tag.br=æ¢è¡Œç¬¦
 
-TextEditDialog.toolTip.tag.center=ÎÄ±¾¾ÓÖĞ
+TextEditDialog.toolTip.tag.center=æ–‡æœ¬å±…ä¸­
 
-TextEditDialog.toolTip.tag.code=¼ÆËã»ú´úÂëÆ¬¶Î
+TextEditDialog.toolTip.tag.code=è®¡ç®—æœºä»£ç ç‰‡æ®µ
 
-TextEditDialog.toolTip.tag.dd=¶¨ÒåÃèÊö
+TextEditDialog.toolTip.tag.dd=å®šä¹‰æè¿°
 
-TextEditDialog.toolTip.tag.del=É¾³ıµÄÎÄ±¾
+TextEditDialog.toolTip.tag.del=åˆ é™¤çš„æ–‡æœ¬
 
-TextEditDialog.toolTip.tag.dl=¶¨ÒåÁĞ±í
+TextEditDialog.toolTip.tag.dl=å®šä¹‰åˆ—è¡¨
 
-TextEditDialog.toolTip.tag.dt=¶¨ÒåÊõÓï
+TextEditDialog.toolTip.tag.dt=å®šä¹‰æœ¯è¯­
 
-TextEditDialog.toolTip.tag.em=×ÅÖØ
+TextEditDialog.toolTip.tag.em=ç€é‡
 
-TextEditDialog.toolTip.tag.font=×ÖÌåµÄ±¾µØ¸ü¸Ä
+TextEditDialog.toolTip.tag.font=å­—ä½“çš„æœ¬åœ°æ›´æ”¹
 
-TextEditDialog.toolTip.tag.genericStyleContainer=Ò»°ãÓïÑÔ/·ç¸ñÈİÆ÷
+TextEditDialog.toolTip.tag.genericStyleContainer=ä¸€èˆ¬è¯­è¨€/é£æ ¼å®¹å™¨
 
-TextEditDialog.toolTip.tag.h1=µÚ 1 ¼¶±êÌâ
+TextEditDialog.toolTip.tag.h1=ç¬¬ 1 çº§æ ‡é¢˜
 
-TextEditDialog.toolTip.tag.h2=µÚ 2 ¼¶±êÌâ
+TextEditDialog.toolTip.tag.h2=ç¬¬ 2 çº§æ ‡é¢˜
 
-TextEditDialog.toolTip.tag.h3=µÚ 3 ¼¶±êÌâ
+TextEditDialog.toolTip.tag.h3=ç¬¬ 3 çº§æ ‡é¢˜
 
-TextEditDialog.toolTip.tag.h4=µÚ 4 ¼¶±êÌâ
+TextEditDialog.toolTip.tag.h4=ç¬¬ 4 çº§æ ‡é¢˜
 
-TextEditDialog.toolTip.tag.h5=µÚ 5 ¼¶±êÌâ
+TextEditDialog.toolTip.tag.h5=ç¬¬ 5 çº§æ ‡é¢˜
 
-TextEditDialog.toolTip.tag.h6=µÚ 6 ¼¶±êÌâ
+TextEditDialog.toolTip.tag.h6=ç¬¬ 6 çº§æ ‡é¢˜
 
-TextEditDialog.toolTip.tag.i=Ğ±ÌåÎÄ±¾ÑùÊ½
+TextEditDialog.toolTip.tag.i=æ–œä½“æ–‡æœ¬æ ·å¼
 
-TextEditDialog.toolTip.tag.img=±ê×¼ HTML Í¼ÏñÒıÓÃ
+TextEditDialog.toolTip.tag.img=æ ‡å‡† HTML å›¾åƒå¼•ç”¨
 
-TextEditDialog.toolTip.tag.ins=²åÈëµÄÎÄ±¾
+TextEditDialog.toolTip.tag.ins=æ’å…¥çš„æ–‡æœ¬
 
-TextEditDialog.toolTip.tag.li=ÁĞ±íÏî
+TextEditDialog.toolTip.tag.li=åˆ—è¡¨é¡¹
 
-TextEditDialog.toolTip.tag.p=¶Î
+TextEditDialog.toolTip.tag.p=æ®µ
 
-TextEditDialog.toolTip.tag.pre=Ô¤ÉèÎÄ±¾
+TextEditDialog.toolTip.tag.pre=é¢„è®¾æ–‡æœ¬
 
-TextEditDialog.toolTip.tag.strong=ÌØ±ğÇ¿µ÷
+TextEditDialog.toolTip.tag.strong=ç‰¹åˆ«å¼ºè°ƒ
 
-TextEditDialog.toolTip.tag.sub=ÏÂ±ê
+TextEditDialog.toolTip.tag.sub=ä¸‹æ ‡
 
-TextEditDialog.toolTip.tag.sup=ÉÏ±ê
+TextEditDialog.toolTip.tag.sup=ä¸Šæ ‡
 
-TextEditDialog.toolTip.tag.tt=µç´«»òµÈ¾àÎÄ±¾ÑùÊ½
+TextEditDialog.toolTip.tag.tt=ç”µä¼ æˆ–ç­‰è·æ–‡æœ¬æ ·å¼
 
-TextEditDialog.toolTip.tag.u=ÏÂ»®ÏßÎÄ±¾ÑùÊ½
+TextEditDialog.toolTip.tag.u=ä¸‹åˆ’çº¿æ–‡æœ¬æ ·å¼
 
-TextEditDialog.toolTip.tag.ul=ÎŞĞòÁĞ±í
+TextEditDialog.toolTip.tag.ul=æ— åºåˆ—è¡¨
 
-TextEditDialog.toolTip.valueOf=Öµ
+TextEditDialog.toolTip.valueOf=å€¼
 
-TextEditDialog.toolTipText.copy=¸´ÖÆ
+TextEditDialog.toolTipText.copy=å¤åˆ¶
 
-TextEditDialog.toolTipText.cut=¼ôÇĞ
+TextEditDialog.toolTipText.cut=å‰ªåˆ‡
 
-TextEditDialog.toolTipText.delete=É¾³ı
+TextEditDialog.toolTipText.delete=åˆ é™¤
 
-TextEditDialog.toolTipText.paste=Õ³Ìù
+TextEditDialog.toolTipText.paste=ç²˜è´´
 
-TextEditDialog.toolTipText.redo=»Ö¸´
+TextEditDialog.toolTipText.redo=æ¢å¤
 
-TextEditDialog.toolTipText.undo=³·Ïû
+TextEditDialog.toolTipText.undo=æ’¤æ¶ˆ
 
-TextEditDialog.toolTipText.fx=´ò¿ª±í´ïÊ½Éú³ÉÆ÷
+TextEditDialog.toolTipText.fx=æ‰“å¼€è¡¨è¾¾å¼ç”Ÿæˆå™¨
 
-TextEditDialog.action.item.formatHTML=HTML ¸ñÊ½
-TextEditDialog.action.item.formatDateTime=ÉèÖÃÈÕÆÚÊ±¼ä¸ñÊ½
+TextEditDialog.action.item.formatHTML=HTML æ ¼å¼
+TextEditDialog.action.item.formatDateTime=è®¾ç½®æ—¥æœŸæ—¶é—´æ ¼å¼
 
-TextEditDialog.action.item.formatNumber=ÉèÖÃÊı×Ö¸ñÊ½
+TextEditDialog.action.item.formatNumber=è®¾ç½®æ•°å­—æ ¼å¼
 
-TextEditDialog.action.item.formatString=×Ö·û´®¸ñÊ½
+TextEditDialog.action.item.formatString=å­—ç¬¦ä¸²æ ¼å¼
 
-TextEditDialog.title.DlgNew=ĞÂ½¨ÎÄ±¾Ïî
+TextEditDialog.title.DlgNew=æ–°å»ºæ–‡æœ¬é¡¹
 
-TextEditDialog.title.DlgEdit=±à¼­ÎÄ±¾Ïî
+TextEditDialog.title.DlgEdit=ç¼–è¾‘æ–‡æœ¬é¡¹
 
 ###########################################################
 #TextEditPart properties
-TextEditPart.Figure.Dafault=ÎÄ±¾
+TextEditPart.Figure.Dafault=æ–‡æœ¬
 
-TextEditPart.trans.editText=±à¼­ÎÄ±¾Ïî
+TextEditPart.trans.editText=ç¼–è¾‘æ–‡æœ¬é¡¹
 
 ###########################################################
 #TextExtendsTools properties
-TextExtendsTools.Message.DefaultAuthor=Birt Eclipse Report Designer °æ±¾
+TextExtendsTools.Message.DefaultAuthor=Birt Eclipse Report Designer ç‰ˆæœ¬
 
 ###########################################################
 #TextPageGenerator properties
-TextPageGenerator.List.Bookmark=ÊéÇ©
+TextPageGenerator.List.Bookmark=ä¹¦ç­¾
 
-TextPageGenerator.List.Borders=±ß¿ò
+TextPageGenerator.List.Borders=è¾¹æ¡†
 
-TextPageGenerator.List.General=³£¹æ
+TextPageGenerator.List.General=å¸¸è§„
 
-TextPageGenerator.List.I18n=±¾µØ»¯
+TextPageGenerator.List.I18n=æœ¬åœ°åŒ–
 
-TextPageGenerator.List.Margin=±ß¾à
+TextPageGenerator.List.Margin=è¾¹è·
 
-TextPageGenerator.List.Padding=Ìî³ä
+TextPageGenerator.List.Padding=å¡«å……
 
-TextPageGenerator.List.Section=·ÖÒ³·û
+TextPageGenerator.List.Section=åˆ†é¡µç¬¦
 
-TextPageGenerator.List.TOC=Ä¿Â¼
+TextPageGenerator.List.TOC=ç›®å½•
 
-TextPageGenerator.List.Visibility=¿É¼ûĞÔ
+TextPageGenerator.List.Visibility=å¯è§æ€§
 
 ###########################################################
 #TextPropertyDescriptor properties
-TextPropertyDescriptor.Message.Version=Eclipse BIRT Designer °æ±¾ {0} ÄÚ²¿°æ±¾ <{1}>
+TextPropertyDescriptor.Message.Version=Eclipse BIRT Designer ç‰ˆæœ¬ {0} å†…éƒ¨ç‰ˆæœ¬ <{1}>
 
 ###########################################################
 #AutoTextPageGenerator properties
-AutoTextPageGenerator.List.Bookmark=ÊéÇ©
+AutoTextPageGenerator.List.Bookmark=ä¹¦ç­¾
 
-AutoTextPageGenerator.List.Borders=±ß¿ò
+AutoTextPageGenerator.List.Borders=è¾¹æ¡†
 
-AutoTextPageGenerator.List.General=³£¹æ
+AutoTextPageGenerator.List.General=å¸¸è§„
 
-AutoTextPageGenerator.List.Margin=±ß¾à
+AutoTextPageGenerator.List.Margin=è¾¹è·
 
-AutoTextPageGenerator.List.Padding=Ìî³ä
+AutoTextPageGenerator.List.Padding=å¡«å……
 
-AutoTextPageGenerator.List.Section=·ÖÒ³·û
+AutoTextPageGenerator.List.Section=åˆ†é¡µç¬¦
 
-AutoTextPageGenerator.List.TOC=Ä¿Â¼
+AutoTextPageGenerator.List.TOC=ç›®å½•
 
-AutoTextPageGenerator.List.Visibility=¿É¼ûĞÔ
+AutoTextPageGenerator.List.Visibility=å¯è§æ€§
 
 ###########################################################
 #ThemesNodeProvider properties
-ThemesNodeProvider.action.New=ĞÂ½¨²¼¾°Ö÷Ìâ(&N)...
+ThemesNodeProvider.action.New=æ–°å»ºå¸ƒæ™¯ä¸»é¢˜(&N)...
 
-ThemesNodeProvider.Failed=ĞÂ½¨²¼¾°Ö÷ÌâÊ§°Ü
+ThemesNodeProvider.Failed=æ–°å»ºå¸ƒæ™¯ä¸»é¢˜å¤±è´¥
 
-NewThemeDialog.DialogTitle=ĞÂ²¼¾°Ö÷Ìâ
+NewThemeDialog.DialogTitle=æ–°å¸ƒæ™¯ä¸»é¢˜
 
-NewThemeDialog.DialogMessage=ÇëÊäÈëÃû³Æ
+NewThemeDialog.DialogMessage=è¯·è¾“å…¥åç§°
 
 ###########################################################
 #TimeOptionDialog properties
-TimeOptionDialog.Label.Format=¸ñÊ½
+TimeOptionDialog.Label.Format=æ ¼å¼
 
 TimeOptionDialog.Label.TimeZone=TimeZone
 
 ###########################################################
 #ToggleMarginVisibilityAction properties
-ToggleMarginVisibilityAction.text.Label=ÏÔÊ¾±ß¾à(&M)
+ToggleMarginVisibilityAction.text.Label=æ˜¾ç¤ºè¾¹è·(&M)
 
-ToggleMarginVisibilityAction.text.Tooltip=ÇĞ»»±ß¾à
+ToggleMarginVisibilityAction.text.Tooltip=åˆ‡æ¢è¾¹è·
 
 ###########################################################
 #TwinExpressionDialog properties
-TwinExpressionDialog.Dialog.Title=<Ñ¡ÔñÖµ...>
+TwinExpressionDialog.Dialog.Title=<é€‰æ‹©å€¼...>
 
-TwinExpressionDialog.lable.value1=Öµ 1:
+TwinExpressionDialog.lable.value1=å€¼ 1:
 
-TwinExpressionDialog.lable.value2=Öµ 2:
+TwinExpressionDialog.lable.value2=å€¼ 2:
 
 ###########################################################
 #UndoAction properties
-UndoAction.Tooltip=³·Ïú {0}
+UndoAction.Tooltip=æ’¤é”€ {0}
 
 ###########################################################
 #UnitPropertyDescriptor properties
-UnitPropertyDescriptor.error.message=ÇëÊäÈë½ÏĞ¡µÄÖµ\!
+UnitPropertyDescriptor.error.message=è¯·è¾“å…¥è¾ƒå°çš„å€¼\!
 
-UnitPropertyDescriptor.error.title=ÖµÌ«´ó
+UnitPropertyDescriptor.error.title=å€¼å¤ªå¤§
 
 ###########################################################
 #UseLibraryAction properties
-UseLibraryAction.Text=Ê¹ÓÃ¿â(&U)
+UseLibraryAction.Text=ä½¿ç”¨åº“(&U)
 
-UseLibraryAction.Error.Title=Ìæ»»ÏÖÓĞÎÄ¼ş
+UseLibraryAction.Error.Title=æ›¿æ¢ç°æœ‰æ–‡ä»¶
 
-UseLibraryAction.Error.Message=BIRT ×ÊÔ´ÎÄ¼ş¼ĞÖĞÒÑ¾­´æÔÚÎÄ¼ş¡°{0}¡±¡£ÊÇ·ñÒªÌæ»»ÏÖÓĞÎÄ¼ş£¿
+UseLibraryAction.Error.Message=BIRT èµ„æºæ–‡ä»¶å¤¹ä¸­å·²ç»å­˜åœ¨æ–‡ä»¶â€œ{0}â€ã€‚æ˜¯å¦è¦æ›¿æ¢ç°æœ‰æ–‡ä»¶ï¼Ÿ
 
 ###########################################################
 #UseCSSAction properties
-UseCSSAction.Text=Ê¹ÓÃ CSS(&U)
+UseCSSAction.Text=ä½¿ç”¨ CSS(&U)
 
 ###########################################################
 #UserPropertyBuilder properties
-UserPropertyBuilder.0=ĞÂÓÃ»§ÊôĞÔ
+UserPropertyBuilder.0=æ–°ç”¨æˆ·å±æ€§
 
-UserPropertyBuilder.ErrorMessage.DuplicatedName=ÄúÖ¸¶¨µÄÃû³ÆÒÑ±»Ê¹ÓÃ¡£
+UserPropertyBuilder.ErrorMessage.DuplicatedName=æ‚¨æŒ‡å®šçš„åç§°å·²è¢«ä½¿ç”¨ã€‚
 
-UserPropertyBuilder.ErrorMessage.NoName=ÇëÖ¸¶¨Ò»¸öÃû³Æ¡£
+UserPropertyBuilder.ErrorMessage.NoName=è¯·æŒ‡å®šä¸€ä¸ªåç§°ã€‚
 
-UserPropertiesHandleProvier.Column.Name=Ãû³Æ
+UserPropertiesHandleProvier.Column.Name=åç§°
 
-UserPropertiesHandleProvier.Column.Type=ÀàĞÍ
+UserPropertiesHandleProvier.Column.Type=ç±»å‹
 
-UserPropertyBuilder.Label.DefaultValue=Ä¬ÈÏÖµ(&V):
+UserPropertyBuilder.Label.DefaultValue=é»˜è®¤å€¼(&V):
 
-UserPropertyBuilder.Label.ExpressionName=±í´ïÊ½Ãû³Æ(&N):
+UserPropertyBuilder.Label.ExpressionName=è¡¨è¾¾å¼åç§°(&N):
 
-UserPropertyBuilder.Label.PropertyName=ÊôĞÔÃû³Æ(&N):
+UserPropertyBuilder.Label.PropertyName=å±æ€§åç§°(&N):
 
-UserPropertyBuilder.Label.PropertyType=ÊôĞÔÀàĞÍ(&T):
+UserPropertyBuilder.Label.PropertyType=å±æ€§ç±»å‹(&T):
 
-UserPropertyBuilder.Title.NamedExpression=ĞÂÃüÃû±í´ïÊ½
+UserPropertyBuilder.Title.NamedExpression=æ–°å‘½åè¡¨è¾¾å¼
 
 ###########################################################
 #VisibilityPage properties
-VisibilityPage.Check.HideElement=Òş²ØÔªËØ(&H)
+VisibilityPage.Check.HideElement=éšè—å…ƒç´ (&H)
 
 VisibilityPage.Check.HTML=H&TML
 VisibilityPage.Check.PDF=&PDF
-VisibilityPage.Label.DetailAll=ÏêÏ¸×ÊÁÏ£¨ËùÓĞÊä³ö£©
+VisibilityPage.Label.DetailAll=è¯¦ç»†èµ„æ–™ï¼ˆæ‰€æœ‰è¾“å‡ºï¼‰
 
-VisibilityPage.Label.DetailSpecific=ÏêÏ¸×ÊÁÏ£¨ÌØ¶¨Êä³ö£©
+VisibilityPage.Label.DetailSpecific=è¯¦ç»†èµ„æ–™ï¼ˆç‰¹å®šè¾“å‡ºï¼‰
 
-VisibilityPage.Label.Expression=±í´ïÊ½:
+VisibilityPage.Label.Expression=è¡¨è¾¾å¼:
 
-VisibilityPage.menu.SaveHides=±£´æÒş²ØÄÚÈİ
+VisibilityPage.menu.SaveHides=ä¿å­˜éšè—å†…å®¹
 
-VisibilityPage.Radio.AllOutputs=ÊÊÓÃÓÚËùÓĞÊä³ö(&A)
+VisibilityPage.Radio.AllOutputs=é€‚ç”¨äºæ‰€æœ‰è¾“å‡º(&A)
 
-VisibilityPage.Radio.SpecificOutputs=¶ÔÓÚÌØ¶¨Êä³ö(&C)...
+VisibilityPage.Radio.SpecificOutputs=å¯¹äºç‰¹å®šè¾“å‡º(&C)...
 
 ###########################################################
 #WidgetUtil properties
-WidgetUtil.MessageBox.Error=´íÎó
+WidgetUtil.MessageBox.Error=é”™è¯¯
 
 ###########################################################
 #wizard properties
-wizard.transaction.createDataSource=¶¨ÒåÊı¾İÔ´µÄÃû³ÆºÍÀàĞÍ¡£
+wizard.transaction.createDataSource=å®šä¹‰æ•°æ®æºçš„åç§°å’Œç±»å‹ã€‚
 
 ###########################################################
 #WizardChoicePage properties
-WizardChoicePage.radio.createBlank=ÔÚ²»Ê¹ÓÃÄ£°åµÄÇé¿öÏÂ´´½¨ĞÂµÄ¿Õ°×±¨±í¡£
+WizardChoicePage.radio.createBlank=åœ¨ä¸ä½¿ç”¨æ¨¡æ¿çš„æƒ…å†µä¸‹åˆ›å»ºæ–°çš„ç©ºç™½æŠ¥è¡¨ã€‚
 
-WizardChoicePage.radio.createFromCustom=Í¨¹ı¸´ÖÆÆäËû±¨±íÀ´´´½¨±¨±í¡£
+WizardChoicePage.radio.createFromCustom=é€šè¿‡å¤åˆ¶å…¶ä»–æŠ¥è¡¨æ¥åˆ›å»ºæŠ¥è¡¨ã€‚
 
-WizardChoicePage.radio.createFromTemplate=Ê¹ÓÃÄ£°å´´½¨±¨±í¡£
+WizardChoicePage.radio.createFromTemplate=ä½¿ç”¨æ¨¡æ¿åˆ›å»ºæŠ¥è¡¨ã€‚
 
 ###########################################################
 #WizardCustomTemplatePage properties
-WizardCustomTemplatePage.button.Browse=ä¯ÀÀ
+WizardCustomTemplatePage.button.Browse=æµè§ˆ
 
-WizardCustomTemplatePage.label.FileName=ÊäÈë»òÑ¡ÔñÏÖÓĞ±¨±íÎÄ¼şÃû¡£
+WizardCustomTemplatePage.label.FileName=è¾“å…¥æˆ–é€‰æ‹©ç°æœ‰æŠ¥è¡¨æ–‡ä»¶åã€‚
 
-WizardCustomTemplatePage.label.FromLocal=´Ó±¾µØÎÄ¼şÏµÍ³ÖĞä¯ÀÀ¡£
+WizardCustomTemplatePage.label.FromLocal=ä»æœ¬åœ°æ–‡ä»¶ç³»ç»Ÿä¸­æµè§ˆã€‚
 
-WizardCustomTemplatePage.label.FromProjectDescription=Ñ¡ÔñÏÖÓĞ±¨±íÎÄ¼ş¡£
+WizardCustomTemplatePage.label.FromProjectDescription=é€‰æ‹©ç°æœ‰æŠ¥è¡¨æ–‡ä»¶ã€‚
 
-WizardCustomTemplatePage.label.FromProjectTitle=±¨±íÎÄ¼şÑ¡Ôñ
+WizardCustomTemplatePage.label.FromProjectTitle=æŠ¥è¡¨æ–‡ä»¶é€‰æ‹©
 
 ###########################################################
 #WizardNewReportCreationPage properties
-WizardNewReportCreationPage.Errors.nameExists=¸ÃÃû³ÆÒÑ¾­´æÔÚ¡£
+WizardNewReportCreationPage.Errors.nameExists=è¯¥åç§°å·²ç»å­˜åœ¨ã€‚
 
-WizardNewReportCreationPage.Errors.nameEmpty=Ãû³Æ²»ÄÜÎª¿Õ¡£
+WizardNewReportCreationPage.Errors.nameEmpty=åç§°ä¸èƒ½ä¸ºç©ºã€‚
 
-WizardNewReportCreationPage.label.browse=ä¯ÀÀ...
+WizardNewReportCreationPage.label.browse=æµè§ˆ...
 
-WizardNewReportCreationPage.label.directory=Ä¿Â¼:
+WizardNewReportCreationPage.label.directory=ç›®å½•:
 
-WizardNewReportCreationPage.label.file.location=ÎÄ¼şÎ»ÖÃ
+WizardNewReportCreationPage.label.file.location=æ–‡ä»¶ä½ç½®
 
-WizardNewReportCreationPage.label.file.name=ÎÄ¼şÃû:
+WizardNewReportCreationPage.label.file.name=æ–‡ä»¶å:
 
-WizardNewReportCreationPage.label.select.directory=Ñ¡ÔñÄ¿Â¼¡£
+WizardNewReportCreationPage.label.select.directory=é€‰æ‹©ç›®å½•ã€‚
 
-WizardNewReportCreationPage.label.useDefault=Ê¹ÓÃÄ¬ÈÏÉèÖÃ
+WizardNewReportCreationPage.label.useDefault=ä½¿ç”¨é»˜è®¤è®¾ç½®
 
-WizardNewReportCreationPage.msg.duplicate.fileName=¸ÃÃû³ÆÒÑ¾­´æÔÚ¡£
+WizardNewReportCreationPage.msg.duplicate.fileName=è¯¥åç§°å·²ç»å­˜åœ¨ã€‚
 
-WizardNewReportCreationPage.msg.empty.file.locationDirectory=ÎÄ¼şÎ»ÖÃÄ¿Â¼²»ÄÜÎª¿Õ¡£
+WizardNewReportCreationPage.msg.empty.file.locationDirectory=æ–‡ä»¶ä½ç½®ç›®å½•ä¸èƒ½ä¸ºç©ºã€‚
 
-WizardNewReportCreationPage.msg.empty.file.name=ÎÄ¼şÃû²»ÄÜÎª¿Õ¡£
+WizardNewReportCreationPage.msg.empty.file.name=æ–‡ä»¶åä¸èƒ½ä¸ºç©ºã€‚
 
 ###########################################################
 #WizardSelectCssStylePage properties
-WizardSelectCssStylePage.button.label.browse=ä¯ÀÀ(&B)...
+WizardSelectCssStylePage.button.label.browse=æµè§ˆ(&B)...
 
-WizardSelectCssStylePage.button.label.deselectAll=È¡ÏûÈ«Ñ¡(&D)
+WizardSelectCssStylePage.button.label.deselectAll=å–æ¶ˆå…¨é€‰(&D)
 
-WizardSelectCssStylePage.button.label.selectAll=È«Ñ¡(&S)
+WizardSelectCssStylePage.button.label.selectAll=å…¨é€‰(&S)
 
-WizardSelectCssStylePage.errorMsg.FileNotExist=ÎÄ¼ş²»´æÔÚ¡£
+WizardSelectCssStylePage.errorMsg.FileNotExist=æ–‡ä»¶ä¸å­˜åœ¨ã€‚
 
-WizardSelectCssStylePage.info.canNotImport=\ \ (ÎŞ·¨µ¼Èë)
+WizardSelectCssStylePage.info.canNotImport=\ \ (æ— æ³•å¯¼å…¥)
 
-WizardSelectCssStylePage.label.fileName=ÎÄ¼şÃû(&N):
+WizardSelectCssStylePage.label.fileName=æ–‡ä»¶å(&N):
 
-WizardSelectCssStylePage.label.importToReportDesign=\ µ¼Èëµ½±¨±íÉè¼Æ¡£
+WizardSelectCssStylePage.label.importToReportDesign=\ å¯¼å…¥åˆ°æŠ¥è¡¨è®¾è®¡ã€‚
 
-WizardSelectCssStylePage.label.notifications=Í¨Öª:
+WizardSelectCssStylePage.label.notifications=é€šçŸ¥:
 
-WizardSelectCssStylePage.label.selectStylesFrom=Ñ¡ÔñÑùÊ½×Ô
+WizardSelectCssStylePage.label.selectStylesFrom=é€‰æ‹©æ ·å¼è‡ª
 
-WizardSelectCssStylePage.msg.FileNameEmpty=ÎÄ¼şÃû²»ÄÜÎª¿Õ¡£
+WizardSelectCssStylePage.msg.FileNameEmpty=æ–‡ä»¶åä¸èƒ½ä¸ºç©ºã€‚
 
-WizardSelectCssStylePage.text.cannot.import.style=\ - ÎŞ·¨µ¼ÈëÑùÊ½¡£
+WizardSelectCssStylePage.text.cannot.import.style=\ - æ— æ³•å¯¼å…¥æ ·å¼ã€‚
 
-WizardSelectCssStylePage.FileNameError.Title=´íÎó
+WizardSelectCssStylePage.FileNameError.Title=é”™è¯¯
 
-WizardSelectCssStylePage.FileNameError.Message=Ñ¡ÔñµÄÎÄ¼şÎŞĞ§¡£
+WizardSelectCssStylePage.FileNameError.Message=é€‰æ‹©çš„æ–‡ä»¶æ— æ•ˆã€‚
 
 ###########################################################
 #WizardTemplateChoicePage properties
-WizardTemplateChoicePage.label.Description=ÃèÊö:
+WizardTemplateChoicePage.label.Description=æè¿°:
 
-WizardTemplateChoicePage.label.Preview=Ô¤ÀÀ:
+WizardTemplateChoicePage.label.Preview=é¢„è§ˆ:
 
-WizardTemplateChoicePage.label.ReportTemplates=±¨±íÄ£°å:
+WizardTemplateChoicePage.label.ReportTemplates=æŠ¥è¡¨æ¨¡æ¿:
 
-WizardTemplateChoicePage.label.ShowCheatSheets=ÏÔÊ¾±¨±í´´½¨±¸Íüµ¥(&S)
+WizardTemplateChoicePage.label.ShowCheatSheets=æ˜¾ç¤ºæŠ¥è¡¨åˆ›å»ºå¤‡å¿˜å•(&S)
 
-WizardTemplateChoicePage.label.EnableDefaultThemes=°üº¬Ä¬ÈÏÖ÷Ìâ(&I)
+WizardTemplateChoicePage.label.EnableDefaultThemes=åŒ…å«é»˜è®¤ä¸»é¢˜(&I)
 
-WizardTemplateChoicePage.message.BlankReport=´´½¨ÎŞÔ¤¶¨ÒåÄÚÈİµÄ¿Õ±¨±í¡£
+WizardTemplateChoicePage.message.BlankReport=åˆ›å»ºæ— é¢„å®šä¹‰å†…å®¹çš„ç©ºæŠ¥è¡¨ã€‚
 
-WizardTemplateChoicePage.message.ChartListing=´´½¨·Ö×é±¨±í£¬²¢¸½´øÖ±¹Û±íÊ¾Ã¿¸ö×éÊı¾İµÄÍ¼±í¡£
+WizardTemplateChoicePage.message.ChartListing=åˆ›å»ºåˆ†ç»„æŠ¥è¡¨ï¼Œå¹¶é™„å¸¦ç›´è§‚è¡¨ç¤ºæ¯ä¸ªç»„æ•°æ®çš„å›¾è¡¨ã€‚
 
-WizardTemplateChoicePage.message.DualColumnChartListing=´´½¨´øÁ½¸ö¡°Í¼±íºÍÁĞ±í¡±×Ó×éµÄ·Ö×é±¨±í¡£
+WizardTemplateChoicePage.message.DualColumnChartListing=åˆ›å»ºå¸¦ä¸¤ä¸ªâ€œå›¾è¡¨å’Œåˆ—è¡¨â€å­ç»„çš„åˆ†ç»„æŠ¥è¡¨ã€‚
 
-WizardTemplateChoicePage.message.DualColumnListing=´´½¨´øÁ½¸ö×Ó×éµÄ·Ö×é±¨±í¡£
+WizardTemplateChoicePage.message.DualColumnListing=åˆ›å»ºå¸¦ä¸¤ä¸ªå­ç»„çš„åˆ†ç»„æŠ¥è¡¨ã€‚
 
-WizardTemplateChoicePage.message.FirstReport=Ìá¹©´´½¨¿Í»§ÁĞ±í±¨±íµÄËµÃ÷¡£
+WizardTemplateChoicePage.message.FirstReport=æä¾›åˆ›å»ºå®¢æˆ·åˆ—è¡¨æŠ¥è¡¨çš„è¯´æ˜ã€‚
 
-WizardTemplateChoicePage.message.GroupedListing=´´½¨Ò»¸ö¸ù¾İÄ³Ğ©×Ö¶Î·Ö×éµÄÁĞ±í±¨±í¡£
+WizardTemplateChoicePage.message.GroupedListing=åˆ›å»ºä¸€ä¸ªæ ¹æ®æŸäº›å­—æ®µåˆ†ç»„çš„åˆ—è¡¨æŠ¥è¡¨ã€‚
 
-WizardTemplateChoicePage.message.Letter=Ê¹ÓÃÊı¾İÔ´ÖĞµÄ×Ö¶Î´´½¨Ò»¸öÄ£°åÒÔÉú³É¸öĞÔ»¯×ÖÄ¸
+WizardTemplateChoicePage.message.Letter=ä½¿ç”¨æ•°æ®æºä¸­çš„å­—æ®µåˆ›å»ºä¸€ä¸ªæ¨¡æ¿ä»¥ç”Ÿæˆä¸ªæ€§åŒ–å­—æ¯
 
-WizardTemplateChoicePage.message.MailingLabels=ÓÊ¼Ä±êÇ©
+WizardTemplateChoicePage.message.MailingLabels=é‚®å¯„æ ‡ç­¾
 
-WizardTemplateChoicePage.message.SideBySideChartListing=´´½¨Ò»¸ö·Ö×é±¨±í£¬ÆäÖĞÃ¿¸ö×é¶¼²¢ÅÅ°üº¬Ò»¸öÍ¼±íºÍÒ»¸öÁĞ±í¡£
+WizardTemplateChoicePage.message.SideBySideChartListing=åˆ›å»ºä¸€ä¸ªåˆ†ç»„æŠ¥è¡¨ï¼Œå…¶ä¸­æ¯ä¸ªç»„éƒ½å¹¶æ’åŒ…å«ä¸€ä¸ªå›¾è¡¨å’Œä¸€ä¸ªåˆ—è¡¨ã€‚
 
-WizardTemplateChoicePage.message.SimpleListing=Ê¹ÓÃÊı¾İÔ´ÖĞµÄ×Ö¶Î´´½¨ÁĞ±í±¨±í¡£
+WizardTemplateChoicePage.message.SimpleListing=ä½¿ç”¨æ•°æ®æºä¸­çš„å­—æ®µåˆ›å»ºåˆ—è¡¨æŠ¥è¡¨ã€‚
 
-WizardTemplateChoicePage.message.Crosstab=Ê¹ÓÃ½Ì³Ì¹¹½¨½»²æ±í±¨±í
+WizardTemplateChoicePage.message.Crosstab=ä½¿ç”¨æ•™ç¨‹æ„å»ºäº¤å‰è¡¨æŠ¥è¡¨
 
-WizardTemplateChoicePage.message.BlankAuto=¿Õ°×±¨±íÄ£°å£¬²é¿´Ê±»áÒÔ½»»¥·½Ê½×Ô¶¯ÆôÓÃ¡£
+WizardTemplateChoicePage.message.BlankAuto=ç©ºç™½æŠ¥è¡¨æ¨¡æ¿ï¼ŒæŸ¥çœ‹æ—¶ä¼šä»¥äº¤äº’æ–¹å¼è‡ªåŠ¨å¯ç”¨ã€‚
 
-WizardTemplateChoicePage.title.BlankAuto=¿Õ°××Ô¶¯½»»¥Ê½±¨±í
+WizardTemplateChoicePage.title.BlankAuto=ç©ºç™½è‡ªåŠ¨äº¤äº’å¼æŠ¥è¡¨
 
-WizardTemplateChoicePage.title.BlankReport=¿Õ°×±¨±í
+WizardTemplateChoicePage.title.BlankReport=ç©ºç™½æŠ¥è¡¨
 
-WizardTemplateChoicePage.title.ChartListing=Í¼±íºÍÁĞ±í
+WizardTemplateChoicePage.title.ChartListing=å›¾è¡¨å’Œåˆ—è¡¨
 
-WizardTemplateChoicePage.title.DualColumnChartListing=Ë«ÁĞÍ¼±íºÍÁĞ±í
+WizardTemplateChoicePage.title.DualColumnChartListing=åŒåˆ—å›¾è¡¨å’Œåˆ—è¡¨
 
-WizardTemplateChoicePage.title.DualColumnListing=Ë«ÁĞÁĞ±í
+WizardTemplateChoicePage.title.DualColumnListing=åŒåˆ—åˆ—è¡¨
 
-WizardTemplateChoicePage.title.FirstReport=ÎÒµÄµÚÒ»·İ±¨±í
+WizardTemplateChoicePage.title.FirstReport=æˆ‘çš„ç¬¬ä¸€ä»½æŠ¥è¡¨
 
-WizardTemplateChoicePage.title.GroupedListing=·Ö×éÁĞ±í
+WizardTemplateChoicePage.title.GroupedListing=åˆ†ç»„åˆ—è¡¨
 
-WizardTemplateChoicePage.title.Letter=×ÖÄ¸
+WizardTemplateChoicePage.title.Letter=å­—æ¯
 
-WizardTemplateChoicePage.title.MailingLabels=ÓÊ¼Ä±êÇ©
+WizardTemplateChoicePage.title.MailingLabels=é‚®å¯„æ ‡ç­¾
 
-WizardTemplateChoicePage.title.SideBySideChartListing=²¢ÅÅÍ¼±íºÍÁĞ±í
+WizardTemplateChoicePage.title.SideBySideChartListing=å¹¶æ’å›¾è¡¨å’Œåˆ—è¡¨
 
-WizardTemplateChoicePage.title.SimpleListing=¼òÒ×ÁĞ±í
+WizardTemplateChoicePage.title.SimpleListing=ç®€æ˜“åˆ—è¡¨
 
-WizardTemplateChoicePage.title.Crosstab=½»²æ±í
+WizardTemplateChoicePage.title.Crosstab=äº¤å‰è¡¨
 #bidi_hcg start
-WizardTemplateChoicePage.label.rtlBiDiOrientation=´ÓÓÒµ½×ó
+WizardTemplateChoicePage.label.rtlBiDiOrientation=ä»å³åˆ°å·¦
 
-WizardTemplateChoicePage.label.ltrBiDiOrientation=´Ó×óµ½ÓÒ
+WizardTemplateChoicePage.label.ltrBiDiOrientation=ä»å·¦åˆ°å³
 
-WizardTemplateChoicePage.label.chooseBiDiDirection=±¨±í·½Ïò(&R):
+WizardTemplateChoicePage.label.chooseBiDiDirection=æŠ¥è¡¨æ–¹å‘(&R):
 
-WizardTemplateChoicePage.RootDisplayName=±ê×¼
+WizardTemplateChoicePage.RootDisplayName=æ ‡å‡†
 #bidi_hcg end
 ###########################################################
 #XMLSourcePage properties
-XMLSourcePage.Error.Dialog.Message.InvalidFile=±ØĞëÏÈ¸ÄÕı XML Ô´Ò³ÖĞµÄ´íÎó£¬È»ºó²ÅÄÜÊ¹ÓÃÆäËüÒ³¡£
+XMLSourcePage.Error.Dialog.Message.InvalidFile=å¿…é¡»å…ˆæ”¹æ­£ XML æºé¡µä¸­çš„é”™è¯¯ï¼Œç„¶åæ‰èƒ½ä½¿ç”¨å…¶å®ƒé¡µã€‚
 
-XMLSourcePage.Error.Dialog.Message.SaveFile=XML Ô´Ò³ÒÑ¸ü¸Ä¡£ Ö±µ½±£´æ XML Ô´Ö®ºó²ÅÄÜÊ¹ÓÃÆäËüÒ³¡£
+XMLSourcePage.Error.Dialog.Message.SaveFile=XML æºé¡µå·²æ›´æ”¹ã€‚ ç›´åˆ°ä¿å­˜ XML æºä¹‹åæ‰èƒ½ä½¿ç”¨å…¶å®ƒé¡µã€‚
 
-XMLSourcePage.Error.Dialog.title=´íÎó
+XMLSourcePage.Error.Dialog.title=é”™è¯¯
 
-XMLSourcePage.Error.Dialog.Message.PromptMsg=XML ±¨±íÉè¼ÆÔ´ÒÑ¸ü¸Ä¡£ ÊÇ·ñÒª±£´æÕâĞ©¸ü¸Ä£¿
+XMLSourcePage.Error.Dialog.Message.PromptMsg=XML æŠ¥è¡¨è®¾è®¡æºå·²æ›´æ”¹ã€‚ æ˜¯å¦è¦ä¿å­˜è¿™äº›æ›´æ”¹ï¼Ÿ
 
-XMLSourcePage.Error.Dialog.Message.Yes=ÊÇ
+XMLSourcePage.Error.Dialog.Message.Yes=æ˜¯
 
-XMLSourcePage.Error.Dialog.Message.No=·ñ
+XMLSourcePage.Error.Dialog.Message.No=å¦
 
-XMLSourcePage.Error.Dialog.Message.Cancel=È¡Ïû
+XMLSourcePage.Error.Dialog.Message.Cancel=å–æ¶ˆ
 
 ###########################################################
 #SaveReportAsWizard properties
-SaveReportAsWizard.SettingPage.title=ÉèÖÃÄ£°åÊôĞÔ
+SaveReportAsWizard.SettingPage.title=è®¾ç½®æ¨¡æ¿å±æ€§
 
-SaveReportAsWizard.SaveAsPageTitle=Áí´æÎª
+SaveReportAsWizard.SaveAsPageTitle=å¦å­˜ä¸º
 
-SaveReportAsWizard.SaveAsLibraryMessage=Ê¹ÓÃÁíÒ»¸öÃû³Æ½«ÎÄ¼şÁí´æÎª¿â¡£
+SaveReportAsWizard.SaveAsLibraryMessage=ä½¿ç”¨å¦ä¸€ä¸ªåç§°å°†æ–‡ä»¶å¦å­˜ä¸ºåº“ã€‚
 
-SaveReportAsWizard.SaveAsReportorTemplateMessage=Ê¹ÓÃÁíÒ»¸öÃû³Æ½«ÎÄ¼şÁí´æÎª±¨±íÉè¼Æ»òÄ£°å¡£
+SaveReportAsWizard.SaveAsReportorTemplateMessage=ä½¿ç”¨å¦ä¸€ä¸ªåç§°å°†æ–‡ä»¶å¦å­˜ä¸ºæŠ¥è¡¨è®¾è®¡æˆ–æ¨¡æ¿ã€‚
 
-SaveReportAsWizard.SettingPageTitle=ÉèÖÃ±¨±íÊôĞÔ
+SaveReportAsWizard.SettingPageTitle=è®¾ç½®æŠ¥è¡¨å±æ€§
 
-SaveReportAsWizard.SettingPage.message=Èç¹û±¨±íÁí´æÎªÄ£°å£¬Ê¹ÓÃÕâĞ©ÊôĞÔ¡£
+SaveReportAsWizard.SettingPage.message=å¦‚æœæŠ¥è¡¨å¦å­˜ä¸ºæ¨¡æ¿ï¼Œä½¿ç”¨è¿™äº›å±æ€§ã€‚
 
-SaveReportAsWizard.SaveAsWizardWindowTitle=Áí´æÎª
+SaveReportAsWizard.SaveAsWizardWindowTitle=å¦å­˜ä¸º
 
-SaveReportAsWizard.SaveAsWizardPageTitle=Áí´æÎª
+SaveReportAsWizard.SaveAsWizardPageTitle=å¦å­˜ä¸º
 
-SaveReportAsWizard.SaveAsWizardPageDesc=½«ÎÄ¼ş±£´æÖÁÁíÒ»¸öÎ»ÖÃ¡£
+SaveReportAsWizard.SaveAsWizardPageDesc=å°†æ–‡ä»¶ä¿å­˜è‡³å¦ä¸€ä¸ªä½ç½®ã€‚
 
-SaveReportAsWizard.SettingPage.Messages=ÇëÉèÖÃÄ£°åÊôĞÔ¡£
+SaveReportAsWizard.SettingPage.Messages=è¯·è®¾ç½®æ¨¡æ¿å±æ€§ã€‚
 
 ###########################################################
 #WizardReportSettingPage properties
-WizardReportSettingPage.Error.ReportorTemplate=ÎÄ¼şÃûÓ¦¸ÃÒÔ {0} »ò .rpttemplate ½áÎ²¡£
+WizardReportSettingPage.Error.ReportorTemplate=æ–‡ä»¶ååº”è¯¥ä»¥ {0} æˆ– .rpttemplate ç»“å°¾ã€‚
 
-WizardReportSettingPage.Error.Library=ÎÄ¼şÃûÓ¦¸ÃÒÔ .rptlibrary ½áÎ²¡£
+WizardReportSettingPage.Error.Library=æ–‡ä»¶ååº”è¯¥ä»¥ .rptlibrary ç»“å°¾ã€‚
 
 ###########################################################
 #WizardSaveAsPage properties
-WizardSaveAsPage.FileLabel=ÎÄ¼şÃû(&F):
+WizardSaveAsPage.FileLabel=æ–‡ä»¶å(&F):
 
-WizardSaveAsPage.Question=ÎÊÌâ
+WizardSaveAsPage.Question=é—®é¢˜
 
-WizardSaveAsPage.FolderEmpty=\ ÎÄ¼ş¼ĞÎª¿Õ¡£
+WizardSaveAsPage.FolderEmpty=\ æ–‡ä»¶å¤¹ä¸ºç©ºã€‚
 
-WizardSaveAsPage.NoProject=\ Ö¸¶¨µÄÏîÄ¿²»´æÔÚ¡£
+WizardSaveAsPage.NoProject=\ æŒ‡å®šçš„é¡¹ç›®ä¸å­˜åœ¨ã€‚
 
-WizardSaveAsPage.PathOccupied=\ ¸ÃÎ»ÖÃÒÑ¾­´æÔÚÒ»¸öÎÄ¼ş: {0}
+WizardSaveAsPage.PathOccupied=\ è¯¥ä½ç½®å·²ç»å­˜åœ¨ä¸€ä¸ªæ–‡ä»¶: {0}
 
-WizardSaveAsPage.EmptyName=\ ''{0}'' Ãû³ÆÎª¿Õ¡£
+WizardSaveAsPage.EmptyName=\ ''{0}'' åç§°ä¸ºç©ºã€‚
 
-WizardSaveAsPage.SelectFolder=\ Ñ¡ÔñÎÄ¼ş¼Ğ:
+WizardSaveAsPage.SelectFolder=\ é€‰æ‹©æ–‡ä»¶å¤¹:
 
-WizardSaveAsPage.NameExists=\ ÏàÍ¬Ãû³ÆÒÑ¾­´æÔÚ¡£
+WizardSaveAsPage.NameExists=\ ç›¸åŒåç§°å·²ç»å­˜åœ¨ã€‚
 
-WizardSaveAsPage.OverwriteQuestion=ÎÄ¼ş ''{0}'' ÒÑ¾­´æÔÚ¡£ÊÇ·ñÒªÌæ»»ÏÖÓĞÎÄ¼ş£¿
+WizardSaveAsPage.OverwriteQuestion=æ–‡ä»¶ ''{0}'' å·²ç»å­˜åœ¨ã€‚æ˜¯å¦è¦æ›¿æ¢ç°æœ‰æ–‡ä»¶ï¼Ÿ
 
-WizardSaveAsPage.InvalidFileName=\ ''{0}''²»ÊÇÓĞĞ§ÎÄ¼şÃû¡£
+WizardSaveAsPage.InvalidFileName=\ ''{0}''ä¸æ˜¯æœ‰æ•ˆæ–‡ä»¶åã€‚
 
-WizardSaveAsPage.ContainerGroup=\ ÊäÈë»òÑ¡Ôñ¸¸ÎÄ¼ş¼Ğ(&E):
+WizardSaveAsPage.ContainerGroup=\ è¾“å…¥æˆ–é€‰æ‹©çˆ¶æ–‡ä»¶å¤¹(&E):
 
 ###########################################################
 #Library DND message
-Library.DND.messages.outofsync = ±¨±íÖĞÊ¹ÓÃµÄ¿â¿ÉÄÜÒÑ±»¸ü¸Ä£¬Çë¹Ø±Õ²¢ÖØĞÂ´ò¿ª´Ë±¨±íÒÔÊ¹ÓÃ¸üĞÂµÄ¿â¡£
+Library.DND.messages.outofsync = æŠ¥è¡¨ä¸­ä½¿ç”¨çš„åº“å¯èƒ½å·²è¢«æ›´æ”¹ï¼Œè¯·å…³é—­å¹¶é‡æ–°æ‰“å¼€æ­¤æŠ¥è¡¨ä»¥ä½¿ç”¨æ›´æ–°çš„åº“ã€‚
 
-NamedExpressionsHandleProvier.Column.Name=Ãû³Æ
+NamedExpressionsHandleProvier.Column.Name=åç§°
 
-NamedExpressionsHandleProvier.Column.DefaultValue=Ä¬ÈÏÖµ
+NamedExpressionsHandleProvier.Column.DefaultValue=é»˜è®¤å€¼
 
-Library.DND.messages.cannotApplyTheme=²¼¾°Ö÷ÌâÎŞ·¨Ó¦ÓÃ¡£
+Library.DND.messages.cannotApplyTheme=å¸ƒæ™¯ä¸»é¢˜æ— æ³•åº”ç”¨ã€‚
 
-JarFileFormProvider.Column.Name=Ãû³Æ
+JarFileFormProvider.Column.Name=åç§°
 
-JsFileFormProvider.Column.Name=Ãû³Æ
+JsFileFormProvider.Column.Name=åç§°
 
-ReportPageGenerator.List.Resources.JsFile=Javascript ÎÄ¼ş:
+ReportPageGenerator.List.Resources.JsFile=Javascript æ–‡ä»¶:
 
-PropertiesFileFormProvider.Column.Name=Ãû³Æ
+PropertiesFileFormProvider.Column.Name=åç§°
 
-ReportPageGenerator.List.Resources.PropertiesFile=ÊôĞÔÎÄ¼ş:
+ReportPageGenerator.List.Resources.PropertiesFile=å±æ€§æ–‡ä»¶:
 
 ###########################################################
 #ClassFinder
-ClassFinder.TaskStart=ÕıÔÚËÑË÷´¦Àí³ÌĞòÀà...
+ClassFinder.TaskStart=æ­£åœ¨æœç´¢å¤„ç†ç¨‹åºç±»...
 
-ClassFinder.DialogTitle=ÀàÑ¡Ôñ
+ClassFinder.DialogTitle=ç±»é€‰æ‹©
 
-ClassFinder.DialogMessage=Ñ¡Ôñ´¦Àí³ÌĞòÀà(&C):
+ClassFinder.DialogMessage=é€‰æ‹©å¤„ç†ç¨‹åºç±»(&C):
 
-ClassFinder.ErrorMessage=Î´ÕÒµ½Àà
+ClassFinder.ErrorMessage=æœªæ‰¾åˆ°ç±»
 
-ClassPathBlock_button.addExtFolder=Ìí¼ÓÍâ²¿ÀàÎÄ¼ş¼Ğ(&F)...
+ClassPathBlock_button.addExtFolder=æ·»åŠ å¤–éƒ¨ç±»æ–‡ä»¶å¤¹(&F)...
 
-ClassPathBlock_button.addExtJars=Ìí¼ÓÍâ²¿ JAR(&X)...
+ClassPathBlock_button.addExtJars=æ·»åŠ å¤–éƒ¨ JAR(&X)...
 
-ClassPathBlock_button.down=ÏÂÒÆ
+ClassPathBlock_button.down=ä¸‹ç§»
 
-ClassPathBlock_button.edit=±à¼­(&E)...
+ClassPathBlock_button.edit=ç¼–è¾‘(&E)...
 
-ClassPathBlock_button.remove=É¾³ı(&R)
+ClassPathBlock_button.remove=åˆ é™¤(&R)
 
-ClassPathBlock_button.up=ÉÏÒÆ
+ClassPathBlock_button.up=ä¸Šç§»
 
-ClassPathBlock_FileDialog.edit.text=±à¼­ JAR
+ClassPathBlock_FileDialog.edit.text=ç¼–è¾‘ JAR
 
-ClassPathBlock_FileDialog.jar.text=JAR Ñ¡Ôñ
+ClassPathBlock_FileDialog.jar.text=JAR é€‰æ‹©
 
-ClassPathBlock_FolderDialog.edit.message=Ö¸¶¨ÀàÎÄ¼ş¼ĞµÄĞÂÎ»ÖÃ:
+ClassPathBlock_FolderDialog.edit.message=æŒ‡å®šç±»æ–‡ä»¶å¤¹çš„æ–°ä½ç½®:
 
-ClassPathBlock_FolderDialog.edit.text=±à¼­ÀàÎÄ¼ş¼Ğ
+ClassPathBlock_FolderDialog.edit.text=ç¼–è¾‘ç±»æ–‡ä»¶å¤¹
 
-ClassPathBlock_FolderDialog.message=Ñ¡ÔñÀàÎÄ¼ş¼ĞµÄÎ»ÖÃ:
+ClassPathBlock_FolderDialog.message=é€‰æ‹©ç±»æ–‡ä»¶å¤¹çš„ä½ç½®:
 
-ClassPathBlock_FolderDialog.text=Íâ²¿ÀàÎÄ¼ş¼ĞÑ¡Ôñ
+ClassPathBlock_FolderDialog.text=å¤–éƒ¨ç±»æ–‡ä»¶å¤¹é€‰æ‹©
 
-ClassPathBlock_label.LibrariesList=±¨±íÖ´ĞĞÂ·¾¶ÉÏµÄ JAR ºÍÀàÎÄ¼ş¼Ğ(&T):
+ClassPathBlock_label.LibrariesList=æŠ¥è¡¨æ‰§è¡Œè·¯å¾„ä¸Šçš„ JAR å’Œç±»æ–‡ä»¶å¤¹(&T):
 
 ###########################################################
 #ListingSectionPage
-ListingSectionPage.RepeatHeader=ÖØ¸´±êÌâ(&R)
+ListingSectionPage.RepeatHeader=é‡å¤æ ‡é¢˜(&R)
 
 ###########################################################
 #ResourceEditDialog
-ResourceEditDialog.NotFile.Title=Î´ÕÒµ½ÎÄ¼ş
+ResourceEditDialog.NotFile.Title=æœªæ‰¾åˆ°æ–‡ä»¶
 
-ResourceEditDialog.NotFile.Message=ÎÄ¼ş¡°{0}¡±²»´æÔÚ¡£
+ResourceEditDialog.NotFile.Message=æ–‡ä»¶â€œ{0}â€ä¸å­˜åœ¨ã€‚
 
-ResourceEditDialog.ReadOnlyEncounter.Title=Óöµ½Ö»¶ÁÎÄ¼ş
+ResourceEditDialog.ReadOnlyEncounter.Title=é‡åˆ°åªè¯»æ–‡ä»¶
 
-ResourceEditDialog.ReadOnlyEncounter.Message=ÎÄ¼ş¡°{0}¡±ÎªÖ»¶Á£¬ÇëÊ×ÏÈÈ·±£Ëü¿ÉÒÔĞ´Èë¡£
+ResourceEditDialog.ReadOnlyEncounter.Message=æ–‡ä»¶â€œ{0}â€ä¸ºåªè¯»ï¼Œè¯·é¦–å…ˆç¡®ä¿å®ƒå¯ä»¥å†™å…¥ã€‚
 
 ###########################################################
 #EventHandler
-EventHandlerPage.Browse=ä¯ÀÀ(&B)...
+EventHandlerPage.Browse=æµè§ˆ(&B)...
 
 
 ###########################################################
 #IDEFileReportProvider
-IDEClassPathBlock.button_addExtFolder=Ìí¼ÓÍâ²¿ÀàÎÄ¼ş¼Ğ(&F)...
+IDEClassPathBlock.button_addExtFolder=æ·»åŠ å¤–éƒ¨ç±»æ–‡ä»¶å¤¹(&F)...
 
-IDEClassPathBlock.button_addEXTJar=Ìí¼ÓÍâ²¿ JAR(&X)...
+IDEClassPathBlock.button_addEXTJar=æ·»åŠ å¤–éƒ¨ JAR(&X)...
 
-IDEClassPathBlock.button_addJar=Ìí¼Ó JAR(&J)...
+IDEClassPathBlock.button_addJar=æ·»åŠ  JAR(&J)...
 
-IDEClassPathBlock.button_addProject=Ìí¼ÓÏîÄ¿(&P)...
+IDEClassPathBlock.button_addProject=æ·»åŠ é¡¹ç›®(&P)...
 
-IDEClassPathBlock.button_addVar=Ìí¼Ó±äÁ¿(&V)...
+IDEClassPathBlock.button_addVar=æ·»åŠ å˜é‡(&V)...
 
-IDEClassPathBlock.button_down=ÏÂÒÆ
+IDEClassPathBlock.button_down=ä¸‹ç§»
 
-IDEClassPathBlock.button_edit=±à¼­(&E)...
+IDEClassPathBlock.button_edit=ç¼–è¾‘(&E)...
 
-IDEClassPathBlock.button_folder=Ìí¼ÓÀàÎÄ¼ş¼Ğ(&C)...
+IDEClassPathBlock.button_folder=æ·»åŠ ç±»æ–‡ä»¶å¤¹(&C)...
 
-IDEClassPathBlock.button_remove=É¾³ı(&R)
+IDEClassPathBlock.button_remove=åˆ é™¤(&R)
 
-IDEClassPathBlock.button_up=ÉÏÒÆ
+IDEClassPathBlock.button_up=ä¸Šç§»
 
-IDEClassPathBlock.fLibrariesList_text=±¨±íÖ´ĞĞÂ·¾¶ÉÏµÄ JAR ºÍÀàÎÄ¼ş¼Ğ(&T):
+IDEClassPathBlock.fLibrariesList_text=æŠ¥è¡¨æ‰§è¡Œè·¯å¾„ä¸Šçš„ JAR å’Œç±»æ–‡ä»¶å¤¹(&T):
 
-IDEClassPathBlock.ProjectDialog_message=Ñ¡ÔñÒªÌí¼ÓµÄÏîÄ¿:
+IDEClassPathBlock.ProjectDialog_message=é€‰æ‹©è¦æ·»åŠ çš„é¡¹ç›®:
 
-IDEClassPathBlock.ProjectDialog_title=ĞèÒªµÄÏîÄ¿Ñ¡Ôñ
+IDEClassPathBlock.ProjectDialog_title=éœ€è¦çš„é¡¹ç›®é€‰æ‹©
 
-IDECPListLabelProvider.folder=(ÀàÎÄ¼ş¼Ğ)
+IDECPListLabelProvider.folder=(ç±»æ–‡ä»¶å¤¹)
 
-IDECPListLabelProvider.missing=(È±ÉÙ)
+IDECPListLabelProvider.missing=(ç¼ºå°‘)
 
-IDECPListLabelProvider.new=(ĞÂ)
+IDECPListLabelProvider.new=(æ–°)
 
-IDECPListLabelProvider.unknown=Î´ÖªÔªËØ
+IDECPListLabelProvider.unknown=æœªçŸ¥å…ƒç´ 
 
-IDEFileReportProvider.ReadOnlyEncounter.Title=Óöµ½Ö»¶ÁÎÄ¼ş
+IDEFileReportProvider.ReadOnlyEncounter.Title=é‡åˆ°åªè¯»æ–‡ä»¶
 
-IDEFileReportProvider.ReadOnlyEncounter.Message=ÎÄ¼ş¡°{0}¡±ÎªÖ»¶Á£¬ÇëÊ×ÏÈÈ·±£Ëü¿ÉÒÔĞ´Èë¡£
+IDEFileReportProvider.ReadOnlyEncounter.Message=æ–‡ä»¶â€œ{0}â€ä¸ºåªè¯»ï¼Œè¯·é¦–å…ˆç¡®ä¿å®ƒå¯ä»¥å†™å…¥ã€‚
 
-IDEResourcePageHelper.Dialog.Prompt=Ñ¡ÔñÄ¿Â¼:
+IDEResourcePageHelper.Dialog.Prompt=é€‰æ‹©ç›®å½•:
 
-IDEResourcePageHelper.Dialog.Text=Ñ¡ÔñÏà¶ÔÓÚ¹¤×÷ÇøµÄÎ»ÖÃ(&C):
+IDEResourcePageHelper.Dialog.Text=é€‰æ‹©ç›¸å¯¹äºå·¥ä½œåŒºçš„ä½ç½®(&C):
 
-IDEResourcePageHelper.Dialog.Title=Ä¿Â¼Ñ¡Ôñ
+IDEResourcePageHelper.Dialog.Title=ç›®å½•é€‰æ‹©
 
-IDEResourcePageHelper.File.Button=ÎÄ¼şÏµÍ³(&F)...
+IDEResourcePageHelper.File.Button=æ–‡ä»¶ç³»ç»Ÿ(&F)...
 
-IDEResourcePageHelper.Varible.Button=±äÁ¿(&B)...
+IDEResourcePageHelper.Varible.Button=å˜é‡(&B)...
 
-IDEResourcePageHelper.WorkSpace.Button=¹¤×÷Çø(&W)...
+IDEResourcePageHelper.WorkSpace.Button=å·¥ä½œåŒº(&W)...
 
 ###########################################################
 #DataSetColumnBindingsFormHandleProvider
-DataSetColumnBindingsFormHandleProvider.Column.Name=Ãû³Æ
+DataSetColumnBindingsFormHandleProvider.Column.Name=åç§°
 
-DataSetColumnBindingsFormHandleProvider.Column.DisplayNameID=ÏÔÊ¾Ãû³Æ ID
+DataSetColumnBindingsFormHandleProvider.Column.DisplayNameID=æ˜¾ç¤ºåç§° ID
 
-DataSetColumnBindingsFormHandleProvider.Column.DisplayName=ÏÔÊ¾Ãû³Æ
+DataSetColumnBindingsFormHandleProvider.Column.DisplayName=æ˜¾ç¤ºåç§°
 
-DataSetColumnBindingsFormHandleProvider.DatasetTitle=Êı¾İÁĞ°ó¶¨:
+DataSetColumnBindingsFormHandleProvider.DatasetTitle=æ•°æ®åˆ—ç»‘å®š:
 
-DataSetColumnBindingsFormHandleProvider.RefreshBindingColumns=Ë¢ĞÂ°ó¶¨ÁĞ
+DataSetColumnBindingsFormHandleProvider.RefreshBindingColumns=åˆ·æ–°ç»‘å®šåˆ—
 
-DataSetColumnBindingsFormHandleProvider.ReportItemTitle=¿ÉÓÃÁĞ°ó¶¨:
+DataSetColumnBindingsFormHandleProvider.ReportItemTitle=å¯ç”¨åˆ—ç»‘å®š:
 
-DataSetColumnBindingsFormHandleProvider.NewBinding=ĞÂ°ó¶¨
+DataSetColumnBindingsFormHandleProvider.NewBinding=æ–°ç»‘å®š
 
-DataSetColumnBindingsFormHandleProvider.Column.DataType=Êı¾İÀàĞÍ
+DataSetColumnBindingsFormHandleProvider.Column.DataType=æ•°æ®ç±»å‹
 
-DataSetColumnBindingsFormHandleProvider.Column.Expression=±í´ïÊ½
+DataSetColumnBindingsFormHandleProvider.Column.Expression=è¡¨è¾¾å¼
 
-DataSetColumnBindingsFormHandleProvider.Column.AggregateOn=¾ÛºÏÌõ¼ş
+DataSetColumnBindingsFormHandleProvider.Column.AggregateOn=èšåˆæ¡ä»¶
 
-DataSetColumnBindingsFormHandleProvider.Column.Filter=É¸Ñ¡Æ÷
+DataSetColumnBindingsFormHandleProvider.Column.Filter=ç­›é€‰å™¨
 
-DataSetColumnBindingsFormHandleProvider.Column.Function=º¯Êı
+DataSetColumnBindingsFormHandleProvider.Column.Function=å‡½æ•°
 
-DataSetColumnBindingsFormHandleProvider.ALL=È«²¿
+DataSetColumnBindingsFormHandleProvider.ALL=å…¨éƒ¨
 
-DataSetColumnBindingsFormHandleProvider.GenerateBindingColumns=Éú³É°ó¶¨ÁĞ
+DataSetColumnBindingsFormHandleProvider.GenerateBindingColumns=ç”Ÿæˆç»‘å®šåˆ—
 
 DataSetColumnBindingsFormHandleProvider.NONE=N/A
-DataSetColumnBindingsFormHandleProvider.Trans.GenerateBindingColumns=Éú³É°ó¶¨ÁĞ
+DataSetColumnBindingsFormHandleProvider.Trans.GenerateBindingColumns=ç”Ÿæˆç»‘å®šåˆ—
 
-DataSetColumnBindingsFormHandleProvider.Trans.RefreshBindingColumns=Ë¢ĞÂ°ó¶¨ÁĞ
+DataSetColumnBindingsFormHandleProvider.Trans.RefreshBindingColumns=åˆ·æ–°ç»‘å®šåˆ—
 
 ###########################################################
 #DataSetColumnBindingsFormPage
-DataSetColumnBindingsFormPage.Button.RemoveUnused=É¾³ıÎ´Ê¹ÓÃµÄÁĞ
+DataSetColumnBindingsFormPage.Button.RemoveUnused=åˆ é™¤æœªä½¿ç”¨çš„åˆ—
 
 ###########################################################
 #DataSetSettingsPage
-DataSetSettingsPage.DataGroup.Title=ÓÃÓÚ±È½ÏÊı¾İ¼¯ÁĞÖµµÄ BIRT ÒıÇæ
+DataSetSettingsPage.DataGroup.Title=ç”¨äºæ¯”è¾ƒæ•°æ®é›†åˆ—å€¼çš„ BIRT å¼•æ“
 
-DataSetSettingsPage.Locale.Label=×Ö·û´®ÖµµÄÇøÓòÉèÖÃ(&L):
+DataSetSettingsPage.Locale.Label=å­—ç¬¦ä¸²å€¼çš„åŒºåŸŸè®¾ç½®(&L):
 
-DataSetSettingsPage.NullValueOrdering.Label=¿ÕÖµµÄË³Ğò(&O):
+DataSetSettingsPage.NullValueOrdering.Label=ç©ºå€¼çš„é¡ºåº(&O):
 
 ###########################################################
 #ResourceSelectionValidator
-ResourceSelectionValidator.ExtError=Ñ¡ÖĞµÄÎÄ¼şµÄ½áÎ²±ØĞëÊÇ
+ResourceSelectionValidator.ExtError=é€‰ä¸­çš„æ–‡ä»¶çš„ç»“å°¾å¿…é¡»æ˜¯
 
-ResourceSelectionValidator.EmptyError=ÇëÑ¡ÔñÎÄ¼ş
+ResourceSelectionValidator.EmptyError=è¯·é€‰æ‹©æ–‡ä»¶
 
-ResourceSelectionValidator.ExtErrorSplitter=\ »ò
+ResourceSelectionValidator.ExtErrorSplitter=\ æˆ–
 
 ###########################################################
 #GeneralPage
-GeneralPage.Library.Included=¿â:
+GeneralPage.Library.Included=åº“:
 
-GeneralPage.Library.Modified.Note=×¢: ¿âÖĞµÄ´Ë±¨±íÏîÒÑ±»ĞŞ¸Ä¡£Òª»¹Ô­Ô­Ê¼¿âÏîÄ¿£¬Çëµ¥»÷{0}¡°»¹Ô­ÊôĞÔ¡±
+GeneralPage.Library.Modified.Note=æ³¨: åº“ä¸­çš„æ­¤æŠ¥è¡¨é¡¹å·²è¢«ä¿®æ”¹ã€‚è¦è¿˜åŸåŸå§‹åº“é¡¹ç›®ï¼Œè¯·å•å‡»{0}â€œè¿˜åŸå±æ€§â€
 
 #BookMarkPage
-BookMarkPage.Modified.Note=ÊéÇ©°üº¬³ıÕâĞ©×Ö·û (A-Z¡¢a-z¡¢0-9¡¢'-'¡¢'_'¡¢':'¡¢'.') ÒÔÍâµÄÌØÊâ×Ö·û£¬Õâ¿ÉÄÜµ¼ÖÂÔÚÔËĞĞÊ±³öÎÊÌâ¡£
+BookMarkPage.Modified.Note=ä¹¦ç­¾åŒ…å«é™¤è¿™äº›å­—ç¬¦ (A-Zã€a-zã€0-9ã€'-'ã€'_'ã€':'ã€'.') ä»¥å¤–çš„ç‰¹æ®Šå­—ç¬¦ï¼Œè¿™å¯èƒ½å¯¼è‡´åœ¨è¿è¡Œæ—¶å‡ºé—®é¢˜ã€‚
 
-BookMarkPage.Modified.WithoutQuotes=ÊéÇ©Ã»ÓĞÊ¹ÓÃË«ÒıºÅ£¬Õâ¿ÉÄÜµ¼ÖÂÔÚÔËĞĞÊ±³öÎÊÌâ¡£
+BookMarkPage.Modified.WithoutQuotes=ä¹¦ç­¾æ²¡æœ‰ä½¿ç”¨åŒå¼•å·ï¼Œè¿™å¯èƒ½å¯¼è‡´åœ¨è¿è¡Œæ—¶å‡ºé—®é¢˜ã€‚
 
 ###########################################################
 # LOCALE SPECIAL:
@@ -6630,565 +6630,565 @@ FormatStringPage.simpleTexZipCodeFormat=@@@@@@
 FormatStringPage.simpleTexZipCode4Format=@@@@@-@@@@
 FormatStringPage.phoneNumberFormat=(@@@)@@@-@@@@
 FormatStringPage.securityNumberFormat=@@@-@@-@@@@
-FormatStringPage.Label.PreserveWhiteSpaces=±£Áô¿Õ¸ñ
+FormatStringPage.Label.PreserveWhiteSpaces=ä¿ç•™ç©ºæ ¼
 
-FormatStringPage.Preview.PreserveWhiteSpaces=\    ¾ßÓĞÇ°µ¼¿Õ¸ñµÄ×Ö·û´®
+FormatStringPage.Preview.PreserveWhiteSpaces=\    å…·æœ‰å‰å¯¼ç©ºæ ¼çš„å­—ç¬¦ä¸²
 
 ###########################################################
 #PublishLibraryDialog
-PublishLibraryDialog.ShellText=¹²Ïí¿â
+PublishLibraryDialog.ShellText=å…±äº«åº“
 
-PublishLibraryDialog.TitleArea=¹²Ïí¿â
+PublishLibraryDialog.TitleArea=å…±äº«åº“
 
-PublishLibraryDialog.Message=½«¿â¸´ÖÆµ½¹²Ïí×ÊÔ´ÎÄ¼ş¼Ğ¡£
+PublishLibraryDialog.Message=å°†åº“å¤åˆ¶åˆ°å…±äº«èµ„æºæ–‡ä»¶å¤¹ã€‚
 
-PublishLibraryDialog.Label.SourceFileName=Ô´ÎÄ¼ş(&S):
+PublishLibraryDialog.Label.SourceFileName=æºæ–‡ä»¶(&S):
 
-PublishLibraryDialog.Label.FileName=ÎÄ¼şÃû(&N):
+PublishLibraryDialog.Label.FileName=æ–‡ä»¶å(&N):
 
-PublishLibraryDialog.Label.Folder=ÎÄ¼ş¼Ğ(&D):
+PublishLibraryDialog.Label.Folder=æ–‡ä»¶å¤¹(&D):
 
-PublishLibraryDialog.Label.Browse=ä¯ÀÀ(&B)...
+PublishLibraryDialog.Label.Browse=æµè§ˆ(&B)...
 
-PublishLibraryDialog.Message.FileNameEmpty=ĞèÒªÌá¹©ÎÄ¼şÃû¡£
+PublishLibraryDialog.Message.FileNameEmpty=éœ€è¦æä¾›æ–‡ä»¶åã€‚
 
-PublishLibraryDialog.Message.FileNameError=ÎÄ¼şÃûÓ¦¸ÃÒÔ .rptlibrary ½áÎ²¡£
+PublishLibraryDialog.Message.FileNameError=æ–‡ä»¶ååº”è¯¥ä»¥ .rptlibrary ç»“å°¾ã€‚
 
-PublishLibraryDialog.Message.FolderEmpty=ĞèÒªÌá¹©·¢²¼ÎÄ¼ş¼Ğ¡£
+PublishLibraryDialog.Message.FolderEmpty=éœ€è¦æä¾›å‘å¸ƒæ–‡ä»¶å¤¹ã€‚
 
-PublishLibraryDialog.Message.SourceFileEmpty=ĞèÒªÌá¹©Ô´ÎÄ¼şÃû¡£
+PublishLibraryDialog.Message.SourceFileEmpty=éœ€è¦æä¾›æºæ–‡ä»¶åã€‚
 
-PublishLibraryDialog.Label.Browse2=ä¯ÀÀ(&W)...
+PublishLibraryDialog.Label.Browse2=æµè§ˆ(&W)...
 
-PublishLibraryDialog.AddText=Ìí¼Ó¿â
+PublishLibraryDialog.AddText=æ·»åŠ åº“
 
-PublishLibraryDialog.AddMessage=½«¿âÌí¼Óµ½ BIRT ×ÊÔ´ÎÄ¼ş¼Ğ
+PublishLibraryDialog.AddMessage=å°†åº“æ·»åŠ åˆ° BIRT èµ„æºæ–‡ä»¶å¤¹
 
-WizardLibrarySettingPage.ErrorMessage=ÇëÑ¡ÔñÎÄ¼ş¼Ğ
+WizardLibrarySettingPage.ErrorMessage=è¯·é€‰æ‹©æ–‡ä»¶å¤¹
 
-WizardLibrarySettingPage.Resourcefile.Dialog.Title=ä¯ÀÀ×ÊÔ´ÎÄ¼ş¼Ğ
+WizardLibrarySettingPage.Resourcefile.Dialog.Title=æµè§ˆèµ„æºæ–‡ä»¶å¤¹
 
-WizardLibrarySettingPage.Resourcefile.Dialog.Message=ÇëÑ¡Ôñ×ÊÔ´ÎÄ¼ş¼Ğ»òÆä×ÓÎÄ¼ş¼Ğ¡£
+WizardLibrarySettingPage.Resourcefile.Dialog.Message=è¯·é€‰æ‹©èµ„æºæ–‡ä»¶å¤¹æˆ–å…¶å­æ–‡ä»¶å¤¹ã€‚
 
-PublishLibraryDialog.AddLibrary=Ìí¼Ó¿â
+PublishLibraryDialog.AddLibrary=æ·»åŠ åº“
 
 
 ###########################################################
 #PublishCSSDialog
-PublishCSSDialog.ShellText=·¢²¼ CSS ÎÄ¼ş
+PublishCSSDialog.ShellText=å‘å¸ƒ CSS æ–‡ä»¶
 
-PublishCSSDialog.TitleArea=½« CSS ÎÄ¼ş·¢²¼µ½×ÊÔ´ÎÄ¼ş¼Ğ
+PublishCSSDialog.TitleArea=å°† CSS æ–‡ä»¶å‘å¸ƒåˆ°èµ„æºæ–‡ä»¶å¤¹
 
-PublishCSSDialog.Message=Ñ¡ÔñÒ»¸ö CSS ÎÄ¼şÒÔ±ã½«ÑùÊ½µ¼Èëµ½×ÊÔ´ÎÄ¼ş¼Ğ
+PublishCSSDialog.Message=é€‰æ‹©ä¸€ä¸ª CSS æ–‡ä»¶ä»¥ä¾¿å°†æ ·å¼å¯¼å…¥åˆ°èµ„æºæ–‡ä»¶å¤¹
 
-PublishCSSDialog.Label.SourceFileName=Ô´ÎÄ¼ş(&S):
+PublishCSSDialog.Label.SourceFileName=æºæ–‡ä»¶(&S):
 
-PublishCSSDialog.Label.FileName=ÎÄ¼şÃû(&N):
+PublishCSSDialog.Label.FileName=æ–‡ä»¶å(&N):
 
-PublishCSSDialog.Label.Folder=ÎÄ¼ş¼Ğ(&F):
+PublishCSSDialog.Label.Folder=æ–‡ä»¶å¤¹(&F):
 
-PublishCSSDialog.Label.Browse=ä¯ÀÀ(&B)...
+PublishCSSDialog.Label.Browse=æµè§ˆ(&B)...
 
-PublishCSSDialog.Label.Browse2=ä¯ÀÀ(&W)...
+PublishCSSDialog.Label.Browse2=æµè§ˆ(&W)...
 
-PublishCSSDialog.ErrorMessage.SelectFolder=ÇëÑ¡ÔñÎÄ¼ş¼Ğ
+PublishCSSDialog.ErrorMessage.SelectFolder=è¯·é€‰æ‹©æ–‡ä»¶å¤¹
 
-PublishCSSDialog.Dialog.FileSeclect.Tilte=Ñ¡Ôñ CSS ÎÄ¼ş
+PublishCSSDialog.Dialog.FileSeclect.Tilte=é€‰æ‹© CSS æ–‡ä»¶
 
-PublishCSSDialog.Error.Exception.Title=´íÎó
+PublishCSSDialog.Error.Exception.Title=é”™è¯¯
 
-PublishCSSDialog.Error.FileNotFound=Î´ÕÒµ½ÎÄ¼ş¡°{0}¡±¡£
+PublishCSSDialog.Error.FileNotFound=æœªæ‰¾åˆ°æ–‡ä»¶â€œ{0}â€ã€‚
 
-PublishCSSDialog.Error.FileIsNotCSSFile=ÎÄ¼ş¡°{0}¡±Ã»ÓĞÒÔ¡°{1}¡±½áÊø¡£
+PublishCSSDialog.Error.FileIsNotCSSFile=æ–‡ä»¶â€œ{0}â€æ²¡æœ‰ä»¥â€œ{1}â€ç»“æŸã€‚
 
-PublishCSSDialog.Error.FileExist=ÎÄ¼şÒÑ¾­´æÔÚ¡£
+PublishCSSDialog.Error.FileExist=æ–‡ä»¶å·²ç»å­˜åœ¨ã€‚
 
-PublishCSSDialog.Message.SourceFileEmpty=ĞèÒªÌá¹©Ô´ÎÄ¼şÃû¡£
+PublishCSSDialog.Message.SourceFileEmpty=éœ€è¦æä¾›æºæ–‡ä»¶åã€‚
 
-PublishCSSDialog.Message.FileNameEmpty=ĞèÒªÌá¹©ÎÄ¼şÃû¡£
+PublishCSSDialog.Message.FileNameEmpty=éœ€è¦æä¾›æ–‡ä»¶åã€‚
 
-PublishCSSDialog.Message.FileNameError=ÎÄ¼şÃûÓ¦¸ÃÒÔ .css ½áÊø¡£
+PublishCSSDialog.Message.FileNameError=æ–‡ä»¶ååº”è¯¥ä»¥ .css ç»“æŸã€‚
 
-PublishCSSDialog.Message.FolderEmpty=ĞèÒªÌá¹©·¢²¼ÎÄ¼ş¼Ğ¡£
+PublishCSSDialog.Message.FolderEmpty=éœ€è¦æä¾›å‘å¸ƒæ–‡ä»¶å¤¹ã€‚
 
-WizardCSSSettingPage.ErrorMessage=ÇëÑ¡ÔñÎÄ¼ş¼Ğ
+WizardCSSSettingPage.ErrorMessage=è¯·é€‰æ‹©æ–‡ä»¶å¤¹
 
-WizardCSSSettingPage.Resourcefile.Dialog.Title=ä¯ÀÀ×ÊÔ´ÎÄ¼ş¼Ğ
+WizardCSSSettingPage.Resourcefile.Dialog.Title=æµè§ˆèµ„æºæ–‡ä»¶å¤¹
 
-WizardCSSSettingPage.Resourcefile.Dialog.Message=ÇëÑ¡Ôñ×ÊÔ´ÎÄ¼ş¼Ğ»òÆä×ÓÎÄ¼ş¼Ğ¡£
+WizardCSSSettingPage.Resourcefile.Dialog.Message=è¯·é€‰æ‹©èµ„æºæ–‡ä»¶å¤¹æˆ–å…¶å­æ–‡ä»¶å¤¹ã€‚
 
 ###########################################################
 #PublishResourceDialog
-PublishResourceDialog.ShellText=·¢²¼×ÊÔ´
+PublishResourceDialog.ShellText=å‘å¸ƒèµ„æº
 
-PublishResourceDialog.TitleArea=½«×ÊÔ´·¢²¼µ½×ÊÔ´ÎÄ¼ş¼Ğ
+PublishResourceDialog.TitleArea=å°†èµ„æºå‘å¸ƒåˆ°èµ„æºæ–‡ä»¶å¤¹
 
-PublishResourceDialog.Message=½«×ÊÔ´ÎÄ¼ş·ÅÔÚ×ÊÔ´ÎÄ¼ş¼ĞÖĞ
+PublishResourceDialog.Message=å°†èµ„æºæ–‡ä»¶æ”¾åœ¨èµ„æºæ–‡ä»¶å¤¹ä¸­
 
-PublishResourceDialog.AddResource=Ìí¼Ó×ÊÔ´
+PublishResourceDialog.AddResource=æ·»åŠ èµ„æº
 
-PublishResourceDialog.AddText=Ìí¼Ó×ÊÔ´
+PublishResourceDialog.AddText=æ·»åŠ èµ„æº
 
-PublishResourceDialog.AddMessage=½«×ÊÔ´Ìí¼Óµ½×ÊÔ´ÎÄ¼ş¼Ğ
+PublishResourceDialog.AddMessage=å°†èµ„æºæ·»åŠ åˆ°èµ„æºæ–‡ä»¶å¤¹
 
-PublishResourceAction.wizard.errorTitle=´íÎó
+PublishResourceAction.wizard.errorTitle=é”™è¯¯
 
-PublishResourceAction.wizard.message=ÎŞ·¨½«×ÊÔ´·¢²¼µ½ÆäËùÔÚµÄÄ¿Â¼£¬ÇëÑ¡ÔñÆäËüÄ¿Â¼½øĞĞ·¢²¼¡£
+PublishResourceAction.wizard.message=æ— æ³•å°†èµ„æºå‘å¸ƒåˆ°å…¶æ‰€åœ¨çš„ç›®å½•ï¼Œè¯·é€‰æ‹©å…¶å®ƒç›®å½•è¿›è¡Œå‘å¸ƒã€‚
 
-PublishResourceAction.wizard.message.SourceFileNotExist=Ô´ÎÄ¼ş²»´æÔÚ¡£
+PublishResourceAction.wizard.message.SourceFileNotExist=æºæ–‡ä»¶ä¸å­˜åœ¨ã€‚
 
-PublishResourceAction.wizard.notvalidfolder=Ê×Ñ¡ÏîÖĞ¶¨ÒåµÄ×ÊÔ´ÎÄ¼ş¼ĞÎŞĞ§¡£
+PublishResourceAction.wizard.notvalidfolder=é¦–é€‰é¡¹ä¸­å®šä¹‰çš„èµ„æºæ–‡ä»¶å¤¹æ— æ•ˆã€‚
 
-PublishResourceDialog.Label.FileName=ÎÄ¼şÃû(&N):
+PublishResourceDialog.Label.FileName=æ–‡ä»¶å(&N):
 
-PublishResourceDialog.Label.SourceFileName=Ô´ÎÄ¼ş(&S):
+PublishResourceDialog.Label.SourceFileName=æºæ–‡ä»¶(&S):
 
-PublishResourceDialog.Label.Folder=ÎÄ¼ş¼Ğ:
+PublishResourceDialog.Label.Folder=æ–‡ä»¶å¤¹:
 
-PublishResourceDialog.Label.Browse=ä¯ÀÀ(&B)...
+PublishResourceDialog.Label.Browse=æµè§ˆ(&B)...
 
-PublishResourceDialog.Label.Browse2=ä¯ÀÀ(&W)...
+PublishResourceDialog.Label.Browse2=æµè§ˆ(&W)...
 
-WizardResourceSettingPage.ErrorMessage=ÇëÑ¡ÔñÎÄ¼ş¼Ğ
+WizardResourceSettingPage.ErrorMessage=è¯·é€‰æ‹©æ–‡ä»¶å¤¹
 
-WizardResourceSettingPage.Resourcefile.Dialog.Title=ä¯ÀÀ×ÊÔ´ÎÄ¼ş¼Ğ
+WizardResourceSettingPage.Resourcefile.Dialog.Title=æµè§ˆèµ„æºæ–‡ä»¶å¤¹
 
-WizardResourceSettingPage.Resourcefile.Dialog.Message=ÇëÑ¡Ôñ×ÊÔ´ÎÄ¼ş¼Ğ»òÆä×ÓÎÄ¼ş¼Ğ¡£
+WizardResourceSettingPage.Resourcefile.Dialog.Message=è¯·é€‰æ‹©èµ„æºæ–‡ä»¶å¤¹æˆ–å…¶å­æ–‡ä»¶å¤¹ã€‚
 
-PublishResourceDialog.Message.SourceFileEmpty=ĞèÒªÌá¹©Ô´ÎÄ¼şÃû¡£
+PublishResourceDialog.Message.SourceFileEmpty=éœ€è¦æä¾›æºæ–‡ä»¶åã€‚
 
-PublishResourceDialog.Message.FileNameEmpty=ĞèÒªÌá¹©ÎÄ¼şÃû¡£
+PublishResourceDialog.Message.FileNameEmpty=éœ€è¦æä¾›æ–‡ä»¶åã€‚
 
-PublishResourceDialog.Message.FolderEmpty=ĞèÒªÌá¹©·¢²¼ÎÄ¼ş¼Ğ¡£
+PublishResourceDialog.Message.FolderEmpty=éœ€è¦æä¾›å‘å¸ƒæ–‡ä»¶å¤¹ã€‚
 
 ###########################################################
 #EmbeddedImagesNodeProvider
-EmbeddedImagesNodeProvider.FileNameError.Title=´íÎó
+EmbeddedImagesNodeProvider.FileNameError.Title=é”™è¯¯
 
-EmbeddedImagesNodeProvider.FileNameError.Message=ÄúÑ¡ÔñµÄÎÄ¼ş²»ÊÇÍ¼Ïñ¡£
+EmbeddedImagesNodeProvider.FileNameError.Message=æ‚¨é€‰æ‹©çš„æ–‡ä»¶ä¸æ˜¯å›¾åƒã€‚
 
-EmbeddedImagesNodeProvider.stackMsg.insert=²åÈëÍ¼Ïñ
+EmbeddedImagesNodeProvider.stackMsg.insert=æ’å…¥å›¾åƒ
 
 ###########################################################
 #AddElementtoAction properties
-AddElementtoAction.Text=Ìí¼Óµ½±¨±í(&A)
+AddElementtoAction.Text=æ·»åŠ åˆ°æŠ¥è¡¨(&A)
 
-ApplyThemeAction.Text=Ó¦ÓÃÓÚ±¨±í(&A)
+ApplyThemeAction.Text=åº”ç”¨äºæŠ¥è¡¨(&A)
 
 ###########################################################
 #MultiPageReportEditor properties
-MultiPageReportEditor.CheckVersion.Dialog.Title=¾¯¸æ
+MultiPageReportEditor.CheckVersion.Dialog.Title=è­¦å‘Š
 
-MultiPageReportEditor.CloseButton=¹Ø±Õ
+MultiPageReportEditor.CloseButton=å…³é—­
 
-MultiPageReportEditor.ConfirmTitle=ÎÄ¼ş²»´æÔÚ
+MultiPageReportEditor.ConfirmTitle=æ–‡ä»¶ä¸å­˜åœ¨
 
-MultiPageReportEditor.ConfirmVersion.Dialog.Message=±¨±íÉè¼ÆÊÇÊ¹ÓÃ½ÏÔç°æ±¾µÄ BIRT Designer ´´½¨µÄ¡£±£´æËü½«»áÉı¼¶µ½µ±Ç°°æ±¾£¬¿ÉÄÜÊ¹½ÏÔç°æ±¾µÄ BIRT ÎŞ·¨´ò¿ªËü¡£ÊÇ·ñÈÔÒª±£´æ?
+MultiPageReportEditor.ConfirmVersion.Dialog.Message=æŠ¥è¡¨è®¾è®¡æ˜¯ä½¿ç”¨è¾ƒæ—©ç‰ˆæœ¬çš„ BIRT Designer åˆ›å»ºçš„ã€‚ä¿å­˜å®ƒå°†ä¼šå‡çº§åˆ°å½“å‰ç‰ˆæœ¬ï¼Œå¯èƒ½ä½¿è¾ƒæ—©ç‰ˆæœ¬çš„ BIRT æ— æ³•æ‰“å¼€å®ƒã€‚æ˜¯å¦ä»è¦ä¿å­˜?
 
-MultiPageReportEditor.ConfirmVersion.Dialog.ReloadMessage=´Ë±à¼­Æ÷µÄÄÚÈİ¿ÉÄÜÒÑ´ÓÍâ²¿¸ü¸Ä£¬ÒªÖØĞÂ¼ÓÔØ¸ü¸ÄÂğ?
+MultiPageReportEditor.ConfirmVersion.Dialog.ReloadMessage=æ­¤ç¼–è¾‘å™¨çš„å†…å®¹å¯èƒ½å·²ä»å¤–éƒ¨æ›´æ”¹ï¼Œè¦é‡æ–°åŠ è½½æ›´æ”¹å—?
 
-MultiPageReportEditor.ConfirmVersion.Dialog.ResetMessage=´Ë±à¼­Æ÷µÄÄÚÈİ¿ÉÄÜÒÑ´ÓÍâ²¿¸ü¸Ä£¬ÒªÖØĞÂ¼ÓÔØ¾ßÓĞÕâĞ©¸ü¸ÄµÄÄÚÈİÂğ?
+MultiPageReportEditor.ConfirmVersion.Dialog.ResetMessage=æ­¤ç¼–è¾‘å™¨çš„å†…å®¹å¯èƒ½å·²ä»å¤–éƒ¨æ›´æ”¹ï¼Œè¦é‡æ–°åŠ è½½å…·æœ‰è¿™äº›æ›´æ”¹çš„å†…å®¹å—?
 
-MultiPageReportEditor.ConfirmVersion.Dialog.SaveAndReloadMessage=´Ë±à¼­Æ÷µÄÄÚÈİ¿ÉÄÜÒÑ´ÓÍâ²¿¸ü¸Ä£¬±à¼­Æ÷°üº¬Î´±£´æµÄ¸ü¸Ä¡£\n\nÊÇ·ñÒª±£´æ±à¼­Æ÷²¢ÖØĞÂ¼ÓÔØÍâ²¿¸ü¸Ä?
+MultiPageReportEditor.ConfirmVersion.Dialog.SaveAndReloadMessage=æ­¤ç¼–è¾‘å™¨çš„å†…å®¹å¯èƒ½å·²ä»å¤–éƒ¨æ›´æ”¹ï¼Œç¼–è¾‘å™¨åŒ…å«æœªä¿å­˜çš„æ›´æ”¹ã€‚\n\næ˜¯å¦è¦ä¿å­˜ç¼–è¾‘å™¨å¹¶é‡æ–°åŠ è½½å¤–éƒ¨æ›´æ”¹?
 
-MultiPageReportEditor.ConfirmVersion.Dialog.Title=È·ÈÏ
+MultiPageReportEditor.ConfirmVersion.Dialog.Title=ç¡®è®¤
 
-MultiPageReportEditor.SaveButton=±£´æ(&S)
+MultiPageReportEditor.SaveButton=ä¿å­˜(&S)
 
-MultiPageReportEditor.DiscardButton=·ÅÆú(&D)
+MultiPageReportEditor.DiscardButton=æ”¾å¼ƒ(&D)
 
-MultiPageReportEditor.CancelButton=È¡Ïû
+MultiPageReportEditor.CancelButton=å–æ¶ˆ
 
-MultiPageReportEditor.SaveConfirmMessage=ÎÄ¼şÒÑ±»É¾³ı¡£ÊÇÒª±£´æ¸ü¸Ä»¹ÊÇÒª¹Ø±Õ±à¼­Æ÷¶ø²»±£´æ?
+MultiPageReportEditor.SaveConfirmMessage=æ–‡ä»¶å·²è¢«åˆ é™¤ã€‚æ˜¯è¦ä¿å­˜æ›´æ”¹è¿˜æ˜¯è¦å…³é—­ç¼–è¾‘å™¨è€Œä¸ä¿å­˜?
 
-TableArea.Button.Up=ÉÏÒÆ(&U)
+TableArea.Button.Up=ä¸Šç§»(&U)
 
 ###########################################################
 #AddJarResourceFileFolderSelectionDialog
-AddJarResourceFileFolderSelectionDialog.ErrorMessage.Exist=Ò»¸ö»ò¶à¸öÑ¡¶¨µÄÎÄ¼şÒÑ¾­´æÔÚ¡£
+AddJarResourceFileFolderSelectionDialog.ErrorMessage.Exist=ä¸€ä¸ªæˆ–å¤šä¸ªé€‰å®šçš„æ–‡ä»¶å·²ç»å­˜åœ¨ã€‚
 
-AddJarResourceFileFolderSelectionDialog.Message=ÇëÑ¡Ôñ {0} ÎÄ¼ş:
+AddJarResourceFileFolderSelectionDialog.Message=è¯·é€‰æ‹© {0} æ–‡ä»¶:
 
-AddJarResourceFileFolderSelectionDialog.ErrorMessage.ExtError=ÎÄ¼şÃû±ØĞëÒÔ {0} ½áÎ²¡£
+AddJarResourceFileFolderSelectionDialog.ErrorMessage.ExtError=æ–‡ä»¶åå¿…é¡»ä»¥ {0} ç»“å°¾ã€‚
 
-AddJarResourceFileFolderSelectionDialog.Message.Or=»ò
+AddJarResourceFileFolderSelectionDialog.Message.Or=æˆ–
 
 
 ###########################################################
 #AddImageResourceFileFolderSelectionDialog
-AddImageResourceFileFolderSelectionDialog.Title=Ñ¡ÔñµÄÒ»¸ö»ò¶à¸öÎÄ¼şÒÑ´æÔÚ¡£
+AddImageResourceFileFolderSelectionDialog.Title=é€‰æ‹©çš„ä¸€ä¸ªæˆ–å¤šä¸ªæ–‡ä»¶å·²å­˜åœ¨ã€‚
 
-AddImageResourceFileFolderSelectionDialog.Message=ÇëÑ¡ÔñÍ¼Ïñ:
+AddImageResourceFileFolderSelectionDialog.Message=è¯·é€‰æ‹©å›¾åƒ:
 
 ###########################################################
 #DataItemBindingDialog properties
-DataItemBindingDialog.text.Name=Ãû³Æ:
+DataItemBindingDialog.text.Name=åç§°:
 
-DataItemBindingDialog.text.displayName=ÏÔÊ¾Ãû³Æ:
+DataItemBindingDialog.text.displayName=æ˜¾ç¤ºåç§°:
 
-DataItemBindingDialog.text.DataType=Êı¾İÀàĞÍ:
+DataItemBindingDialog.text.DataType=æ•°æ®ç±»å‹:
 
-DataItemBindingDialog.text.Expression=±í´ïÊ½:
+DataItemBindingDialog.text.Expression=è¡¨è¾¾å¼:
 
-DataItemBindingDialog.text.AggregateOn=¾ÛºÏÌõ¼ş:
+DataItemBindingDialog.text.AggregateOn=èšåˆæ¡ä»¶:
 
-DataItemBindingDialog.text.ForceBinding=´´½¨ÓëÍ¬Ò»±í´ïÊ½µÄĞÂ°ó¶¨
+DataItemBindingDialog.text.ForceBinding=åˆ›å»ºä¸åŒä¸€è¡¨è¾¾å¼çš„æ–°ç»‘å®š
 
-DataItemBindingDialog.text.All=È«²¿
+DataItemBindingDialog.text.All=å…¨éƒ¨
 
 DataItemBindingDialog.text.None=N/A
-DataItemBindingDialog.text.Null=ÎŞ
+DataItemBindingDialog.text.Null=æ— 
 
-DataItemBindingDialog.title.CreateNewItem=ĞÂ½¨Êı¾İÏî°ó¶¨
+DataItemBindingDialog.title.CreateNewItem=æ–°å»ºæ•°æ®é¡¹ç»‘å®š
 
-DataItemBindingDialog.title.EditDataItem=±à¼­Êı¾İÏî°ó¶¨
+DataItemBindingDialog.title.EditDataItem=ç¼–è¾‘æ•°æ®é¡¹ç»‘å®š
 
-DataItemBindingDialog.text.Function=º¯Êı:
+DataItemBindingDialog.text.Function=å‡½æ•°:
 
-DataItemBindingDialog.text.Filter=É¸Ñ¡Æ÷:
+DataItemBindingDialog.text.Filter=ç­›é€‰å™¨:
 
-DataItemBindingDialog.text.ArgumentList=²ÎÊı:
+DataItemBindingDialog.text.ArgumentList=å‚æ•°:
 
-DataItemBindingDialog.Button.Add=Ìí¼Ó
+DataItemBindingDialog.Button.Add=æ·»åŠ 
 
-DataItemBindingDialog.Button.Edit=±à¼­
+DataItemBindingDialog.Button.Edit=ç¼–è¾‘
 
-DataItemBindingDialog.Button.Delete=É¾³ı
+DataItemBindingDialog.Button.Delete=åˆ é™¤
 
 ###########################################################
 #DataColumBindingDialog properties
-DataColumBindingDialog.title.CreateNewDataBinding=ĞÂ½¨Êı¾İ°ó¶¨
+DataColumBindingDialog.title.CreateNewDataBinding=æ–°å»ºæ•°æ®ç»‘å®š
 
-DataColumBindingDialog.title.EditDataBinding=±à¼­Êı¾İ°ó¶¨
+DataColumBindingDialog.title.EditDataBinding=ç¼–è¾‘æ•°æ®ç»‘å®š
 
-DataColumBindingDialog.title.AggBuilder=¾ÛºÏÉú³ÉÆ÷
+DataColumBindingDialog.title.AggBuilder=èšåˆç”Ÿæˆå™¨
 
-DataColumnBindingDialog.NewBindingDialogInputNewNameMessage=ĞÂÊı¾İ°ó¶¨Ãû³Æ:
+DataColumnBindingDialog.NewBindingDialogInputNewNameMessage=æ–°æ•°æ®ç»‘å®šåç§°:
 
-DataColumnBindingDialog.NewBindingDialogInputNewNameTitle=ÊäÈëĞÂÊı¾İ°ó¶¨Ãû³Æ
+DataColumnBindingDialog.NewBindingDialogInputNewNameTitle=è¾“å…¥æ–°æ•°æ®ç»‘å®šåç§°
 
-DataColumnBindingDialog.NewBindingDialogMessage=´ËÊı¾İ°ó¶¨ÓÉ¶à¸ö±¨±íÏîºÍµ¥ÔªÊ¹ÓÃ£¬ÊÇ·ñÒªÎª´Ë±¨±íÏî´´½¨ĞÂ±í´ïÊ½? µ¥»÷¡°ÊÇ¡±´´½¨ĞÂµÄÊı¾İ°ó¶¨£¬µ¥»÷¡°·ñ¡±¸ü¸ÄËùÓĞÎ»ÖÃµÄÊı¾İ°ó¶¨¡£
+DataColumnBindingDialog.NewBindingDialogMessage=æ­¤æ•°æ®ç»‘å®šç”±å¤šä¸ªæŠ¥è¡¨é¡¹å’Œå•å…ƒä½¿ç”¨ï¼Œæ˜¯å¦è¦ä¸ºæ­¤æŠ¥è¡¨é¡¹åˆ›å»ºæ–°è¡¨è¾¾å¼? å•å‡»â€œæ˜¯â€åˆ›å»ºæ–°çš„æ•°æ®ç»‘å®šï¼Œå•å‡»â€œå¦â€æ›´æ”¹æ‰€æœ‰ä½ç½®çš„æ•°æ®ç»‘å®šã€‚
 
-DataColumnBindingDialog.NewBindingDialogButtonYes=ÊÇ
+DataColumnBindingDialog.NewBindingDialogButtonYes=æ˜¯
 
-DataColumnBindingDialog.NewBindingDialogButtonNo=·ñ
+DataColumnBindingDialog.NewBindingDialogButtonNo=å¦
 
-DataColumnBindingDialog.NewBindingDialogButtonCancel=È¡Ïû
+DataColumnBindingDialog.NewBindingDialogButtonCancel=å–æ¶ˆ
 
-DataColumnBindingDialog.NewBindingDialogTitle=´´½¨ĞÂµÄÊı¾İ°ó¶¨?
+DataColumnBindingDialog.NewBindingDialogTitle=åˆ›å»ºæ–°çš„æ•°æ®ç»‘å®š?
 
-DataColumnBindingDialog.title.TimePeriodBuild=Ïà¶ÔÊ±¼äÖÜÆÚ¾ÛºÏÉú³ÉÆ÷
+DataColumnBindingDialog.title.TimePeriodBuild=ç›¸å¯¹æ—¶é—´å‘¨æœŸèšåˆç”Ÿæˆå™¨
 
-DataColumBindingDialog.stackMsg.resetReference=ÖØÖÃÒıÓÃ
+DataColumBindingDialog.stackMsg.resetReference=é‡ç½®å¼•ç”¨
 
 ###########################################################
 #CreatePlaceHolderAction properties
-ChangeDataColumnAction.text=¸ü¸ÄÊı¾İÁĞ(&G)...
+ChangeDataColumnAction.text=æ›´æ”¹æ•°æ®åˆ—(&G)...
 
 ###########################################################
 #ThumbnailBuilder properties
-ThumbnailBuilder.Text.Title=¹ÜÀíËõÂÔÍ¼
+ThumbnailBuilder.Text.Title=ç®¡ç†ç¼©ç•¥å›¾
 
-ThumbnailBuilder.Button.Text.Generate=Éú³É(&G)
+ThumbnailBuilder.Button.Text.Generate=ç”Ÿæˆ(&G)
 
-ThumbnailBuilder.Button.Text.Remove=É¾³ı(&R)
+ThumbnailBuilder.Button.Text.Remove=åˆ é™¤(&R)
 
-ThumbnailBuilder.Button.Text.Import=µ¼Èë(&I)...
+ThumbnailBuilder.Button.Text.Import=å¯¼å…¥(&I)...
 
-ThumbnailBuilder.Button.Text.Browse=ä¯ÀÀ(&B)...
+ThumbnailBuilder.Button.Text.Browse=æµè§ˆ(&B)...
 
-ThumbnailBuilder.FileDialog.Title=Ñ¡ÔñÍ¼ÏñÎÄ¼ş
+ThumbnailBuilder.FileDialog.Title=é€‰æ‹©å›¾åƒæ–‡ä»¶
 
-ThumbnailBuilder.FileDialog.FileNameError.Title=´íÎó
+ThumbnailBuilder.FileDialog.FileNameError.Title=é”™è¯¯
 
-ThumbnailBuilder.FileDialog.FileNameError.Message=ÄúÑ¡ÔñµÄÎÄ¼ş²»ÊÇÍ¼Ïñ¡£
+ThumbnailBuilder.FileDialog.FileNameError.Message=æ‚¨é€‰æ‹©çš„æ–‡ä»¶ä¸æ˜¯å›¾åƒã€‚
 
-ThumbnailBuilder.Button.GenerateFromReport=´Ó±¨±íÉú³É(&N)
+ThumbnailBuilder.Button.GenerateFromReport=ä»æŠ¥è¡¨ç”Ÿæˆ(&N)
 
-ThumbnailBuilder.Button.BrowseFromFileSystem=´ÓÎÄ¼şÏµÍ³ä¯ÀÀ(&W)
+ThumbnailBuilder.Button.BrowseFromFileSystem=ä»æ–‡ä»¶ç³»ç»Ÿæµè§ˆ(&W)
 
-ThumbnailBuilder.Button.ImportFromResource=´Ó¹²Ïí×ÊÔ´µ¼Èë(&M)
+ThumbnailBuilder.Button.ImportFromResource=ä»å…±äº«èµ„æºå¯¼å…¥(&M)
 
-ThumbnailBuilder.Image.DefaultName=ËõÂÔÍ¼
+ThumbnailBuilder.Image.DefaultName=ç¼©ç•¥å›¾
 
-ThumbnailBuilder.PreviewImage.WarningDialog.Title=¾¯¸æ
+ThumbnailBuilder.PreviewImage.WarningDialog.Title=è­¦å‘Š
 
-ThumbnailBuilder.PreviewImage.WarningDialog.Prompt=ÄúÑ¡ÔñÁË´óÍ¼Ïñ(´óÓÚ 1014x768)£¬¿ÉÄÜµ¼ÖÂÄÚ´æ²»×ãÒì³£¡£\nÊÇ·ñ¼ÌĞø?
+ThumbnailBuilder.PreviewImage.WarningDialog.Prompt=æ‚¨é€‰æ‹©äº†å¤§å›¾åƒ(å¤§äº 1014x768)ï¼Œå¯èƒ½å¯¼è‡´å†…å­˜ä¸è¶³å¼‚å¸¸ã€‚\næ˜¯å¦ç»§ç»­?
 
 
 ###########################################################
 #FragmentResourceEntry properties
-FragmentResourceEntry.RootName=Æ¬¶Î
+FragmentResourceEntry.RootName=ç‰‡æ®µ
 
-FragmentResourceEntry.RootDisplayName=ÏµÍ³×ÊÔ´
+FragmentResourceEntry.RootDisplayName=ç³»ç»Ÿèµ„æº
 
 
 FragmentTemplateResourceEntry.RootName=TemplateFragments
-FragmentTemplateResourceEntry.RootDisplayName=Ä£°å×ÊÔ´
+FragmentTemplateResourceEntry.RootDisplayName=æ¨¡æ¿èµ„æº
 
 ###########################################################
 #PathResourceEntry properties
-PathResourceEntry.RootName=×ÊÔ´ÎÄ¼ş¼Ğ
+PathResourceEntry.RootName=èµ„æºæ–‡ä»¶å¤¹
 
-PathResourceEntry.RootDisplayName=¹²Ïí×ÊÔ´
+PathResourceEntry.RootDisplayName=å…±äº«èµ„æº
 
 ###########################################################
 #ResourceFilter properties
-ResourceFilter.DisplayName.CVS=CVS ×ÊÔ´
+ResourceFilter.DisplayName.CVS=CVS èµ„æº
 
-ResourceFilter.DisplayName.Dot=.* ×ÊÔ´
+ResourceFilter.DisplayName.Dot=.* èµ„æº
 
-ResourceFilter.DisplayName.Data=*.Êı¾İ×ÊÔ´
+ResourceFilter.DisplayName.Data=*.æ•°æ®èµ„æº
 
-ResourceFilter.DisplayName.EmptyFolder=¿ÕÎÄ¼ş¼Ğ
+ResourceFilter.DisplayName.EmptyFolder=ç©ºæ–‡ä»¶å¤¹
 
-ResourceFilter.Description.CVS=Òş²ØÆäÃû³ÆÒÔ \"CVS\" ¿ªÍ·µÄ×ÊÔ´
+ResourceFilter.Description.CVS=éšè—å…¶åç§°ä»¥ \"CVS\" å¼€å¤´çš„èµ„æº
 
-ResourceFilter.Description.Dot=Òş²ØÆäÃû³ÆÒÔ '.' ¿ªÍ·µÄ×ÊÔ´
+ResourceFilter.Description.Dot=éšè—å…¶åç§°ä»¥ '.' å¼€å¤´çš„èµ„æº
 
-ResourceFilter.Description.Data=Òş²ØËùÓĞÊı¾İÎÄ¼ş
+ResourceFilter.Description.Data=éšè—æ‰€æœ‰æ•°æ®æ–‡ä»¶
 
-ResourceFilter.Description.EmptyFolder=Òş²Ø¿ÕÎÄ¼ş¼Ğ
+ResourceFilter.Description.EmptyFolder=éšè—ç©ºæ–‡ä»¶å¤¹
 
 ###########################################################
 #BIRTGotoMarker properties
-BIRTGotoMarker.Error.Title=´íÎó
+BIRTGotoMarker.Error.Title=é”™è¯¯
 
-BIRTGotoMarker.Error.Message=±¨±íÔªËØ²»´æÔÚ¡£
+BIRTGotoMarker.Error.Message=æŠ¥è¡¨å…ƒç´ ä¸å­˜åœ¨ã€‚
 
 ###########################################################
 #TabbedList properties
-TabbedPropertyList.properties.not.available=ÊôĞÔ²»¿ÉÓÃ¡£
+TabbedPropertyList.properties.not.available=å±æ€§ä¸å¯ç”¨ã€‚
 
 ###########################################################
 #Sample Reports View properties
-SampleReportsView.defautDescription=Çë´ÓÀà±ğÖĞÑ¡ÔñÒ»¸öÊ¾Àı±¨±í
+SampleReportsView.defautDescription=è¯·ä»ç±»åˆ«ä¸­é€‰æ‹©ä¸€ä¸ªç¤ºä¾‹æŠ¥è¡¨
 
-SampleReportsView.Text.Explorer=Ê¾Àı±¨±í
+SampleReportsView.Text.Explorer=ç¤ºä¾‹æŠ¥è¡¨
 
-SampleReportsView.Text.Preview=Ô¤ÀÀ
+SampleReportsView.Text.Preview=é¢„è§ˆ
 
-SampleReportsView.Text.Description=ÃèÊö
+SampleReportsView.Text.Description=æè¿°
 
-SampleReportsView.MessageDialog.Title=ÎÊÌâ
+SampleReportsView.MessageDialog.Title=é—®é¢˜
 
-SampleReportsView.MessageDialog.Message=¡°{0}¡±ÒÑ´æÔÚ¡£ÒªÌæ»»ËüÂğ?
+SampleReportsView.MessageDialog.Message=â€œ{0}â€å·²å­˜åœ¨ã€‚è¦æ›¿æ¢å®ƒå—?
 
-SampleReportsView.Action.exportSampleReport=µ¼³ö(&E)
+SampleReportsView.Action.exportSampleReport=å¯¼å‡º(&E)
 
-SampleReportsView.Action.openSampleReport=µ¼Èë(&I)
+SampleReportsView.Action.openSampleReport=å¯¼å…¥(&I)
 
-SampleReportsView.Action.exportSampleReport.toolTipText=µ¼³öÑ¡ÔñµÄÊ¾Àı±¨±í
+SampleReportsView.Action.exportSampleReport.toolTipText=å¯¼å‡ºé€‰æ‹©çš„ç¤ºä¾‹æŠ¥è¡¨
 
-SampleReportsView.Action.openSampleReport.toolTipText.ide=´´½¨±¨±íÏîÄ¿²¢½«±¨±í·ÅÈëÏîÄ¿ÎÄ¼ş¼Ğ
+SampleReportsView.Action.openSampleReport.toolTipText.ide=åˆ›å»ºæŠ¥è¡¨é¡¹ç›®å¹¶å°†æŠ¥è¡¨æ”¾å…¥é¡¹ç›®æ–‡ä»¶å¤¹
 
-SampleReportsView.Action.openSampleReport.toolTipText.rcp=½«Ñ¡ÔñµÄÊ¾Àı±¨±íÖ±½Óµ¼³öµ½ RCP ¹¤×÷ÇøÎÄ¼ş¼Ğ
+SampleReportsView.Action.openSampleReport.toolTipText.rcp=å°†é€‰æ‹©çš„ç¤ºä¾‹æŠ¥è¡¨ç›´æ¥å¯¼å‡ºåˆ° RCP å·¥ä½œåŒºæ–‡ä»¶å¤¹
 
-SampleReportsView.Text.Contribute_Samples=Ìá¹©Ê¾Àı
+SampleReportsView.Text.Contribute_Samples=æä¾›ç¤ºä¾‹
 
-UseCssStyleAction.text=Ê¹ÓÃ CSS ÎÄ¼ş(&U)...
+UseCssStyleAction.text=ä½¿ç”¨ CSS æ–‡ä»¶(&U)...
 
-EditUseCssStyleAction.text=±à¼­ CSS ÎÄ¼ş(&E)...
+EditUseCssStyleAction.text=ç¼–è¾‘ CSS æ–‡ä»¶(&E)...
 
-EditUseCssStyleAction.EditCssTitle=±à¼­ CSS
+EditUseCssStyleAction.EditCssTitle=ç¼–è¾‘ CSS
 
-EditUseCssStyleAction.EditCssAreaTitle.Report=±à¼­±¨±íÉè¼ÆÖĞµÄ CSS ÎÄ¼ş
+EditUseCssStyleAction.EditCssAreaTitle.Report=ç¼–è¾‘æŠ¥è¡¨è®¾è®¡ä¸­çš„ CSS æ–‡ä»¶
 
-EditUseCssStyleAction.EditCssAreaTitle.Libary=±à¼­±¨±í¿âÖĞµÄ CSS ÎÄ¼ş
+EditUseCssStyleAction.EditCssAreaTitle.Libary=ç¼–è¾‘æŠ¥è¡¨åº“ä¸­çš„ CSS æ–‡ä»¶
 
 ###########################################################
 #GrossTabPageGenerator properties
-CrosstabPageGenerator.List.General=³£¹æ
+CrosstabPageGenerator.List.General=å¸¸è§„
 
-CrosstabPageGenerator.List.Margin=±ß¾à
+CrosstabPageGenerator.List.Margin=è¾¹è·
 
-CrosstabPageGenerator.List.Font=×ÖÌå
+CrosstabPageGenerator.List.Font=å­—ä½“
 
-CrosstabPageGenerator.List.Borders=±ß¿ò
+CrosstabPageGenerator.List.Borders=è¾¹æ¡†
 
-CrosstabPageGenerator.List.Section=·ÖÒ³·û
+CrosstabPageGenerator.List.Section=åˆ†é¡µç¬¦
 
-CrosstabPageGenerator.List.Visibility=¿É¼ûĞÔ
+CrosstabPageGenerator.List.Visibility=å¯è§æ€§
 
-CrosstabPageGenerator.List.TOC=Ä¿Â¼
+CrosstabPageGenerator.List.TOC=ç›®å½•
 
-CrosstabPageGenerator.List.Bookmark=ÊéÇ©
+CrosstabPageGenerator.List.Bookmark=ä¹¦ç­¾
 
-CrosstabPageGenerator.List.NamedExpressions=ÃüÃû±í´ïÊ½
+CrosstabPageGenerator.List.NamedExpressions=å‘½åè¡¨è¾¾å¼
 
-CrosstabPageGenerator.List.UserProperties=ÓÃ»§ÊôĞÔ
+CrosstabPageGenerator.List.UserProperties=ç”¨æˆ·å±æ€§
 
-CrosstabPageGenerator.List.AdvancedProperty=¸ß¼¶
+CrosstabPageGenerator.List.AdvancedProperty=é«˜çº§
 
-CrosstabPageGenerator.List.SubTotals=Ğ¡¼Æ
+CrosstabPageGenerator.List.SubTotals=å°è®¡
 
-CrosstabPageGenerator.List.GrandTotals=×Ü¼Æ
+CrosstabPageGenerator.List.GrandTotals=æ€»è®¡
 
-CrosstabPageGenerator.List.PageBreak=·ÖÒ³·û
+CrosstabPageGenerator.List.PageBreak=åˆ†é¡µç¬¦
 
 ###########################################################
 #CubePageGenerator properties
-CubePageGenerator.List.General=³£¹æ
+CubePageGenerator.List.General=å¸¸è§„
 
-CubePageGenerator.List.Comments=±¸×¢
+CubePageGenerator.List.Comments=å¤‡æ³¨
 
-CubePageGenerator.List.AdvancedProperty=¸ß¼¶
+CubePageGenerator.List.AdvancedProperty=é«˜çº§
 
 
 ###########################################################
 #LibraryLayoutEditorFormPage
-LibraryLayoutEditorFormPage.warning.title=¿â
+LibraryLayoutEditorFormPage.warning.title=åº“
 
-LibraryLayoutEditorFormPage.warning.message=ÒªÏò¿âÖĞÌí¼Ó±¨±íÏî£¬´ÓÑ¡Ïî°åÖĞÍÏ¶¯ÏîÄ¿»òÊ¹ÓÃ²åÈë²Ëµ¥¡£\n\nÒªÔÚ±à¼­Æ÷ÖĞ²é¿´±¨±íÏî£¬Çëµ¥»÷´ó¸ÙÊÓÍ¼ÖĞµÄ±¨±íÏî¡£
+LibraryLayoutEditorFormPage.warning.message=è¦å‘åº“ä¸­æ·»åŠ æŠ¥è¡¨é¡¹ï¼Œä»é€‰é¡¹æ¿ä¸­æ‹–åŠ¨é¡¹ç›®æˆ–ä½¿ç”¨æ’å…¥èœå•ã€‚\n\nè¦åœ¨ç¼–è¾‘å™¨ä¸­æŸ¥çœ‹æŠ¥è¡¨é¡¹ï¼Œè¯·å•å‡»å¤§çº²è§†å›¾ä¸­çš„æŠ¥è¡¨é¡¹ã€‚
 
-LibraryLayoutEditorFormPage.warning.prompt=²»ÔÙÏÔÊ¾´ËÏûÏ¢(&D)
+LibraryLayoutEditorFormPage.warning.prompt=ä¸å†æ˜¾ç¤ºæ­¤æ¶ˆæ¯(&D)
 
 ###########################################################
 #PageGenerator Item properties
-PageGenerator.TabItem.Attributes=ÊôĞÔ
+PageGenerator.TabItem.Attributes=å±æ€§
 
-PageGenerator.TabItem.Binding=°ó¶¨
+PageGenerator.TabItem.Binding=ç»‘å®š
 
-PageGenerator.TabItem.Filters=É¸Ñ¡Æ÷
+PageGenerator.TabItem.Filters=ç­›é€‰å™¨
 
-PageGenerator.TabItem.Groups=×é
+PageGenerator.TabItem.Groups=ç»„
 
-PageGenerator.TabItem.Highlights=Í»³öÏÔÊ¾
+PageGenerator.TabItem.Highlights=çªå‡ºæ˜¾ç¤º
 
-PageGenerator.TabItem.map=Ó³Éä
+PageGenerator.TabItem.map=æ˜ å°„
 
-PageGenerator.TabItem.Sorting=ÅÅĞò
+PageGenerator.TabItem.Sorting=æ’åº
 
 ###########################################################
 #AggDataDropAdapter
-AggDataDropAdapter.Trans.Name=´´½¨¾ÛºÏ
+AggDataDropAdapter.Trans.Name=åˆ›å»ºèšåˆ
 
 ###########################################################
 #BindingDialogHelper
-BindingDialogHelper.text.Name=ÁĞ°ó¶¨Ãû³Æ(&B):
+BindingDialogHelper.text.Name=åˆ—ç»‘å®šåç§°(&B):
 
-BindingDialogHelper.text.DataType=Êı¾İÀàĞÍ(&T):
+BindingDialogHelper.text.DataType=æ•°æ®ç±»å‹(&T):
 
-BindingDialogHelper.text.Function=º¯Êı(&F):
+BindingDialogHelper.text.Function=å‡½æ•°(&F):
 
-BindingDialogHelper.text.DataField=Êı¾İ×Ö¶Î(&F):
+BindingDialogHelper.text.DataField=æ•°æ®å­—æ®µ(&F):
 
-BindingDialogHelper.text.Filter=É¸Ñ¡Ìõ¼ş(&C):
+BindingDialogHelper.text.Filter=ç­›é€‰æ¡ä»¶(&C):
 
-BindingDialogHelper.text.AggOn=¾ÛºÏÌõ¼ş(&G):
+BindingDialogHelper.text.AggOn=èšåˆæ¡ä»¶(&G):
 
-BindingDialogHelper.text.Table=±í(&L)
+BindingDialogHelper.text.Table=è¡¨(&L)
 
-BindingDialogHelper.text.List=ÁĞ±í(&L)
+BindingDialogHelper.text.List=åˆ—è¡¨(&L)
 
-BindingDialogHelper.text.Grid=Íø¸ñ
+BindingDialogHelper.text.Grid=ç½‘æ ¼
 
-BindingDialogHelper.text.Group=×é(&O)
+BindingDialogHelper.text.Group=ç»„(&O)
 
-BindingDialogHelper.text.Expression=±í´ïÊ½(&E):
+BindingDialogHelper.text.Expression=è¡¨è¾¾å¼(&E):
 
-BindingDialogHelper.text.displayName=ÏÔÊ¾Ãû³Æ(&N):
+BindingDialogHelper.text.displayName=æ˜¾ç¤ºåç§°(&N):
 
-BindingDialogHelper.text.allowExport=µ¼³ö(&O)£º
+BindingDialogHelper.text.allowExport=å¯¼å‡º(&O)ï¼š
 
-BindingDialogHelper.text.allowExport.button=ÔÊĞíµ¼³ö
+BindingDialogHelper.text.allowExport.button=å…è®¸å¯¼å‡º
 
-BindingDialogHelper.text.displayNameID=ÏÔÊ¾Ãû³Æ ID(&S):
+BindingDialogHelper.text.displayNameID=æ˜¾ç¤ºåç§° ID(&S):
 
-BindingDialogHelper.bindingName.dataitem=ÁĞ°ó¶¨
+BindingDialogHelper.bindingName.dataitem=åˆ—ç»‘å®š
 
-BindingDialogHelper.bindingName.aggregation=¾ÛºÏ
+BindingDialogHelper.bindingName.aggregation=èšåˆ
 
-BindingDialogHelper.error.nameduplicate=ÃûÎª {0} µÄÁĞ°ó¶¨ÒÑ´æÔÚ¡£
+BindingDialogHelper.error.nameduplicate=åä¸º {0} çš„åˆ—ç»‘å®šå·²å­˜åœ¨ã€‚
 
-BindingDialogHelper.error.improperexpression=¶àÎ¬Êı¾İ¼¯¶ÈÁ¿¾ÛºÏ²»ÄÜÎª´ËÀàĞÍ:¡°{0}¡±¡£
+BindingDialogHelper.error.improperexpression=å¤šç»´æ•°æ®é›†åº¦é‡èšåˆä¸èƒ½ä¸ºæ­¤ç±»å‹:â€œ{0}â€ã€‚
 
-BindingDialogHelper.error.empty={0} ÊÇ±ØĞèµÄ¡£
+BindingDialogHelper.error.empty={0} æ˜¯å¿…éœ€çš„ã€‚
 
-BindingDialogHelper.error.text.Name=ÁĞ°ó¶¨Ãû³Æ
+BindingDialogHelper.error.text.Name=åˆ—ç»‘å®šåç§°
 
 BindingDialogHelper.text.Colon=:
-BindingDialogHelper.warning.function=µ±Ç°º¯ÊıµÄ½¨ÒéÊı¾İÀàĞÍÎª¡°{0}¡±£¬ÊÇ·ñÒª±£ÁôÄúÑ¡ÔñµÄÊı¾İÀàĞÍ?
+BindingDialogHelper.warning.function=å½“å‰å‡½æ•°çš„å»ºè®®æ•°æ®ç±»å‹ä¸ºâ€œ{0}â€ï¼Œæ˜¯å¦è¦ä¿ç•™æ‚¨é€‰æ‹©çš„æ•°æ®ç±»å‹?
 
-BindingDialogHelper.warning.parameter=²ÎÊı¡°{1}¡±²»Ö§³Ö±í´ïÊ½¡°{0}¡±µÄ·µ»ØÊı¾İÀàĞÍ£¬ÊÇ·ñÒª±£Áô?
+BindingDialogHelper.warning.parameter=å‚æ•°â€œ{1}â€ä¸æ”¯æŒè¡¨è¾¾å¼â€œ{0}â€çš„è¿”å›æ•°æ®ç±»å‹ï¼Œæ˜¯å¦è¦ä¿ç•™?
 
-BindingDialogHelper.warning.button.yes=ÊÇ
+BindingDialogHelper.warning.button.yes=æ˜¯
 
-BindingDialogHelper.warning.button.no=·ñ
+BindingDialogHelper.warning.button.no=å¦
 
-BindingGroupDescriptorProvider.Flag.DataModel=\ (Êı¾İÄ£ĞÍ)
+BindingGroupDescriptorProvider.Flag.DataModel=\ (æ•°æ®æ¨¡å‹)
 
-BindingGroupDescriptorProvider.DataSetBindingSelector.Title.LinkModel=Êı¾İÄ£ĞÍ°ó¶¨
+BindingGroupDescriptorProvider.DataSetBindingSelector.Title.LinkModel=æ•°æ®æ¨¡å‹ç»‘å®š
 
-BindingGroupDescriptorProvider.DataSetBindingSelector.Title.DataSet=Êı¾İÉèÖÃ°ó¶¨
+BindingGroupDescriptorProvider.DataSetBindingSelector.Title.DataSet=æ•°æ®è®¾ç½®ç»‘å®š
 
 ###########################################################
 #Scripts Node
-Scripts.Node.DisplayName=½Å±¾
+Scripts.Node.DisplayName=è„šæœ¬
 
-ScriptElementNode.Action.Text=×ªµ½±¨±íÔªËØ(&G)
+ScriptElementNode.Action.Text=è½¬åˆ°æŠ¥è¡¨å…ƒç´ (&G)
 
-ScriptObjectNode_0=ÖØÖÃ½Å±¾(&R)
+ScriptObjectNode_0=é‡ç½®è„šæœ¬(&R)
 
-ReportPage.PreviewImage.Button.ToolTip=¹ÜÀíËõÂÔÍ¼
+ReportPage.PreviewImage.Button.ToolTip=ç®¡ç†ç¼©ç•¥å›¾
 
 ###########################################################
 #CrosstabBindingDialogHelper
-CrosstabBindingDialogHelper.AggOn.All=È«²¿
+CrosstabBindingDialogHelper.AggOn.All=å…¨éƒ¨
 
-CrosstabBindingDialogHelper.bindngName.timeperiod=ÖÜÆÚ
+CrosstabBindingDialogHelper.bindngName.timeperiod=å‘¨æœŸ
 
-CrosstabBindingDialogHelper.calculation.label=Ê±¼äÖÜÆÚ(&P):
+CrosstabBindingDialogHelper.calculation.label=æ—¶é—´å‘¨æœŸ(&P):
 
-CrosstabBindingDialogHelper.calculation.group=Ê±¼äÖÜÆÚ
+CrosstabBindingDialogHelper.calculation.group=æ—¶é—´å‘¨æœŸ
 
-CrosstabBindingDialogHelper.recentday.description=ÆÚÏŞÖĞµÄ×îºóÈÕÆÚ
+CrosstabBindingDialogHelper.recentday.description=æœŸé™ä¸­çš„æœ€åæ—¥æœŸ
 
-CrosstabBindingDialogHelper.referencedate.label=²Î¿¼ÈÕÆÚ(&R):
+CrosstabBindingDialogHelper.referencedate.label=å‚è€ƒæ—¥æœŸ(&R):
 
-CrosstabBindingDialogHelper.thisdate.label=´ËÈÕÆÚ:
+CrosstabBindingDialogHelper.thisdate.label=æ­¤æ—¥æœŸ:
 
-CrosstabBindingDialogHelper.thisdate.example.label=ÇëÓÃÒıºÅÒıÆğÌá¹©µÄÈÕÆÚÖµ¡£\nÀıÈç£º"2012-01-23"¡¢"1/23/2012"¡£
+CrosstabBindingDialogHelper.thisdate.example.label=è¯·ç”¨å¼•å·å¼•èµ·æä¾›çš„æ—¥æœŸå€¼ã€‚\nä¾‹å¦‚ï¼š"2012-01-23"ã€"1/23/2012"ã€‚
 
-CrosstabBindingDialogHelper.thisdate.example.label.constant=ÀıÈç£º2012-01-23¡¢1/23/2012¡£
+CrosstabBindingDialogHelper.thisdate.example.label.constant=ä¾‹å¦‚ï¼š2012-01-23ã€1/23/2012ã€‚
 
-CrosstabBindingDialogHelper.timedimension.label=Ê±¼äÎ¬(&M):
+CrosstabBindingDialogHelper.timedimension.label=æ—¶é—´ç»´(&M):
 
-CrosstabBindingDialogHelper.timeperiod.wrongdate=´ËÎ¬²»Ö§³Ö×î½ü²Î¿¼ÈÕÆÚ
+CrosstabBindingDialogHelper.timeperiod.wrongdate=æ­¤ç»´ä¸æ”¯æŒæœ€è¿‘å‚è€ƒæ—¥æœŸ
 
-CrosstabBindingDialogHelper.today.label=½ñÌì
+CrosstabBindingDialogHelper.today.label=ä»Šå¤©
 
-AddEditCascadingParameterDialog.label.name=Ãû³Æ(&N):
+AddEditCascadingParameterDialog.label.name=åç§°(&N):
 
-AddEditCascadingParameterDialog.label.dataset=Êı¾İ¼¯(&D):
+AddEditCascadingParameterDialog.label.dataset=æ•°æ®é›†(&D):
 
-AddEditCascadingParameterDialog.label.value=Öµ(&V):
+AddEditCascadingParameterDialog.label.value=å€¼(&V):
 
-AddEditCascadingParameterDialog.label.displaytext=ÏÔÊ¾ÎÄ±¾(&T):
+AddEditCascadingParameterDialog.label.displaytext=æ˜¾ç¤ºæ–‡æœ¬(&T):
 
 ###########################################################
 #FormatDateTimePattern
-FormatDateTimePattern.datetiem_format_type_year=Äê
+FormatDateTimePattern.datetiem_format_type_year=å¹´
 
-FormatDateTimePattern.datetiem_format_type_short_year=³¤¸ñÊ½Äê
+FormatDateTimePattern.datetiem_format_type_short_year=é•¿æ ¼å¼å¹´
 
-FormatDateTimePattern.datetiem_format_type_long_month_year=³¤¸ñÊ½ÄêÔÂ
+FormatDateTimePattern.datetiem_format_type_long_month_year=é•¿æ ¼å¼å¹´æœˆ
 
-FormatDateTimePattern.datetiem_format_type_shot_month_year=¶Ì¸ñÊ½ÄêÔÂ
+FormatDateTimePattern.datetiem_format_type_shot_month_year=çŸ­æ ¼å¼å¹´æœˆ
 
-FormatDateTimePattern.datetiem_format_type_month=ÔÂ
+FormatDateTimePattern.datetiem_format_type_month=æœˆ
 
-FormatDateTimePattern.datetiem_format_type_long_day_of_week=³¤¸ñÊ½ĞÇÆÚ
+FormatDateTimePattern.datetiem_format_type_long_day_of_week=é•¿æ ¼å¼æ˜ŸæœŸ
 
-FormatDateTimePattern.datetiem_format_type_day_of_month=ÔÂÖĞµÚ¼¸Ìì
+FormatDateTimePattern.datetiem_format_type_day_of_month=æœˆä¸­ç¬¬å‡ å¤©
 
-FormatDateTimePattern.datetiem_format_type_medium_day_of_year=ÖĞµÈ¸ñÊ½ÄêÖĞµÚ¼¸Ìì
+FormatDateTimePattern.datetiem_format_type_medium_day_of_year=ä¸­ç­‰æ ¼å¼å¹´ä¸­ç¬¬å‡ å¤©
 
-FormatDateTimePattern.datetiem_format_type_minutes=·ÖÖÓ
+FormatDateTimePattern.datetiem_format_type_minutes=åˆ†é’Ÿ
 
-FormatDateTimePattern.datetiem_format_type_secontds=Ãë
+FormatDateTimePattern.datetiem_format_type_secontds=ç§’
 
-FormatDateTimePattern.datetiem_format_type_general_time=³£¹æÊ±¼ä
+FormatDateTimePattern.datetiem_format_type_general_time=å¸¸è§„æ—¶é—´
 
 ###############################################################################
 # LOCALE SPECIAL:
@@ -7219,322 +7219,322 @@ FormatDateTimePattern.pattern.datetiem_format_type_secontds=ss
 
 FormatDateTimePattern.pattern.datetiem_format_type_general_time=ahh:mm:ss.SSS
 
-FormatDescriptorProvider.DisplayName.None=×Ô¶¯
+FormatDescriptorProvider.DisplayName.None=è‡ªåŠ¨
 
-ReportExamples.ContributeSamples.description=ÇëÔÚ{0}½«´íÎóÌá½»µ½ BIRT{1}Ìá½» bugzilla ÌõÄ¿¡£\n¸½¼Ó±¨±íÉè¼ÆÎÄ¼şºÍ±¨±íÊä³öµÄÆÁÄ»¿ìÕÕ¡£\n\n ×¢Òâ: ÆÁÄ»¿ìÕÕÓ¦¸ÃÎª:\n  1. *.png Í¼Ïñ¸ñÊ½£»\n  2. ·Ö±æÂÊ 800*600£»\n  3. ²»´óÓÚ 250 KB¡£
+ReportExamples.ContributeSamples.description=è¯·åœ¨{0}å°†é”™è¯¯æäº¤åˆ° BIRT{1}æäº¤ bugzilla æ¡ç›®ã€‚\né™„åŠ æŠ¥è¡¨è®¾è®¡æ–‡ä»¶å’ŒæŠ¥è¡¨è¾“å‡ºçš„å±å¹•å¿«ç…§ã€‚\n\n æ³¨æ„: å±å¹•å¿«ç…§åº”è¯¥ä¸º:\n  1. *.png å›¾åƒæ ¼å¼ï¼›\n  2. åˆ†è¾¨ç‡ 800*600ï¼›\n  3. ä¸å¤§äº 250 KBã€‚
 
-ReportExamples.ContributeSamples.title=Ìá¹©Ê¾Àı
+ReportExamples.ContributeSamples.title=æä¾›ç¤ºä¾‹
 
-ReportExamples.ContributeSamples.messages=ÒÔÏÂĞÅÏ¢½«Òıµ¼ÄúÌá¹©Ê¾Àı¡£
+ReportExamples.ContributeSamples.messages=ä»¥ä¸‹ä¿¡æ¯å°†å¼•å¯¼æ‚¨æä¾›ç¤ºä¾‹ã€‚
 
-ReportExamples.OpenBrowser.Error.title=´íÎó
+ReportExamples.OpenBrowser.Error.title=é”™è¯¯
 
-ReportExamples.OpenBrowser.Error.message=ÎŞ·¨´ò¿ª Web ä¯ÀÀÆ÷¡£
+ReportExamples.OpenBrowser.Error.message=æ— æ³•æ‰“å¼€ Web æµè§ˆå™¨ã€‚
 
 ###########################################################
 #CopyCellContentsContextAction
-CopyCellContentsContextAction.actionText=¸´ÖÆÄÚÈİ(&E)
+CopyCellContentsContextAction.actionText=å¤åˆ¶å†…å®¹(&E)
 
 ###########################################################
 #CopyCellContentsAction
-CopyCellContentsAction.actionText=¸´ÖÆÄÚÈİ(&E)
+CopyCellContentsAction.actionText=å¤åˆ¶å†…å®¹(&E)
 
 ###########################################################
 #CopyFormatAction
-CopyFormatAction.text=¸´ÖÆ¸ñÊ½(&F)
+CopyFormatAction.text=å¤åˆ¶æ ¼å¼(&F)
 
 ###########################################################
 #PasteFormatAction
-PasteFormatAction.text=Õ³Ìù¸ñÊ½(&O)
+PasteFormatAction.text=ç²˜è´´æ ¼å¼(&O)
 
 ###########################################################
 #InsertAggregationAction
-InsertAggregationAction.text=¾ÛºÏ(&A)
+InsertAggregationAction.text=èšåˆ(&A)
 
 
 ###########################################################
 #InsertRelativeTimePeriodAction
-InsertRelativeTimePeriodAction.text=Ïà¶ÔÊ±¼äÆÚÏŞ(&V)
+InsertRelativeTimePeriodAction.text=ç›¸å¯¹æ—¶é—´æœŸé™(&V)
 
 ###########################################################
 #Multiple views
-MultipleAdapter.SetCurrentView=ÉèÖÃµ±Ç°ÊÓÍ¼
+MultipleAdapter.SetCurrentView=è®¾ç½®å½“å‰è§†å›¾
 
-MultipleAdapter.RemoveView=É¾³ıÊÓÍ¼
+MultipleAdapter.RemoveView=åˆ é™¤è§†å›¾
 
-MultipleGuideHandle.RemoveView=É¾³ı
+MultipleGuideHandle.RemoveView=åˆ é™¤
 
-CreateChartAction.text=´´½¨Í¼±íÊÓÍ¼(&W)
+CreateChartAction.text=åˆ›å»ºå›¾è¡¨è§†å›¾(&W)
 
-CreateChartHandler.text=´´½¨Í¼±íÊÓÍ¼
+CreateChartHandler.text=åˆ›å»ºå›¾è¡¨è§†å›¾
 
 ###########################################################
 #Input Parameters
-InputParameterDialog.msg.title=ÊäÈë²ÎÊı
+InputParameterDialog.msg.title=è¾“å…¥å‚æ•°
 
-InputParameterDialog.msg.requiredParam=´øÓĞ * µÄ²ÎÊıÎª±ØĞè²ÎÊı¡£
+InputParameterDialog.msg.requiredParam=å¸¦æœ‰ * çš„å‚æ•°ä¸ºå¿…éœ€å‚æ•°ã€‚
 
-InputParameterDialog.err.requiredParam=Î´Ö¸¶¨ËùĞè²ÎÊı [{0}] µÄÖµ¡£
+InputParameterDialog.err.requiredParam=æœªæŒ‡å®šæ‰€éœ€å‚æ•° [{0}] çš„å€¼ã€‚
 
-InputParameterDialog.err.invalidValueTitle=ÎŞĞ§Öµ
+InputParameterDialog.err.invalidValueTitle=æ— æ•ˆå€¼
 
-InputParameterDialog.err.invalidValue=¾ßÓĞÀàĞÍ {1} µÄÖµ¡°{0}¡±ÎŞĞ§¡£
+InputParameterDialog.err.invalidValue=å…·æœ‰ç±»å‹ {1} çš„å€¼â€œ{0}â€æ— æ•ˆã€‚
 
-InputParameterDialog.err.emptyValue={0}µÄ ÊäÈëÖµ²»ÄÜÎª¿Õ¡£
+InputParameterDialog.err.emptyValue={0}çš„ è¾“å…¥å€¼ä¸èƒ½ä¸ºç©ºã€‚
 
-InputParameterDialog.err.emptyValue2={0} µÄµÚ¶ş¸öÊäÈëÖµ²»ÄÜÎª¿Õ¡£
+InputParameterDialog.err.emptyValue2={0} çš„ç¬¬äºŒä¸ªè¾“å…¥å€¼ä¸èƒ½ä¸ºç©ºã€‚
 
 ###########################################################
 #Crosstab drag tracker
-ColumnDragTracker.ResizeColumn=ÖØĞÂÉè¶¨ÁĞ´óĞ¡
+ColumnDragTracker.ResizeColumn=é‡æ–°è®¾å®šåˆ—å¤§å°
 
-ColumnDragTracker.Show.Label=¿í¶È:
+ColumnDragTracker.Show.Label=å®½åº¦:
 
-CPListLabelProvider.misssing=(È±ÉÙ)
+CPListLabelProvider.misssing=(ç¼ºå°‘)
 
-RowDragTracker.ResizeRow=ÖØĞÂÉè¶¨ĞĞ´óĞ¡
+RowDragTracker.ResizeRow=é‡æ–°è®¾å®šè¡Œå¤§å°
 
-RowDragTracker.Show.Label=¸ß¶È:
+RowDragTracker.Show.Label=é«˜åº¦:
 
-TableDragGuideTracker.Pixels=ÏñËØ
+TableDragGuideTracker.Pixels=åƒç´ 
 
 ###########################################################
 #General Designer settings
-GeneralConfigurationBlock.message.general.description=±¨±íÉè¼ÆÆ÷µÄ³£¹æÉèÖÃ
+GeneralConfigurationBlock.message.general.description=æŠ¥è¡¨è®¾è®¡å™¨çš„å¸¸è§„è®¾ç½®
 
-GeneralConfigurationBlock.button.text.enable.gradient=ÓÃ½¥±äÑ¡Ôñ(&G)
+GeneralConfigurationBlock.button.text.enable.gradient=ç”¨æ¸å˜é€‰æ‹©(&G)
 
-GeneralConfigurationBlock.button.text.enable.animation=ÆôÓÃ¶¯»­Ñ¡Ôñ(&N)
+GeneralConfigurationBlock.button.text.enable.animation=å¯ç”¨åŠ¨ç”»é€‰æ‹©(&N)
 
-GeneralConfigurationBlock.group.label=ÌáÊ¾
+GeneralConfigurationBlock.group.label=æç¤º
 
-GeneralConfigurationBlock.group.defaultThemes=Ä¬ÈÏÖ÷Ìâ¿â
+GeneralConfigurationBlock.group.defaultThemes=é»˜è®¤ä¸»é¢˜åº“
 
-GeneralConfigurationBlock.button.text.prompt=´ò¿ª¿âÎÄ¼şºóÏÔÊ¾ÌáÊ¾(&P)¡£
+GeneralConfigurationBlock.button.text.prompt=æ‰“å¼€åº“æ–‡ä»¶åæ˜¾ç¤ºæç¤º(&P)ã€‚
 
-GeneralConfigurationBlock.button.text.defaultTheme.enable=ÆôÓÃÄ¬ÈÏÖ÷Ìâ¿â(&T)
+GeneralConfigurationBlock.button.text.defaultTheme.enable=å¯ç”¨é»˜è®¤ä¸»é¢˜åº“(&T)
 
-GeneralConfigurationBlock.button.text.defaultTheme.include=°üº¬Ä¬ÈÏÖ÷Ìâ(&I)
+GeneralConfigurationBlock.button.text.defaultTheme.include=åŒ…å«é»˜è®¤ä¸»é¢˜(&I)
 
-GeneralConfigurationBlock.move.binding.group=½«±¾µØ°ó¶¨ÒÆ¶¯µ½¸¸²ãÒÔ»ñµÃ¸üºÃµÄĞÔÄÜ
+GeneralConfigurationBlock.move.binding.group=å°†æœ¬åœ°ç»‘å®šç§»åŠ¨åˆ°çˆ¶å±‚ä»¥è·å¾—æ›´å¥½çš„æ€§èƒ½
 
-GeneralConfigurationBlock.move.binding.always=Ê¼ÖÕ(&W)
+GeneralConfigurationBlock.move.binding.always=å§‹ç»ˆ(&W)
 
-GeneralConfigurationBlock.move.binding.never=´Ó²»(&V)
+GeneralConfigurationBlock.move.binding.never=ä»ä¸(&V)
 
-GeneralConfigurationBlock.move.binding.prompt=ÌáÊ¾(&R)
+GeneralConfigurationBlock.move.binding.prompt=æç¤º(&R)
 
 ###########################################################
 #ResetImageSizeAction
-ResetImageOriginalSizeAction.trans.label=ÖØÖÃÍ¼Ïñ´óĞ¡
+ResetImageOriginalSizeAction.trans.label=é‡ç½®å›¾åƒå¤§å°
 
-ResetImageSizeAction.label=ÖÃÎªÔ­Ê¼´óĞ¡(&Z)
+ResetImageSizeAction.label=ç½®ä¸ºåŸå§‹å¤§å°(&Z)
 ###########################################################
 #Report document editor
-ReportDocumentEditor.1=±¨±íÎÄµµ±à¼­Æ÷
+ReportDocumentEditor.1=æŠ¥è¡¨æ–‡æ¡£ç¼–è¾‘å™¨
 
-ReportDocumentEditor.2=ÎÄµµĞÅÏ¢
+ReportDocumentEditor.2=æ–‡æ¡£ä¿¡æ¯
 
-ReportDocumentEditor.3=Ãû³Æ:
+ReportDocumentEditor.3=åç§°:
 
-ReportDocumentEditor.4=°æ±¾:
+ReportDocumentEditor.4=ç‰ˆæœ¬:
 
-ReportDocumentEditor.5=Ò³Êı:
+ReportDocumentEditor.5=é¡µæ•°:
 
-ReportDocumentEditor.errorMessage=ÔÚ±à¼­Æ÷ÖĞ´ò¿ªÎÄµµÊ±³ö´í¡£
+ReportDocumentEditor.errorMessage=åœ¨ç¼–è¾‘å™¨ä¸­æ‰“å¼€æ–‡æ¡£æ—¶å‡ºé”™ã€‚
 
 ###########################################################
 #Export Element Dialog
-ExportElementDialog.Dialog.Title=½«ÔªËØµ¼³öµ½¿â
+ExportElementDialog.Dialog.Title=å°†å…ƒç´ å¯¼å‡ºåˆ°åº“
 
-ExportElementDialog.Dialog.Message=Ñ¡ÔñÄ¿±ê¿â»ò´´½¨ĞÂÄ¿±ê¡£
+ExportElementDialog.Dialog.Message=é€‰æ‹©ç›®æ ‡åº“æˆ–åˆ›å»ºæ–°ç›®æ ‡ã€‚
 
-ExportElementDialog.label.NewFile=ĞÂÎÄ¼şÃû³Æ(&N):
+ExportElementDialog.label.NewFile=æ–°æ–‡ä»¶åç§°(&N):
 
-ExportElementDialog.ErrorMessage=ÎÄ¼şÃû±ØĞëÒÔ .rptlibrary ½áÎ²¡£
+ExportElementDialog.ErrorMessage=æ–‡ä»¶åå¿…é¡»ä»¥ .rptlibrary ç»“å°¾ã€‚
 
-ExportElementDialog.ErrorMessageInvalid=ÎÄ¼şÃûÎŞĞ§¡£
+ExportElementDialog.ErrorMessageInvalid=æ–‡ä»¶åæ— æ•ˆã€‚
 
-ExportElementDialog.ErrorMessageDuplicate=ÔªËØÔÚ¿âÖĞÒÑ´æÔÚ¡£
+ExportElementDialog.ErrorMessageDuplicate=å…ƒç´ åœ¨åº“ä¸­å·²å­˜åœ¨ã€‚
 
-ExportElementDialog.ErrorStatusCanNotExport=ÔªËØÎŞ·¨µ¼³ö¡£
+ExportElementDialog.ErrorStatusCanNotExport=å…ƒç´ æ— æ³•å¯¼å‡ºã€‚
 
-ExportElementDialog.WarningMessageDuplicate.Message=ÖØ¸´µÄ×é¼şÃû³Æ¡£ÊÇ·ñÌæ´úÏÖÓĞµÄ¿â×é¼ş?\n\nµ¥»÷ {0} Ìæ»»ÏÖÓĞµÄ¿â×é¼ş¡£\nµ¥»÷ {1} ·µ»Øµ¼³öÔªËØ¶Ô»°¿ò¡£\nµ¥»÷ {2} È¡Ïû²Ù×÷¡£
+ExportElementDialog.WarningMessageDuplicate.Message=é‡å¤çš„ç»„ä»¶åç§°ã€‚æ˜¯å¦æ›¿ä»£ç°æœ‰çš„åº“ç»„ä»¶?\n\nå•å‡» {0} æ›¿æ¢ç°æœ‰çš„åº“ç»„ä»¶ã€‚\nå•å‡» {1} è¿”å›å¯¼å‡ºå…ƒç´ å¯¹è¯æ¡†ã€‚\nå•å‡» {2} å–æ¶ˆæ“ä½œã€‚
 
-ExportElementDialog.WarningMessageDuplicate.Title=È·ÈÏÌæ»»
+ExportElementDialog.WarningMessageDuplicate.Title=ç¡®è®¤æ›¿æ¢
 
-ExportElementDialog.WarningMessageDuplicate.OverrideImage=ÓÉµ¼³öµÄÍ¼ÏñÒıÓÃµÄÇ¶ÈëÍ¼ÏñÒÑ´æÔÚ¡£ÊÇ·ñÒªÌæ´úËü?
+ExportElementDialog.WarningMessageDuplicate.OverrideImage=ç”±å¯¼å‡ºçš„å›¾åƒå¼•ç”¨çš„åµŒå…¥å›¾åƒå·²å­˜åœ¨ã€‚æ˜¯å¦è¦æ›¿ä»£å®ƒ?
 
 ###########################################################
 #NewStyleHandler
-NewStyleHandler.transaction.label=ĞÂ½¨ÑùÊ½...
+NewStyleHandler.transaction.label=æ–°å»ºæ ·å¼...
 
-AdvancePropertyDescriptorProvider.DisplayName=´Ù½ø
+AdvancePropertyDescriptorProvider.DisplayName=ä¿ƒè¿›
 
-AdvancePropertyDescriptorProvider.Tooltip.Alphabetic=°´×ÖÄ¸ÅÅĞò
+AdvancePropertyDescriptorProvider.Tooltip.Alphabetic=æŒ‰å­—æ¯æ’åº
 
-AdvancePropertyDescriptorProvider.Tooltip.Group=°´×éÅÅĞò
+AdvancePropertyDescriptorProvider.Tooltip.Group=æŒ‰ç»„æ’åº
 
-AdvancePropertyDescriptorProvider.Tooltip.Local=ÏÔÊ¾±¾µØÊôĞÔ
+AdvancePropertyDescriptorProvider.Tooltip.Local=æ˜¾ç¤ºæœ¬åœ°å±æ€§
 
-PropertyEditorFactory.Boolean.True=Õæ
+PropertyEditorFactory.Boolean.True=çœŸ
 
-PropertyEditorFactory.Boolean.False=¼Ù
+PropertyEditorFactory.Boolean.False=å‡
 
-PropertyEditorFactory.Value.Auto=×Ô¶¯
+PropertyEditorFactory.Value.Auto=è‡ªåŠ¨
 
-ExportElementToLibraryAction.waring=¾¯¸æ
+ExportElementToLibraryAction.waring=è­¦å‘Š
 
-ExportElementToLibraryAction.waringMsg=ÔªËØÃ»ÓĞÃû³Æ£¬µ«²»ÄÜÎªÆäÉèÖÃÃû³Æ¡£
+ExportElementToLibraryAction.waringMsg=å…ƒç´ æ²¡æœ‰åç§°ï¼Œä½†ä¸èƒ½ä¸ºå…¶è®¾ç½®åç§°ã€‚
 
 ###########################################################
 #ExportStyleDialog
-ExportStyleDialog.Label.Text=²¼¾°Ö÷Ìâ(&T):
+ExportStyleDialog.Label.Text=å¸ƒæ™¯ä¸»é¢˜(&T):
 
-ExportStyleDialog.Message=ÔÚ¿âÖĞÑ¡ÔñÒªµ¼³öµÄ²¼¾°Ö÷Ìâ¡£
+ExportStyleDialog.Message=åœ¨åº“ä¸­é€‰æ‹©è¦å¯¼å‡ºçš„å¸ƒæ™¯ä¸»é¢˜ã€‚
 
-ExportStyleDialog.Title=Ñ¡Ôñ²¼¾°Ö÷Ìâ
+ExportStyleDialog.Title=é€‰æ‹©å¸ƒæ™¯ä¸»é¢˜
 
 ###########################################################
 #UIUtil
-UIUtil.previewconfirm.title=±¨±íÖĞ´æÔÚ´íÎó
+UIUtil.previewconfirm.title=æŠ¥è¡¨ä¸­å­˜åœ¨é”™è¯¯
 
-UIUtil.previewconfirm.message=±¨±í°üº¬´íÎó£¬ÊÇ·ñ¼ÌĞøÔ¤ÀÀ?
+UIUtil.previewconfirm.message=æŠ¥è¡¨åŒ…å«é”™è¯¯ï¼Œæ˜¯å¦ç»§ç»­é¢„è§ˆ?
 
 ###########################################################
 #FileReportProvider
-FileReportProvider.CopyConfigFile.DeleteFailure=É¾³ıÎÄ¼şÊ§°Ü: {0}
+FileReportProvider.CopyConfigFile.DeleteFailure=åˆ é™¤æ–‡ä»¶å¤±è´¥: {0}
 
 ###########################################################
 #ShowPropertiesViewMenu
-ShowPropertiesViewMenu.ActionName=ÊôĞÔ(&I)
+ShowPropertiesViewMenu.ActionName=å±æ€§(&I)
 
-ShowPropertiesViewMenu.ErrorMessage=ÎŞ·¨´ò¿ªÊôĞÔÊÓÍ¼
+ShowPropertiesViewMenu.ErrorMessage=æ— æ³•æ‰“å¼€å±æ€§è§†å›¾
 
-ShowPropertiesViewMenu.ErrorTitle=´íÎó
+ShowPropertiesViewMenu.ErrorTitle=é”™è¯¯
 
 ###########################################################
 #ResetAttributePage
-ResetAttributePage.Style.Restore.TooltipText=½«µ±Ç°Ò³µÄÑùÊ½ÊôĞÔ»¹Ô­µ½Ä¬ÈÏÉèÖÃ
+ResetAttributePage.Style.Restore.TooltipText=å°†å½“å‰é¡µçš„æ ·å¼å±æ€§è¿˜åŸåˆ°é»˜è®¤è®¾ç½®
 
-ResetAttributePage.Style.Restore.Transaction.Name=»¹Ô­ÑùÊ½
-ResetAttributePage.Style.Restore.Menu.Name=»Ö¸´Ä¬ÈÏÑùÊ½
-ResetAttributePage.Style.Restore.All.Transaction.Name=»Ö¸´È«²¿ÑùÊ½
-ResetAttributePage.Style.Restore.All.Menu.Name=ÔÚËùÓĞÑ¡Ïî¿¨ÉÏ»Ö¸´Ä¬ÈÏÑùÊ½
+ResetAttributePage.Style.Restore.Transaction.Name=è¿˜åŸæ ·å¼
+ResetAttributePage.Style.Restore.Menu.Name=æ¢å¤é»˜è®¤æ ·å¼
+ResetAttributePage.Style.Restore.All.Transaction.Name=æ¢å¤å…¨éƒ¨æ ·å¼
+ResetAttributePage.Style.Restore.All.Menu.Name=åœ¨æ‰€æœ‰é€‰é¡¹å¡ä¸Šæ¢å¤é»˜è®¤æ ·å¼
 
 ###########################################################
 #TextEditor
-TextEditor.PasteFormattedText=Õ³Ìù´ø¸ñÊ½ÎÄ±¾
+TextEditor.PasteFormattedText=ç²˜è´´å¸¦æ ¼å¼æ–‡æœ¬
 
 ###########################################################
 #ReloadImageAction
-ReloadImageAction.Text=ÖØĞÂ¼ÓÔØÍ¼Ïñ(&M)
+ReloadImageAction.Text=é‡æ–°åŠ è½½å›¾åƒ(&M)
 
 ###########################################################
 #VariablesNodeProvider
-VariablesNodeProvider.NewActionName=ĞÂ½¨±äÁ¿(&N)
+VariablesNodeProvider.NewActionName=æ–°å»ºå˜é‡(&N)
 
-VariablesNodeProvider.Dialog.Title=ĞÂ½¨±äÁ¿
+VariablesNodeProvider.Dialog.Title=æ–°å»ºå˜é‡
 
-VariablesNodeProvider.NodeName=±äÁ¿
+VariablesNodeProvider.NodeName=å˜é‡
 
 ###########################################################
 #VariableNodeProvider
-VariableNodeProvider.DialogTitle=±à¼­±äÁ¿
+VariableNodeProvider.DialogTitle=ç¼–è¾‘å˜é‡
 
 ###########################################################
 #SelectVariableDialog
-SelectVariableDialog.AvailableVariables=¿ÉÓÃ±äÁ¿(&A):
+SelectVariableDialog.AvailableVariables=å¯ç”¨å˜é‡(&A):
 
-SelectVariableDialog.PageSeperator=----- Ò³Ãæ±äÁ¿ -----
+SelectVariableDialog.PageSeperator=----- é¡µé¢å˜é‡ -----
 
-SelectVariableDialog.ReportSeperator=----- ±¨±í±äÁ¿ -----
+SelectVariableDialog.ReportSeperator=----- æŠ¥è¡¨å˜é‡ -----
 
-SelectVariableDialog.Title=²åÈë±äÁ¿
+SelectVariableDialog.Title=æ’å…¥å˜é‡
 
 ###########################################################
 #VariableDialog
-VariableDialog.DataType=Êı¾İÀàĞÍ(&T):
+VariableDialog.DataType=æ•°æ®ç±»å‹(&T):
 
-VariableDialog.DefaultValue=Ä¬ÈÏÖµ(&V):
+VariableDialog.DefaultValue=é»˜è®¤å€¼(&V):
 
-VariableDialog.Name=Ãû³Æ(&N):
+VariableDialog.Name=åç§°(&N):
 
-VariableDialog.PageVariable=Ò³Ãæ±äÁ¿(&P)
+VariableDialog.PageVariable=é¡µé¢å˜é‡(&P)
 
-VariableDialog.ReportVariable=±¨±í±äÁ¿(&R)
+VariableDialog.ReportVariable=æŠ¥è¡¨å˜é‡(&R)
 
-VariableDialog.VariableType=ÀàĞÍ:
+VariableDialog.VariableType=ç±»å‹:
 
-VariableDialog.Error.NameDuplicate=Ãû³Æ¡°{0}¡±ÓëÏÖÓĞÃû³ÆÖØ¸´¡£ÇëÑ¡ÔñÒ»¸ö²»Í¬µÄÃû³Æ¡£
+VariableDialog.Error.NameDuplicate=åç§°â€œ{0}â€ä¸ç°æœ‰åç§°é‡å¤ã€‚è¯·é€‰æ‹©ä¸€ä¸ªä¸åŒçš„åç§°ã€‚
 
 ###########################################################
 #ExpressionBuilderConfigurationBlock
-ExpressionBuilderConfigurationBlock.DefaultSyntax=Ä¬ÈÏÓï·¨(&F):
+ExpressionBuilderConfigurationBlock.DefaultSyntax=é»˜è®¤è¯­æ³•(&F):
 
 ###########################################################
 #ExpressionEditor
-ExpressionEditor.Error.EmptyExpression=±í´ïÊ½²»ÄÜÎª¿Õ¡£
+ExpressionEditor.Error.EmptyExpression=è¡¨è¾¾å¼ä¸èƒ½ä¸ºç©ºã€‚
 
-ExpressionEditor.Label.Expression=±í´ïÊ½(&E):
+ExpressionEditor.Label.Expression=è¡¨è¾¾å¼(&E):
 
-ExpressionEditor.Title=±à¼­±í´ïÊ½
+ExpressionEditor.Title=ç¼–è¾‘è¡¨è¾¾å¼
 
-ExpressionSyntaxColoringPage.Accessible.Name.Background=±³¾°É«Ñ¡ÔñÆ÷
+ExpressionSyntaxColoringPage.Accessible.Name.Background=èƒŒæ™¯è‰²é€‰æ‹©å™¨
 
-ExpressionSyntaxColoringPage.Accessible.Name.Foreground=Ç°¾°É«Ñ¡ÔñÆ÷
+ExpressionSyntaxColoringPage.Accessible.Name.Foreground=å‰æ™¯è‰²é€‰æ‹©å™¨
 
-ExpressionSyntaxColoringPage.Button.Bold=´ÖÌå(&B)
+ExpressionSyntaxColoringPage.Button.Bold=ç²—ä½“(&B)
 
-ExpressionSyntaxColoringPage.Button.Enable=ÆôÓÃ
+ExpressionSyntaxColoringPage.Button.Enable=å¯ç”¨
 
-ExpressionSyntaxColoringPage.Button.Italic=Ğ±Ìå(&I)
+ExpressionSyntaxColoringPage.Button.Italic=æ–œä½“(&I)
 
-ExpressionSyntaxColoringPage.Button.Restore=»¹Ô­Ä¬ÈÏÉèÖÃ(&R)
+ExpressionSyntaxColoringPage.Button.Restore=è¿˜åŸé»˜è®¤è®¾ç½®(&R)
 
-ExpressionSyntaxColoringPage.Button.Strikethrough=É¾³ıÏß(&S)
+ExpressionSyntaxColoringPage.Button.Strikethrough=åˆ é™¤çº¿(&S)
 
-ExpressionSyntaxColoringPage.Button.Underline=ÏÂ»®Ïß(&U)
+ExpressionSyntaxColoringPage.Button.Underline=ä¸‹åˆ’çº¿(&U)
 
-ExpressionSyntaxColoringPage.Decscription=ÔÚÁĞ±í»òÊ¾ÀıÎÄ±¾ÇøÓò£¬Í¨¹ıÑ¡ÔñÄúÏëÒª×Ô¶¨ÒåÆäÑùÊ½µÄÎÄ±¾ÀàĞÍÀ´×Ô¶¨ÒåÓï·¨Í»³öÏÔÊ¾¡£
+ExpressionSyntaxColoringPage.Decscription=åœ¨åˆ—è¡¨æˆ–ç¤ºä¾‹æ–‡æœ¬åŒºåŸŸï¼Œé€šè¿‡é€‰æ‹©æ‚¨æƒ³è¦è‡ªå®šä¹‰å…¶æ ·å¼çš„æ–‡æœ¬ç±»å‹æ¥è‡ªå®šä¹‰è¯­æ³•çªå‡ºæ˜¾ç¤ºã€‚
 
-ExpressionSyntaxColoringPage.Element.Comment=×¢ÊÍ
+ExpressionSyntaxColoringPage.Element.Comment=æ³¨é‡Š
 
-ExpressionSyntaxColoringPage.Element.Default=Ä¬ÈÏÖµ
+ExpressionSyntaxColoringPage.Element.Default=é»˜è®¤å€¼
 
-ExpressionSyntaxColoringPage.Element.Keyword=¹Ø¼ü×Ö
+ExpressionSyntaxColoringPage.Element.Keyword=å…³é”®å­—
 
-ExpressionSyntaxColoringPage.Element.String=×Ö·û´®
+ExpressionSyntaxColoringPage.Element.String=å­—ç¬¦ä¸²
 
-ExpressionSyntaxColoringPage.Label.Background=±³¾°(&O):
+ExpressionSyntaxColoringPage.Label.Background=èƒŒæ™¯(&O):
 
-ExpressionSyntaxColoringPage.Label.Foreground=Ç°¾°(&F):
+ExpressionSyntaxColoringPage.Label.Foreground=å‰æ™¯(&F):
 
-ExpressionSyntaxColoringPage.Label.SampleText=Ê¾ÀıÎÄ±¾(&S):
+ExpressionSyntaxColoringPage.Label.SampleText=ç¤ºä¾‹æ–‡æœ¬(&S):
 
-ExpressionSyntaxColoringPage.Label.SyntaxElement=Óï·¨ÔªËØ(&Y):
+ExpressionSyntaxColoringPage.Label.SyntaxElement=è¯­æ³•å…ƒç´ (&Y):
 
-ExpressionSyntaxColoringPage.Link.ColorAndFont=Ä¬ÈÏÑÕÉ«ºÍ×ÖÌå¿ÉÔÚ <a href="org.eclipse.ui.preferencePages.GeneralTextEditor">ÎÄ±¾±à¼­Æ÷</a> ÒÔ¼° <a href="org.eclipse.ui.preferencePages.ColorsAndFonts">ÑÕÉ«ºÍ×ÖÌå</a> Ê×Ñ¡ÏîÒ³ÃæÉÏÅäÖÃ¡£
+ExpressionSyntaxColoringPage.Link.ColorAndFont=é»˜è®¤é¢œè‰²å’Œå­—ä½“å¯åœ¨ <a href="org.eclipse.ui.preferencePages.GeneralTextEditor">æ–‡æœ¬ç¼–è¾‘å™¨</a> ä»¥åŠ <a href="org.eclipse.ui.preferencePages.ColorsAndFonts">é¢œè‰²å’Œå­—ä½“</a> é¦–é€‰é¡¹é¡µé¢ä¸Šé…ç½®ã€‚
 
 ###########################################################
 #VariableDropAdapter
-VariableDropAdapter.TranasctionName=Ê¹ÓÃ±äÁ¿´´½¨Êı¾İÏî
+VariableDropAdapter.TranasctionName=ä½¿ç”¨å˜é‡åˆ›å»ºæ•°æ®é¡¹
 
 ###########################################################
 #RenameInputDialog
-RenameInputDialog.Message.BlankName=Ãû³Æ²»ÄÜÎª¿Õ°×¡£
+RenameInputDialog.Message.BlankName=åç§°ä¸èƒ½ä¸ºç©ºç™½ã€‚
 
-RenameInputDialog.Message.DuplicateName=´æÔÚÖØ¸´Ãû³Æ¡£
+RenameInputDialog.Message.DuplicateName=å­˜åœ¨é‡å¤åç§°ã€‚
 
 ###########################################################
 #Breadcrumb
-BreadcrumbItemDropDown.showDropDownMenu.action.toolTip=ÏÔÊ¾×ÓÏî
+BreadcrumbItemDropDown.showDropDownMenu.action.toolTip=æ˜¾ç¤ºå­é¡¹
 
-ToggleBreadcrumbAction.tooltip.switch.breadcrumb=ÇĞ»» Breadcrumb
+ToggleBreadcrumbAction.tooltip.switch.breadcrumb=åˆ‡æ¢ Breadcrumb
 
 ###########################################################
 #HyperlinkParameterProvider Category
-ReportHyperlinkParameterProvider.Category.Report=±¨±í²ÎÊı
+ReportHyperlinkParameterProvider.Category.Report=æŠ¥è¡¨å‚æ•°
 
-RenderHyperlinkParameterProvider.Category.Render=³ÊÏÖÑ¡Ïî
-ExceptionDialog.title=´íÎó
+RenderHyperlinkParameterProvider.Category.Render=å‘ˆç°é€‰é¡¹
+ExceptionDialog.title=é”™è¯¯

@@ -1,19 +1,19 @@
-datasource.page.title=ĞÂµÄ Classic Models Inc. Ê¾ÀıÊı¾İÔ´
+datasource.page.title=æ–°çš„ Classic Models Inc. ç¤ºä¾‹æ•°æ®æº
 
-datasource.page.msg=½«Ê¹ÓÃÏÂÁĞÁ¬½ÓÊôĞÔÀ´´´½¨Á¬½ÓÖÁ Classic Models Inc. Ê¾ÀıÊı¾İ¿âµÄ JDBC Êı¾İÔ´
+datasource.page.msg=å°†ä½¿ç”¨ä¸‹åˆ—è¿æ¥å±æ€§æ¥åˆ›å»ºè¿æ¥è‡³ Classic Models Inc. ç¤ºä¾‹æ•°æ®åº“çš„ JDBC æ•°æ®æº
 
-datasource.page.driver.class=Çı¶¯³ÌĞòÀà:
+datasource.page.driver.class=é©±åŠ¨ç¨‹åºç±»:
 
-datasource.page.url=Êı¾İ¿â URL:
+datasource.page.url=æ•°æ®åº“ URL:
 
-datasource.page.user=Êı¾İ¿âÓÃ»§:
+datasource.page.user=æ•°æ®åº“ç”¨æˆ·:
 
-datasource.upgrade.msg.firstLine=´ËÊı¾İ¼¯Ê¹ÓÃµÄÊı¾İÔ´({0})ÊÇÊ¹ÓÃ´Ë²úÆ·µÄ½Ï¾É°æ±¾´´½¨µÄ¡£
+datasource.upgrade.msg.firstLine=æ­¤æ•°æ®é›†ä½¿ç”¨çš„æ•°æ®æº({0})æ˜¯ä½¿ç”¨æ­¤äº§å“çš„è¾ƒæ—§ç‰ˆæœ¬åˆ›å»ºçš„ã€‚
 
-datasource.upgrade.msg.secondLine=Æä¶¨ÒåĞèÒª¸üĞÂ¡£ \n\nÑ¡Ôñ¡°È·¶¨¡±Á¢¼´¸üĞÂÊı¾İÔ´ {0}¡£
+datasource.upgrade.msg.secondLine=å…¶å®šä¹‰éœ€è¦æ›´æ–°ã€‚ \n\né€‰æ‹©â€œç¡®å®šâ€ç«‹å³æ›´æ–°æ•°æ®æº {0}ã€‚
 
-datasource.upgrade.msg.thirdLine=È»ºóÄú½«ĞèÒªÖØĞÂ´ò¿ª´ËÊı¾İ¼¯±à¼­Æ÷¡£
+datasource.upgrade.msg.thirdLine=ç„¶åæ‚¨å°†éœ€è¦é‡æ–°æ‰“å¼€æ­¤æ•°æ®é›†ç¼–è¾‘å™¨ã€‚
 
-datasource.propertyPage.tooltip=JDBC Êı¾İÔ´
+datasource.propertyPage.tooltip=JDBC æ•°æ®æº
 
-datasource.page.warning=Ê¾ÀıÊı¾İ¿â²»Ö§³ÖÊ¹ÓÃÍâ²¿»¯µÄÁ¬½ÓÅäÖÃÎÄ¼ş£¬Éè¼ÆÕı±»¸ü¸ÄÎªÊ¹ÓÃ±¾µØÊôĞÔ
+datasource.page.warning=ç¤ºä¾‹æ•°æ®åº“ä¸æ”¯æŒä½¿ç”¨å¤–éƒ¨åŒ–çš„è¿æ¥é…ç½®æ–‡ä»¶ï¼Œè®¾è®¡æ­£è¢«æ›´æ”¹ä¸ºä½¿ç”¨æœ¬åœ°å±æ€§

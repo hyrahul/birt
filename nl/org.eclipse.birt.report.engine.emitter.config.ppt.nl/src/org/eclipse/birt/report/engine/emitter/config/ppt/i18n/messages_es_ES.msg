@@ -11,7 +11,7 @@
 
 ###########################################################
 #PPT Emitter
-PPTEmitter.Description=Configurar las opciones para procesar un informe en formato de archivo ˙nico de p·gina Web (MHTML).
+PPTEmitter.Description=Configurar las opciones para procesar un informe en formato de archivo √∫nico de p√°gina Web (MHTML).
 
 PPTEmitter.DisplayName=PowerPoint (PPT)
 
@@ -21,17 +21,17 @@ OptionDisplayValue.BidiProcessing=Procesamiento de BIDI
 
 OptionDisplayValue.TextWrapping=Autoajuste de texto
 
-OptionDisplayValue.PageOverFlow=Procesamiento del desbordamiento de p·gina
+OptionDisplayValue.PageOverFlow=Procesamiento del desbordamiento de p√°gina
 
 OptionDisplayValue.CLIP_CONTENT=Cortar contenido
 
-OptionDisplayValue.FIT_TO_PAGE_SIZE=Ajustar a tamaÒo de p·gina
+OptionDisplayValue.FIT_TO_PAGE_SIZE=Ajustar a tama√±o de p√°gina
 
-OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=Salida de varias p·ginas
+OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=Salida de varias p√°ginas
 
-OptionDisplayValue.ENLARGE_PAGE_SIZE=Aumentar tamaÒo de p·gina
+OptionDisplayValue.ENLARGE_PAGE_SIZE=Aumentar tama√±o de p√°gina
 
-OptionDisplayValue.FontSubstitution=SustituciÛn de fuente
+OptionDisplayValue.FontSubstitution=Sustituci√≥n de fuente
 
 OptionDisplayValue.ChartDpi=Diagrama DPI
 
@@ -43,9 +43,9 @@ OptionDescription.BidiProcessing=Admite texto bidireccional.
 
 OptionDescription.TextWrapping=Indica si el texto se puede autoajustar.
 
-OptionDescription.PageOverFlow=Controla cÛmo se va a mostrar el contenido.
+OptionDescription.PageOverFlow=Controla c√≥mo se va a mostrar el contenido.
 
-OptionDescription.FontSubstitution=Selecciona fuentes autom·ticamente cuando la fuente especificada no puede mostrar el car·cter.
+OptionDescription.FontSubstitution=Selecciona fuentes autom√°ticamente cuando la fuente especificada no puede mostrar el car√°cter.
 
 OptionDescription.ChartDpi=El DPI utilizado para generar el diagrama.
 

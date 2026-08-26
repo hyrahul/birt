@@ -2,9 +2,9 @@
 # the text of Design Engine exceptions.
 
 ###########################################################
-INVALID_TYPE=Ungültiger Datentyp.
+INVALID_TYPE=UngÃ¼ltiger Datentyp.
 
-INVALID_EXPRSSION=Ungültiger Javascript-Ausdruck: {0}
+INVALID_EXPRSSION=UngÃ¼ltiger Javascript-Ausdruck: {0}
 
 CONVERT_FAILS=Wert von "{0}" kann nicht in Typ "{1}" umgewandelt werden.
 
@@ -17,17 +17,17 @@ birt.core.Javascript.variableNotExist=Berichtvariable '{0}' nicht vorhanden.
 
 birt.core.Javascript.nativeNotFound={0} nicht gefunden.
 
-birt.core.BirtComp.invalidRegularExpression=Ungültiger Standardausdruck.
+birt.core.BirtComp.invalidRegularExpression=UngÃ¼ltiger Standardausdruck.
 
 error.NoSuchScriptExtension = Skript-Erweiterung nicht vorhanden: {0}.
 
-error.InvalidSeekOffset = Ungültige Position {0}.
+error.InvalidSeekOffset = UngÃ¼ltige Position {0}.
 
-error.ExceedFileLength = Dateilänge überschritten.
+error.ExceedFileLength = DateilÃ¤nge Ã¼berschritten.
 
-error.CanotchangeReadOnlyBuffer = Der einzige Puffer kann nicht geändert werden.
+error.CanotchangeReadOnlyBuffer = Der einzige Puffer kann nicht geÃ¤ndert werden.
 
-error.FileOpenedInReadOnlyMode = Die Datei ist in schreibgeschütztem Modus geöffnet.
+error.FileOpenedInReadOnlyMode = Die Datei ist in schreibgeschÃ¼tztem Modus geÃ¶ffnet.
 
 error.FileHasBeenClosed = Die Archivdatei wurde geschlossen.
 
@@ -35,68 +35,68 @@ error.UnparseableString = Zeichenfolgenwert kann nicht analysiert werden: '{0}'.
 
 error.CannotStartupOSGIPlatform = OSGI-Framework kann nicht gestartet werden.
 
-error.UnsupportedFileMode = Nicht unterstützter Dateimodus: {0}.
+error.UnsupportedFileMode = Nicht unterstÃ¼tzter Dateimodus: {0}.
 
-error.FolderNameIsNull = Die Eingabe für den Ordnernamen ist entweder Null oder leer.
+error.FolderNameIsNull = Die Eingabe fÃ¼r den Ordnernamen ist entweder Null oder leer.
 
-error.FileNameIsNull = Die Eingabe für den Dateinamen ist entweder Null oder leer.
+error.FileNameIsNull = Die Eingabe fÃ¼r den Dateinamen ist entweder Null oder leer.
 
 error.NotExt2Archive = Kein Ext2-Archiv; der magische Code lautet: {0}.
 
 error.NotCompoundFile = Keine zusammengesetzte Datei; der magische Code lautet: {0}.
 
-error.ReadOnlyArchive = Das Archiv ist schreibgeschützt.
+error.ReadOnlyArchive = Das Archiv ist schreibgeschÃ¼tzt.
 
-error.UnsupportedArchiveVersion = Nicht unterstützte Archivversion: {0}.
+error.UnsupportedArchiveVersion = Nicht unterstÃ¼tzte Archivversion: {0}.
 
-error.UnsupportedBlockSize = Nicht unterstützte Blockgröße.
+error.UnsupportedBlockSize = Nicht unterstÃ¼tzte BlockgrÃ¶ÃŸe.
 
-error.InvalidIndex = Ungültiger Index bei Block {0}.
+error.InvalidIndex = UngÃ¼ltiger Index bei Block {0}.
 
-error.UnsupportedNodeType = Unerwarteter Knotentyp: {0} für Knoten {1}.
+error.UnsupportedNodeType = Unerwarteter Knotentyp: {0} fÃ¼r Knoten {1}.
 
 error.NotSerializable = Nicht serialisierbar.
 
-error.UnsupportedDataType = Dieser Datentyp wird noch nicht unterstützt oder ist nicht serialisierbar.
+error.UnsupportedDataType = Dieser Datentyp wird noch nicht unterstÃ¼tzt oder ist nicht serialisierbar.
 
-error.InvalidLockType = Ungültiger Sperrtyp: {0}.
+error.InvalidLockType = UngÃ¼ltiger Sperrtyp: {0}.
 
-error.ArchiveOpenForWrite = Archiv muss zum Schreiben geöffnet werden. System-ID: {0}.
+error.ArchiveOpenForWrite = Archiv muss zum Schreiben geÃ¶ffnet werden. System-ID: {0}.
 
-error.ExceedMaxBlockSize = Die Größe der Archivkopfzeile darf folgenden Wert nicht überschreiten: {0}.
+error.ExceedMaxBlockSize = Die GrÃ¶ÃŸe der Archivkopfzeile darf folgenden Wert nicht Ã¼berschreiten: {0}.
 
 error.InvalidArchiveName= {0} ist nicht vorhanden oder kein Ordner.
 
 error.NullSource = Quellarchiv oder Zielordner ist Null.
 
-error.OutOfRange = Die Suchposition liegt außerhalb des gültigen Bereichs.
+error.OutOfRange = Die Suchposition liegt auÃŸerhalb des gÃ¼ltigen Bereichs.
 
-error.ReadOnlyTree = In eine schreibgeschützte Baumstruktur kann kein Eintrag eingefügt werden.
+error.ReadOnlyTree = In eine schreibgeschÃ¼tzte Baumstruktur kann kein Eintrag eingefÃ¼gt werden.
 
 error.CannotLoadNode = Folgender Knoten kann nicht geladen werden: {0}.
 
-error.KeySizeError = Statt {1} beträgt die Schlüsselgröße {0}.
+error.KeySizeError = Statt {1} betrÃ¤gt die SchlÃ¼sselgrÃ¶ÃŸe {0}.
 
-error.MismatchKeyLength = Länge des Schlüssels stimmt nicht mit der festgelegten Schlüssellänge überein.
+error.MismatchKeyLength = LÃ¤nge des SchlÃ¼ssels stimmt nicht mit der festgelegten SchlÃ¼ssellÃ¤nge Ã¼berein.
 
-error.ValueSizeError = Statt {1} beträgt die Wertgröße {0}.
+error.ValueSizeError = Statt {1} betrÃ¤gt die WertgrÃ¶ÃŸe {0}.
 
-error.MismatchValueLength = Länge des Werts stimmt nicht mit der festgelegten Wertlänge überein.
+error.MismatchValueLength = LÃ¤nge des Werts stimmt nicht mit der festgelegten WertlÃ¤nge Ã¼berein.
 
-error.InvaldMagicTag = Ungültiger magischer Tag: {0}.
+error.InvaldMagicTag = UngÃ¼ltiger magischer Tag: {0}.
 
-error.UnsupportedVersion = Nicht unterstützte Version: {0}.
+error.UnsupportedVersion = Nicht unterstÃ¼tzte Version: {0}.
 
-error.InvalidCursor = Ungültiger Cursor.
+error.InvalidCursor = UngÃ¼ltiger Cursor.
 
 error.CusorNotInitialized = Zuerst muss der Cursor initialisiert werden.
 
-error.UnexpectedEqualKeys = Unerwartete gleiche Schlüssel.
+error.UnexpectedEqualKeys = Unerwartete gleiche SchlÃ¼ssel.
 
 error.UnknownValueType = Unbekannter Wertetyp: {0}.
 
-error.ExceedMaxBlock = {0} überschreitet den maximalen Block in RAM {1}.
+error.ExceedMaxBlock = {0} Ã¼berschreitet den maximalen Block in RAM {1}.
 
-error.MalformedInputError = Falsch geformte Eingabe: Unvollständiges Zeichen am Ende.
+error.MalformedInputError = Falsch geformte Eingabe: UnvollstÃ¤ndiges Zeichen am Ende.
 
 error.MalformedInputAroundByte = Falsch geformte Eingabe bei Byte {0}.>>>>>>> 1,8

@@ -4,7 +4,7 @@ birt.web.project.name=Webprojekt mit BIRT-Runtime
 
 birt.web.project.description=Ein Webprojekt mit der BIRT Runtime-Komponente erstellen
 
-birt.web.actionsets.description=Aktionen für BIRT-Webprojekt
+birt.web.actionsets.description=Aktionen fÃ¼r BIRT-Webprojekt
 
 create.birt.web.module=BIRT-Webmodul erstellen
 
@@ -20,7 +20,7 @@ JSP_New_context_type_Extension_Element.name=Neue JSP mit BIRT-Tag
 
 JSP_Tag_context_type_Extension_Element.name=Neuer BIRT-JSP-Tag
 
-BirtResourcesDefinition= Ressourcendefinition für BIRT-Webanwendung
+BirtResourcesDefinition= Ressourcendefinition fÃ¼r BIRT-Webanwendung
 
 birt.action.importruntime.name=&BIRT-Runtime-Komponente importieren...
 

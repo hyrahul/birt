@@ -10,9 +10,9 @@ cube.edit=Editar cubo
 
 CubeNodeProvider.menu.text=&Editar
 
-cube.dimension.new=Nueva dimensión de cubo
+cube.dimension.new=Nueva dimensiÃ³n de cubo
 
-cube.dimension.edit=Editar dimensión de cubo
+cube.dimension.edit=Editar dimensiÃ³n de cubo
 
 CubeDimensionNodeProvider.menu.text=&Editar
 
@@ -36,7 +36,7 @@ cube.measure.edit=Editar medida de cubo
 
 CubeMeasureNodeProvider.menu.text=&Editar
 
-CubeGroupContent.Group.Add.Title=Añadir grupo
+CubeGroupContent.Group.Add.Title=AÃ±adir grupo
 
 CubeGroupContent.Group.Add.Message=Nom&bre del grupo
 
@@ -67,13 +67,13 @@ CubeGroupContent.MeasureDataTypeErrorDialog.Message=La medida no admite el tipo 
 CubeGroupContent.MeasureDataTypeErrorDialog.Title=Advertencia
 ###########################################################
 #Cube Builder Dialog properties
-CubeBuilder.AutoPrimaryKeyDialog.Message=Hay algunas columnas utilizadas como claves de unión que no están definidas por niveles, ¿desea comprobar la opción "clave primaria automática" para completar el cubo?
+CubeBuilder.AutoPrimaryKeyDialog.Message=Hay algunas columnas utilizadas como claves de uniÃ³n que no estÃ¡n definidas por niveles, Â¿desea comprobar la opciÃ³n "clave primaria automÃ¡tica" para completar el cubo?
 
-CubeBuilder.AutoPrimaryKeyDialog.Title=Problema de clave primaria automática
+CubeBuilder.AutoPrimaryKeyDialog.Title=Problema de clave primaria automÃ¡tica
 
-CubeBuilder.SharedDimensionErrorLinkDialog.Message=Todas las claves primarias de las dimensiones compartidas deben estar vinculadas, ¿desea definir los links que faltan para completar el cubo?
+CubeBuilder.SharedDimensionErrorLinkDialog.Message=Todas las claves primarias de las dimensiones compartidas deben estar vinculadas, Â¿desea definir los links que faltan para completar el cubo?
 
-CubeBuilder.SharedDimensionErrorLinkDialog.Title=Falta el link de dimensión compartida
+CubeBuilder.SharedDimensionErrorLinkDialog.Title=Falta el link de dimensiÃ³n compartida
 
 CubeBuilder.Title=Compilador de cubos de datos
 
@@ -81,15 +81,15 @@ DatasePage.EmptyName.ErrorMessage=Se requiere el nombre de cubo.
 
 DatasetPage.Title=Conjunto de datos
 
-GroupDialog.Access.Control.List.Expression=Ex&presión de lista de control de acceso:
+GroupDialog.Access.Control.List.Expression=Ex&presiÃ³n de lista de control de acceso:
 
 GroupDialog.Button.DateGroup=&Grupo de fecha
 
 GroupDialog.Button.RegularGroup=G&rupo regular
 
-GroupRenameDialog.Access.Control.List.Expression=Ex&presión de lista de control de acceso:
+GroupRenameDialog.Access.Control.List.Expression=Ex&presiÃ³n de lista de control de acceso:
 
-GroupsPage.Title=Grupos y resúmenes
+GroupsPage.Title=Grupos y resÃºmenes
 
 LinkGroupsPage.Title=Grupos de link
 
@@ -97,13 +97,13 @@ DatasetPage.Label.Name=&Nombre:
 
 DateGroupDialog.Title=Agregar/editar nivel de grupo
 
-DateGroupDialog.Message.NumericName=El nombre de grupo no puede ser un número puro
+DateGroupDialog.Message.NumericName=El nombre de grupo no puede ser un nÃºmero puro
 
 DateGroupDialog.Message.DuplicateName=Este nombre ya existe.
 
 DateGroupDialog.Message.BlankName=El nombre de grupo no puede estar en blanco
 
-DateLevelDialog.Access.Control.List.Expression=Ex&presión de lista de control de acceso:
+DateLevelDialog.Access.Control.List.Expression=Ex&presiÃ³n de lista de control de acceso:
 
 DateLevelDialog.Button.Text.Edit=&Editar...
 
@@ -113,77 +113,77 @@ DatasetPage.Label.PrimaryDataset=&Conjunto de datos primario:
 
 DatasetPage.Button.Filter=&Filtro...
 
-DatasetPage.Button.Joint=Añadir conjunto de datos de combinación...
+DatasetPage.Button.Joint=AÃ±adir conjunto de datos de combinaciÃ³n...
 
 DatasetPage.Title.Title=Conjunto de datos
 
-DateGroupDialog.Message=Seleccionar los campos de fecha que se incluirán
+DateGroupDialog.Message=Seleccionar los campos de fecha que se incluirÃ¡n
 
 DateGroupDialog.Message.Regular=Introduzca el nombre de grupo
 
 DateLevelDialog.Message=Editar nivel de tipo de fecha
 
-DateLevelDialog.Message.NumericName=El nombre de nivel no puede ser un número puro
+DateLevelDialog.Message.NumericName=El nombre de nivel no puede ser un nÃºmero puro
 
 DateLevelDialog.Message.BlankName=El nombre de nivel no puede estar en blanco
 
 DatasetPage.Title.Message=Definir conjunto de datos para el cubo.
 
-DatasetPage.Container.Title.Message=Selección de conjunto de datos
+DatasetPage.Container.Title.Message=SelecciÃ³n de conjunto de datos
 
 DatasetNodeEditPart.Primary.Dataset=(Primario)
 
-GroupsPage.Title.Title=Grupos y resúmenes
+GroupsPage.Title.Title=Grupos y resÃºmenes
 
-GroupsPage.Title.Message=Arrastre los campos de los conjuntos de datos disponibles a jerarquías de agrupación y campos de datos de resumen.
+GroupsPage.Title.Message=Arrastre los campos de los conjuntos de datos disponibles a jerarquÃ­as de agrupaciÃ³n y campos de datos de resumen.
 
-GroupsPage.Container.Title.Message=Grupos y resúmenes
+GroupsPage.Container.Title.Message=Grupos y resÃºmenes
 
 SimpleCubeBuilder.Title.Title=Compilador de cubos de tabla de referencias cruzadas
 
-SimpleCubeBuilder.Title.Message=Organice sus datos para la tabla de referencias cruzadas especificando las jerarquías de agrupación y los campos de datos de resumen.
+SimpleCubeBuilder.Title.Message=Organice sus datos para la tabla de referencias cruzadas especificando las jerarquÃ­as de agrupaciÃ³n y los campos de datos de resumen.
 
 SimpleCubeBuilder.Title=Compilador de cubos de tabla de referencias cruzadas
 
 SimpleCubeBuilder.Label.Name=Nombre:
 
-DatasetSelectionPage.Label.Auto.Primary.Key=&Active esta opción para evitar la preagregación en el conjunto de datos primarios durante la generación del cubo.
+DatasetSelectionPage.Label.Auto.Primary.Key=&Active esta opciÃ³n para evitar la preagregaciÃ³n en el conjunto de datos primarios durante la generaciÃ³n del cubo.
 
-DatasetSelectionPage.Text.Auto.Primary.Key=Sugerencia: si se selecciona esta opción, BIRT omitirá el cálculo de la agrupación y la agregación durante la generación del cubo para lograr un mejor rendimiento en dicha generación.
+DatasetSelectionPage.Text.Auto.Primary.Key=Sugerencia: si se selecciona esta opciÃ³n, BIRT omitirÃ¡ el cÃ¡lculo de la agrupaciÃ³n y la agregaciÃ³n durante la generaciÃ³n del cubo para lograr un mejor rendimiento en dicha generaciÃ³n.
 
 DatasetSelectionPage.Combo.NewDataSet0=<Nuevo conjunto de datos...>
 
-GroupsPage.Button.Add=&Añadir
+GroupsPage.Button.Add=&AÃ±adir
 
 GroupsPage.Button.Edit=&Editar
 
 GroupsPage.Button.Delete=&Eliminar
 
-GroupsPage.ArrowButton.Add.Tooltip=Añadir campo seleccionado
+GroupsPage.ArrowButton.Add.Tooltip=AÃ±adir campo seleccionado
 
 GroupsPage.ArrowButton.Remove.Tooltip=Eliminar campo seleccionado
 
 GroupsPage.Label.DataField=Campos disponibles:
 
-GroupsPage.Label.Group=Grupos y resúmenes:
+GroupsPage.Label.Group=Grupos y resÃºmenes:
 
 GroupsPage.tooltip.Sort=Orden
 
 GroupsPage.Primary.Dataset=(Primario)
 
-GroupsPage.VirtualField.Measure=(Suelte un campo aquí para crear una medida)
+GroupsPage.VirtualField.Measure=(Suelte un campo aquÃ­ para crear una medida)
 
-GroupsPage.VirtualField.Level=(Suelte un campo aquí para crear un nivel)
+GroupsPage.VirtualField.Level=(Suelte un campo aquÃ­ para crear un nivel)
 
-GroupsPage.VirtualField.MeasureGroup=(Suelte un campo aquí para crear un campo de resumen)
+GroupsPage.VirtualField.MeasureGroup=(Suelte un campo aquÃ­ para crear un campo de resumen)
 
-GroupsPage.VirtualField.Dimension=(Suelte un campo aquí para crear un grupo)
+GroupsPage.VirtualField.Dimension=(Suelte un campo aquÃ­ para crear un grupo)
 
 GroupsPage.Reference=Se ha encontrado la referencia
 
 GroupsPage.Clients=\ tiene los siguientes clientes
 
-GroupsPage.Dlg.Confirm=¿Desea eliminarlo?
+GroupsPage.Dlg.Confirm=Â¿Desea eliminarlo?
 
 LinkGroupsPage.Container.Title.Message=Grupos de link
 
@@ -207,7 +207,7 @@ LevelDialog.Label.Edit=Editar nivel de grupo
 
 LevelDynamicAttributeDialog.Label.Member=&Miembro:
 
-MeasureDialog.Access.Control.List.Expression=Ex&presión de lista de control de acceso:
+MeasureDialog.Access.Control.List.Expression=Ex&presiÃ³n de lista de control de acceso:
 
 MeasureDialog.Button.Text.Edit=&Editar...
 
@@ -217,15 +217,15 @@ MeasureDialog.Label.Name=&Nombre:
 
 MeasureDialog.Label.DisplayName=Nom&bre en pantalla:
 
-MeasureDialog.Label.Function=&Función:
+MeasureDialog.Label.Function=&FunciÃ³n:
 
 MeasureDialog.Label.DataType=Tipo de &datos:
 
-MeasureDialog.Label.Expression=&Expresión:
+MeasureDialog.Label.Expression=&ExpresiÃ³n:
 
 MeasureDialog.Label.LinkTo=&Link a:
 
-MeasureDialog.MessageDialog.Message=El tipo de datos recomendado para la función actual es "{0}". ¿Desea mantener el tipo de datos que ha seleccionado?
+MeasureDialog.MessageDialog.Message=El tipo de datos recomendado para la funciÃ³n actual es "{0}". Â¿Desea mantener el tipo de datos que ha seleccionado?
 
 MeasureDialog.MessageDialog.Title=Advertencia
 
@@ -233,13 +233,13 @@ MeasureDialog.Title.Property=Editar campo de resumen
 
 MeasureDialog.Title.Description=Campo de resumen
 
-MeasureDialog.Text.Description=Para modificar el campo de resumen, especifique una función de resumen y una expresión que use campos de datos
+MeasureDialog.Text.Description=Para modificar el campo de resumen, especifique una funciÃ³n de resumen y una expresiÃ³n que use campos de datos
 
-MeasureDialog.Message.NumericName=El nombre no puede ser un número puro
+MeasureDialog.Message.NumericName=El nombre no puede ser un nÃºmero puro
 
 MeasureDialog.Message.BlankName=El nombre de medida no puede estar en blanco
 
-MeasureDialog.Message.BlankExpression=La expresión no puede estar en blanco
+MeasureDialog.Message.BlankExpression=La expresiÃ³n no puede estar en blanco
 
 MeasureDialog.Label.DerivedMeasure=&Es medida derivada
 
@@ -251,17 +251,17 @@ MeasureDialog.Label.Visibility=&Ocultar medida
 
 MeasureDialog.Label.Visibility.Group=Visibilidad
 
-LevelPropertyDialog.Access.Control.List.Expression=Ex&presión de lista de control de acceso:
+LevelPropertyDialog.Access.Control.List.Expression=Ex&presiÃ³n de lista de control de acceso:
 
 LevelPropertyDialog.Title.Add=Agregar nivel de grupo
 
 LevelPropertyDialog.Title.Edit=Editar nivel de grupo
 
-LevelPropertyDialog.Member.Access.Control.List.Expression=Ex&presión de lista de control de acceso de miembro:
+LevelPropertyDialog.Member.Access.Control.List.Expression=Ex&presiÃ³n de lista de control de acceso de miembro:
 
-LevelPropertyDialog.Message=Seleccionar el nivel de grupo dinámico o estático y rellenar los campos necesarios
+LevelPropertyDialog.Message=Seleccionar el nivel de grupo dinÃ¡mico o estÃ¡tico y rellenar los campos necesarios
 
-LevelPropertyDialog.Message.NumericName=El nombre de propiedad no puede ser un número puro
+LevelPropertyDialog.Message.NumericName=El nombre de propiedad no puede ser un nÃºmero puro
 
 LevelPropertyDialog.Message.BlankName=El nombre de propiedad no puede estar en blanco
 
@@ -283,15 +283,15 @@ LevelPropertyDialog.StaticAttributeDialog.Title.Edit=Editar atributo de nivel
 
 LevelPropertyDialog.StaticAttributeDialog.Title.New=Nuevo atributo de nivel
 
-LevelPropertyDialog.StaticTable.Button.Add=Añad&ir...
+LevelPropertyDialog.StaticTable.Button.Add=AÃ±ad&ir...
 
 LevelPropertyDialog.StaticTable.Button.Edit=&Editar...
 
 LevelPropertyDialog.StaticTable.Button.Remove=Quita&r
 
-LevelPropertyDialog.Button.Dynamic=&Dinámico
+LevelPropertyDialog.Button.Dynamic=&DinÃ¡mico
 
-LevelPropertyDialog.Button.Static=&Estático
+LevelPropertyDialog.Button.Static=&EstÃ¡tico
 
 LevelPropertyDialog.DisplayField=Visualizar c&ampo:
 
@@ -321,13 +321,13 @@ LevelPropertyDialog.DynamicAttributeDialog.Title.Edit=Editar atributo de nivel
 
 LevelPropertyDialog.DynamicAttributeDialog.Title.New=Nuevo atributo de nivel
 
-LevelPropertyDialog.DynamicTable.Button.Add=Añadir&...
+LevelPropertyDialog.DynamicTable.Button.Add=AÃ±adir&...
 
 LevelPropertyDialog.DynamicTable.Button.Edit=Ed&itar...
 
 LevelPropertyDialog.DynamicTable.Button.Remove=Quita&r
 
-LevelPropertyDialog.Label.Expression=Expresión condicional
+LevelPropertyDialog.Label.Expression=ExpresiÃ³n condicional
 
 LevelPropertyDialog.Label.LinkTo=&Link a:
 
@@ -339,7 +339,7 @@ LevelPropertyDialog.MSG.DefaultValue=<Valor predeterminado>
 
 MissLinkDialog.Title=Falta el link entre los conjuntos de datos
 
-MissLinkDialog.Question=Todos los grupos de otros conjuntos de datos deben estar vinculados al conjunto de datos primario, ¿desea definir los links que faltan para completar el cubo?
+MissLinkDialog.Question=Todos los grupos de otros conjuntos de datos deben estar vinculados al conjunto de datos primario, Â¿desea definir los links que faltan para completar el cubo?
 
 SetConstraintCommand.setUserProperty=setUserProperty
 ###########################################################
@@ -350,7 +350,7 @@ RenameInputDialog.DialogMessage=Introduzca el nuevo nombre
 
 RenameInputDialog.Message.BlankName=El nombre no puede estar en blanco
 
-RenameInputDialog.Message.NumericName=El nombre no puede ser un número puro
+RenameInputDialog.Message.NumericName=El nombre no puede ser un nÃºmero puro
 
 RenameInputDialog.Message.DuplicateName=Este nombre ya existe.
 ############################################################
@@ -395,7 +395,7 @@ FilterListDialog.Shell.Title=Filtro
 
 FilterListDialog.Menu.ModifyProperty=Modificar propiedad
 
-FilterListDialog.Button.AddWithDialog=&Añadir...
+FilterListDialog.Button.AddWithDialog=&AÃ±adir...
 
 FilterListDialog.Button.EditWithDialog=&Editar...
 
@@ -407,7 +407,7 @@ MeasureDialog.Label.Format=F&ormato como:
 
 MeasureDialog.Button.Format.Edit=Camb&iar...
 
-MeasureDialog.Label.Alignment=Al&ineación:
+MeasureDialog.Label.Alignment=Al&ineaciÃ³n:
 
 LevelPropertyDialog.Label.Format=&Formato como:
 
@@ -415,9 +415,9 @@ LevelPropertyDialog.Button.Format.Edit=Camb&iar...
 
 LevelStaticAttributeDialog.Error.Message=El miembro no puede estar en blanco
 
-LevelStaticAttributeDialog.Label.Expression=Expresión &condicional:
+LevelStaticAttributeDialog.Label.Expression=ExpresiÃ³n &condicional:
 
 LevelStaticAttributeDialog.Label.Member=&Miembro:
 
-LevelPropertyDialog.Label.Alignment=Al&ineación:
+LevelPropertyDialog.Label.Alignment=Al&ineaciÃ³n:
 

@@ -30,9 +30,9 @@ Workbench_openNewWindow = &Nueva ventana
 # --- Help Menu ---
 Workbench_help = A&yuda
 
-Action_newLibrary = Nueva &librerÌa...
+Action_newLibrary = Nueva &librer√≠a...
 
-Action_openLibrary = Abrir &librerÌa...
+Action_openLibrary = Abrir &librer√≠a...
 
 Action_newTemplate = Nueva &plantilla...
 
@@ -44,6 +44,6 @@ SaveAsWizardWindowTitle=Guardar como
 
 SaveAsWizardPageTitle=Guardar como
 
-SaveAsWizardPageDesc=Guarde el archivo en otra ubicaciÛn.
+SaveAsWizardPageDesc=Guarde el archivo en otra ubicaci√≥n.
 
-ReportSettingPageTitle=Establecer propiedades de p·gina
+ReportSettingPageTitle=Establecer propiedades de p√°gina

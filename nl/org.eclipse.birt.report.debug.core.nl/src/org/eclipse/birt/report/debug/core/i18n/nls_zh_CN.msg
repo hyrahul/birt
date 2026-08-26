@@ -11,50 +11,50 @@
 
 ########################################
 #ReportLauncher
-ReportLauncher.PortValueAbsent=È±ÉÙÇëÇó¶Ë¿ÚÖµ¡£
+ReportLauncher.PortValueAbsent=ç¼ºå°‘è¯·æ±‚ç«¯å£å€¼ã€‚
 
-ReportLauncher.FailToStartDebugServer=ÎŞ·¨Æô¶¯µ÷ÊÔ·şÎñÆ÷¡£
+ReportLauncher.FailToStartDebugServer=æ— æ³•å¯åŠ¨è°ƒè¯•æœåŠ¡å™¨ã€‚
 
-ReportLauncher.FailToStartReportPlatform=ÎŞ·¨Æô¶¯±¨±íÆ½Ì¨¡£
+ReportLauncher.FailToStartReportPlatform=æ— æ³•å¯åŠ¨æŠ¥è¡¨å¹³å°ã€‚
 
-ReportLauncher.UserClassPathReceived=ÊÕµ½µÄÓÃ»§ÀàÂ·¾¶:
+ReportLauncher.UserClassPathReceived=æ”¶åˆ°çš„ç”¨æˆ·ç±»è·¯å¾„:
 
-ReportLauncher.EngineException=ÒıÇæÒì³£
+ReportLauncher.EngineException=å¼•æ“å¼‚å¸¸
 
-ReportLauncher.IOException=IO Òì³£
+ReportLauncher.IOException=IO å¼‚å¸¸
 
 ########################################
 #ReportVMClient
-ReportVMClient.ServerConnected=[¿Í»§¶Ë] ·şÎñÆ÷ÒÑÁ¬½Ó
+ReportVMClient.ServerConnected=[å®¢æˆ·ç«¯] æœåŠ¡å™¨å·²è¿æ¥
 
-ReportVMClient.ServerShutDown=[¿Í»§¶Ë] ·şÎñÆ÷ÒÑ¹Ø±Õ
+ReportVMClient.ServerShutDown=[å®¢æˆ·ç«¯] æœåŠ¡å™¨å·²å…³é—­
 
-ReportVMClient.ClientDisconnected=[¿Í»§¶Ë] ¿Í»§¶ËÒÑ¶Ï¿ªÁ¬½Ó
+ReportVMClient.ClientDisconnected=[å®¢æˆ·ç«¯] å®¢æˆ·ç«¯å·²æ–­å¼€è¿æ¥
 
-ReportVMClient.EnterEventDispatching=[¿Í»§¶Ë] ½øÈëÊÂ¼şµ÷¶È
+ReportVMClient.EnterEventDispatching=[å®¢æˆ·ç«¯] è¿›å…¥äº‹ä»¶è°ƒåº¦
 
-ReportVMClient.ReceivedVMEvent=[¿Í»§¶Ë] ½ÓÊÕµÄ vm ÊÂ¼ş:
+ReportVMClient.ReceivedVMEvent=[å®¢æˆ·ç«¯] æ¥æ”¶çš„ vm äº‹ä»¶:
 
-ReportVMClient.ServerShuttingDown=[¿Í»§¶Ë] ·şÎñÆ÷ÕıÔÚ¹Ø±Õ
+ReportVMClient.ServerShuttingDown=[å®¢æˆ·ç«¯] æœåŠ¡å™¨æ­£åœ¨å…³é—­
 
-ReportVMClient.RequestIgnored.ServerDisconnected=[¿Í»§¶Ë] ·şÎñÆ÷ÒÑ¶Ï¿ªÁ¬½Ó£¬ÒÑºöÂÔÇëÇó:
+ReportVMClient.RequestIgnored.ServerDisconnected=[å®¢æˆ·ç«¯] æœåŠ¡å™¨å·²æ–­å¼€è¿æ¥ï¼Œå·²å¿½ç•¥è¯·æ±‚:
 
-ReportVMClient.RequestIgnored.ServerShuttingDown=[¿Í»§¶Ë] ·şÎñÆ÷ÕıÔÚ¹Ø±Õ£¬ÒÑºöÂÔÇëÇó:
+ReportVMClient.RequestIgnored.ServerShuttingDown=[å®¢æˆ·ç«¯] æœåŠ¡å™¨æ­£åœ¨å…³é—­ï¼Œå·²å¿½ç•¥è¯·æ±‚:
 
 ########################################
 #ReportVMServer
-ReportVMServer.ClientAccpted=[·şÎñÆ÷] ¿Í»§¶ËÒÑ½ÓÊÜ
+ReportVMServer.ClientAccpted=[æœåŠ¡å™¨] å®¢æˆ·ç«¯å·²æ¥å—
 
-ReportVMServer.ClientDisconnected=[Server] ¿Í»§¶ËÒÑ¶Ï¿ªÁ¬½Ó
+ReportVMServer.ClientDisconnected=[Server] å®¢æˆ·ç«¯å·²æ–­å¼€è¿æ¥
 
-ReportVMServer.ServerShutDown=[·şÎñÆ÷] ·şÎñÆ÷ÒÑ¹Ø±Õ
+ReportVMServer.ServerShutDown=[æœåŠ¡å™¨] æœåŠ¡å™¨å·²å…³é—­
 
-ReportVMServer.EnterRequestDispatching=[·şÎñÆ÷] ½øÈëÇëÇóµ÷¶È
+ReportVMServer.EnterRequestDispatching=[æœåŠ¡å™¨] è¿›å…¥è¯·æ±‚è°ƒåº¦
 
-ReportVMServer.ReceivedRequest=[·şÎñÆ÷] ½ÓÊÕµÄÇëÇó:
+ReportVMServer.ReceivedRequest=[æœåŠ¡å™¨] æ¥æ”¶çš„è¯·æ±‚:
 
-ReportVMServer.SendBackResponse=[·şÎñÆ÷] ·¢»ØÏìÓ¦
+ReportVMServer.SendBackResponse=[æœåŠ¡å™¨] å‘å›å“åº”
 
-ReportVMServer.ServerShuttingDown=[·şÎñÆ÷] ·şÎñÆ÷ÕıÔÚ¹Ø±Õ
+ReportVMServer.ServerShuttingDown=[æœåŠ¡å™¨] æœåŠ¡å™¨æ­£åœ¨å…³é—­
 
-ReportVMServer.SendVMEvent=[·şÎñÆ÷] ·¢ËÍ vm ÊÂ¼ş:
+ReportVMServer.SendVMEvent=[æœåŠ¡å™¨] å‘é€ vm äº‹ä»¶:

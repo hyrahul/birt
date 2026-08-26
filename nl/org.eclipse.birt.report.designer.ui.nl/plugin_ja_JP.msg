@@ -17,68 +17,68 @@ Build=@BUILD@
 ###############################################################################
 # General Info
 ###############################################################################
-ReportWizardDescription=‚±‚ÌƒEƒBƒU[ƒh‚Å‚ÍA’è‹`Ï‚İ‚Ìƒeƒ“ƒvƒŒ[ƒg‚ğg‚Á‚ÄV‚µ‚¢ƒŒƒ|[ƒg‚ğì¬‚µ‚Ü‚·B
+ReportWizardDescription=ã“ã®ã‚¦ã‚£ã‚¶ãƒ¼ãƒ‰ã§ã¯ã€å®šç¾©æ¸ˆã¿ã®ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆã‚’ä½¿ã£ã¦æ–°ã—ã„ãƒ¬ãƒãƒ¼ãƒˆã‚’ä½œæˆã—ã¾ã™ã€‚
 
-ReportProjectWizardDescription=V‚µ‚¢ƒŒƒ|[ƒgƒvƒƒWƒFƒNƒg‚ğì¬‚µ‚Ü‚·B
+ReportProjectWizardDescription=æ–°ã—ã„ãƒ¬ãƒãƒ¼ãƒˆãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ä½œæˆã—ã¾ã™ã€‚
 
-ReportPerspective=ƒŒƒ|[ƒgƒfƒUƒCƒ“
+ReportPerspective=ãƒ¬ãƒãƒ¼ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³
 
-ReportViews=ƒŒƒ|[ƒgƒfƒUƒCƒ“
+ReportViews=ãƒ¬ãƒãƒ¼ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³
 
 WizardCategoryName=Business Intelligence and Reporting Tools
-ReportWizard=ƒŒƒ|[ƒg
+ReportWizard=ãƒ¬ãƒãƒ¼ãƒˆ
 
-ReportProjectWizard=ƒŒƒ|[ƒgƒvƒƒWƒFƒNƒg
+ReportProjectWizard=ãƒ¬ãƒãƒ¼ãƒˆãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ
 
-ReportEditor=ƒŒƒ|[ƒgƒGƒfƒBƒ^
+ReportEditor=ãƒ¬ãƒãƒ¼ãƒˆã‚¨ãƒ‡ã‚£ã‚¿
 
 
 ###############################################################################
 # UI Framework
 ###############################################################################
-designer.ui.extensionPointName=ƒŒƒ|[ƒg‚ÌŠg’£—v‘f UI
+designer.ui.extensionPointName=ãƒ¬ãƒãƒ¼ãƒˆã®æ‹¡å¼µè¦ç´  UI
 
 ###############################################################################
 # Preference
 ###############################################################################
-preference.birt=ƒŒƒ|[ƒgƒfƒUƒCƒ“
+preference.birt=ãƒ¬ãƒãƒ¼ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³
 
-preference.datasetpreview=ƒf[ƒ^ƒZƒbƒgƒGƒfƒBƒ^
+preference.datasetpreview=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã‚¨ãƒ‡ã‚£ã‚¿
 
-preference.preview=ƒvƒŒƒrƒ…[
+preference.preview=ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼
 
-preference.preview.server=ƒvƒŒƒrƒ…[—p‚ÌƒT[ƒo
+preference.preview.server=ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼ç”¨ã®ã‚µãƒ¼ãƒ
 
-preference.elementnames=—v‘f–¼
+preference.elementnames=è¦ç´ å
 
-preference.library=ƒ‰ƒCƒuƒ‰ƒŠ
+preference.library=ãƒ©ã‚¤ãƒ–ãƒ©ãƒª
 
-preference.template=ƒeƒ“ƒvƒŒ[ƒg
+preference.template=ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ
 
-preference.resource=ƒŠƒ\[ƒX
+preference.resource=ãƒªã‚½ãƒ¼ã‚¹
 
-preference.commenttemplates=ƒRƒƒ“ƒgƒeƒ“ƒvƒŒ[ƒg
+preference.commenttemplates=ã‚³ãƒ¡ãƒ³ãƒˆãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ
 #hcg_bidi
-preference.bidiproperties=‘o•ûŒüƒvƒƒpƒeƒB
+preference.bidiproperties=åŒæ–¹å‘ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£
 
-preference.layout=ƒŒƒCƒAƒEƒg
+preference.layout=ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆ
 
-preference.expressionsyntax=®\•¶
+preference.expressionsyntax=å¼æ§‹æ–‡
 
-designer.action.undo.label=Œ³‚É–ß‚·
+designer.action.undo.label=å…ƒã«æˆ»ã™
 
-designer.action.redo.label=‚â‚è’¼‚µ
+designer.action.redo.label=ã‚„ã‚Šç›´ã—
 
-extension.odadatasource=ODA ƒf[ƒ^ƒ\[ƒX‚ÌŠg’£ƒ|ƒCƒ“ƒg
+extension.odadatasource=ODA ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ã®æ‹¡å¼µãƒã‚¤ãƒ³ãƒˆ
 
-publish.template=ƒeƒ“ƒvƒŒ[ƒg‚ğƒŒƒ|[ƒg‚ÌV‹Kì¬ƒEƒBƒU[ƒh‚É“o˜^(&Z)...
+publish.template=ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆã‚’ãƒ¬ãƒãƒ¼ãƒˆã®æ–°è¦ä½œæˆã‚¦ã‚£ã‚¶ãƒ¼ãƒ‰ã«ç™»éŒ²(&Z)...
 
-publish.library=‹¤—LƒŠƒ\[ƒXƒtƒHƒ‹ƒ_‚Ö‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚ÌƒRƒs[(&B)...
+publish.library=å…±æœ‰ãƒªã‚½ãƒ¼ã‚¹ãƒ•ã‚©ãƒ«ãƒ€ã¸ã®ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã®ã‚³ãƒ”ãƒ¼(&B)...
 
-ActionSet.Publish=ƒŠƒ\[ƒX‚ÌŒöŠJ
+ActionSet.Publish=ãƒªã‚½ãƒ¼ã‚¹ã®å…¬é–‹
 
 Dummy.label=
 
-preference.classpath=ƒNƒ‰ƒXƒpƒX
+preference.classpath=ã‚¯ãƒ©ã‚¹ãƒ‘ã‚¹
 
-parameter.actions=ƒŒƒ|[ƒgƒpƒ‰ƒƒ^‚ÌV‹Kì¬(&P)
+parameter.actions=ãƒ¬ãƒãƒ¼ãƒˆãƒ‘ãƒ©ãƒ¡ã‚¿ã®æ–°è¦ä½œæˆ(&P)

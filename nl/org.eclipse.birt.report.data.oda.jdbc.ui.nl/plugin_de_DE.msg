@@ -25,7 +25,7 @@ dataset.editor.page.query=Abfrage
 
 datasource.name=JDBC-Datenquelle
 
-dataset.jdbcselect=SQL SELECT über JDBC
+dataset.jdbcselect=SQL SELECT Ã¼ber JDBC
 
 datasource.editor.page.connection=Datenquellen-Verbindung
 

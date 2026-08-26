@@ -1,81 +1,81 @@
 ###########################################################
 #Primitive Charts
-SideBySideBar=Los diagramas de barras laterales muestran barras de cada serie una junto a la otra. Estas barras se organizan para que tengan el mismo ancho, seg˙n el n˙mero de series que se vaya a procesar.
+SideBySideBar=Los diagramas de barras laterales muestran barras de cada serie una junto a la otra. Estas barras se organizan para que tengan el mismo ancho, seg√∫n el n√∫mero de series que se vaya a procesar.
 
 StackedBar=Los diagramas de barras apiladas muestran las barras apiladas una sobre la otra. Los valores positivos y negativos se apilan por separado, por encima y por debajo del origen.
 
-PercentStackedBar=Los diagramas de barras apiladas de porcentaje muestran barras apiladas una sobre la otra de forma que la altura total sea 100, midiendo desde el punto m·s bajo hasta el m·s alto de cada unidad.
+PercentStackedBar=Los diagramas de barras apiladas de porcentaje muestran barras apiladas una sobre la otra de forma que la altura total sea 100, midiendo desde el punto m√°s bajo hasta el m√°s alto de cada unidad.
 
-OverlayLine=Los diagramas de lÌneas superpuestas muestran las lÌneas de cada serie por separado. Las lÌneas se muestran vinculando los valores de la serie.
+OverlayLine=Los diagramas de l√≠neas superpuestas muestran las l√≠neas de cada serie por separado. Las l√≠neas se muestran vinculando los valores de la serie.
 
-StackedLine=Los diagramas de lÌneas apiladas muestran las lÌneas apiladas una sobre la otra. Los valores positivos y negativos se apilan por separado, por encima y por debajo del origen.
+StackedLine=Los diagramas de l√≠neas apiladas muestran las l√≠neas apiladas una sobre la otra. Los valores positivos y negativos se apilan por separado, por encima y por debajo del origen.
 
-PercentStackedLine=Los diagramas de lÌneas apiladas de porcentaje muestran las lÌneas apiladas una sobre la otra de forma que la altura total sea 100, midiendo desde el punto m·s bajo hasta el m·s alto de cada unidad.
+PercentStackedLine=Los diagramas de l√≠neas apiladas de porcentaje muestran las l√≠neas apiladas una sobre la otra de forma que la altura total sea 100, midiendo desde el punto m√°s bajo hasta el m√°s alto de cada unidad.
 
-OverlayArea=Los diagramas de ·reas superpuestas muestran las ·reas de cada serie por separado. Las ·reas se muestran vinculando los valores de la serie.
+OverlayArea=Los diagramas de √°reas superpuestas muestran las √°reas de cada serie por separado. Las √°reas se muestran vinculando los valores de la serie.
 
-StackedArea=Los diagramas de ·reas apiladas muestran las ·reas apiladas una sobre la otra. Los valores positivos y negativos se apilan por separado, por encima y por debajo del origen.
+StackedArea=Los diagramas de √°reas apiladas muestran las √°reas apiladas una sobre la otra. Los valores positivos y negativos se apilan por separado, por encima y por debajo del origen.
 
-PercentStackedArea=Los diagramas de ·reas apiladas de porcentaje muestran las ·reas apiladas una sobre la otra de forma que la altura total sea 100, midiendo desde el punto m·s bajo hasta el m·s alto de cada unidad.
+PercentStackedArea=Los diagramas de √°reas apiladas de porcentaje muestran las √°reas apiladas una sobre la otra de forma que la altura total sea 100, midiendo desde el punto m√°s bajo hasta el m√°s alto de cada unidad.
 
-Pie=Los diagramas circulares muestran los valores como cortes de un cÌrculo. El tamaÒo de cada corte es proporcional al valor que representa. Los diagramas circulares de varias series se dibujan como m˙ltiples cÌrculos, uno para cada serie.
+Pie=Los diagramas circulares muestran los valores como cortes de un c√≠rculo. El tama√±o de cada corte es proporcional al valor que representa. Los diagramas circulares de varias series se dibujan como m√∫ltiples c√≠rculos, uno para cada serie.
 
-StandardMeter=Los diagramas mÈtricos est·ndar presentan un solo cuadrante con una o varias regiones. El fondo del cuadrante puede dividirse en varias regiones con diferentes colores.
+StandardMeter=Los diagramas m√©tricos est√°ndar presentan un solo cuadrante con una o varias regiones. El fondo del cuadrante puede dividirse en varias regiones con diferentes colores.
 
-SuperImposedMeter=Los diagramas mÈtricos superpuestos contienen varios cuadrantes con idÈnticas regiones. Los cuadrantes se superponen, por lo que pueden presentar m˙ltiples indicadores dentro de una misma regiÛn.
+SuperImposedMeter=Los diagramas m√©tricos superpuestos contienen varios cuadrantes con id√©nticas regiones. Los cuadrantes se superponen, por lo que pueden presentar m√∫ltiples indicadores dentro de una misma regi√≥n.
 
-Scatter=Los diagramas de dispersiÛn organizan los valores en el dibujo usando los datos de categorÌa y de valor como coordenadas. Cada valor de datos se indica con un marcador.
+Scatter=Los diagramas de dispersi√≥n organizan los valores en el dibujo usando los datos de categor√≠a y de valor como coordenadas. Cada valor de datos se indica con un marcador.
 
-BarStickStock=Un diagrama de cotizaciÛn contiene una lÌnea vertical con dos lÌneas horizontales adjuntadas a Èl. Los puntos superior e inferior de la lÌnea vertical son los valores m·ximo y mÌnimo de la cotizaciÛn. Las dos lÌneas horizontales son los valores de apertura y de cierre.
+BarStickStock=Un diagrama de cotizaci√≥n contiene una l√≠nea vertical con dos l√≠neas horizontales adjuntadas a √©l. Los puntos superior e inferior de la l√≠nea vertical son los valores m√°ximo y m√≠nimo de la cotizaci√≥n. Las dos l√≠neas horizontales son los valores de apertura y de cierre.
 
-CandleStickStock=Un diagrama de cotizaciÛn de velas contiene un cuadro con lÌneas que se extienden hacia arriba y hacia abajo de los extremos. Los bordes superior e inferior del cuadro son los valores de cotizaciÛn de apertura y cierre. Los puntos superior e inferior de la lÌnea son los valores m·ximo y mÌnimo.
+CandleStickStock=Un diagrama de cotizaci√≥n de velas contiene un cuadro con l√≠neas que se extienden hacia arriba y hacia abajo de los extremos. Los bordes superior e inferior del cuadro son los valores de cotizaci√≥n de apertura y cierre. Los puntos superior e inferior de la l√≠nea son los valores m√°ximo y m√≠nimo.
 
-Bubble=Los diagramas de burbujas son una extensiÛn de los diagramas de dispersiÛn y muestran los puntos como burbujas. Los di·metros de las burbujas son proporcionales a un tercer valor de datos, junto a las coordenadas x e y.
+Bubble=Los diagramas de burbujas son una extensi√≥n de los diagramas de dispersi√≥n y muestran los puntos como burbujas. Los di√°metros de las burbujas son proporcionales a un tercer valor de datos, junto a las coordenadas x e y.
 
-Difference=Los diagramas de diferencia muestran el ·rea entre dos lÌneas de valores. Heredan todas las propiedades de serie de ·rea y pueden mostrar, adem·s, un ·rea negativa en un color diferente.
+Difference=Los diagramas de diferencia muestran el √°rea entre dos l√≠neas de valores. Heredan todas las propiedades de serie de √°rea y pueden mostrar, adem√°s, un √°rea negativa en un color diferente.
 
-Gantt=Los diagramas de Gantt se utilizan para seguir la duraciÛn y el progreso de las tareas. Se representan en un eje Y de fecha y hora, con barras de una anchura personalizada con marcadores de inicio y finalizaciÛn opcionales. Cada barra se define por su categorÌa, etiqueta de tarea y hora de inicio y de finalizaciÛn. Se pueden superponer varias series de Gantt de diferente anchura para seguir, por ejemplo, el progreso real de tareas programadas.
+Gantt=Los diagramas de Gantt se utilizan para seguir la duraci√≥n y el progreso de las tareas. Se representan en un eje Y de fecha y hora, con barras de una anchura personalizada con marcadores de inicio y finalizaci√≥n opcionales. Cada barra se define por su categor√≠a, etiqueta de tarea y hora de inicio y de finalizaci√≥n. Se pueden superponer varias series de Gantt de diferente anchura para seguir, por ejemplo, el progreso real de tareas programadas.
 
 Tube=Los diagramas de tubos se parecen a los diagramas de barras, pero con las barras representadas como tubos.
 
 Cone=Los diagramas de conos se parecen a los diagramas de barras, pero con las barras representadas como conos.
 
-Pyramid=Los diagramas de pir·mides se parecen a los diagramas de barras, pero con las barras representadas como pir·mides.
+Pyramid=Los diagramas de pir√°mides se parecen a los diagramas de barras, pero con las barras representadas como pir√°mides.
 
-Radar=Los diagramas radiales est·ndar contienen una cuadrÌcula circular a la que se superponen series de lÌneas o polÌgonos.
+Radar=Los diagramas radiales est√°ndar contienen una cuadr√≠cula circular a la que se superponen series de l√≠neas o pol√≠gonos.
 
 ###########################################################
 #3D Charts
 Bar=Diagramas de barras laterales en 3 dimensiones.
 
-Line=Diagramas de lÌneas superpuestas en 3 dimensiones.
+Line=Diagramas de l√≠neas superpuestas en 3 dimensiones.
 
-Area=Diagramas de ·reas superpuestas en 3 dimensiones.
+Area=Diagramas de √°reas superpuestas en 3 dimensiones.
 
 Tube3D=Diagrama de tubos laterales en 3 dimensiones.
 
 Cone3D=Diagrama de conos laterales en 3 dimensiones.
 
-Pyramid3D=Diagrama de pir·mides laterales en 3 dimensiones.
+Pyramid3D=Diagrama de pir√°mides laterales en 3 dimensiones.
 
 ###########################################################
 #Combination Charts
-BarAndLine=Los diagramas de combinaciÛn de barras y lÌneas contienen 2 series. Comparten el mismo valor de categorÌa.
+BarAndLine=Los diagramas de combinaci√≥n de barras y l√≠neas contienen 2 series. Comparten el mismo valor de categor√≠a.
 
 
 ###########################################################
 #Formatted Charts
-AxisLabelFormat=Especifique el formato para etiquetas de eje: eje Y ($###,###) y eje X (MM/dd/yyyy). Los usuarios tambiÈn han podido establecer el color, fuente, contorno y otros atributos de las etiquetas.
+AxisLabelFormat=Especifique el formato para etiquetas de eje: eje Y ($###,###) y eje X (MM/dd/yyyy). Los usuarios tambi√©n han podido establecer el color, fuente, contorno y otros atributos de las etiquetas.
 
-AxisTitleFormat=Todos los atributos de etiqueta se pueden aplicar al tÌtulo del eje.
+AxisTitleFormat=Todos los atributos de etiqueta se pueden aplicar al t√≠tulo del eje.
 
-ColoredByCategorySeries=Establezca Tipo de elemento de leyenda como categorÌa.
+ColoredByCategorySeries=Establezca Tipo de elemento de leyenda como categor√≠a.
 
 OpenJavaSourceAction.Text.Description=Abrir fuente Java en el directorio relevante
 
 OpenJavaSourceAction.Text.ToolTip=Abrir fuente Java
 
-SaveXMLAction.MessageBox.Message=La fuente XML ya existe en el directorio. \nøDesea sustituirla?
+SaveXMLAction.MessageBox.Message=La fuente XML ya existe en el directorio. \n¬øDesea sustituirla?
 
 SaveXMLAction.MessageBox.Text=Guardar fuente XML
 
@@ -85,29 +85,29 @@ SaveXMLAction.Text.ToolTip=Guardar fuente XML
 
 ColoredByValueSeries=Establezca Tipo de elemento de leyenda como serie.
 
-CurveFittingArea=Active atributo de la curva ajustada de la serie de ·reas.
+CurveFittingArea=Active atributo de la curva ajustada de la serie de √°reas.
 
-CurveFittingBar=Cree una curva ajustada a lÌnea para la serie de barras.
+CurveFittingBar=Cree una curva ajustada a l√≠nea para la serie de barras.
 
-CurveFittingLine=Active atributo de la curva ajustada de la serie de lÌneas.
+CurveFittingLine=Active atributo de la curva ajustada de la serie de l√≠neas.
 
-CurveFittingStock=Cree una curva ajustada a lÌnea para la serie de cotizaciÛn de acciones.
+CurveFittingStock=Cree una curva ajustada a l√≠nea para la serie de cotizaci√≥n de acciones.
 
-LegendFormat=La leyenda se puede situar a la izquierda, derecha, arriba, abajo y en el interior. El ·rea del cliente se encuentra dentro de la leyenda. Contiene los elementos de leyenda.
+LegendFormat=La leyenda se puede situar a la izquierda, derecha, arriba, abajo y en el interior. El √°rea del cliente se encuentra dentro de la leyenda. Contiene los elementos de leyenda.
 
-MarkerLine=La lÌnea de marcador se puede crear para los ejes X e Y (sÛlo para el tipo ChartWithAxes).
+MarkerLine=La l√≠nea de marcador se puede crear para los ejes X e Y (s√≥lo para el tipo ChartWithAxes).
 
-MarkerRange=El intervalo de marcador se puede crear para los ejes X e Y (sÛlo para el tipo ChartWithAxes).
+MarkerRange=El intervalo de marcador se puede crear para los ejes X e Y (s√≥lo para el tipo ChartWithAxes).
 
-MultiplePie=Un diagrama circular individual contiene varias series circulares que pueden formar un grupo circular para presentar la comparaciÛn de valores.
+MultiplePie=Un diagrama circular individual contiene varias series circulares que pueden formar un grupo circular para presentar la comparaci√≥n de valores.
 
-MDialSRegionMeter=M˙ltiples indicadores en un tablÛn de cuadrante individual.
+MDialSRegionMeter=M√∫ltiples indicadores en un tabl√≥n de cuadrante individual.
 
-SDialSRegionMeter=Un indicador en un tablÛn de cuadrante individual.
+SDialSRegionMeter=Un indicador en un tabl√≥n de cuadrante individual.
 
 PercentageValueFormat=Presente el valor de serie como una figura de porcentaje.
 
-PlotFormat=Especifique la apariencia de un ·rea de dibujo y del cliente.
+PlotFormat=Especifique la apariencia de un √°rea de dibujo y del cliente.
 
 SeriesValueFormat=Especifique el formato de los datos de valor ($###,###.00) y etiqueta del eje X (MM/dd/aaaa).
 
@@ -117,7 +117,7 @@ AxisLabelScript=beforeDrawAxisLabel() permite a los usuarios manipular atributos
 
 AxisTitleScript=beforeDrawAxisTitle() permite a los usuarios manipular atributos de eje y etiqueta (Axis.getTitle()).
 
-BlockScript=beforeDrawBlock() permite a los usuarios manipular atributos de bloque (p. ej., dibujo, tÌtulo, leyenda).
+BlockScript=beforeDrawBlock() permite a los usuarios manipular atributos de bloque (p. ej., dibujo, t√≠tulo, leyenda).
 
 CurveFittingScript=beforeDrawFittingCurve() permite a los usuarios manipular atributos de curva ajustada.
 
@@ -125,31 +125,31 @@ DataPointLabelScript=beforeDrawDataPointLabel() permite a los usuarios manipular
 
 LegendScript=beforeDrawLegendItem() permite a los usuarios manipular elementos de leyenda y delimitar atributos.
 
-MarkerLineScript=beforeDrawMarkerLine() permite a los usuarios manipular atributos de lÌnea de marcador.
+MarkerLineScript=beforeDrawMarkerLine() permite a los usuarios manipular atributos de l√≠nea de marcador.
 
 MarkerRangeScript=beforeDrawMarkerRange() permite a los usuarios manipular atributos de intervalo de marcador.
 
 SeriesScript=beforeDrawSeries() permite a los usuarios manipular atributos de serie y ISeriesRenderer (BaseRenderer o AxesRenderer).
 
-SeriesTitleScript=beforeDrawSeriesTitle() permite a los usuarios manipular atributos de serie y etiqueta (Series.getTitle()). SÛlo se aplica al diagrama circular.
+SeriesTitleScript=beforeDrawSeriesTitle() permite a los usuarios manipular atributos de serie y etiqueta (Series.getTitle()). S√≥lo se aplica al diagrama circular.
 
 ###########################################################
 #Data Operations
-MinSlice=El usuario puede especificar el valor mÌnimo (absoluto o porcentaje) de un corte. El diagrama circular se puede separar estableciendo la expresiÛn en atributo de separaciÛn.
+MinSlice=El usuario puede especificar el valor m√≠nimo (absoluto o porcentaje) de un corte. El diagrama circular se puede separar estableciendo la expresi√≥n en atributo de separaci√≥n.
 
-MultipleYAxes=Un diagrama puede contener m·s de un eje Y.
+MultipleYAxes=Un diagrama puede contener m√°s de un eje Y.
 
-MultipleYSeries=Un diagrama puede contener m·s de una serie Y (valor).
+MultipleYSeries=Un diagrama puede contener m√°s de una serie Y (valor).
 
-WorkingWithBIRTDataEngine=Un diagrama funciona con ODA/DtE (motor de datos BIRT) para obtener datos agrupados/agregados sin realizar la agrupaciÛn/agregaciÛn por el propio diagrama.
+WorkingWithBIRTDataEngine=Un diagrama funciona con ODA/DtE (motor de datos BIRT) para obtener datos agrupados/agregados sin realizar la agrupaci√≥n/agregaci√≥n por el propio diagrama.
 
 ###########################################################
 #Default
-DefaultDescription=Seleccione un ejemplo entre las categorÌas.
+DefaultDescription=Seleccione un ejemplo entre las categor√≠as.
 
 ###########################################################
 #Example View labels
-ChartExamples.Description=DescripciÛn
+ChartExamples.Description=Descripci√≥n
 
 ChartExamples.Preview=Vista previa
 
@@ -176,29 +176,29 @@ SampleChartName.StackedBar=Barra apilada
 
 SampleChartName.PercentStackedBar=Barra apilada de porcentaje
 
-SampleChartName.OverlayLine=LÌnea vertical
+SampleChartName.OverlayLine=L√≠nea vertical
 
-SampleChartName.StackedLine=LÌnea apilada
+SampleChartName.StackedLine=L√≠nea apilada
 
-SampleChartName.PercentStackedLine=LÌnea apilada de porcentaje
+SampleChartName.PercentStackedLine=L√≠nea apilada de porcentaje
 
-SampleChartName.OverlayArea=¡rea superpuesta
+SampleChartName.OverlayArea=√Årea superpuesta
 
-SampleChartName.StackedArea=¡rea apilada
+SampleChartName.StackedArea=√Årea apilada
 
-SampleChartName.PercentStackedArea=¡rea apilada de porcentaje
+SampleChartName.PercentStackedArea=√Årea apilada de porcentaje
 
 SampleChartName.Pie=Circular
 
-SampleChartName.StandardMeter=MÈtrico est·ndar
+SampleChartName.StandardMeter=M√©trico est√°ndar
 
-SampleChartName.SuperImposedMeter=MÈtrico superpuesto
+SampleChartName.SuperImposedMeter=M√©trico superpuesto
 
-SampleChartName.Scatter=DispersiÛn
+SampleChartName.Scatter=Dispersi√≥n
 
-SampleChartName.BarStickStock=CotizaciÛn de barras
+SampleChartName.BarStickStock=Cotizaci√≥n de barras
 
-SampleChartName.CandleStickStock=CotizaciÛn de recuadros
+SampleChartName.CandleStickStock=Cotizaci√≥n de recuadros
 
 SampleChartName.Bubble=Burbuja
 
@@ -210,51 +210,51 @@ SampleChartName.Tube=Tubo
 
 SampleChartName.Cone=Cono
 
-SampleChartName.Pyramid=Pir·mide
+SampleChartName.Pyramid=Pir√°mide
 
 SampleChartName.Radar=Radial
 #3D Charts
 SampleChartName.Bar=Barra
 
-SampleChartName.Line=LÌnea
+SampleChartName.Line=L√≠nea
 
-SampleChartName.Area=¡rea
+SampleChartName.Area=√Årea
 
 SampleChartName.Tube3D=Tubo
 
 SampleChartName.Cone3D=Cono
 
-SampleChartName.Pyramid3D=Pir·mide
+SampleChartName.Pyramid3D=Pir√°mide
 #Combination Charts
-SampleChartName.BarAndLine=Barras y lÌneas
+SampleChartName.BarAndLine=Barras y l√≠neas
 #Formatted Charts
 SampleChartName.AxisLabelFormat=Formato de etiquetas de eje
 
-SampleChartName.AxisTitleFormat=Formato de tÌtulo de eje
+SampleChartName.AxisTitleFormat=Formato de t√≠tulo de eje
 
-SampleChartName.ColoredByCategorySeries=Color por series de categorÌa
+SampleChartName.ColoredByCategorySeries=Color por series de categor√≠a
 
 SampleChartName.ColoredByValueSeries=Color por series de valor
 
-SampleChartName.CurveFittingArea=Curva ajustada al ·rea
+SampleChartName.CurveFittingArea=Curva ajustada al √°rea
 
 SampleChartName.CurveFittingBar=Curva ajustada a la barra
 
-SampleChartName.CurveFittingLine=Curva ajustada a la lÌnea
+SampleChartName.CurveFittingLine=Curva ajustada a la l√≠nea
 
-SampleChartName.CurveFittingStock=Curva ajustada a cotizaciÛn
+SampleChartName.CurveFittingStock=Curva ajustada a cotizaci√≥n
 
 SampleChartName.LegendFormat=Formato de la leyenda
 
-SampleChartName.MarkerLine=LÌnea de marcador
+SampleChartName.MarkerLine=L√≠nea de marcador
 
 SampleChartName.MarkerRange=Intervalo de marcador
 
-SampleChartName.MultiplePie=Circular m˙ltiple
+SampleChartName.MultiplePie=Circular m√∫ltiple
 
-SampleChartName.MDialSRegionMeter=Indicadores m˙ltiples en el tablÛn del cuadrante individual
+SampleChartName.MDialSRegionMeter=Indicadores m√∫ltiples en el tabl√≥n del cuadrante individual
 
-SampleChartName.SDialSRegionMeter=Indicador ˙nico en el tablÛn del cuadrante individual
+SampleChartName.SDialSRegionMeter=Indicador √∫nico en el tabl√≥n del cuadrante individual
 
 SampleChartName.PercentageValueFormat=Formato del valor del porcentaje
 
@@ -264,7 +264,7 @@ SampleChartName.SeriesValueFormat=Formato del valor de la serie
 #Scripted Charts
 SampleChartName.AxisLabelScript=Script de la etiqueta del eje
 
-SampleChartName.AxisTitleScript=Script del tÌtulo del eje
+SampleChartName.AxisTitleScript=Script del t√≠tulo del eje
 
 SampleChartName.BlockScript=Script del bloque
 
@@ -274,15 +274,15 @@ SampleChartName.DataPointLabelScript=Script de la etiqueta del punto de datos
 
 SampleChartName.LegendScript=Script de la leyenda
 
-SampleChartName.MarkerLineScript=Script de la lÌnea del marcador
+SampleChartName.MarkerLineScript=Script de la l√≠nea del marcador
 
 SampleChartName.MarkerRangeScript=Script del intervalo del marcador
 
 SampleChartName.SeriesScript=Script de las series
 
-SampleChartName.SeriesTitleScript=Script del tÌtulo de la serie
+SampleChartName.SeriesTitleScript=Script del t√≠tulo de la serie
 #Data Operations
-SampleChartName.MinSlice=Corte mÌnimo
+SampleChartName.MinSlice=Corte m√≠nimo
 
 SampleChartName.MultipleYAxes=Varios ejes Y
 

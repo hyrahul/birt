@@ -17,14 +17,14 @@ oda.data.source.id=org.eclipse.birt.data.oda.pojo
 #
 plugin.name=BIRT POJO Data Source ODA Designer
 newwizard.name=BIRT POJO Data Source
-newwizard.description=BIRT POJO µ¥ÀÌÅÍ ¿øº» ¿¬°á ÇÁ·ÎÇÊ »ı¼º
+newwizard.description=BIRT POJO ë°ì´í„° ì›ë³¸ ì—°ê²° í”„ë¡œí•„ ìƒì„±
 
-wizard.window.title=»õ BIRT POJO µ¥ÀÌÅÍ ¿øº» ÇÁ·ÎÇÊ
+wizard.window.title=ìƒˆ BIRT POJO ë°ì´í„° ì›ë³¸ í”„ë¡œí•„
 
 wizard.data.source.page.title=BIRT POJO Data Source
 profile.propertypage.name=BIRT POJO Data Source Connection Properties
-wizard.data.set.window.title=»õ BIRT POJO µ¥ÀÌÅÍ ÁıÇÕ
+wizard.data.set.window.title=ìƒˆ BIRT POJO ë°ì´í„° ì§‘í•©
 
-wizard.data.set.propertiesPage.title=¼Ó¼º
+wizard.data.set.propertiesPage.title=ì†ì„±
 
-wizard.data.set.columnMappingPage.title=¿­ ¸ÅÇÎ
+wizard.data.set.columnMappingPage.title=ì—´ ë§¤í•‘

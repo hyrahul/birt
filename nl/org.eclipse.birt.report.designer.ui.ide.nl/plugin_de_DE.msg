@@ -48,20 +48,20 @@ OdaRuntimeWizard=ODA-Laufzeittreiber-Plug-In-Projekt
 
 OdaRuntimeWizardDesc=Ein neues ODA-Laufzeittreiber-Plug-In erstellen.
 
-OdaDesignerWizard=Plug-In-Projekt für ODA-Designer
+OdaDesignerWizard=Plug-In-Projekt fÃ¼r ODA-Designer
 
-OdaDesignerWizardDesc=Ein neues Plug-In-Projekt für ODA-Designer erstellen.
+OdaDesignerWizardDesc=Ein neues Plug-In-Projekt fÃ¼r ODA-Designer erstellen.
 
 ###############################################################################
 
 ###############################################################################
 # Actions
 ###############################################################################
-Action.Publish=Vorlage mit Ass&istent für neuen Bericht registrieren...
+Action.Publish=Vorlage mit Ass&istent fÃ¼r neuen Bericht registrieren...
 
-Action.PublishLibrary=&Bibliothek in Ordner für gemeinsame Ressourcen kopieren...
+Action.PublishLibrary=&Bibliothek in Ordner fÃ¼r gemeinsame Ressourcen kopieren...
 
-Action.AddReportNature=Berichtunterstützung hinzufügen
+Action.AddReportNature=BerichtunterstÃ¼tzung hinzufÃ¼gen
 
 Menu.Report=Bericht
 

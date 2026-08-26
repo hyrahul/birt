@@ -2,32 +2,32 @@
 # the text of Design Engine exceptions.
 
 ###########################################################
-INVALID_TYPE=Tipo de datos no válido.
+INVALID_TYPE=Tipo de datos no vÃ¡lido.
 
-INVALID_EXPRSSION=Expresión Javascript no válida: {0}
+INVALID_EXPRSSION=ExpresiÃ³n Javascript no vÃ¡lida: {0}
 
 CONVERT_FAILS=No se puede convertir el valor de {0} al tipo {1}.
 
-birt.core.JavascriptCommonError=Han ocurrido errores durante la evaluación del script "{0}":\n{1}
+birt.core.JavascriptCommonError=Han ocurrido errores durante la evaluaciÃ³n del script "{0}":\n{1}
 
 birt.core.JavascriptError={0}
-birt.core.Javascript.parameterNotExist=El parámetro de informe "{0}" no existe.
+birt.core.Javascript.parameterNotExist=El parÃ¡metro de informe "{0}" no existe.
 
 birt.core.Javascript.variableNotExist=La variable de informe "{0}" no existe.
 
 birt.core.Javascript.nativeNotFound=No se ha encontrado {0}.
 
-birt.core.BirtComp.invalidRegularExpression=Expresión regular no válida.
+birt.core.BirtComp.invalidRegularExpression=ExpresiÃ³n regular no vÃ¡lida.
 
-error.NoSuchScriptExtension = No existe la extensión del script: {0}.
+error.NoSuchScriptExtension = No existe la extensiÃ³n del script: {0}.
 
-error.InvalidSeekOffset = Posición no válida {0}.
+error.InvalidSeekOffset = PosiciÃ³n no vÃ¡lida {0}.
 
 error.ExceedFileLength = Longitud de archivo superada.
 
-error.CanotchangeReadOnlyBuffer = No se puede cambiar el búfer de sólo lectura.
+error.CanotchangeReadOnlyBuffer = No se puede cambiar el bÃºfer de sÃ³lo lectura.
 
-error.FileOpenedInReadOnlyMode = El archivo está abierto en modo de sólo lectura.
+error.FileOpenedInReadOnlyMode = El archivo estÃ¡ abierto en modo de sÃ³lo lectura.
 
 error.FileHasBeenClosed = El archivo archivado se ha cerrado.
 
@@ -37,57 +37,57 @@ error.CannotStartupOSGIPlatform = No se puede iniciar el frame OSGI.
 
 error.UnsupportedFileMode = Modo de archivo no admitido: {0}.
 
-error.FolderNameIsNull = El nombre de la carpeta es una cadena nula o vacía.
+error.FolderNameIsNull = El nombre de la carpeta es una cadena nula o vacÃ­a.
 
-error.FileNameIsNull = El nombre del archivo es una cadena nula o vacía.
+error.FileNameIsNull = El nombre del archivo es una cadena nula o vacÃ­a.
 
-error.NotExt2Archive = No es un archivo Ext2, la contraseña es: {0}.
+error.NotExt2Archive = No es un archivo Ext2, la contraseÃ±a es: {0}.
 
-error.NotCompoundFile = No es un archivo compuesto, la contraseña es: {0}.
+error.NotCompoundFile = No es un archivo compuesto, la contraseÃ±a es: {0}.
 
-error.ReadOnlyArchive = Archivo de sólo lectura.
+error.ReadOnlyArchive = Archivo de sÃ³lo lectura.
 
-error.UnsupportedArchiveVersion = Versión de archivo no admitida {0}.
+error.UnsupportedArchiveVersion = VersiÃ³n de archivo no admitida {0}.
 
-error.UnsupportedBlockSize = Tamaño de bloque no admitido.
+error.UnsupportedBlockSize = TamaÃ±o de bloque no admitido.
 
-error.InvalidIndex = Índice no válido en el bloque {0}.
+error.InvalidIndex = Ãndice no vÃ¡lido en el bloque {0}.
 
 error.UnsupportedNodeType = tipo de nodo inesperado: {0} para nodo {1}.
 
 error.NotSerializable = No serializable.
 
-error.UnsupportedDataType = Este tipo de datos no es compatible todavía o no es serializable.
+error.UnsupportedDataType = Este tipo de datos no es compatible todavÃ­a o no es serializable.
 
-error.InvalidLockType = Tipo de bloqueo no válido: {0}.
+error.InvalidLockType = Tipo de bloqueo no vÃ¡lido: {0}.
 
 error.ArchiveOpenForWrite = El archivo se debe abrir para su escritura. ID de sistema: {0}.
 
-error.ExceedMaxBlockSize = El tamaño del encabezado del archivo no puede ser mayor de: {0}.
+error.ExceedMaxBlockSize = El tamaÃ±o del encabezado del archivo no puede ser mayor de: {0}.
 
 error.InvalidArchiveName= {0} no existe o no es una carpeta.
 
 error.NullSource = el archivo de fuente o destino es nulo.
 
-error.OutOfRange = La posición de búsqueda está fuera de los límites.
+error.OutOfRange = La posiciÃ³n de bÃºsqueda estÃ¡ fuera de los lÃ­mites.
 
-error.ReadOnlyTree = No se puede insertar una entrada en un árbol de sólo lectura.
+error.ReadOnlyTree = No se puede insertar una entrada en un Ã¡rbol de sÃ³lo lectura.
 
 error.CannotLoadNode = No se puede cargar el nodo: {0}.
 
-error.KeySizeError = El tamaño de la clave es {0} en lugar de {1}.
+error.KeySizeError = El tamaÃ±o de la clave es {0} en lugar de {1}.
 
 error.MismatchKeyLength = Error de coincidencia de longitud de clave para clave de longitud fija.
 
-error.ValueSizeError = El tamaño del valor es {0} en lugar de {1}.
+error.ValueSizeError = El tamaÃ±o del valor es {0} en lugar de {1}.
 
 error.MismatchValueLength = Error de coincidencia de longitud de valor para valor de longitud fija.
 
-error.InvaldMagicTag = Etiqueta mágica no válida: {0}.
+error.InvaldMagicTag = Etiqueta mÃ¡gica no vÃ¡lida: {0}.
 
-error.UnsupportedVersion = Versión no compatible: {0}.
+error.UnsupportedVersion = VersiÃ³n no compatible: {0}.
 
-error.InvalidCursor = Cursor no válido.
+error.InvalidCursor = Cursor no vÃ¡lido.
 
 error.CusorNotInitialized = Se debe iniciar primero el cursor.
 
@@ -95,8 +95,8 @@ error.UnexpectedEqualKeys = Claves iguales inesperadas.
 
 error.UnknownValueType = Tipo de valores desconocido: {0}.
 
-error.ExceedMaxBlock = {0} ha superado el bloque máximo en RAM {1}.
+error.ExceedMaxBlock = {0} ha superado el bloque mÃ¡ximo en RAM {1}.
 
-error.MalformedInputError = Entrada incorrecta: carácter parcial al final.
+error.MalformedInputError = Entrada incorrecta: carÃ¡cter parcial al final.
 
 error.MalformedInputAroundByte = Entrada incorrecta cerca del byte {0}.>>>>>>> 1.8

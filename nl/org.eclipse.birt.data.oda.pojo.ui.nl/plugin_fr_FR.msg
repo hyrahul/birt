@@ -17,14 +17,14 @@ oda.data.source.id=org.eclipse.birt.data.oda.pojo
 #
 plugin.name=BIRT POJO Data Source ODA Designer
 newwizard.name=BIRT POJO Data Source
-newwizard.description=Créer un profil de connexion à la source de données BIRT POJO
+newwizard.description=CrÃ©er un profil de connexion Ã  la source de donnÃ©es BIRT POJO
 
-wizard.window.title=Nouveau profil de source de données BIRT POJO
+wizard.window.title=Nouveau profil de source de donnÃ©es BIRT POJO
 
 wizard.data.source.page.title=BIRT POJO Data Source
 profile.propertypage.name=BIRT POJO Data Source Connection Properties
-wizard.data.set.window.title=Nouveau jeu de données BIRT POJO
+wizard.data.set.window.title=Nouveau jeu de donnÃ©es BIRT POJO
 
-wizard.data.set.propertiesPage.title=Propriétés
+wizard.data.set.propertiesPage.title=PropriÃ©tÃ©s
 
 wizard.data.set.columnMappingPage.title=Mise en correspondance de colonne

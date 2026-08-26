@@ -1,91 +1,91 @@
 ChartAggregationCellViewProvider.Chart.DisplayName=Graphique
 
-ChartDataSetBindingSheetImpl.Lbl.SelectDataBinding=Sélectionner la liaison de données :
+ChartDataSetBindingSheetImpl.Lbl.SelectDataBinding=SÃ©lectionner la liaison de donnÃ©es :
 
-ChartDataSetBindingSheetImpl.Title.SheetTitle=Données - Sélectionner un jeu de données
+ChartDataSetBindingSheetImpl.Title.SheetTitle=DonnÃ©es - SÃ©lectionner un jeu de donnÃ©es
 
-ChartPageGenerator.List.General=Général
+ChartPageGenerator.List.General=GÃ©nÃ©ral
 
-ChartPageGenerator.List.AltText=Texte de légende
+ChartPageGenerator.List.AltText=Texte de lÃ©gende
 
-ChartDataBindingPage.Lbl.Parameter=Paramètres
+ChartDataBindingPage.Lbl.Parameter=ParamÃ¨tres
 
-ChartDataBindingPage.Lbl.DataType=Type de données
+ChartDataBindingPage.Lbl.DataType=Type de donnÃ©es
 
 ChartDataBindingPage.Lbl.Value=Valeur
 
 ChartDataBindingPage.Lbl.None=Aucun
 
-ChartDataBindingPage.Lbl.DefaultValue=(Valeur par défaut)
+ChartDataBindingPage.Lbl.DefaultValue=(Valeur par dÃ©faut)
 
-ChartDataBindingPage.Lbl.DataSet=Jeu de données
+ChartDataBindingPage.Lbl.DataSet=Jeu de donnÃ©es
 
-ChartDataBindingPage.Lbl.SaveParameterBinding=Enregistrer la liaison de paramètres
+ChartDataBindingPage.Lbl.SaveParameterBinding=Enregistrer la liaison de paramÃ¨tres
 
-ChartDataBindingPage.Lbl.SaveDataSet=Modifier le jeu de données
+ChartDataBindingPage.Lbl.SaveDataSet=Modifier le jeu de donnÃ©es
 
-ChartDataBindingPage.Msg.AskSaveDataSet=Souhaitez-vous modifier le jeu de données lié ?
+ChartDataBindingPage.Msg.AskSaveDataSet=Souhaitez-vous modifier le jeu de donnÃ©es liÃ© ?
 
 DesignerRepresentation.error.Error=Erreur :
 
-DesignerRepresentation.log.UnableToFind=Impossible de trouver le modèle de graphique pendant le rendu dans Designer.
+DesignerRepresentation.log.UnableToFind=Impossible de trouver le modÃ¨le de graphique pendant le rendu dans Designer.
 
-DesignerRepresentation.msg.InvalidChart=Le graphique actuel est incorrect. Pour continuer à travailler sur ce graphique, veuillez commencer par le supprimer.
+DesignerRepresentation.msg.InvalidChart=Le graphique actuel est incorrect. Pour continuer Ã  travailler sur ce graphique, veuillez commencer par le supprimer.
 
-ChartReportItemBuilderImpl.problem.hasNotBeenFound=Le graphique n'a pas encore été lié à un jeu de données ou à un cube de données.
+ChartReportItemBuilderImpl.problem.hasNotBeenFound=Le graphique n'a pas encore Ã©tÃ© liÃ© Ã  un jeu de donnÃ©es ou Ã  un cube de donnÃ©es.
 
-ChartReportItemBuilderImpl.log.UnableToLocate=Impossible de localiser le wrapper d'élément d'état pour l'objet de graphique.
+ChartReportItemBuilderImpl.log.UnableToLocate=Impossible de localiser le wrapper d'Ã©lÃ©ment d'Ã©tat pour l'objet de graphique.
 
-ChartPreferencePage.Label.MaxRowNumber=&Nombre max. de lignes dans la prévisualisation des données :
+ChartPreferencePage.Label.MaxRowNumber=&Nombre max. de lignes dans la prÃ©visualisation des donnÃ©es :
 
-ChartPreferencePage.Error.MaxRowInvalid=Le nombre max. de lignes doit être un nombre entier inférieur à {0}
+ChartPreferencePage.Error.MaxRowInvalid=Le nombre max. de lignes doit Ãªtre un nombre entier infÃ©rieur Ã  {0}
 
-ChartPreferencePage.Label.EnableLivePreview=Activer l'aperçu direct dans le générateur de graphiques(&E)
+ChartPreferencePage.Label.EnableLivePreview=Activer l'aperÃ§u direct dans le gÃ©nÃ©rateur de graphiques(&E)
 
 ChartReportItemUIImpl.Command.ResizeChart=Redimensionner le graphique
 
-ChartReportItemUIImpl.log.ReceivedNotification=Réception d'une notification de rejet des données du graphique étendu.
+ChartReportItemUIImpl.log.ReceivedNotification=RÃ©ception d'une notification de rejet des donnÃ©es du graphique Ã©tendu.
 
-ChartReportItemViewProvider.BarChart.Text.Title=Titre du graphique à barres
+ChartReportItemViewProvider.BarChart.Text.Title=Titre du graphique Ã  barres
 
 ChartReportItemViewProvider.ChartViewName=Graphique
 
 ChartExpressionProvider.Category.ChartVariables=Variables
 
-ChartExpressionProvider.ChartVariables.DataPoints=Point de données du graphique
+ChartExpressionProvider.ChartVariables.DataPoints=Point de donnÃ©es du graphique
 
-ChartExpressionProvider.ChartVariables.LegendItems=Légende du graphique
+ChartExpressionProvider.ChartVariables.LegendItems=LÃ©gende du graphique
 
-ChartExpressionProvider.DataPoints.BaseValue=Données de catégorie
+ChartExpressionProvider.DataPoints.BaseValue=DonnÃ©es de catÃ©gorie
 
-ChartExpressionProvider.DataPoints.OrthogonalValue=Données de valeur
+ChartExpressionProvider.DataPoints.OrthogonalValue=DonnÃ©es de valeur
 
 ChartExpressionProvider.ChartVariables.JavaScript=JavaScript
-ChartExpressionProvider.ChartVariables.Event=Evénement
+ChartExpressionProvider.ChartVariables.Event=EvÃ©nement
 
-ChartExpressionProvider.DataPoints.SeriesValue=Données de la série
+ChartExpressionProvider.DataPoints.SeriesValue=DonnÃ©es de la sÃ©rie
 
 ChartColumnBindingDialog.Button.Refresh=Ac&tualiser
 
-OpenChartTaskAction.Text.SelectChartType=Sé&lectionner un type de graphique...
+OpenChartTaskAction.Text.SelectChartType=SÃ©&lectionner un type de graphique...
 
-OpenChartTaskAction.Text.SelectData=Sél&ectionner des données...
+OpenChartTaskAction.Text.SelectData=SÃ©l&ectionner des donnÃ©es...
 
 OpenChartTaskAction.Text.FormatChart=Formater le grap&hique...
 
 FlipAxisAction.Text.FlipAxis=In&verser l'axe
 
-GeneralPage.Library.Included=Bibliothèque :
+GeneralPage.Library.Included=BibliothÃ¨que :
 
 ChartEventHandlerPage.dialog.Browse=& Parcourir...
 
-ReportDataServiceProvider.Label.DataModel=(Modèle de données)
+ReportDataServiceProvider.Label.DataModel=(ModÃ¨le de donnÃ©es)
 
 ReportDataServiceProvider.Option.None=<Aucun>
 
 ReportDataServiceProvider.Option.Inherits=<{0} du conteneur>
 
-ReportDataServiceProvider.Tooltip.Aggregate=Agrégat :
+ReportDataServiceProvider.Tooltip.Aggregate=AgrÃ©gat :
 
 ReportDataServiceProvider.Tooltip.GroupExpression=Expression de groupe :
 
@@ -95,96 +95,96 @@ ShowAxisAction.Text.ShowValueAxis=Afficher l'axe de valeurs
 
 StandardChartDataSheet.CheckCubeWarning=Les liaisons de colonnes doivent contenir au moins une dimension et une mesure.
 
-StandardChartDataSheet.Combo.DataCubes=---------Cubes de données---------
+StandardChartDataSheet.Combo.DataCubes=---------Cubes de donnÃ©es---------
 
-StandardChartDataSheet.Combo.DataSets=----------Jeux de données----------
+StandardChartDataSheet.Combo.DataSets=----------Jeux de donnÃ©es----------
 
-StandardChartDataSheet.Combo.InheritColumnsGroups=Hériter des colonnes et des groupes
+StandardChartDataSheet.Combo.InheritColumnsGroups=HÃ©riter des colonnes et des groupes
 
-StandardChartDataSheet.Combo.InheritColumnsOnly=Hériter des colonnes uniquement
+StandardChartDataSheet.Combo.InheritColumnsOnly=HÃ©riter des colonnes uniquement
 
-StandardChartDataSheet.Combo.ReportItems=--------Eléments d'état--------
+StandardChartDataSheet.Combo.ReportItems=--------ElÃ©ments d'Ã©tat--------
 
 StandardChartDataSheet.Label.Axis=Axe
 
-StandardChartDataSheet.Label.ToBindADataColumn=Utilisez le menu contextuel pour lier les données au graphique
+StandardChartDataSheet.Label.ToBindADataColumn=Utilisez le menu contextuel pour lier les donnÃ©es au graphique
 
-StandardChartDataSheet.Label.SelectDataSet=Sélectionner des données
+StandardChartDataSheet.Label.SelectDataSet=SÃ©lectionner des donnÃ©es
 
-StandardChartDataSheet.Label.UseReportData=&Hériter les données du conteneur
+StandardChartDataSheet.Label.UseReportData=&HÃ©riter les donnÃ©es du conteneur
 
-StandardChartDataSheet.Label.UseReportItem=Utiliser un élément de &rapport
+StandardChartDataSheet.Label.UseReportItem=Utiliser un Ã©lÃ©ment de &rapport
 
-StandardChartDataSheet.Label.UseDataSet=Utiliser les &données provenant de
+StandardChartDataSheet.Label.UseDataSet=Utiliser les &donnÃ©es provenant de
 
-StandardChartDataSheet.Label.DataPreview=Prévisualisation des données
+StandardChartDataSheet.Label.DataPreview=PrÃ©visualisation des donnÃ©es
 
-StandardChartDataSheet.Label.DataBinding=Li&aison des données...
+StandardChartDataSheet.Label.DataBinding=Li&aison des donnÃ©es...
 
 StandardChartDataSheet.Label.Filters=Fil&tres...
 
-StandardChartDataSheet.Label.Parameters=&Paramètres...
+StandardChartDataSheet.Label.Parameters=&ParamÃ¨tres...
 
-StandardChartDataSheet.Task.Description=Sélectionner les données à afficher dans le graphique et les lier à la série.
+StandardChartDataSheet.Task.Description=SÃ©lectionner les donnÃ©es Ã  afficher dans le graphique et les lier Ã  la sÃ©rie.
 
-StandardChartDataSheet.Exception.UnableToSwitchToDataset=Impossible d'utiliser le jeu de données
+StandardChartDataSheet.Exception.UnableToSwitchToDataset=Impossible d'utiliser le jeu de donnÃ©es
 
-StandardChartDataSheet.Label.InsertAggregation=Insérer une agrégation
+StandardChartDataSheet.Label.InsertAggregation=InsÃ©rer une agrÃ©gation
 
-StandardChartDataSheet.Label.DataExpressionBuilder=Générateur d'expression de données
+StandardChartDataSheet.Label.DataExpressionBuilder=GÃ©nÃ©rateur d'expression de donnÃ©es
 
-StandardChartDataSheet.Label.DragCube=Faites un clic droit avec votre souris ou faites glisser les niveaux vers Série de catégories ou Série verticale facultatives (Mesures vers Séries de valeur).
+StandardChartDataSheet.Label.DragCube=Faites un clic droit avec votre souris ou faites glisser les niveaux vers SÃ©rie de catÃ©gories ou SÃ©rie verticale facultatives (Mesures vers SÃ©ries de valeur).
 
 StandardChartDataSheet.Label.Component=\ Composant
 
-StandardChartDataSheet.Label.CubeTree=Cube de données : Groupes et résumés
+StandardChartDataSheet.Label.CubeTree=Cube de donnÃ©es : Groupes et rÃ©sumÃ©s
 
 StandardChartDataSheet.Label.Overlay=Superposition
 
-StandardChartDataSheet.Label.Series=Série
+StandardChartDataSheet.Label.Series=SÃ©rie
 
-StandardChartDataSheet.Label.ShareCrossTab=Dans la série verticale de valeurs, cliquez sur le bouton fléché et sélectionnez une mesure à partir de la liste.
+StandardChartDataSheet.Label.ShareCrossTab=Dans la sÃ©rie verticale de valeurs, cliquez sur le bouton flÃ©chÃ© et sÃ©lectionnez une mesure Ã  partir de la liste.
 
-StandardChartDataSheet.Label.ShowDataPreview=&Afficher la prévisualisation des données
+StandardChartDataSheet.Label.ShowDataPreview=&Afficher la prÃ©visualisation des donnÃ©es
 
-StandardChartDataSheet.Label.UseAsCategoryXAxis=&Utiliser comme axe horizontal de catégories
+StandardChartDataSheet.Label.UseAsCategoryXAxis=&Utiliser comme axe horizontal de catÃ©gories
 
-StandardChartDataSheet.Label.UseAsCategorySeries=&Utiliser comme série de catégories
+StandardChartDataSheet.Label.UseAsCategorySeries=&Utiliser comme sÃ©rie de catÃ©gories
 
-StandardChartDataSheet.Label.PlotAsValueYSeries=&Tracer une série verticale de valeurs
+StandardChartDataSheet.Label.PlotAsValueYSeries=&Tracer une sÃ©rie verticale de valeurs
 
 StandardChartDataSheet.Label.PlotAsGaugeValue=&Tracer une valeur de mesure
 
-StandardChartDataSheet.Label.PlotAsValueSeries=&Tracer une série de valeurs
+StandardChartDataSheet.Label.PlotAsValueSeries=&Tracer une sÃ©rie de valeurs
 
-StandardChartDataSheet.Label.UseToGroupYSeries=Utili&ser la série verticale de groupes
+StandardChartDataSheet.Label.UseToGroupYSeries=Utili&ser la sÃ©rie verticale de groupes
 
-StandardChartDataSheet.Label.EnableLivePreview=Activer l'aperçu direct du graphique
+StandardChartDataSheet.Label.EnableLivePreview=Activer l'aperÃ§u direct du graphique
 
-StandardChartDataSheet.Label.UseToGroupValueSeries=Utili&ser la série de valeurs de groupes
+StandardChartDataSheet.Label.UseToGroupValueSeries=Utili&ser la sÃ©rie de valeurs de groupes
 
-StandardChartDataSheet.Message.RetrieveData=Récupérer les données pour l'aperçu
+StandardChartDataSheet.Message.RetrieveData=RÃ©cupÃ©rer les donnÃ©es pour l'aperÃ§u
 
-StandardChartDataSheet.NewDataCube=<Nouveau cube de données>
+StandardChartDataSheet.NewDataCube=<Nouveau cube de donnÃ©es>
 
-StandardChartDataSheet.NewDataSet=<Nouveau jeu de données>
+StandardChartDataSheet.NewDataSet=<Nouveau jeu de donnÃ©es>
 
-ChartBindingGroupDescriptorProvider.DataSets.Default=---Jeux de données---
+ChartBindingGroupDescriptorProvider.DataSets.Default=---Jeux de donnÃ©es---
 
-ChartBindingGroupDescriptorProvider.DataCubes.Default=---Cubes de données---
+ChartBindingGroupDescriptorProvider.DataCubes.Default=---Cubes de donnÃ©es---
 
-BindingPage.Data.Label=Données :
+BindingPage.Data.Label=DonnÃ©es :
 
 BindingPage.ReportItem.NoName=Pas de nom
 
 Error.ChartShouldIncludeAxes=Le graphique doit inclure les axes.
 
-ChartCubeFilterConditionBuilder.Expression.CategoryItem.Prefix=Catégorie :
+ChartCubeFilterConditionBuilder.Expression.CategoryItem.Prefix=CatÃ©gorie :
 
 ChartCubeFilterConditionBuilder.Expression.ValueItemPrefix=Valeur :
 
-ChartCubeFilterConditionBuilder.Expression.YOptionItem.Prefix=Série verticale facultative
+ChartCubeFilterConditionBuilder.Expression.YOptionItem.Prefix=SÃ©rie verticale facultative
 
-ChartCubeFilterConditionBuilder.SelectValueDialog.messages.info.selectVauleUnavailable=Liste de valeurs non disponible avec l'expression spécifiée.
+ChartCubeFilterConditionBuilder.SelectValueDialog.messages.info.selectVauleUnavailable=Liste de valeurs non disponible avec l'expression spÃ©cifiÃ©e.
 
-ChartCubeFilterConditionBuilder.SelectValueDialog.messages.info.illegalVauleExpr=Seules les expressions dont le format est du type données["name"]/[name] peuvent obtenir la liste de valeurs.
+ChartCubeFilterConditionBuilder.SelectValueDialog.messages.info.illegalVauleExpr=Seules les expressions dont le format est du type donnÃ©es["name"]/[name] peuvent obtenir la liste de valeurs.

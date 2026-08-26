@@ -21,55 +21,55 @@ OptionDisplayValue.BidiProcessing=Procesamiento de BIDI
 
 OptionDisplayValue.TextWrapping=Autoajuste de texto
 
-OptionDisplayValue.TextHyphenation=SeparaciÛn con guiÛn de texto
+OptionDisplayValue.TextHyphenation=Separaci√≥n con gui√≥n de texto
 
-OptionDisplayValue.PageOverFlow=Procesamiento del desbordamiento de p·gina
+OptionDisplayValue.PageOverFlow=Procesamiento del desbordamiento de p√°gina
 
 OptionDisplayValue.CLIP_CONTENT=Cortar contenido
 
-OptionDisplayValue.FIT_TO_PAGE_SIZE=Ajustar a tamaÒo de p·gina
+OptionDisplayValue.FIT_TO_PAGE_SIZE=Ajustar a tama√±o de p√°gina
 
-OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=Salida de varias p·ginas
+OptionDisplayValue.OUTPUT_TO_MULTIPLE_PAGES=Salida de varias p√°ginas
 
-OptionDisplayValue.ENLARGE_PAGE_SIZE=Aumentar tamaÒo de p·gina
+OptionDisplayValue.ENLARGE_PAGE_SIZE=Aumentar tama√±o de p√°gina
 
-OptionDisplayValue.FontSubstitution=SustituciÛn de fuente
+OptionDisplayValue.FontSubstitution=Sustituci√≥n de fuente
 
 OptionDisplayValue.EmbeddedFont=Fuente incrustada
 
 OptionDisplayValue.ChartDpi=Diagrama DPI
 
-OptionDisplayValue.RenderChartInSVG=Procesar diagrama en los gr·ficos vectoriales
+OptionDisplayValue.RenderChartInSVG=Procesar diagrama en los gr√°ficos vectoriales
 
 OptionDisplayValue.RepaginateForPDF=Repaginar mientras se procesa el PDF
 
-OptionDisplayValue.DisableFlashAnimation=Desactivar animaciÛn Flash para impresiÛn
+OptionDisplayValue.DisableFlashAnimation=Desactivar animaci√≥n Flash para impresi√≥n
 
-OptionDisplayValue.DisablePrint=Desactivar impresiÛn
+OptionDisplayValue.DisablePrint=Desactivar impresi√≥n
 
 ###########################################################
 #Option Description
 OptionDescription.BidiProcessing=Admite texto bidireccional.
 
-OptionDescription.TextHyphenation=Compatible con la separaciÛn con guiÛn de texto.
+OptionDescription.TextHyphenation=Compatible con la separaci√≥n con gui√≥n de texto.
 
 OptionDescription.TextWrapping=Indica si el texto se puede autoajustar.
 
-OptionDescription.PageOverFlow=Controla cÛmo se va a mostrar el contenido.
+OptionDescription.PageOverFlow=Controla c√≥mo se va a mostrar el contenido.
 
-OptionDescription.FontSubstitution=Selecciona fuentes autom·ticamente cuando la fuente especificada no puede mostrar el car·cter.
+OptionDescription.FontSubstitution=Selecciona fuentes autom√°ticamente cuando la fuente especificada no puede mostrar el car√°cter.
 
-OptionDescription.EmbeddedFont=La fuente de tipo true estar· incrustada en el archivo PDF generado.
+OptionDescription.EmbeddedFont=La fuente de tipo true estar√° incrustada en el archivo PDF generado.
 
 OptionDescription.ChartDpi=El DPI utilizado para generar el diagrama.
 
-OptionDescription.RenderChartInSVG=Procesar diagrama en los gr·ficos vectoriales.
+OptionDescription.RenderChartInSVG=Procesar diagrama en los gr√°ficos vectoriales.
 
 OptionDescription.RepaginateForPDF=Repaginar mientras se procesa el PDF.
 
-OptionDescription.DisableFlashAnimation=Desactivar la animaciÛn Flash para la impresiÛn.
+OptionDescription.DisableFlashAnimation=Desactivar la animaci√≥n Flash para la impresi√≥n.
 
-OptionDescription.DisablePrint=Desactivar la impresiÛn.
+OptionDescription.DisablePrint=Desactivar la impresi√≥n.
 
 ###########################################################
 #tooltip

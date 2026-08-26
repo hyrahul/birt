@@ -11,72 +11,72 @@
 #************************************************************************
 #
 # User messages for the Excel File ODA Runtime Driver
-connection_CONNECTION_PROPERTIES_MISSING=¿¬°á ¼Ó¼ºÀÌ ´©¶ôµÇ¾ú½À´Ï´Ù.
+connection_CONNECTION_PROPERTIES_MISSING=ì—°ê²° ì†ì„±ì´ ëˆ„ë½ë˜ì—ˆìŠµë‹ˆë‹¤.
 #connection_CANNOT_OPEN_EXCEL_FILE_DB_DIR=Cannot open Excel file under directory:
-connection_MISSING_FILELOCATION=Excel µ¥ÀÌÅÍ ¿øº» ÆÄÀÏ ¼Ó¼ºÀÌ Á¤ÀÇµÇÁö ¾Ê¾Ò½À´Ï´Ù. Excel ÀÔ·Â ÆÄÀÏ¿¡ ´ëÇÑ ÆÄÀÏ °æ·Î ¶Ç´Â URI°¡ ÇÊ¿äÇÕ´Ï´Ù.
+connection_MISSING_FILELOCATION=Excel ë°ì´í„° ì›ë³¸ íŒŒì¼ ì†ì„±ì´ ì •ì˜ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤. Excel ìž…ë ¥ íŒŒì¼ì— ëŒ€í•œ íŒŒì¼ ê²½ë¡œ ë˜ëŠ” URIê°€ í•„ìš”í•©ë‹ˆë‹¤.
 
-connection_invalidSource=Excel µ¥ÀÌÅÍ ¿øº» ÆÄÀÏ¿¡ ´ëÇØ ÁöÁ¤µÈ URI°¡ À¯È¿ÇÏÁö ¾Ê°Å³ª Àß¸øµÇ¾ú½À´Ï´Ù.
+connection_invalidSource=Excel ë°ì´í„° ì›ë³¸ íŒŒì¼ì— ëŒ€í•´ ì§€ì •ëœ URIê°€ ìœ íš¨í•˜ì§€ ì•Šê±°ë‚˜ ìž˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-connection_missingResourceIdentifier=Excel µ¥ÀÌÅÍ ¿øº»ÀÇ »ó´ë °æ·Î¸¦ ÇØ°áÇÒ ¸®¼Ò½º ½Äº°ÀÚ°¡ ¾ø½À´Ï´Ù.
+connection_missingResourceIdentifier=Excel ë°ì´í„° ì›ë³¸ì˜ ìƒëŒ€ ê²½ë¡œë¥¼ í•´ê²°í•  ë¦¬ì†ŒìŠ¤ ì‹ë³„ìžê°€ ì—†ìŠµë‹ˆë‹¤.
 
-fileSource_excelFileNotFound=ÁöÁ¤µÈ Excel µ¥ÀÌÅÍ ¿øº» Æú´õ ¶Ç´Â ÆÄÀÏ({0})À» Ã£À» ¼ö ¾ø½À´Ï´Ù.
+fileSource_excelFileNotFound=ì§€ì •ëœ Excel ë°ì´í„° ì›ë³¸ í´ë” ë˜ëŠ” íŒŒì¼({0})ì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-query_COMMAND_IS_EMPTY=Äõ¸® ¸í·ÉÀÌ ºñ¾î ÀÖ½À´Ï´Ù.
+query_COMMAND_IS_EMPTY=ì¿¼ë¦¬ ëª…ë ¹ì´ ë¹„ì–´ ìžˆìŠµë‹ˆë‹¤.
 
-query_DO_NOT_SUPPORT_CROSS_TABLE_QUERY=±³Â÷ Å×ÀÌºí Äõ¸®´Â Áö¿øµÇÁö ¾Ê½À´Ï´Ù.
+query_DO_NOT_SUPPORT_CROSS_TABLE_QUERY=êµì°¨ í…Œì´ë¸” ì¿¼ë¦¬ëŠ” ì§€ì›ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-query_COMMAND_NOT_VALID=Á¦°øµÈ Excel ÆÄÀÏÀÇ ¸Ó¸®±Û Á¤º¸°¡ Àß¸øµÇ¾ú½À´Ï´Ù.
+query_COMMAND_NOT_VALID=ì œê³µëœ Excel íŒŒì¼ì˜ ë¨¸ë¦¬ê¸€ ì •ë³´ê°€ ìž˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-query_ARGUMENT_ERROR=ÀÎ¼ö´Â 'ÀÌ¸§'ÀÌ³ª Çü½Ä'ÀÌ¾î¾ß ÇÕ´Ï´Ù.
+query_ARGUMENT_ERROR=ì¸ìˆ˜ëŠ” 'ì´ë¦„'ì´ë‚˜ í˜•ì‹'ì´ì–´ì•¼ í•©ë‹ˆë‹¤.
 
-query_IO_EXCEPTION=ÆÄÀÏÀ» ÀÐ´Â µ¿¾È I/O ¿¹¿Ü°¡ ¹ß»ýÇß½À´Ï´Ù.
+query_IO_EXCEPTION=íŒŒì¼ì„ ì½ëŠ” ë™ì•ˆ I/O ì˜ˆì™¸ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.
 
-query_SOURCE_DATA_ERROR=¿øº» µ¥ÀÌÅÍ¿¡ Áßº¹µÈ ¿­ ÀÌ¸§ÀÌ ÀÖ½À´Ï´Ù.
+query_SOURCE_DATA_ERROR=ì›ë³¸ ë°ì´í„°ì— ì¤‘ë³µëœ ì—´ ì´ë¦„ì´ ìžˆìŠµë‹ˆë‹¤.
 
-query_COLUMN_NAME_ERROR=¿­ ÀÌ¸§ ¿À·ù
+query_COLUMN_NAME_ERROR=ì—´ ì´ë¦„ ì˜¤ë¥˜
 
-query_INVALID_EXCEL_FILE=¿öÅ©½ÃÆ®¿¡ µ¥ÀÌÅÍ°¡ ¾ø½À´Ï´Ù. ´Ù¸¥ ½ÃÆ®¸¦ ¼±ÅÃÇÏ½Ê½Ã¿À.
+query_INVALID_EXCEL_FILE=ì›Œí¬ì‹œíŠ¸ì— ë°ì´í„°ê°€ ì—†ìŠµë‹ˆë‹¤. ë‹¤ë¥¸ ì‹œíŠ¸ë¥¼ ì„ íƒí•˜ì‹­ì‹œì˜¤.
 
-query_text_error=Äõ¸® ÅØ½ºÆ® ¼­½Ä ¿À·ù
+query_text_error=ì¿¼ë¦¬ í…ìŠ¤íŠ¸ ì„œì‹ ì˜¤ë¥˜
 
-query_WORKSHEET_CANNOT_BE_NULL=¿öÅ©½ÃÆ® ÀÌ¸§Àº ³Î(null)ÀÌ µÉ ¼ö ¾ø½À´Ï´Ù.
+query_WORKSHEET_CANNOT_BE_NULL=ì›Œí¬ì‹œíŠ¸ ì´ë¦„ì€ ë„(null)ì´ ë  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-resultSet_COLUMN_NOT_FOUND=¿­ ¾øÀ½:
+resultSet_COLUMN_NOT_FOUND=ì—´ ì—†ìŒ:
 
-resultSet_CURSOR_HAS_NOT_BEEN_INITIALIZED=Ä¿¼­°¡ ¾ÆÁ÷ ÃÊ±âÈ­µÇÁö ¾Ê¾Ò½À´Ï´Ù.
+resultSet_CURSOR_HAS_NOT_BEEN_INITIALIZED=ì»¤ì„œê°€ ì•„ì§ ì´ˆê¸°í™”ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
 
-resultSetMetaData_INVALID_COLUMN_INDEX=Àß¸øµÈ ¿­ ÀÎµ¦½º:
+resultSetMetaData_INVALID_COLUMN_INDEX=ìž˜ëª»ëœ ì—´ ì¸ë±ìŠ¤:
 
-savedSelectedColumnsInfoString_INVALID=Àß¸ø ÀúÀåµÈ ¿­ Á¤º¸
+savedSelectedColumnsInfoString_INVALID=ìž˜ëª» ì €ìž¥ëœ ì—´ ì •ë³´
 
-dataTypes_TYPE_NAME_INVALID=Àß¸øµÈ µ¥ÀÌÅÍ Çü½Ä ÀÌ¸§:
+dataTypes_TYPE_NAME_INVALID=ìž˜ëª»ëœ ë°ì´í„° í˜•ì‹ ì´ë¦„:
 
-dataSetMetaData_PRODUCT_NAME=Excel ODA µ¥ÀÌÅÍ ¿øº» °ø±ÞÀÚ
+dataSetMetaData_PRODUCT_NAME=Excel ODA ë°ì´í„° ì›ë³¸ ê³µê¸‰ìž
 
-common_ARGUMENT_CANNOT_BE_NULL=ÀÎ¼ö´Â ³Î(null)ÀÏ ¼ö ¾ø½À´Ï´Ù.
+common_ARGUMENT_CANNOT_BE_NULL=ì¸ìˆ˜ëŠ” ë„(null)ì¼ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-common_CONNECTION_HAS_NOT_OPEN=¿¬°áÀÌ ¿­¸®Áö ¾Ê½À´Ï´Ù.
+common_CONNECTION_HAS_NOT_OPEN=ì—°ê²°ì´ ì—´ë¦¬ì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-common_CANNOT_FIND_COLUMN=¿­À» Ã£À» ¼ö ¾ø½À´Ï´Ù.
+common_CANNOT_FIND_COLUMN=ì—´ì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-common_NULL_QUERY_TEXT = Äõ¸® ÅØ½ºÆ®°¡ NullÀÔ´Ï´Ù.
+common_NULL_QUERY_TEXT = ì¿¼ë¦¬ í…ìŠ¤íŠ¸ê°€ Nullìž…ë‹ˆë‹¤.
 
-data_read_error=µ¥ÀÌÅÍ¸¦ Á¤È®ÇÏ°Ô ÀÐÀ» ¼ö ¾ø½À´Ï´Ù. ¿øº» µ¥ÀÌÅÍ°¡ º¯°æµÈ °Í °°½À´Ï´Ù.
+data_read_error=ë°ì´í„°ë¥¼ ì •í™•í•˜ê²Œ ì½ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤. ì›ë³¸ ë°ì´í„°ê°€ ë³€ê²½ëœ ê²ƒ ê°™ìŠµë‹ˆë‹¤.
 
-Invalid_column_name = Àß¸øµÈ ¿­ ÀÌ¸§ÀÔ´Ï´Ù.
+Invalid_column_name = ìž˜ëª»ëœ ì—´ ì´ë¦„ìž…ë‹ˆë‹¤.
 
-invalid_excelfile_format = Àß¸øµÈ Excel ÆÄÀÏ Çü½Ä
+invalid_excelfile_format = ìž˜ëª»ëœ Excel íŒŒì¼ í˜•ì‹
 
-date_format_null = ³¯Â¥ Çü½ÄÀº ³Î(null)ÀÌ µÉ ¼ö ¾ø½À´Ï´Ù.
+date_format_null = ë‚ ì§œ í˜•ì‹ì€ ë„(null)ì´ ë  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-invalid_date_value = {0}À»(¸¦) À¯È¿ÇÑ ³¯Â¥·Î ±¸¹® ºÐ¼®ÇÒ ¼ö ¾ø½À´Ï´Ù. µ¥ÀÌÅÍ ÁýÇÕ ¼Ó¼ºÀÇ ³¯Â¥ Çü½ÄÀ» È®ÀÎÇÏ½Ê½Ã¿À.
+invalid_date_value = {0}ì„(ë¥¼) ìœ íš¨í•œ ë‚ ì§œë¡œ êµ¬ë¬¸ ë¶„ì„í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. ë°ì´í„° ì§‘í•© ì†ì„±ì˜ ë‚ ì§œ í˜•ì‹ì„ í™•ì¸í•˜ì‹­ì‹œì˜¤.
 
-invalid_sheet_name = ÀÔ·ÂÇÑ ÆÄÀÏ¿¡ ÀÌ¸§ÀÌ {0}ÀÎ ½ÃÆ®°¡ ¾ø½À´Ï´Ù.
+invalid_sheet_name = ìž…ë ¥í•œ íŒŒì¼ì— ì´ë¦„ì´ {0}ì¸ ì‹œíŠ¸ê°€ ì—†ìŠµë‹ˆë‹¤.
 
-query_streamClosed=´ÝÈù ½ºÆ®¸²
+query_streamClosed=ë‹«ížŒ ìŠ¤íŠ¸ë¦¼
 
-query_invalidTableName=Àß¸øµÈ Å×ÀÌºí ÀÌ¸§:
+query_invalidTableName=ìž˜ëª»ëœ í…Œì´ë¸” ì´ë¦„:
 
-dateUtil.ConvertFails=³¯Â¥·Î º¯È¯ ½ÇÆÐ ¿øº»:
+dateUtil.ConvertFails=ë‚ ì§œë¡œ ë³€í™˜ ì‹¤íŒ¨ ì›ë³¸:
 
-dateFormatISO_cannotConvert={0}ÀÇ °ªÀ» º¯È¯ÇÒ ¼ö ¾ø½À´Ï´Ù.
+dateFormatISO_cannotConvert={0}ì˜ ê°’ì„ ë³€í™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.

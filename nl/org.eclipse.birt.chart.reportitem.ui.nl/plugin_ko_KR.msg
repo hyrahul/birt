@@ -9,6 +9,6 @@
 #  Actuate Corporation  - initial API and implementation
 ###############################################################################
 
-preference.chart=Â÷Æ®
-menu.lable.chart=Â÷Æ®(&C)
-preference.description=Â÷Æ® Ç×¸ñÀ» »ğÀÔÇÕ´Ï´Ù.
+preference.chart=ì°¨íŠ¸
+menu.lable.chart=ì°¨íŠ¸(&C)
+preference.description=ì°¨íŠ¸ í•­ëª©ì„ ì‚½ì…í•©ë‹ˆë‹¤.

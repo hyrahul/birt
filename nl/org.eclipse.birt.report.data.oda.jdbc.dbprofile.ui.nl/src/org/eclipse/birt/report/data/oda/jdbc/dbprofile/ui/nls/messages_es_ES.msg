@@ -11,28 +11,28 @@
 #  
 #************************************************************************
 #
-sqbWizPage_cannotOpenConnectionMsg=No es posible establecer la conexión para compilar consultas SQL. Compruebe las propiedades de conexión de la fuente de datos.
+sqbWizPage_cannotOpenConnectionMsg=No es posible establecer la conexiÃ³n para compilar consultas SQL. Compruebe las propiedades de conexiÃ³n de la fuente de datos.
 
-sqbWizPage_cannotOpenConnectionTitle=Error de conexión
+sqbWizPage_cannotOpenConnectionTitle=Error de conexiÃ³n
 
-sqbWizPage_dataSourceDesignError=Error de diseño de fuente de datos
+sqbWizPage_dataSourceDesignError=Error de diseÃ±o de fuente de datos
 
 sqbWizPage_dbErrorMsg=Mensaje de error de la base de datos:
 
-sqbWizPage_defaultMessage=Compilar una consulta de selección de SQL.
+sqbWizPage_defaultMessage=Compilar una consulta de selecciÃ³n de SQL.
 
-sqbWizPage_detectExternalSqlTextChangedMsg=Se ha modificado externamente el texto de la consulta SQL en el diseño del conjunto de datos. ¿Desea reemplazar el contenido del compilador de consultas SQL con estos cambios?
+sqbWizPage_detectExternalSqlTextChangedMsg=Se ha modificado externamente el texto de la consulta SQL en el diseÃ±o del conjunto de datos. Â¿Desea reemplazar el contenido del compilador de consultas SQL con estos cambios?
 
 sqbWizPage_detectSqlTextChangedTitle=Texto modificado en la consulta SQL
 
-sqbWizPage_inputFailOnOpenAskUserMessage=¿Desea continuar?
+sqbWizPage_inputFailOnOpenAskUserMessage=Â¿Desea continuar?
 
 sqbWizPage_invalidSqbStateMsg=No es posible restaurar el compilador de consultas SQL al estado anterior.
 
-sqbWizPage_invalidSqbStateTitle=Estado del compilador de consultas SQL no válido
+sqbWizPage_invalidSqbStateTitle=Estado del compilador de consultas SQL no vÃ¡lido
 
-sqbWizPage_noConnProfileMsg=No se encuentra el perfil de conexión de la base de datos o no es válido. No es posible abrir el compilador de consultas SQL.
+sqbWizPage_noConnProfileMsg=No se encuentra el perfil de conexiÃ³n de la base de datos o no es vÃ¡lido. No es posible abrir el compilador de consultas SQL.
 
 sqbWizPage_connectingDB=Conectando con la base de datos...
 
-sqbDesignState_invalidSqbStateVersion=La versión guardada en el estado del compilador de consultas SQL no es válida.
+sqbDesignState_invalidSqbStateVersion=La versiÃ³n guardada en el estado del compilador de consultas SQL no es vÃ¡lida.

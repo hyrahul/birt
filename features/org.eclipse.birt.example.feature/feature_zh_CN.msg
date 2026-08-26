@@ -24,7 +24,7 @@ providerName=Eclipse.org
 updateSiteName=Business Intellegence and Reporting Tool (BIRT) Updates
 
 # "description" property - description of the feature
-description=Eclipse ��ҵ���ܼ������� (BIRT) ������������������ʱ���û��ĵ���
+description=Eclipse 锟斤拷业锟斤拷锟杰硷拷锟斤拷锟斤拷锟斤拷 (BIRT) 锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷时锟斤拷锟矫伙拷锟侥碉拷锟斤拷
 
 # "copyright" property
 copyrightURL=https://eclipse-birt.github.io/birt-website

@@ -1,66 +1,66 @@
-JavaxImageIOWriter.exception.no.bounds=·»´õ¸µÀ» ½ÃÀÛÇÏ±â Àü¿¡ ÀÌ¹ÌÁöÀÇ ¹ÙÀÎµùÀ» ÁöÁ¤ÇØ¾ß ÇÕ´Ï´Ù.
+JavaxImageIOWriter.exception.no.bounds=ë Œë”ë§ì„ ì‹œì‘í•˜ê¸° ì „ì— ì´ë¯¸ì§€ì˜ ë°”ì¸ë”©ì„ ì§€ì •í•´ì•¼ í•©ë‹ˆë‹¤.
 
-JavaxImageIOWriter.exception.invalid.image.size=ÁöÁ¤µÈ ÀÌ¹ÌÁöÀÇ ³Êºñ ¶Ç´Â ³ôÀÌ°¡ Àß¸øµÇ¾ú½À´Ï´Ù(<=0).
+JavaxImageIOWriter.exception.invalid.image.size=ì§€ì •ëœ ì´ë¯¸ì§€ì˜ ë„ˆë¹„ ë˜ëŠ” ë†’ì´ê°€ ì˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤(<=0).
 
-JavaxImageIOWriter.exception.no.imagewriter.mimetype.and.format={2}ÀÇ MIME Çü½Ä [{0}] ¹× Çü½Ä [{1}]¿¡ ´ëÇØ µî·ÏµÈ ÀÌ¹ÌÁö ÀÛ¼º±â¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù.
+JavaxImageIOWriter.exception.no.imagewriter.mimetype.and.format={2}ì˜ MIME í˜•ì‹ [{0}] ë° í˜•ì‹ [{1}]ì— ëŒ€í•´ ë“±ë¡ëœ ì´ë¯¸ì§€ ì‘ì„±ê¸°ë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-JavaxImageIOWriter.exception.no.imagewriter.mimetype=MIME Çü½Ä [{0}]¿¡ ´ëÇØ µî·ÏµÈ ÀÌ¹ÌÁö ÀÛ¼º±â¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù.
+JavaxImageIOWriter.exception.no.imagewriter.mimetype=MIME í˜•ì‹ [{0}]ì— ëŒ€í•´ ë“±ë¡ëœ ì´ë¯¸ì§€ ì‘ì„±ê¸°ë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-JavaxImageIOWriter.info.using.imagewriter={0} ÀÌ¹ÌÁö ÀÛ¼º±â {1} »ç¿ë
+JavaxImageIOWriter.info.using.imagewriter={0} ì´ë¯¸ì§€ ì‘ì„±ê¸° {1} ì‚¬ìš©
 
-JavaxImageIOWriter.exception.caption=¿¹¿Ü:
+JavaxImageIOWriter.exception.caption=ì˜ˆì™¸:
 
-JavaxImageIOWriter.wrapped.caption=·¦ À§Ä¡:
+JavaxImageIOWriter.wrapped.caption=ë© ìœ„ì¹˜:
 
-JavaxImageIOWriter.message.caption=¸Ş½ÃÁö:
+JavaxImageIOWriter.message.caption=ë©”ì‹œì§€:
 
-JavaxImageIOWriter.trace.caption=ÃßÀû:
+JavaxImageIOWriter.trace.caption=ì¶”ì :
 
 JavaxImageIOWriter.trace.detail={0}:{1}(...):{2}
-Chunk.exception.invalid.png.chunk=Àß¸øµÈ PNG Ã»Å© Çü½Ä: {0}
+Chunk.exception.invalid.png.chunk=ì˜ëª»ëœ PNG ì²­í¬ í˜•ì‹: {0}
 
-BmpRendererImpl.exception.unable.write.output.identifier=[{0}]¿¡¼­ Á¤ÀÇµÈ Ãâ·Â ÇÚµé¿¡ Â÷Æ® ÀÌ¹ÌÁö¸¦ ¾µ ¼ö ¾ø½À´Ï´Ù.
+BmpRendererImpl.exception.unable.write.output.identifier=[{0}]ì—ì„œ ì •ì˜ëœ ì¶œë ¥ í•¸ë“¤ì— ì°¨íŠ¸ ì´ë¯¸ì§€ë¥¼ ì“¸ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-BmpRendererImpl.info.use.custom.image.writer=ÀÌ¹ÌÁö Çü½Ä [{0}]¿¡ ´ëÇØ »ç¿ëÀÚ ÁöÁ¤ ÀÌ¹ÌÁö ÀÛ¼º±â [{1}] »ç¿ë
+BmpRendererImpl.info.use.custom.image.writer=ì´ë¯¸ì§€ í˜•ì‹ [{0}]ì— ëŒ€í•´ ì‚¬ìš©ì ì§€ì • ì´ë¯¸ì§€ ì‘ì„±ê¸° [{1}] ì‚¬ìš©
 
-PngWriter.exception.error.open.fileoutputstream=FileOutputStreamÀ» ¿©´Â µ¿¾È IOException ¹ß»ı : {0}
+PngWriter.exception.error.open.fileoutputstream=FileOutputStreamì„ ì—¬ëŠ” ë™ì•ˆ IOException ë°œìƒ : {0}
 
-PngWriter.exception.error.create.imageproducer=ÀÌ¹ÌÁö Á¦ÀÛÀÚ¸¦ ¸¸µé ¼ö ¾ø½À´Ï´Ù.
+PngWriter.exception.error.create.imageproducer=ì´ë¯¸ì§€ ì œì‘ìë¥¼ ë§Œë“¤ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-PngWriter.error.fail.cleanup.tempfile=[{0}] ÀÓ½Ã ÆÄÀÏÀ» Á¤¸®ÇÏÁö ¸øÇß½À´Ï´Ù.
+PngWriter.error.fail.cleanup.tempfile=[{0}] ì„ì‹œ íŒŒì¼ì„ ì •ë¦¬í•˜ì§€ ëª»í–ˆìŠµë‹ˆë‹¤.
 
-PngWriter.error.open.randomaccessfile=RandomAccessFileÀ» ¿©´Â µ¿¾È RandomAccessFile ¹ß»ı : {0}
+PngWriter.error.open.randomaccessfile=RandomAccessFileì„ ì—¬ëŠ” ë™ì•ˆ RandomAccessFile ë°œìƒ : {0}
 
-PngWriter.info.save.elapse.time={0}À¸·Î ÀÌ¹ÌÁö ÀúÀå [°æ°ú ½Ã°£ = {1} ms]
+PngWriter.info.save.elapse.time={0}ìœ¼ë¡œ ì´ë¯¸ì§€ ì €ì¥ [ê²½ê³¼ ì‹œê°„ = {1} ms]
 
-SwingImageCache.exception.media.tracker=MediaTracker°¡ {0}¿¡¼­ ¿À·ù¸¦ ¹İÈ¯Çß½À´Ï´Ù.
+SwingImageCache.exception.media.tracker=MediaTrackerê°€ {0}ì—ì„œ ì˜¤ë¥˜ë¥¼ ë°˜í™˜í–ˆìŠµë‹ˆë‹¤.
 
-SwingImageCache.info.loading.swing.image={0}¿¡¼­ SWING ÀÌ¹ÌÁö¸¦ ·ÎµåÇÏ´Â Áß
+SwingImageCache.info.loading.swing.image={0}ì—ì„œ SWING ì´ë¯¸ì§€ë¥¼ ë¡œë“œí•˜ëŠ” ì¤‘
 
-SwingImageCache.info.using.swing.cached.image={0}¿¡¼­ Ä³½ÃµÈ SWING ÀÌ¹ÌÁö »ç¿ë
+SwingImageCache.info.using.swing.cached.image={0}ì—ì„œ ìºì‹œëœ SWING ì´ë¯¸ì§€ ì‚¬ìš©
 
-SwingImageCache.info.flushed.swing.images={0}°³ÀÇ Ä³½ÃµÈ SWING ÀÌ¹ÌÁö°¡ ÇÃ·¯½ÃµÇ¾ú½À´Ï´Ù.
+SwingImageCache.info.flushed.swing.images={0}ê°œì˜ ìºì‹œëœ SWING ì´ë¯¸ì§€ê°€ í”ŒëŸ¬ì‹œë˜ì—ˆìŠµë‹ˆë‹¤.
 
-SwingRendererImpl.exception.gradient.angle=°¢µµ={0}¿¡¼­ ±×¶óµ¥ÀÌ¼ÇÀ» ·»´õ¸µÇÒ ¼ö ¾ø½À´Ï´Ù. Áö¿øµÇ´Â ¹üÀ§´Â [90 >= 0 >= -90]ÀÔ´Ï´Ù.
+SwingRendererImpl.exception.gradient.angle=ê°ë„={0}ì—ì„œ ê·¸ë¼ë°ì´ì…˜ì„ ë Œë”ë§í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. ì§€ì›ë˜ëŠ” ë²”ìœ„ëŠ” [90 >= 0 >= -90]ì…ë‹ˆë‹¤.
 
-SwingRendererImpl.exception.unspecified.text.rendering.action=ÁöÁ¤µÇÁö ¾ÊÀº ÅØ½ºÆ® ·»´õ¸µ ÀÛ¾÷ÀÔ´Ï´Ù. TextRenderEvent.setAction(...)ÀÌ ¿Ã¹Ù¸£°Ô È£ÃâµÇÁö ¾Ê¾Ò½À´Ï´Ù.
+SwingRendererImpl.exception.unspecified.text.rendering.action=ì§€ì •ë˜ì§€ ì•Šì€ í…ìŠ¤íŠ¸ ë Œë”ë§ ì‘ì—…ì…ë‹ˆë‹¤. TextRenderEvent.setAction(...)ì´ ì˜¬ë°”ë¥´ê²Œ í˜¸ì¶œë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.
 
-SwingRendererImpl.exception.missing.component.interaction=IUpdateNotifier°¡ ·»´õ·¯¿Í ¿¬°áµÇ¾î ÀÖÁö ¾ÊÀ¸¸é »óÈ£ ÀÛ¿ëÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.
+SwingRendererImpl.exception.missing.component.interaction=IUpdateNotifierê°€ ë Œë”ëŸ¬ì™€ ì—°ê²°ë˜ì–´ ìˆì§€ ì•Šìœ¼ë©´ ìƒí˜¸ ì‘ìš©ì„ ì‚¬ìš©í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-SwingRendererImpl.info.using.graphics.context=±×·¡ÇÈ ÄÁÅØ½ºÆ® {0} »ç¿ë
+SwingRendererImpl.info.using.graphics.context=ê·¸ë˜í”½ ì»¨í…ìŠ¤íŠ¸ {0} ì‚¬ìš©
 
-SwingTextMetrics.exception.undefined.shadow.color=±×¸²ÀÚ¸¦ Á¤ÀÇµÇÁö ¾ÊÀº »öÀ¸·Î ·»´õ¸µÇÒ ¼ö ¾ø½À´Ï´Ù.
+SwingTextMetrics.exception.undefined.shadow.color=ê·¸ë¦¼ìë¥¼ ì •ì˜ë˜ì§€ ì•Šì€ ìƒ‰ìœ¼ë¡œ ë Œë”ë§í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-SwingTextMetrics.exception.undefined.text.color=ÅØ½ºÆ®¸¦ Á¤ÀÇµÇÁö ¾ÊÀº »öÀ¸·Î ·»´õ¸µÇÒ ¼ö ¾ø½À´Ï´Ù.
+SwingTextMetrics.exception.undefined.text.color=í…ìŠ¤íŠ¸ë¥¼ ì •ì˜ë˜ì§€ ì•Šì€ ìƒ‰ìœ¼ë¡œ ë Œë”ë§í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-SwingEventHandler.info.toggle.visibility=Ç¥½Ã À¯Çü ÀüÈ¯: {0}
+SwingEventHandler.info.toggle.visibility=í‘œì‹œ ìœ í˜• ì „í™˜: {0}
 
-SwingEventHandler.info.toggle.datapoint.visibility=µ¥ÀÌÅÍ ¿ä¼Ò Ç¥½Ã À¯Çü ÀüÈ¯: {0}
+SwingEventHandler.info.toggle.datapoint.visibility=ë°ì´í„° ìš”ì†Œ í‘œì‹œ ìœ í˜• ì „í™˜: {0}
 
-SwingEventHandler.info.cannot.find.series=·±Å¸ÀÓ °è¿­¿¡ ´ëÇÑ µğÀÚÀÎ Å¸ÀÓ °è¿­À» Ã£À» ¼ö ¾ø½À´Ï´Ù: {0}
+SwingEventHandler.info.cannot.find.series=ëŸ°íƒ€ì„ ê³„ì—´ì— ëŒ€í•œ ë””ìì¸ íƒ€ì„ ê³„ì—´ì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤: {0}
 
-SwingEventHandler.info.improper.callback.notifier=¾Ë¸²: [{0}]ÀÌ(°¡) °Ë»öµÇ¾úÁö¸¸ ICallBackNotifer ½ÇÇàÀÚ°¡ ÇÊ¿äÇÕ´Ï´Ù.
+SwingEventHandler.info.improper.callback.notifier=ì•Œë¦¼: [{0}]ì´(ê°€) ê²€ìƒ‰ë˜ì—ˆì§€ë§Œ ICallBackNotifer ì‹¤í–‰ìê°€ í•„ìš”í•©ë‹ˆë‹¤.
 
-SwingEventHandler.info.redirect.url=´ÙÀ½ URL·Î ¸®µğ·º¼Ç: {0}
+SwingEventHandler.info.redirect.url=ë‹¤ìŒ URLë¡œ ë¦¬ë””ë ‰ì…˜: {0}
 
 SwingDisplayServer.info.display.server=SWING Display Server: {0} v{1}

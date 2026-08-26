@@ -8,6 +8,6 @@
 # * Contributors:
 # *  Actuate Corporation  - initial API and implementation
 # *******************************************************************************/
-TOO_SMALL_CHART_DPI=Die Diagrammauflösung darf nicht geringer als 96 DPI sein, da das Diagramm ansonsten mit der Rendern-DPI im Ausführungskontext verarbeitet wird.
+TOO_SMALL_CHART_DPI=Die DiagrammauflÃ¶sung darf nicht geringer als 96 DPI sein, da das Diagramm ansonsten mit der Rendern-DPI im AusfÃ¼hrungskontext verarbeitet wird.
 
-INVALID_CHART_DPI=Diagrammauflösung nicht erkannt\!
+INVALID_CHART_DPI=DiagrammauflÃ¶sung nicht erkannt\!

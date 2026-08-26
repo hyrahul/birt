@@ -11,28 +11,28 @@
 #  
 #************************************************************************
 #
-sqbWizPage_cannotOpenConnectionMsg=SQL �N�G�����\�z���邽�߂̐ڑ����m���ł��܂���B�f�[�^�\�[�X�̐ڑ��v���p�e�B���m�F���Ă��������B
+sqbWizPage_cannotOpenConnectionMsg=SQL クエリを構築するための接続が確立できません。データソースの接続プロパティを確認してください。
 
-sqbWizPage_cannotOpenConnectionTitle=�ڑ��G���[
+sqbWizPage_cannotOpenConnectionTitle=接続エラー
 
-sqbWizPage_dataSourceDesignError=�f�[�^�\�[�X�f�U�C���G���[
+sqbWizPage_dataSourceDesignError=データソースデザインエラー
 
-sqbWizPage_dbErrorMsg=�f�[�^�x�[�X�G���[���b�Z�[�W :
+sqbWizPage_dbErrorMsg=データベースエラーメッセージ :
 
-sqbWizPage_defaultMessage=SQL Select �N�G�����\�z���܂��B
+sqbWizPage_defaultMessage=SQL Select クエリを構築します。
 
-sqbWizPage_detectExternalSqlTextChangedMsg=SQL �N�G���e�L�X�g���A�f�[�^�Z�b�g�f�U�C���ɂĊO���ŕύX����܂����BSQL �N�G���r���_�̃R���e���c�����̕ύX���e�ƒu�����܂����H
+sqbWizPage_detectExternalSqlTextChangedMsg=SQL クエリテキストが、データセットデザインにて外部で変更されました。SQL クエリビルダのコンテンツをこの変更内容と置換しますか？
 
-sqbWizPage_detectSqlTextChangedTitle=SQL �N�G���e�L�X�g���ύX����܂����B
+sqbWizPage_detectSqlTextChangedTitle=SQL クエリテキストが変更されました。
 
-sqbWizPage_inputFailOnOpenAskUserMessage=���s���Ă�낵���ł��� ?
+sqbWizPage_inputFailOnOpenAskUserMessage=続行してよろしいですか ?
 
-sqbWizPage_invalidSqbStateMsg=SQL �N�G���r���_�����̏�Ԃɖ߂��܂���B
+sqbWizPage_invalidSqbStateMsg=SQL クエリビルダを元の状態に戻せません。
 
-sqbWizPage_invalidSqbStateTitle=SQL �N�G���r���_�̏�Ԃ������ł��B
+sqbWizPage_invalidSqbStateTitle=SQL クエリビルダの状態が無効です。
 
-sqbWizPage_noConnProfileMsg=�f�[�^�x�[�X�ڑ��v���t�@�C����������Ȃ��������ł��BSQL �N�G���r���_���J���܂���B
+sqbWizPage_noConnProfileMsg=データベース接続プロファイルが見つからないか無効です。SQL クエリビルダを開けません。
 
-sqbWizPage_connectingDB=�f�[�^�x�[�X�ɐڑ�...
+sqbWizPage_connectingDB=データベースに接続...
 
-sqbDesignState_invalidSqbStateVersion=�ۑ����ꂽSQL �N�G���r���_�̏�Ԃ̃o�[�W�����������ł��B
+sqbDesignState_invalidSqbStateVersion=保存されたSQL クエリビルダの状態のバージョンが無効です。

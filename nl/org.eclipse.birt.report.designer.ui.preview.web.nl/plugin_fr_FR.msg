@@ -1,37 +1,37 @@
 ###############################################################################
 # Preview Framework
 ###############################################################################
-designer.preview.previewtoolbarmenuaction.label=Afficher l'état
+designer.preview.previewtoolbarmenuaction.label=Afficher l'Ã©tat
 
-designer.preview.previewcascadingmenugroup.label=Affiche&r l'état
+designer.preview.previewcascadingmenugroup.label=Affiche&r l'Ã©tat
 
 document.preview.previewtoolbarmenuaction.label=Afficher le document
 
 document.preview.previewmenugroup.label=Afficher le &document
 
-ActionSet.Preview=Aperçu
+ActionSet.Preview=AperÃ§u
 
-ActionSet.PreviewWithSecurity=Aperçu du document
+ActionSet.PreviewWithSecurity=AperÃ§u du document
 
-Action.GenDocument=Générer le &document
+Action.GenDocument=GÃ©nÃ©rer le &document
 
-template.preview=&Aperçu
+template.preview=&AperÃ§u
 
-design.preview=&Aperçu
+design.preview=&AperÃ§u
 
-preference.preview=Aperçu
+preference.preview=AperÃ§u
 
-preference.preview.server=Serveur de prévisualisation
+preference.preview.server=Serveur de prÃ©visualisation
 
-preference.preview.data=Données
+preference.preview.data=DonnÃ©es
 
-menu.run=Exécute&r
+menu.run=ExÃ©cute&r
 
 ###############################################################################
 # Actions
 ###############################################################################
 Menu.Report=Eta&t
 
-Action.RunReport=&Exécuter l'état
+Action.RunReport=&ExÃ©cuter l'Ã©tat
 
 Action.ViewDocument=&Afficher le document

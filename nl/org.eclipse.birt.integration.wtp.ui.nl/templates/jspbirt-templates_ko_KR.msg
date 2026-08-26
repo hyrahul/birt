@@ -1,7 +1,7 @@
-Templates.jspbirthtml.name=»õ JSP ÆÄÀÏ(html, BIRT ÅÂ±×)
-Templates.jspbirthtml.desc=html ¹× BIRT ÅÂ±×¸¦ »ç¿ëÇÑ JSP 
+Templates.jspbirthtml.name=ìƒˆ JSP íŒŒì¼(html, BIRT íƒœê·¸)
+Templates.jspbirthtml.desc=html ë° BIRT íƒœê·¸ë¥¼ ì‚¬ìš©í•œ JSP 
 Templates.jspbirthtml.content=<%@ page language="java" contentType="text/html; charset=${encoding}"\n    pageEncoding="${encoding}"%>\n<%@ taglib uri="/birt.tld" prefix="birt" %>\n<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">\n<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=${encoding}">\n<title>Insert title here</title>\n</head>\n<body>\n${cursor}\n</body>\n</html>
 
 Templates.jspbirttag.name=JSP taglib(BIRT)
-Templates.jspbirttag.desc=BIRT º¸°í µµ±¸¿ë JSP taglib 
+Templates.jspbirttag.desc=BIRT ë³´ê³  ë„êµ¬ìš© JSP taglib 
 Templates.jspbirttag.content=<%@ taglib uri="/birt.tld" prefix="birt" %>\n

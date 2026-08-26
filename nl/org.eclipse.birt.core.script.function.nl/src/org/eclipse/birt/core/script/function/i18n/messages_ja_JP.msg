@@ -12,35 +12,35 @@
 #************************************************************************
 #
 # Exception messages for the BIRT Script Function Extension
-invalid.function.name=ŠÖ”–¼‚ª–³Œø‚Å‚·B
+invalid.function.name=é–¢æ•°åãŒç„¡åŠ¹ã§ã™ã€‚
 
-invalid.number.of.argument=ŠÖ”‚É‘Î‚µ‚Äˆø”‚Ì”‚ª–³Œø‚Å‚·B
+invalid.number.of.argument=é–¢æ•°ã«å¯¾ã—ã¦å¼•æ•°ã®æ•°ãŒç„¡åŠ¹ã§ã™ã€‚
 
-invalid.type.of.argument=ŠÖ”‚É‘Î‚µ‚Äˆø”‚ÌŒ^‚ª–³Œø‚Å‚·B
+invalid.type.of.argument=é–¢æ•°ã«å¯¾ã—ã¦å¼•æ•°ã®å‹ãŒç„¡åŠ¹ã§ã™ã€‚
 
-error.arguement.cannot.empty=ŠÖ”‚Ìˆø”‚ğ‹ó”’‚É‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+error.arguement.cannot.empty=é–¢æ•°ã®å¼•æ•°ã‚’ç©ºç™½ã«ã™ã‚‹ã“ã¨ã¯ã§ãã¾ã›ã‚“ã€‚
 
-error.incorrect.number.function.fixedArgument=ˆø”‚Ì”‚ª³‚µ‚­‚ ‚è‚Ü‚¹‚ñBˆø”‚Ì”‚Í <{0}> ‚ğw’è‚·‚é‚±‚Æ‚ª•K—v‚Å‚·‚ªA<{1}> ‚ªw’è‚³‚ê‚Ü‚µ‚½B
+error.incorrect.number.function.fixedArgument=å¼•æ•°ã®æ•°ãŒæ­£ã—ãã‚ã‚Šã¾ã›ã‚“ã€‚å¼•æ•°ã®æ•°ã¯ <{0}> ã‚’æŒ‡å®šã™ã‚‹ã“ã¨ãŒå¿…è¦ã§ã™ãŒã€<{1}> ãŒæŒ‡å®šã•ã‚Œã¾ã—ãŸã€‚
 
-error.incorrect.number.function.variableArgument=ˆø”‚Ì”‚ª³‚µ‚­‚ ‚è‚Ü‚¹‚ñBˆø”‚Ì”‚Í <{0}> ˆÈã‚ğw’è‚·‚é‚±‚Æ‚ª•K—v‚Å‚·‚ªA<{1}> ‚ªw’è‚³‚ê‚Ü‚µ‚½B
+error.incorrect.number.function.variableArgument=å¼•æ•°ã®æ•°ãŒæ­£ã—ãã‚ã‚Šã¾ã›ã‚“ã€‚å¼•æ•°ã®æ•°ã¯ <{0}> ä»¥ä¸Šã‚’æŒ‡å®šã™ã‚‹ã“ã¨ãŒå¿…è¦ã§ã™ãŒã€<{1}> ãŒæŒ‡å®šã•ã‚Œã¾ã—ãŸã€‚
 
-error.argument.number.outofValidRange=ˆø”‚Ì”‚ª³‚µ‚­‚ ‚è‚Ü‚¹‚ñBˆø”‚Ì”‚Í <{0}> ˆÈ‰º‚Ü‚½‚ÍA<{1}> ˆÈã‚ğw’è‚·‚é‚±‚Æ‚ª•K—v‚Å‚·‚ªA<{2}> ‚ªw’è‚³‚ê‚Ü‚µ‚½B
+error.argument.number.outofValidRange=å¼•æ•°ã®æ•°ãŒæ­£ã—ãã‚ã‚Šã¾ã›ã‚“ã€‚å¼•æ•°ã®æ•°ã¯ <{0}> ä»¥ä¸‹ã¾ãŸã¯ã€<{1}> ä»¥ä¸Šã‚’æŒ‡å®šã™ã‚‹ã“ã¨ãŒå¿…è¦ã§ã™ãŒã€<{2}> ãŒæŒ‡å®šã•ã‚Œã¾ã—ãŸã€‚
 
-error.incorrect.type.function.argument=ˆø”‚ÌŒ^‚ª³‚µ‚­‚ ‚è‚Ü‚¹‚ñB
+error.incorrect.type.function.argument=å¼•æ•°ã®å‹ãŒæ­£ã—ãã‚ã‚Šã¾ã›ã‚“ã€‚
 
-error.BirtMath.ceiling.significance.notApplied=w’è‚µ‚½d—v“x "{0}" ‚ğ” "{1}" ‚É“K—p‚Å‚«‚Ü‚¹‚ñB
+error.BirtMath.ceiling.significance.notApplied=æŒ‡å®šã—ãŸé‡è¦åº¦ "{0}" ã‚’æ•° "{1}" ã«é©ç”¨ã§ãã¾ã›ã‚“ã€‚
 
-error.BirtMath.mod.invalid.divisor=œ”‚Í 0 ‚É‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+error.BirtMath.mod.invalid.divisor=é™¤æ•°ã¯ 0 ã«ã™ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-error.BirtDateTime.cannotBeNull.DateValue=“ú•t‚Ì’l‚Í null ‚É‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
+error.BirtDateTime.cannotBeNull.DateValue=æ—¥ä»˜ã®å€¤ã¯ null ã«ã™ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚
 
-error.BirtStr.left.invalidArgument=ˆø” n ‚Ì’l "{0}" ‚ÍAƒXƒNƒŠƒvƒgŠÖ”‚É‘Î‚µ‚Ä–³Œø‚Å‚·B
+error.BirtStr.left.invalidArgument=å¼•æ•° n ã®å€¤ "{0}" ã¯ã€ã‚¹ã‚¯ãƒªãƒ—ãƒˆé–¢æ•°ã«å¯¾ã—ã¦ç„¡åŠ¹ã§ã™ã€‚
 
-error.BirtStr.right.invalidArgument=ˆø” n ‚Ì’l "{0}" ‚ÍAƒXƒNƒŠƒvƒgŠÖ”‚É‘Î‚µ‚Ä–³Œø‚Å‚·B
+error.BirtStr.right.invalidArgument=å¼•æ•° n ã®å€¤ "{0}" ã¯ã€ã‚¹ã‚¯ãƒªãƒ—ãƒˆé–¢æ•°ã«å¯¾ã—ã¦ç„¡åŠ¹ã§ã™ã€‚
 
-error.BirtStr.indexOf.invalidArgument=ŠJnˆø”‚Ì’l "{0}" ‚ÍAƒXƒNƒŠƒvƒgŠÖ”‚É‘Î‚µ‚Ä–³Œø‚Å‚·B
+error.BirtStr.indexOf.invalidArgument=é–‹å§‹å¼•æ•°ã®å€¤ "{0}" ã¯ã€ã‚¹ã‚¯ãƒªãƒ—ãƒˆé–¢æ•°ã«å¯¾ã—ã¦ç„¡åŠ¹ã§ã™ã€‚
 
-error.BirtStr.search.invalidArgument=ŠJnˆø”‚Ì’l "{0}" ‚ÍAƒXƒNƒŠƒvƒgŠÖ”‚É‘Î‚µ‚Ä–³Œø‚Å‚·B
+error.BirtStr.search.invalidArgument=é–‹å§‹å¼•æ•°ã®å€¤ "{0}" ã¯ã€ã‚¹ã‚¯ãƒªãƒ—ãƒˆé–¢æ•°ã«å¯¾ã—ã¦ç„¡åŠ¹ã§ã™ã€‚
 
-error.BirtDuration.literal.invalidArgument=ƒXƒNƒŠƒvƒgŠÖ”‚É–³Œø‚Èˆø”‚Ì’l "{0}" ‚ªw’è‚³‚ê‚Ä‚¢‚Ü‚·B
+error.BirtDuration.literal.invalidArgument=ã‚¹ã‚¯ãƒªãƒ—ãƒˆé–¢æ•°ã«ç„¡åŠ¹ãªå¼•æ•°ã®å€¤ "{0}" ãŒæŒ‡å®šã•ã‚Œã¦ã„ã¾ã™ã€‚
 

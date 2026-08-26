@@ -1,140 +1,140 @@
 # Description errors in metadata
-MISSING_ELEMENT_NAME=�v�f�����^�f�[�^�f�B�N�V���i���ɒǉ�����ۂɁA�v�f����������܂���ł����B
+MISSING_ELEMENT_NAME=要素をメタデータディクショナリに追加する際に、要素名が見つかりませんでした。
 
-DUPLICATE_ELEMENT_NAME=�v�f [{0}] �����^�f�[�^�f�B�N�V���i���ɒǉ�����ۂɁA�d������v�f����������܂����B
+DUPLICATE_ELEMENT_NAME=要素 [{0}] をメタデータディクショナリに追加する際に、重複する要素名が見つかりました。
 
-MISSING_STYLE_NAME=��`�ς݂̃X�^�C�������^�f�[�^�f�B�N�V���i���ɒǉ�����ۂɁA�X�^�C������������܂���ł����B
+MISSING_STYLE_NAME=定義済みのスタイルをメタデータディクショナリに追加する際に、スタイル名が見つかりませんでした。
 
-DUPLICATE_STYLE_NAME=��`�ς݂̃X�^�C�� [{0}] �����^�f�[�^�f�B�N�V���i���ɒǉ�����ۂɁA�d������X�^�C������������܂����B
+DUPLICATE_STYLE_NAME=定義済みのスタイル [{0}] をメタデータディクショナリに追加する際に、重複するスタイル名が見つかりました。
 
-STYLE_TYPE_MISSING=���^�f�[�^�f�B�N�V���i���ɃX�^�C���v�f��������܂���B
+STYLE_TYPE_MISSING=メタデータディクショナリにスタイル要素が見つかりません。
 
-STYLE_NOT_DEFINED=�X�^�C���t���̗v�f [{0}] ���`����O�ɃX�^�C�����`����K�v������܂��B
+STYLE_NOT_DEFINED=スタイル付きの要素 [{0}] を定義する前にスタイルを定義する必要があります。
 
-DUPLICATE_PROPERTY=�v���p�e�B��v�f [{1}] �ɒǉ�����ۂɁA�d������v���p�e�B�� [{0}] ��������܂����B
+DUPLICATE_PROPERTY=プロパティを要素 [{1}] に追加する際に、重複するプロパティ名 [{0}] が見つかりました。
 
-ELEMENT_PARENT_NOT_FOUND=�v�f [{1}] �̐e [{0}] ��������܂���B
+ELEMENT_PARENT_NOT_FOUND=要素 [{1}] の親 [{0}] が見つかりません。
 
-ILLEGAL_STYLE_PROPS=�v�f [{0}] �ɒ�`����Ă���X�^�C���̃v���p�e�B�������ł��B�l�����錴���͎��� 2 �ł� : 1. �v�f�� "hasStyle" ������ False �ɂȂ��Ă���ɂ�������炸�AStyleProperties ����`����Ă���B2. �v�f�� "hasStyle" ������ True �ŁA1 �ȏ�̃X���b�g�����R���e�i�ƂȂ��Ă���ɂ�������炸�AStyleProperties ����`����Ă���B
+ILLEGAL_STYLE_PROPS=要素 [{0}] に定義されているスタイルのプロパティが無効です。考えられる原因は次の 2 つです : 1. 要素の "hasStyle" 属性が False になっているにもかかわらず、StyleProperties が定義されている。2. 要素の "hasStyle" 属性は True で、1 つ以上のスロットを持つコンテナとなっているにもかかわらず、StyleProperties が定義されている。
 
-ILLEGAL_ABSTRACT_ELEMENT=�v�f [{0}] �͒��ۂ̂��߁A���̐e [{1}] �����ۂł���K�v������܂��B
+ILLEGAL_ABSTRACT_ELEMENT=要素 [{0}] は抽象のため、その親 [{1}] も抽象である必要があります。
 
-INVALID_NAME_OPTION=�v�f [{0}] �̖��O�I�v�V�����������ł��B
+INVALID_NAME_OPTION=要素 [{0}] の名前オプションが無効です。
 
-INVALID_NAME_SPACE=���O�̈悪�����ł��B
+INVALID_NAME_SPACE=名前領域が無効です。
 
-INVALID_STYLE_PROP_OPTION=�T�j�e�B�`�F�b�N���s���܂���ł����B�X�^�C���v�f�łȂ��v�f [{0}] �ɂ́A�X�^�C���̃v���p�e�B [{1}] ���`�ł��܂���B
+INVALID_STYLE_PROP_OPTION=サニティチェックを行えませんでした。スタイル要素でない要素 [{0}] には、スタイルのプロパティ [{1}] を定義できません。
 
-STYLE_PROP_NOT_FOUND=�v�f [{1}] �̃X�^�C���̃v���p�e�B [{0}] ���A�X�^�C���v�f�Ɍ�����܂���ł����B
+STYLE_PROP_NOT_FOUND=要素 [{1}] のスタイルのプロパティ [{0}] が、スタイル要素に見つかりませんでした。
 
-PROP_TYPE_ERROR=�v���p�e�B [{0}] �� PropertyType �͐ݒ肳��Ă��܂��� (propDefn.getType() == null)�B
+PROP_TYPE_ERROR=プロパティ [{0}] の PropertyType は設定されていません (propDefn.getType() == null)。
 
-MISSING_PROP_CHOICES=choice �^�̃v���p�e�B [{0}] �� ChoiceSet ��������܂���B
+MISSING_PROP_CHOICES=choice 型のプロパティ [{0}] の ChoiceSet が見つかりません。
 
-MISSING_SLOT_TYPE=SlotDefn [{0}] �̃X���b�g�R���e���c�̌^��������܂���B
+MISSING_SLOT_TYPE=SlotDefn [{0}] のスロットコンテンツの型が見つかりません。
 
-MISSING_SLOT_NAME=�X���b�g [{0}] �� displayNameID ��������܂���B
+MISSING_SLOT_NAME=スロット [{0}] の displayNameID が見つかりません。
 
-INVALID_SLOT_TYPE=�X���b�g [{1}] �̃X���b�g�R���e���c�̌^ [{0}] �������ł��B
+INVALID_SLOT_TYPE=スロット [{1}] のスロットコンテンツの型 [{0}] が無効です。
 
-ELEMENT_NAME_CONST=�v�f [{0}] ����`����Ă��܂���B
+ELEMENT_NAME_CONST=要素 [{0}] が定義されていません。
 
-MISSING_CHOICE_SET_NAME=ChoiceSet �����^�f�[�^�f�B�N�V���i���ɒǉ�����ۂɁAChoiceSet �̖��O��������܂���ł����B
+MISSING_CHOICE_SET_NAME=ChoiceSet をメタデータディクショナリに追加する際に、ChoiceSet の名前が見つかりませんでした。
 
-DUPLICATE_CHOICE_SET_NAME=ChoiceSet [{0}] �����^�f�[�^�f�B�N�V���i���ɒǉ�����ۂɁA�d������ ChoiceSet �̖��O��������܂����B
+DUPLICATE_CHOICE_SET_NAME=ChoiceSet [{0}] をメタデータディクショナリに追加する際に、重複する ChoiceSet の名前が見つかりました。
 
-MISSING_STRUCT_NAME=�\�������^�f�[�^�f�B�N�V���i���ɒǉ�����ۂɁA�\������������܂���ł����B
+MISSING_STRUCT_NAME=構造をメタデータディクショナリに追加する際に、構造名が見つかりませんでした。
 
-DUPLICATE_STRUCT_NAME=�\�� [{0}] �����^�f�[�^�f�B�N�V���i���ɒǉ�����ۂɁA�d������\������������܂����B
+DUPLICATE_STRUCT_NAME=構造 [{0}] をメタデータディクショナリに追加する際に、重複する構造名が見つかりました。
 
-MISSING_STRUCT_DEFN=[{1}] ���ɁA�\�����X�g�^�v���p�e�B [{0}] �̍\���̒�`��������܂���B
+MISSING_STRUCT_DEFN=[{1}] 内に、構造リスト型プロパティ [{0}] の構造の定義が見つかりません。
 
-UNREFERENCABLE_STRUCT_DEFN=�\���̒�`���A�\���̎Q�ƌ^�v���p�e�B [{0}] ���Q�Ƃł��܂���B
+UNREFERENCABLE_STRUCT_DEFN=構造の定義が、構造の参照型プロパティ [{0}] を参照できません。
 
-MISSING_ELEMENT_TYPE=�v�f�̎Q�ƌ^�v���p�e�B [{0}] �̗v�f�̎Q�Ƃ�������܂���B
+MISSING_ELEMENT_TYPE=要素の参照型プロパティ [{0}] の要素の参照が見つかりません。
 
-UNDEFINED_ELEMENT_TYPE=�v���p�e�B [{1}] �ŎQ�Ƃ��Ă���v�f [{0}] ����`����Ă��܂���B
+UNDEFINED_ELEMENT_TYPE=プロパティ [{1}] で参照している要素 [{0}] が定義されていません。
 
-UNNAMED_ELEMENT_TYPE=�v���p�e�B [{1}] �ŎQ�Ƃ��Ă���v�f [{0}] �ɂ́A���O���t���Ă��܂��� (���O��� == ''no_namespace'')�B
+UNNAMED_ELEMENT_TYPE=プロパティ [{1}] で参照している要素 [{0}] には、名前が付いていません (名前空間 == ''no_namespace'')。
 
-INCONSISTENT_PROP_TYPE=�v���p�e�B [{0}] �ɕs����������܂��B�X�^�C���̃v���p�e�B�𓯎��ɌŗL�ɂ��邱�Ƃ͂ł��܂���B
+INCONSISTENT_PROP_TYPE=プロパティ [{0}] に不整合があります。スタイルのプロパティを同時に固有にすることはできません。
 
-MISSING_JAVA_CLASS=�v�f [{0}] �͒��ۂł͂���܂���BJava �N���X�̑������w�肷��K�v������܂��B
+MISSING_JAVA_CLASS=要素 [{0}] は抽象ではありません。Java クラスの属性を指定する必要があります。
 
-JAVA_CLASS_INITIALIZE_ERROR=�v�f [{0}] �Ɏw�肵�� Java �N���X�̑����������Ȃ��߁A�N���X�� [{1}] ���C���X�^���X���ł��܂���ł����B���̗��R�Ƃ��āA1) �w�肵�� Java �N���X�̑������C���^�[�t�F�[�X�ł���A2) ���ۃN���X�ł���A3) �f�t�H���g�̃R���X�g���N�^���w�肳��Ă��Ȃ��A�܂��� 4) �������󂯕t���Ȃ��R���X�g���N�^���w�肳��Ă��邱�Ƃ��l�����܂��B
+JAVA_CLASS_INITIALIZE_ERROR=要素 [{0}] に指定した Java クラスの属性が無効なため、クラス名 [{1}] をインスタンス化できませんでした。その理由として、1) 指定した Java クラスの属性がインターフェースである、2) 抽象クラスである、3) デフォルトのコンストラクタが指定されていない、または 4) 引数を受け付けないコンストラクタが指定されていることが考えられます。
 
-JAVA_CLASS_LOAD_ERROR=�v�f [{0}] �Ɏw�肳�ꂽ Java �N���X�������Ȃ��߁A���݂̃N���X�p�X�ɃN���X [{1}] ��ǂݍ��߂܂���ł����B
+JAVA_CLASS_LOAD_ERROR=要素 [{0}] に指定された Java クラスが無効なため、現在のクラスパスにクラス [{1}] を読み込めませんでした。
 
-INVALID_ELEMENT_JAVA_CLASS=�w�肵���v�f�� Java �N���X [{0}] �́ADesignElement �N���X�̃C���X�^���X�ł͂���܂���B
+INVALID_ELEMENT_JAVA_CLASS=指定した要素の Java クラス [{0}] は、DesignElement クラスのインスタンスではありません。
 
-DUPLICATE_METHOD_NAME=�v�f [{0}] �ɓ������O [{1}] �̃��\�b�h�� 2 ����܂��B
+DUPLICATE_METHOD_NAME=要素 [{0}] に同じ名前 [{1}] のメソッドが 2 つあります。
 
-DUPLICATE_ARGUMENT_NAME=���\�b�h [{0}] �ɓ������O [{1}] �̈����� 2 ����܂��B
+DUPLICATE_ARGUMENT_NAME=メソッド [{0}] に同じ名前 [{1}] の引数が 2 つあります。
 
-INVALID_DEFAULT_VALUE=�v���p�e�B {0} �̃f�t�H���g�l {1} �͖����ł��B
+INVALID_DEFAULT_VALUE=プロパティ {0} のデフォルト値 {1} は無効です。
 
-MISSING_CLASS_NAME=�N���X�����^�f�[�^�f�B�N�V���i���ɒǉ�����ۂɁA�N���X����������܂���ł����B
+MISSING_CLASS_NAME=クラスをメタデータディクショナリに追加する際に、クラス名が見つかりませんでした。
 
-DUPLICATE_CLASS_NAME=�N���X [{0}] �����^�f�[�^�f�B�N�V���i���ɒǉ�����ۂɁA�d������N���X����������܂����B
+DUPLICATE_CLASS_NAME=クラス [{0}] をメタデータディクショナリに追加する際に、重複するクラス名が見つかりました。
 
-MISSING_METHOD_NAME=���\�b�h���N���X�ɒǉ�����ۂɁA���\�b�h����������܂���ł����B
+MISSING_METHOD_NAME=メソッドをクラスに追加する際に、メソッド名が見つかりませんでした。
 
-CONSTRUCTOR_EXISTING=�R���X�g���N�^�͂��łɑ��݂��܂��B
+CONSTRUCTOR_EXISTING=コンストラクタはすでに存在します。
 
-DUPLICATE_MEMBER_NAME=�����o���N���X�ɒǉ�����ۂɁA�d�����郁���o����������܂����B
+DUPLICATE_MEMBER_NAME=メンバをクラスに追加する際に、重複するメンバ名が見つかりました。
 
-MISSING_MEMBER_NAME=�����o���N���X�ɒǉ�����ۂɁA�����o����������܂���ł����B
+MISSING_MEMBER_NAME=メンバをクラスに追加する際に、メンバ名が見つかりませんでした。
 
-INVALID_LIST_TYPE=[{0}] �̃��X�g�̓T�|�[�g����Ă��܂���B
+INVALID_LIST_TYPE=[{0}] のリストはサポートされていません。
 
-VALIDATOR_NOT_FOUND=�v���p�e�B [{1}] �̌��؃R���|�[�l���g [{0}] ���f�B�N�V���i���Ɍ�����܂���B
+VALIDATOR_NOT_FOUND=プロパティ [{1}] の検証コンポーネント [{0}] がディクショナリに見つかりません。
 
-MISSING_VALIDATOR_NAME=���؃R���|�[�l���g�ɖ��O���t���Ă��܂���B
+MISSING_VALIDATOR_NAME=検証コンポーネントに名前が付いていません。
 
-DUPLICATE_VALIDATOR_NAME=���؃R���|�[�l���g�̖��O [{0}] �͂��łɎg�p����Ă��܂��B
+DUPLICATE_VALIDATOR_NAME=検証コンポーネントの名前 [{0}] はすでに使用されています。
 
-MISSING_EXTENSION_NAME=�g���q�����^�f�[�^�f�B�N�V���i���ɒǉ�����ۂɁA�g���q����������܂���ł����B
+MISSING_EXTENSION_NAME=拡張子をメタデータディクショナリに追加する際に、拡張子名が見つかりませんでした。
 
-DUPLICATE_EXTENSION_NAME=�g���q [{0}] �����^�f�[�^�f�B�N�V���i���ɒǉ�����ۂɁA�d������g���q����������܂����B
+DUPLICATE_EXTENSION_NAME=拡張子 [{0}] をメタデータディクショナリに追加する際に、重複する拡張子名が見つかりました。
 
-EXTENSION_POINT_NOT_FOUND=�g���|�C���g [{0}] ��������܂���B
+EXTENSION_POINT_NOT_FOUND=拡張ポイント [{0}] が見つかりません。
 
-FAILED_TO_CREATE_INSTANCE=�N���X [{0}] ���C���X�^���X���ł��܂���B
+FAILED_TO_CREATE_INSTANCE=クラス [{0}] をインスタンス化できません。
 
-VALUE_REQUIRED=[{0}] �ɒl���w�肷��K�v������܂��B
+VALUE_REQUIRED=[{0}] に値を指定する必要があります。
 
-DUPLICATE_CHOICE_NAME=[{0}] �Ƃ������O�̑I�����ڂ́A���łɎg�p����Ă��܂��B
+DUPLICATE_CHOICE_NAME=[{0}] という名前の選択項目は、すでに使用されています。
 
-INVALID_PROPERTY_TYPE=�v���p�e�B�̎�� [{0}] �������ł��B
+INVALID_PROPERTY_TYPE=プロパティの種類 [{0}] が無効です。
 
-INVALID_UNIT=�v���p�e�B "{0}" �̃f�t�H���g�̒P�� "{1}" �͖����ł��B
+INVALID_UNIT=プロパティ "{0}" のデフォルトの単位 "{1}" は無効です。
 
-ENCYRPTION_EXTENSION_EXISTS=�Í����g�� (ID = "{0}") �͂��łɑ��݂��܂��B
+ENCYRPTION_EXTENSION_EXISTS=暗号化拡張 (ID = "{0}") はすでに存在します。
 
 VISIBILITY_PROPERTY_NOT_FOUND=Property visibility:[{1}] on element: [{0}] doesn't point to an exsiting property.
 
-REPORT_MISSING=���[�g�v�f : ���|�[�g�f�U�C������`����Ă��܂���B
+REPORT_MISSING=ルート要素 : レポートデザインが定義されていません。
 
-INVALID_CHOICE_VALUE=�v���p�e�B "{1}" �Ɏw�肳�ꂽ�I��l "{0}" �͖����ł��B
+INVALID_CHOICE_VALUE=プロパティ "{1}" に指定された選択値 "{0}" は無効です。
 
-MISSING_SUB_TYPE="{0}" �̓��X�g�^�̃v���p�e�B�ł����A�T�u�^�C�v������܂���B
+MISSING_SUB_TYPE="{0}" はリスト型のプロパティですが、サブタイプがありません。
 
-UNSUPPORTED_SUB_TYPE=���X�g�^�̃v���p�e�B "{0}" �ɂ���T�u�^�C�v "{1}" �͎g�p�ł��܂���B
+UNSUPPORTED_SUB_TYPE=リスト型のプロパティ "{0}" にあるサブタイプ "{1}" は使用できません。
 
-SUB_TYPE_FORBIDDEN="{0}" �̓��X�g�^�̃v���p�e�B�ł͂Ȃ����߁A�T�u�^�C�v�� null �ɂ��Ă��������B
+SUB_TYPE_FORBIDDEN="{0}" はリスト型のプロパティではないため、サブタイプを null にしてください。
 
-MISSING_XML_NAME=��ۗv�f "{0}" �� xml ������`����Ă��܂���B
+MISSING_XML_NAME=具象要素 "{0}" で xml 名が定義されていません。
 
-DUPLICATE_XML_NAME=�v�f "{1}" �� xml �� "{0}" �͊����̖��O�Əd�����Ă��܂��B
+DUPLICATE_XML_NAME=要素 "{1}" の xml 名 "{0}" は既存の名前と重複しています。
 
-INVALID_ELEMENT_TYPE=�v�f�^ "{0}" �������ł��B
+INVALID_ELEMENT_TYPE=要素型 "{0}" が無効です。
 
-INVALID_CHOICE_PROPERTY=�g�� "{1}" �� choice �v���p�e�B "{0}" �������ł��BdetailType �ƁA�Ǝ��̑I�����X�g�̗�������`����Ă��܂��B
+INVALID_CHOICE_PROPERTY=拡張 "{1}" の choice プロパティ "{0}" が無効です。detailType と、独自の選択リストの両方が定義されています。
 
-EXTENDED_ITEM_MISSING=���^�f�[�^�f�B�N�V���i���Ɋg�����ڂ�������܂���B
+EXTENDED_ITEM_MISSING=メタデータディクショナリに拡張項目が見つかりません。
 
-DEFAULT_ENCRYPTION_EXIST=�f�t�H���g�̈Í����͂��ł� "{1}" �Ɏw�肳��Ă��邽�߁A"{0}" ���f�t�H���g�̈Í����ɂ͐ݒ�ł��܂���B
+DEFAULT_ENCRYPTION_EXIST=デフォルトの暗号化はすでに "{1}" に指定されているため、"{0}" をデフォルトの暗号化には設定できません。
 
-DEFAULT_EMPTY_STYLE_NAME=�g���v�f "{0}" �̃f�t�H���g�̃X�^�C���͋󔒂ɂł��܂���B
+DEFAULT_EMPTY_STYLE_NAME=拡張要素 "{0}" のデフォルトのスタイルは空白にできません。
 
-EMPTY_DELTA_ROM_STREAM=�g���q�v�f "{0}" ����N���X "{1}" �ŕԂ��ꂽ �f���^ ROM ���̓X�g���[���͋󔒂ɂł��܂���B
+EMPTY_DELTA_ROM_STREAM=拡張子要素 "{0}" からクラス "{1}" で返された デルタ ROM 入力ストリームは空白にできません。

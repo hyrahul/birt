@@ -26,17 +26,17 @@ OptionDisplayValue.Enable=Activar
 
 OptionDisplayValue.Disable=Desactivar
 
-OptionDisplayValue.OutputMasterPageMargins=M·rgenes de salida de la p·gina maestra
+OptionDisplayValue.OutputMasterPageMargins=M√°rgenes de salida de la p√°gina maestra
 
-OptionDisplayValue.MasterPageContent=Encabezado y pie de la p·gina de salida
+OptionDisplayValue.MasterPageContent=Encabezado y pie de la p√°gina de salida
 
-OptionDisplayValue.PageFooterFloat=Pie de p·gina flotante
+OptionDisplayValue.PageFooterFloat=Pie de p√°gina flotante
 
-OptionDisplayValue.LayoutPreference=Preferencia de diseÒo:
+OptionDisplayValue.LayoutPreference=Preferencia de dise√±o:
 
-OptionDisplayValue.FixedLayout=DiseÒo fijo
+OptionDisplayValue.FixedLayout=Dise√±o fijo
 
-OptionDisplayValue.AutoLayout=DiseÒo autom·tico
+OptionDisplayValue.AutoLayout=Dise√±o autom√°tico
 
 OptionDisplayValue.HTMLType=Tipo de salida:
 
@@ -46,12 +46,12 @@ OptionDisplayValue.HTMLNoCSS=HTML sin CSS
 
 ###########################################################
 #Option Description
-OptionDescription.AgentStyleEngine=True: significa que el emisor de HTML utilizar· los estilos de BIRT directamente en el informe y depender· del explorador para implementar el c·lculo de estilos.\nFalse: significa que el emisor HTML utilizar· el motor de estilos de BIRT para calcular los estilos y presentar el resultado en el informe.
+OptionDescription.AgentStyleEngine=True: significa que el emisor de HTML utilizar√° los estilos de BIRT directamente en el informe y depender√° del explorador para implementar el c√°lculo de estilos.\nFalse: significa que el emisor HTML utilizar√° el motor de estilos de BIRT para calcular los estilos y presentar el resultado en el informe.
 
-OptionDescription.OutputMasterPageMargins=Utilice los m·rgenes de la p·gina maestra para el informe de diseÒo autom·tico.
+OptionDescription.OutputMasterPageMargins=Utilice los m√°rgenes de la p√°gina maestra para el informe de dise√±o autom√°tico.
 
-OptionDescription.MasterPageContent=Contiene el encabezado y pie de p·gina, sÛlo tiene efecto si la paginaciÛn est· activada.
+OptionDescription.MasterPageContent=Contiene el encabezado y pie de p√°gina, s√≥lo tiene efecto si la paginaci√≥n est√° activada.
 
-OptionDescription.PageFooterFloat=Pie de p·gina flotante, sÛlo tiene efecto si la paginaciÛn est· activada.
+OptionDescription.PageFooterFloat=Pie de p√°gina flotante, s√≥lo tiene efecto si la paginaci√≥n est√° activada.
 
 OptionDescription.HTMLType=Tipo de HTML.

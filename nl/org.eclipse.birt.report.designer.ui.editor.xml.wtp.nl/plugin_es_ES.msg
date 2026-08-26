@@ -14,4 +14,4 @@ template.xmlsource=&Fuente XML
 
 library.xmlsource=&Fuente XML
 
-pageSet.source=&Página fuente XML
+pageSet.source=&PÃ¡gina fuente XML

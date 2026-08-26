@@ -1,28 +1,28 @@
-birt.web.category.name=Business Intelligence ╧в ╨╦╟М ╣╣╠╦(&B)
+birt.web.category.name=Business Intelligence К╟▐ КЁ╢ЙЁ═ К▐└Й╣╛(&B)
 
-birt.web.project.name=BIRT ╥╠е╦юсюл фВгт╣х ю╔ га╥на╖ф╝
+birt.web.project.name=BIRT К÷╟М┐─Л·└Л²╢ М▐╛М∙╗К░° Л⌡╧ М■└К║°Л═²М┼╦
 
-birt.web.project.description=BIRT ╥╠е╦юс ╠╦╪╨ ©Д╪р╦╕ фВгтгя ю╔ га╥на╖ф╝ ╩Щ╪╨
+birt.web.project.description=BIRT К÷╟М┐─Л·└ Й╣╛Л└╠ Л ■Л├▄К╔╪ М▐╛М∙╗М∙° Л⌡╧ М■└К║°Л═²М┼╦ Л┐²Л└╠
 
-birt.web.actionsets.description=BIRT ю╔ га╥на╖ф╝ юш╬В
+birt.web.actionsets.description=BIRT Л⌡╧ М■└К║°Л═²М┼╦ Л·▒Л≈┘
 
-create.birt.web.module=BIRT ю╔ ╦П╣Б ╩Щ╪╨
+create.birt.web.module=BIRT Л⌡╧ К╙╗К⌠┬ Л┐²Л└╠
 
-BIRT_FACET_LABEL=BIRT ╨╦╟М ╥╠е╦юс ╠╦╪╨ ©Д╪р
+BIRT_FACET_LABEL=BIRT КЁ╢ЙЁ═ К÷╟М┐─Л·└ Й╣╛Л└╠ Л ■Л├▄
 
-BIRT_FACET_DESCRIPTION=BIRT ╨╦╟М ╥╠е╦юс ╠╦╪╨ ©Д╪р
+BIRT_FACET_DESCRIPTION=BIRT КЁ╢ЙЁ═ К÷╟М┐─Л·└ Й╣╛Л└╠ Л ■Л├▄
 
-BIRT_FACET_TEMPLATE_LABEL=BIRT ╨╦╟М ю╔ га╥на╖ф╝
+BIRT_FACET_TEMPLATE_LABEL=BIRT КЁ╢ЙЁ═ Л⌡╧ М■└К║°Л═²М┼╦
 
-BIRT_FACET_TEMPLATE_DESCRIPTION=BIRT ╨╦╟М ╥╠е╦юс ╠╦╪╨ ©Д╪р╟║ фВгт╣х ю╔ га╥на╖ф╝
+BIRT_FACET_TEMPLATE_DESCRIPTION=BIRT КЁ╢ЙЁ═ К÷╟М┐─Л·└ Й╣╛Л└╠ Л ■Л├▄Й╟─ М▐╛М∙╗К░° Л⌡╧ М■└К║°Л═²М┼╦
 
-JSP_New_context_type_Extension_Element.name=BIRT еб╠в╦╕ ╩Г©Кгя ╩У JSP
+JSP_New_context_type_Extension_Element.name=BIRT М┐°Й╥╦К╔╪ Л┌╛Л ╘М∙° Л┐┬ JSP
 
-JSP_Tag_context_type_Extension_Element.name=╩У BIRT JSP еб╠в
+JSP_Tag_context_type_Extension_Element.name=Л┐┬ BIRT JSP М┐°Й╥╦
 
-BirtResourcesDefinition= BIRT ю╔ юю©К га╥н╠в╥╔ ╦╝╪р╫╨ а╓юг
+BirtResourcesDefinition= BIRT Л⌡╧ Л²▒Л ╘ М■└К║°Й╥╦К·╗ К╕╛Л├▄Л┼╓ Л═∙Л²≤
 
-birt.action.importruntime.name=BIRT ╥╠е╦юс ╠╦╪╨ ©Д╪р ╟║а╝©ю╠Б(&B)...
+birt.action.importruntime.name=BIRT К÷╟М┐─Л·└ Й╣╛Л└╠ Л ■Л├▄ Й╟─Л═╦Л≤╓Й╦╟(&B)...
 
 
 plugin.version=4.3.1

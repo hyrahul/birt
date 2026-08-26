@@ -11,30 +11,30 @@
 
 ###########################################################
 #Excel Emitter
-ExcelEmitter.Description=XML ½ºÇÁ·¹µå½ÃÆ® 2003 Çü½ÄÀÇ º¸°í¼­ ·»´õ¸µ ¿É¼ÇÀ» ±¸¼ºÇÕ´Ï´Ù.
+ExcelEmitter.Description=XML ìŠ¤í”„ë ˆë“œì‹œíŠ¸ 2003 í˜•ì‹ì˜ ë³´ê³ ì„œ ë Œë”ë§ ì˜µì…˜ì„ êµ¬ì„±í•©ë‹ˆë‹¤.
 
 ExcelEmitter.DisplayName=Excel (XLS)
 
 ###########################################################
 #Option Display Value
-OptionDisplayValue.WrappingText=ÅØ½ºÆ® ÁÙ ¹Ù²Ş »ç¿ë
+OptionDisplayValue.WrappingText=í…ìŠ¤íŠ¸ ì¤„ ë°”ê¿ˆ ì‚¬ìš©
 
-OptionDisplayValue.OfficeVersion=Ãâ·Â ¹öÀü:
+OptionDisplayValue.OfficeVersion=ì¶œë ¥ ë²„ì „:
 
 OptionDisplayValue.Office2003=Microsoft Office 2003
 OptionDisplayValue.Office2007=Microsoft Office 2007
-OptionDisplayValue.ChartDpi=Â÷Æ® DPI
+OptionDisplayValue.ChartDpi=ì°¨íŠ¸ DPI
 
-OptionDisplayValue.HideGridlines=´«±İ¼± ¼û±â±â
+OptionDisplayValue.HideGridlines=ëˆˆê¸ˆì„  ìˆ¨ê¸°ê¸°
 
 ###########################################################
 #Option Description
-OptionDescription.WrappingText=ÅØ½ºÆ® ÁÙ ¹Ù²Ş °¡´É ¿©ºÎ¸¦ ³ªÅ¸³À´Ï´Ù.
+OptionDescription.WrappingText=í…ìŠ¤íŠ¸ ì¤„ ë°”ê¿ˆ ê°€ëŠ¥ ì—¬ë¶€ë¥¼ ë‚˜íƒ€ëƒ…ë‹ˆë‹¤.
 
-OptionDescription.ChartDpi=DPI´Â Â÷Æ®¸¦ »ı¼ºÇÏ´Â µ¥ »ç¿ëÇÕ´Ï´Ù.
+OptionDescription.ChartDpi=DPIëŠ” ì°¨íŠ¸ë¥¼ ìƒì„±í•˜ëŠ” ë° ì‚¬ìš©í•©ë‹ˆë‹¤.
 
-OptionDescription.HideGridlines=´«±İ¼±À» ¼û±é´Ï´Ù.
+OptionDescription.HideGridlines=ëˆˆê¸ˆì„ ì„ ìˆ¨ê¹ë‹ˆë‹¤.
 
 ###########################################################
 #tooltip
-Tooltip.ChartDpi=Â÷Æ® ¿£Áø¿¡¼­ Â÷Æ®¸¦ »ı¼ºÇÏ´Â µ¥ »ç¿ëÇÏ´Â DPIÀÔ´Ï´Ù. ¿¹: 192.
+Tooltip.ChartDpi=ì°¨íŠ¸ ì—”ì§„ì—ì„œ ì°¨íŠ¸ë¥¼ ìƒì„±í•˜ëŠ” ë° ì‚¬ìš©í•˜ëŠ” DPIì…ë‹ˆë‹¤. ì˜ˆ: 192.

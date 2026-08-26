@@ -18,7 +18,7 @@ dataset.property.rowFetchSize=Abzurufende &Zeilenanzahl
 #
 oda.data.source.name=Classic Models Inc. Sample Database
 
-connection.profile.name=Verbindungsprofil für BIRT-Beispieldatenbank-Datenquelle
+connection.profile.name=Verbindungsprofil fÃ¼r BIRT-Beispieldatenbank-Datenquelle
 #
 #  Below NLS messages apply to all ODA data sources; should be re-factored
 #

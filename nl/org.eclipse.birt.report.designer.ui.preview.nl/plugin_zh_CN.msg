@@ -1,25 +1,25 @@
 ###############################################################################
 # Preview Framework
 ###############################################################################
-designer.preview.previewtoolbarmenuaction.label=²é¿´±¨±í
+designer.preview.previewtoolbarmenuaction.label=æŸ¥çœ‹æŠ¥è¡¨
 
-designer.preview.previewcascadingmenugroup.label=²é¿´±¨±í(&R)
+designer.preview.previewcascadingmenugroup.label=æŸ¥çœ‹æŠ¥è¡¨(&R)
 
-ActionSet.Preview=Ô¤ÀÀ
+ActionSet.Preview=é¢„è§ˆ
 
-template.preview=ĞÂ½¨Ô¤ÀÀÔ­ĞÍ(&T)
+template.preview=æ–°å»ºé¢„è§ˆåŸå‹(&T)
 
-design.preview=ĞÂ½¨Ô¤ÀÀÔ­ĞÍ(&T)
+design.preview=æ–°å»ºé¢„è§ˆåŸå‹(&T)
 
-preference.preview=Ô¤ÀÀ
+preference.preview=é¢„è§ˆ
 
-preference.preview.server=Ô¤ÀÀ·şÎñÆ÷
+preference.preview.server=é¢„è§ˆæœåŠ¡å™¨
 
 ###############################################################################
 # Actions
 ###############################################################################
-Menu.Report=±¨±í(&T)
+Menu.Report=æŠ¥è¡¨(&T)
 
-Action.RunReport=ÔËĞĞ±¨±í(&R)
+Action.RunReport=è¿è¡ŒæŠ¥è¡¨(&R)
 
-Action.ViewDocument=²é¿´ÎÄµµ(&V)
+Action.ViewDocument=æŸ¥çœ‹æ–‡æ¡£(&V)

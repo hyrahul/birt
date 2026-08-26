@@ -7,9 +7,9 @@
 Error.Msg001=En: Es ist ein {0} im {1}.
 
 ###########################################################
-Error.OutputFormatNotSupported=Das Ausgabeformat {0} wird nicht unterstützt.
+Error.OutputFormatNotSupported=Das Ausgabeformat {0} wird nicht unterstÃ¼tzt.
 
-Error.NullOutputFormat=OutputFormat für Renderoption ist Null.
+Error.NullOutputFormat=OutputFormat fÃ¼r Renderoption ist Null.
 
 Error.InvalidParameter=Einige der erforderlichen Parameterwerte sind nicht angegeben bzw. die angegebenen Werte entsprechen einem inkompatiblen Datentyp.
 
@@ -27,21 +27,21 @@ Error.ParamScriptValidationError=Validierungsfehler bei Skriptquelle zu Paramete
 
 Error.ParameterGroupIsNotFoundByGroupname=Parametergruppe wurde durch Namen "{0}" nicht gefunden.
 
-Error.ParameterInvalidGroupLevel=Die Ebenenanzahl der Gruppe "{0}" stimmt nicht mit der angegebenen Anzahl überein.
+Error.ParameterInvalidGroupLevel=Die Ebenenanzahl der Gruppe "{0}" stimmt nicht mit der angegebenen Anzahl Ã¼berein.
 
-Error.InvalidDesignFile=Die Designdatei {0} ist fehlerhaft und kann nicht ausgeführt werden.
+Error.InvalidDesignFile=Die Designdatei {0} ist fehlerhaft und kann nicht ausgefÃ¼hrt werden.
 
 Error.DesignFileNotFound=Die Designdatei {0} kann nicht gefunden werden.
 
-Error.CannotCreateExtensionInstance=Berichts-Engine kann {0}-Emitter nicht initialisieren. Vergewissern Sie sich, dass die erforderlichen Bibliotheken für diesen Emitter installiert sind.
+Error.CannotCreateExtensionInstance=Berichts-Engine kann {0}-Emitter nicht initialisieren. Vergewissern Sie sich, dass die erforderlichen Bibliotheken fÃ¼r diesen Emitter installiert sind.
 
-Error.MissingComputedColumnExpression=Die Definition für die berechnete Spalte {0} fehlt.
+Error.MissingComputedColumnExpression=Die Definition fÃ¼r die berechnete Spalte {0} fehlt.
 
-Error.ParameterInGroupIsnotScalar=Die Parameter in der Parametergruppe "{0}" müssen Skalargrößen-Parameter sein.
+Error.ParameterInGroupIsnotScalar=Die Parameter in der Parametergruppe "{0}" mÃ¼ssen SkalargrÃ¶ÃŸen-Parameter sein.
 
 Error.ParameterEvaluationError=Die Auswertung der Parametergruppe "{0}" ist fehlgeschlagen.
 
-Error.InvalidEmitterID = EmitterID {0} für Renderoption ist ungültig.
+Error.InvalidEmitterID = EmitterID {0} fÃ¼r Renderoption ist ungÃ¼ltig.
 
 ###########################################################
 Error.ErrorsOnPage=Beim Erstellen des Berichts sind Fehler aufgetreten:
@@ -66,9 +66,9 @@ Error.ImageItemProcessingError=Beim Verarbeiten des Bildes {0} sind Probleme auf
 
 Error.MissingImageFileError=Bilddatei fehlt.
 
-Error.InvalidImageSourceError=Ungültiger Datenquellentyp für Bild.
+Error.InvalidImageSourceError=UngÃ¼ltiger Datenquellentyp fÃ¼r Bild.
 
-Error.InvalidDatabaseImageError=Ungültiges Datenbank-Image. Ausdruck für Image lautet "{0}".
+Error.InvalidDatabaseImageError=UngÃ¼ltiges Datenbank-Image. Ausdruck fÃ¼r Image lautet "{0}".
 
 Error.EmbeddedExpressionError=Beim Evaluieren des eingebetteten Ausdrucks "{0}" ist ein Fehler aufgetreten.
 
@@ -78,7 +78,7 @@ Error.HTMLImageError=Beim Verarbeiten des in den HTML-Tag '<img>' eingebetteten 
 
 Error.UndefinedDatasetError=Datensatz "{0}" ist im Bericht nicht definiert.
 
-Error.InvalidExpressionError=Ausdruck "{0}" ist ungültig.
+Error.InvalidExpressionError=Ausdruck "{0}" ist ungÃ¼ltig.
 
 Error.ListProcessingError=Bei der Verarbeitung des Listenelements {0} sind Probleme aufgetreten.
 
@@ -102,28 +102,28 @@ Error.ScriptClassIllegalAccessError = IllegalAccessException beim Laden der Klas
 
 Error.ScriptClassInstantiationError = Klasse {0} konnte nicht instanziiert werden. Stellen Sie sicher, dass es sich nicht um eine Schnittstelle oder eine abstrakte Klasse handelt.
 
-Error.UnhandledScriptError = Unverarbeitete Ausnahme beim Ausführen des Skripts.
+Error.UnhandledScriptError = Unverarbeitete Ausnahme beim AusfÃ¼hren des Skripts.
 
 ###########################################################
 Error.PageNotFoundError = Seite {0} wurde nicht gefunden.
 
-Error.PageNumberRangeError = Ungültiger Seitenbereich: {0}.
+Error.PageNumberRangeError = UngÃ¼ltiger Seitenbereich: {0}.
 
 Error.PageHintLoadingError = Seitenhinweis kann nicht geladen werden.
 
-Error.PagesLoadingError = Seiten {0} können nicht geladen werden.
+Error.PagesLoadingError = Seiten {0} kÃ¶nnen nicht geladen werden.
 
-Error.InvalidGroupError = Ungültige Gruppe: {0}.
+Error.InvalidGroupError = UngÃ¼ltige Gruppe: {0}.
 
-Error.InvalidExtensionError = Ungültige Erweiterungs-ID: {0} und ungültiges Format: {1}.
+Error.InvalidExtensionError = UngÃ¼ltige Erweiterungs-ID: {0} und ungÃ¼ltiges Format: {1}.
 
-Error.InvalidColumnIndexError = Ungültiger Spaltenindex.
+Error.InvalidColumnIndexError = UngÃ¼ltiger Spaltenindex.
 
-Error.InvalidInstanceIDError = Ungültige Instanz-ID: {0}.
+Error.InvalidInstanceIDError = UngÃ¼ltige Instanz-ID: {0}.
 
-Error.InvalidBookmarkError = Ungültiges Lesezeichen: {0}.
+Error.InvalidBookmarkError = UngÃ¼ltiges Lesezeichen: {0}.
 
-Error.ExpressionEvaluationError = Das Ergebnis des folgenden Sichtbarkeitsausdrucks ist kein zulässiger boolescher Wert: {0}.
+Error.ExpressionEvaluationError = Das Ergebnis des folgenden Sichtbarkeitsausdrucks ist kein zulÃ¤ssiger boolescher Wert: {0}.
 
 Error.BookmarkNotFoundError = Lesezeichen nicht gefunden: {0}.
 
@@ -137,43 +137,43 @@ Error.BindDataRetrivingError = Fehler beim Abrufen der Bindungsdaten.
 
 Error.DataSourceError = Datenquelle des Datensatzes darf nicht Null sein.
 
-Error.UnsupportedQueryDefinitionError = Nicht unterstützte Abfragedefinition: {0}.
+Error.UnsupportedQueryDefinitionError = Nicht unterstÃ¼tzte Abfragedefinition: {0}.
 
-Error.ReportQueryLoadingError = Beim Laden der Berichtabfrage ist ein Fehler aufgetreten, Daten zur Erstellung des Berichts können nicht abgerufen werden.
+Error.ReportQueryLoadingError = Beim Laden der Berichtabfrage ist ein Fehler aufgetreten, Daten zur Erstellung des Berichts kÃ¶nnen nicht abgerufen werden.
 
-Error.ReportQueryLoadingError2 = Berichtabfrage kann nicht geladen werden: {0}. Fehler beim Generieren des Berichtsdokuments für das Berichtselement mit ID {1}.
+Error.ReportQueryLoadingError2 = Berichtabfrage kann nicht geladen werden: {0}. Fehler beim Generieren des Berichtsdokuments fÃ¼r das Berichtselement mit ID {1}.
 
 Error.ExtentionIDMissingError = Fehlende Erweiterungs-ID in Datenquellendefinition: {0}
 
 Error.DataExportionError = Daten konnten nicht nach Instanz-ID exportiert werden:{0}.
 
-Error.UnsupportedDocumentVersionError = Nicht unterstützte Dokumentversion: {0}.
+Error.UnsupportedDocumentVersionError = Nicht unterstÃ¼tzte Dokumentversion: {0}.
 
-Error.ResultsetIteratorError = Ergebnisiteration muss in gültige Zeile verschoben werden.
+Error.ResultsetIteratorError = Ergebnisiteration muss in gÃ¼ltige Zeile verschoben werden.
 
 Error.ReportDesignNotFoundError = Berichtdesign in Berichtdokument nicht gefunden: {0}.
 
 Error.PreparedQueryNotFoundError = Vorbereitete Abfrage {0} nicht gefunden.
 
-Error.IncorrectParentResultSetError = Falsches übergeordnetes Ergebnis für Unterabfrage: {0}.
+Error.IncorrectParentResultSetError = Falsches Ã¼bergeordnetes Ergebnis fÃ¼r Unterabfrage: {0}.
 
-Error.UnsupportedQueryTypeError = Nicht unterstützter Abfragetyp: {0}.
+Error.UnsupportedQueryTypeError = Nicht unterstÃ¼tzter Abfragetyp: {0}.
 
-Error.QueryNotBuiltError = Fehler beim Erstellen der Abfrage für Element: {0}.
+Error.QueryNotBuiltError = Fehler beim Erstellen der Abfrage fÃ¼r Element: {0}.
 
 Error.RenderTaskNotFinishedError = Rendern noch nicht abgeschlossen.
 
-Error.RenderOptionError = Zum Rendern eines Berichts müssen Renderoptionen angegeben werden.
+Error.RenderOptionError = Zum Rendern eines Berichts mÃ¼ssen Renderoptionen angegeben werden.
 
-Error.ReportArchiveError = Berichtarchiv ist bei der Ausführung eines Berichts nicht angegeben.
+Error.ReportArchiveError = Berichtarchiv ist bei der AusfÃ¼hrung eines Berichts nicht angegeben.
 
-Error.ReportDocNameNotSpecifiedError = Berichtdokumentname ist bei der Ausführung eines Berichts nicht angegeben.
+Error.ReportDocNameNotSpecifiedError = Berichtdokumentname ist bei der AusfÃ¼hrung eines Berichts nicht angegeben.
 
-Error.ReportRunError = Fehler bei der Ausführung des Berichts.
+Error.ReportRunError = Fehler bei der AusfÃ¼hrung des Berichts.
 
-Error.ReportDocmentOpenError = Berichtdokument konnte nicht geöffnet werden.
+Error.ReportDocmentOpenError = Berichtdokument konnte nicht geÃ¶ffnet werden.
 
-Error.ReportArchiveOpenError = Berichtarchiv kann nicht geöffnet werden.
+Error.ReportArchiveOpenError = Berichtarchiv kann nicht geÃ¶ffnet werden.
 
 Error.SkipError = Fehler beim Ignorieren.
 
@@ -185,16 +185,16 @@ Error.FailedToInitializeEmitter = Emitter konnte nicht initialisiert werden.
 PDFCreator = BIRT-Berichtengine {0} mit iText {1}.
 
 ###########################################################
-Error.FlashObjectNotSupported = Berichtobjekte aus Flash-Objekten werden in diesem Berichtformat nicht unterstützt.
+Error.FlashObjectNotSupported = Berichtobjekte aus Flash-Objekten werden in diesem Berichtformat nicht unterstÃ¼tzt.
 
-Error.ReportItemNotSupported = Das aktuelle Berichtobjekt wird in diesem Berichtformat nicht unterstützt.
+Error.ReportItemNotSupported = Das aktuelle Berichtobjekt wird in diesem Berichtformat nicht unterstÃ¼tzt.
 
 Error.ResourceUnreachable = Die Ressource dieses Berichtobjekts ist nicht erreichbar.
 
-Error.UpdateUserAgent = Aktivieren Sie die Flash-Unterstützung, oder laden Sie eine neuere Version des Adobe Readers herunter, um Flash-Inhalte in PDF-Dateien anzuzeigen.
+Error.UpdateUserAgent = Aktivieren Sie die Flash-UnterstÃ¼tzung, oder laden Sie eine neuere Version des Adobe Readers herunter, um Flash-Inhalte in PDF-Dateien anzuzeigen.
 
 ###########################################################
-Error.ReportRunnableNotSet = Auszuführender Bericht wurde nicht festgelegt.
+Error.ReportRunnableNotSet = AuszufÃ¼hrender Bericht wurde nicht festgelegt.
 
 Error.FailedToLoadTOCTree = TOC-Struktur konnte nicht geladen werden.
 
@@ -204,9 +204,9 @@ Error.FailedToSaveDesign = Fehler beim Speichern des Designs.
 
 Error.ExceptionOnCopyingArchives = Ausnahme beim Kopieren der Archive.
 
-Error.UnsupportedCoreStreamVersion = Nicht unterstützte Core-Stream-Version: {0}.
+Error.UnsupportedCoreStreamVersion = Nicht unterstÃ¼tzte Core-Stream-Version: {0}.
 
-Error.UnsupportedEngineExtension = Nicht unterstützte Engine-Erweiterung {0}.
+Error.UnsupportedEngineExtension = Nicht unterstÃ¼tzte Engine-Erweiterung {0}.
 
 Error.FailToCreateDataEngine = Daten-Engine kann nicht erstellt werden.
 
@@ -218,7 +218,7 @@ Error.UnknownContentVersion = Unbekannte Inhaltsversion.
 
 Error.UnknownFieldID = Unbekannte Feld-ID: {0}.
 
-Error.ResourceNotAccessible = Zugriff auf {0} nicht möglich.
+Error.ResourceNotAccessible = Zugriff auf {0} nicht mÃ¶glich.
 
 Error.ERROR_WITH_STATUS=Fehler in Dokument: {0}.
 

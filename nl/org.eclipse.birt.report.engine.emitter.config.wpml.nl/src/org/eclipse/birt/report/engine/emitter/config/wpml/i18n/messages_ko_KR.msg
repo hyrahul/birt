@@ -11,18 +11,18 @@
 
 ###########################################################
 #Word Emitter
-WordEmitter.Description=XML ¹®¼­ 2003 Çü½ÄÀÇ º¸°í¼­ ·»´õ¸µ ¿É¼ÇÀ» ±¸¼ºÇÕ´Ï´Ù.
+WordEmitter.Description=XML ë¬¸ì„œ 2003 í˜•ì‹ì˜ ë³´ê³ ì„œ ë Œë”ë§ ì˜µì…˜ì„ êµ¬ì„±í•©ë‹ˆë‹¤.
 
 WordEmitter.DisplayName=Word (DOC)
 
 ###########################################################
 #Option Display Value
-OptionDisplayValue.ChartDpi=Â÷Æ® DPI
+OptionDisplayValue.ChartDpi=ì°¨íŠ¸ DPI
 
 ###########################################################
 #Option Description
-OptionDescription.ChartDpi=DPI´Â Â÷Æ®¸¦ »ı¼ºÇÏ´Â µ¥ »ç¿ëÇÕ´Ï´Ù.
+OptionDescription.ChartDpi=DPIëŠ” ì°¨íŠ¸ë¥¼ ìƒì„±í•˜ëŠ” ë° ì‚¬ìš©í•©ë‹ˆë‹¤.
 
 ###########################################################
 #tooltip
-Tooltip.ChartDpi=Â÷Æ® ¿£Áø¿¡¼­ Â÷Æ®¸¦ »ı¼ºÇÏ´Â µ¥ »ç¿ëÇÏ´Â DPIÀÔ´Ï´Ù. ¿¹: 192.
+Tooltip.ChartDpi=ì°¨íŠ¸ ì—”ì§„ì—ì„œ ì°¨íŠ¸ë¥¼ ìƒì„±í•˜ëŠ” ë° ì‚¬ìš©í•˜ëŠ” DPIì…ë‹ˆë‹¤. ì˜ˆ: 192.

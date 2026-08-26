@@ -16,10 +16,10 @@ LaunchActionSet.label=D&epurar informe
 
 Script.source.locator=Localizador de fuente de script de informe
 
-Debug.jsEditor=Editor de JavaScript para depuración de informe
+Debug.jsEditor=Editor de JavaScript para depuraciÃ³n de informe
 
 javaSourceLocatorName=Java Source Locator
-Watch.label=Añadir a Vigilar
+Watch.label=AÃ±adir a Vigilar
 
 ReportActionSet=Conjunto de acciones de informe
 
@@ -29,9 +29,9 @@ ScriptLaunchShortcut.label=Informe
 
 DebugReportLaunchShortcut.description=Depurar un informe
 
-EnableBreakpoint.label=Activar punto de interrupción
+EnableBreakpoint.label=Activar punto de interrupciÃ³n
 
-ToggleBreakpoint.label=Alternar punto de interrupción
+ToggleBreakpoint.label=Alternar punto de interrupciÃ³n
 
 Action.DebugReport=Depurar informe
 

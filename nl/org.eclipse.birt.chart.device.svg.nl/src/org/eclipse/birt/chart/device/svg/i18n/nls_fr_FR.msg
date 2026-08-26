@@ -1,4 +1,4 @@
-SVGRendererImpl.exception.UnableToWriteChartImage=Impossible d'écrire l'image du graphique vers le descripteur de sortie SVG défini par {0}
+SVGRendererImpl.exception.UnableToWriteChartImage=Impossible d'Ã©crire l'image du graphique vers le descripteur de sortie SVG dÃ©fini par {0}
 
 SVGGraphics2D.drawImage.image=Moteur de rendu SVG -drawImage(Image arg0, AffineTransform arg1, ImageObserver arg2) - non pris en charge
 

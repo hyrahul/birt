@@ -1,19 +1,19 @@
-Connection.PropertiesMissing=‚¢‚­‚Â‚©‚ÌÚ‘±ƒvƒƒpƒeƒB‚ª‚ ‚è‚Ü‚¹‚ñB
+Connection.PropertiesMissing=ã„ãã¤ã‹ã®æ¥ç¶šãƒ—ãƒ­ãƒ‘ãƒ†ã‚£ãŒã‚ã‚Šã¾ã›ã‚“ã€‚
 
-Connection.InvalidAppContext=AppContext ‚ª–³Œø‚Å‚·B
+Connection.InvalidAppContext=AppContext ãŒç„¡åŠ¹ã§ã™ã€‚
 
-Constants.DriverName=ODA XML ƒhƒ‰ƒCƒo
+Constants.DriverName=ODA XML ãƒ‰ãƒ©ã‚¤ãƒ
 
-ResultSet.ResultSetClosed=Œ‹‰ÊƒZƒbƒg‚ğ•Â‚¶‚Ü‚µ‚½B
+ResultSet.ResultSetClosed=çµæœã‚»ãƒƒãƒˆã‚’é–‰ã˜ã¾ã—ãŸã€‚
 
-Query.QueryHasNotBeenPrepared=ƒNƒGƒŠ‚ª‚Ü‚¾‹Lq‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+Query.QueryHasNotBeenPrepared=ã‚¯ã‚¨ãƒªãŒã¾ã è¨˜è¿°ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-Query.ResultSetClosed=Œ‹‰ÊƒZƒbƒg‚ğ•Â‚¶‚Ü‚µ‚½B
+Query.ResultSetClosed=çµæœã‚»ãƒƒãƒˆã‚’é–‰ã˜ã¾ã—ãŸã€‚
 
-Query.InvalidQueryText=ƒNƒGƒŠƒeƒLƒXƒg‚ª–³Œø‚Å‚·B
+Query.InvalidQueryText=ã‚¯ã‚¨ãƒªãƒ†ã‚­ã‚¹ãƒˆãŒç„¡åŠ¹ã§ã™ã€‚
 
-RelationInformation.InputStringCannotBeNull=“ü—Í•¶š—ñ‚Í null ‚Ü‚½‚Í‹ó”’‚É‚Å‚«‚Ü‚¹‚ñB
+RelationInformation.InputStringCannotBeNull=å…¥åŠ›æ–‡å­—åˆ—ã¯ null ã¾ãŸã¯ç©ºç™½ã«ã§ãã¾ã›ã‚“ã€‚
 
-RelationInformation.InvalidDataTypeName=w’è‚³‚ê‚½ƒf[ƒ^Œ^‚Ì–¼‘O‚ª–³Œø‚Å‚·B
+RelationInformation.InvalidDataTypeName=æŒ‡å®šã•ã‚ŒãŸãƒ‡ãƒ¼ã‚¿å‹ã®åå‰ãŒç„¡åŠ¹ã§ã™ã€‚
 
-DateUtil.ConvertFails=“ú•t‚É•ÏŠ·‚Å‚«‚Ü‚¹‚ñBƒ\[ƒX :
+DateUtil.ConvertFails=æ—¥ä»˜ã«å¤‰æ›ã§ãã¾ã›ã‚“ã€‚ã‚½ãƒ¼ã‚¹ :

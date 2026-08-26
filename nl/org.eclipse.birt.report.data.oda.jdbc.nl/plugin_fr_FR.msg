@@ -55,7 +55,7 @@ dataset.connection.isolationmode.read-committed=read-committed
 
 dataset.connection.isolationmode.repeatable-read=repeatable-read
 
-dataset.connection.isolationmode.serializable=sérialisable
+dataset.connection.isolationmode.serializable=sÃ©rialisable
                
 #
 #  Below NLS messages apply to all ODA data sources; should be re-factored

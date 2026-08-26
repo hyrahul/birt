@@ -1,4 +1,4 @@
-dataset.editor.page.query=Äõ¸®
+dataset.editor.page.query=ì¿¼ë¦¬
 
 # Plug-in Profile Configuration
 #
@@ -9,10 +9,10 @@ oda.data.source.id=org.eclipse.birt.report.data.oda.sampledb
 #
 plugin.name=BIRT Sample DB Designer
 newwizard.name=BIRT Sample DB Data Source
-newwizard.description=BIRT »ùÇÃ DB ¿¬°á ÇÁ·ÎÇÊ »ı¼º
+newwizard.description=BIRT ìƒ˜í”Œ DB ì—°ê²° í”„ë¡œí•„ ìƒì„±
 
-wizard.window.title=»õ »ùÇÃ DB µ¥ÀÌÅÍ ¿øº» ÇÁ·ÎÇÊ
+wizard.window.title=ìƒˆ ìƒ˜í”Œ DB ë°ì´í„° ì›ë³¸ í”„ë¡œí•„
 
-wizard.data.source.page.title=New Classic Models Inc. »ùÇÃ µ¥ÀÌÅÍ ¿øº»
+wizard.data.source.page.title=New Classic Models Inc. ìƒ˜í”Œ ë°ì´í„° ì›ë³¸
 
 profile.propertypage.name=BIRT Sample DB Data Source Connection Properties

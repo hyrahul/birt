@@ -14,21 +14,21 @@
 # General Info
 ###############################################################################
 LibPerspective=Lib Design
-LibraryEditor=Editor de librerías
+LibraryEditor=Editor de librerÃ­as
 
 WizardCategoryName=Business Intelligence and Reporting Tools
-LibraryWizard=Librería
+LibraryWizard=LibrerÃ­a
 
-LibraryWizardDescription=Este asistente crea una nueva librería.
+LibraryWizardDescription=Este asistente crea una nueva librerÃ­a.
 
-LibraryProjectWizard=Proyecto de librería
+LibraryProjectWizard=Proyecto de librerÃ­a
 
-LibraryProjectWizardDescription=Crea un nuevo proyecto de librería.
+LibraryProjectWizardDescription=Crea un nuevo proyecto de librerÃ­a.
 
-library.layout=Diseñ&o
+library.layout=DiseÃ±&o
 
 library.script=&Script
 
 library.xmlsource=&Fuente XML
 
-design.masterPage=&Página maestra
+design.masterPage=&PÃ¡gina maestra

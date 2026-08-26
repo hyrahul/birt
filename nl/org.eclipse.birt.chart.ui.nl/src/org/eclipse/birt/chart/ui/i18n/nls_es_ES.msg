@@ -12,19 +12,19 @@ ButtonPanel.Lbl.Previous=< Anterior
 
 ButtonPanel.Lbl.Next=Siguiente >
 
-ChartAdapter.Info.NotificationRecieved=ChartAdapter: notificación recibida para {0}
+ChartAdapter.Info.NotificationRecieved=ChartAdapter: notificaciÃ³n recibida para {0}
 
 ChartAdapter.Info.NewValue=ChartAdapter: el nuevo valor es {0}
 
 ChartSelector.Lbl.ChartSubtypes=Subtipos de diagrama
 
-ChartDlg.Msg.ValidationErrors=Se han encontrado errores al verificar la definición de diagrama.\nSoluciónelos antes de visualizar el informe.\n\n
+ChartDlg.Msg.ValidationErrors=Se han encontrado errores al verificar la definiciÃ³n de diagrama.\nSoluciÃ³nelos antes de visualizar el informe.\n\n
 
-ChartDlg.Msg.AskCorrectLater=\n¿Desea cerrar el compilador de diagramas\ny solucionar los problemas más tarde?
+ChartDlg.Msg.AskCorrectLater=\nÂ¿Desea cerrar el compilador de diagramas\ny solucionar los problemas mÃ¡s tarde?
 
-ChartDlg.Info.ChartDimension=Dimensión:
+ChartDlg.Info.ChartDimension=DimensiÃ³n:
 
-ChartDlg.Info.AxisOrientation=\tOrientación:
+ChartDlg.Info.AxisOrientation=\tOrientaciÃ³n:
 
 ChartSelector.Lbl.ChartTypes2=Tipos de diagrama
 
@@ -32,35 +32,35 @@ ChartSelector.Lbl.DefineChart=Definir diagrama >>
 
 ChartDlg.Info.AssociatedAxis=\t\tEje asoc.:
 
-ChartDlg.Info.LineThickness2=\tGrosor de línea:
+ChartDlg.Info.LineThickness2=\tGrosor de lÃ­nea:
 
 ChartSelector.Lbl.ChartTypes=Tipos de diagrama:
 
 ChartSelector.Lbl.Transposed=Transpuesto
 
-ChartAdapter.Exception.Exception=Excepción:
+ChartAdapter.Exception.Exception=ExcepciÃ³n:
 
 ChartAdapter.Exception.WrappedIn=Empaquetado en:
 
-ChartUIUtil.Exception.NoValueReturned=No se ha devuelto ningún valor. Especifique un conjunto de datos válido.
+ChartUIUtil.Exception.NoValueReturned=No se ha devuelto ningÃºn valor. Especifique un conjunto de datos vÃ¡lido.
 
 ChartAdapter.Exception.Message=Mensaje:
 
-ChartDlg.Info.CannotChangeSelection=NOTA: No puede cambiar la selección de diagrama si el diagrama actual no tiene el tipo ni el subtipo ajustados.
+ChartDlg.Info.CannotChangeSelection=NOTA: No puede cambiar la selecciÃ³n de diagrama si el diagrama actual no tiene el tipo ni el subtipo ajustados.
 
 ChartAdapter.Exception.Trace=Rastreo:
 
 ChartSelector.Title.ChartSelector=Selector de diagrama
 
-ChartDlg.Title.ValidationResults=Resultados de validación
+ChartDlg.Title.ValidationResults=Resultados de validaciÃ³n
 
-ChartDlg.Title.ChartBuilder=Cuadro de diálogo de diagrama
+ChartDlg.Title.ChartBuilder=Cuadro de diÃ¡logo de diagrama
 
 DefaultChartTypeImpl.Label.ValueDefinitionName=Serie (&Y) del valor:
 
-DefaultUIServiceProviderImpl.Warn.Placeholder=DefaultUIServiceProviderImpl : Se trata de una clase de marcador de posición y no realiza ninguna acción.
+DefaultUIServiceProviderImpl.Warn.Placeholder=DefaultUIServiceProviderImpl : Se trata de una clase de marcador de posiciÃ³n y no realiza ninguna acciÃ³n.
 
-SheetPlaceHolder.Lbl.Placeholder=Es un marcador de posición para {0}
+SheetPlaceHolder.Lbl.Placeholder=Es un marcador de posiciÃ³n para {0}
 
 ChartDlg.Info.ChartStart=--------------------------- Inicio de propiedades de diagrama -------------------------
 
@@ -68,17 +68,17 @@ ChartDlg.Info.ChartType=Tipo:
 
 ChartDlg.Info.ChartSubType=Subtipo:
 
-ChartDlg.Info.Orientation=Orientación:
+ChartDlg.Info.Orientation=OrientaciÃ³n:
 
-ChartDlg.Info.AxisCount=Nº de ejes:
+ChartDlg.Info.AxisCount=NÂº de ejes:
 
-ChartDlg.Info.AxisStart=--------------------------- Información de ejes ----------------------------
+ChartDlg.Info.AxisStart=--------------------------- InformaciÃ³n de ejes ----------------------------
 
-ChartDlg.Info.AxisTitle=\tTítulo:
+ChartDlg.Info.AxisTitle=\tTÃ­tulo:
 
-ChartDlg.Info.SeriesCount=\tNº de series:
+ChartDlg.Info.SeriesCount=\tNÂº de series:
 
-ChartDlg.Info.SeriesStart=--------------------------- Información de series ----------------------------
+ChartDlg.Info.SeriesStart=--------------------------- InformaciÃ³n de series ----------------------------
 
 ChartDlg.Info.DataSource=\t\tPrimera fuente:
 
@@ -86,15 +86,15 @@ ChartDlg.Info.SeriesType=\t\tTipo de serie:
 
 ChartDlg.Info.Riser=\t\tGanancia:
 
-ChartDlg.Info.LineStyle=\t\tEstilo de línea:
+ChartDlg.Info.LineStyle=\t\tEstilo de lÃ­nea:
 
 ChartDlg.Info.Fill=\t\tRelleno:
 
-ChartDlg.Info.LineStyle2=\t\tEstilo de línea:
+ChartDlg.Info.LineStyle2=\t\tEstilo de lÃ­nea:
 
 ChartDlg.Info.Values=\t\tValores:
 
-ChartDlg.Info.AxisEnd=--------------------------- Información de ejes ----------------------------
+ChartDlg.Info.AxisEnd=--------------------------- InformaciÃ³n de ejes ----------------------------
 
 ChartDlg.Info.ChartEnd=--------------------------- Fin de propiedades de diagrama -------------------------
 
@@ -114,19 +114,19 @@ ChartUIUtil.SeriesLabel=Serie {0}
 
 ChartUIUtil.StockExp.Low=Baja
 
-ChartUIUtil.Font.Auto=Automático
+ChartUIUtil.Font.Auto=AutomÃ¡tico
 
 ChartDlg.Info.ChartSubType2=Subtipo:
 
-ChartSelector.Lbl.Dimension=&Dimensión:
+ChartSelector.Lbl.Dimension=&DimensiÃ³n:
 
 ChartSelector.Lbl.EditChart=Editar diagrama >>
 
-ChartDlg.Info.Dimension=Dimensión:
+ChartDlg.Info.Dimension=DimensiÃ³n:
 
-ChartDlg.Info.SeriesCount2=Nº de series:
+ChartDlg.Info.SeriesCount2=NÂº de series:
 
-ChartDlg.Info.SeriesStart2=--------------------------- Información de series ----------------------------
+ChartDlg.Info.SeriesStart2=--------------------------- InformaciÃ³n de series ----------------------------
 
 ChartSelector.Lbl.Subtypes=Subtipos:
 
@@ -154,11 +154,11 @@ PreviewPanel.Title.Preview=Diagrama de muestra
 
 ChartWizard.Label.SelectChartTypeDataFormat=Seleccionar tipo de diagrama, datos y formato.
 
-TaskSelectData.Warning.CategoryGroupTypeCheck=El tipo de grupo {0} es incompatible con el tipo de datos de la serie de categoría.
+TaskSelectData.Warning.CategoryGroupTypeCheck=El tipo de grupo {0} es incompatible con el tipo de datos de la serie de categorÃ­a.
 
-TaskSelectData.Warning.YGroupTypeCheck=El tipo de grupo {0} es incompatible con el tipo de datos de la agrupación de series Y.
+TaskSelectData.Warning.YGroupTypeCheck=El tipo de grupo {0} es incompatible con el tipo de datos de la agrupaciÃ³n de series Y.
 
-TaskSelectType.Caption.OverlayAxis1=Título de eje Y
+TaskSelectType.Caption.OverlayAxis1=TÃ­tulo de eje Y
 
 ApplyButtonHandler.Label.Apply=Apl&icar
 
@@ -166,17 +166,17 @@ ChartUIUtil.GanttExp.Label=Etiqueta de tarea
 
 ChartUIUtil.GanttExp.Start=Fecha de inicio
 
-ChartUIUtil.GanttExp.End=Fecha de finalización
+ChartUIUtil.GanttExp.End=Fecha de finalizaciÃ³n
 
 ChartUIUtil.BubbleExp.Label=Valor Y
 
-ChartUIUtil.BubbleExp.Size=Tamaño
+ChartUIUtil.BubbleExp.Size=TamaÃ±o
 
 ChartUIUtil.DifferenceExp.Postive=Positivo
 
 ChartUIUtil.DifferenceExp.Negative=Negativo
 
-ChartUIUtil.TaskSelectData.Warning.CheckAgg.Aggregation=\ agregación.
+ChartUIUtil.TaskSelectData.Warning.CheckAgg.Aggregation=\ agregaciÃ³n.
 
 ChartUIUtil.TaskSelectData.Warning.CheckAgg.DefaultAggregate=predeterminado
 
@@ -193,16 +193,16 @@ SimpleHyperlinkBuilder.Title=Opciones de hiperlink
 
 SimpleHyperlinkBuilder.Label.SelectType=Seleccione tipo de hiperlink:
 
-SimpleHyperlinkBuilder.Label.Location=&Ubicación:
+SimpleHyperlinkBuilder.Label.Location=&UbicaciÃ³n:
 
 SimpleHyperlinkBuilder.Label.Target=&Destino:
 
-CustomPreviewTable.Exception.InvalidColumnIndexNotDefined=Se ha especificado un índice de columna {0} no válido o no se han definido aún columnas\.
+CustomPreviewTable.Exception.InvalidColumnIndexNotDefined=Se ha especificado un Ã­ndice de columna {0} no vÃ¡lido o no se han definido aÃºn columnas\.
 
-CustomPreviewTable.Exception.InvalidColumnIndexSpecified=Se ha especificado un índice de columna no válido\.
+CustomPreviewTable.Exception.InvalidColumnIndexSpecified=Se ha especificado un Ã­ndice de columna no vÃ¡lido\.
 
-CustomPreviewTable.Exception.InvalidColumnIndexSpecifiedOnly=Se ha especificado un índice de columna {0} no válido\. La tabla tiene sólo {1} columnas\.
+CustomPreviewTable.Exception.InvalidColumnIndexSpecifiedOnly=Se ha especificado un Ã­ndice de columna {0} no vÃ¡lido\. La tabla tiene sÃ³lo {1} columnas\.
 
-CustomPreviewTable.Exception.RowIndexGreaterThan0=El índice de fila debe ser superior o igual a 0\.
+CustomPreviewTable.Exception.RowIndexGreaterThan0=El Ã­ndice de fila debe ser superior o igual a 0\.
 
 ExprEditComposite.InvokeExpressionBuilder=Llamar al compilador de expresiones

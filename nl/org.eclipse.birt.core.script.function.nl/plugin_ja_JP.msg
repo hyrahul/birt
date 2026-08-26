@@ -1,5 +1,5 @@
 #Properties file for org.eclipse.birt.core.script.bre
-Bundle-Name.0 = ŠÖ”ƒvƒ‰ƒOƒCƒ“
+Bundle-Name.0 = é–¢æ•°ãƒ—ãƒ©ã‚°ã‚¤ãƒ³
 
 dataType.String=String
 
@@ -16,212 +16,212 @@ dataType.Boolean=Boolean
 
 dataType.DoubleArray=Double[]
 
-FunctionDesc.charLength=•¶š—ñ“à‚Ì•¶š”‚ğ•Ô‚µ‚Ü‚·B
+FunctionDesc.charLength=æ–‡å­—åˆ—å†…ã®æ–‡å­—æ•°ã‚’è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.concat=w’è‚µ‚½‚·‚×‚Ä‚Ì•¶š—ñ‚ğŒ‹‡‚µ‚½•¶š—ñ‚ğ•Ô‚µ‚Ü‚·B
+FunctionDesc.concat=æŒ‡å®šã—ãŸã™ã¹ã¦ã®æ–‡å­—åˆ—ã‚’çµåˆã—ãŸæ–‡å­—åˆ—ã‚’è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.indexOf=ƒ\[ƒX•¶š—ñ‚Åƒ^[ƒQƒbƒg‚ğŒŸõ‚µAÅ‰‚Éƒpƒ^[ƒ“‚Éˆê’v‚·‚é•¶š‚ÌƒCƒ“ƒfƒbƒNƒX‚ğ•Ô‚µ‚Ü‚·B \nŒŸõ‚ÍAstart ‚Åw’è‚µ‚½ˆÊ’u‚©‚çŠJn‚³‚ê‚Ü‚·B ‚·‚×‚Ä‚ÌƒCƒ“ƒfƒbƒNƒX’l‚Íƒ[ƒƒx[ƒX‚Å‚·B\nstart ‚ğÈ—ª‚µ‚½ê‡A0 ‚ªw’è‚³‚ê‚½‚Æ‚İ‚È‚³‚ê‚Ü‚·B \n•¶š—ñŒŸõ‚Å‚Í‘å•¶š‚Æ¬•¶š‚ª‹æ•Ê‚³‚ê‚Ü‚·B
+FunctionDesc.indexOf=ã‚½ãƒ¼ã‚¹æ–‡å­—åˆ—ã§ã‚¿ãƒ¼ã‚²ãƒƒãƒˆã‚’æ¤œç´¢ã—ã€æœ€åˆã«ãƒ‘ã‚¿ãƒ¼ãƒ³ã«ä¸€è‡´ã™ã‚‹æ–‡å­—ã®ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ã‚’è¿”ã—ã¾ã™ã€‚ \næ¤œç´¢ã¯ã€start ã§æŒ‡å®šã—ãŸä½ç½®ã‹ã‚‰é–‹å§‹ã•ã‚Œã¾ã™ã€‚ ã™ã¹ã¦ã®ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹å€¤ã¯ã‚¼ãƒ­ãƒ™ãƒ¼ã‚¹ã§ã™ã€‚\nstart ã‚’çœç•¥ã—ãŸå ´åˆã€0 ãŒæŒ‡å®šã•ã‚ŒãŸã¨ã¿ãªã•ã‚Œã¾ã™ã€‚ \næ–‡å­—åˆ—æ¤œç´¢ã§ã¯å¤§æ–‡å­—ã¨å°æ–‡å­—ãŒåŒºåˆ¥ã•ã‚Œã¾ã™ã€‚
 
-FunctionDesc.left=•¶š—ñ‚ÌÅ‰‚©‚ç n ŒÂ‚Ì•¶š‚ğ•Ô‚µ‚Ü‚·B \nn ‚ª 0 ‚Ìê‡‚ÍA‹ó”’‚Ì•¶š—ñ‚ğ•Ô‚µ‚Ü‚·B \nn ‚ª str ‚Ì’·‚³‚æ‚è‚à‘å‚«‚¢ê‡‚ÍA•¶š—ñ‘S‘Ì‚ğ•Ô‚µ‚Ü‚·B \nn ‚ğÈ—ª‚µ‚½ê‡‚ÍA’l 1 ‚ğg—p‚µ‚Ü‚·B
+FunctionDesc.left=æ–‡å­—åˆ—ã®æœ€åˆã‹ã‚‰ n å€‹ã®æ–‡å­—ã‚’è¿”ã—ã¾ã™ã€‚ \nn ãŒ 0 ã®å ´åˆã¯ã€ç©ºç™½ã®æ–‡å­—åˆ—ã‚’è¿”ã—ã¾ã™ã€‚ \nn ãŒ str ã®é•·ã•ã‚ˆã‚Šã‚‚å¤§ãã„å ´åˆã¯ã€æ–‡å­—åˆ—å…¨ä½“ã‚’è¿”ã—ã¾ã™ã€‚ \nn ã‚’çœç•¥ã—ãŸå ´åˆã¯ã€å€¤ 1 ã‚’ä½¿ç”¨ã—ã¾ã™ã€‚
 
-FunctionDesc.right=•¶š—ñ str ‚ÌÅŒã‚©‚ç n ŒÂ‚Ì•¶š‚ğ•Ô‚µ‚Ü‚·B \nn ‚ª 0 ‚Ìê‡‚ÍA‹ó”’‚Ì•¶š—ñ‚ğ•Ô‚µ‚Ü‚·B n ‚ª str ‚Ì’·‚³‚æ‚è‚à‘å‚«‚¢ê‡‚ÍA•¶š—ñ‘S‘Ì‚ğ•Ô‚µ‚Ü‚·B \nn ‚ğÈ—ª‚µ‚½ê‡‚ÍA’l 1 ‚ğg—p‚µ‚Ü‚·B
+FunctionDesc.right=æ–‡å­—åˆ— str ã®æœ€å¾Œã‹ã‚‰ n å€‹ã®æ–‡å­—ã‚’è¿”ã—ã¾ã™ã€‚ \nn ãŒ 0 ã®å ´åˆã¯ã€ç©ºç™½ã®æ–‡å­—åˆ—ã‚’è¿”ã—ã¾ã™ã€‚ n ãŒ str ã®é•·ã•ã‚ˆã‚Šã‚‚å¤§ãã„å ´åˆã¯ã€æ–‡å­—åˆ—å…¨ä½“ã‚’è¿”ã—ã¾ã™ã€‚ \nn ã‚’çœç•¥ã—ãŸå ´åˆã¯ã€å€¤ 1 ã‚’ä½¿ç”¨ã—ã¾ã™ã€‚
 
-FunctionDesc.search=indexOf ŠÖ”‚Æ‚Ù‚Ú“¯‚¶‚Å‚·‚ªŸ‚Ì“_‚ÅˆÙ‚È‚è‚Ü‚· : \n(1) •¶š—ñ‚Ì”äŠr‚Å‚Í‘å•¶š‚Æ¬•¶š‚ğ‹æ•Ê‚È‚¢\n(2) ƒpƒ^[ƒ“•¶š—ñ‚É‚ÍƒƒCƒ‹ƒhƒJ[ƒh•¶š‚ğŠÜ‚ß‚é‚±‚Æ‚ª‚Å‚«‚é\n* ‚Í”CˆÓ‚Ì•¶š‚ÌƒV[ƒPƒ“ƒX (‹ó”’‚ğŠÜ‚Ş) ‚Éˆê’v‚·‚é\n?  ‚ÍA”CˆÓ‚Ì 1 •¶š‚Éˆê’v‚·‚é
+FunctionDesc.search=indexOf é–¢æ•°ã¨ã»ã¼åŒã˜ã§ã™ãŒæ¬¡ã®ç‚¹ã§ç•°ãªã‚Šã¾ã™ : \n(1) æ–‡å­—åˆ—ã®æ¯”è¼ƒã§ã¯å¤§æ–‡å­—ã¨å°æ–‡å­—ã‚’åŒºåˆ¥ãªã„\n(2) ãƒ‘ã‚¿ãƒ¼ãƒ³æ–‡å­—åˆ—ã«ã¯ãƒ¯ã‚¤ãƒ«ãƒ‰ã‚«ãƒ¼ãƒ‰æ–‡å­—ã‚’å«ã‚ã‚‹ã“ã¨ãŒã§ãã‚‹\n* ã¯ä»»æ„ã®æ–‡å­—ã®ã‚·ãƒ¼ã‚±ãƒ³ã‚¹ (ç©ºç™½ã‚’å«ã‚€) ã«ä¸€è‡´ã™ã‚‹\n?  ã¯ã€ä»»æ„ã® 1 æ–‡å­—ã«ä¸€è‡´ã™ã‚‹
 
-FunctionDesc.toLower=•¶š—ñ‚Ìƒ\[ƒX‚É‚ ‚é‚·‚×‚Ä‚Ì•¶š‚ğ¬•¶š‚É•ÏŠ·‚µ‚Ü‚·B
+FunctionDesc.toLower=æ–‡å­—åˆ—ã®ã‚½ãƒ¼ã‚¹ã«ã‚ã‚‹ã™ã¹ã¦ã®æ–‡å­—ã‚’å°æ–‡å­—ã«å¤‰æ›ã—ã¾ã™ã€‚
 
-FunctionDesc.toUpper=•¶š—ñ‚Ìƒ\[ƒX‚É‚ ‚é‚·‚×‚Ä‚Ì•¶š‚ğ‘å•¶š‚É•ÏŠ·‚µ‚Ü‚·B
+FunctionDesc.toUpper=æ–‡å­—åˆ—ã®ã‚½ãƒ¼ã‚¹ã«ã‚ã‚‹ã™ã¹ã¦ã®æ–‡å­—ã‚’å¤§æ–‡å­—ã«å¤‰æ›ã—ã¾ã™ã€‚
 
-FunctionDesc.trim=æ“ª‚¨‚æ‚Ñ––”ö‚É‚ ‚é‚·‚×‚Ä‚Ì‹ó”’•¶š (ƒXƒy[ƒXAƒ^ƒu‚È‚Ç) ‚ğíœ‚µ‚Ü‚·B\n‚Ü‚½A˜A‘±‚·‚é‚·‚×‚Ä‚Ì‹ó”’•¶š‚Í 1 ‚Â‚ÉŒ‹‡‚³‚ê‚Ü‚·B
+FunctionDesc.trim=å…ˆé ­ãŠã‚ˆã³æœ«å°¾ã«ã‚ã‚‹ã™ã¹ã¦ã®ç©ºç™½æ–‡å­— (ã‚¹ãƒšãƒ¼ã‚¹ã€ã‚¿ãƒ–ãªã©) ã‚’å‰Šé™¤ã—ã¾ã™ã€‚\nã¾ãŸã€é€£ç¶šã™ã‚‹ã™ã¹ã¦ã®ç©ºç™½æ–‡å­—ã¯ 1 ã¤ã«çµåˆã•ã‚Œã¾ã™ã€‚
 
-FunctionDesc.trimLeft=æ“ª‚É‚ ‚é‚·‚×‚Ä‚Ì‹ó”’‚ğíœ‚µ‚Ü‚·B ––”ö‚¨‚æ‚Ñ’PŒêŠÔ‚Ì‹ó”’‚Ííœ‚³‚ê‚Ü‚¹‚ñB
+FunctionDesc.trimLeft=å…ˆé ­ã«ã‚ã‚‹ã™ã¹ã¦ã®ç©ºç™½ã‚’å‰Šé™¤ã—ã¾ã™ã€‚ æœ«å°¾ãŠã‚ˆã³å˜èªé–“ã®ç©ºç™½ã¯å‰Šé™¤ã•ã‚Œã¾ã›ã‚“ã€‚
 
-FunctionDesc.trimRight=––”ö‚É‚ ‚é‚·‚×‚Ä‚Ì‹ó”’‚ğíœ‚µ‚Ü‚·B æ“ª‚¨‚æ‚Ñ’PŒêŠÔ‚Ì‹ó”’‚Ííœ‚³‚ê‚Ü‚¹‚ñB
+FunctionDesc.trimRight=æœ«å°¾ã«ã‚ã‚‹ã™ã¹ã¦ã®ç©ºç™½ã‚’å‰Šé™¤ã—ã¾ã™ã€‚ å…ˆé ­ãŠã‚ˆã³å˜èªé–“ã®ç©ºç™½ã¯å‰Šé™¤ã•ã‚Œã¾ã›ã‚“ã€‚
 
-FunctionDesc.anyOf=ƒ\[ƒX‚ªƒ^[ƒQƒbƒg‚Åw’è‚µ‚½”ÍˆÍ‚ÉŠÜ‚Ü‚ê‚é‚©
+FunctionDesc.anyOf=ã‚½ãƒ¼ã‚¹ãŒã‚¿ãƒ¼ã‚²ãƒƒãƒˆã§æŒ‡å®šã—ãŸç¯„å›²ã«å«ã¾ã‚Œã‚‹ã‹
 
-FunctionDesc.between=ƒ\[ƒX‚ªƒ^[ƒQƒbƒg 1 ‚Æƒ^[ƒQƒbƒg 2 ‚ÌŠÔ‚É‚ ‚éê‡‚Í TRUEA ‚»‚êˆÈŠO‚Í FALSE •Ô‚µ‚Ü‚·B
+FunctionDesc.between=ã‚½ãƒ¼ã‚¹ãŒã‚¿ãƒ¼ã‚²ãƒƒãƒˆ 1 ã¨ã‚¿ãƒ¼ã‚²ãƒƒãƒˆ 2 ã®é–“ã«ã‚ã‚‹å ´åˆã¯ TRUEã€ ãã‚Œä»¥å¤–ã¯ FALSE è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.notBetween=ƒ\[ƒX‚ªƒ^[ƒQƒbƒg 1 ‚Æƒ^[ƒQƒbƒg 2 ‚ÌŠÔ‚É‚È‚¢ê‡‚Í TRUEA ‚»‚êˆÈŠO‚Í FALSE •Ô‚µ‚Ü‚·B
+FunctionDesc.notBetween=ã‚½ãƒ¼ã‚¹ãŒã‚¿ãƒ¼ã‚²ãƒƒãƒˆ 1 ã¨ã‚¿ãƒ¼ã‚²ãƒƒãƒˆ 2 ã®é–“ã«ãªã„å ´åˆã¯ TRUEã€ ãã‚Œä»¥å¤–ã¯ FALSE è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.equalTo=ƒ\[ƒX‚Íƒ^[ƒQƒbƒg‚Æ“™‚µ‚¢
+FunctionDesc.equalTo=ã‚½ãƒ¼ã‚¹ã¯ã‚¿ãƒ¼ã‚²ãƒƒãƒˆã¨ç­‰ã—ã„
 
-FunctionDesc.greaterThan=ƒ\[ƒX‚Íƒ^[ƒQƒbƒg‚æ‚è‘å‚«‚¢
+FunctionDesc.greaterThan=ã‚½ãƒ¼ã‚¹ã¯ã‚¿ãƒ¼ã‚²ãƒƒãƒˆã‚ˆã‚Šå¤§ãã„
 
-FunctionDesc.lessThan=ƒ\[ƒX‚Íƒ^[ƒQƒbƒg‚æ‚è¬‚³‚¢
+FunctionDesc.lessThan=ã‚½ãƒ¼ã‚¹ã¯ã‚¿ãƒ¼ã‚²ãƒƒãƒˆã‚ˆã‚Šå°ã•ã„
 
-FunctionDesc.greaterOrEqual=ƒ\[ƒX‚Íƒ^[ƒQƒbƒgˆÈã
+FunctionDesc.greaterOrEqual=ã‚½ãƒ¼ã‚¹ã¯ã‚¿ãƒ¼ã‚²ãƒƒãƒˆä»¥ä¸Š
 
-FunctionDesc.lessOrEqual=ƒ\[ƒX‚Íƒ^[ƒQƒbƒgˆÈ‰º
+FunctionDesc.lessOrEqual=ã‚½ãƒ¼ã‚¹ã¯ã‚¿ãƒ¼ã‚²ãƒƒãƒˆä»¥ä¸‹
 
-FunctionDesc.notEqual=ƒ\[ƒX‚Æƒ^[ƒQƒbƒg‚Í“™‚µ‚­‚È‚¢
+FunctionDesc.notEqual=ã‚½ãƒ¼ã‚¹ã¨ã‚¿ãƒ¼ã‚²ãƒƒãƒˆã¯ç­‰ã—ããªã„
 
-FunctionDesc.like=ƒ\[ƒX‚Íƒ^[ƒQƒbƒg‚Ì SQL ƒpƒ^[ƒ“‚Æˆê’v
+FunctionDesc.like=ã‚½ãƒ¼ã‚¹ã¯ã‚¿ãƒ¼ã‚²ãƒƒãƒˆã® SQL ãƒ‘ã‚¿ãƒ¼ãƒ³ã¨ä¸€è‡´
 
-FunctionDesc.notLike=ƒ\[ƒX‚Íƒ^[ƒQƒbƒg‚Ì SQL ƒpƒ^[ƒ“‚Æˆê’v‚µ‚È‚¢
+FunctionDesc.notLike=ã‚½ãƒ¼ã‚¹ã¯ã‚¿ãƒ¼ã‚²ãƒƒãƒˆã® SQL ãƒ‘ã‚¿ãƒ¼ãƒ³ã¨ä¸€è‡´ã—ãªã„
 
-FunctionDesc.match=ƒ\[ƒX‚Íƒ^[ƒQƒbƒg‚Ì JavaScript ƒpƒ^[ƒ“‚Æˆê’v
+FunctionDesc.match=ã‚½ãƒ¼ã‚¹ã¯ã‚¿ãƒ¼ã‚²ãƒƒãƒˆã® JavaScript ãƒ‘ã‚¿ãƒ¼ãƒ³ã¨ä¸€è‡´
 
-FunctionDesc.compareString=2 ‚Â‚Ì•¶š—ñ‚ğw’è‚µ‚½ğŒ‚Å”äŠr
+FunctionDesc.compareString=2 ã¤ã®æ–‡å­—åˆ—ã‚’æŒ‡å®šã—ãŸæ¡ä»¶ã§æ¯”è¼ƒ
 
-FunctionDesc.add=2 ‚Â‚Ì”’l n1 ‚Æ n2 ‚Ì‡ŒvB
+FunctionDesc.add=2 ã¤ã®æ•°å€¤ n1 ã¨ n2 ã®åˆè¨ˆã€‚
 
-FunctionDesc.substract=n1 ‚©‚ç n2 ‚ğˆø‚­
+FunctionDesc.substract=n1 ã‹ã‚‰ n2 ã‚’å¼•ã
 
-FunctionDesc.multiple=n1 ‚Æ n2 ‚ğŠ|‚¯‚éB ‚±‚ÌŠÖ”‚ÍAŠÖ” [multiply] ‚Ì‰ºˆÊŒİŠ·–Ú“I‚Å‚Ì‚İg—p‚Å‚«‚Ü‚·B
+FunctionDesc.multiple=n1 ã¨ n2 ã‚’æ›ã‘ã‚‹ã€‚ ã“ã®é–¢æ•°ã¯ã€é–¢æ•° [multiply] ã®ä¸‹ä½äº’æ›ç›®çš„ã§ã®ã¿ä½¿ç”¨ã§ãã¾ã™ã€‚
 
-FunctionDesc.multiply=n1 ‚Æ n2 ‚ğŠ|‚¯‚é
+FunctionDesc.multiply=n1 ã¨ n2 ã‚’æ›ã‘ã‚‹
 
-FunctionDesc.divide=”í˜”‚ğœ”‚ÅŠ„‚é
+FunctionDesc.divide=è¢«åºæ•°ã‚’é™¤æ•°ã§å‰²ã‚‹
 
-FunctionDesc.round=”’l‚ğw’è‚µ‚½Œ…‚ÅlÌŒÜ“ü‚µ‚Ü‚·B \nŒ…”‚É‚Í•‰”‚àw’è‚Å‚«‚Ü‚·B \nw’è‚µ‚È‚¢ê‡‚ÍAŒ…”‚ÌƒfƒtƒHƒ‹ƒg’l‚Í 0 ‚É‚È‚è‚Ü‚·B
+FunctionDesc.round=æ•°å€¤ã‚’æŒ‡å®šã—ãŸæ¡ã§å››æ¨äº”å…¥ã—ã¾ã™ã€‚ \næ¡æ•°ã«ã¯è² æ•°ã‚‚æŒ‡å®šã§ãã¾ã™ã€‚ \næŒ‡å®šã—ãªã„å ´åˆã¯ã€æ¡æ•°ã®ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆå€¤ã¯ 0 ã«ãªã‚Šã¾ã™ã€‚
 
-FunctionDesc.roundUp=”’l‚ğw’è‚µ‚½Œ…‚ÅØ‚èã‚°‚Ü‚·B \nƒfƒtƒHƒ‹ƒg‚ÌŒ…”‚Í 0 ‚Å‚·B
+FunctionDesc.roundUp=æ•°å€¤ã‚’æŒ‡å®šã—ãŸæ¡ã§åˆ‡ã‚Šä¸Šã’ã¾ã™ã€‚ \nãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã®æ¡æ•°ã¯ 0 ã§ã™ã€‚
 
-FunctionDesc.roundDown=”’l‚ğw’è‚µ‚½Œ…‚ÅØ‚èÌ‚Ä‚Ü‚·B \nƒfƒtƒHƒ‹ƒg‚ÌŒ…”‚Í 0 ‚Å‚·B
+FunctionDesc.roundDown=æ•°å€¤ã‚’æŒ‡å®šã—ãŸæ¡ã§åˆ‡ã‚Šæ¨ã¦ã¾ã™ã€‚ \nãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã®æ¡æ•°ã¯ 0 ã§ã™ã€‚
 
-FunctionDesc.ceiling=”’l‚ğw’è‚µ‚½¸“x‚Ì”{”‚ÉÅ‚à‹ß‚¢’l‚ÉØ‚èã‚°‚Ü‚·B
+FunctionDesc.ceiling=æ•°å€¤ã‚’æŒ‡å®šã—ãŸç²¾åº¦ã®å€æ•°ã«æœ€ã‚‚è¿‘ã„å€¤ã«åˆ‡ã‚Šä¸Šã’ã¾ã™ã€‚
 
-FunctionDesc.mod=”’l‚ğœ”‚ÅŠ„‚Á‚½—]‚è‚Å‚·B Œ‹‰Ê‚Ì•„‡‚Íœ”‚Æ“¯‚¶‚È‚è‚Ü‚·B
+FunctionDesc.mod=æ•°å€¤ã‚’é™¤æ•°ã§å‰²ã£ãŸä½™ã‚Šã§ã™ã€‚ çµæœã®ç¬¦åˆã¯é™¤æ•°ã¨åŒã˜ãªã‚Šã¾ã™ã€‚
 
-FunctionDesc.safeDivide=”í˜”‚ğœ”‚ÅŠ„‚Á‚½Œ‹‰Ê‚ª 0 ‚Ü‚½‚Í–³ŒÀ‚Å‚È‚¢ê‡‚ÍA‚»‚ÌŒ‹‰Ê‚ğ•Ô‚µ‚Ü‚·B \n‚»‚êˆÈŠO‚ÍA0 ‚Ìê‡‚Íw’è‚µ‚½’l‚ğ•Ô‚µ‚Ü‚·B
+FunctionDesc.safeDivide=è¢«åºæ•°ã‚’é™¤æ•°ã§å‰²ã£ãŸçµæœãŒ 0 ã¾ãŸã¯ç„¡é™ã§ãªã„å ´åˆã¯ã€ãã®çµæœã‚’è¿”ã—ã¾ã™ã€‚ \nãã‚Œä»¥å¤–ã¯ã€0 ã®å ´åˆã¯æŒ‡å®šã—ãŸå€¤ã‚’è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.year=w’è‚µ‚½“ú•t/ŠÔ‚Ì’l‚Ì”N (4 Œ…)
+FunctionDesc.year=æŒ‡å®šã—ãŸæ—¥ä»˜/æ™‚é–“ã®å€¤ã®å¹´ (4 æ¡)
 
-FunctionDesc.quarter=w’è‚µ‚½“ú•t/ŠÔ‚Ì’l‚Ìl”¼Šú” (1-4)
+FunctionDesc.quarter=æŒ‡å®šã—ãŸæ—¥ä»˜/æ™‚é–“ã®å€¤ã®å››åŠæœŸæ•° (1-4)
 
-FunctionDesc.month=“ú•t/ŠÔ‚Ì’l‚ÌŒB (ƒIƒvƒVƒ‡ƒ“) ®”’l : \n1 (ƒfƒtƒHƒ‹ƒg) : Œ‚Ì”’l (1-12) ‚ğ•Ô‚·\n2 : ƒ†[ƒU‚ÌƒƒP[ƒ‹‚É‚æ‚è³®‚ÈŒ‚Ì–¼‘O‚ğ•Ô‚· (—á : ‰pŒê‚Ìê‡‚Í January ‚©‚ç December)\n3 : ƒ†[ƒU‚ÌƒƒP[ƒ‹‚É‚æ‚èÈ—ª‚µ‚½Œ‚Ì–¼‘O‚ğ•Ô‚· (—á : ‰pŒê‚Ìê‡‚Í Jan ‚©‚ç Dec)
+FunctionDesc.month=æ—¥ä»˜/æ™‚é–“ã®å€¤ã®æœˆã€‚ (ã‚ªãƒ—ã‚·ãƒ§ãƒ³) æ•´æ•°å€¤ : \n1 (ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ) : æœˆã®æ•°å€¤ (1-12) ã‚’è¿”ã™\n2 : ãƒ¦ãƒ¼ã‚¶ã®ãƒ­ã‚±ãƒ¼ãƒ«ã«ã‚ˆã‚Šæ­£å¼ãªæœˆã®åå‰ã‚’è¿”ã™ (ä¾‹ : è‹±èªã®å ´åˆã¯ January ã‹ã‚‰ December)\n3 : ãƒ¦ãƒ¼ã‚¶ã®ãƒ­ã‚±ãƒ¼ãƒ«ã«ã‚ˆã‚Šçœç•¥ã—ãŸæœˆã®åå‰ã‚’è¿”ã™ (ä¾‹ : è‹±èªã®å ´åˆã¯ Jan ã‹ã‚‰ Dec)
 
-FunctionDesc.week=“ú•t/ŠÔ‚Ì’l d ‚Ì”NŠÔT” (1-52)B
+FunctionDesc.week=æ—¥ä»˜/æ™‚é–“ã®å€¤ d ã®å¹´é–“é€±æ•° (1-52)ã€‚
 
-FunctionDesc.day=Œ‚Ì“ú” (1-31)B
+FunctionDesc.day=æœˆã®æ—¥æ•° (1-31)ã€‚
 
-FunctionDesc.weekDay=—j“úB (ƒIƒvƒVƒ‡ƒ“) ®”’l : \n1 : 1 (“ú—j“ú) ‚©‚ç 7 (“y—j“ú) ‚Ü‚Å‚Ì”’l‚ğ•Ô‚·\n2 : 1 (Œ—j“ú) ‚©‚ç 7 (“ú—j“ú) ‚Ü‚Å‚Ì”’l‚ğ•Ô‚·\n3 : 0 (Œ—j“ú) ‚©‚ç 6 (“ú—j“ú) ‚Ü‚Å‚Ì”’l‚ğ•Ô‚·\n4 : ƒ†[ƒU‚ÌƒƒP[ƒ‹‚É‚æ‚è—j“ú–¼‚ğ•Ô‚· (—á : ‰pŒê‚Ìê‡‚Í Sunday ‚©‚ç Saturday)\n5 : ƒ†[ƒU‚ÌƒƒP[ƒ‹‚É‘Î‰‚·‚é—j“ú–¼‚ÌÈ—ªŒ`‚ğ•Ô‚· (—á : ‰pŒê‚Ìê‡‚Í Sun ‚©‚ç Sat)
+FunctionDesc.weekDay=æ›œæ—¥ã€‚ (ã‚ªãƒ—ã‚·ãƒ§ãƒ³) æ•´æ•°å€¤ : \n1 : 1 (æ—¥æ›œæ—¥) ã‹ã‚‰ 7 (åœŸæ›œæ—¥) ã¾ã§ã®æ•°å€¤ã‚’è¿”ã™\n2 : 1 (æœˆæ›œæ—¥) ã‹ã‚‰ 7 (æ—¥æ›œæ—¥) ã¾ã§ã®æ•°å€¤ã‚’è¿”ã™\n3 : 0 (æœˆæ›œæ—¥) ã‹ã‚‰ 6 (æ—¥æ›œæ—¥) ã¾ã§ã®æ•°å€¤ã‚’è¿”ã™\n4 : ãƒ¦ãƒ¼ã‚¶ã®ãƒ­ã‚±ãƒ¼ãƒ«ã«ã‚ˆã‚Šæ›œæ—¥åã‚’è¿”ã™ (ä¾‹ : è‹±èªã®å ´åˆã¯ Sunday ã‹ã‚‰ Saturday)\n5 : ãƒ¦ãƒ¼ã‚¶ã®ãƒ­ã‚±ãƒ¼ãƒ«ã«å¯¾å¿œã™ã‚‹æ›œæ—¥åã®çœç•¥å½¢ã‚’è¿”ã™ (ä¾‹ : è‹±èªã®å ´åˆã¯ Sun ã‹ã‚‰ Sat)
 
-FunctionDesc.today=Œ»İ‚Ì“ú•t‚ÌŒß‘O 0 ‚Ìƒ^ƒCƒ€ƒXƒ^ƒ“ƒv‚Ì’l‚ğ•Ô‚µ‚Ü‚·B
+FunctionDesc.today=ç¾åœ¨ã®æ—¥ä»˜ã®åˆå‰ 0 æ™‚ã®ã‚¿ã‚¤ãƒ ã‚¹ã‚¿ãƒ³ãƒ—ã®å€¤ã‚’è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.now=Œ»İ‚Ìƒ^ƒCƒ€ƒXƒ^ƒ“ƒv‚ğ•Ô‚µ‚Ü‚·B
+FunctionDesc.now=ç¾åœ¨ã®ã‚¿ã‚¤ãƒ ã‚¹ã‚¿ãƒ³ãƒ—ã‚’è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.diffYear=·‚ğ”N”‚Å•Ô‚µ‚Ü‚·B
+FunctionDesc.diffYear=å·®ã‚’å¹´æ•°ã§è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.diffMonth=·‚ğŒ”‚Å•Ô‚µ‚Ü‚·B
+FunctionDesc.diffMonth=å·®ã‚’æœˆæ•°ã§è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.diffQuarter=·‚ğl”¼Šú”‚Å•Ô‚µ‚Ü‚·B
+FunctionDesc.diffQuarter=å·®ã‚’å››åŠæœŸæ•°ã§è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.diffWeek=·‚ğT”‚Å•Ô‚µ‚Ü‚·B
+FunctionDesc.diffWeek=å·®ã‚’é€±æ•°ã§è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.diffDay=·‚ğ“ú”‚Å•Ô‚µ‚Ü‚·B
+FunctionDesc.diffDay=å·®ã‚’æ—¥æ•°ã§è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.diffHour=·‚ğŠÔ”‚Å•Ô‚µ‚Ü‚·B
+FunctionDesc.diffHour=å·®ã‚’æ™‚é–“æ•°ã§è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.diffMinute=·‚ğ•ª”‚Å•Ô‚µ‚Ü‚·B
+FunctionDesc.diffMinute=å·®ã‚’åˆ†æ•°ã§è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.diffSecond=·‚ğ•b”‚Å•Ô‚µ‚Ü‚·B
+FunctionDesc.diffSecond=å·®ã‚’ç§’æ•°ã§è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.addYear=“ú•t‚É n ”N‚ğ‰ÁZ
+FunctionDesc.addYear=æ—¥ä»˜ã« n å¹´ã‚’åŠ ç®—
 
-FunctionDesc.addMonth=“ú•t‚É n ‚©Œ‚ğ‰ÁZ
+FunctionDesc.addMonth=æ—¥ä»˜ã« n ã‹æœˆã‚’åŠ ç®—
 
-FunctionDesc.addQuarter=“ú•t‚É n l”¼Šú‚ğ‰ÁZ
+FunctionDesc.addQuarter=æ—¥ä»˜ã« n å››åŠæœŸã‚’åŠ ç®—
 
-FunctionDesc.addWeek=“ú•t‚É n T‚ğ‰ÁZ
+FunctionDesc.addWeek=æ—¥ä»˜ã« n é€±ã‚’åŠ ç®—
 
-FunctionDesc.addDay=“ú•t‚É n “ú‚ğ‰ÁZ
+FunctionDesc.addDay=æ—¥ä»˜ã« n æ—¥ã‚’åŠ ç®—
 
-FunctionDesc.addHour=“ú•t‚É n ŠÔ‚ğ‰ÁZ
+FunctionDesc.addHour=æ—¥ä»˜ã« n æ™‚é–“ã‚’åŠ ç®—
 
-FunctionDesc.addMinute=“ú•t‚É n •ª‚ğ‰ÁZ
+FunctionDesc.addMinute=æ—¥ä»˜ã« n åˆ†ã‚’åŠ ç®—
 
-FunctionDesc.addSecond=“ú•t‚É n •b‚ğ‰ÁZ
+FunctionDesc.addSecond=æ—¥ä»˜ã« n ç§’ã‚’åŠ ç®—
 
-FunctionDesc.firstDayOfYear=“ú•t‚ªŠÜ‚Ü‚ê‚é”N‚Ì‰“ú‚ğ•Ô‚µ‚Ü‚·B
+FunctionDesc.firstDayOfYear=æ—¥ä»˜ãŒå«ã¾ã‚Œã‚‹å¹´ã®åˆæ—¥ã‚’è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.firstDayOfQuarter=“ú•t‚ªŠÜ‚Ü‚ê‚él”¼Šú‚Ì‰“ú‚ğ•Ô‚µ‚Ü‚·B
+FunctionDesc.firstDayOfQuarter=æ—¥ä»˜ãŒå«ã¾ã‚Œã‚‹å››åŠæœŸã®åˆæ—¥ã‚’è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.firstDayOfMonth=“ú•t‚ªŠÜ‚Ü‚ê‚éŒ‚Ì‰“ú‚ğ•Ô‚µ‚Ü‚·B
+FunctionDesc.firstDayOfMonth=æ—¥ä»˜ãŒå«ã¾ã‚Œã‚‹æœˆã®åˆæ—¥ã‚’è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.firstDayOfWeek=“ú•t‚ªŠÜ‚Ü‚ê‚éT‚Ì‰“ú‚ğ•Ô‚µ‚Ü‚·B
+FunctionDesc.firstDayOfWeek=æ—¥ä»˜ãŒå«ã¾ã‚Œã‚‹é€±ã®åˆæ—¥ã‚’è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.ddb=“ñ”{’è—¦–@‚ğg—p‚µ‚ÄZo‚µ‚½A“Á’è‚Ì 1 ŠúŠÔ‚Ì‘Y‚ÌŒ¸‰¿‹p (’ß)B
+FunctionDesc.ddb=äºŒå€å®šç‡æ³•ã‚’ä½¿ç”¨ã—ã¦ç®—å‡ºã—ãŸã€ç‰¹å®šã® 1 æœŸé–“ã®è³‡ç”£ã®æ¸›ä¾¡å„Ÿå´ (æ³¨é‡ˆ)ã€‚
 
-FunctionDesc.fv=’èŠú“I‚È’èŠzx•¥‚¢‚Æˆê’è—˜—¦‚ÉŠî‚Ã‚¢‚½”N‹à‚Ì«—ˆ‰¿’lB
+FunctionDesc.fv=å®šæœŸçš„ãªå®šé¡æ”¯æ‰•ã„ã¨ä¸€å®šåˆ©ç‡ã«åŸºã¥ã„ãŸå¹´é‡‘ã®å°†æ¥ä¾¡å€¤ã€‚
 
-FunctionDesc.ipmt=’èŠú“I‚È’èŠzx•¥‚¢‚Æˆê’è—˜—¦‚ÉŠî‚Ã‚¢‚½\n“Á’èŠúŠÔ‚Ì”N‹à‚Ì—˜•¥‚¢B
+FunctionDesc.ipmt=å®šæœŸçš„ãªå®šé¡æ”¯æ‰•ã„ã¨ä¸€å®šåˆ©ç‡ã«åŸºã¥ã„ãŸ\nç‰¹å®šæœŸé–“ã®å¹´é‡‘ã®åˆ©æ‰•ã„ã€‚
 
-FunctionDesc.irr=Šù‘¶‚Ì”z—ñ“à‚ÌAˆê˜A‚Ì’èŠú“I‚ÈƒLƒƒƒbƒVƒ…ƒtƒ[Ax•¥‚¢Aû“ü‚Ì“à•”û‰v—¦B
+FunctionDesc.irr=æ—¢å­˜ã®é…åˆ—å†…ã®ã€ä¸€é€£ã®å®šæœŸçš„ãªã‚­ãƒ£ãƒƒã‚·ãƒ¥ãƒ•ãƒ­ãƒ¼ã€æ”¯æ‰•ã„ã€åå…¥ã®å†…éƒ¨åç›Šç‡ã€‚
 
-FunctionDesc.mirr=Šù‘¶‚Ì”z—ñ“à‚ÌAˆê˜A‚Ì’èŠú“I‚ÈƒLƒƒƒbƒVƒ…ƒtƒ[ (x•¥‚¢‚¨‚æ‚Ñû“ü) ‚ÌC³û‰v—¦B
+FunctionDesc.mirr=æ—¢å­˜ã®é…åˆ—å†…ã®ã€ä¸€é€£ã®å®šæœŸçš„ãªã‚­ãƒ£ãƒƒã‚·ãƒ¥ãƒ•ãƒ­ãƒ¼ (æ”¯æ‰•ã„ãŠã‚ˆã³åå…¥) ã®ä¿®æ­£åç›Šç‡ã€‚
 
-FunctionDesc.nper=’èŠú“I‚È’èŠzx•¥‚¢‚Æˆê’è—˜—¦‚ÉŠî‚Ã‚¢‚½”N‹à‚ÌŠúŠÔ”B
+FunctionDesc.nper=å®šæœŸçš„ãªå®šé¡æ”¯æ‰•ã„ã¨ä¸€å®šåˆ©ç‡ã«åŸºã¥ã„ãŸå¹´é‡‘ã®æœŸé–“æ•°ã€‚
 
-FunctionDesc.npv=•Ï“®‚·‚éˆê˜A‚Ì’èŠú“I‚ÈƒLƒƒƒbƒVƒ…ƒtƒ[ (—¬o“ü) ‚ÌA“Á’è‚Ì—˜—¦‚Å‚Ì³–¡Œ»İ‰¿’lB
+FunctionDesc.npv=å¤‰å‹•ã™ã‚‹ä¸€é€£ã®å®šæœŸçš„ãªã‚­ãƒ£ãƒƒã‚·ãƒ¥ãƒ•ãƒ­ãƒ¼ (æµå‡ºå…¥) ã®ã€ç‰¹å®šã®åˆ©ç‡ã§ã®æ­£å‘³ç¾åœ¨ä¾¡å€¤ã€‚
 
-FunctionDesc.percent=2 ‚Â‚Ì”’l‚ÌŠ„‡ (%) ‚ğŒvZ‚µ‚Ü‚·B
+FunctionDesc.percent=2 ã¤ã®æ•°å€¤ã®å‰²åˆ (%) ã‚’è¨ˆç®—ã—ã¾ã™ã€‚
 
-FunctionDesc.pmt=’èŠú“I‚È’èŠzx•¥‚¢‚Æˆê’è—˜—¦‚ÉŠî‚Ã‚¢‚½”N‹à‚Ìx•¥‚¢B
+FunctionDesc.pmt=å®šæœŸçš„ãªå®šé¡æ”¯æ‰•ã„ã¨ä¸€å®šåˆ©ç‡ã«åŸºã¥ã„ãŸå¹´é‡‘ã®æ”¯æ‰•ã„ã€‚
 
-FunctionDesc.ppmt=—˜—¦‚Æ’èŠzx•¥‚¢ƒXƒPƒWƒ…[ƒ‹‚ÉŠî‚Ã‚¢‚½A“Á’èŠúŠÔ‚Ì”N‹à‚ÌŒ³‹àx•¥‚¢B
+FunctionDesc.ppmt=åˆ©ç‡ã¨å®šé¡æ”¯æ‰•ã„ã‚¹ã‚±ã‚¸ãƒ¥ãƒ¼ãƒ«ã«åŸºã¥ã„ãŸã€ç‰¹å®šæœŸé–“ã®å¹´é‡‘ã®å…ƒé‡‘æ”¯æ‰•ã„ã€‚
 
-FunctionDesc.pv=«—ˆ‚Ì’èŠú“I‚È’èŠzx•¥‚¢‚Æˆê’è—˜—¦‚ÉŠî‚Ã‚¢‚½”N‹à‚ÌŒ»İ‰¿’lB
+FunctionDesc.pv=å°†æ¥ã®å®šæœŸçš„ãªå®šé¡æ”¯æ‰•ã„ã¨ä¸€å®šåˆ©ç‡ã«åŸºã¥ã„ãŸå¹´é‡‘ã®ç¾åœ¨ä¾¡å€¤ã€‚
 
-FunctionDesc.rate=ŠúŠÔ‚ ‚½‚è‚Ì”N‹à‚Ì—˜—¦B
+FunctionDesc.rate=æœŸé–“ã‚ãŸã‚Šã®å¹´é‡‘ã®åˆ©ç‡ã€‚
 
-FunctionDesc.sln=1 ŠúŠÔ‚Ì‘Y‚Ì’èŠz‹pB
+FunctionDesc.sln=1 æœŸé–“ã®è³‡ç”£ã®å®šé¡å„Ÿå´ã€‚
 
-FunctionDesc.syd=”N”‚Ì‡Œv‚ÉŠî‚Ã‚¢‚½A“Á’è‚ÌŠúŠÔ‚Ì‘Y‚ÌŒ¸‰¿‹p (’ß)B
+FunctionDesc.syd=å¹´æ•°ã®åˆè¨ˆã«åŸºã¥ã„ãŸã€ç‰¹å®šã®æœŸé–“ã®è³‡ç”£ã®æ¸›ä¾¡å„Ÿå´ (æ³¨é‡ˆ)ã€‚
 
-FunctionDesc.addDate=ŠJn“ú‚É”N”AŒ”A“ú”‚ğ‰Á‚¦‚Ä“¾‚ç‚ê‚½“ú•t‚ğ•Ô‚µ‚Ü‚·B
+FunctionDesc.addDate=é–‹å§‹æ—¥ã«å¹´æ•°ã€æœˆæ•°ã€æ—¥æ•°ã‚’åŠ ãˆã¦å¾—ã‚‰ã‚ŒãŸæ—¥ä»˜ã‚’è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.addTime=ŠJn“ú‚ÉŠÔ”A•ª”A•b”‚ğ‰Á‚¦‚Ä“¾‚ç‚ê‚½“ú•t‚ğ•Ô‚µ‚Ü‚·B
+FunctionDesc.addTime=é–‹å§‹æ—¥ã«æ™‚é–“æ•°ã€åˆ†æ•°ã€ç§’æ•°ã‚’åŠ ãˆã¦å¾—ã‚‰ã‚ŒãŸæ—¥ä»˜ã‚’è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.subDate=ŠJn“ú‚©‚ç”N”AŒ”A“ú”‚ğˆø‚¢‚Ä“¾‚ç‚ê‚½“ú•t‚ğ•Ô‚µ‚Ü‚·B
+FunctionDesc.subDate=é–‹å§‹æ—¥ã‹ã‚‰å¹´æ•°ã€æœˆæ•°ã€æ—¥æ•°ã‚’å¼•ã„ã¦å¾—ã‚‰ã‚ŒãŸæ—¥ä»˜ã‚’è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.subTime=ŠJn“ú‚©‚çŠÔ”A•ª”A•b”‚ğˆø‚¢‚Ä“¾‚ç‚ê‚½“ú•t‚ğ•Ô‚µ‚Ü‚·B
+FunctionDesc.subTime=é–‹å§‹æ—¥ã‹ã‚‰æ™‚é–“æ•°ã€åˆ†æ•°ã€ç§’æ•°ã‚’å¼•ã„ã¦å¾—ã‚‰ã‚ŒãŸæ—¥ä»˜ã‚’è¿”ã—ã¾ã™ã€‚
 
-FunctionDesc.days=2 ‚Â‚Ì“ú•t‚ÌŠÔ‚Ì“ú”
+FunctionDesc.days=2 ã¤ã®æ—¥ä»˜ã®é–“ã®æ—¥æ•°
 
-FunctionDesc.hours=2 ‚Â‚Ì“ú•t‚ÌŠÔ‚ÌŠÔ”
+FunctionDesc.hours=2 ã¤ã®æ—¥ä»˜ã®é–“ã®æ™‚é–“æ•°
 
-FunctionDesc.minutes=2 ‚Â‚Ì“ú•t‚ÌŠÔ‚Ì•ª”
+FunctionDesc.minutes=2 ã¤ã®æ—¥ä»˜ã®é–“ã®åˆ†æ•°
 
-FunctionDesc.months=2 ‚Â‚Ì“ú•t‚ÌŠÔ‚ÌŒ”
+FunctionDesc.months=2 ã¤ã®æ—¥ä»˜ã®é–“ã®æœˆæ•°
 
-FunctionDesc.seconds=2 ‚Â‚Ì“ú•t‚ÌŠÔ‚Ì•b”
+FunctionDesc.seconds=2 ã¤ã®æ—¥ä»˜ã®é–“ã®ç§’æ•°
 
-FunctionDesc.years=2 ‚Â‚Ì“ú•t‚ÌŠÔ‚Ì”N”
+FunctionDesc.years=2 ã¤ã®æ—¥ä»˜ã®é–“ã®å¹´æ•°
 
-FunctionDesc.date= w’è‚Ì”NAŒA“úAA•ªA•b‚Å‰Šú‰»‚³‚ê‚½ Date ƒIƒuƒWƒFƒNƒg‚ğ•Ô‚µ‚Ü‚·B \n(”NAŒA“ú‚Í•K‚¸“ü—Í‚µAA•ªA•b‚Í•K—v‚É‰‚¶‚Ä“ü—Í‚µ‚Ä‚­‚¾‚³‚¢)
+FunctionDesc.date= æŒ‡å®šã®å¹´ã€æœˆã€æ—¥ã€æ™‚ã€åˆ†ã€ç§’ã§åˆæœŸåŒ–ã•ã‚ŒãŸ Date ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆã‚’è¿”ã—ã¾ã™ã€‚ \n(å¹´ã€æœˆã€æ—¥ã¯å¿…ãšå…¥åŠ›ã—ã€æ™‚ã€åˆ†ã€ç§’ã¯å¿…è¦ã«å¿œã˜ã¦å…¥åŠ›ã—ã¦ãã ã•ã„)
 
-FunctionDesc.duration.year=[”N] ƒtƒB[ƒ‹ƒh‚Ì’l‚ğ®”’l * ‚Æ‚µ‚Äæ“¾‚µ‚Ü‚·B‘¶İ‚µ‚È‚¢ê‡‚Í 0 ‚ğ•Ô‚µ‚Ü‚·B\nlexicalDuration ‚ÍAŠúŠÔ‚ğ•\‚·•¶š—ñƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‚ÅAuPnYnMnDTnHnMnSv(—á : P5Y2M15DT4H40M20S) ‚Å¦‚µ‚Ü‚·B
+FunctionDesc.duration.year=[å¹´] ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã®å€¤ã‚’æ•´æ•°å€¤ * ã¨ã—ã¦å–å¾—ã—ã¾ã™ã€‚å­˜åœ¨ã—ãªã„å ´åˆã¯ 0 ã‚’è¿”ã—ã¾ã™ã€‚\nlexicalDuration ã¯ã€æœŸé–“ã‚’è¡¨ã™æ–‡å­—åˆ—ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã§ã€ã€ŒPnYnMnDTnHnMnSã€(ä¾‹ : P5Y2M15DT4H40M20S) ã§ç¤ºã—ã¾ã™ã€‚
 
-FunctionDesc.duration.month=[Œ] ƒtƒB[ƒ‹ƒh‚Ì’l‚ğ®”’l * ‚Æ‚µ‚Äæ“¾‚µ‚Ü‚·B‘¶İ‚µ‚È‚¢ê‡‚Í 0 ‚ğ•Ô‚µ‚Ü‚·B\nlexicalDuration ‚ÍAŠúŠÔ‚ğ•\‚·•¶š—ñƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‚ÅAuPnYnMnDTnHnMnSv(—á : P5Y2M15DT4H40M20S) ‚Å¦‚µ‚Ü‚·B
+FunctionDesc.duration.month=[æœˆ] ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã®å€¤ã‚’æ•´æ•°å€¤ * ã¨ã—ã¦å–å¾—ã—ã¾ã™ã€‚å­˜åœ¨ã—ãªã„å ´åˆã¯ 0 ã‚’è¿”ã—ã¾ã™ã€‚\nlexicalDuration ã¯ã€æœŸé–“ã‚’è¡¨ã™æ–‡å­—åˆ—ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã§ã€ã€ŒPnYnMnDTnHnMnSã€(ä¾‹ : P5Y2M15DT4H40M20S) ã§ç¤ºã—ã¾ã™ã€‚
 
-FunctionDesc.duration.day=[“ú] ƒtƒB[ƒ‹ƒh‚Ì’l‚ğ®”’l * ‚Æ‚µ‚Äæ“¾‚µ‚Ü‚·B‘¶İ‚µ‚È‚¢ê‡‚Í 0 ‚ğ•Ô‚µ‚Ü‚·B\nlexicalDuration ‚ÍAŠúŠÔ‚ğ•\‚·•¶š—ñƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‚ÅAuPnYnMnDTnHnMnSv(—á : P5Y2M15DT4H40M20S) ‚Å¦‚µ‚Ü‚·B
+FunctionDesc.duration.day=[æ—¥] ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã®å€¤ã‚’æ•´æ•°å€¤ * ã¨ã—ã¦å–å¾—ã—ã¾ã™ã€‚å­˜åœ¨ã—ãªã„å ´åˆã¯ 0 ã‚’è¿”ã—ã¾ã™ã€‚\nlexicalDuration ã¯ã€æœŸé–“ã‚’è¡¨ã™æ–‡å­—åˆ—ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã§ã€ã€ŒPnYnMnDTnHnMnSã€(ä¾‹ : P5Y2M15DT4H40M20S) ã§ç¤ºã—ã¾ã™ã€‚
 
-FunctionDesc.duration.hour=[ŠÔ] ƒtƒB[ƒ‹ƒh‚Ì’l‚ğ®”’l‚Æ‚µ‚Äæ“¾‚µ‚Ü‚·B‘¶İ‚µ‚È‚¢ê‡‚Í 0 ‚ğ•Ô‚µ‚Ü‚·B\nlexicalDuration ‚ÍAŠúŠÔ‚ğ•\‚·•¶š—ñƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‚ÅAuPnYnMnDTnHnMnSv(—á : P5Y2M15DT4H40M20S) ‚Å¦‚µ‚Ü‚·B
+FunctionDesc.duration.hour=[æ™‚é–“] ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã®å€¤ã‚’æ•´æ•°å€¤ã¨ã—ã¦å–å¾—ã—ã¾ã™ã€‚å­˜åœ¨ã—ãªã„å ´åˆã¯ 0 ã‚’è¿”ã—ã¾ã™ã€‚\nlexicalDuration ã¯ã€æœŸé–“ã‚’è¡¨ã™æ–‡å­—åˆ—ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã§ã€ã€ŒPnYnMnDTnHnMnSã€(ä¾‹ : P5Y2M15DT4H40M20S) ã§ç¤ºã—ã¾ã™ã€‚
 
-FunctionDesc.duration.minute=[•ª] ƒtƒB[ƒ‹ƒh‚Ì’l‚ğ®”’l‚Æ‚µ‚Äæ“¾‚µ‚Ü‚·B‘¶İ‚µ‚È‚¢ê‡‚Í 0 ‚ğ•Ô‚µ‚Ü‚·B\nlexicalDuration ‚ÍAŠúŠÔ‚ğ•\‚·•¶š—ñƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‚ÅAuPnYnMnDTnHnMnSv(—á : P5Y2M15DT4H40M20S) ‚Å¦‚µ‚Ü‚·B
+FunctionDesc.duration.minute=[åˆ†] ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã®å€¤ã‚’æ•´æ•°å€¤ã¨ã—ã¦å–å¾—ã—ã¾ã™ã€‚å­˜åœ¨ã—ãªã„å ´åˆã¯ 0 ã‚’è¿”ã—ã¾ã™ã€‚\nlexicalDuration ã¯ã€æœŸé–“ã‚’è¡¨ã™æ–‡å­—åˆ—ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã§ã€ã€ŒPnYnMnDTnHnMnSã€(ä¾‹ : P5Y2M15DT4H40M20S) ã§ç¤ºã—ã¾ã™ã€‚
 
-FunctionDesc.duration.second=[•b] ƒtƒB[ƒ‹ƒh‚Ì’l‚ğ®”’l‚Æ‚µ‚Äæ“¾‚µ‚Ü‚·B‘¶İ‚µ‚È‚¢ê‡‚Í 0 ‚ğ•Ô‚µ‚Ü‚·B\nlexicalDuration ‚ÍAŠúŠÔ‚ğ•\‚·•¶š—ñƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‚ÅAuPnYnMnDTnHnMnSv(—á : P5Y2M15DT4H40M20S) ‚Å¦‚µ‚Ü‚·B
+FunctionDesc.duration.second=[ç§’] ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã®å€¤ã‚’æ•´æ•°å€¤ã¨ã—ã¦å–å¾—ã—ã¾ã™ã€‚å­˜åœ¨ã—ãªã„å ´åˆã¯ 0 ã‚’è¿”ã—ã¾ã™ã€‚\nlexicalDuration ã¯ã€æœŸé–“ã‚’è¡¨ã™æ–‡å­—åˆ—ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã§ã€ã€ŒPnYnMnDTnHnMnSã€(ä¾‹ : P5Y2M15DT4H40M20S) ã§ç¤ºã—ã¾ã™ã€‚
 
-FunctionDesc.duration.timeInMills=ŠúŠÔ‚Ì’·‚³‚ğƒ~ƒŠ•b‚Å•Ô‚µ‚Ü‚·B\nlexicalDuration ‚Í•¶š—ñƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‚ÅAuPnYnMnDTnHnMnSv(—á : P5Y2M15DT4H40M20S) ‚Å¦‚µ‚Ü‚·B\nstartDate ˆø”‚ğg—p‚·‚é‚ÆAˆêˆÓ“I‚È‰ğß‚ğw’è‚Å‚«‚Ü‚·
+FunctionDesc.duration.timeInMills=æœŸé–“ã®é•·ã•ã‚’ãƒŸãƒªç§’ã§è¿”ã—ã¾ã™ã€‚\nlexicalDuration ã¯æ–‡å­—åˆ—ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã§ã€ã€ŒPnYnMnDTnHnMnSã€(ä¾‹ : P5Y2M15DT4H40M20S) ã§ç¤ºã—ã¾ã™ã€‚\nstartDate å¼•æ•°ã‚’ä½¿ç”¨ã™ã‚‹ã¨ã€ä¸€æ„çš„ãªè§£é‡ˆã‚’æŒ‡å®šã§ãã¾ã™
 
-FunctionDesc.duration.isLongerThan=lexicalDuration1 ‚ª lexicalDuration2 ‚æ‚è‚àŒµ–§‚É’·‚¢‚©‚Ç‚¤‚©‚ğƒ`ƒFƒbƒN‚µ‚Ü‚·B\n—á :uP1Dv(1 “ú) >uPT12Hv(12 ŠÔ) ‚¨‚æ‚ÑuP2Yv(2 ”N) >uP23Mv(23 ‚©Œ)
+FunctionDesc.duration.isLongerThan=lexicalDuration1 ãŒ lexicalDuration2 ã‚ˆã‚Šã‚‚å³å¯†ã«é•·ã„ã‹ã©ã†ã‹ã‚’ãƒã‚§ãƒƒã‚¯ã—ã¾ã™ã€‚\nä¾‹ :ã€ŒP1Dã€(1 æ—¥) >ã€ŒPT12Hã€(12 æ™‚é–“) ãŠã‚ˆã³ã€ŒP2Yã€(2 å¹´) >ã€ŒP23Mã€(23 ã‹æœˆ)
 
-FunctionDesc.duration.isShorterThan=lexicalDuration1 ‚ª lexicalDuration2 ‚æ‚è‚àŒµ–§‚É’Z‚¢‚©‚Ç‚¤‚©‚ğƒ`ƒFƒbƒN‚µ‚Ü‚·B\n—á :uPT12Hv(12 ŠÔ) <uP1Dv(1 “ú)
+FunctionDesc.duration.isShorterThan=lexicalDuration1 ãŒ lexicalDuration2 ã‚ˆã‚Šã‚‚å³å¯†ã«çŸ­ã„ã‹ã©ã†ã‹ã‚’ãƒã‚§ãƒƒã‚¯ã—ã¾ã™ã€‚\nä¾‹ :ã€ŒPT12Hã€(12 æ™‚é–“) <ã€ŒP1Dã€(1 æ—¥)
 
-FunctionDesc.duration.add=lexicalDuration1 + lexicalDuration2 ‚Ì’l‚ÌV‚µ‚¢ŠúŠÔ‚ğŒvZ‚µ‚Ü‚·B\nlexicalDuration ‚Í•¶š—ñƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‚ÅAuPnYnMnDTnHnMnSv(—á : P5Y2M15DT4H40M20S) ‚Å¦‚µ‚Ü‚·B
+FunctionDesc.duration.add=lexicalDuration1 + lexicalDuration2 ã®å€¤ã®æ–°ã—ã„æœŸé–“ã‚’è¨ˆç®—ã—ã¾ã™ã€‚\nlexicalDuration ã¯æ–‡å­—åˆ—ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã§ã€ã€ŒPnYnMnDTnHnMnSã€(ä¾‹ : P5Y2M15DT4H40M20S) ã§ç¤ºã—ã¾ã™ã€‚
 
-FunctionDesc.duration.substract=lexicalDuration1 - lexicalDuration2 ‚Ì’l‚ÌV‚µ‚¢ŠúŠÔ‚ğŒvZ‚µ‚Ü‚·B\nlexicalDuration ‚Í•¶š—ñƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‚ÅAuPnYnMnDTnHnMnSv(—á : P5Y2M15DT4H40M20S) ‚Å¦‚µ‚Ü‚·B
+FunctionDesc.duration.substract=lexicalDuration1 - lexicalDuration2 ã®å€¤ã®æ–°ã—ã„æœŸé–“ã‚’è¨ˆç®—ã—ã¾ã™ã€‚\nlexicalDuration ã¯æ–‡å­—åˆ—ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã§ã€ã€ŒPnYnMnDTnHnMnSã€(ä¾‹ : P5Y2M15DT4H40M20S) ã§ç¤ºã—ã¾ã™ã€‚
 
-FunctionDesc.duration.multiply=lexicalDuration ‚Ì’l‚æ‚è‚àƒtƒ@ƒNƒ^‚ª’·‚¢V‚µ‚¢ŠúŠÔ‚ğŒvZ‚µ‚Ü‚·B\nlexicalDuration ‚Í•¶š—ñƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‚ÅAuPnYnMnDTnHnMnSv(—á : P5Y2M15DT4H40M20S) ‚Å¦‚µ‚Ü‚·B\nFactor is the times longer of new Duration to create
+FunctionDesc.duration.multiply=lexicalDuration ã®å€¤ã‚ˆã‚Šã‚‚ãƒ•ã‚¡ã‚¯ã‚¿ãŒé•·ã„æ–°ã—ã„æœŸé–“ã‚’è¨ˆç®—ã—ã¾ã™ã€‚\nlexicalDuration ã¯æ–‡å­—åˆ—ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã§ã€ã€ŒPnYnMnDTnHnMnSã€(ä¾‹ : P5Y2M15DT4H40M20S) ã§ç¤ºã—ã¾ã™ã€‚\nFactor is the times longer of new Duration to create
 
-FunctionDesc.duration.negate=-lexicalDuration ‚Ì’l‚ÌV‚µ‚¢ŠúŠÔƒIƒuƒWƒFƒNƒg‚ğ•Ô‚µ‚Ü‚·B\nlexicalDuration ‚Í•¶š—ñƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‚ÅAuPnYnMnDTnHnMnSv(—á : P5Y2M15DT4H40M20S) ‚Å¦‚µ‚Ü‚·B
+FunctionDesc.duration.negate=-lexicalDuration ã®å€¤ã®æ–°ã—ã„æœŸé–“ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆã‚’è¿”ã—ã¾ã™ã€‚\nlexicalDuration ã¯æ–‡å­—åˆ—ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã§ã€ã€ŒPnYnMnDTnHnMnSã€(ä¾‹ : P5Y2M15DT4H40M20S) ã§ç¤ºã—ã¾ã™ã€‚
 
-FunctionDesc.duration.getSign=-1A0A‚Ü‚½‚Í 1 ‚ÌŠúŠÔ‚Ì‹L†‚ğ•Ô‚µ‚Ü‚·B\nlexicalDuration ‚Í•¶š—ñƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‚ÅAuPnYnMnDTnHnMnSv(—á : P5Y2M15DT4H40M20S) ‚Å¦‚µ‚Ü‚·B
+FunctionDesc.duration.getSign=-1ã€0ã€ã¾ãŸã¯ 1 ã®æœŸé–“ã®è¨˜å·ã‚’è¿”ã—ã¾ã™ã€‚\nlexicalDuration ã¯æ–‡å­—åˆ—ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã§ã€ã€ŒPnYnMnDTnHnMnSã€(ä¾‹ : P5Y2M15DT4H40M20S) ã§ç¤ºã—ã¾ã™ã€‚
 
-FunctionDesc.duration.compare=lexicalDuration1 ‚Æ lexicalDuration2 ‚ÌŠÔ‚Ì”¼‡˜ŠÖŒW‚Å‚·B\nlexicalDuration ‚Í•¶š—ñƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‚ÅAuPnYnMnDTnHnMnSv(—á : P5Y2M15DT4H40M20S) ‚Å¦‚µ‚Ü‚·B
+FunctionDesc.duration.compare=lexicalDuration1 ã¨ lexicalDuration2 ã®é–“ã®åŠé †åºé–¢ä¿‚ã§ã™ã€‚\nlexicalDuration ã¯æ–‡å­—åˆ—ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã§ã€ã€ŒPnYnMnDTnHnMnSã€(ä¾‹ : P5Y2M15DT4H40M20S) ã§ç¤ºã—ã¾ã™ã€‚
 
-FunctionDesc.duration.addTo=Date ƒIƒuƒWƒFƒNƒg‚É‚±‚ÌŠúŠÔ‚ğ‰ÁZ‚µ‚Ü‚·B\nlexicalDuration ‚Í•¶š—ñƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‚ÅAuPnYnMnDTnHnMnSv(—á : P5Y2M15DT4H40M20S) ‚Å¦‚µ‚Ü‚·B\nThe given Date argument is used to be modified
+FunctionDesc.duration.addTo=Date ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆã«ã“ã®æœŸé–“ã‚’åŠ ç®—ã—ã¾ã™ã€‚\nlexicalDuration ã¯æ–‡å­—åˆ—ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã§ã€ã€ŒPnYnMnDTnHnMnSã€(ä¾‹ : P5Y2M15DT4H40M20S) ã§ç¤ºã—ã¾ã™ã€‚\nThe given Date argument is used to be modified
 
-FunctionDesc.format=w’è‚µ‚½ƒIƒuƒWƒFƒNƒg‚¨‚æ‚Ñƒpƒ^[ƒ“‚©‚ç‘®İ’è‚³‚ê‚½•¶š—ñ‚ğæ“¾‚µ‚Ü‚·B
+FunctionDesc.format=æŒ‡å®šã—ãŸã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆãŠã‚ˆã³ãƒ‘ã‚¿ãƒ¼ãƒ³ã‹ã‚‰æ›¸å¼è¨­å®šã•ã‚ŒãŸæ–‡å­—åˆ—ã‚’å–å¾—ã—ã¾ã™ã€‚

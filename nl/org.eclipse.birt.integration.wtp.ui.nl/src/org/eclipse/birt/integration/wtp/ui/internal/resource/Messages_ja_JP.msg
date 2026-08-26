@@ -12,85 +12,85 @@
 ###############################################################################
 # BIRT Wizard Configuration Page
 ###############################################################################
-BIRTProjectCreationWizard_title=BIRT Web ƒvƒƒWƒFƒNƒg‚ÌV‹Kì¬
+BIRTProjectCreationWizard_title=BIRT Web ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®æ–°è¦ä½œæˆ
 
-BIRTProjectConfigurationPage_title=BIRT ‚Ìİ’è
+BIRTProjectConfigurationPage_title=BIRT ã®è¨­å®š
 
-BIRTProjectConfigurationPage_desc=BIRT ‚Ì”z•zİ’è‚ğ web.xml ‚É’è‹`‚µ‚Ü‚·B
+BIRTProjectConfigurationPage_desc=BIRT ã®é…å¸ƒè¨­å®šã‚’ web.xml ã«å®šç¾©ã—ã¾ã™ã€‚
 
 ###############################################################################
 # BIRT Configuration Dialog
 ###############################################################################
-BIRTConfigurationDialog_title=BIRT ‚Ì”z•zİ’è
+BIRTConfigurationDialog_title=BIRT ã®é…å¸ƒè¨­å®š
 
 ###############################################################################
 # BIRT Configuration Components
 ###############################################################################
-BIRTConfiguration_group_paths=”z•zƒtƒHƒ‹ƒ_‚Ìİ’è
+BIRTConfiguration_group_paths=é…å¸ƒãƒ•ã‚©ãƒ«ãƒ€ã®è¨­å®š
 
-BIRTConfiguration_group_others=‚»‚Ì‘¼‚Ìİ’è
+BIRTConfiguration_group_others=ãã®ä»–ã®è¨­å®š
 
-BIRTConfiguration_resource_folder_button_text=QÆ(&.)...
+BIRTConfiguration_resource_folder_button_text=å‚ç…§(&.)...
 
-BIRTConfiguration_working_folder_button_text=QÆ(&R)...
+BIRTConfiguration_working_folder_button_text=å‚ç…§(&R)...
 
-BIRTConfiguration_document_folder_button_text=QÆ(&O)...
+BIRTConfiguration_document_folder_button_text=å‚ç…§(&O)...
 
-BIRTConfiguration_image_folder_button_text=QÆ(&W)...
+BIRTConfiguration_image_folder_button_text=å‚ç…§(&W)...
 
-BIRTConfiguration_scriptlib_folder_button_text=QÆ(&S)...
+BIRTConfiguration_scriptlib_folder_button_text=å‚ç…§(&S)...
 
-BIRTConfiguration_log_folder_button_text=QÆ(&E)...
+BIRTConfiguration_log_folder_button_text=å‚ç…§(&E)...
 
-BIRTConfiguration_resource_label=ƒŠƒ\[ƒXƒtƒHƒ‹ƒ_(&U) :
+BIRTConfiguration_resource_label=ãƒªã‚½ãƒ¼ã‚¹ãƒ•ã‚©ãƒ«ãƒ€(&U) :
 
-BIRTConfiguration_resource_dialog_title=ƒŠƒ\[ƒXƒtƒHƒ‹ƒ_‚ÌQÆ
+BIRTConfiguration_resource_dialog_title=ãƒªã‚½ãƒ¼ã‚¹ãƒ•ã‚©ãƒ«ãƒ€ã®å‚ç…§
 
-BIRTConfiguration_resource_dialog_message=ƒfƒtƒHƒ‹ƒg‚ÌƒŠƒ\[ƒXƒtƒHƒ‹ƒ_‚ğ‘I‘ğ‚µ‚Ä‚­‚¾‚³‚¢ :
+BIRTConfiguration_resource_dialog_message=ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã®ãƒªã‚½ãƒ¼ã‚¹ãƒ•ã‚©ãƒ«ãƒ€ã‚’é¸æŠã—ã¦ãã ã•ã„ :
 
-BIRTConfiguration_working_label=ì‹ÆƒtƒHƒ‹ƒ_(&K) :
+BIRTConfiguration_working_label=ä½œæ¥­ãƒ•ã‚©ãƒ«ãƒ€(&K) :
 
-BIRTConfiguration_working_dialog_title=ì‹ÆƒtƒHƒ‹ƒ_‚ğQÆ
+BIRTConfiguration_working_dialog_title=ä½œæ¥­ãƒ•ã‚©ãƒ«ãƒ€ã‚’å‚ç…§
 
-BIRTConfiguration_working_dialog_message=ƒfƒtƒHƒ‹ƒg‚Ìì‹ÆƒtƒHƒ‹ƒ_‚ğ‘I‘ğ‚µ‚Ä‚­‚¾‚³‚¢ :
+BIRTConfiguration_working_dialog_message=ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã®ä½œæ¥­ãƒ•ã‚©ãƒ«ãƒ€ã‚’é¸æŠã—ã¦ãã ã•ã„ :
 
-BIRTConfiguration_document_label=ˆê•¶‘ƒtƒHƒ‹ƒ_(&D) :
+BIRTConfiguration_document_label=ä¸€æ™‚æ–‡æ›¸ãƒ•ã‚©ãƒ«ãƒ€(&D) :
 
-BIRTConfiguration_document_dialog_title=ˆê•¶‘ƒtƒHƒ‹ƒ_‚ÌQÆ
+BIRTConfiguration_document_dialog_title=ä¸€æ™‚æ–‡æ›¸ãƒ•ã‚©ãƒ«ãƒ€ã®å‚ç…§
 
-BIRTConfiguration_document_dialog_message=ƒfƒtƒHƒ‹ƒg‚Ìˆê•¶‘ƒtƒHƒ‹ƒ_‚ğ‘I‘ğ‚µ‚Ä‚­‚¾‚³‚¢ :
+BIRTConfiguration_document_dialog_message=ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã®ä¸€æ™‚æ–‡æ›¸ãƒ•ã‚©ãƒ«ãƒ€ã‚’é¸æŠã—ã¦ãã ã•ã„ :
 
-BIRTConfiguration_image_label=ˆêƒCƒ[ƒWƒtƒHƒ‹ƒ_(&I) :
+BIRTConfiguration_image_label=ä¸€æ™‚ã‚¤ãƒ¡ãƒ¼ã‚¸ãƒ•ã‚©ãƒ«ãƒ€(&I) :
 
-BIRTConfiguration_image_dialog_title=ˆêƒCƒ[ƒWƒtƒHƒ‹ƒ_‚ÌQÆ
+BIRTConfiguration_image_dialog_title=ä¸€æ™‚ã‚¤ãƒ¡ãƒ¼ã‚¸ãƒ•ã‚©ãƒ«ãƒ€ã®å‚ç…§
 
-BIRTConfiguration_image_dialog_message=ƒfƒtƒHƒ‹ƒg‚ÌˆêƒCƒ[ƒWƒtƒHƒ‹ƒ_‚ğ‘I‘ğ‚µ‚Ä‚­‚¾‚³‚¢ :
+BIRTConfiguration_image_dialog_message=ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã®ä¸€æ™‚ã‚¤ãƒ¡ãƒ¼ã‚¸ãƒ•ã‚©ãƒ«ãƒ€ã‚’é¸æŠã—ã¦ãã ã•ã„ :
 
-BIRTConfiguration_scriptlib_label=ScriptLib ƒtƒHƒ‹ƒ_(&:) :
+BIRTConfiguration_scriptlib_label=ScriptLib ãƒ•ã‚©ãƒ«ãƒ€(&:) :
 
-BIRTConfiguration_scriptlib_dialog_title=ScriptLib ƒtƒHƒ‹ƒ_‚ÌQÆ
+BIRTConfiguration_scriptlib_dialog_title=ScriptLib ãƒ•ã‚©ãƒ«ãƒ€ã®å‚ç…§
 
-BIRTConfiguration_scriptlib_dialog_message=ƒfƒtƒHƒ‹ƒg‚Ì ScriptLib ƒtƒHƒ‹ƒ_‚ğ‘I‘ğ‚µ‚Ä‚­‚¾‚³‚¢ :
+BIRTConfiguration_scriptlib_dialog_message=ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã® ScriptLib ãƒ•ã‚©ãƒ«ãƒ€ã‚’é¸æŠã—ã¦ãã ã•ã„ :
 
-BIRTConfiguration_log_label=ƒƒOƒtƒHƒ‹ƒ_(&L) :
+BIRTConfiguration_log_label=ãƒ­ã‚°ãƒ•ã‚©ãƒ«ãƒ€(&L) :
 
-BIRTConfiguration_log_dialog_title=ƒƒOƒtƒHƒ‹ƒ_‚ÌQÆ
+BIRTConfiguration_log_dialog_title=ãƒ­ã‚°ãƒ•ã‚©ãƒ«ãƒ€ã®å‚ç…§
 
-BIRTConfiguration_log_dialog_message=ƒfƒtƒHƒ‹ƒg‚ÌƒƒOƒtƒHƒ‹ƒ_‚ğ‘I‘ğ‚µ‚Ä‚­‚¾‚³‚¢ :
+BIRTConfiguration_log_dialog_message=ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã®ãƒ­ã‚°ãƒ•ã‚©ãƒ«ãƒ€ã‚’é¸æŠã—ã¦ãã ã•ã„ :
 
-BIRTConfiguration_report_access_message=ì‹ÆƒtƒHƒ‹ƒ_“à‚ÌƒŒƒ|[ƒg‚Æ•¶‘‚¾‚¯‚ÉƒAƒNƒZƒX‚·‚é(&Y)
+BIRTConfiguration_report_access_message=ä½œæ¥­ãƒ•ã‚©ãƒ«ãƒ€å†…ã®ãƒ¬ãƒãƒ¼ãƒˆã¨æ–‡æ›¸ã ã‘ã«ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹(&Y)
 
-BIRTConfiguration_overwrite_message=¶¬‚µ‚½•¶‘ƒtƒ@ƒCƒ‹‚ğí‚Éã‘‚«‚·‚é(&A)
+BIRTConfiguration_overwrite_message=ç”Ÿæˆã—ãŸæ–‡æ›¸ãƒ•ã‚¡ã‚¤ãƒ«ã‚’å¸¸ã«ä¸Šæ›¸ãã™ã‚‹(&A)
 
-BIRTConfiguration_maxrows_label=ƒf[ƒ^ƒZƒbƒg‚ÌÅ‘ås”(&T) :
+BIRTConfiguration_maxrows_label=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®æœ€å¤§è¡Œæ•°(&T) :
 
-BIRTConfiguration_maxrowlevels_label=ƒLƒ…[ƒu‚ªƒtƒFƒbƒ`‚Å‚«‚éÅ‘åsƒŒƒxƒ‹(&M) :
+BIRTConfiguration_maxrowlevels_label=ã‚­ãƒ¥ãƒ¼ãƒ–ãŒãƒ•ã‚§ãƒƒãƒã§ãã‚‹æœ€å¤§è¡Œãƒ¬ãƒ™ãƒ«(&M) :
 
-BIRTConfiguration_maxcolumnlevels_label=ƒLƒ…[ƒu‚ªƒtƒFƒbƒ`‚Å‚«‚éÅ‘å—ñƒŒƒxƒ‹(&X) :
+BIRTConfiguration_maxcolumnlevels_label=ã‚­ãƒ¥ãƒ¼ãƒ–ãŒãƒ•ã‚§ãƒƒãƒã§ãã‚‹æœ€å¤§åˆ—ãƒ¬ãƒ™ãƒ«(&X) :
 
-BIRTConfiguration_cubememsize_label=ì¬‚Å‚«‚éƒLƒ…[ƒu‚ÌÅ‘åƒƒ‚ƒŠƒTƒCƒY(&Z) :
+BIRTConfiguration_cubememsize_label=ä½œæˆã§ãã‚‹ã‚­ãƒ¥ãƒ¼ãƒ–ã®æœ€å¤§ãƒ¡ãƒ¢ãƒªã‚µã‚¤ã‚º(&Z) :
 
-BIRTConfiguration_loglevel_label=ƒƒOƒŒƒxƒ‹‚Ì‘I‘ğ(&V) :
+BIRTConfiguration_loglevel_label=ãƒ­ã‚°ãƒ¬ãƒ™ãƒ«ã®é¸æŠ(&V) :
 
 BIRTConfiguration_loglevel_all=ALL
 
@@ -110,24 +110,24 @@ BIRTConfiguration_loglevel_finest=FINEST
 
 BIRTConfiguration_loglevel_off=OFF
 
-BIRTConfiguration_printserver_label=ƒŒƒ|[ƒg‚ğƒT[ƒoƒTƒCƒh‚Åˆóü(&P) :
+BIRTConfiguration_printserver_label=ãƒ¬ãƒãƒ¼ãƒˆã‚’ã‚µãƒ¼ãƒã‚µã‚¤ãƒ‰ã§å°åˆ·(&P) :
 
-BIRTConfiguration_import_clear_message=BIRT ‚ÌŒÃ‚¢ƒ‰ƒ“ƒ^ƒCƒ€ƒtƒ@ƒCƒ‹‚ğíœ‚·‚é(&C)
+BIRTConfiguration_import_clear_message=BIRT ã®å¤ã„ãƒ©ãƒ³ã‚¿ã‚¤ãƒ ãƒ•ã‚¡ã‚¤ãƒ«ã‚’å‰Šé™¤ã™ã‚‹(&C)
 
 ###############################################################################
 # Overwrite Query Dialog
 ###############################################################################
-BIRTOverwriteQuery_title=ã‘‚«
+BIRTOverwriteQuery_title=ä¸Šæ›¸ã
 
-BIRTOverwriteQuery_message={0} ‚ğã‘‚«‚µ‚Ü‚·‚© ?
+BIRTOverwriteQuery_message={0} ã‚’ä¸Šæ›¸ãã—ã¾ã™ã‹ ?
 
-BIRTOverwriteQuery_webartifact_title=”z•z‹Lqq‚Ìã‘‚«
+BIRTOverwriteQuery_webartifact_title=é…å¸ƒè¨˜è¿°å­ã®ä¸Šæ›¸ã
 
-BIRTOverwriteQuery_webartifact_message=web.xml ‚É {0} ‚ª‘¶İ‚µ‚Ü‚·Bã‘‚«‚µ‚Ü‚·‚© ?
+BIRTOverwriteQuery_webartifact_message=web.xml ã« {0} ãŒå­˜åœ¨ã—ã¾ã™ã€‚ä¸Šæ›¸ãã—ã¾ã™ã‹ ?
 
 ###############################################################################
 # Error Message
 ###############################################################################
-BIRTErrors_miss_source=ƒCƒ“ƒ|[ƒgˆ—‚ª‹­§I—¹‚µ‚Ü‚µ‚½B³‚µ‚¢ƒ\[ƒX zip ƒtƒ@ƒCƒ‹‚ğæ“¾‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B
+BIRTErrors_miss_source=ã‚¤ãƒ³ãƒãƒ¼ãƒˆå‡¦ç†ãŒå¼·åˆ¶çµ‚äº†ã—ã¾ã—ãŸã€‚æ­£ã—ã„ã‚½ãƒ¼ã‚¹ zip ãƒ•ã‚¡ã‚¤ãƒ«ã‚’å–å¾—ã§ãã¾ã›ã‚“ã§ã—ãŸã€‚
 
-BIRTErrors_wrong_webcontent=³‚µ‚¢ Web ƒRƒ“ƒeƒ“ƒcƒtƒHƒ‹ƒ_‚ğæ“¾‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B
+BIRTErrors_wrong_webcontent=æ­£ã—ã„ Web ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ãƒ•ã‚©ãƒ«ãƒ€ã‚’å–å¾—ã§ãã¾ã›ã‚“ã§ã—ãŸã€‚

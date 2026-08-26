@@ -1,28 +1,28 @@
-birt.web.category.name=&Herramientas de generaci髇 de informe para la actividad empresarial
+birt.web.category.name=&Herramientas de generaci贸n de informe para la actividad empresarial
 
-birt.web.project.name=Proyecto Web con tiempo de ejecuci髇 de BIRT
+birt.web.project.name=Proyecto Web con tiempo de ejecuci贸n de BIRT
 
-birt.web.project.description=Crear un proyecto web que contenga un componente de tiempo de ejecuci髇 BIRT
+birt.web.project.description=Crear un proyecto web que contenga un componente de tiempo de ejecuci贸n BIRT
 
 birt.web.actionsets.description=Acciones para proyecto web BIRT
 
-create.birt.web.module=Crear un m骴ulo web BIRT
+create.birt.web.module=Crear un m贸dulo web BIRT
 
-BIRT_FACET_LABEL=Componente de tiempo de ejecuci髇 de generaci髇 de informes BIRT
+BIRT_FACET_LABEL=Componente de tiempo de ejecuci贸n de generaci贸n de informes BIRT
 
-BIRT_FACET_DESCRIPTION=Componente de tiempo de ejecuci髇 de generaci髇 de informes BIRT
+BIRT_FACET_DESCRIPTION=Componente de tiempo de ejecuci贸n de generaci贸n de informes BIRT
 
-BIRT_FACET_TEMPLATE_LABEL=Proyecto web de generaci髇 de informes BIRT
+BIRT_FACET_TEMPLATE_LABEL=Proyecto web de generaci贸n de informes BIRT
 
-BIRT_FACET_TEMPLATE_DESCRIPTION=Proyecto web con el componente de tiempo de ejecuci髇 de generaci髇 de informes BIRT
+BIRT_FACET_TEMPLATE_DESCRIPTION=Proyecto web con el componente de tiempo de ejecuci贸n de generaci贸n de informes BIRT
 
 JSP_New_context_type_Extension_Element.name=Nuevo JSP con etiqueta BIRT
 
 JSP_Tag_context_type_Extension_Element.name=Nueva etiqueta JSP BIRT
 
-BirtResourcesDefinition= Definici髇 de recursos de la aplicaci髇 web BIRT
+BirtResourcesDefinition= Definici贸n de recursos de la aplicaci贸n web BIRT
 
-birt.action.importruntime.name=Importar componente de tiempo de ejecuci髇 de &BIRT...
+birt.action.importruntime.name=Importar componente de tiempo de ejecuci贸n de &BIRT...
 
 
 plugin.version=4.4.0

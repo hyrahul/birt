@@ -27,7 +27,7 @@ datasource.name=Fuente de datos JDBC
 
 dataset.jdbcselect=SQL SELECT mediante JDBC
 
-datasource.editor.page.connection=Conexión de fuente de datos
+datasource.editor.page.connection=ConexiÃ³n de fuente de datos
 
 preference.datasetpreview=Conjunto de datos JDBC
 
@@ -38,7 +38,7 @@ wizard.data.set.title=Nuevo conjunto de datos
 
 plugin.name=BIRT JDBC UI Plug-in
 newwizard.name=BIRT JDBC Data Source
-newwizard.description=Crear un perfil de conexión JDBC BIRT
+newwizard.description=Crear un perfil de conexiÃ³n JDBC BIRT
 
 wizard.window.title=Nuevo perfil de fuente de datos JDBC
 

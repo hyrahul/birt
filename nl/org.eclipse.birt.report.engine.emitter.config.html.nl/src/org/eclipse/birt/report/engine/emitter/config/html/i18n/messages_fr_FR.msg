@@ -20,19 +20,19 @@ XHTMLEmitter.DisplayName=XHTML
 
 ###########################################################
 #Option Display Value
-OptionDisplayValue.AgentStyleEngine=Déléguer le traitement de style à l'Agent utilisateur
+OptionDisplayValue.AgentStyleEngine=DÃ©lÃ©guer le traitement de style Ã  l'Agent utilisateur
 
 OptionDisplayValue.Enable=Activer
 
-OptionDisplayValue.Disable=Désactiver
+OptionDisplayValue.Disable=DÃ©sactiver
 
 OptionDisplayValue.OutputMasterPageMargins=Supprimer les marges de la page principale
 
-OptionDisplayValue.MasterPageContent=Supprimer l'en-tête et le pied de page de la page
+OptionDisplayValue.MasterPageContent=Supprimer l'en-tÃªte et le pied de page de la page
 
 OptionDisplayValue.PageFooterFloat=Pied de page flottant
 
-OptionDisplayValue.LayoutPreference=Préférences de mise en page :
+OptionDisplayValue.LayoutPreference=PrÃ©fÃ©rences de mise en page :
 
 OptionDisplayValue.FixedLayout=Mise en page fixe
 
@@ -46,12 +46,12 @@ OptionDisplayValue.HTMLNoCSS=HTML sans CSS
 
 ###########################################################
 #Option Description
-OptionDescription.AgentStyleEngine=Vrai : signifie que l'émetteur HTML, qui dépend du navigateur pour implémenter le calcul de style, inclura les styles BIRT directement dans le rapport.\nFaux : signifie que l'émetteur HTML utilisera le moteur de style BIRT pour calculer les styles et inclura le résultat dans le rapport.
+OptionDescription.AgentStyleEngine=Vrai : signifie que l'Ã©metteur HTML, qui dÃ©pend du navigateur pour implÃ©menter le calcul de style, inclura les styles BIRT directement dans le rapport.\nFaux : signifie que l'Ã©metteur HTML utilisera le moteur de style BIRT pour calculer les styles et inclura le rÃ©sultat dans le rapport.
 
 OptionDescription.OutputMasterPageMargins=Supprimer les marges de la page principale pour la mise en page automatique du rapport.
 
-OptionDescription.MasterPageContent=Contient un en-tête et un pied de page, applicable uniquement si la Pagination est activée.
+OptionDescription.MasterPageContent=Contient un en-tÃªte et un pied de page, applicable uniquement si la Pagination est activÃ©e.
 
-OptionDescription.PageFooterFloat=Rendre le pied de page flottant, applicables uniquement si la Pagination est activée.
+OptionDescription.PageFooterFloat=Rendre le pied de page flottant, applicables uniquement si la Pagination est activÃ©e.
 
 OptionDescription.HTMLType=Type d'HTML.

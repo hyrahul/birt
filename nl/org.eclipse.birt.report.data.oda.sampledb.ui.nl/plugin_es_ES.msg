@@ -9,7 +9,7 @@ oda.data.source.id=org.eclipse.birt.report.data.oda.sampledb
 #
 plugin.name=BIRT Sample DB Designer
 newwizard.name=BIRT Sample DB Data Source
-newwizard.description=Crear un perfil de conexión de base de datos de muestra BIRT
+newwizard.description=Crear un perfil de conexiÃ³n de base de datos de muestra BIRT
 
 wizard.window.title=Nuevo perfil de fuente de datos de base de datos de muestra
 

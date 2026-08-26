@@ -5,45 +5,45 @@
 Workbench_title = BIRT Report Designer
 
 # --- File Menu ---
-Workbench_file = ÆÄÀÏ(&F)
+Workbench_file = íŒŒì¼(&F)
 
-Workbench_openFile = ÆÄÀÏ ¿­±â(&O)...
+Workbench_openFile = íŒŒì¼ ì—´ê¸°(&O)...
 
-Workbench_new = »õ·Î ¸¸µé±â(&N)
+Workbench_new = ìƒˆë¡œ ë§Œë“¤ê¸°(&N)
 
-Action_newReport = »õ º¸°í¼­(&R)...
+Action_newReport = ìƒˆ ë³´ê³ ì„œ(&R)...
 
-Action_openReport = º¸°í¼­ ¿­±â(&R)...
+Action_openReport = ë³´ê³ ì„œ ì—´ê¸°(&R)...
 
 # --- Edit Menu ---
-Workbench_edit = ÆíÁı(&E)
+Workbench_edit = í¸ì§‘(&E)
 
 # --- Window Menu ---
-Workbench_window = Ã¢(&W)
+Workbench_window = ì°½(&W)
 
-Workbench_openPerspective = ¿ø±Ù°¨ ¿­±â(&O)
+Workbench_openPerspective = ì›ê·¼ê° ì—´ê¸°(&O)
 
-Workbench_showView = º¸±â Ç¥½Ã(&V)
+Workbench_showView = ë³´ê¸° í‘œì‹œ(&V)
 
-Workbench_openNewWindow = »õ Ã¢(&N)
+Workbench_openNewWindow = ìƒˆ ì°½(&N)
 
 # --- Help Menu ---
-Workbench_help = µµ¿ò¸»(&H)
+Workbench_help = ë„ì›€ë§(&H)
 
-Action_newLibrary = »õ ¶óÀÌºê·¯¸®(&L)...
+Action_newLibrary = ìƒˆ ë¼ì´ë¸ŒëŸ¬ë¦¬(&L)...
 
-Action_openLibrary = ¶óÀÌºê·¯¸® ¿­±â(&L)...
+Action_openLibrary = ë¼ì´ë¸ŒëŸ¬ë¦¬ ì—´ê¸°(&L)...
 
-Action_newTemplate = »õ ÅÛÇÃ¸´(&T)...
+Action_newTemplate = ìƒˆ í…œí”Œë¦¿(&T)...
 
-Action_openTemplate = ÅÛÇÃ¸´ ¿­±â(&T)...
+Action_openTemplate = í…œí”Œë¦¿ ì—´ê¸°(&T)...
 
-Dialog_openFile = ÆÄÀÏ ¿­±â
+Dialog_openFile = íŒŒì¼ ì—´ê¸°
 
-SaveAsWizardWindowTitle=´Ù¸¥ ÀÌ¸§À¸·Î ÀúÀå
+SaveAsWizardWindowTitle=ë‹¤ë¥¸ ì´ë¦„ìœ¼ë¡œ ì €ì¥
 
-SaveAsWizardPageTitle=´Ù¸¥ ÀÌ¸§À¸·Î ÀúÀå
+SaveAsWizardPageTitle=ë‹¤ë¥¸ ì´ë¦„ìœ¼ë¡œ ì €ì¥
 
-SaveAsWizardPageDesc=´Ù¸¥ À§Ä¡¿¡ ÆÄÀÏÀ» ÀúÀåÇÕ´Ï´Ù.
+SaveAsWizardPageDesc=ë‹¤ë¥¸ ìœ„ì¹˜ì— íŒŒì¼ì„ ì €ì¥í•©ë‹ˆë‹¤.
 
-ReportSettingPageTitle=ÆäÀÌÁö ¼Ó¼º ¼³Á¤
+ReportSettingPageTitle=í˜ì´ì§€ ì†ì„± ì„¤ì •

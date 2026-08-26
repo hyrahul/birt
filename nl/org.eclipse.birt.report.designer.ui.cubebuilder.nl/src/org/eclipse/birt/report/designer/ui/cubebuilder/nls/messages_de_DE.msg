@@ -36,11 +36,11 @@ cube.measure.edit=Quadereinheit bearbeiten
 
 CubeMeasureNodeProvider.menu.text=&Bearbeiten
 
-CubeGroupContent.Group.Add.Title=Gruppe hinzufügen
+CubeGroupContent.Group.Add.Title=Gruppe hinzufÃ¼gen
 
 CubeGroupContent.Group.Add.Message=Gruppen&name:
 
-CubeGroupContent.Measure.Add.Title=Zusammenfassungsfeld hinzufügen
+CubeGroupContent.Measure.Add.Title=Zusammenfassungsfeld hinzufÃ¼gen
 
 CubeGroupContent.Group.Edit.Title=Gruppe bearbeiten
 
@@ -62,18 +62,18 @@ Cube.Groups=Gruppen (Dimensionen)
 
 Cube.MeasureGroup=Zusammenfassungsfelder (Einheiten)
 
-CubeGroupContent.MeasureDataTypeErrorDialog.Message=Maßeinheit unterstützt nicht den Datentyp "Beliebig". Wählen Sie eine andere Datenspalte, oder ändern Sie den Datentyp der Spalte "{0}".
+CubeGroupContent.MeasureDataTypeErrorDialog.Message=MaÃŸeinheit unterstÃ¼tzt nicht den Datentyp "Beliebig". WÃ¤hlen Sie eine andere Datenspalte, oder Ã¤ndern Sie den Datentyp der Spalte "{0}".
 
 CubeGroupContent.MeasureDataTypeErrorDialog.Title=Warnung
 ###########################################################
 #Cube Builder Dialog properties
-CubeBuilder.AutoPrimaryKeyDialog.Message=Einige Spalten, die als Verknüpfungsschlüssel verwendet werden, sind nicht in Ebenen definiert. Möchten Sie die Option 'Automatischer Primärschlüssel' überprüfen, um den Quader abzuschließen?
+CubeBuilder.AutoPrimaryKeyDialog.Message=Einige Spalten, die als VerknÃ¼pfungsschlÃ¼ssel verwendet werden, sind nicht in Ebenen definiert. MÃ¶chten Sie die Option 'Automatischer PrimÃ¤rschlÃ¼ssel' Ã¼berprÃ¼fen, um den Quader abzuschlieÃŸen?
 
-CubeBuilder.AutoPrimaryKeyDialog.Title=Problem mit dem automatischen Primärschlüssel
+CubeBuilder.AutoPrimaryKeyDialog.Title=Problem mit dem automatischen PrimÃ¤rschlÃ¼ssel
 
-CubeBuilder.SharedDimensionErrorLinkDialog.Message=Alle Primärschlüssel aus gemeinsamen Dimensionen müssen miteinander verknüpft sein. Möchten Sie die fehlenden Verknüpfungen angeben, um den Quader abzuschließen?
+CubeBuilder.SharedDimensionErrorLinkDialog.Message=Alle PrimÃ¤rschlÃ¼ssel aus gemeinsamen Dimensionen mÃ¼ssen miteinander verknÃ¼pft sein. MÃ¶chten Sie die fehlenden VerknÃ¼pfungen angeben, um den Quader abzuschlieÃŸen?
 
-CubeBuilder.SharedDimensionErrorLinkDialog.Title=Fehlende Verknüpfung einer gemeinsamen Dimension
+CubeBuilder.SharedDimensionErrorLinkDialog.Title=Fehlende VerknÃ¼pfung einer gemeinsamen Dimension
 
 CubeBuilder.Title=Datenquadererstellung
 
@@ -85,17 +85,17 @@ GroupDialog.Access.Control.List.Expression=Zugriffssteuerlisten-&Ausdruck:
 
 GroupDialog.Button.DateGroup=&Datumsgruppe
 
-GroupDialog.Button.RegularGroup=&Reguläre Gruppe
+GroupDialog.Button.RegularGroup=&RegulÃ¤re Gruppe
 
 GroupRenameDialog.Access.Control.List.Expression=Zugriffssteuerlisten-&Ausdruck:
 
 GroupsPage.Title=Gruppen und Zusammenfassungen
 
-LinkGroupsPage.Title=Gruppen verknüpfen
+LinkGroupsPage.Title=Gruppen verknÃ¼pfen
 
 DatasetPage.Label.Name=&Name:
 
-DateGroupDialog.Title=Gruppenebene hinzufügen/bearbeiten
+DateGroupDialog.Title=Gruppenebene hinzufÃ¼gen/bearbeiten
 
 DateGroupDialog.Message.NumericName=Gruppenname darf keine reine Zahl sein.
 
@@ -109,15 +109,15 @@ DateLevelDialog.Button.Text.Edit=&Bearbeiten...
 
 DateLevelDialog.Title=Datumsebene bearbeiten
 
-DatasetPage.Label.PrimaryDataset=&Primärdatensatz:
+DatasetPage.Label.PrimaryDataset=&PrimÃ¤rdatensatz:
 
 DatasetPage.Button.Filter=&Filter...
 
-DatasetPage.Button.Joint=Verknüpfungsdatensatz hinzufügen...
+DatasetPage.Button.Joint=VerknÃ¼pfungsdatensatz hinzufÃ¼gen...
 
 DatasetPage.Title.Title=Datensatz
 
-DateGroupDialog.Message=Wählen Sie die einzuschließenden Datumsfelder aus.
+DateGroupDialog.Message=WÃ¤hlen Sie die einzuschlieÃŸenden Datumsfelder aus.
 
 DateGroupDialog.Message.Regular=Geben Sie den Gruppennamen ein.
 
@@ -127,51 +127,51 @@ DateLevelDialog.Message.NumericName=Ebenenname darf keine reine Zahl sein.
 
 DateLevelDialog.Message.BlankName=Ebenenname darf nicht leer sein.
 
-DatasetPage.Title.Message=Datensatz für Quader definieren.
+DatasetPage.Title.Message=Datensatz fÃ¼r Quader definieren.
 
 DatasetPage.Container.Title.Message=Datensatzauswahl
 
-DatasetNodeEditPart.Primary.Dataset=(Primär)
+DatasetNodeEditPart.Primary.Dataset=(PrimÃ¤r)
 
 GroupsPage.Title.Title=Gruppen und Zusammenfassungen
 
-GroupsPage.Title.Message=Felder aus den verfügbaren Datensätzen in Gruppierungshierarchien und Zusammenfassungsdatenfelder ziehen.
+GroupsPage.Title.Message=Felder aus den verfÃ¼gbaren DatensÃ¤tzen in Gruppierungshierarchien und Zusammenfassungsdatenfelder ziehen.
 
 GroupsPage.Container.Title.Message=Gruppen und Zusammenfassungen
 
 SimpleCubeBuilder.Title.Title=Kreuztabellen-Cube Builder
 
-SimpleCubeBuilder.Title.Message=Daten für die Kreuztabelle durch das Angeben von Gruppierungshierarchien und Zusammenfassungsdatenfeldern verwalten.
+SimpleCubeBuilder.Title.Message=Daten fÃ¼r die Kreuztabelle durch das Angeben von Gruppierungshierarchien und Zusammenfassungsdatenfeldern verwalten.
 
 SimpleCubeBuilder.Title=Kreuztabellen-Cube Builder
 
 SimpleCubeBuilder.Label.Name=Name:
 
-DatasetSelectionPage.Label.Auto.Primary.Key=&Diese Option wählen, um eine Vorverdichtung im primären Datensatz während der Quadererstellung zu vermeiden.
+DatasetSelectionPage.Label.Auto.Primary.Key=&Diese Option wÃ¤hlen, um eine Vorverdichtung im primÃ¤ren Datensatz wÃ¤hrend der Quadererstellung zu vermeiden.
 
-DatasetSelectionPage.Text.Auto.Primary.Key=Hinweis – Ist diese Option aktiviert, überspringt BIRT die Gruppierungs- und Aggregatberechnung beim Erstellen des Quaders, um eine bessere Leistung bei der Quadererstellung zu erzielen.
+DatasetSelectionPage.Text.Auto.Primary.Key=Hinweis â€“ Ist diese Option aktiviert, Ã¼berspringt BIRT die Gruppierungs- und Aggregatberechnung beim Erstellen des Quaders, um eine bessere Leistung bei der Quadererstellung zu erzielen.
 
 DatasetSelectionPage.Combo.NewDataSet0=<Neuer Datensatz...>
 
-GroupsPage.Button.Add=&Hinzufügen
+GroupsPage.Button.Add=&HinzufÃ¼gen
 
 GroupsPage.Button.Edit=&Bearbeiten
 
-GroupsPage.Button.Delete=&Löschen...
+GroupsPage.Button.Delete=&LÃ¶schen...
 
-GroupsPage.ArrowButton.Add.Tooltip=Ausgewähltes Feld hinzufügen
+GroupsPage.ArrowButton.Add.Tooltip=AusgewÃ¤hltes Feld hinzufÃ¼gen
 
-GroupsPage.ArrowButton.Remove.Tooltip=Ausgewähltes Feld entfernen
+GroupsPage.ArrowButton.Remove.Tooltip=AusgewÃ¤hltes Feld entfernen
 
-GroupsPage.Label.DataField=Verfügbare Felder:
+GroupsPage.Label.DataField=VerfÃ¼gbare Felder:
 
 GroupsPage.Label.Group=Gruppen und Zusammenfassungen:
 
 GroupsPage.tooltip.Sort=Sortieren
 
-GroupsPage.Primary.Dataset=(Primär)
+GroupsPage.Primary.Dataset=(PrimÃ¤r)
 
-GroupsPage.VirtualField.Measure=(Feld hier ablegen, um eine Maßeinheit zu erstellen)
+GroupsPage.VirtualField.Measure=(Feld hier ablegen, um eine MaÃŸeinheit zu erstellen)
 
 GroupsPage.VirtualField.Level=(Feld hier ablegen, um eine Ebene zu erstellen)
 
@@ -183,25 +183,25 @@ GroupsPage.Reference=Verweis gefunden
 
 GroupsPage.Clients=\ hat folgende Clients
 
-GroupsPage.Dlg.Confirm=Möchten Sie das Element wirklich löschen?
+GroupsPage.Dlg.Confirm=MÃ¶chten Sie das Element wirklich lÃ¶schen?
 
-LinkGroupsPage.Container.Title.Message=Gruppen verknüpfen
+LinkGroupsPage.Container.Title.Message=Gruppen verknÃ¼pfen
 
-LinkGroupsPage.Title.Title=Gruppen verknüpfen
+LinkGroupsPage.Title.Title=Gruppen verknÃ¼pfen
 
-LinkGroupsPage.Title.Message=Um eine Gruppe aus einem anderen Datensatz mit dem primären Datensatz zu verknüpfen, ziehen Sie ein Feld aus der Gruppe auf ein Feld im primären Datensatz.
+LinkGroupsPage.Title.Message=Um eine Gruppe aus einem anderen Datensatz mit dem primÃ¤ren Datensatz zu verknÃ¼pfen, ziehen Sie ein Feld aus der Gruppe auf ein Feld im primÃ¤ren Datensatz.
 
 LevelDialog.Title=Eigenschaft
 
 LevelDialog.Label.Name=Name:
 
-LevelDialog.Label.Field=Feld wählen:
+LevelDialog.Label.Field=Feld wÃ¤hlen:
 
 LevelDialog.Label.DataType=Datentyp:
 
-LevelDialog.Label.Info=Ausgewählter Schlüssel:
+LevelDialog.Label.Info=AusgewÃ¤hlter SchlÃ¼ssel:
 
-LevelDialog.Label.Add=Gruppenebene hinzufügen
+LevelDialog.Label.Add=Gruppenebene hinzufÃ¼gen
 
 LevelDialog.Label.Edit=Gruppenebene bearbeiten
 
@@ -223,9 +223,9 @@ MeasureDialog.Label.DataType=&Datentyp:
 
 MeasureDialog.Label.Expression=Aus&druck:
 
-MeasureDialog.Label.LinkTo=&Verknüpfen mit:
+MeasureDialog.Label.LinkTo=&VerknÃ¼pfen mit:
 
-MeasureDialog.MessageDialog.Message=Der empfohlene Datentyp für die aktuelle Funktion ist '{0}'. Möchten Sie den ausgewählten Datentypen wirklich beibehalten?
+MeasureDialog.MessageDialog.Message=Der empfohlene Datentyp fÃ¼r die aktuelle Funktion ist '{0}'. MÃ¶chten Sie den ausgewÃ¤hlten Datentypen wirklich beibehalten?
 
 MeasureDialog.MessageDialog.Title=Warnung
 
@@ -241,31 +241,31 @@ MeasureDialog.Message.BlankName=Einheitenname darf nicht leer sein.
 
 MeasureDialog.Message.BlankExpression=Ausdruck darf nicht leer sein
 
-MeasureDialog.Label.DerivedMeasure=&Ist abgeleitete Maßeinheit
+MeasureDialog.Label.DerivedMeasure=&Ist abgeleitete MaÃŸeinheit
 
 MeasureDialog.Label.ExprDesc=z.B. dataSetRow["QUANTITYORDERED"]
 
 MeasureDialog.Label.ExprDesc.Derived=z.B. measure["QuantityOrdered"] * measure["PriceEach"]
 
-MeasureDialog.Label.Visibility=&Maßeinheit ausblenden
+MeasureDialog.Label.Visibility=&MaÃŸeinheit ausblenden
 
 MeasureDialog.Label.Visibility.Group=Sichtbarkeit
 
 LevelPropertyDialog.Access.Control.List.Expression=Zugriffssteuerlisten-&Ausdruck:
 
-LevelPropertyDialog.Title.Add=Gruppenebene hinzufügen
+LevelPropertyDialog.Title.Add=Gruppenebene hinzufÃ¼gen
 
 LevelPropertyDialog.Title.Edit=Gruppenebene bearbeiten
 
 LevelPropertyDialog.Member.Access.Control.List.Expression=&Mitglieds-Zugriffssteuerlisten-Ausdruck:
 
-LevelPropertyDialog.Message=Gruppenebene als dynamisch oder statisch definieren und erforderliche Felder ausfüllen
+LevelPropertyDialog.Message=Gruppenebene als dynamisch oder statisch definieren und erforderliche Felder ausfÃ¼llen
 
 LevelPropertyDialog.Message.NumericName=Eigenschaftsname darf keine reine Zahl sein.
 
 LevelPropertyDialog.Message.BlankName=Eigenschaftsname darf nicht leer sein.
 
-LevelPropertyDialog.Message.BlankKeyField=Schlüsselfeld darf nicht leer sein
+LevelPropertyDialog.Message.BlankKeyField=SchlÃ¼sselfeld darf nicht leer sein
 
 LevelPropertyDialog.Message.BlankDataType=Datentypfeld darf nicht leer sein
 
@@ -283,7 +283,7 @@ LevelPropertyDialog.StaticAttributeDialog.Title.Edit=Ebenenattribut bearbeiten
 
 LevelPropertyDialog.StaticAttributeDialog.Title.New=Neues Ebenenattribut
 
-LevelPropertyDialog.StaticTable.Button.Add=&Hinzufügen...
+LevelPropertyDialog.StaticTable.Button.Add=&HinzufÃ¼gen...
 
 LevelPropertyDialog.StaticTable.Button.Edit=&Bearbeiten...
 
@@ -297,11 +297,11 @@ LevelPropertyDialog.DisplayField=&Anzeigefeld:
 
 LevelPropertyDialog.Button.None=Ohne
 
-LevelPropertyDialog.Button.Prefix=Präfix
+LevelPropertyDialog.Button.Prefix=PrÃ¤fix
 
 LevelPropertyDialog.Button.Text.Edit=&Bearbeiten...
 
-LevelPropertyDialog.Interval.Base=Festen Basiswert für Intervall verwenden:
+LevelPropertyDialog.Interval.Base=Festen Basiswert fÃ¼r Intervall verwenden:
 
 LevelPropertyDialog.Label.Property=Ebeneneigenschaft
 
@@ -309,7 +309,7 @@ LevelPropertyDialog.Label.Attribute=Attribut
 
 LevelPropertyDialog.Label.Name=Mitglied
 
-LevelPropertyDialog.KeyField=&Schlüsselfeld:
+LevelPropertyDialog.KeyField=&SchlÃ¼sselfeld:
 
 LevelPropertyDialog.DataType=Daten&typ:
 
@@ -321,7 +321,7 @@ LevelPropertyDialog.DynamicAttributeDialog.Title.Edit=Ebenenattribut bearbeiten
 
 LevelPropertyDialog.DynamicAttributeDialog.Title.New=Neues Ebenenattribut
 
-LevelPropertyDialog.DynamicTable.Button.Add=Hinzufügen&...
+LevelPropertyDialog.DynamicTable.Button.Add=HinzufÃ¼gen&...
 
 LevelPropertyDialog.DynamicTable.Button.Edit=Bearbe&iten...
 
@@ -329,7 +329,7 @@ LevelPropertyDialog.DynamicTable.Button.Remove=&Entfernen
 
 LevelPropertyDialog.Label.Expression=Bedingungsausdruck
 
-LevelPropertyDialog.Label.LinkTo=&Verknüpfen mit:
+LevelPropertyDialog.Label.LinkTo=&VerknÃ¼pfen mit:
 
 LevelPropertyDialog.MSG.Dynamic.CreateNew=<Neues Attribut erstellen>
 
@@ -337,9 +337,9 @@ LevelPropertyDialog.MSG.Tooltip=(Alle anderen Werte anzeigen, die in keine diese
 
 LevelPropertyDialog.MSG.DefaultValue=<Standardwert>
 
-MissLinkDialog.Title=Fehlende Verknüpfung zwischen Datensätzen
+MissLinkDialog.Title=Fehlende VerknÃ¼pfung zwischen DatensÃ¤tzen
 
-MissLinkDialog.Question=Alle Gruppen aus anderen Datensätzen müssen mit dem primären Datensatz verknüpft sein. Möchten Sie die fehlenden Verknüpfungen angeben, um den Quader abzuschließen?
+MissLinkDialog.Question=Alle Gruppen aus anderen DatensÃ¤tzen mÃ¼ssen mit dem primÃ¤ren Datensatz verknÃ¼pft sein. MÃ¶chten Sie die fehlenden VerknÃ¼pfungen angeben, um den Quader abzuschlieÃŸen?
 
 SetConstraintCommand.setUserProperty=setUserProperty
 ###########################################################
@@ -355,13 +355,13 @@ RenameInputDialog.Message.NumericName=Name darf keine reine Zahl sein.
 RenameInputDialog.Message.DuplicateName=Der Name wird bereits verwendet.
 ############################################################
 #ExpressionBuilder properties
-ExpressionProvider.Category.DataSets=Verfügbare Datensätze
+ExpressionProvider.Category.DataSets=VerfÃ¼gbare DatensÃ¤tze
 
 DateGroupDialog.Shell.Title=Gruppenebene
 
 DateLevelDialog.Shell.Title=Datumsebene bearbeiten
 
-DateLevelDialog.Interval.Base=Festen Basiswert für Intervall verwenden:
+DateLevelDialog.Interval.Base=Festen Basiswert fÃ¼r Intervall verwenden:
 
 DateGroupDialog.Name=&Name:
 
@@ -371,9 +371,9 @@ DateLevelDialog.Type=&Typ:
 
 DateLevelDialog.Format=&Format:
 
-DateLevelDialog.KeyField=Schlüsselfeld:
+DateLevelDialog.KeyField=SchlÃ¼sselfeld:
 
-DateLevelDialog.Label.LinkTo=&Verknüpfen mit:
+DateLevelDialog.Label.LinkTo=&VerknÃ¼pfen mit:
 
 DateLevelDialog.None=Ohne
 
@@ -385,7 +385,7 @@ NewCubeAction.trans.cube.new=Quader erstellen
 
 ###########################################################
 #CubePageGenerator properties
-PrimaryDatasetDescriptorProvider.Display.Primary.Dataset.Name=&Primärer Datensatz:
+PrimaryDatasetDescriptorProvider.Display.Primary.Dataset.Name=&PrimÃ¤rer Datensatz:
 
 CubePageGenerator.List.General=Allgemein
 
@@ -395,7 +395,7 @@ FilterListDialog.Shell.Title=Filter
 
 FilterListDialog.Menu.ModifyProperty=Eigenschaft modifizieren
 
-FilterListDialog.Button.AddWithDialog=&Hinzufügen...
+FilterListDialog.Button.AddWithDialog=&HinzufÃ¼gen...
 
 FilterListDialog.Button.EditWithDialog=&Bearbeiten...
 
@@ -405,13 +405,13 @@ VirtualField.SharedDimensions=Gemeinsame Dimensionen
 
 MeasureDialog.Label.Format=F&ormatieren als:
 
-MeasureDialog.Button.Format.Edit=&Ändern...
+MeasureDialog.Button.Format.Edit=&Ã„ndern...
 
 MeasureDialog.Label.Alignment=Ausr&ichtung:
 
 LevelPropertyDialog.Label.Format=&Formatieren als:
 
-LevelPropertyDialog.Button.Format.Edit=&Ändern...
+LevelPropertyDialog.Button.Format.Edit=&Ã„ndern...
 
 LevelStaticAttributeDialog.Error.Message=Mitglied darf nicht leer sein.
 

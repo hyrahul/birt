@@ -12,22 +12,22 @@
 ###############################################################################
 # BIRT Wizard Configuration Page
 ###############################################################################
-BIRTProjectCreationWizard_title=»õ BIRT Â÷Æ® À¥ ÇÁ·ÎÁ§Æ®
+BIRTProjectCreationWizard_title=ìƒˆ BIRT ì°¨íŠ¸ ì›¹ í”„ë¡œì íŠ¸
 
 ###############################################################################
 # Overwrite Query Dialog
 ###############################################################################
-BIRTOverwriteQuery_title=´ëÈ­ »óÀÚ µ¤¾î¾²±â
+BIRTOverwriteQuery_title=ëŒ€í™” ìƒì ë®ì–´ì“°ê¸°
 
-BIRTOverwriteQuery_message={0}À»(¸¦) µ¤¾î¾²½Ã°Ú½À´Ï±î?
+BIRTOverwriteQuery_message={0}ì„(ë¥¼) ë®ì–´ì“°ì‹œê² ìŠµë‹ˆê¹Œ?
 
-BIRTOverwriteQuery_webartifact_title=¹èÆ÷ ¼³¸íÀÚ µ¤¾î¾²±â ´ëÈ­ »óÀÚ
+BIRTOverwriteQuery_webartifact_title=ë°°í¬ ì„¤ëª…ì ë®ì–´ì“°ê¸° ëŒ€í™” ìƒì
 
-BIRTOverwriteQuery_webartifact_message={0}ÀÌ(°¡) web.xml¿¡ Á¸ÀçÇÕ´Ï´Ù. µ¤¾î¾²½Ã°Ú½À´Ï±î?
+BIRTOverwriteQuery_webartifact_message={0}ì´(ê°€) web.xmlì— ì¡´ì¬í•©ë‹ˆë‹¤. ë®ì–´ì“°ì‹œê² ìŠµë‹ˆê¹Œ?
 
 ###############################################################################
 # Error Message
 ###############################################################################
-BIRTErrors_miss_source=°¡Á®¿À±â°¡ Áß´ÜµÇ¾ú½À´Ï´Ù. ¿Ã¹Ù¸¥ ¿øº» ZIP ÆÄÀÏÀ» °¡Á®¿Ã ¼ö ¾ø½À´Ï´Ù.
+BIRTErrors_miss_source=ê°€ì ¸ì˜¤ê¸°ê°€ ì¤‘ë‹¨ë˜ì—ˆìŠµë‹ˆë‹¤. ì˜¬ë°”ë¥¸ ì›ë³¸ ZIP íŒŒì¼ì„ ê°€ì ¸ì˜¬ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
 
-BIRTErrors_wrong_webcontent=¿Ã¹Ù¸¥ À¥ ÄÁÅÙÃ÷ Æú´õ¸¦ °¡Á®¿Ã ¼ö ¾ø½À´Ï´Ù.
+BIRTErrors_wrong_webcontent=ì˜¬ë°”ë¥¸ ì›¹ ì»¨í…ì¸  í´ë”ë¥¼ ê°€ì ¸ì˜¬ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.

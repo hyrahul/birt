@@ -14,21 +14,21 @@
 # General Info
 ###############################################################################
 LibPerspective=Lib Design
-LibraryEditor=¿â±à¼­Æ÷
+LibraryEditor=åº“ç¼–è¾‘å™¨
 
 WizardCategoryName=Business Intelligence and Reporting Tools
-LibraryWizard=¿â
+LibraryWizard=åº“
 
-LibraryWizardDescription=´ËÏòµ¼´´½¨ĞÂ¿â¡£
+LibraryWizardDescription=æ­¤å‘å¯¼åˆ›å»ºæ–°åº“ã€‚
 
-LibraryProjectWizard=¿âÏîÄ¿
+LibraryProjectWizard=åº“é¡¹ç›®
 
-LibraryProjectWizardDescription=ĞÂ½¨¿âÏîÄ¿¡£
+LibraryProjectWizardDescription=æ–°å»ºåº“é¡¹ç›®ã€‚
 
-library.layout=²¼¾Ö(&O)
+library.layout=å¸ƒå±€(&O)
 
-library.script=½Å±¾(&S)
+library.script=è„šæœ¬(&S)
 
-library.xmlsource=XML Ô´(&X)
+library.xmlsource=XML æº(&X)
 
-design.masterPage=Ö÷Ò³(&M)
+design.masterPage=ä¸»é¡µ(&M)

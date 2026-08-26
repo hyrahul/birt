@@ -1,77 +1,77 @@
-ScriptMainTab.title.report=ƒƒCƒ“
+ScriptMainTab.title.report=ãƒ¡ã‚¤ãƒ³
 
-ScriptMainTab.msg.report.file.name=ƒŒƒ|[ƒgƒtƒ@ƒCƒ‹–¼
+ScriptMainTab.msg.report.file.name=ãƒ¬ãƒãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«å
 
-ScriptMainTab.msg.eclipse.home=Eclipse ‚Ìƒz[ƒ€
+ScriptMainTab.msg.eclipse.home=Eclipse ã®ãƒ›ãƒ¼ãƒ 
 
-ScriptMainTab.msg.engine.home=ƒGƒ“ƒWƒ“‚Ìƒz[ƒ€
+ScriptMainTab.msg.engine.home=ã‚¨ãƒ³ã‚¸ãƒ³ã®ãƒ›ãƒ¼ãƒ 
 
-ScriptMainTab.msg.temp.folder=ˆêƒtƒHƒ‹ƒ_
+ScriptMainTab.msg.temp.folder=ä¸€æ™‚ãƒ•ã‚©ãƒ«ãƒ€
 
-ScriptMainTab.msg.debug.type=ƒfƒoƒbƒO‚Ìí—Ş
+ScriptMainTab.msg.debug.type=ãƒ‡ãƒãƒƒã‚°ã®ç¨®é¡
 
-ScriptMainTab.msg.task.type=ƒ^ƒXƒN‚Ìí—Ş
+ScriptMainTab.msg.task.type=ã‚¿ã‚¹ã‚¯ã®ç¨®é¡
 
-ScriptMainTab.msg.output=o—Í
+ScriptMainTab.msg.output=å‡ºåŠ›
 
-ScriptMainTab.msg.format=‘®:
+ScriptMainTab.msg.format=æ›¸å¼:
 
-ScriptMainTab.msg.debug.type.all=‚·‚×‚Ä
+ScriptMainTab.msg.debug.type.all=ã™ã¹ã¦
 
 ScriptMainTab.msg.debug.type.java=Java
 ScriptMainTab.msg.debug.type.script=Java Script
-ScriptMainTab.msg.task.type.run.and.render=Às‚¨‚æ‚ÑƒŒƒ“ƒ_ƒŠƒ“ƒO
+ScriptMainTab.msg.task.type.run.and.render=å®Ÿè¡ŒãŠã‚ˆã³ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°
 
-ScriptMainTab.msg.task.type.run=Às
+ScriptMainTab.msg.task.type.run=å®Ÿè¡Œ
 
-ScriptMainTab.msg.task.type.render=ƒŒƒ“ƒ_ƒŠƒ“ƒO
+ScriptMainTab.msg.task.type.render=ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°
 
-ScriptMainTab.msg.task.type.run.plus.render=Às + ƒŒƒ“ƒ_ƒŠƒ“ƒO
+ScriptMainTab.msg.task.type.run.plus.render=å®Ÿè¡Œ + ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°
 
-ScriptMainTab.error.msg.no.eclipse.home=Eclipse ‚Ìƒz[ƒ€‚ªw’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+ScriptMainTab.error.msg.no.eclipse.home=Eclipse ã®ãƒ›ãƒ¼ãƒ ãŒæŒ‡å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-ScriptMainTab.error.msg.nonexist.eclipse.home=Eclipse ‚Ìƒz[ƒ€‚ª‘¶İ‚µ‚Ü‚¹‚ñB
+ScriptMainTab.error.msg.nonexist.eclipse.home=Eclipse ã®ãƒ›ãƒ¼ãƒ ãŒå­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-ScriptMainTab.error.msg.invalid.eclipse.home=Eclipse ‚Ìƒz[ƒ€‚É‚ÍƒfƒBƒŒƒNƒgƒŠ‚ğİ’è‚µ‚Ä‚­‚¾‚³‚¢B
+ScriptMainTab.error.msg.invalid.eclipse.home=Eclipse ã®ãƒ›ãƒ¼ãƒ ã«ã¯ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚’è¨­å®šã—ã¦ãã ã•ã„ã€‚
 
-ScriptMainTab.error.msg.no.engine.home=ƒGƒ“ƒWƒ“‚Ìƒz[ƒ€‚ªw’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+ScriptMainTab.error.msg.no.engine.home=ã‚¨ãƒ³ã‚¸ãƒ³ã®ãƒ›ãƒ¼ãƒ ãŒæŒ‡å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-ScriptMainTab.error.msg.nonexist.engine.home=ƒGƒ“ƒWƒ“‚Ìƒz[ƒ€‚ª‘¶İ‚µ‚Ü‚¹‚ñB
+ScriptMainTab.error.msg.nonexist.engine.home=ã‚¨ãƒ³ã‚¸ãƒ³ã®ãƒ›ãƒ¼ãƒ ãŒå­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-ScriptMainTab.error.msg.invalid.engine.home=ƒGƒ“ƒWƒ“‚Ìƒz[ƒ€‚É‚ÍƒfƒBƒŒƒNƒgƒŠ‚ğİ’è‚µ‚Ä‚­‚¾‚³‚¢B
+ScriptMainTab.error.msg.invalid.engine.home=ã‚¨ãƒ³ã‚¸ãƒ³ã®ãƒ›ãƒ¼ãƒ ã«ã¯ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚’è¨­å®šã—ã¦ãã ã•ã„ã€‚
 
-ScriptMainTab.error.msg.no.temp.folder=ˆêƒtƒHƒ‹ƒ_‚ªw’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+ScriptMainTab.error.msg.no.temp.folder=ä¸€æ™‚ãƒ•ã‚©ãƒ«ãƒ€ãŒæŒ‡å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-ScriptMainTab.error.msg.nonexist.temp.folder=ˆêƒtƒHƒ‹ƒ_‚ª‘¶İ‚µ‚Ü‚¹‚ñB
+ScriptMainTab.error.msg.nonexist.temp.folder=ä¸€æ™‚ãƒ•ã‚©ãƒ«ãƒ€ãŒå­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-ScriptMainTab.error.msg.invalid.temp.folder=ˆêƒtƒHƒ‹ƒ_‚É‚ÍƒfƒBƒŒƒNƒgƒŠ‚ğİ’è‚µ‚Ä‚­‚¾‚³‚¢B
+ScriptMainTab.error.msg.invalid.temp.folder=ä¸€æ™‚ãƒ•ã‚©ãƒ«ãƒ€ã«ã¯ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚’è¨­å®šã—ã¦ãã ã•ã„ã€‚
 
-ScriptMainTab.error.msg.no.report.file=ƒŒƒ|[ƒgƒtƒ@ƒCƒ‹‚ªw’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
+ScriptMainTab.error.msg.no.report.file=ãƒ¬ãƒãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ãŒæŒ‡å®šã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
 
-ScriptMainTab.error.msg.nonexist.report.file=ƒŒƒ|[ƒgƒtƒ@ƒCƒ‹‚ª‘¶İ‚µ‚Ü‚¹‚ñB
+ScriptMainTab.error.msg.nonexist.report.file=ãƒ¬ãƒãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ãŒå­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-ScriptMainTab.error.msg.invalid.report.file=‘I‘ğ‚µ‚½ƒtƒ@ƒCƒ‹‚ÍA—LŒø‚ÈƒŒƒ|[ƒgƒfƒUƒCƒ“ƒtƒ@ƒCƒ‹‚Å‚Í‚ ‚è‚Ü‚¹‚ñB
+ScriptMainTab.error.msg.invalid.report.file=é¸æŠã—ãŸãƒ•ã‚¡ã‚¤ãƒ«ã¯ã€æœ‰åŠ¹ãªãƒ¬ãƒãƒ¼ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³ãƒ•ã‚¡ã‚¤ãƒ«ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚
 
-ScriptMainTab.error.msg.invalid.document.file=‘I‘ğ‚µ‚½ƒtƒ@ƒCƒ‹‚ÍA—LŒø‚ÈƒŒƒ|[ƒg•¶‘ƒtƒ@ƒCƒ‹‚Å‚Í‚ ‚è‚Ü‚¹‚ñB
+ScriptMainTab.error.msg.invalid.document.file=é¸æŠã—ãŸãƒ•ã‚¡ã‚¤ãƒ«ã¯ã€æœ‰åŠ¹ãªãƒ¬ãƒãƒ¼ãƒˆæ–‡æ›¸ãƒ•ã‚¡ã‚¤ãƒ«ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚
 
-ScriptMainTab.title.eclipse.home=Eclipse ‚Ìƒz[ƒ€ƒfƒBƒŒƒNƒgƒŠ
+ScriptMainTab.title.eclipse.home=Eclipse ã®ãƒ›ãƒ¼ãƒ ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª
 
-ScriptMainTab.msg.select.eclipse.home=Eclipse ‚Ìƒz[ƒ€ƒfƒBƒŒƒNƒgƒŠ‚ğ‘I‘ğ‚µ‚Ü‚·
+ScriptMainTab.msg.select.eclipse.home=Eclipse ã®ãƒ›ãƒ¼ãƒ ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚’é¸æŠã—ã¾ã™
 
-ScriptMainTab.title.temp.folder=ˆêƒtƒHƒ‹ƒ_‚ÌƒfƒBƒŒƒNƒgƒŠ
+ScriptMainTab.title.temp.folder=ä¸€æ™‚ãƒ•ã‚©ãƒ«ãƒ€ã®ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª
 
-ScriptMainTab.msg.select.temp.folder=ˆêƒtƒHƒ‹ƒ_‚ÌƒfƒBƒŒƒNƒgƒŠ‚ğ‘I‘ğ‚µ‚Ü‚·
+ScriptMainTab.msg.select.temp.folder=ä¸€æ™‚ãƒ•ã‚©ãƒ«ãƒ€ã®ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚’é¸æŠã—ã¾ã™
 
-ScriptMainTab.title.engine.home=ƒGƒ“ƒWƒ“‚Ìƒz[ƒ€ƒfƒBƒŒƒNƒgƒŠ
+ScriptMainTab.title.engine.home=ã‚¨ãƒ³ã‚¸ãƒ³ã®ãƒ›ãƒ¼ãƒ ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª
 
-ScriptMainTab.msg.select.engine.home=ƒGƒ“ƒWƒ“‚Ìƒz[ƒ€ƒfƒBƒŒƒNƒgƒŠ‚ğ‘I‘ğ‚µ‚Ü‚·
+ScriptMainTab.msg.select.engine.home=ã‚¨ãƒ³ã‚¸ãƒ³ã®ãƒ›ãƒ¼ãƒ ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚’é¸æŠã—ã¾ã™
 
-ScriptMainTab.msg.select.report.file=ƒŒƒ|[ƒgƒtƒ@ƒCƒ‹‚ğ‘I‘ğ‚µ‚Ü‚·
+ScriptMainTab.msg.select.report.file=ãƒ¬ãƒãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã‚’é¸æŠã—ã¾ã™
 
-ScriptMainTab.button.text.search=ŒŸõ...
+ScriptMainTab.button.text.search=æ¤œç´¢...
 
-ScriptMainTab.button.text.variables=•Ï”...
+ScriptMainTab.button.text.variables=å¤‰æ•°...
 
-ScriptMainTab.msg.open.target.file=Š®—¹‚É¶¬ƒtƒ@ƒCƒ‹‚ğŠJ‚«‚Ü‚·
+ScriptMainTab.msg.open.target.file=å®Œäº†æ™‚ã«ç”Ÿæˆãƒ•ã‚¡ã‚¤ãƒ«ã‚’é–‹ãã¾ã™
 
-ScriptMainTab.msg.use.default.engine.home=ƒfƒtƒHƒ‹ƒg‚ÌƒGƒ“ƒWƒ“‚Ìƒz[ƒ€‚ğg—p‚µ‚Ü‚·
+ScriptMainTab.msg.use.default.engine.home=ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã®ã‚¨ãƒ³ã‚¸ãƒ³ã®ãƒ›ãƒ¼ãƒ ã‚’ä½¿ç”¨ã—ã¾ã™

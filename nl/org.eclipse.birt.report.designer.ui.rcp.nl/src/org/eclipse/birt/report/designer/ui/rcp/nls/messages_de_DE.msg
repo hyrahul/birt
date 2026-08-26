@@ -7,13 +7,13 @@ Workbench_title = BIRT Report Designer
 # --- File Menu ---
 Workbench_file = &Datei
 
-Workbench_openFile = &Datei öffnen...
+Workbench_openFile = &Datei Ã¶ffnen...
 
 Workbench_new = &Neu
 
 Action_newReport = &Neuer Bericht...
 
-Action_openReport = &Bericht öffnen...
+Action_openReport = &Bericht Ã¶ffnen...
 
 # --- Edit Menu ---
 Workbench_edit = &Bearbeiten
@@ -21,7 +21,7 @@ Workbench_edit = &Bearbeiten
 # --- Window Menu ---
 Workbench_window = &Fenster
 
-Workbench_openPerspective = &Perspektive öffnen
+Workbench_openPerspective = &Perspektive Ã¶ffnen
 
 Workbench_showView = Ansicht &anzeigen
 
@@ -32,13 +32,13 @@ Workbench_help = &Hilfe
 
 Action_newLibrary = Neue &Bibliothek...
 
-Action_openLibrary = Bibliothek &öffnen...
+Action_openLibrary = Bibliothek &Ã¶ffnen...
 
 Action_newTemplate = Neue &Vorlage...
 
-Action_openTemplate = Vorlage &öffnen...
+Action_openTemplate = Vorlage &Ã¶ffnen...
 
-Dialog_openFile = Datei öffnen
+Dialog_openFile = Datei Ã¶ffnen
 
 SaveAsWizardWindowTitle=Speichern unter
 

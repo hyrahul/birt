@@ -1,78 +1,78 @@
-preference.description = JDBC Êı¾İÔ´µÄÄ¬ÈÏË«Ïò¸ñÊ½
+preference.description = JDBC æ•°æ®æºçš„é»˜è®¤åŒå‘æ ¼å¼
 
-preference.bidiframe.title = Ë«Ïò¸ñÊ½
+preference.bidiframe.title = åŒå‘æ ¼å¼
 
-preference.bidiframe.arabictitle = °¢À­²®ÌØ¶¨¹¦ÄÜ
+preference.bidiframe.arabictitle = é˜¿æ‹‰ä¼¯ç‰¹å®šåŠŸèƒ½
 
-report.bidi.properties.externalbidiformat.orderingscheme.metadata=ÅÅĞò·½°¸(&O)
+report.bidi.properties.externalbidiformat.orderingscheme.metadata=æ’åºæ–¹æ¡ˆ(&O)
 
-report.bidi.properties.externalbidiformat.orderingscheme.content=ÅÅĞò·½°¸(&R)
+report.bidi.properties.externalbidiformat.orderingscheme.content=æ’åºæ–¹æ¡ˆ(&R)
 
-report.bidi.properties.externalbidiformat.shaping.metadata=ÎÄ±¾ÔìĞÍ(&S)
+report.bidi.properties.externalbidiformat.shaping.metadata=æ–‡æœ¬é€ å‹(&S)
 
-report.bidi.properties.externalbidiformat.shaping.content=ÎÄ±¾ÔìĞÍ(&H)
+report.bidi.properties.externalbidiformat.shaping.content=æ–‡æœ¬é€ å‹(&H)
 
-report.bidi.properties.externalbidiformat.numshaping.metadata=Êı×ÖÔìĞÍ(&N)
+report.bidi.properties.externalbidiformat.numshaping.metadata=æ•°å­—é€ å‹(&N)
 
-report.bidi.properties.externalbidiformat.numshaping.content=Êı×ÖÔìĞÍ(&U)
+report.bidi.properties.externalbidiformat.numshaping.content=æ•°å­—é€ å‹(&U)
 
-report.bidi.properties.externalbidiformat.symswap.metadata=¶Ô³Æ½»»»(&W)
+report.bidi.properties.externalbidiformat.symswap.metadata=å¯¹ç§°äº¤æ¢(&W)
 
-report.bidi.properties.externalbidiformat.symswap.content=¶Ô³Æ½»»»(&A)
+report.bidi.properties.externalbidiformat.symswap.content=å¯¹ç§°äº¤æ¢(&A)
 
-report.bidi.properties.externalbidiformat.textdirection.metadata=ÎÄ±¾·½Ïò(&D)
+report.bidi.properties.externalbidiformat.textdirection.metadata=æ–‡æœ¬æ–¹å‘(&D)
 
-report.bidi.properties.externalbidiformat.textdirection.content=ÎÄ±¾·½Ïò(&X)
+report.bidi.properties.externalbidiformat.textdirection.content=æ–‡æœ¬æ–¹å‘(&X)
 
-report.bidi.properties.externalbidiformat.orderingscheme.tooltip = Ñ¡ÔñÅÅĞò·½°¸Öµ
+report.bidi.properties.externalbidiformat.orderingscheme.tooltip = é€‰æ‹©æ’åºæ–¹æ¡ˆå€¼
 
-report.bidi.properties.externalbidiformat.textdirection.tooltip = Ñ¡ÔñÎÄ±¾·½ÏòÖµ
+report.bidi.properties.externalbidiformat.textdirection.tooltip = é€‰æ‹©æ–‡æœ¬æ–¹å‘å€¼
 
-report.bidi.properties.externalbidiformat.symswap.tooltip = Ñ¡Ôñ¶Ô³Æ½»»»Öµ
+report.bidi.properties.externalbidiformat.symswap.tooltip = é€‰æ‹©å¯¹ç§°äº¤æ¢å€¼
 
-report.bidi.properties.externalbidiformat.symswap.true=Õæ
+report.bidi.properties.externalbidiformat.symswap.true=çœŸ
 
-report.bidi.properties.externalbidiformat.symswap.false=¼Ù
+report.bidi.properties.externalbidiformat.symswap.false=å‡
 
-report.bidi.properties.externalbidiformat.shaping.tooltip = Ñ¡ÔñÎÄ±¾ÔìĞÍÖµ
+report.bidi.properties.externalbidiformat.shaping.tooltip = é€‰æ‹©æ–‡æœ¬é€ å‹å€¼
 
-report.bidi.properties.externalbidiformat.numshaping.tooltip = Ñ¡ÔñÊı×ÖÔìĞÍ
+report.bidi.properties.externalbidiformat.numshaping.tooltip = é€‰æ‹©æ•°å­—é€ å‹
 
-report.bidi.properties.externalbidiformat.orderingscheme.visual =ÊÓ¾õ
+report.bidi.properties.externalbidiformat.orderingscheme.visual =è§†è§‰
 
-report.bidi.properties.externalbidiformat.orderingscheme.logical =Âß¼­
+report.bidi.properties.externalbidiformat.orderingscheme.logical =é€»è¾‘
 
-report.bidi.properties.externalbidiformat.textdirection.ltr=´Ó×óµ½ÓÒ
+report.bidi.properties.externalbidiformat.textdirection.ltr=ä»å·¦åˆ°å³
 
-report.bidi.properties.externalbidiformat.textdirection.rtl=´ÓÓÒµ½×ó
+report.bidi.properties.externalbidiformat.textdirection.rtl=ä»å³åˆ°å·¦
 
-report.bidi.properties.externalbidiformat.textdirection.contextltr=ÉÏÏÂÎÄ´Ó×óµ½ÓÒ
+report.bidi.properties.externalbidiformat.textdirection.contextltr=ä¸Šä¸‹æ–‡ä»å·¦åˆ°å³
 
-report.bidi.properties.externalbidiformat.textdirection.contextrtl=ÉÏÏÂÎÄ´ÓÓÒµ½×ó
+report.bidi.properties.externalbidiformat.textdirection.contextrtl=ä¸Šä¸‹æ–‡ä»å³åˆ°å·¦
 
-report.bidi.properties.externalbidiformat.shaping.shaped=³ÉĞÎ
+report.bidi.properties.externalbidiformat.shaping.shaped=æˆå½¢
 
-report.bidi.properties.externalbidiformat.shaping.nominal=ÃûÒå
+report.bidi.properties.externalbidiformat.shaping.nominal=åä¹‰
 
-report.bidi.properties.externalbidiformat.numshaping.national=¹ú¼Ò
+report.bidi.properties.externalbidiformat.numshaping.national=å›½å®¶
 
-report.bidi.properties.externalbidiformat.numshaping.nominal=ÃûÒå
+report.bidi.properties.externalbidiformat.numshaping.nominal=åä¹‰
 
-report.bidi.properties.externalbidiformat.numshaping.contextual=ÉÏÏÂÎÄ
+report.bidi.properties.externalbidiformat.numshaping.contextual=ä¸Šä¸‹æ–‡
 
-report.bidi.properties.externalbidiformat = Íâ²¿Ë«Ïò¸ñÊ½
+report.bidi.properties.externalbidiformat = å¤–éƒ¨åŒå‘æ ¼å¼
 
-report.bidi.properties.nonbididirection = ´Ó×óµ½ÓÒ
+report.bidi.properties.nonbididirection = ä»å·¦åˆ°å³
 
-advancedbididialog.title=¸ß¼¶Ë«ÏòÊı¾İÔ´ÉèÖÃ
+advancedbididialog.title=é«˜çº§åŒå‘æ•°æ®æºè®¾ç½®
 
-advancedbididialog.msg=ÉèÖÃÔªÊı¾İºÍÄÚÈİË«Ïò¸ñÊ½
+advancedbididialog.msg=è®¾ç½®å…ƒæ•°æ®å’Œå†…å®¹åŒå‘æ ¼å¼
 
-advancedbidi.button=Ë«ÏòÉèÖÃ...
+advancedbidi.button=åŒå‘è®¾ç½®...
 
-metadata.bidiframe.title=Íâ²¿ÏµÍ³µÄÔªÊı¾İË«Ïò¸ñÊ½
+metadata.bidiframe.title=å¤–éƒ¨ç³»ç»Ÿçš„å…ƒæ•°æ®åŒå‘æ ¼å¼
 
-content.bidiframe.title=Íâ²¿ÏµÍ³µÄÄÚÈİË«Ïò¸ñÊ½
+content.bidiframe.title=å¤–éƒ¨ç³»ç»Ÿçš„å†…å®¹åŒå‘æ ¼å¼
 
-disablebidi.checkbox.label=½ûÓÃË«Ïò×ª»»(&B)
+disablebidi.checkbox.label=ç¦ç”¨åŒå‘è½¬æ¢(&B)
 

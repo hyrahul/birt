@@ -17,13 +17,13 @@ BIRTProjectCreationWizard_title=Neues BIRT-Diagramm-Webprojekt
 ###############################################################################
 # Overwrite Query Dialog
 ###############################################################################
-BIRTOverwriteQuery_title=Dialogfeld "Überschreiben"
+BIRTOverwriteQuery_title=Dialogfeld "Ãœberschreiben"
 
-BIRTOverwriteQuery_message={0} überschreiben?
+BIRTOverwriteQuery_message={0} Ã¼berschreiben?
 
-BIRTOverwriteQuery_webartifact_title=Dialogfeld "Bereitstellungs-Deskriptor überschreiben"
+BIRTOverwriteQuery_webartifact_title=Dialogfeld "Bereitstellungs-Deskriptor Ã¼berschreiben"
 
-BIRTOverwriteQuery_webartifact_message={0} ist in der Datei "web.xml" bereits vorhanden. Überschreiben?
+BIRTOverwriteQuery_webartifact_message={0} ist in der Datei "web.xml" bereits vorhanden. Ãœberschreiben?
 
 ###############################################################################
 # Error Message

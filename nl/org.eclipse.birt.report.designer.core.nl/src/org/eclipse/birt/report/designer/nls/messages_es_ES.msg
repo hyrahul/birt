@@ -56,17 +56,17 @@ AddLibraryAction.Error.Message=El archivo ya existe.
 
 AddLibraryAction.Error.Title=Error
 
-AddLibraryAction.Text=AÒadir librerÌa...
+AddLibraryAction.Text=A√±adir librer√≠a...
 
-AddLibraryAction.Dialog.Tilte=Seleccione una librerÌa
+AddLibraryAction.Dialog.Tilte=Seleccione una librer√≠a
 
 ###########################################################
 #AddCSSAction properties
-AddCSSAction.Text=AÒadir archivo CSS...
+AddCSSAction.Text=A√±adir archivo CSS...
 
 ###########################################################
 #AddResourceAction properties
-AddResourceAction.Text=AÒadir &recurso...
+AddResourceAction.Text=A√±adir &recurso...
 
 AddResourceAction.Dialog.Tilte=Seleccionar un recurso
 
@@ -80,9 +80,9 @@ AddResourceAction.Error.FileIsNotResource=El archivo ''{0}'' no es un recurso.
 
 ###########################################################
 #AddCSSDialog
-AddCSSWizardDialog.ShellText=AÒadir archivo CSS
+AddCSSWizardDialog.ShellText=A√±adir archivo CSS
 
-AddCSSWizardDialog.TitleArea=AÒadir archivo CSS a la carpeta de recursos
+AddCSSWizardDialog.TitleArea=A√±adir archivo CSS a la carpeta de recursos
 
 AddCSSWizardDialog.Message=Seleccione un archivo CSS para importar estilos a una carpeta de recursos
 
@@ -94,23 +94,23 @@ MoveResourceDialog.Message=Seleccionar una carpeta
 
 ###########################################################
 #NewLibraryDialog
-NewLibraryDialog.Title=Nueva librerÌa
+NewLibraryDialog.Title=Nueva librer√≠a
 
 NewLibraryDialog.Message=Seleccionar una carpeta
 
-NewLibraryDialog.label.NewLibrary=Nuevo nombre de librerÌa
+NewLibraryDialog.label.NewLibrary=Nuevo nombre de librer√≠a
 
 ###########################################################
 #PublishCSSAction properties
 PublishCSSAction.wizard.errorTitle=Error
 
-PublishCSSAction.wizard.message=No es posible publicar el archivo CCS en el directorio donde se encuentra, seleccione otro directorio para la publicaciÛn.
+PublishCSSAction.wizard.message=No es posible publicar el archivo CCS en el directorio donde se encuentra, seleccione otro directorio para la publicaci√≥n.
 
 PublishCSSAction.wizard.msgDirErr=El directorio de destino no existe y no se puede crear.
 
 PublishCSSAction.wizard.message.SourceFileNotExist=El archivo fuente no existe.
 
-PublishCSSAction.wizard.notvalidfolder=La carpeta del archivo CSS definida como preferencia no es v·lida.
+PublishCSSAction.wizard.notvalidfolder=La carpeta del archivo CSS definida como preferencia no es v√°lida.
 
 
 ###########################################################
@@ -127,7 +127,7 @@ RenameLibraryAction.Text=Ca&mbiar nombre
 
 NewFolderAction.Text=&Carpeta
 
-NewLibraryAction.Text=&LibrerÌa
+NewLibraryAction.Text=&Librer√≠a
 
 NewResource.MenuGroup.Text=&Nuevo
 
@@ -139,7 +139,7 @@ RenameResourceAction.inputDialogMessage=Nuevo nombre:
 
 NewFolderAction.nameExists=Ya existe una carpeta con este nombre
 
-NewFolderAction.emptyName=El nombre no puede estar vacÌo
+NewFolderAction.emptyName=El nombre no puede estar vac√≠o
 
 NewFolderAction.inputDialogTitle=Nueva carpeta
 
@@ -147,13 +147,13 @@ NewFolderAction.inputDialogMessage=Nombre de carpeta:
 
 DeleteResourceAction.Dialog.Title=Eliminar recurso
 
-DeleteResourceAction.Dialog.Message=øSeguro que desea eliminar los recursos seleccionados?
+DeleteResourceAction.Dialog.Message=¬øSeguro que desea eliminar los recursos seleccionados?
 
 PasteResourceAction.Dialog.Title=Pegar recurso
 
-PasteResourceAction.ReadOnlyEncounter.Title=Se ha encontrado un archivo de sÛlo lectura
+PasteResourceAction.ReadOnlyEncounter.Title=Se ha encontrado un archivo de s√≥lo lectura
 
-PasteResourceAction.ReadOnlyEncounter.Message=El archivo ''{0}'' es de sÛlo lectura, aseg˙rese primero de que se puede escribir en Èl.
+PasteResourceAction.ReadOnlyEncounter.Message=El archivo ''{0}'' es de s√≥lo lectura, aseg√∫rese primero de que se puede escribir en √©l.
 
 PasteResourceAction.Dialog.Message=El recurso existe. Especificar un &nuevo nombre:
 
@@ -161,19 +161,19 @@ PasteResourceAction.Dialog.FilenameSuffix.CopyOf=Copia de
 
 MoveResourceAction.Dialog.Title=Mover recurso
 
-MoveResourceAction.Dialog.Message=El recurso ya existe. øDesea sustituirlo?
+MoveResourceAction.Dialog.Message=El recurso ya existe. ¬øDesea sustituirlo?
 
 ResourceAction.ConvertToFile.URLIsNull=La URL es nula, no se puede convertir a un archivo.
 
 ResourceAction.FileRemoveFailure=Error al eliminar archivos.
 
-LibraryNotExist.Dialog.Title=Abrir librerÌa
+LibraryNotExist.Dialog.Title=Abrir librer√≠a
 
-LibraryNotExist.Dialog.Message=La librerÌa no existe, ødesea actualizar el explorador de recursos?
+LibraryNotExist.Dialog.Message=La librer√≠a no existe, ¬ødesea actualizar el explorador de recursos?
 
-DesignerNotExist.Dialog.Title=Abrir diseÒo de informe
+DesignerNotExist.Dialog.Title=Abrir dise√±o de informe
 
-DesignerNotExist.Dialog.Message=El diseÒo de informe no existe, ødesea actualizar el explorador de recursos?
+DesignerNotExist.Dialog.Message=El dise√±o de informe no existe, ¬ødesea actualizar el explorador de recursos?
 ###########################################################
 #LibraryFileFilterAction properties
 LibraryFileFilterAction.Text=Filtrar...
@@ -206,19 +206,19 @@ AttributesBuilder.Label.Data=Editor de propiedades - Datos
 
 AttributesBuilder.Label.Generic=Editor de propiedades - {0}
 
-AttributesBuilder.Label.Grid=Editor de propiedades - CuadrÌcula
+AttributesBuilder.Label.Grid=Editor de propiedades - Cuadr√≠cula
 
 AttributesBuilder.Label.Label=Editor de propiedades - Etiqueta
 
-AttributesBuilder.Label.Library=Editor de propiedades - LibrerÌa
+AttributesBuilder.Label.Library=Editor de propiedades - Librer√≠a
 
 AttributesBuilder.Label.List=Editor de propiedades - Lista
 
 AttributesBuilder.Label.Cube=Editor de propiedades - Cubo
 
-AttributesBuilder.Label.DynamicFilterParameter=Editor de propiedades - Par·metro de filtro din·mico
+AttributesBuilder.Label.DynamicFilterParameter=Editor de propiedades - Par√°metro de filtro din√°mico
 
-AttributesBuilder.Label.MasterPage=Editor de propiedades - P·gina maestra
+AttributesBuilder.Label.MasterPage=Editor de propiedades - P√°gina maestra
 
 AttributesBuilder.Label.None=Editor de propiedades - Ninguno
 
@@ -232,7 +232,7 @@ AttributesBuilder.Label.Table=Editor de propiedades - Tabla
 
 AttributesBuilder.Label.Text=Editor de propiedades - Texto
 
-AttributesBuilder.Label.TextData=Editor de propiedades - Texto din·mico
+AttributesBuilder.Label.TextData=Editor de propiedades - Texto din√°mico
 
 AttributesBuilder.Label.DataSourceHandle=Editor de propiedades - Fuente de datos
 
@@ -240,39 +240,39 @@ AttributesBuilder.Label.VariableElementHandle=Editor de propiedades - Variable
 
 AttributesBuilder.Label.DataSetHandle=Editor de propiedades - Conjunto de datos
 
-AttributesBuilder.Label.ScalarParameterHandle=Editor de propiedades - Par·metro
+AttributesBuilder.Label.ScalarParameterHandle=Editor de propiedades - Par√°metro
 
 AttributesBuilder.Label.TemplateReportItemHandle=Editor de propiedades - Elemento de informe de plantilla
 
 AttributesBuilder.Label.AutoText=Editor de propiedades - AutoText
 
-AttributesBuilder.Label.ParameterGroup=Editor de propiedades - Grupo de par·metros
+AttributesBuilder.Label.ParameterGroup=Editor de propiedades - Grupo de par√°metros
 
-AttributesBuilder.Label.CascadingParameterGroup=Editor de propiedades - Grupo de par·metros en cascada
+AttributesBuilder.Label.CascadingParameterGroup=Editor de propiedades - Grupo de par√°metros en cascada
 
 ###########################################################
 #AttributeView properties
 AttributeView.dialg.Message.Warning=Advertencia
 
-AttributeView.dialg.Message.Yes=S&Ì
+AttributeView.dialg.Message.Yes=S&√≠
 
 AttributeView.dialg.Message.No=N&o
 
 AttributeView.dialg.Message.Cancel=C&ancelar
 
-AttributeView.dialg.Message.PromptMsg=øDesea borrar todas las propiedades locales?
+AttributeView.dialg.Message.PromptMsg=¬øDesea borrar todas las propiedades locales?
 
 AttributeView.toolbar.tooltip.EditingToggleAction.ClearMsg=Borrar propiedades locales.
 
-AttributeView.toolbar.tooltip.EditingToggleAction.EnableEditingMsg=Activar la ediciÛn de las propiedades.
+AttributeView.toolbar.tooltip.EditingToggleAction.EnableEditingMsg=Activar la edici√≥n de las propiedades.
 
-AttributeView.toolbar.tooltip.EditingToggleAction.DisabledActionMsg=Esta acciÛn no se encuentra disponible para elementos locales.
+AttributeView.toolbar.tooltip.EditingToggleAction.DisabledActionMsg=Esta acci√≥n no se encuentra disponible para elementos locales.
 
-AttributeView.view.message.Emptypage= Este valor {0} se extiende desde el valor {1} en la librerÌa {2}. Para modificar las propiedades del valor {3} en este diseÒo de informe, haga clic en el botÛn Activar de la barra de herramientas Editor de propiedades.
+AttributeView.view.message.Emptypage= Este valor {0} se extiende desde el valor {1} en la librer√≠a {2}. Para modificar las propiedades del valor {3} en este dise√±o de informe, haga clic en el bot√≥n Activar de la barra de herramientas Editor de propiedades.
 
-AttributeView.toolbar.tooltip.RestoreLibraryPropertiesAction.RestoreMsg=Restaurar propiedades del elemento de la librerÌa original
+AttributeView.toolbar.tooltip.RestoreLibraryPropertiesAction.RestoreMsg=Restaurar propiedades del elemento de la librer√≠a original
 
-AttributeView.defaultText.noAttributeView = El editor de propiedades no est· disponible.
+AttributeView.defaultText.noAttributeView = El editor de propiedades no est√° disponible.
 ###########################################################
 #BackGroundPreferencePage properties
 BackGroundPreferencePage.displayname.Title=Fondo
@@ -299,23 +299,23 @@ BasePaletteFactory.AutoTextLabel.CreatedOn=Creado el:
 
 BasePaletteFactory.AutoTextLabel.Filename=Nombre de archivo:
 
-BasePaletteFactory.AutoTextLabel.LastPrinted=⁄ltima impresiÛn:
+BasePaletteFactory.AutoTextLabel.LastPrinted=√öltima impresi√≥n:
 
-BasePaletteFactory.AutoTextLabel.Page=P·gina:
+BasePaletteFactory.AutoTextLabel.Page=P√°gina:
 
-BasePaletteFactory.AutoTextLabel.PageCount=Recuento de p·ginas:
+BasePaletteFactory.AutoTextLabel.PageCount=Recuento de p√°ginas:
 
-BasePaletteFactory.AutoTextLabel.PageXofY=P·gina X de Y
+BasePaletteFactory.AutoTextLabel.PageXofY=P√°gina X de Y
 
-BasePaletteFactory.categoryName.PointerSelect=SelecciÛn de puntero
+BasePaletteFactory.categoryName.PointerSelect=Selecci√≥n de puntero
 
-BasePaletteFactory.categoryName.RectangleSelect=SelecciÛn de rect·ngulo
+BasePaletteFactory.categoryName.RectangleSelect=Selecci√≥n de rect√°ngulo
 
 BasePaletteFactory.Group.Items=Elementos
 
 BasePaletteFactory.toolTip.PointerSelect=Haga clic en un elemento para seleccionar o presione CTRL y haga clic en los elementos que desee seleccionar.
 
-BasePaletteFactory.toolTip.RectangleSelect=Haga clic y arrastre para describir un rect·ngulo y seleccionar todos los elementos contenidos en el ·rea.
+BasePaletteFactory.toolTip.RectangleSelect=Haga clic y arrastre para describir un rect√°ngulo y seleccionar todos los elementos contenidos en el √°rea.
 
 ###########################################################
 #BaseStylePreferencePage properties
@@ -345,15 +345,15 @@ BindingPage.None=Ninguno
 
 BindingPage.TableColumn.DataType=Tipo de datos
 
-BindingPage.TableColumn.Parameter=Par·metro
+BindingPage.TableColumn.Parameter=Par√°metro
 
 BindingPage.TableColumn.Value=Valor
 
-ColumnBingingDialog.Label.Warn=Cambiar el conjunto de datos o la referencia del elemento de informe podrÌa invalidar todas las expresiones de la columna de conjunto de resultados.
+ColumnBingingDialog.Label.Warn=Cambiar el conjunto de datos o la referencia del elemento de informe podr√≠a invalidar todas las expresiones de la columna de conjunto de resultados.
 
 ColumnBindingDialog.Label.DataSet=Conjunto de datos:
 
-ColumnBindingDialog.Column.Expression=ExpresiÛn
+ColumnBindingDialog.Column.Expression=Expresi√≥n
 
 ColumnBindingDialog.DialogTitle=Seleccionar enlace de datos
 
@@ -361,13 +361,13 @@ ColumnBindingDialog.Column.Name=Nombre
 
 ColumnBindingDialog.Column.Filter=Filtro
 
-ColumnBindingDialog.Column.Function=FunciÛn
+ColumnBindingDialog.Column.Function=Funci√≥n
 
 ColumnBindingDialog.Column.DisplayName=Nombre en pantalla
 
 ColumnBindingDialog.Column.DisplayNameID=ID de nombre en pantalla
 
-ColumnBindingDialog.InputPrompt=<Introduzca el nuevo valor aquÌ...>
+ColumnBindingDialog.InputPrompt=<Introduzca el nuevo valor aqu√≠...>
 
 ColumnBindingDialog.Button.Generate=Generar enlaces de columna
 
@@ -384,7 +384,7 @@ ColumnBindingDialog.Choice.DatasetFromContainer=Conjunto de datos del contenedor
 ColumnBindingDialog.Choice.ReportItemFromContainer=Elemento de informe al que se hace referencia del contenedor
 
 ColumnBindingDialog.AGGREGATEON.NONE=N/A
-ColumnBindingDialog.Text.Add=&AÒadir...
+ColumnBindingDialog.Text.Add=&A√±adir...
 
 ColumnBindingDialog.Text.Edit=&Editar...
 
@@ -392,7 +392,7 @@ ColumnBindingDialog.Text.Del=Quita&r
 
 ColumnBindingDialog.Text.Refresh=Ac&tualizar
 
-ColumnBindingDialog.Text.AddAggr=AÒadir a&gregaciÛn...
+ColumnBindingDialog.Text.AddAggr=A√±adir a&gregaci√≥n...
 
 ###########################################################
 #BlockPreferencePage properties
@@ -400,7 +400,7 @@ BlockPreferencePage.displayname.Title=Bloque de texto
 
 ###########################################################
 #BlockPreferencePage properties
-SizePreferencePage.displayname.Title=TamaÒo
+SizePreferencePage.displayname.Title=Tama√±o
 
 ###########################################################
 #BorderCanvas properties
@@ -472,7 +472,7 @@ CommentsPreferencePage.displayname.Title=Comentarios
 
 ###########################################################
 #ButtonPaneComposite properties
-ButtonPaneComposite.tooltip.MasterPage=P·gina maestra
+ButtonPaneComposite.tooltip.MasterPage=P√°gina maestra
 
 ButtonPaneComposite.tooltip.Normal=Normal
 
@@ -480,25 +480,25 @@ ButtonPaneComposite.tooltip.Ruler=Regla
 
 ###########################################################
 #SettingsPage properties
-SettingsPage.dataFetchSetting.label=N˙mero &m·ximo de filas que recuperar de la fuente de datos:
+SettingsPage.dataFetchSetting.label=N√∫mero &m√°ximo de filas que recuperar de la fuente de datos:
 
-SettingsPage.CachePreference.button.clear=&Borrar cachÈ
+SettingsPage.CachePreference.button.clear=&Borrar cach√©
 
-SettingsPage.CachePreference.checkBox.text=Los datos de la cac&hÈ establecen los datos para la vista previa del informe
+SettingsPage.CachePreference.checkBox.text=Los datos de la cac&h√© establecen los datos para la vista previa del informe
 
-SettingsPage.CachePreference.description=Definir tamaÒo de cachÈ:
+SettingsPage.CachePreference.description=Definir tama√±o de cach√©:
 
-SettingsPage.CachePreference.Filter.Tooltip=Utilizar cachÈ en o fuera del conjunto de datos
+SettingsPage.CachePreference.Filter.Tooltip=Utilizar cach√© en o fuera del conjunto de datos
 
 SettingsPage.CachePreference.label.text=filas
 
-SettingsPage.CachePreference.messageBox.info=Se ha borrado la cachÈ
+SettingsPage.CachePreference.messageBox.info=Se ha borrado la cach√©
 
-SettingsPage.CachePreference.messageBox.title=CachÈ borrada
+SettingsPage.CachePreference.messageBox.title=Cach√© borrada
 
-SettingsPage.CachePreference.radioBox.entireNumText=Guardar en cachÈ &todo el conjunto de datos
+SettingsPage.CachePreference.radioBox.entireNumText=Guardar en cach√© &todo el conjunto de datos
 
-SettingsPage.CachePreference.radioBox.numText=Guardar en cachÈ y &usar primero
+SettingsPage.CachePreference.radioBox.numText=Guardar en cach√© y &usar primero
 
 ###########################################################
 #CascadingParametersDialog properties
@@ -514,7 +514,7 @@ CascadingParametersDialog.Label.button.changeFormat=Camb&iar...
 
 CascadingParametersDialog.Label.button.createNew.dataset=Crear nue&vo...
 
-CascadingParametersDialog.Label.cascadingParam.name=Nombre de grupo de pa&r·metros en cascada:
+CascadingParametersDialog.Label.cascadingParam.name=Nombre de grupo de pa&r√°metros en cascada:
 
 CascadingParametersDialog.Label.column.displayText=Mostrar texto
 
@@ -524,7 +524,7 @@ CascadingParametersDialog.Label.column.name=Nombre
 
 CascadingParametersDialog.Label.column.value=Valor
 
-CascadingParametersDialog.Label.createNewParam=<Crear nuevo par·metro...>
+CascadingParametersDialog.Label.createNewParam=<Crear nuevo par√°metro...>
 
 CascadingParametersDialog.Label.dataSets=Conjunto de d&atos:
 
@@ -538,19 +538,19 @@ CascadingParametersDialog.Label.formatAs=Formato como:
 
 CascadingParametersDialog.Label.group.general=General
 
-CascadingParametersDialog.Label.group.moreOptions=M·s opciones
+CascadingParametersDialog.Label.group.moreOptions=M√°s opciones
 
 CascadingParametersDialog.Label.group.properties=Propiedades
 
 CascadingParametersDialog.Label.helpText=Texto de ayu&da:
 
-CascadingParametersDialog.Label.listLimit=&LÌmite de lista:
+CascadingParametersDialog.Label.listLimit=&L√≠mite de lista:
 
 CascadingParametersDialog.Label.NoColumnAvailable=<No hay columnas disponibles>
 
 CascadingParametersDialog.Label.param.name=&Nombre:
 
-CascadingParametersDialog.Label.parameters=Par·metros
+CascadingParametersDialog.Label.parameters=Par√°metros
 
 CascadingParametersDialog.Label.preview=Vista previa con formato
 
@@ -566,9 +566,9 @@ CascadingParametersDialog.Label.selectValueColumn=<Columna de valores no definid
 
 CascadingParametersDialog.Label.values=valores
 
-CascadingParametersDialog.Radio.Single=Conjunto de datos ˙ni&co
+CascadingParametersDialog.Radio.Single=Conjunto de datos √∫ni&co
 
-CascadingParametersDialog.Radio.Mutli=Conjunto de datos m&˙ltiple
+CascadingParametersDialog.Radio.Mutli=Conjunto de datos m&√∫ltiple
 
 CascadingParametersDialog.Choice.NullValue=Valor nulo
 
@@ -576,21 +576,21 @@ CascadingParametersDialog.Choice.BlankValue=Valor en blanco
 
 CascadingParametersDialog.Choice.SelectValue=<Seleccionar valor...>
 
-CascadingParametersDialog.Button.Add=&AÒadir
+CascadingParametersDialog.Button.Add=&A√±adir
 
 CascadingParametersDialog.Button.Edit=Ed&itar
 
 CascadingParametersDialog.Button.Delete=Elimi&nar
 
-CascadingParametersDialog.Button.IsMultiple=Permi&tir valores m˙ltiples
+CascadingParametersDialog.Button.IsMultiple=Permi&tir valores m√∫ltiples
 
-CascadingParametersDialog.DefalutValue.Add=AÒad&ir
+CascadingParametersDialog.DefalutValue.Add=A√±ad&ir
 
-CascadingParametersDialog.ExpressionEditor.Title=Editar expresiÛn
+CascadingParametersDialog.ExpressionEditor.Title=Editar expresi√≥n
 
-CascadingParametersDialog.Title.AddCascadingParameter=AÒadir grupo de par·metros en cascada
+CascadingParametersDialog.Title.AddCascadingParameter=A√±adir grupo de par√°metros en cascada
 
-CascadingParametersDialog.Title.EditCascadingParameter=Editar grupo de par·metros en cascada
+CascadingParametersDialog.Title.EditCascadingParameter=Editar grupo de par√°metros en cascada
 
 CascadingParametersDialog.items.None=<Ninguno>
 
@@ -607,7 +607,7 @@ CellPageGenerator.List.General=General
 
 ###########################################################
 #ChoiceSetFactory properties
-ChoiceSetFactory.choice.Auto=Autom·tico
+ChoiceSetFactory.choice.Auto=Autom√°tico
 
 ChoiceSetFactory.choice.None=Ninguno
 
@@ -617,7 +617,7 @@ CodePageAction.actionText.code=Script
 
 ###########################################################
 #ColorBuilder properties
-ColorBuilder.text.Auto=Autom·tico
+ColorBuilder.text.Auto=Autom√°tico
 
 ColorBuilder.Button.ChooseColor=Abrir panel de color
 
@@ -642,7 +642,7 @@ Commom.ShortDateTime.Fri=VIE
 
 Commom.ShortDateTime.Mon=LUN
 
-Commom.ShortDateTime.Sat=S¡B
+Commom.ShortDateTime.Sat=S√ÅB
 
 Commom.ShortDateTime.Sun=DOM
 
@@ -650,7 +650,7 @@ Commom.ShortDateTime.Thu=JUE
 
 Commom.ShortDateTime.Tue=MAR
 
-Commom.ShortDateTime.Wed=MI…
+Commom.ShortDateTime.Wed=MI√â
 
 ###########################################################
 #CopyAction properties
@@ -670,33 +670,33 @@ CutAction.trans=Cortar elementos
 #dataBinding properties
 dataBinding.label.selectBinding=Seleccionar enlace de datos:
 
-dataBinding.message.changeDataSet=Va a cambiar el enlace de datos del elemento. \n\nøDesea borrar toda la informaciÛn del campo de datos existente?
+dataBinding.message.changeDataSet=Va a cambiar el enlace de datos del elemento. \n\n¬øDesea borrar toda la informaci√≥n del campo de datos existente?
 
-dataBinding.message.changeReference=Est· a punto de cambiar el enlace de datos del elemento.  \n\nøDesea realizar la operaciÛn?
+dataBinding.message.changeReference=Est√° a punto de cambiar el enlace de datos del elemento.  \n\n¬øDesea realizar la operaci√≥n?
 
-dataBinding.title.changeDataSet=øDesea cambiar el conjunto de datos?
+dataBinding.title.changeDataSet=¬øDesea cambiar el conjunto de datos?
 
 dataBinding.title=Enlace de datos
 
-dataBinding.message.haveNoName=El elemento que ha seleccionado no tiene nombre.  \n\nRetroceda y otorgue un nombre al elemento para que Èste se pueda seleccionar.
+dataBinding.message.haveNoName=El elemento que ha seleccionado no tiene nombre.  \n\nRetroceda y otorgue un nombre al elemento para que √©ste se pueda seleccionar.
 
-dataBinding.title.haveNoName=øNo tiene nombre?
+dataBinding.title.haveNoName=¬øNo tiene nombre?
 
 dataBinding.button.OK=&Aceptar
 
-parameterBinding.title=&Enlace de par·metros del conjunto de datos...
+parameterBinding.title=&Enlace de par√°metros del conjunto de datos...
 
-ParameterBindingDialog.title=Enlace de par·metros del conjunto de datos
+ParameterBindingDialog.title=Enlace de par√°metros del conjunto de datos
 
-dataBinding.title.generateOutputParam=øGenerar enlaces?
+dataBinding.title.generateOutputParam=¬øGenerar enlaces?
 
-dataBinding.msg.generateOutputParam=El conjunto de datos tiene uno o m·s par·metros de salida.\n\n øDesea generar enlaces para ellos?
+dataBinding.msg.generateOutputParam=El conjunto de datos tiene uno o m√°s par√°metros de salida.\n\n ¬øDesea generar enlaces para ellos?
 
 ###########################################################
 #DataEditPart properties
 DataEditPart.Figure.Dafault=Datos
 
-DataEditPart.Figure.Expression=expresiÛn
+DataEditPart.Figure.Expression=expresi√≥n
 
 DataEditPart.stackMsg.edit=Editar enlace de datos
 
@@ -704,7 +704,7 @@ DataEditPart.text.AggregateOn=Agregar en
 
 ###########################################################
 #DataEditPart properties
-DestroyEditPart.Message=El contenido de este elemento de informe est· daÒado. Si desea continuar trabajando en este informe, elimine primero este elemento. De lo contrario, pueden producirse m·s daÒos en el archivo de diseÒo de informe o el diseÒador de informes puede no responder.
+DestroyEditPart.Message=El contenido de este elemento de informe est√° da√±ado. Si desea continuar trabajando en este informe, elimine primero este elemento. De lo contrario, pueden producirse m√°s da√±os en el archivo de dise√±o de informe o el dise√±ador de informes puede no responder.
 
 ###########################################################
 #DataPageGenerator properties
@@ -714,13 +714,13 @@ DataPageGenerator.List.Borders=Borde
 
 DataPageGenerator.List.Duplicates=Duplicados
 
-DataPageGenerator.List.Expression=ExpresiÛn
+DataPageGenerator.List.Expression=Expresi√≥n
 
 DataPageGenerator.List.Format=Formato
 
 DataPageGenerator.List.formatDateTime=Formato de fecha/hora
 
-DataPageGenerator.List.formatNumber=Formato de n˙mero
+DataPageGenerator.List.formatNumber=Formato de n√∫mero
 
 DataPageGenerator.List.formatString=Formato de string
 
@@ -734,7 +734,7 @@ DataPageGenerator.List.Margin=Margen
 
 DataPageGenerator.List.Padding=Relleno
 
-DataPageGenerator.List.Section=Salto de p·gina
+DataPageGenerator.List.Section=Salto de p√°gina
 
 DataPageGenerator.List.TOC=Tabla de contenido
 
@@ -746,25 +746,25 @@ dataset.edit=Editar conjunto de datos - {0}
 
 dataset.editor.settings=Ajustes
 
-dataset.editor.settings.dataFetchSetting.errorNumberFormat=Introduzca un n˙mero entero mayor que cero para el lÌmite de recuperaciÛn de lÌnea.
+dataset.editor.settings.dataFetchSetting.errorNumberFormat=Introduzca un n√∫mero entero mayor que cero para el l√≠mite de recuperaci√≥n de l√≠nea.
 
-dataset.editor.settings.dataFetchSetting.errorNumberFormatForResultSet=Introduzca un n˙mero entero positivo como N˙mero de conjunto del resultado
+dataset.editor.settings.dataFetchSetting.errorNumberFormatForResultSet=Introduzca un n√∫mero entero positivo como N√∫mero de conjunto del resultado
 
-dataset.editor.settings.dataFetchSetting=Ajustes de recuperaciÛn de datos
+dataset.editor.settings.dataFetchSetting=Ajustes de recuperaci√≥n de datos
 
-dataset.editor.settings.resultsetselection.resultSetSelection=SelecciÛn de conjunto de resultados
+dataset.editor.settings.resultsetselection.resultSetSelection=Selecci√≥n de conjunto de resultados
 
-dataset.editor.settings.resultsetselection.enableResultSetSelection=&Activar selecciÛn de conjunto de resultados
+dataset.editor.settings.resultsetselection.enableResultSetSelection=&Activar selecci√≥n de conjunto de resultados
 
 dataset.editor.settings.resultsetselection.selectResultSetByName=Seleccionar conjunto de &resultados por nombre:
 
-dataset.editor.settings.resultsetselection.selectResultSetByNumber=&Seleccionar conjunto de resultados por n˙mero:
+dataset.editor.settings.resultsetselection.selectResultSetByNumber=&Seleccionar conjunto de resultados por n√∫mero:
 
 dataset.editor.settings.dataFetchSetting.fetchAll=Recuperar &todas las filas de la fuente de datos.
 
-dataset.editor.settings.cachePreference.errorNumberFormat=Introduzca un n˙mero mayor que cero para el tamaÒo de la fila de cachÈ.
+dataset.editor.settings.cachePreference.errorNumberFormat=Introduzca un n√∫mero mayor que cero para el tama√±o de la fila de cach√©.
 
-dataset.editor.settings.cachePreference=Preferencia de cachÈ
+dataset.editor.settings.cachePreference=Preferencia de cach√©
 
 dataset.editor.computedColumns=Columnas procesadas
 
@@ -772,17 +772,17 @@ dataset.editor.dataSource.Tooltip=Ver o cambiar fuente de datos.
 
 dataset.editor.dataSource=Fuente de datos
 
-dataset.editor.error.columnOrAliasNameAlreadyUsed=El nuevo nombre o alias de columna ({0}) ya se est· utilizando en la columna del Ìndice {1}.
+dataset.editor.error.columnOrAliasNameAlreadyUsed=El nuevo nombre o alias de columna ({0}) ya se est√° utilizando en la columna del √≠ndice {1}.
 
-dataset.editor.error.computedColumnNameAlreadyUsed=El nuevo nombre de columna procesada ({0}) ya se est· utilizando como alias de la columna ({1}) en Columnas de salida.
+dataset.editor.error.computedColumnNameAlreadyUsed=El nuevo nombre de columna procesada ({0}) ya se est√° utilizando como alias de la columna ({1}) en Columnas de salida.
 
-dataset.editor.error.duplicateParameterName=Nombre del par·metro duplicado.
+dataset.editor.error.duplicateParameterName=Nombre del par√°metro duplicado.
 
 dataset.editor.error.nonemptyDefaultvalue=El valor predeterminado no puede estar en blanco.
 
 dataset.editor.error.emptyName=El nombre no puede estar en blanco.
 
-dataset.editor.error.missingComputedColumnExpression=La expresiÛn de la columna procesada {0} no puede ser nula ni estar en blanco.
+dataset.editor.error.missingComputedColumnExpression=La expresi√≥n de la columna procesada {0} no puede ser nula ni estar en blanco.
 
 dataset.editor.error.missingComputedColumnName=El nombre de columna procesada no puede ser nulo ni estar en blanco.
 
@@ -792,13 +792,13 @@ dataset.editor.error.nonmatchedDataSource=Fuente de datos sin coincidencia para 
 
 dataset.editor.error.noEditorsFound=No se han encontrado editores para el conjunto de datos {0}.
 
-dataset.editor.error.noInputParameterDefaultValue=El par·metro de entrada {0} debe tener un valor predeterminado que no estÈ vacÌo.
+dataset.editor.error.noInputParameterDefaultValue=El par√°metro de entrada {0} debe tener un valor predeterminado que no est√© vac√≠o.
 
 dataset.editor.error.title=Advertencia
 
 dataset.editor.error.unsupportedDataSet=Tipo de conjunto de datos no admitido - {0}.
 
-dataset.editor.error.validationParameter=El par·metro de entrada [{0}] tiene un valor vacÌo. øDesea dejarlo vacÌo?
+dataset.editor.error.validationParameter=El par√°metro de entrada [{0}] tiene un valor vac√≠o. ¬øDesea dejarlo vac√≠o?
 
 dataset.editor.filters=Filtros
 
@@ -806,11 +806,11 @@ dataset.editor.label.selectDataSource=Seleccionar &fuente de datos:
 
 dataset.editor.outputColumns=Columnas de salida
 
-dataset.editor.parameters=Par·metros
+dataset.editor.parameters=Par√°metros
 
 dataset.editor.preview=Resultados de vista previa
 
-dataset.editor.outputparameters=Vista previa de par·metros de salida
+dataset.editor.outputparameters=Vista previa de par√°metros de salida
 
 dataset.editor.title.alias=Alias
 
@@ -820,17 +820,17 @@ dataset.editor.title.dataType=Tipo de datos
 
 dataset.editor.title.defaultValue=Valor predeterminado
 
-dataset.editor.title.direction=DirecciÛn
+dataset.editor.title.direction=Direcci√≥n
 
-DataSetParameterPage.editor.title.linkToSalarParameter=Vinculado al par·metro del informe
+DataSetParameterPage.editor.title.linkToSalarParameter=Vinculado al par√°metro del informe
 
 dataset.editor.title.displayName=Nombre en pantalla
 
 dataset.editor.title.displayNameKey=Clave de nombre en pantalla
 
-dataset.editor.title.expression=ExpresiÛn
+dataset.editor.title.expression=Expresi√≥n
 
-dataset.editor.title.aggrFunc=AgregaciÛn
+dataset.editor.title.aggrFunc=Agregaci√≥n
 
 dataset.editor.title.aggrArgu=Arg&umento
 
@@ -874,11 +874,11 @@ dataset.editor.inputDialog.columnName=&Nombre de columna
 
 dataset.editor.inputDialog.dataType=&Tipo de datos
 
-dataset.editor.inputDialog.expression=&ExpresiÛn
+dataset.editor.inputDialog.expression=&Expresi√≥n
 
 dataset.editor.inputDialog.aggrArgu=Arg&umento
 
-dataset.editor.inputDialog.aggrFunc=A&gregaciÛn
+dataset.editor.inputDialog.aggrFunc=A&gregaci√≥n
 
 dataset.editor.inputDialog.filter=&Filtro
 
@@ -890,7 +890,7 @@ dataset.editor.inputDialog.operator=&Operador
 
 dataset.editor.inputDialog.defaultValue=Va&lor predeterminado
 
-dataset.editor.inputDialog.direction=Di&recciÛn
+dataset.editor.inputDialog.direction=Di&recci√≥n
 
 dataset.editor.historybar.backward=Anterior
 
@@ -898,7 +898,7 @@ dataset.editor.historybar.forward=Siguiente
 
 dataset.editor.historybar.to=a
 
-dataset.error.noDataSources=No hay ninguna fuente de datos disponible. øDesea agregar una fuente de datos ahora?
+dataset.error.noDataSources=No hay ninguna fuente de datos disponible. ¬øDesea agregar una fuente de datos ahora?
 
 dataset.error.dataSourceMissing=Falta la fuente de datos de este conjunto de datos.
 
@@ -912,17 +912,17 @@ dataset.new=Nuevo conjunto de datos
 
 dataset.action.new=Nuevo conjunto de d&atos
 
-dataset.join.new=Nuevo conjunto de datos de combinaciÛn
+dataset.join.new=Nuevo conjunto de datos de combinaci√≥n
 
-dataset.action.join.new=Nuevo &conjunto de datos de combinaciÛn
+dataset.action.join.new=Nuevo &conjunto de datos de combinaci√≥n
 
 dataset.resultset.preview.tooltip=Vista previa de resultados de la consulta.
 
-dataset.resultset.preview.promptMessage.recordsNum=N˙mero total de registro(s) mostrado(s) {0}.
+dataset.resultset.preview.promptMessage.recordsNum=N√∫mero total de registro(s) mostrado(s) {0}.
 
-dataset.resultset.preview.promptMessage.MoreRecordsExist=Los resultados contienen m·s registros que no se muestran.
+dataset.resultset.preview.promptMessage.MoreRecordsExist=Los resultados contienen m√°s registros que no se muestran.
 
-dataset.outputparameters.preview.tooltip=Vista previa de par·metros de salida.
+dataset.outputparameters.preview.tooltip=Vista previa de par√°metros de salida.
 
 dataset.wizard.label.datasetName=Nombre de conjunto de dato&s:
 
@@ -934,25 +934,25 @@ dataSourceSelectionPage.title=Link con fuente de datos.
 
 dataset.error.title.noReportDesign=Error
 
-dataset.error.msg.noReportDesign=DiseÒo de informe no disponible.
+dataset.error.msg.noReportDesign=Dise√±o de informe no disponible.
 
-dataset.warning.invalidReponseStatus=Respuesta de diseÒo no v·lida en la p·gina personalizada ODA. Respuesta de la sesiÛn de diseÒo ODA: {0}.
+dataset.warning.invalidReponseStatus=Respuesta de dise√±o no v√°lida en la p√°gina personalizada ODA. Respuesta de la sesi√≥n de dise√±o ODA: {0}.
 
 ###########################################################
 #DataSetBasePage properties
-DataSetBasePage.tooltip=El nombre no puede estar vacÌo.
+DataSetBasePage.tooltip=El nombre no puede estar vac√≠o.
 
 DataSetBasePage.ScriptedDataSet.name=Conjunto de datos de script
 
 DataSetBasePage.ScriptedDataSource.name=Fuente de datos en script
 
-DataSetBasePage.Group.DataSourceSelection=SelecciÛn de fuente de datos
+DataSetBasePage.Group.DataSourceSelection=Selecci√≥n de fuente de datos
 
 DataSetBasePage.CassandraScriptedDataSet.name=Conjunto de datos en script Cassandra
 
 DataSetBasePage.CassandraScriptedDataSource.name=Fuente de datos en script Cassandra
 
-DataSetBindingSelector.Button.DeselectAll=&Anular la selecciÛn de todo
+DataSetBindingSelector.Button.DeselectAll=&Anular la selecci√≥n de todo
 
 DataSetBindingSelector.Button.SelectAll=&Seleccionar todo
 
@@ -966,41 +966,41 @@ DataSetBindingSelectorPage.Title=Enlace del conjunto de datos
 
 CassandraScriptedDataSource.display.name=Fuente de datos en script Cassandra
 
-CassandraScriptedDataSource.error.classNotFound=No es posible encontrar los archivos de la librerÌa del cliente Hector para admitir la fuente de datos en script Cassandra.
+CassandraScriptedDataSource.error.classNotFound=No es posible encontrar los archivos de la librer√≠a del cliente Hector para admitir la fuente de datos en script Cassandra.
 
 ###########################################################
 #JointDataSetPage properties
-JointDataSetPage.pageName=Conjunto de datos de combinaciÛn
+JointDataSetPage.pageName=Conjunto de datos de combinaci√≥n
 
-JointDataSetPage.page.detail=Seleccione un conjunto de datos y una columna de cada lado para definir una combinaciÛn.
+JointDataSetPage.page.detail=Seleccione un conjunto de datos y una columna de cada lado para definir una combinaci√≥n.
 
-JointDataSetPage.button.innerJoin=CombinaciÛn &interna
+JointDataSetPage.button.innerJoin=Combinaci√≥n &interna
 
-JointDataSetPage.button.leftJoin=CombinaciÛn externa &izquierda
+JointDataSetPage.button.leftJoin=Combinaci√≥n externa &izquierda
 
-JointDataSetPage.button.rightJoin=CombinaciÛn externa &derecha
+JointDataSetPage.button.rightJoin=Combinaci√≥n externa &derecha
 
-JointDataSetPage.button.fullJoin=&CombinaciÛn externa completa
+JointDataSetPage.button.fullJoin=&Combinaci√≥n externa completa
 
-JointDataSetPage.joinType=Tipos de combinaciÛn
+JointDataSetPage.joinType=Tipos de combinaci√≥n
 
-JointDataSetPage.error.nodataset.title=No se ha encontrado ning˙n conjunto de datos.
+JointDataSetPage.error.nodataset.title=No se ha encontrado ning√∫n conjunto de datos.
 
 JointDataSetPage.error.nodataset.right=No se ha encontrado el conjunto de datos derecho.
 
 JointDataSetPage.error.nodataset.left=No se ha encontrado el conjunto de datos izquierdo.
 
-JointDataSetPage.pageDescription=Definir conjunto de datos de combinaciÛn
+JointDataSetPage.pageDescription=Definir conjunto de datos de combinaci√≥n
 
 JointDataSetPage.query=Consulta
 
 ###########################################################
 #DerivedDataSet properties
-DerivedDataSet.action.error.message.NoDataSet=No se ha encontrado ning˙n conjunto de datos disponible.
+DerivedDataSet.action.error.message.NoDataSet=No se ha encontrado ning√∫n conjunto de datos disponible.
 
 DerivedDataSet.action.error.title.createDerivedDataSet=Error al crear conjunto de datos derivados
 
-DerivedDataSet.action.error.message.InvalidNumber.DataSet=El n˙mero de conjuntos de datos disponibles es inferior a dos.
+DerivedDataSet.action.error.message.InvalidNumber.DataSet=El n√∫mero de conjuntos de datos disponibles es inferior a dos.
 
 ###########################################################
 #DataSetComputedColumnsPage properties
@@ -1010,7 +1010,7 @@ DataSetComputedColumnsPage.description=Definir columnas procesadas:
 
 DataSetComputedColumnsPage.duplicatedName=Nombre de columna duplicado.
 
-DataSetComputedColumnsPage.numberName=El nombre de columna no puede ser un n˙mero.
+DataSetComputedColumnsPage.numberName=El nombre de columna no puede ser un n√∫mero.
 
 DataSetComputedColumnsPage.toolTipText.Down=Mover columna procesada hacia abajo.
 
@@ -1026,7 +1026,7 @@ DataSetComputedColumnsPage.InputDialog.title.New=Nueva columna procesada
 
 DataSetComputedColumnsPage.InputDialog.title.Edit=Editar columna procesada
 
-DataSetComputedColumnsPage.InputDialog.message.error.AggregationExpression=La expresiÛn de agregaciÛn no puede incluir una columna procesada de agregaciÛn.
+DataSetComputedColumnsPage.InputDialog.message.error.AggregationExpression=La expresi√≥n de agregaci√≥n no puede incluir una columna procesada de agregaci√≥n.
 
 DataSetComputedColumnsPage.title.ComputedColumnInputDialog=Columna procesada
 
@@ -1050,9 +1050,9 @@ DataSetFiltersPage.toolTipText.Edit=Editar filtro.
 
 DataSetFiltersPage.title.FilterInputDialog=Filtro
 
-DataSetFiltersPage.messages.selectVauleUnavailable=Lista de valores no disponible con la expresiÛn indicada.
+DataSetFiltersPage.messages.selectVauleUnavailable=Lista de valores no disponible con la expresi√≥n indicada.
 
-DataSetFiltersPage.DynamicFilter.DynamicParameter.NotFound=El par·metro din·mico vinculado "{0}" del filtro din·mico no existe.
+DataSetFiltersPage.DynamicFilter.DynamicParameter.NotFound=El par√°metro din√°mico vinculado "{0}" del filtro din√°mico no existe.
 
 ###########################################################
 #DataSetNodeProvider properties
@@ -1060,78 +1060,78 @@ DataSetNodeProvider.menu.text=&Editar
 
 ###########################################################
 #DataSetParametersPage properties
-DataSetParametersPage.description=Definir par·metros de entrada:
+DataSetParametersPage.description=Definir par√°metros de entrada:
 
-DataSetParametersPage.Filter.Tooltip=Pasar par·metros hasta o desde el conjunto de datos.
+DataSetParametersPage.Filter.Tooltip=Pasar par√°metros hasta o desde el conjunto de datos.
 
-DataSetParameterBindingInputDialog.Title=Editar enlace de par·metros del conjunto de datos
+DataSetParameterBindingInputDialog.Title=Editar enlace de par√°metros del conjunto de datos
 
-DataSetParametersPage.ErrorTitle.InvalidInput=Entrada no v·lida.
+DataSetParametersPage.ErrorTitle.InvalidInput=Entrada no v√°lida.
 
-DataSetParameterBindingInputDialog.Label.Name=Nombre del par·metro:
+DataSetParameterBindingInputDialog.Label.Name=Nombre del par√°metro:
 
 DataSetParametersPage.ErrorMessage.CanootBeNull=El valor no puede ser nulo.
 
-DataSetParameterBindingInputDialog.Title.NewParameter=Nuevo par·metro
+DataSetParameterBindingInputDialog.Title.NewParameter=Nuevo par√°metro
 
-DataSetParameterBindingInputDialog.Title.EditParameter=Editar par·metro
+DataSetParameterBindingInputDialog.Title.EditParameter=Editar par√°metro
 
 DataSetParameterBindingInputDialog.Label.DataType=Tipo de datos:
 
 DataSetParameterBindingInputDialog.Label.Value=&Valor:
 
-DataSetParametersPage.ParameterButton.Tooltip.Edit=Editar par·metro de informe
+DataSetParametersPage.ParameterButton.Tooltip.Edit=Editar par√°metro de informe
 
-DataSetParametersPage.ParameterButton.Tooltip.New=Nuevo par·metro de informe
+DataSetParametersPage.ParameterButton.Tooltip.New=Nuevo par√°metro de informe
 
-DataSetParametersPage.Prompt.new=<Nuevo par·metro aquÌ...>
+DataSetParametersPage.Prompt.new=<Nuevo par√°metro aqu√≠...>
 
 DataSetParametersPage.default.None=N/A
 DataSetParametersPage.reportParam.None=Ninguno
 
-DataSetParametersPage.errorMessage.LinkedReportParamNotFound=El par·metro del informe vinculado "{0}" del par·metro del conjunto de datos "{1}" ya no existe.
+DataSetParametersPage.errorMessage.LinkedReportParamNotFound=El par√°metro del informe vinculado "{0}" del par√°metro del conjunto de datos "{1}" ya no existe.
 
-DataSetParametersPage.errorMessage.InvalidType.LinkedReportParam=Si un usuario configura m˙ltiples valores para el par·metro de informe, el par·metro del conjunto de datos utiliza sÛlo el primer valor.
+DataSetParametersPage.errorMessage.InvalidType.LinkedReportParam=Si un usuario configura m√∫ltiples valores para el par√°metro de informe, el par√°metro del conjunto de datos utiliza s√≥lo el primer valor.
 
-DataSetParameterPage.cell.linkToSalarParameter=&Vinculado a par·metro de informe
+DataSetParameterPage.cell.linkToSalarParameter=&Vinculado a par√°metro de informe
 
-DataSetParameterPage.title.ParameterInputDialog=Par·metro
+DataSetParameterPage.title.ParameterInputDialog=Par√°metro
 
-DataSetParameterPage.toolTipText.New=Nuevo par·metro
+DataSetParameterPage.toolTipText.New=Nuevo par√°metro
 
-DataSetParameterPage.toolTipText.Edit=Editar par·metro
+DataSetParameterPage.toolTipText.Edit=Editar par√°metro
 
-DataSetParameterPage.toolTipText.Remove=Quitar par·metro
+DataSetParameterPage.toolTipText.Remove=Quitar par√°metro
 
-DataSetParameterPage.toolTipText.Up=Mover par·metro hacia arriba
+DataSetParameterPage.toolTipText.Up=Mover par√°metro hacia arriba
 
-DataSetParameterPage.toolTipText.Down=Mover par·metro hacia abajo
+DataSetParameterPage.toolTipText.Down=Mover par√°metro hacia abajo
 
-DataSetParameterPage.WarningMessage.updatePosition=Algunos o todos los par·metros de conjunto de datos tienen valores de posiciÛn no v·lidos. Actualizando la posiciones seg˙n la secuencia.
+DataSetParameterPage.WarningMessage.updatePosition=Algunos o todos los par√°metros de conjunto de datos tienen valores de posici√≥n no v√°lidos. Actualizando la posiciones seg√∫n la secuencia.
 
-DataSetParameterPage.warning.UnmatchedParamDataType=El tipo de par·metro del conjunto de datos no coincide con el tipo de par·metro del informe vinculado.
+DataSetParameterPage.warning.UnmatchedParamDataType=El tipo de par√°metro del conjunto de datos no coincide con el tipo de par√°metro del informe vinculado.
 
-DataSetParameterPage.multiValuesType=Tipo de valores m˙ltiples
+DataSetParameterPage.multiValuesType=Tipo de valores m√∫ltiples
 
-DataSetParameterPage.warningLinkedMultipleValuesParams.title=Di·logo de advertencia
+DataSetParameterPage.warningLinkedMultipleValuesParams.title=Di√°logo de advertencia
 
-DataSetParameterPage.updateReportParameter.title=Ajuste de actualizaciÛn de par·metro de informe
+DataSetParameterPage.updateReportParameter.title=Ajuste de actualizaci√≥n de par√°metro de informe
 
-DataSetParameterPage.updateReportParameter.message=øDesea actualizar el par·metro del informe vinculado con los ajustes de los par·metros del conjunto de datos?
+DataSetParameterPage.updateReportParameter.message=¬øDesea actualizar el par√°metro del informe vinculado con los ajustes de los par√°metros del conjunto de datos?
 
-DataSetParameterPage.updateReportParameter.promptButtonYes=SÌ
+DataSetParameterPage.updateReportParameter.promptButtonYes=S√≠
 
 DataSetParameterPage.updateReportParameter.promptButtonNo=No
 
-DataSetParameterPage.updateReportParameter.propmtText=Recordar mi decisiÛn
+DataSetParameterPage.updateReportParameter.propmtText=Recordar mi decisi√≥n
 
-PromptParameterDialog.title=Confirmar atributos de diseÒo de actualizaciÛn
+PromptParameterDialog.title=Confirmar atributos de dise√±o de actualizaci√≥n
 
 PromptParameterDialog.okButton.text=Aplicar
 
-PromptParameterDialog.parameterGroup.title=Atributos de diseÒo de par·metro
+PromptParameterDialog.parameterGroup.title=Atributos de dise√±o de par√°metro
 
-PromptParameterDialog.parameterGroup.label=Actualizar los par·metros seleccionados con los valores de atributo revisados por el diseÒo del conjunto de datos editado.
+PromptParameterDialog.parameterGroup.label=Actualizar los par√°metros seleccionados con los valores de atributo revisados por el dise√±o del conjunto de datos editado.
 
 PromptParameterDialog.parameterGroup.nameColumn=Nombre
 
@@ -1141,13 +1141,13 @@ PromptParameterDialog.parameterGroup.revisedValue=Valor revisado
 
 ###########################################################
 #PropertyBindingpage properties
-PropertyBindingPage.datasource.property.empty=La extensiÛn ODA de esta fuente de datos no ha definido ninguna propiedad p˙blica.
+PropertyBindingPage.datasource.property.empty=La extensi√≥n ODA de esta fuente de datos no ha definido ninguna propiedad p√∫blica.
 
-PropertyBindingPage.dataset.property.empty=La extensiÛn ODA de este conjunto de datos no ha definido ninguna propiedad p˙blica.
+PropertyBindingPage.dataset.property.empty=La extensi√≥n ODA de este conjunto de datos no ha definido ninguna propiedad p√∫blica.
 
 PropertyBindingPage.dataset.queryText=Texto de consult&a
 
-PropertyBindingPage.property.tooltip=Definir enlace de propiedades para tiempo de ejecuciÛn.
+PropertyBindingPage.property.tooltip=Definir enlace de propiedades para tiempo de ejecuci√≥n.
 
 PropertyBindingPage.button.tooltip=Abrir el compilador de expresiones para introducir valor de {0}.
 
@@ -1167,9 +1167,9 @@ DataSetProcess.text.DisplayName=Conjunto de datos
 
 DataSetProcess.text.Prefix=Los siguientes conjuntos de datos utilizan esta fuente de datos:
 
-DataSetProcess.text.Show=Muestra la p·gina del editor de conjunto de datos para el conjunto de datos.
+DataSetProcess.text.Show=Muestra la p√°gina del editor de conjunto de datos para el conjunto de datos.
 
-DataSetProcess.text.Suffix=øSeguro que desea eliminar este elemento?
+DataSetProcess.text.Suffix=¬øSeguro que desea eliminar este elemento?
 
 ###########################################################
 #datasource properties
@@ -1187,37 +1187,37 @@ datasource.wizard.label.dataSourceName=Nombre de fuente de dato&s:
 
 datasource.wizard.label.datasources=Crear a partir de un tipo de fuente de &datos de la siguiente lista
 
-datasource.wizard.label.connectionfile=Crear a partir de un perfil de &conexiÛn del almacenamiento de perfiles
+datasource.wizard.label.connectionfile=Crear a partir de un perfil de &conexi√≥n del almacenamiento de perfiles
 
-datasource.wizard.message.selectType=Facilite la configuraciÛn de la nueva fuente de datos o seleccione un perfil de conexiÛn predeterminado.
+datasource.wizard.message.selectType=Facilite la configuraci√≥n de la nueva fuente de datos o seleccione un perfil de conexi√≥n predeterminado.
 
-datasource.wizard.title.select=Seleccione un tipo de fuente de datos o un perfil de conexiÛn.
+datasource.wizard.title.select=Seleccione un tipo de fuente de datos o un perfil de conexi√≥n.
 
 datasource.editor.property=Enlace de propiedades
 
-datasource.editor.duplicatedName=El nombre de fuente de datos "{0}" est· duplicado.
+datasource.editor.duplicatedName=El nombre de fuente de datos "{0}" est√° duplicado.
 
 datasource.error.title.noReportDesign=Error
 
-datasource.error.msg.noReportDesign=DiseÒo de informe no disponible.
+datasource.error.msg.noReportDesign=Dise√±o de informe no disponible.
 
 datasource.exprotToCP.title=Exportar
 
-datasource.exportToCP.message=Est· exportando "{0}" al explorador de fuentes de datos.
+datasource.exportToCP.message=Est√° exportando "{0}" al explorador de fuentes de datos.
 
-datasource.exportToCP.checkBox=&Crear almacenamiento de perfil de conexiÛn para la fuente de datos exportada.
+datasource.exportToCP.checkBox=&Crear almacenamiento de perfil de conexi√≥n para la fuente de datos exportada.
 
-datasource.exportToCP.externalCheckBox=&Utilizar el perfil de conexiÛn externalizado de la fuente de datos.
+datasource.exportToCP.externalCheckBox=&Utilizar el perfil de conexi√≥n externalizado de la fuente de datos.
 
-datasource.exportToCP.label.specifyName=Nombre del perfil de con&exiÛn:
+datasource.exportToCP.label.specifyName=Nombre del perfil de con&exi√≥n:
 
 datasource.exportToCP.errorBox.button.OK=Aceptar
 
-datasource.exportToCP.error.emptyFileName=Debe especificar un nombre de perfil de conexiÛn que no estÈ vacÌo.
+datasource.exportToCP.error.emptyFileName=Debe especificar un nombre de perfil de conexi√≥n que no est√© vac√≠o.
 
-datasource.exportToCP.error.invalidFileName=El nombre del perfil de conexiÛn especificado incluye caracteres no v·lidos.
+datasource.exportToCP.error.invalidFileName=El nombre del perfil de conexi√≥n especificado incluye caracteres no v√°lidos.
 
-datasource.exportToCP.error.duplicatedFileName=El nombre del perfil de conexiÛn ya existe.
+datasource.exportToCP.error.duplicatedFileName=El nombre del perfil de conexi√≥n ya existe.
 
 datasource.exportToCP.error.alreadyExported=La fuente de datos "{0}" ya ha externalizado sus propiedades.
 
@@ -1231,9 +1231,9 @@ DataSourceProcess.action.Edit=Editar fuente de datos
 DataSourceProcess.text.DisplayName=DataSource
 DataSourceProcess.text.Prefix=Los siguientes conjuntos de datos utilizan esta fuente de datos
 
-DataSourceProcess.text.Show=Muestra la p·gina del editor de fuente de datos
+DataSourceProcess.text.Show=Muestra la p√°gina del editor de fuente de datos
 
-DataSourceProcess.text.Suffix=øSeguro que desea eliminar este elemento?
+DataSourceProcess.text.Suffix=¬øSeguro que desea eliminar este elemento?
 
 ###########################################################
 #DataSourceSelectionPage properties
@@ -1247,7 +1247,7 @@ DataSourcesSlotOutlineProcess.action.New=Nueva fuente de datos
 #datatypes properties
 datatypes.any=Cualquiera
 
-datatypes.auto=Autom·tico
+datatypes.auto=Autom√°tico
 
 datatypes.dateTime=Fecha/hora
 
@@ -1261,7 +1261,7 @@ datatypes.string=String
 
 ###########################################################
 #DataView properties
-DataView.defaultText.noDataView=No est· disponible ninguna vista de datos.
+DataView.defaultText.noDataView=No est√° disponible ninguna vista de datos.
 
 ###########################################################
 #DataViewTreeViewerPage properties
@@ -1271,7 +1271,7 @@ DataViewTreeViewerPage.tooltip.DragToInsertColumn=Arrastrar para insertar column
 
 DataViewTreeViewerPage.tooltip.DragToInsertDataSetColumns=Arrastrar para insertar todas las columnas del conjunto de datos.
 
-DataViewTreeViewerPage.tooltip.DragToInsertParameter=Arrastrar para insertar par·metro de informe;
+DataViewTreeViewerPage.tooltip.DragToInsertParameter=Arrastrar para insertar par√°metro de informe;
 
 ###########################################################
 #DebugUtil properties
@@ -1281,17 +1281,17 @@ DebugUtil.importProject.fail="Error al exportar proyecto existente."
 #DecorationFieldEditor properties
 DecorationFieldEditor.text.Linethrough=Tachado
 
-DecorationFieldEditor.text.Overline=LÌnea superior
+DecorationFieldEditor.text.Overline=L√≠nea superior
 
 DecorationFieldEditor.text.Underline=Subrayado
 
 ###########################################################
 #DefaultNodeProvider properties
-DefaultNodeProvider.Dlg.Confirm=Haga clic en SÌ para borrar el elemento {0}. De lo contrario, haga clic en No
+DefaultNodeProvider.Dlg.Confirm=Haga clic en S√≠ para borrar el elemento {0}. De lo contrario, haga clic en No
 
-DefaultNodeProvider.ParameterGroup.ConfirmMessage=Va a eliminar un grupo de par·metros. Si elimina el grupo de par·metros, eliminar· todos los par·metros incluidos en el grupo. øDesea continuar?
+DefaultNodeProvider.ParameterGroup.ConfirmMessage=Va a eliminar un grupo de par√°metros. Si elimina el grupo de par√°metros, eliminar√° todos los par√°metros incluidos en el grupo. ¬øDesea continuar?
 
-DefaultNodeProvider.ParameterGroup.ConfirmTitle=Confirmar eliminaciÛn de grupo de par·metros
+DefaultNodeProvider.ParameterGroup.ConfirmTitle=Confirmar eliminaci√≥n de grupo de par√°metros
 
 DefaultNodeProvider.Tree.Body=Texto
 
@@ -1307,20 +1307,20 @@ DefaultNodeProvider.Tree.DataSources=Fuentes de datos
 
 DefaultNodeProvider.Tree.Detail=Detalle
 
-DefaultNodeProvider.Tree.Footer=Pie de p·gina
+DefaultNodeProvider.Tree.Footer=Pie de p√°gina
 
 DefaultNodeProvider.Tree.Groups=Grupos
 
 DefaultNodeProvider.Tree.Header=Encabezado
 
-DefaultNodeProvider.Tree.Images=Im·genes incrustadas
+DefaultNodeProvider.Tree.Images=Im√°genes incrustadas
 
-DefaultNodeProvider.Tree.Invalid=Nodo no v·lido
+DefaultNodeProvider.Tree.Invalid=Nodo no v√°lido
 
 DefaultNodeProvider.Tree.MasterPages=MasterPages
-DefaultNodeProvider.Tree.PageSetup=Configurar p·gina
+DefaultNodeProvider.Tree.PageSetup=Configurar p√°gina
 
-DefaultNodeProvider.Tree.Parameters=Par·metros de informe
+DefaultNodeProvider.Tree.Parameters=Par√°metros de informe
 
 DefaultNodeProvider.Tree.Reference=Advertencia
 
@@ -1362,13 +1362,13 @@ DeleteRowAction.actionMsg.delete=&Eliminar
 #designer properties
 designer.preview.browserTitle=Vista previa
 
-designer.preview.preference.browser.autoSave=Guardar autom·ticamente antes de la vista previa
+designer.preview.preference.browser.autoSave=Guardar autom√°ticamente antes de la vista previa
 
 designer.preview.preference.browser.browse=&Examinar...
 
 designer.preview.preference.browser.currentBrowsers=Adaptadores de explorador web externo actua&les:
 
-designer.preview.preference.browser.description=La selecciÛn determina los exploradores web utilizados para mostrar la vista previa de los informes BIRT.\nSi sÛlo se ha configurado un adaptador de explorador, la selecciÛn no\npuede cambiarse.
+designer.preview.preference.browser.description=La selecci√≥n determina los exploradores web utilizados para mostrar la vista previa de los informes BIRT.\nSi s√≥lo se ha configurado un adaptador de explorador, la selecci√≥n no\npuede cambiarse.
 
 designer.preview.preference.browser.details=Seleccionar un programa de explorador
 
@@ -1378,9 +1378,9 @@ designer.preview.preference.browser.svg=Activar diagrama &SVG
 
 designer.preview.preference.browser.extbrowser.link=Consulte <a>''{0}''</a> para configurar el explorador externo utilizado para mostrar informes.
 
-designer.preview.preference.masterpagecontent=Activar contenido de p·gina &maestra
+designer.preview.preference.masterpagecontent=Activar contenido de p√°gina &maestra
 
-designer.preview.preference.appcontextkey=&Usar contexto de aplicaciÛn personalizado
+designer.preview.preference.appcontextkey=&Usar contexto de aplicaci√≥n personalizado
 
 designer.preview.preference.browser.useExternal=Usar siempre explora&dores externos
 
@@ -1396,69 +1396,69 @@ designer.preview.preference.elementname.defaultname=Nombre de elemento:
 
 designer.preview.preference.elementname.description.Enabled=false
 
-designer.preview.preference.elementname.description=DescripciÛn
+designer.preview.preference.elementname.description=Descripci√≥n
 
 designer.preview.preference.elementname.Enabled=true
 
-designer.preview.preference.locale.description=Elegir configuraciÛn &regional:
+designer.preview.preference.locale.description=Elegir configuraci√≥n &regional:
 
 designer.preview.preference.timezone.description=&Zona horaria:
 
-designer.preview.preference.resultset.sqldatasetpage.group.title=P·gina de consulta
+designer.preview.preference.resultset.sqldatasetpage.group.title=P√°gina de consulta
 
-designer.preview.preference.resultset.previewpage.group.title=P·gina de vista previa
+designer.preview.preference.resultset.previewpage.group.title=P√°gina de vista previa
 
-designer.preview.preference.resultset.groupTitle.DispalyRowLimitsSetting=Ajuste de lÌmites de fila de vista previa
+designer.preview.preference.resultset.groupTitle.DispalyRowLimitsSetting=Ajuste de l√≠mites de fila de vista previa
 
-designer.preview.preference.resultset.NoLimitOfDispalyRow=&No hay lÌmite de n˙mero de filas que mostrar.
+designer.preview.preference.resultset.NoLimitOfDispalyRow=&No hay l√≠mite de n√∫mero de filas que mostrar.
 
-designer.preview.preference.resultset.maxNoOfSchema.description=N˙mero m·ximo de e&squemas que mostrar:
+designer.preview.preference.resultset.maxNoOfSchema.description=N√∫mero m√°ximo de e&squemas que mostrar:
 
-designer.preview.preference.resultset.maxNoOfTable.description=N˙mero m·ximo de &tablas de cada esquema que mostrar:
+designer.preview.preference.resultset.maxNoOfTable.description=N√∫mero m√°ximo de &tablas de cada esquema que mostrar:
 
-designer.preview.preference.resultset.maxNoOfSchema.errormessage=Introduzca un n˙mero entre 0 y {0} para el n˙mero m·ximo de esquemas.
+designer.preview.preference.resultset.maxNoOfSchema.errormessage=Introduzca un n√∫mero entre 0 y {0} para el n√∫mero m√°ximo de esquemas.
 
-designer.preview.preference.resultset.maxNoOfTable.errormessage=Introduzca un n˙mero entre 0 y {0} para el n˙mero m·ximo de tablas de cada esquema.
+designer.preview.preference.resultset.maxNoOfTable.errormessage=Introduzca un n√∫mero entre 0 y {0} para el n√∫mero m√°ximo de tablas de cada esquema.
 
-designer.preview.preference.resultset.maxrow.description=N˙mero de &filas para mostrar:
+designer.preview.preference.resultset.maxrow.description=N√∫mero de &filas para mostrar:
 
-designer.preview.preference.resultset.maxrow.errormessage=Introduzca un n˙mero entre 1 y {0} para el n˙mero m·ximo de filas.
+designer.preview.preference.resultset.maxrow.errormessage=Introduzca un n√∫mero entre 1 y {0} para el n√∫mero m√°ximo de filas.
 
 designer.preview.preference.resultset.maxrowlevelmember.description=Recuento de miembros de cada &nivel de fila para mostrar:
 
-designer.preview.preference.resultset.maxrowlevelmember.errormessage=Introduzca un n˙mero entre 1 y {0} para el n˙mero m·ximo de miembros por nivel de fila.
+designer.preview.preference.resultset.maxrowlevelmember.errormessage=Introduzca un n√∫mero entre 1 y {0} para el n√∫mero m√°ximo de miembros por nivel de fila.
 
 designer.preview.preference.resultset.maxcolumnlevelmember.description=Recuento de miembros de cada &nivel de columna para mostrar:
 
-designer.preview.preference.resultset.maxcolumnlevelmember.errormessage=Introduzca un n˙mero entre 1 y {0} para el n˙mero m·ximo de miembros por nivel de columna.
+designer.preview.preference.resultset.maxcolumnlevelmember.errormessage=Introduzca un n√∫mero entre 1 y {0} para el n√∫mero m√°ximo de miembros por nivel de columna.
 
-designer.preview.preference.resultset.maxinmemorycubesize.description=TamaÒo del cubo de memoria (MB):
+designer.preview.preference.resultset.maxinmemorycubesize.description=Tama√±o del cubo de memoria (MB):
 
-designer.preview.preference.resultset.maxinmemorycubesize.errormessage=Introduzca un n˙mero entre 1 y {0} para el tamaÒo m·ximo del cubo de memoria.
+designer.preview.preference.resultset.maxinmemorycubesize.errormessage=Introduzca un n√∫mero entre 1 y {0} para el tama√±o m√°ximo del cubo de memoria.
 
-designer.preview.preference.server.description=ConfiguraciÛn del servidor de aplicaciones interno. El frame de vista previa de BIRT Report Designer\nutiliza el servidor internamente.
+designer.preview.preference.server.description=Configuraci√≥n del servidor de aplicaciones interno. El frame de vista previa de BIRT Report Designer\nutiliza el servidor internamente.
 
-designer.preview.preference.server.hostDescription=&Nombre del anfitriÛn o direcciÛn IP de equipo local. Deje en blanco, se\ndetermina autom·ticamente.
+designer.preview.preference.server.hostDescription=&Nombre del anfitri√≥n o direcci√≥n IP de equipo local. Deje en blanco, se\ndetermina autom√°ticamente.
 
 designer.preview.preference.server.note=Nota:
 
-designer.preview.preference.server.portDescription=&Puerto de comunicaciÛn del servidor. Establezca en 0 para asignaciÛn din·mica.
+designer.preview.preference.server.portDescription=&Puerto de comunicaci√≥n del servidor. Establezca en 0 para asignaci√≥n din√°mica.
 
-designer.preview.preference.server.requireRestart=Si el servidor ya est· en ejecuciÛn, estas preferencias sÛlo ser·n efectivas\ndespuÈs de reiniciar.
+designer.preview.preference.server.requireRestart=Si el servidor ya est√° en ejecuci√≥n, estas preferencias s√≥lo ser√°n efectivas\ndespu√©s de reiniciar.
 
-designer.preview.preference.bidiOrientation.label=&OrientaciÛn bidimensional:
+designer.preview.preference.bidiOrientation.label=&Orientaci√≥n bidimensional:
 
-designer.preview.preference.bidiOrientation.auto=Autom·tico
+designer.preview.preference.bidiOrientation.auto=Autom√°tico
 
 designer.preview.preference.bidiOrientation.ltr=De izquierda a derecha
 
 designer.preview.preference.bidiOrientation.rtl=De derecha a izquierda
 
-designer.preview.preference.updateParameter.confirmMessage=Confirmar actualizaciÛn
+designer.preview.preference.updateParameter.confirmMessage=Confirmar actualizaci√≥n
 
-designer.preview.preference.updateParameter.confirmButton=&Solicitar siempre confirmaciÛn antes de sincronizar las propiedades de par·metro del conjunto de datos con las propiedades de par·metro ODA si se cambia la consulta.
+designer.preview.preference.updateParameter.confirmButton=&Solicitar siempre confirmaci√≥n antes de sincronizar las propiedades de par√°metro del conjunto de datos con las propiedades de par√°metro ODA si se cambia la consulta.
 
-designer.preview.preference.updateReportParameter.confirmButton=&No solicitar confirmaciÛn para actualizar un par·metro del informe vinculado.
+designer.preview.preference.updateReportParameter.confirmButton=&No solicitar confirmaci√≥n para actualizar un par√°metro del informe vinculado.
 
 designer.preview.preference.updateReportParameter.confirmOption.always=Sie&mpre:
 
@@ -1470,7 +1470,7 @@ designer.preview.previewaction.label.webviewer=Ver informe en Web Viewer
 
 designer.preview.previewaction.label=Ver informe como {0}
 
-designer.preview.previewaction.ErrorMessage=La generaciÛn de PDF no est· activada ya que no se encuentra iText o no est· instalado.
+designer.preview.previewaction.ErrorMessage=La generaci√≥n de PDF no est√° activada ya que no se encuentra iText o no est√° instalado.
 
 designer.preview.previewaction.ErrorMessage.title=Advertencia
 
@@ -1502,7 +1502,7 @@ DesignerActionBarContributor.menu.data=&Datos
 
 DesignerActionBarContributor.menu.element-EditGroup=&Editar grupo
 
-DesignerActionBarContributor.menu.element-LayoutMode=Modo de di&seÒo
+DesignerActionBarContributor.menu.element-LayoutMode=Modo de di&se√±o
 
 DesignerActionBarContributor.menu.element-showRuler=Mostrar &reglas
 
@@ -1514,7 +1514,7 @@ DesignerActionBarContributor.menu.format=Formato
 
 DesignerActionBarContributor.menu.insert=&Insertar
 
-DesignerActionBarContributor.menu.page=P·&gina
+DesignerActionBarContributor.menu.page=P√°&gina
 
 DesignerActionBarContributor.menu.style-rule-apply=A&plicar estilo
 
@@ -1524,13 +1524,13 @@ DesignerActionBarContributor.menu.style-rule-remove=&Quitar estilo
 
 DesignerActionBarContributor.style.new=&Nuevo estilo...
 
-DesignerActionBarContributor.menu.data-NewParameter=Nuevo &par·metro de informe
+DesignerActionBarContributor.menu.data-NewParameter=Nuevo &par√°metro de informe
 
 DesignerActionBarContributor.menu.data-NewDataSetParent=Nuevo conjunto de d&atos
 
 designerActionBarContributor.menu.data-newDataset=Nuevo c&onjunto de datos
 
-designerActionBarContributor.menu.data-newJointDataset=Nuevo &conjunto de datos de combinaciÛn
+designerActionBarContributor.menu.data-newJointDataset=Nuevo &conjunto de datos de combinaci√≥n
 
 DesignerActionBarContributor.menu.element.insert=&Insertar
 
@@ -1543,7 +1543,7 @@ DesignerActionBarContributor.menu.zoomCombo.tooltip=Nivel de zoom
 #DesignerOutlinePage properties
 DesignerOutlinePage.action.Delete=Eliminar selecciones
 
-DesignerOutlinePage.action.Hide=Ocultar encabezado y pie de p·gina
+DesignerOutlinePage.action.Hide=Ocultar encabezado y pie de p√°gina
 
 DesignerOutlinePage.action.Redo=Rehacer
 
@@ -1563,7 +1563,7 @@ DesignerPaletteFactory.categoryName.reportItems=Elementos de informe
 
 DesignerPaletteFactory.elementLabel.data=Datos
 
-DesignerPaletteFactory.elementLabel.grid=CuadrÌcula
+DesignerPaletteFactory.elementLabel.grid=Cuadr√≠cula
 
 DesignerPaletteFactory.elementLabel.image=Imagen
 
@@ -1577,7 +1577,7 @@ DesignerPaletteFactory.elementLabel.text=Texto
 
 DesignerPaletteFactory.elementName.data=Datos
 
-DesignerPaletteFactory.elementName.grid=CuadrÌcula
+DesignerPaletteFactory.elementName.grid=Cuadr√≠cula
 
 DesignerPaletteFactory.elementName.image=Imagen
 
@@ -1589,33 +1589,33 @@ DesignerPaletteFactory.elementName.table=Tabla
 
 DesignerPaletteFactory.elementName.text=Texto
 
-DesignerPaletteFactory.elementName.textdata=Texto din·mico
+DesignerPaletteFactory.elementName.textdata=Texto din√°mico
 
-DesignerPaletteFactory.toolTip.dataReportItem=Insertar una columna de conjunto de datos o un resultado de expresiÛn.
+DesignerPaletteFactory.toolTip.dataReportItem=Insertar una columna de conjunto de datos o un resultado de expresi√≥n.
 
-DesignerPaletteFactory.toolTip.gridReportItem=Insertar un diseÒo de columna/fila para organizar de forma visual otros elementos.
+DesignerPaletteFactory.toolTip.gridReportItem=Insertar un dise√±o de columna/fila para organizar de forma visual otros elementos.
 
 DesignerPaletteFactory.toolTip.imageReportItem=Insertar una imagen de un archivo o URL.
 
-DesignerPaletteFactory.toolTip.labelReportItem=Insertar un texto est·tico.
+DesignerPaletteFactory.toolTip.labelReportItem=Insertar un texto est√°tico.
 
-DesignerPaletteFactory.toolTip.listReportItem=Insertar la presentaciÛn de formato flexible de las filas de conjunto de datos en las bandas de encabezado/detalle/pie de p·gina
+DesignerPaletteFactory.toolTip.listReportItem=Insertar la presentaci√≥n de formato flexible de las filas de conjunto de datos en las bandas de encabezado/detalle/pie de p√°gina
 
-DesignerPaletteFactory.toolTip.multiLineDataReportItem=Insertar un bloque de texto (texto sin formato/HTML/RTF) de un archivo, columna de conjunto de datos o resultado de expresiÛn.
+DesignerPaletteFactory.toolTip.multiLineDataReportItem=Insertar un bloque de texto (texto sin formato/HTML/RTF) de un archivo, columna de conjunto de datos o resultado de expresi√≥n.
 
-DesignerPaletteFactory.toolTip.tableReportItem=Insertar la presentaciÛn de columna de las filas de conjunto de datos en las bandas de encabezado/detalle/pie de p·gina
+DesignerPaletteFactory.toolTip.tableReportItem=Insertar la presentaci√≥n de columna de las filas de conjunto de datos en las bandas de encabezado/detalle/pie de p√°gina
 
 DesignerPaletteFactory.toolTip.textDataReportItem=Insertar un bloque de texto con expresiones de datos CLOB opcionales
 
-DesignerPaletteFactory.toolTip.textReportItem=Insertar un bloque de texto (texto sin formato/HTML) con expresiones opcionales en lÌnea.
+DesignerPaletteFactory.toolTip.textReportItem=Insertar un bloque de texto (texto sin formato/HTML) con expresiones opcionales en l√≠nea.
 
-DesignerPaletteFactory.quicktool.title=Herramientas r·pidas
+DesignerPaletteFactory.quicktool.title=Herramientas r√°pidas
 
-DesignerPaletteFactory.quicktool.agg.title=AgregaciÛn
+DesignerPaletteFactory.quicktool.agg.title=Agregaci√≥n
 
-DesignerPaletteFactory.quicktool.agg.toolTip=Insertar elemento de agregaciÛn
+DesignerPaletteFactory.quicktool.agg.toolTip=Insertar elemento de agregaci√≥n
 
-DesignerPaletteFactory.quicktool.timeperiod.title=PerÌodo de tiempo relativo
+DesignerPaletteFactory.quicktool.timeperiod.title=Per√≠odo de tiempo relativo
 
 DesignerPaletteFactory.quicktool.timeperiod.toolTip=Insertar elemento TimePeriod
 
@@ -1637,21 +1637,21 @@ DNDUtil.trans.cut=Mover elementos
 #DuplicatesPage properties
 DuplicatesPage.Check.HideDuplicates=Ocultar duplicados
 
-DuplicatesPage.Group.Repeat=DuplicaciÛn (Repetir)
+DuplicatesPage.Group.Repeat=Duplicaci√≥n (Repetir)
 
-DuplicatesPage.Group.RepeatonPage=DuplicaciÛn (Repetir en p·gina)
+DuplicatesPage.Group.RepeatonPage=Duplicaci√≥n (Repetir en p√°gina)
 
 DuplicatesPage.Label.RepeatInfo=Ocultar valores que sean iguales que la fila de datos anterior.
 
 DuplicatesPage.Label.RepeatOnPage.1=Ocultar valores que sean iguales que la fila anterior,
 
-DuplicatesPage.Label.RepeatOnPage.2=\\ pero mostrar siempre el valor en la parte superior de cada p·gina nueva.
+DuplicatesPage.Label.RepeatOnPage.2=\\ pero mostrar siempre el valor en la parte superior de cada p√°gina nueva.
 
 DuplicatesPage.Label.ResetonGroup=Restablecer grupo siguiente
 
 DuplicatesPage.Radio.Repeat=Repetir
 
-DuplicatesPage.Radio.RepeatonPage=Repetir en p·gina
+DuplicatesPage.Radio.RepeatonPage=Repetir en p√°gina
 
 ###########################################################
 #EditAction properties
@@ -1663,11 +1663,11 @@ EditGroupAction.stackMsg.editGroup=Editar grupo
 
 ###########################################################
 #EditGroupAction properties
-InsertGroupHeaderFooterAction.stackMsg.editGroup=Insertar encabezado/pie de p·gina de grupo
+InsertGroupHeaderFooterAction.stackMsg.editGroup=Insertar encabezado/pie de p√°gina de grupo
 
 InsertGroupHeaderFooterAction.Text.Header=Encabezado
 
-InsertGroupHeaderFooterAction.Text.Footer=Pie de p·gina
+InsertGroupHeaderFooterAction.Text.Footer=Pie de p√°gina
 
 ###########################################################
 #DeleteGroupAction properties
@@ -1677,7 +1677,7 @@ DeleteGroupAction.stackMsg.deleteGroup=Eliminar grupo
 #EditLabelAction properties
 EditLabelAction.text=&Editar
 
-EditorDragGuidePolicy.pixels.label=pÌxeles
+EditorDragGuidePolicy.pixels.label=p√≠xeles
 
 EditorGuide.bottom.label=Inferior:
 
@@ -1693,7 +1693,7 @@ Element.AbstractScalarParameter.dataType=Tipo de &datos:
 
 Element.AutoText.type=Tipo:
 
-Element.Cell.colSpan=ExtensiÛn de columna:
+Element.Cell.colSpan=Extensi√≥n de columna:
 
 Element.Cell.column=Columna:
 
@@ -1701,15 +1701,15 @@ Element.Cell.drop=&Suprimir:
 
 Element.Cell.height=Altura:
 
-Element.Cell.rowSpan=ExtensiÛn de fila:
+Element.Cell.rowSpan=Extensi√≥n de fila:
 
 Element.Cell.slot.content=Contenido:
 
-Element.Cell.verticalAlign=AlineaciÛn vertical:
+Element.Cell.verticalAlign=Alineaci√≥n vertical:
 
 Element.Cell.width=Ancho:
 
-Element.Column.alignment=AlineaciÛn:
+Element.Column.alignment=Alineaci√≥n:
 
 Element.Column.repeat=Repetir:
 
@@ -1719,21 +1719,21 @@ Element.Column.suppressDuplicates=Suprimir duplicados
 
 Element.Container.slot.reportItems=Elementos de informe:
 
-Element.Data.action=AcciÛn:
+Element.Data.action=Acci√≥n:
 
 Element.Data.helpText=Texto de ayuda:
 
 Element.Data.helpTextID=Clave de texto de ayuda
 
-Element.TextData.valueExpr=ExpresiÛn de val&or:
+Element.TextData.valueExpr=Expresi√≥n de val&or:
 
-Element.DataSet.afterClose.toolTip=Llamado justo despuÈs de cerrar el conjunto de datos.
+Element.DataSet.afterClose.toolTip=Llamado justo despu√©s de cerrar el conjunto de datos.
 
-Element.DataSet.afterClose=DespuÈs de cerrar:
+Element.DataSet.afterClose=Despu√©s de cerrar:
 
-Element.DataSet.afterOpen.toolTip=Llamado justo despuÈs de abrir el conjunto de datos.
+Element.DataSet.afterOpen.toolTip=Llamado justo despu√©s de abrir el conjunto de datos.
 
-Element.DataSet.afterOpen=DespuÈs de abrir:
+Element.DataSet.afterOpen=Despu√©s de abrir:
 
 Element.DataSet.beforeClose.toolTip=Llamado justo antes de cerrar el conjunto de datos.
 
@@ -1743,7 +1743,7 @@ Element.DataSet.beforeOpen.toolTip=Llamado justo antes de abrir el conjunto de d
 
 Element.DataSet.beforeOpen=Antes de abrir:
 
-Element.DataSet.cachedMetaData=Metadatos en cachÈ:
+Element.DataSet.cachedMetaData=Metadatos en cach√©:
 
 Element.DataSet.columnHints=Sugerencias de columna:
 
@@ -1753,25 +1753,25 @@ Element.DataSet.dataSource=Fuente de datos:
 
 Element.DataSet.filter=Filtro:
 
-Element.DataSet.inputParameters=Par·metros de entrada:
+Element.DataSet.inputParameters=Par√°metros de entrada:
 
 Element.DataSet.onFetch.toolTip=Llamado justo antes de recuperar una fila de datos del conjunto de datos.
 
-Element.DataSet.onFetch=En recuperaciÛn:
+Element.DataSet.onFetch=En recuperaci√≥n:
 
-Element.DataSet.outputParameters=Par·metros de salida:
+Element.DataSet.outputParameters=Par√°metros de salida:
 
-Element.DataSet.paramBindings=Enlaces de par·metro:
+Element.DataSet.paramBindings=Enlaces de par√°metro:
 
 Element.DataSet.resultSet=Conjunto de resultados:
 
-Element.DataSource.afterClose.toolTip=Llamado justo despuÈs de cerrar la fuente de datos.
+Element.DataSource.afterClose.toolTip=Llamado justo despu√©s de cerrar la fuente de datos.
 
-Element.DataSource.afterClose=DespuÈs de cerrar:
+Element.DataSource.afterClose=Despu√©s de cerrar:
 
-Element.DataSource.afterOpen.toolTip=Llamado justo despuÈs de abrir la fuente de datos.
+Element.DataSource.afterOpen.toolTip=Llamado justo despu√©s de abrir la fuente de datos.
 
-Element.DataSource.afterOpen=DespuÈs de abrir:
+Element.DataSource.afterOpen=Despu√©s de abrir:
 
 Element.DataSource.beforeClose.toolTip=Llamado justo antes de cerrar la fuente de datos.
 
@@ -1781,9 +1781,9 @@ Element.DataSource.beforeOpen.toolTip=Llamado justo antes de abrir la fuente de 
 
 Element.DataSource.beforeOpen=Antes de abrir:
 
-Element.ExtendedItem.extension=nombre de extensiÛn:
+Element.ExtendedItem.extension=nombre de extensi√≥n:
 
-Element.ExtendedItem.extensionName=nombre de extensiÛn:
+Element.ExtendedItem.extensionName=nombre de extensi√≥n:
 
 Element.FreeForm.slot.reportItems=Elementos de informe:
 
@@ -1797,7 +1797,7 @@ Element.Grid.slot.columns=columnas
 
 Element.Grid.slot.row=fila:
 
-Element.Image.action=AcciÛn:
+Element.Image.action=Acci√≥n:
 
 Element.Image.altText=Texto al&ternativo:
 
@@ -1811,20 +1811,20 @@ Element.Image.imageName=Nombre de imagen:
 
 Element.Image.scale=escala:
 
-Element.Image.size=tamaÒo:
+Element.Image.size=tama√±o:
 
 Element.Image.source=Fuente:
 
-Element.Image.typeExpr=ExpresiÛn de tipo:
+Element.Image.typeExpr=Expresi√≥n de tipo:
 
 Element.Image.uri=uri:
-Element.Image.valueExpr=ExpresiÛn de valor:
+Element.Image.valueExpr=Expresi√≥n de valor:
 
 Element.JdbcDataSource.dataSource=Fuente de datos:
 
 Element.JdbcDataSource.driver=Controlador
 
-Element.JdbcDataSource.password=ContraseÒa:
+Element.JdbcDataSource.password=Contrase√±a:
 
 Element.JdbcDataSource.url=Url:
 Element.JdbcDataSource.userName=Nombre de usuario:
@@ -1835,7 +1835,7 @@ Element.JdbcSelectDataSet.getStatement=Obtener sentencia:
 
 Element.JdbcSelectDataSet.statement=Sentencia:
 
-Element.Label.action=AcciÛn:
+Element.Label.action=Acci√≥n:
 
 Element.Label.helpText=Texto de ayuda:
 
@@ -1845,24 +1845,24 @@ Element.Label.text=Texto:
 
 Element.Label.textID=&Clave de texto:
 
-Element.Line.orientation=orientaciÛn:
+Element.Line.orientation=orientaci√≥n:
 
 Element.List.slot.columnHeader=columnHeader:
 Element.List.slot.detail=detalle:
 
-Element.List.slot.footer=pie de p·gina:
+Element.List.slot.footer=pie de p√°gina:
 
 Element.List.slot.group=grupo:
 
 Element.List.slot.header=encabezado:
 
-Element.ListGroup.slot.footer=pie de p·gina:
+Element.ListGroup.slot.footer=pie de p√°gina:
 
 Element.ListGroup.slot.header=encabezado:
 
 Element.Listing.filter=Filtro:
 
-Element.Listing.onFinish.toolTip=Llamado despuÈs de leer la ˙ltima fila del conjunto de datos para este elemento, pero antes de crear la banda de pie de p·gina.
+Element.Listing.onFinish.toolTip=Llamado despu√©s de leer la √∫ltima fila del conjunto de datos para este elemento, pero antes de crear la banda de pie de p√°gina.
 
 Element.Listing.onFinish=En fin:
 
@@ -1870,11 +1870,11 @@ Element.Listing.onRow.toolTip=Llamado para cada fila recuperada del conjunto de 
 
 Element.Listing.onRow=En fila:
 
-Element.Listing.onStart.toolTip=Llamado despuÈs de abrir el conjunto de datos, pero antes de crear la banda de encabezado y antes de recuperar la primera fila del conjunto de datos para este elemento.
+Element.Listing.onStart.toolTip=Llamado despu√©s de abrir el conjunto de datos, pero antes de crear la banda de encabezado y antes de recuperar la primera fila del conjunto de datos para este elemento.
 
 Element.Listing.onStart=En inicio:
 
-Element.Listing.pageBreakInterval=Intervalo de salto de p·gin&a:
+Element.Listing.pageBreakInterval=Intervalo de salto de p√°gin&a:
 
 Element.Listing.sorting=Ordenar:
 
@@ -1886,9 +1886,9 @@ Element.ListingGroup.interval=Intervalo:
 
 Element.ListingGroup.intervalRange=Rango del intervalo:
 
-Element.ListingGroup.keyExpr=ExpresiÛn clave:
+Element.ListingGroup.keyExpr=Expresi√≥n clave:
 
-Element.ListingGroup.onFinish.toolTip=Llamado despuÈs de leer la ˙ltima fila del conjunto de datos para este elemento, pero antes de crear la banda de pie de p·gina.
+Element.ListingGroup.onFinish.toolTip=Llamado despu√©s de leer la √∫ltima fila del conjunto de datos para este elemento, pero antes de crear la banda de pie de p√°gina.
 
 Element.ListingGroup.onFinish=En fin:
 
@@ -1896,17 +1896,17 @@ Element.ListingGroup.onRow.toolTip=Llamado para cada fila recuperada del conjunt
 
 Element.ListingGroup.onRow=En fila:
 
-Element.ListingGroup.onStart.toolTip=Llamado despuÈs de abrir el conjunto de datos pero antes de crear la banda de encabezado y antes de recuperar la primera fila del conjunto de datos para este elemento.
+Element.ListingGroup.onStart.toolTip=Llamado despu√©s de abrir el conjunto de datos pero antes de crear la banda de encabezado y antes de recuperar la primera fila del conjunto de datos para este elemento.
 
 Element.ListingGroup.onStart=En inicio:
 
-Element.ListingGroup.pageBreakAfter=Salto de p·gina despuÈs:
+Element.ListingGroup.pageBreakAfter=Salto de p√°gina despu√©s:
 
-Element.ListingGroup.pageBreakBefore=Salto de p·gina antes:
+Element.ListingGroup.pageBreakBefore=Salto de p√°gina antes:
 
 Element.ListingGroup.sort=Ordenar:
 
-Element.ListingGroup.sortDirection=DirecciÛn de orden:
+Element.ListingGroup.sortDirection=Direcci√≥n de orden:
 
 Element.ListingGroup.toc=Tabla de contenido:
 
@@ -1914,7 +1914,7 @@ Element.MasterPage.bottomMargin=Margen in&ferior:
 
 Element.MasterPage.columns=Columnas:
 
-Element.MasterPage.columnSpacing=&SeparaciÛn:
+Element.MasterPage.columnSpacing=&Separaci√≥n:
 
 Element.MasterPage.height=Alt&ura:
 
@@ -1922,7 +1922,7 @@ Element.MasterPage.leftMargin=Margen &izquierdo:
 
 Element.MasterPage.margin=Margen:
 
-Element.MasterPage.orientation=O&rientaciÛn:
+Element.MasterPage.orientation=O&rientaci√≥n:
 
 Element.MasterPage.rightMargin=Margen &derecho:
 
@@ -1946,13 +1946,13 @@ Element.Module.configVars=Configurar variables:
 
 Element.Module.createdBy=C&reado por:
 
-Element.Module.description=D&escripciÛn:
+Element.Module.description=D&escripci√≥n:
 
-Element.Module.descriptionID=Clave de descripciÛn:
+Element.Module.descriptionID=Clave de descripci√≥n:
 
-Element.Module.helpGuide=GuÌa de ayuda:
+Element.Module.helpGuide=Gu√≠a de ayuda:
 
-Element.Module.images=Im·genes:
+Element.Module.images=Im√°genes:
 
 Element.Module.includeLibraries=Incluir bibliotecas:
 
@@ -1960,27 +1960,27 @@ Element.Module.includeResource=A&rchivo de recursos:
 
 Element.Module.includeScripts=Incluir scripts:
 
-Element.Module.initialize.toolTip=Llamado al iniciar la ejecuciÛn del informe.
+Element.Module.initialize.toolTip=Llamado al iniciar la ejecuci√≥n del informe.
 
 Element.Module.initialize=Inicializar:
 
 Element.LayoutModule.theme=T&emas
 
-Element.Module.title=T&Ìtulo:
+Element.Module.title=T&√≠tulo:
 
-Element.Module.titleID=Clave de tÌtulo:
+Element.Module.titleID=Clave de t√≠tulo:
 
 Element.Module.units=Unid&ades:
 
-Element.MultiLineData.contentTypeExpr=ExpresiÛn de tipo de contenido:
+Element.MultiLineData.contentTypeExpr=Expresi√≥n de tipo de contenido:
 
-Element.MultiLineData.valueExpr=ExpresiÛn de valor:
+Element.MultiLineData.valueExpr=Expresi√≥n de valor:
 
-Element.OdaDataSet.privateDriverDesignState=Estado de diseÒo de controlador privado:
+Element.OdaDataSet.privateDriverDesignState=Estado de dise√±o de controlador privado:
 
 Element.OdaDataSet.privateDriverProperties=Propiedades de controlador privadas:
 
-Element.OdaDataSet.publicDriverProperties=Propiedades de controlador p˙blicas:
+Element.OdaDataSet.publicDriverProperties=Propiedades de controlador p√∫blicas:
 
 Element.OdaDataSet.queryScript.toolTip=TBD:
 
@@ -1996,7 +1996,7 @@ Element.OdaDataSource.driverName=Nombre de controlador:
 
 Element.OdaDataSource.privateDriverProperties=Propiedades de controlador privadas:
 
-Element.OdaDataSource.publicDriverProperties=Propiedades de controlador p˙blicas:
+Element.OdaDataSource.publicDriverProperties=Propiedades de controlador p√∫blicas:
 
 Element.Parameter.helpText=Texto de ayuda:
 
@@ -2010,43 +2010,43 @@ Element.ParameterGroup.helpText=Texto de ayuda:
 
 Element.ParameterGroup.helpTextID=Clave de texto de a&yuda:
 
-Element.ParameterGroup.slot.parameters=Par·metros:
+Element.ParameterGroup.slot.parameters=Par√°metros:
 
 Element.ParameterGroup.startExpanded=Iniciar expandido:
 
 Element.ParameterGroup.promptTextID=Clave de texto de &solicitud:
 
-Element.ReportDesign.afterCloseDoc.toolTip=Llamado justo despuÈs de cerrar el documento de informe en la fase de generaciÛn.
+Element.ReportDesign.afterCloseDoc.toolTip=Llamado justo despu√©s de cerrar el documento de informe en la fase de generaci√≥n.
 
-Element.ReportDesign.layoutPreference=Preferencia de diseÒo:
+Element.ReportDesign.layoutPreference=Preferencia de dise√±o:
 
-Element.ReportDesign.afterCloseDoc=DespuÈs de cerrar documento:
+Element.ReportDesign.afterCloseDoc=Despu√©s de cerrar documento:
 
-Element.ReportDesign.afterFactory.toolTip=Llamado al final de la fase de generaciÛn, despuÈs de cerrar el documento de informes (si existe). …ste es el ˙ltimo mÈtodo llamado en la fase de generaciÛn.
+Element.ReportDesign.afterFactory.toolTip=Llamado al final de la fase de generaci√≥n, despu√©s de cerrar el documento de informes (si existe). √âste es el √∫ltimo m√©todo llamado en la fase de generaci√≥n.
 
-Element.ReportDesign.afterFactory=DespuÈs de f·brica:
+Element.ReportDesign.afterFactory=Despu√©s de f√°brica:
 
-Element.ReportDesign.afterOpenDoc.toolTip=Llamado justo despuÈs de abrir el documento de informe en la fase de generaciÛn.
+Element.ReportDesign.afterOpenDoc.toolTip=Llamado justo despu√©s de abrir el documento de informe en la fase de generaci√≥n.
 
-Element.ReportDesign.afterOpenDoc=DespuÈs de abrir documento:
+Element.ReportDesign.afterOpenDoc=Despu√©s de abrir documento:
 
-Element.ReportDesign.afterRender.toolTip=Llamado despuÈs de iniciar una acciÛn de hora de presentaciÛn.
+Element.ReportDesign.afterRender.toolTip=Llamado despu√©s de iniciar una acci√≥n de hora de presentaci√≥n.
 
-Element.ReportDesign.afterRender=DespuÈs de procesamiento:
+Element.ReportDesign.afterRender=Despu√©s de procesamiento:
 
-Element.ReportDesign.beforeCloseDoc.toolTip=Llamado justo antes de cerrar el documento de informe en la fase de generaciÛn.
+Element.ReportDesign.beforeCloseDoc.toolTip=Llamado justo antes de cerrar el documento de informe en la fase de generaci√≥n.
 
 Element.ReportDesign.beforeCloseDoc=Antes de cerrar documento:
 
-Element.ReportDesign.beforeFactory.toolTip=Llamado al inicio de la fase de generaciÛn, despuÈs del mÈtodo de inicializaciÛn ( ) y antes de abrir el documento de informe (si lo hay).
+Element.ReportDesign.beforeFactory.toolTip=Llamado al inicio de la fase de generaci√≥n, despu√©s del m√©todo de inicializaci√≥n ( ) y antes de abrir el documento de informe (si lo hay).
 
-Element.ReportDesign.beforeFactory=Antes de f·brica:
+Element.ReportDesign.beforeFactory=Antes de f√°brica:
 
-Element.ReportDesign.beforeOpenDoc.toolTip=Llamado justo antes de abrir el documento de informe en la fase de generaciÛn.
+Element.ReportDesign.beforeOpenDoc.toolTip=Llamado justo antes de abrir el documento de informe en la fase de generaci√≥n.
 
 Element.ReportDesign.beforeOpenDoc=Antes de abrir el documento:
 
-Element.ReportDesign.beforeRender.toolTip=Llamado antes de iniciar una acciÛn de hora de presentaciÛn.
+Element.ReportDesign.beforeRender.toolTip=Llamado antes de iniciar una acci√≥n de hora de presentaci√≥n.
 
 Element.ReportDesign.beforeRender=Antes de procesamiento:
 
@@ -2056,9 +2056,9 @@ Element.ReportDesign.eventHandlerClass=&Clase de controlador de evento:
 
 Element.ReportDesign.iconFile=Miniatura:
 
-Element.ReportDesign.refreshRate=Intervalo de actualizaciÛn:
+Element.ReportDesign.refreshRate=Intervalo de actualizaci√≥n:
 
-Element.ReportDesign.bidiLayoutOrientation=&OrientaciÛn del informe:
+Element.ReportDesign.bidiLayoutOrientation=&Orientaci√≥n del informe:
 
 Element.ReportElement.comments=&Comentarios:
 
@@ -2076,7 +2076,7 @@ Element.ReportElement.javaClass=Clase Java:
 
 Element.ReportElement.name=&Nombre:
 
-Element.ReportElement.propertyMask=M·scara de propiedad:
+Element.ReportElement.propertyMask=M√°scara de propiedad:
 
 Element.ReportElement.style=Est&ilo:
 
@@ -2086,15 +2086,15 @@ Element.ReportItem.dataSet=Conjunto de datos:
 
 Element.ReportItem.height=&Altura:
 
-Element.ReportItem.onCreate.toolTip=Ejecutado al crear el elemento en la fase de generaciÛn.
+Element.ReportItem.onCreate.toolTip=Ejecutado al crear el elemento en la fase de generaci√≥n.
 
 Element.ReportItem.onCreate=Al crear:
 
-Element.ReportItem.onRender.toolTip=Ejecutado al preparar el elemento para procesamiento en la fase de presentaciÛn.
+Element.ReportItem.onRender.toolTip=Ejecutado al preparar el elemento para procesamiento en la fase de presentaci√≥n.
 
 Element.ReportItem.onRender=Al procesar:
 
-Element.ReportItem.paramBindings=Enlaces de par·metro:
+Element.ReportItem.paramBindings=Enlaces de par√°metro:
 
 Element.ReportItem.toc=&Tabla de contenido:
 
@@ -2118,7 +2118,7 @@ Element.Row.slot.cell=celda:
 
 Element.Row.visibility=Visibilidad:
 
-Element.ScalarParameter.alignment=AlineaciÛn:
+Element.ScalarParameter.alignment=Alineaci√≥n:
 
 Element.ScalarParameter.allowBlank=Permitir en blanco:
 
@@ -2132,11 +2132,11 @@ Element.ScalarParameter.defaultValue=Valor predeterminado:
 
 Element.ScalarParameter.dynamicList.dataSetName=Nombre del conjunto de datos:
 
-Element.ScalarParameter.dynamicList.labelExpr=ExpresiÛn de etiqueta:
+Element.ScalarParameter.dynamicList.labelExpr=Expresi√≥n de etiqueta:
 
-Element.ScalarParameter.dynamicList.valueExpr=ExpresiÛn de valor:
+Element.ScalarParameter.dynamicList.valueExpr=Expresi√≥n de valor:
 
-Element.ScalarParameter.dynamicList=Lista din·mica:
+Element.ScalarParameter.dynamicList=Lista din√°mica:
 
 Element.ScalarParameter.format=Formato:
 
@@ -2144,9 +2144,9 @@ Element.ScalarParameter.selectionList.fixedOrder=Orden fijo:
 
 Element.ScalarParameter.selectionList.mustMatch=Debe coincidir:
 
-Element.ScalarParameter.selectionList.selectionList=Lista de selecciÛn:
+Element.ScalarParameter.selectionList.selectionList=Lista de selecci√≥n:
 
-Element.ScalarParameter.selectionList=Lista de selecciÛn:
+Element.ScalarParameter.selectionList=Lista de selecci√≥n:
 
 Element.ScalarParameter.promptTextID=Clave de texto de &solicitud:
 
@@ -2166,27 +2166,27 @@ Element.ScriptDataSet.open.toolTip=Abre el conjunto de datos.
 
 Element.ScriptDataSet.open=Abrir:
 
-Element.ScriptDataSource.close.toolTip=Suprime la conexiÛn con la fuente de datos.
+Element.ScriptDataSource.close.toolTip=Suprime la conexi√≥n con la fuente de datos.
 
 Element.ScriptDataSource.close=Cerrar:
 
-Element.ScriptDataSource.open.toolTip=Establece una conexiÛn con la fuente de datos.
+Element.ScriptDataSource.open.toolTip=Establece una conexi√≥n con la fuente de datos.
 
 Element.ScriptDataSource.open=Abrir:
 
-Element.SimpleMasterPage.floatingFooter=&Pie de p·gina flotante
+Element.SimpleMasterPage.floatingFooter=&Pie de p√°gina flotante
 
-Element.SimpleMasterPage.footerHeight=Al&tura de pie de p·gina:
+Element.SimpleMasterPage.footerHeight=Al&tura de pie de p√°gina:
 
 Element.SimpleMasterPage.headerHeight=&Altura de encabezado:
 
-Element.SimpleMasterPage.showFooterOnLast=Mostrar &pie de p·gina al final
+Element.SimpleMasterPage.showFooterOnLast=Mostrar &pie de p√°gina al final
 
 Element.SimpleMasterPage.showHeaderOnFirst=Mostrar e&ncabezado al principio
 
-Element.SimpleMasterPage.slot.pageFooter=Pie de p·gina:
+Element.SimpleMasterPage.slot.pageFooter=Pie de p√°gina:
 
-Element.SimpleMasterPage.slot.pageHeader=Encabezado de p·gina:
+Element.SimpleMasterPage.slot.pageHeader=Encabezado de p√°gina:
 
 Element.Style.background.attachment=Ar&chivo adjunto:
 
@@ -2194,9 +2194,9 @@ Element.Style.background.color=&Color de fondo:
 
 Element.Style.background.image=Imagen de &fondo:
 
-Element.Style.background.positionX=PosiciÛn &horizontal:
+Element.Style.background.positionX=Posici√≥n &horizontal:
 
-Element.Style.background.positionY=PosiciÛn &vertical:
+Element.Style.background.positionY=Posici√≥n &vertical:
 
 Element.Style.background.repeat=&Repetir:
 
@@ -2252,13 +2252,13 @@ Element.Style.display=Vi&sualizar:
 
 Element.Style.font.family=&Fuente:
 
-Element.Style.font.size=TamaÒ&o:
+Element.Style.font.size=Tama√±&o:
 
 Element.Style.font.style=E&stilo:
 
 Element.Style.font.textLineThrough=&Tachado
 
-Element.Style.font.textOverline=&LÌnea superior
+Element.Style.font.textOverline=&L√≠nea superior
 
 Element.Style.font.textUnderline=&Subrayado
 
@@ -2270,9 +2270,9 @@ Element.Style.font=&Fuente:
 
 Element.Style.format.dateTime=Fecha/hora:
 
-Element.Style.format.number.align=AlineaciÛn de n˙mero de formato:
+Element.Style.format.number.align=Alineaci√≥n de n√∫mero de formato:
 
-Element.Style.format.number=N˙mero:
+Element.Style.format.number=N√∫mero:
 
 Element.Style.format.string=String:
 
@@ -2280,15 +2280,15 @@ Element.Style.format=Formato:
 
 Element.Style.highlight.rules=Resaltar reglas:
 
-Element.Style.highlight.testExpr=Resaltar expresiÛn de prueba:
+Element.Style.highlight.testExpr=Resaltar expresi√≥n de prueba:
 
-Element.Style.letterSpacing=SeparaciÛn de &letras:
+Element.Style.letterSpacing=Separaci√≥n de &letras:
 
-Element.Style.lineHeight=Altura de lÌ&nea:
+Element.Style.lineHeight=Altura de l√≠&nea:
 
 Element.Style.map.rules=Asignar reglas:
 
-Element.Style.map.testExpr=Asignar expresiÛn de prueba:
+Element.Style.map.testExpr=Asignar expresi√≥n de prueba:
 
 Element.Style.margin.bottom=&Inferior:
 
@@ -2298,9 +2298,9 @@ Element.Style.margin.right=De&recha:
 
 Element.Style.margin.top=Su&perior:
 
-Element.Style.masterPage=&P·gina maestra:
+Element.Style.masterPage=&P√°gina maestra:
 
-Element.Style.orphans=&HuÈrfanas:
+Element.Style.orphans=&Hu√©rfanas:
 
 Element.Style.padding.bottom=&Inferior:
 
@@ -2312,41 +2312,41 @@ Element.Style.padding.top=&Superior:
 
 Element.Style.padding=Relleno:
 
-Element.Style.pageBreakAfter=&DespuÈs:
+Element.Style.pageBreakAfter=&Despu√©s:
 
 Element.Style.pageBreakBefore=&Antes:
 
 Element.Style.pageBreakInside=&Interior:
 
-Element.Style.section=SecciÛn:
+Element.Style.section=Secci√≥n:
 
 Element.Style.showIfBlank=Mostrar si en &blanco
 
-Element.Style.text.align=A&lineaciÛn de texto:
+Element.Style.text.align=A&lineaci√≥n de texto:
 
 Element.Style.width=&Anchura:
 
 Element.Style.height=A&ltura:
 #bidi_hcg
-Element.Style.text.direction=DirecciÛn &bidimensional del texto:
+Element.Style.text.direction=Direcci√≥n &bidimensional del texto:
 
 Element.Style.text.indent=Sangrado de text&o:
 
-Element.Style.text.transform=Transfo&rmaciÛn de texto:
+Element.Style.text.transform=Transfo&rmaci√≥n de texto:
 
 Element.Style.text=Texto:
 
-Element.Style.verticalAlign=&AlineaciÛn vertical:
+Element.Style.verticalAlign=&Alineaci√≥n vertical:
 
 Element.Style.whiteSpace=Espac&io en blanco:
 
 Element.Style.widows=Viuda&s:
 
-Element.Style.wordSpacing=&SeparaciÛn de palabras:
+Element.Style.wordSpacing=&Separaci√≥n de palabras:
 
-Element.Table.caption=TÌtulo:
+Element.Table.caption=T√≠tulo:
 
-Element.Table.captionID=Clave de tÌtulo:
+Element.Table.captionID=Clave de t√≠tulo:
 
 Element.Table.repeatHeader=Repetir encabezado:
 
@@ -2355,13 +2355,13 @@ Element.Table.slot.columns=columnas
 
 Element.Table.slot.detail=detalle:
 
-Element.Table.slot.footer=pie de p·gina:
+Element.Table.slot.footer=pie de p√°gina:
 
 Element.Table.slot.group=grupo:
 
 Element.Table.slot.header=encabezado:
 
-Element.TableGroup.slot.footer=pie de p·gina:
+Element.TableGroup.slot.footer=pie de p√°gina:
 
 Element.TableGroup.slot.header=encabezado:
 
@@ -2395,7 +2395,7 @@ ElementIdDescriptorProvider.Display.Element.ID=&ID del elemento:
 
 ###########################################################
 #EmptyEditPart properties
-EmptyEditPart.Msg.EmptyLib=La librerÌa no contiene elementos visuales. Para aÒadir elementos visuales, arrastre el elemento desde la paleta a la vista de contorno de la librerÌa o utilice el men˙ de inserciÛn de la vista de contorno.
+EmptyEditPart.Msg.EmptyLib=La librer√≠a no contiene elementos visuales. Para a√±adir elementos visuales, arrastre el elemento desde la paleta a la vista de contorno de la librer√≠a o utilice el men√∫ de inserci√≥n de la vista de contorno.
 
 EmptyEditPart.Msg.NonVisual=Se ha seleccionado un elemento no visual.
 
@@ -2403,17 +2403,17 @@ EmptyEditPart.Msg.NonVisual=Se ha seleccionado un elemento no visual.
 #error properties
 error.duplicateName=El nuevo nombre duplica un nombre existente en el mismo espacio de nombre.
 
-error.DataSource.emptyName=El campo nombre de la fuente de datos no puede estar vacÌo.
+error.DataSource.emptyName=El campo nombre de la fuente de datos no puede estar vac√≠o.
 
-error.DataSet.emptyName=El campo nombre del conjunto de datos no puede estar vacÌo.
+error.DataSet.emptyName=El campo nombre del conjunto de datos no puede estar vac√≠o.
 
-error.OutputColumn.emptyName=El campo nombre de la columna de salida no puede estar vacÌo.
+error.OutputColumn.emptyName=El campo nombre de la columna de salida no puede estar vac√≠o.
 
-error.invalidName=El nombre "{0}" no es v·lido, ya que contiene uno de los siguientes caracteres ".", "/", "\\", "!", ";", "," .
+error.invalidName=El nombre "{0}" no es v√°lido, ya que contiene uno de los siguientes caracteres ".", "/", "\\", "!", ";", "," .
 
 ###########################################################
 #ExceptionHandler properties
-ExceptionHandler.Label.ErrorCode=CÛdigo de error
+ExceptionHandler.Label.ErrorCode=C√≥digo de error
 
 ExceptionHandler.Label.ErrorMessage=Mensaje de error
 
@@ -2423,13 +2423,13 @@ ExceptionHandler.Label.PluginName=Nombre de complemento:
 
 ExceptionHandler.Label.PluginProvider=Proveedor de complemento:
 
-ExceptionHandler.Label.PluginVersion=VersiÛn:
+ExceptionHandler.Label.PluginVersion=Versi√≥n:
 
 ExceptionHandler.Label.UnknownPlugin=Complemento desconocido
 
-ExceptionHandler.Meesage.UnexceptedExceptionOccur=Se ha producido una excepciÛn interna inesperada. Vea el registro para obtener m·s informaciÛn.
+ExceptionHandler.Meesage.UnexceptedExceptionOccur=Se ha producido una excepci√≥n interna inesperada. Vea el registro para obtener m√°s informaci√≥n.
 
-ExceptionHandler.Message.BirtExceptionOccur=Se ha producido una excepciÛn BIRT.
+ExceptionHandler.Message.BirtExceptionOccur=Se ha producido una excepci√≥n BIRT.
 
 ExceptionHandler.Message.CausedBy=Causado por {0}.
 
@@ -2437,23 +2437,23 @@ ExceptionHandler.Message.FileNotFound=No se ha encontrado el archivo:
 
 ExceptionHandler.Message.OutOfMemory=No hay suficiente memoria.
 
-ExceptionHandler.Message.PartInitError=Error en la inicializaciÛn parcial.
+ExceptionHandler.Message.PartInitError=Error en la inicializaci√≥n parcial.
 
-ExceptionHandler.Message.SemanticFail=Se ha producido un error en la comprobaciÛn.
+ExceptionHandler.Message.SemanticFail=Se ha producido un error en la comprobaci√≥n.
 
-ExceptionHandler.Message.UnexceptedExceptionOccur=Se ha producido una excepciÛn interna. Consulte el archivo de registro para obtener m·s informaciÛn.
+ExceptionHandler.Message.UnexceptedExceptionOccur=Se ha producido una excepci√≥n interna. Consulte el archivo de registro para obtener m√°s informaci√≥n.
 
-ExceptionHandler.Message.UnknownHost=AnfitriÛn desconocido:
+ExceptionHandler.Message.UnknownHost=Anfitri√≥n desconocido:
 
 ExceptionHandler.Title.Error=Error
 
 ExceptionHandler.Title.FileNotFound=No se ha encontrado el archivo.
 
-ExceptionHandler.Title.PartInitError=Error en la inicializaciÛn parcial.
+ExceptionHandler.Title.PartInitError=Error en la inicializaci√≥n parcial.
 
-ExceptionHandler.Title.UnknownHost=AnfitriÛn desconocido
+ExceptionHandler.Title.UnknownHost=Anfitri√≥n desconocido
 
-ExceptionHandler.Meesage.ExceptionOccur=Se ha producido una excepciÛn inesperada. Vea el registro para obtener m·s detalles.
+ExceptionHandler.Meesage.ExceptionOccur=Se ha producido una excepci√≥n inesperada. Vea el registro para obtener m√°s detalles.
 
 ###########################################################
 #ExportAction properties
@@ -2461,41 +2461,41 @@ ExportAction.actionMsg.export=Exportar
 
 ###########################################################
 #ExportToLibraryAction properties
-ExportToLibraryAction.action.text=E&xportar a librerÌa...
+ExportToLibraryAction.action.text=E&xportar a librer√≠a...
 
 ExportToLibraryAction.Button.Cancel=Cancelar
 
 ExportToLibraryAction.Button.No=No
 
-ExportToLibraryAction.Button.Yes=SÌ
+ExportToLibraryAction.Button.Yes=S√≠
 
-ExportToLibraryAction.Dialog.Message=\nLa librerÌa de destino debe tener el mismo elemento de diseÒo. øDesea sobrescribirlo?
+ExportToLibraryAction.Dialog.Message=\nLa librer√≠a de destino debe tener el mismo elemento de dise√±o. ¬øDesea sobrescribirlo?
 
 ExportToLibraryAction.Dialog.Title=Exportar elemento
 
-ExportToLibraryAction.Message.RememberDecision=&Recordar mi decisiÛn
+ExportToLibraryAction.Message.RememberDecision=&Recordar mi decisi√≥n
 
 
 ###########################################################
 #ExportElementToLibraryAction properties
-ExportElementToLibraryAction.action.text=E&xportar a librerÌa...
+ExportElementToLibraryAction.action.text=E&xportar a librer√≠a...
 
-ExportToCPSouceAction.action.text=Externalizar a p&erfil de conexiÛn...
+ExportToCPSouceAction.action.text=Externalizar a p&erfil de conexi√≥n...
 
 
 ###########################################################
 #LibraryExplorerTreeViewPage tooltips
-LibraryElementsToolHandleExtends_message=El elemento contiene enlaces locales sin conjunto de datos explÌcito especificado, lo que puede provocar un bajo rendimiento en el tiempo de ejecuciÛn. øDesea mover los enlaces locales al principal para disponer de un mejor rendimiento?
+LibraryElementsToolHandleExtends_message=El elemento contiene enlaces locales sin conjunto de datos expl√≠cito especificado, lo que puede provocar un bajo rendimiento en el tiempo de ejecuci√≥n. ¬øDesea mover los enlaces locales al principal para disponer de un mejor rendimiento?
 
-LibraryElementsToolHandleExtends_question=øMover los enlaces locales al principal para disponer de un mejor rendimiento?
+LibraryElementsToolHandleExtends_question=¬øMover los enlaces locales al principal para disponer de un mejor rendimiento?
 
-LibraryElementsToolHandleExtends_toggle=&Recordar mi decisiÛn
+LibraryElementsToolHandleExtends_toggle=&Recordar mi decisi√≥n
 
 LibraryExplorerTreeViewPage.toolTips.DragAndDropOutline=Arrastrar y colocar en la vista de contorno
 
-LibraryExplorerTreeViewPage.toolTips.DragAndDropLayout=Arrastrar y colocar en el editor de diseÒos
+LibraryExplorerTreeViewPage.toolTips.DragAndDropLayout=Arrastrar y colocar en el editor de dise√±os
 
-LibraryExplorerTreeViewPage.toolTips.DragAndDropToOutlineORLayout=Arrastrar y colocar en la vista de contorno o en el editor de diseÒos
+LibraryExplorerTreeViewPage.toolTips.DragAndDropToOutlineORLayout=Arrastrar y colocar en la vista de contorno o en el editor de dise√±os
 
 ###########################################################
 #ExpressionBuidler properties
@@ -2509,7 +2509,7 @@ ExpressionBuilder.toolTipText.Button=Abrir el compilador de expresiones
 
 ###########################################################
 #ExpressionBuilder properties
-ExpressionBuilder.Label.Category=&CategorÌa:
+ExpressionBuilder.Label.Category=&Categor√≠a:
 
 ExpressionBuilder.Label.Functions=Doble clic para &insertar:
 
@@ -2517,21 +2517,21 @@ ExpressionBuilder.Label.Hint=Sugerencia
 
 ExpressionBuilder.Label.Operators=Operadores:
 
-ExpressionBuilder.Label.SubCategory=&SubcategorÌa:
+ExpressionBuilder.Label.SubCategory=&Subcategor√≠a:
 
-ExpressionBuilder.Message.Prompt=Introduzca una expresiÛn en el campo ExpresiÛn. Busque la lista de objetos disponibles y haga doble clic para copiarla en la expresiÛn.
+ExpressionBuilder.Message.Prompt=Introduzca una expresi√≥n en el campo Expresi√≥n. Busque la lista de objetos disponibles y haga doble clic para copiarla en la expresi√≥n.
 
 ExpressionBuilder.ToolTip=Abrir el compilador de expresiones
 
 ExpressionBuilder.toolTipText.validate=Validar
 
-ExpressionBuilder.Script.NoError=No se ha encontrado ning˙n error de sintaxis en el script actual.
+ExpressionBuilder.Script.NoError=No se ha encontrado ning√∫n error de sintaxis en el script actual.
 
 ExpressionBuilder.Script.Error=[Fila:{0}, Columna:{1}] {2}
 
 ExpressionBuilder.Script.Warning=Advertencia
 
-ExpressionBuilder.Script.Confirm=\nSe ha encontrado un error de sintaxis en el script actual. øDesea guardarlo?
+ExpressionBuilder.Script.Confirm=\nSe ha encontrado un error de sintaxis en el script actual. ¬øDesea guardarlo?
 
 ExpressionBuilder.toolTipText.calendar=Calendario
 
@@ -2559,7 +2559,7 @@ ExpressionProvider.Category.ColumnBinding=Enlaces de columna disponibles
 
 ExpressionProvider.Category.Operators=Operadores
 
-ExpressionProvider.Category.Parameters=Par·metros de informe
+ExpressionProvider.Category.Parameters=Par√°metros de informe
 
 ExpressionProvider.Category.DataCubes=Cubo de datos actual
 
@@ -2567,9 +2567,9 @@ ExpressionProvider.Category.Variables=Variables
 
 ExpressionProvider.Label.All=---Todos---
 
-ExpressionProvider.Operator.Add=AÒade dos valores juntos.
+ExpressionProvider.Operator.Add=A√±ade dos valores juntos.
 
-ExpressionProvider.Operator.AddTo=Acceso directo para aÒadir al valor actual.
+ExpressionProvider.Operator.AddTo=Acceso directo para a√±adir al valor actual.
 
 ExpressionProvider.Operator.And=Consulta dos expresiones y devuelve un valor true si ambas expresiones son verdaderas.
 
@@ -2579,7 +2579,7 @@ ExpressionProvider.Operator.BitAnd=A & B: Devuelve el resultado del operador de 
 
 ExpressionProvider.Operator.BitOr=A | B: Devuelve el resultado del operador de bits OR de A y B.
 
-ExpressionProvider.Operator.Dec=Disminuye el valor y, a continuaciÛn, devuelve el resultado.
+ExpressionProvider.Operator.Dec=Disminuye el valor y, a continuaci√≥n, devuelve el resultado.
 
 ExpressionProvider.Operator.DividingFrom=Acceso directo para dividir el valor actual.
 
@@ -2593,11 +2593,11 @@ ExpressionProvider.Operator.Greater=A > B: devuelve un valor True si A es mayor 
 
 ExpressionProvider.Operator.GreaterEquals=A >= B: devuelve un valor True si A es mayor o igual que B.
 
-ExpressionProvider.Operator.Inc=Aumenta el valor y, a continuaciÛn, devuelve el resultado.
+ExpressionProvider.Operator.Inc=Aumenta el valor y, a continuaci√≥n, devuelve el resultado.
 
-ExpressionProvider.Operator.LeftBracket=ParÈntesis izquierdo
+ExpressionProvider.Operator.LeftBracket=Par√©ntesis izquierdo
 
-ExpressionProvider.Operator.RightBracket=ParÈntesis derecho
+ExpressionProvider.Operator.RightBracket=Par√©ntesis derecho
 
 ExpressionProvider.Operator.Less=A < B: devuelve un valor True si A es menor que B.
 
@@ -2613,39 +2613,39 @@ ExpressionProvider.Operator.NotEqual=A <> B: devuelve un valor True si A no es i
 
 ExpressionProvider.Operator.Or=Consulta dos expresiones y devuelve un valor true si una de las expresiones es verdadera.
 
-ExpressionProvider.Operator.ReturnDec=Devuelve el valor y, a continuaciÛn, disminuye el valor.
+ExpressionProvider.Operator.ReturnDec=Devuelve el valor y, a continuaci√≥n, disminuye el valor.
 
-ExpressionProvider.Operator.ReturnInc=Devuelve el valor y, a continuaciÛn, aumenta el valor.
+ExpressionProvider.Operator.ReturnInc=Devuelve el valor y, a continuaci√≥n, aumenta el valor.
 
 ExpressionProvider.Operator.Sub=Resta un valor de otro.
 
 ExpressionProvider.Operator.SubFrom=Acceso directo para restar del valor actual.
 
-ExpressionProvider.Operators.Assignment=AsignaciÛn
+ExpressionProvider.Operators.Assignment=Asignaci√≥n
 
-ExpressionProvider.Operators.Comparison=ComparaciÛn
+ExpressionProvider.Operators.Comparison=Comparaci√≥n
 
 ExpressionProvider.Operators.Computational=Computacional
 
-ExpressionProvider.Operators.Logical=LÛgica
+ExpressionProvider.Operators.Logical=L√≥gica
 
 ExpressionProvider.EditBindings=Editar enlaces...
 
 ExpressionProvider.Expression.RowNumName=RowNum
 
-ExpressionProvider.Expression.RowNumTooltip=ExpresiÛn que devuelve el n˙mero actual de filas.
+ExpressionProvider.Expression.RowNumTooltip=Expresi√≥n que devuelve el n√∫mero actual de filas.
 
 ExpressionProvider.Variables=Variables
 
 ExpressionProvider.Variables.Report=Variables de informe
 
-ExpressionProvider.Variables.Page=Variables de p·gina
+ExpressionProvider.Variables.Page=Variables de p√°gina
 
 ExpressionTreeSupport.Category.Global=Global
 
 ###########################################################
 #ExpressionValueCellEditor properties
-ExpressionValueCellEditor.buildExpressionAction=<Compilar expresiÛn...>
+ExpressionValueCellEditor.buildExpressionAction=<Compilar expresi√≥n...>
 
 ExpressionValueCellEditor.selectValueAction=<Seleccionar valor...>
 
@@ -2671,13 +2671,13 @@ FilterHandleProvider.Modify.SaveValues=Guardar valores
 
 ###########################################################
 #filters properties
-filters.empty.columnName=La expresiÛn no puede estar vacÌa.
+filters.empty.columnName=La expresi√≥n no puede estar vac√≠a.
 
-filters.error.title=Entrada no v·lida.
+filters.error.title=Entrada no v√°lida.
 
 filters.operators.any=es cualquiera
 
-filters.operators.between=Est· entre
+filters.operators.between=Est√° entre
 
 filters.operators.bottomN=(n) elementos inferiores
 
@@ -2697,7 +2697,7 @@ filters.operators.lessThanEqual=es menor o igual que
 
 filters.operators.like=es como
 
-filters.operators.notBetween=no est· entre
+filters.operators.notBetween=no est√° entre
 
 filters.operators.notEqual=no es igual que
 
@@ -2711,7 +2711,7 @@ filters.operators.topPercent=es (n) porcentaje superior
 
 filters.operators.true=es True
 
-filters.prompt.new=<Nuevo filtro aquÌ...>
+filters.prompt.new=<Nuevo filtro aqu√≠...>
 
 ###########################################################
 #FixTableLayoutCalculator properties
@@ -2725,7 +2725,7 @@ FlowMoveChildCommand.transLabel.moveElement=Mover elemento
 #FontPreferencePage properties
 FontPreferencePage.displayname.Title=Fuente
 
-FontPreferencePage.label.fontDecoration=DecoraciÛn:
+FontPreferencePage.label.fontDecoration=Decoraci√≥n:
 
 FontPreferencePage.text.Preview=Vista previa de muestra
 
@@ -2733,11 +2733,11 @@ FontPreferencePage.text.PreviewContent=AaBbYyZz
 
 ###########################################################
 #FontSizeBuilder properties
-FontSizeBuilder.displayname.Auto=Autom·tico
+FontSizeBuilder.displayname.Auto=Autom√°tico
 
 ###########################################################
 #FormatBuilder properties
-FormatAdapter.DisplayName.None=Autom·tico
+FormatAdapter.DisplayName.None=Autom√°tico
 
 FormatBuilder.Title=Compilador de formatos
 
@@ -2747,15 +2747,15 @@ FormatDateTimeAttributePage.Trans.SetDateTimeFormat = Establezca un formato de f
 
 ###########################################################
 #FormatDateTimePage properties
-FormatDateTimePage.label.custom.settings.label=Formatos de ejem&plo (haga clic en uno para copiarlo y, a continuaciÛn, modifÌquelo):
+FormatDateTimePage.label.custom.settings.label=Formatos de ejem&plo (haga clic en uno para copiarlo y, a continuaci√≥n, modif√≠quelo):
 
 FormatDateTimePage.label.custom.settings=Ajustes personalizados
 
-FormatDateTimePage.label.format.code=CÛdi&go de formato:
+FormatDateTimePage.label.format.code=C√≥di&go de formato:
 
 FormatDateTimePage.label.format.page=&Formato como:
 
-FormatDateTimePage.label.format.locale=&ConfiguraciÛn regional:
+FormatDateTimePage.label.format.locale=&Configuraci√≥n regional:
 
 FormatDateTimePage.label.general.preview.group=Vista previa con formato
 
@@ -2776,11 +2776,11 @@ FormatDateTimePage.label.table.column.format.name=Formato de ejemplo
 
 FormatDateTimePage.label.table.column.format.result=Resultado de formato de ejemplo
 
-FormatDateTimePage.label.table.column.format.code=CÛdigo de ejemplo
+FormatDateTimePage.label.table.column.format.code=C√≥digo de ejemplo
 
-FormatDateTimePage.preview.invalid.dateTime=Fecha/hora no v·lida para vista previa
+FormatDateTimePage.preview.invalid.dateTime=Fecha/hora no v√°lida para vista previa
 
-FormatDateTimePage.preview.invalid.formatCode=CÛdigo de formato no v·lido
+FormatDateTimePage.preview.invalid.formatCode=C√≥digo de formato no v√°lido
 
 ###########################################################
 #FormatDateTimePreferencePage properties
@@ -2788,11 +2788,11 @@ FormatDateTimePreferencePage.formatDateTime.title=Formato de fecha/hora
 
 ###########################################################
 #FormatNumberAttributePage properties
-FormatNumberAttributePage.Trans.SetNumberFormat = Establezca un formato de n˙mero.
+FormatNumberAttributePage.Trans.SetNumberFormat = Establezca un formato de n√∫mero.
 
 ###########################################################
 #FormatNumberPage properties
-FormatNumberPage.currency.symbol.none=Sin sÌmbolo
+FormatNumberPage.currency.symbol.none=Sin s√≠mbolo
 
 FormatNumberPage.label.currency.settings=Ajustes de moneda
 
@@ -2800,35 +2800,35 @@ FormatNumberPage.label.custom.preview.group=Vista previa
 
 FormatNumberPage.label.custom.preview.label=Vista previa con formato:
 
-FormatNumberPage.label.custom.settings.lable=Formatos de ejem&plo (haga clic en uno para copiarlo y, a continuaciÛn, modifÌquelo):
+FormatNumberPage.label.custom.settings.lable=Formatos de ejem&plo (haga clic en uno para copiarlo y, a continuaci√≥n, modif√≠quelo):
 
 FormatNumberPage.label.custom.settings=Ajustes personalizados
 
-FormatNumberPage.label.decimal.places=N˙&mero de decimales:
+FormatNumberPage.label.decimal.places=N√∫&mero de decimales:
 
 FormatNumberPage.label.rounding.mode=&Modo de redondeo:
 
 FormatNumberPage.label.fixed.settings=Ajustes fijos
 
-FormatNumberPage.label.format.code=CÛdi&go de formato:
+FormatNumberPage.label.format.code=C√≥di&go de formato:
 
 FormatNumberPage.label.format.number.page=&Formato como:
 
-FormatNumberPage.label.format.number.locale=&ConfiguraciÛn regional:
+FormatNumberPage.label.format.number.locale=&Configuraci√≥n regional:
 
 FormatNumberPage.label.general.preview.group=Vista previa con formato
 
-FormatNumberPage.label.negative.numbers=&N˙meros negativos:
+FormatNumberPage.label.negative.numbers=&N√∫meros negativos:
 
 FormatNumberPage.label.percent.settings=Ajustes de porcentaje
 
-FormatNumberPage.label.preview.number=N˙mero para vis&ta previa:
+FormatNumberPage.label.preview.number=N√∫mero para vis&ta previa:
 
-FormatNumberPage.label.scientific.settings=Ajustes cientÌficos
+FormatNumberPage.label.scientific.settings=Ajustes cient√≠ficos
 
-FormatNumberPage.label.symbol.position=Pos&iciÛn del sÌmbolo:
+FormatNumberPage.label.symbol.position=Pos&ici√≥n del s√≠mbolo:
 
-FormatNumberPage.label.symbol=SÌm&bolo:
+FormatNumberPage.label.symbol=S√≠m&bolo:
 
 FormatNumberPage.label.table.column.format.code=Formato de ejemplo
 
@@ -2838,13 +2838,13 @@ FormatNumberPage.label.use1000sSeparator=&Usar separador de millares
 
 FormatNumberPage.label.useLeadingZero=Usar cero inicial
 
-FormatNumberPage.label.useSymbolSpace=&Usar sÌmbolo de espacio
+FormatNumberPage.label.useSymbolSpace=&Usar s√≠mbolo de espacio
 
-FormatNumberPage.preview.invalidFormatCode=CÛdigo de formato no v·lido
+FormatNumberPage.preview.invalidFormatCode=C√≥digo de formato no v√°lido
 
-FormatNumberPage.preview.invalidNumber=N˙mero no v·lido para vista previa
+FormatNumberPage.preview.invalidNumber=N√∫mero no v√°lido para vista previa
 
-FormatNumberPage.symblePos.after=DespuÈs
+FormatNumberPage.symblePos.after=Despu√©s
 
 FormatNumberPage.symblePos.before=Antes
 
@@ -2858,15 +2858,15 @@ FormatNumberPage.roundingMode.up=Arriba
 
 FormatNumberPage.roundingMode.down=Abajo
 
-FormatNumberPage.roundingMode.ceiling=M·ximo
+FormatNumberPage.roundingMode.ceiling=M√°ximo
 
-FormatNumberPage.roundingMode.floor=MÌnimo
+FormatNumberPage.roundingMode.floor=M√≠nimo
 
 FormatNumberPage.roundingMode.unnecessary=Innecesario
 
 ###########################################################
 #FormatNumberPreferencePage properties
-FormatNumberPreferencePage.formatNumber.title=Formato de n˙mero
+FormatNumberPreferencePage.formatNumber.title=Formato de n√∫mero
 
 ###########################################################
 #FormatPreferencePage properties
@@ -2882,15 +2882,15 @@ FormatStringPage.default.preview.text=Mi string
 
 FormatStringPage.label.custom.preview.label=Vista previa con formato:
 
-FormatStringPage.label.custom.settings.label=Formatos de ejem&plo (haga clic en uno para copiarlo y, a continuaciÛn, modifÌquelo):
+FormatStringPage.label.custom.settings.label=Formatos de ejem&plo (haga clic en uno para copiarlo y, a continuaci√≥n, modif√≠quelo):
 
 FormatStringPage.label.customSettings=Ajustes personalizados
 
-FormatStringPage.label.format.code=CÛdi&go de formato:
+FormatStringPage.label.format.code=C√≥di&go de formato:
 
 FormatStringPage.label.formatStringAs=&Formato como:
 
-FormatStringPage.label.locale=&ConfiguraciÛn regional:
+FormatStringPage.label.locale=&Configuraci√≥n regional:
 
 FormatStringPage.label.preview.group=Vista previa
 
@@ -2902,7 +2902,7 @@ FormatStringPage.label.table.collumn.exampleFormatCode=Formato de ejemplo
 
 FormatStringPage.label.table.collumn.exampleFormatResult=Resultado de formato de ejemplo
 
-FormatStringPage.previewText.invalidFormatCode=CÛdigo de formato no v·lido
+FormatStringPage.previewText.invalidFormatCode=C√≥digo de formato no v√°lido
 
 ###########################################################
 #FormatStringPreferencePage properties
@@ -2910,19 +2910,19 @@ FormatStringPreferencePage.formatString.title=Formato de string
 
 ###########################################################
 #FormPage properties
-FormPage.Button.Add=&AÒadir
+FormPage.Button.Add=&A√±adir
 
-FormPage.Button.AddWithDialog=&AÒadir...
+FormPage.Button.AddWithDialog=&A√±adir...
 
-FormPage.Button.AddWithDialog.PROP=&AÒadir archivo...
+FormPage.Button.AddWithDialog.PROP=&A√±adir archivo...
 
-FormPage.Button.AddWithDialog.JAR=AÒadir archi&vo...
+FormPage.Button.AddWithDialog.JAR=A√±adir archi&vo...
 
-FormPage.Button.AddWithDialog.JS=AÒadir archivo&...
+FormPage.Button.AddWithDialog.JS=A√±adir archivo&...
 
-FormPage.Button.Add.AggregateOn=AÒadir a&gregaciÛn
+FormPage.Button.Add.AggregateOn=A√±adir a&gregaci√≥n
 
-FormPage.Button.AddWithDialog.AggregateOn=AÒadir a&gregaciÛn...
+FormPage.Button.AddWithDialog.AggregateOn=A√±adir a&gregaci√≥n...
 
 FormPage.Button.Delete=&Quitar
 
@@ -2961,9 +2961,9 @@ FormPage.toolTipText.Down=Mover hacia abajo
 #GeneralInsertMenuAction properties
 GeneralInsertMenuAction.text.Data=&Datos
 
-GeneralInsertMenuAction.text.DynamicText=Tex&to din·mico
+GeneralInsertMenuAction.text.DynamicText=Tex&to din√°mico
 
-GeneralInsertMenuAction.text.Grid=&CuadrÌcula
+GeneralInsertMenuAction.text.Grid=&Cuadr√≠cula
 
 GeneralInsertMenuAction.text.Image=&Imagen
 
@@ -2981,19 +2981,19 @@ GeneralPreferencePage.errorMsg.duplicate.styleName=Nombre de estilo duplicado.
 
 GeneralPreferencePage.label.styleNameDuplicate=El nombre de estilo "{0}" ya existe, elija un nombre diferente
 
-GeneralPreferencePage.label.styleNamePredefind=El nombre de estilo "{0}" est· predefinido, elija un nombre diferente
+GeneralPreferencePage.label.styleNamePredefind=El nombre de estilo "{0}" est√° predefinido, elija un nombre diferente
 
 GeneralPreferencePage.label.customStyle=&Estilo personalizado
 
 GeneralPreferencePage.Label.CustomStyle=Nombre:
 
-GeneralPreferencePage.Label.Note=NOTA: * Aplique las propiedades de estilo a un tipo de elemento de informe especÌfico.
+GeneralPreferencePage.Label.Note=NOTA: * Aplique las propiedades de estilo a un tipo de elemento de informe espec√≠fico.
 
 GeneralPreferencePage.Label.PreDefinedStyle=Seleccionar elemento de informe:
 
 GeneralPreferencePage.label.predefinedStyle=Estilo &predefinido *
 
-GeneralPreferencePage.label.nameEmpty=No se permite que el nombre de estilo estÈ vacÌo.
+GeneralPreferencePage.label.nameEmpty=No se permite que el nombre de estilo est√© vac√≠o.
 
 ###########################################################
 #GridEditPart properties
@@ -3013,11 +3013,11 @@ GraphicalEditorWithFlyoutPalette_Undo.ToolTip0=Deshacer
 
 GraphicalEditorWithFlyoutPalette_Undo.ToolTip1=Deshacer {0}
 
-GridEditPart.GUIDEHANDLE_TEXT = CuadrÌcula
+GridEditPart.GUIDEHANDLE_TEXT = Cuadr√≠cula
 
 ###########################################################
 #GridFigure properties
-GridFigure.BORDER_TEXT=CuadrÌcula
+GridFigure.BORDER_TEXT=Cuadr√≠cula
 
 ###########################################################
 #GridPageGenerator properties
@@ -3031,7 +3031,7 @@ GridPageGenerator.List.General=General
 
 GridPageGenerator.List.Margin=Margen
 
-GridPageGenerator.List.Section=Salto de p·gina
+GridPageGenerator.List.Section=Salto de p√°gina
 
 GridPageGenerator.List.TOC=Tabla de contenido
 
@@ -3049,15 +3049,15 @@ GroupDialog.Label.Bookmark=&Marcador:
 
 GroupDialog.Dialog.TOCGroup=Tabla de contenido
 
-GroupDialog.Dialog.TOC=ExpresiÛn de elemen&to:
+GroupDialog.Dialog.TOC=Expresi√≥n de elemen&to:
 
 GroupDialog.Dialog.TOCStyle=Est&ilo:
 
-GroupDialog.DialogTitle.NoData=Error en la inicializaciÛn
+GroupDialog.DialogTitle.NoData=Error en la inicializaci√≥n
 
-GroupDialog.DialogTitle.SemanticCheckFailed=Se ha producido un error en la comprobaciÛn sem·ntica
+GroupDialog.DialogTitle.SemanticCheckFailed=Se ha producido un error en la comprobaci√≥n sem√°ntica
 
-GroupDialog.ErrorMesaage.IllegalGroup=Este grupo no es v·lido.
+GroupDialog.ErrorMesaage.IllegalGroup=Este grupo no es v√°lido.
 
 GroupDialog.ErrorMessage.NoData=No hay ninguna fila de datos disponible.
 
@@ -3065,7 +3065,7 @@ GroupDialog.Label.FilterSorting=Filtros y orden
 
 GroupDialog.Label.GroupOn=&Agrupar en:
 
-GroupDialog.Label.HeaderFooter=Encabezado y pie de p·gina
+GroupDialog.Label.HeaderFooter=Encabezado y pie de p√°gina
 
 GroupDialog.Label.IncludeFooter=Incluir pie de &grupo
 
@@ -3097,7 +3097,7 @@ GroupDialog.Title.Edit=Editar grupo
 
 GroupDialog.Title.New=Nuevo grupo
 
-GroupDialog.PageBreak=Salto de p·gina
+GroupDialog.PageBreak=Salto de p√°gina
 
 GroupDialog.buttion.HideDetail=&Ocultar detalle
 
@@ -3122,13 +3122,13 @@ GuiExtensionManager.tooltip.insert=Insertar {0}
 
 ###########################################################
 #HighlightHandleProvider properties
-HighlightHandleProvider.text.Preview=AaBbCcYyZz  (tamaÒo de fuente =
+HighlightHandleProvider.text.Preview=AaBbCcYyZz  (tama√±o de fuente =
 
 ###########################################################
 #HighlightRuleBuilderDialog properties
-HightlightRuleBuilder.button.add=&AÒadir
+HightlightRuleBuilder.button.add=&A√±adir
 
-HightlightRuleBuilder.button.add.tooltip=AÒadir el valor a la lista de valores
+HightlightRuleBuilder.button.add.tooltip=A√±adir el valor a la lista de valores
 
 HightlightRuleBuilder.button.delete=Eli&minar
 
@@ -3140,7 +3140,7 @@ HightlightRuleBuilder.button.deleteall.tooltip=Eliminar todos los valores de la 
 
 HightlightRuleBuilder.button.edit=&Editar...
 
-HightlightRuleBuilder.button.edit.tooltip=Editar la selecciÛn en la lista de valores
+HightlightRuleBuilder.button.edit.tooltip=Editar la selecci√≥n en la lista de valores
 
 HightlightRuleBuilder.label.value=&Valor:
 
@@ -3148,7 +3148,7 @@ HightlightRuleBuilder.list.item1=Valor
 
 HightlightRuleBuilder.MsgDlg.Msg=Advertencia
 
-HightlightRuleBuilder.MsgDlg.Title=El valor no puede estar vacÌo.
+HightlightRuleBuilder.MsgDlg.Title=El valor no puede estar vac√≠o.
 
 HightlightRuleBuilder.text.AND=AND
 
@@ -3160,11 +3160,11 @@ HighlightRuleBuilderDialog.text.Any=es cualquiera
 
 HighlightRuleBuilderDialog.text.BackgroundColor=&Color de fondo:
 
-HighlightRuleBuilderDialog.text.Between=Est· entre
+HighlightRuleBuilderDialog.text.Between=Est√° entre
 
 HighlightRuleBuilderDialog.text.Color=&Color:
 
-HighlightRuleBuilderDialog.text.Default=Autom·tico
+HighlightRuleBuilderDialog.text.Default=Autom√°tico
 
 HighlightRuleBuilderDialog.text.ET=es igual que
 
@@ -3184,7 +3184,7 @@ HighlightRuleBuilderDialog.text.LT=es menor que
 
 HighlightRuleBuilderDialog.text.NE=no es igual que
 
-HighlightRuleBuilderDialog.text.NotBetween=no est· entre
+HighlightRuleBuilderDialog.text.NotBetween=no est√° entre
 
 HighlightRuleBuilderDialog.text.NotNull=no es nulo
 
@@ -3193,7 +3193,7 @@ HighlightRuleBuilderDialog.text.Null=es nulo
 HighlightRuleBuilderDialog.text.Preview=Vista previa:
 
 HighlightRuleBuilderDialog.text.PreviewContent=AaBbCcYyZz
-HighlightRuleBuilderDialog.text.Size=TamaÒ&o:
+HighlightRuleBuilderDialog.text.Size=Tama√±&o:
 
 HighlightRuleBuilderDialog.text.Title=Resaltar
 
@@ -3207,17 +3207,17 @@ HighlightRuleBuilderDialog.tooltip.Italic=Cursiva
 
 HighlightRuleBuilderDialog.tooltip.Underline=Subrayado
 
-HighlightRuleBuilderDialog.tooltip.Text_Line_Through=LÌnea a travÈs del texto
+HighlightRuleBuilderDialog.tooltip.Text_Line_Through=L√≠nea a trav√©s del texto
 
 HighlightRuleBuilderDialog.text.applyStyle=Aplicar est&ilo:
 
 HighlightRuleBuilderDialog.displayText.None=Ninguno
 
-HighlightRuleBuilderDialog.text.Description=Aplique formato condicional a {0}. Especifique la expresiÛn y el formato condicional.\nEl formato se aplicar· si la expresiÛn se eval˙a con True.
+HighlightRuleBuilderDialog.text.Description=Aplique formato condicional a {0}. Especifique la expresi√≥n y el formato condicional.\nEl formato se aplicar√° si la expresi√≥n se eval√∫a con True.
 
 HighlightRuleBuilderDialog.text.Description.Element.Table=tabla
 
-HighlightRuleBuilderDialog.text.Description.Element.Grid=cuadrÌcula
+HighlightRuleBuilderDialog.text.Description.Element.Grid=cuadr√≠cula
 
 HighlightRuleBuilderDialog.text.Description.Element.List=lista
 
@@ -3229,7 +3229,7 @@ HighlightRuleBuilderDialog.text.Description.Element.DataItem=elemento de datos
 
 HighlightRuleBuilderDialog.text.Description.Element.Cell=celda
 
-HighlightRuleBuilderDialog.text.Group.Condition=Cl·&usula condicional
+HighlightRuleBuilderDialog.text.Group.Condition=Cl√°&usula condicional
 
 HighlightRuleBuilderDialog.text.Group.Format=Formato
 
@@ -3237,7 +3237,7 @@ HighlightRuleBuilderDialog.text.Description.Element.ReportElement=elemento de in
 
 ###########################################################
 #HighlightsPage properties
-HighlightsPage.Button.Add=&AÒadir...
+HighlightsPage.Button.Add=&A√±adir...
 
 HighlightsPage.Button.Delete=&Quitar
 
@@ -3247,11 +3247,11 @@ HighlightsPage.Dialog.NewHighlight=Nuevo resaltado
 
 HighlightsPage.Label.Highlights=Resaltar lista:
 
-HighlightsPage.TableColumn.Condition=Cl·usula condicional
+HighlightsPage.TableColumn.Condition=Cl√°usula condicional
 
 HighlightsPage.TableColumn.Preview=Vista previa:
 
-HighlightsPage.trans.Add=AÒadir regla de resaltado
+HighlightsPage.trans.Add=A√±adir regla de resaltado
 
 HighlightsPage.trans.Delete=Eliminar regla de resaltado
 
@@ -3273,13 +3273,13 @@ HighlightsPage.trans.Duplicate=Regla de resaltado de duplicado
 
 ###########################################################
 #HighlightsPreferencePage properties
-HighlightsPreferencePage.displayname.Condition=Cl·usula condicional
+HighlightsPreferencePage.displayname.Condition=Cl√°usula condicional
 
 HighlightsPreferencePage.displayname.Preview=Vista previa
 
 HighlightsPreferencePage.displayname.Title=Resaltados
 
-HighlightsPreferencePage.text.Add=&AÒadir...
+HighlightsPreferencePage.text.Add=&A√±adir...
 
 HighlightsPreferencePage.text.Delete=&Quitar
 
@@ -3298,19 +3298,19 @@ HighlightsPreferencePage.toolTipText.Duplicate=Resaltado de duplicado
 
 ###########################################################
 #HyperlinkBuilder properties
-HyperlinkBuilder.Column.Parameters=Par·metros
+HyperlinkBuilder.Column.Parameters=Par√°metros
 
 HyperlinkBuilder.DrillThrough.SelectTargetReport=Seleccionar un informe de destino
 
 HyperlinkBuilder.DrillThrough.SelectTargetAnchor=Seleccionar un delimitador de destino
 
-HyperlinkBuilder.DrillThrough.CreateLinkExpr=Crear una expresiÛn de link que coincida con el marcador de destino
+HyperlinkBuilder.DrillThrough.CreateLinkExpr=Crear una expresi√≥n de link que coincida con el marcador de destino
 
 HyperlinkBuilder.DrillThrough.ShowTargetReport=Mostrar informe de destino en
 
 HyperlinkBuilder.DrillThrough.SelectFormat=Seleccionar un formato para el informe de destino
 
-HyperlinkBuilder.DrillThrough.Tooltip=InformaciÛn sobre herramienta
+HyperlinkBuilder.DrillThrough.Tooltip=Informaci√≥n sobre herramienta
 
 HyperlinkBuilder.Step.1=Paso 1:
 
@@ -3326,9 +3326,9 @@ HyperlinkBuilder.Step.6=Paso 6:
 
 HyperlinkBuilder.ParameterRequired=Requerido
 
-HyperlinkBuilder.ParamterBuilder.Add.Title=AÒadir par·metro de hyperlink
+HyperlinkBuilder.ParamterBuilder.Add.Title=A√±adir par√°metro de hyperlink
 
-HyperlinkBuilder.ParamterBuilder.Edit.Title=Editar par·metro de hyperlink
+HyperlinkBuilder.ParamterBuilder.Edit.Title=Editar par√°metro de hyperlink
 
 HyperlinkBuilder.Column.DataType=Tipo de datos
 
@@ -3336,19 +3336,19 @@ HyperlinkBuilder.Column.Values=Valores
 
 HyperlinkBuilder.DialogTitle=Opciones de hiperlink
 
-HyperlinkBuilder.ErrorMessage.InvalidReport=No es posible resolver el diseÒo del informe de destino, la informaciÛn del par·metro predefinido no estar· disponible.
+HyperlinkBuilder.ErrorMessage.InvalidReport=No es posible resolver el dise√±o del informe de destino, la informaci√≥n del par√°metro predefinido no estar√° disponible.
 
 HyperlinkBuilder.ErrorMessage.ReportReqired=Debe especificarse el archivo de informe.
 
 HyperlinkBuilder.DrillThroughTargetBookmark=Marcador de &destino
 
-HyperlinkBuilder.DrillThroughLinkExpression=&ExpresiÛn de link:
+HyperlinkBuilder.DrillThroughLinkExpression=&Expresi√≥n de link:
 
 HyperlinkBuilder.Label.Bookmark=&Marcador:
 
 HyperlinkBuilder.Label.Format=Formato:
 
-HyperlinkBuilder.Label.LinkedExpression=&ExpresiÛn vinculada:
+HyperlinkBuilder.Label.LinkedExpression=&Expresi√≥n vinculada:
 
 HyperlinkBuilder.DrillThroughTargetToc=Entrada de ta&bla de contenido en informe de destino
 
@@ -3356,17 +3356,17 @@ HyperlinkBuilder.DrillThroughSameFrame=&Mismo frame
 
 HyperlinkBuilder.DrillThroughNewWindow=&Nueva ventana
 
-HyperlinkBuilder.DrillThroughWholePage=&Toda la p·gina
+HyperlinkBuilder.DrillThroughWholePage=&Toda la p√°gina
 
 HyperlinkBuilder.DrillThroughParentFrame=&Frame principal
 
-HyperlinkBuilder.DrillThrough.ErrorMsg.DuplicateParameterName=Nombre del par·metro duplicado
+HyperlinkBuilder.DrillThrough.ErrorMsg.DuplicateParameterName=Nombre del par√°metro duplicado
 
-HyperlinkBuilder.Label.Location=&UbicaciÛn:
+HyperlinkBuilder.Label.Location=&Ubicaci√≥n:
 
 HyperlinkBuilder.Label.Location.hint=(Ejemplos: http://host/path, folder/file)
 
-HyperlinkBuilder.Label.Parameters=Par·metros de informe:
+HyperlinkBuilder.Label.Parameters=Par√°metros de informe:
 
 HyperlinkBuilder.Label.Report=Informe:
 
@@ -3375,14 +3375,14 @@ HyperlinkBuilder.Label.SelectType=Seleccione tipo de hiperlink:
 HyperlinkBuilder.DrillThroughHtml=HTML
 HyperlinkBuilder.Label.Target=&Destino:
 
-HyperlinkBuilder.Label.Tooltip=&InformaciÛn sobre herramienta:
+HyperlinkBuilder.Label.Tooltip=&Informaci√≥n sobre herramienta:
 
 HyperlinkBuilder.Radio.Bookmark=Marcad&or interno
 
 HyperlinkBuilder.DrillThroughPdf=PDF
 HyperlinkBuilder.Radio.DrillThrough=&Aumentar
 
-HyperlinkBuilder.ReportDesignButton=DiseÒo de info&rme:
+HyperlinkBuilder.ReportDesignButton=Dise√±o de info&rme:
 
 HyperlinkBuilder.ReportDocumentButton=Docu&mento de informe:
 
@@ -3391,7 +3391,7 @@ HyperlinkBuilder.Radio.None=S&in Link
 HyperlinkBuilder.Radio.Uri=&URI
 HyperlinkBuilder.BrowseForFile=Buscar archivo
 
-HyperlinkBuilder.Button.AddParam=&AÒadir...
+HyperlinkBuilder.Button.AddParam=&A√±adir...
 
 HyperlinkBuilder.Button.EditParam=Editar&...
 
@@ -3403,13 +3403,13 @@ HyperlinkBuilder.OpenExpression=Abrir el compilador de expresiones
 
 HyperlinkBuilder.FileNameError.Title=Error
 
-HyperlinkBuilder.FileNameError.Message=El archivo seleccionado no es v·lido.
+HyperlinkBuilder.FileNameError.Message=El archivo seleccionado no es v√°lido.
 
 HyperlinkBuilder.TargetReportFormat=Dar for&mato a informe de destino en:
 
 HyperlinkParameterBuilder.Label.DataType=Tipo de datos:
 
-HyperlinkParameterBuilder.Label.Parameter=&Par·metro:
+HyperlinkParameterBuilder.Label.Parameter=&Par√°metro:
 
 HyperlinkParameterBuilder.Label.Value=&Valor:
 
@@ -3417,7 +3417,7 @@ HyperlinkParameterBuilder.Lable.Required=Requerido:
 
 HyperlinkParameterBuilder.Required.Choice.No=No
 
-HyperlinkParameterBuilder.Required.Choice.Yes=SÌ
+HyperlinkParameterBuilder.Required.Choice.Yes=S√≠
 
 ###########################################################
 #HyperLinkPage properties
@@ -3433,7 +3433,7 @@ HyperLinkPage.toolTipText.Button=Abrir opciones de hiperlink
 
 ###########################################################
 #I18nPage properties
-I18nPage.text.Note=Nota: Para establecer la localizaciÛn, seleccione el informe y defina el nombre del archivo de recursos en la ficha Recursos del editor de propiedades.
+I18nPage.text.Note=Nota: Para establecer la localizaci√≥n, seleccione el informe y defina el nombre del archivo de recursos en la ficha Recursos del editor de propiedades.
 
 ###########################################################
 #ImageBuilder properties
@@ -3447,7 +3447,7 @@ ImageBuilder.DialogTitle.LoadingFailed=Error al cargar imagen
 
 ImageBuilder.DialogTitle.New=Nuevo elemento de imagen:
 
-ImageBuilder.ErrorMessage.FileLoaded=El nombre de archivo ya existe, c·mbielo y c·rguelo de nuevo.
+ImageBuilder.ErrorMessage.FileLoaded=El nombre de archivo ya existe, c√°mbielo y c√°rguelo de nuevo.
 
 ImageBuilder.ErrorMessage.LoadingFailed=La imagen no se puede cargar correctamente.
 
@@ -3461,7 +3461,7 @@ ImageBuilder.FileDialog.FilterMessage=Archivo de imagen admitido
 
 ImageBuilder.Button.Browser=Examinar...
 
-ImageBuilder.Button.Import=&AÒadir imagen...
+ImageBuilder.Button.Import=&A√±adir imagen...
 
 ImageBuilder.Button.SelectImageData=Se&leccionar datos de imagen...
 
@@ -3473,14 +3473,14 @@ ImageBuilder.Label.EnterURI=Introducir &URI:
 
 ImageBuilder.Label.EnterResourceFile=&Introducir archivo de recursos:
 
-ImageBuilder.Label.EnterExpr=Introduci&r expresiÛn de imagen din·mica:
+ImageBuilder.Label.EnterExpr=Introduci&r expresi√≥n de imagen din√°mica:
 
 ImageBuilder.Type.URI=&URI
 ImageBuilder.Type.ResourceFile=Archivo de &imagen en recursos compartidos
 
 ImageBuilder.Type.EmbededImage=&Imagen incrustada
 
-ImageBuilder.Type.DynamicImage=&Imagen din·mica
+ImageBuilder.Type.DynamicImage=&Imagen din√°mica
 
 ImageBuilder.Description.URI=Link a imagen en web
 
@@ -3512,7 +3512,7 @@ ImagePageGenerator.List.HyperLink=Hyperlink
 
 ImagePageGenerator.List.Reference=Referencia
 
-ImagePageGenerator.List.Section=Salto de p·gina
+ImagePageGenerator.List.Section=Salto de p√°gina
 
 ImagePageGenerator.List.TOC=Tabla de contenido
 
@@ -3524,15 +3524,15 @@ ImportCSSStyleAction.text=&Importar estilo CSS...
 
 ###########################################################
 #ImportLibraryAction properties
-ImportLibraryAction.Error.CannotBeEmpty=El espacio de nombres no puede estar vacÌo.
+ImportLibraryAction.Error.CannotBeEmpty=El espacio de nombres no puede estar vac√≠o.
 
-ImportLibraryAction.Error.HasBeenUsed=El espacio de nombres se est· usando.
+ImportLibraryAction.Error.HasBeenUsed=El espacio de nombres se est√° usando.
 
 ImportLibraryAction.Error.HasDot=El espacio de nombres no debe contener '.'
 
-ImportLibraryAction.Message.ImportSuccessfully=La librerÌa {0} se ha importado.
+ImportLibraryAction.Message.ImportSuccessfully=La librer√≠a {0} se ha importado.
 
-ImportLibraryAction.Message=øDesea usar esta librerÌa en el diseÒo del informe?
+ImportLibraryAction.Message=¬øDesea usar esta librer√≠a en el dise√±o del informe?
 
 ImportLibraryAction.Namespace=Espacio de nombres:
 
@@ -3540,13 +3540,13 @@ ImportLibraryAction.Prefix=Prefijo:
 
 ImportLibraryAction.Title.ImportSuccessfully=Se ha importado correctamente
 
-ImportLibraryAction.Dialog.Titile=Usar librerÌa
+ImportLibraryAction.Dialog.Titile=Usar librer√≠a
 
-ImportLibraryAction.Dialog.Message=Seleccione una librerÌa para incluirla en el informe.
+ImportLibraryAction.Dialog.Message=Seleccione una librer√≠a para incluirla en el informe.
 
 ###########################################################
 #ImportLibraryDialog properties
-ImportLibraryDialog.Title=Usar librerÌa
+ImportLibraryDialog.Title=Usar librer√≠a
 
 ###########################################################
 #ImportValueDialog properties
@@ -3558,9 +3558,9 @@ ImportValueDialog.Label.SelectValue=Se&leccionar o introducir el valor que se de
 
 ImportValueDialog.Title=Importar valores
 
-ImportValueDialog.Button.Add.ToolTip=AÒadir
+ImportValueDialog.Button.Add.ToolTip=A√±adir
 
-ImportValueDialog.Button.AddAll.ToolTip=AÒadir todos
+ImportValueDialog.Button.AddAll.ToolTip=A√±adir todos
 
 ImportValueDialog.Button.Remove.ToolTip=Quitar
 
@@ -3571,7 +3571,7 @@ IncludeDetailAction.actionMsg.includeDetail=&Detalle
 
 ###########################################################
 #IncludeFooterAction properties
-IncludeFooterAction.actionMsg.includeFooter=&Pie de p·gina
+IncludeFooterAction.actionMsg.includeFooter=&Pie de p√°gina
 
 ###########################################################
 #IncludeHeaderAction properties
@@ -3583,7 +3583,7 @@ IncludeListDetailAction.actionMsg.includeDetail=Incluir detalle
 
 ###########################################################
 #IncludeListFooterAction properties
-IncludeListFooterAction.actionMsg.includeFooter=Incluir pie de p·gina
+IncludeListFooterAction.actionMsg.includeFooter=Incluir pie de p√°gina
 
 ###########################################################
 #IncludeListHeaderAction properties
@@ -3591,7 +3591,7 @@ IncludeListHeaderAction.actionMsg.includeHeader=Incluir encabezado
 
 ###########################################################
 #IncludeTableGroupFooterAction properties
-IncludeTableGroupFooterAction.actionMsg.includeFooter=Pie de p·gina de grupo
+IncludeTableGroupFooterAction.actionMsg.includeFooter=Pie de p√°gina de grupo
 
 ###########################################################
 #IncludeTableGroupHeaderAction properties
@@ -3599,11 +3599,11 @@ IncludeTableGroupHeaderAction.actionMsg.includeHeader=Encabezado de grupo
 
 ###########################################################
 #InputParameterDailog properties
-InputParameterDailog.dialog.title.required=Par·metro necesario: debe tener un valor.
+InputParameterDailog.dialog.title.required=Par√°metro necesario: debe tener un valor.
 
-InputParameterDailog.dialog.title=Introducir par·metros
+InputParameterDailog.dialog.title=Introducir par√°metros
 
-InputParameterDailog.parameter.noparameter=No hay ning˙n par·metro asociado a este informe.
+InputParameterDailog.parameter.noparameter=No hay ning√∫n par√°metro asociado a este informe.
 
 InputParameterDialog.ErrorMessage.InvalidFile=El informe contiene errores.
 
@@ -3611,7 +3611,7 @@ InputParameterDailog.parameter.null=Valor nulo
 
 InputParameterDialog.ErrorTitle.Error=Error
 
-InputParameterDialog.boolean.checked=SÌ
+InputParameterDialog.boolean.checked=S√≠
 
 ###########################################################
 #InsertAction properties
@@ -3631,13 +3631,13 @@ InsertColumnRightAction.actionMsg.columnToRight=Columna a la &derecha
 
 ###########################################################
 #InsertExpressionMenuAction properties
-InsertExpressionMenuAction.text.Expression=ExpresiÛn...
+InsertExpressionMenuAction.text.Expression=Expresi√≥n...
 
 ###########################################################
 #InsertGroupAction properties
 InsertGroupAction.actionMsg.group=Insertar &grupo
 
-InsertGroupAction.stackMsg.addGroup=AÒadir grupo
+InsertGroupAction.stackMsg.addGroup=A√±adir grupo
 
 ###########################################################
 #InsertGroupActionFactory properties
@@ -3645,7 +3645,7 @@ InsertGroupActionFactory.label.insertGroup=Insertar &grupo
 
 ###########################################################
 #InsertInLayoutAction properties
-InsertInLayoutAction.action.text=I&nsertar en diseÒo
+InsertInLayoutAction.action.text=I&nsertar en dise√±o
 
 ###########################################################
 #InsertListGroupAction properties
@@ -3701,7 +3701,7 @@ JSDocumentProvider.document.newName=Nuevo contenido
 
 ###########################################################
 #JSEditor properties
-JSEditor.cmb.NewEventFunction=FunciÛn del nuevo evento...
+JSEditor.cmb.NewEventFunction=Funci√≥n del nuevo evento...
 
 JSEditor.Label.Script=Script:
 
@@ -3709,21 +3709,21 @@ JSEditor.Button.Validate=Validar script
 
 JSEditor.Button.Reset=Restablecer script
 
-JSEditor.Button.Help=Mostrar descripciÛn
+JSEditor.Button.Help=Mostrar descripci√≥n
 
 JSEditor.Display.DefaultText=//Editor de script JS\n
 
-JSEditor.Display.NoExpression=Este elemento no tiene mÈtodos.
+JSEditor.Display.NoExpression=Este elemento no tiene m√©todos.
 
 JSEditor.Input.trial=prueba
 
 JSEditor.Text.NoText=Sin texto
 
-JSEditor.Text.NoDescription=Este mÈtodo no tiene descripciÛn.
+JSEditor.Text.NoDescription=Este m√©todo no tiene descripci√≥n.
 
-JSEditor.Validate.Title=ValidaciÛn
+JSEditor.Validate.Title=Validaci√≥n
 
-JSEditor.Validate.NoError=No se ha encontrado ning˙n error de sintaxis en el script actual.
+JSEditor.Validate.NoError=No se ha encontrado ning√∫n error de sintaxis en el script actual.
 
 JSEditor.Folding.Group=Plegar
 
@@ -3731,7 +3731,7 @@ JSEditor.Folding.ExpandAll.label=Expandir todo
 
 JSEditor.Folding.CollapseAll.label=Contraer todo
 
-JSEditor.Folding.CollapseMethods.label=Contraer mÈtodos
+JSEditor.Folding.CollapseMethods.label=Contraer m√©todos
 
 JSEditor.Folding.CollapseComments.label=Contraer comentarios
 
@@ -3751,7 +3751,7 @@ label.redo=Rehacer
 
 label.undo=Deshacer
 
-label.yes=SÌ
+label.yes=S√≠
 
 ###########################################################
 #LabelEditPart properties
@@ -3767,13 +3767,13 @@ LabelPageGenerator.List.General=General
 
 LabelPageGenerator.List.HyperLink=Hyperlink
 
-LabelPageGenerator.List.I18n=LocalizaciÛn
+LabelPageGenerator.List.I18n=Localizaci√≥n
 
 LabelPageGenerator.List.Margin=Margen
 
 LabelPageGenerator.List.Padding=Relleno
 
-LabelPageGenerator.List.Section=Salto de p·gina
+LabelPageGenerator.List.Section=Salto de p√°gina
 
 LabelPageGenerator.List.TOC=Tabla de contenido
 
@@ -3781,11 +3781,11 @@ LabelPageGenerator.List.Visibility=Visibilidad
 
 ###########################################################
 #LayoutConfigurationBlock properties
-LayoutConfigurationBlock.Default.Unit.Auto=Autom·tico
+LayoutConfigurationBlock.Default.Unit.Auto=Autom√°tico
 
 LayoutConfigurationBlock.Default.Unit.Label=Unidad &predeterminada:
-LayoutConfigurationBlock.Default.Layout.Label=DiseÒo predeterminado:
-LayoutConfigurationBlock.Default.Orientation.Label=OrientaciÛn predeterminada:
+LayoutConfigurationBlock.Default.Layout.Label=Dise√±o predeterminado:
+LayoutConfigurationBlock.Default.Orientation.Label=Orientaci√≥n predeterminada:
 
 ###########################################################
 #LayoutEditor properties
@@ -3793,21 +3793,21 @@ LayoutEditor.ErrorMessage.OpenError=Se ha producido un error al abrir el editor.
 
 LayoutEditor.Page.Layout=Normal
 
-LayoutEditor.Page.MasterPage=P·gina maestra
+LayoutEditor.Page.MasterPage=P√°gina maestra
 
 LayoutEditor.Page.Source=Fuente XML
 
 ###########################################################
 #LayoutPageAction properties
-LayoutPageAction.actionText.layout=DiseÒo
+LayoutPageAction.actionText.layout=Dise√±o
 
 ###########################################################
 #LibrariesNodeProvider properties
-LibrariesNodeProvider.DisplayLabel.Libraries=LibrerÌas
+LibrariesNodeProvider.DisplayLabel.Libraries=Librer√≠as
 
 ###########################################################
 #LibraryExplorerView properties
-LibraryExplorerView.defaultText.notAvailable=Los recursos no est·n disponibles.
+LibraryExplorerView.defaultText.notAvailable=Los recursos no est√°n disponibles.
 
 ###########################################################
 #LibraryExplorerProvider properties
@@ -3821,19 +3821,19 @@ LibraryPage.Label.Path=&Ruta:
 
 ###########################################################
 #LibraryProvider properties
-LibraryProvider.openDefinedLibrary.error.dialog.message=Error al abrir la librerÌa definida
+LibraryProvider.openDefinedLibrary.error.dialog.message=Error al abrir la librer√≠a definida
 
 LibraryProvider.openDefinedLibrary.error.dialog.title=Error
 
 ###########################################################
 #ListBandControlFigure properties
-ListBandControlFigure.tooltip.GroupFooter=Grupo de lista - Pie de p·gina
+ListBandControlFigure.tooltip.GroupFooter=Grupo de lista - Pie de p√°gina
 
 ListBandControlFigure.tooltip.GroupHeader=Grupo de lista - Encabezado
 
 ListBandControlFigure.tooltip.ListDetail=Lista - Detalle
 
-ListBandControlFigure.tooltip.ListFooter=Lista - Pie de p·gina
+ListBandControlFigure.tooltip.ListFooter=Lista - Pie de p√°gina
 
 ListBandControlFigure.tooltip.ListHeader=Lista - Encabezado
 
@@ -3845,7 +3845,7 @@ ListBandProvider.action.text=I&nsertar grupo
 #ListBandProxy properties
 ListBandProxy.list.detail=Detalle
 
-ListBandProxy.list.footer=Pie de p·gina
+ListBandProxy.list.footer=Pie de p√°gina
 
 ListBandProxy.list.groupFooter=GF
 
@@ -3859,7 +3859,7 @@ ListContainProcess.action.New=Nuevo...
 
 ListContainProcess.action.NewRow=Nueva fila
 
-ListContainProcess.action.NewSubSection=Nueva subsecciÛn
+ListContainProcess.action.NewSubSection=Nueva subsecci√≥n
 
 ###########################################################
 #ListEditPart properties
@@ -3883,7 +3883,7 @@ ListPageGenerator.List.Font=Fuente
 
 ListPageGenerator.List.General=General
 
-ListPageGenerator.List.Section=Salto de p·gina
+ListPageGenerator.List.Section=Salto de p√°gina
 
 ListPageGenerator.List.TOC=Tabla de contenido
 
@@ -3892,65 +3892,65 @@ ListPageGenerator.List.Visibility=Visibilidad
 
 ###########################################################
 #MapPage properties
-MapPage.label.add=&AÒadir...
+MapPage.label.add=&A√±adir...
 
-MapPage.label.condition=Cl·usula condicional
+MapPage.label.condition=Cl√°usula condicional
 
 MapPage.label.delete=&Quitar
 
 MapPage.label.displayValue=Mostrar valor:
 
-MapPage.label.mapList=Lista de asignaciÛn:
+MapPage.label.mapList=Lista de asignaci√≥n:
 
-MapPage.transName.addMapRule=AÒadir regla de asignaciÛn
+MapPage.transName.addMapRule=A√±adir regla de asignaci√≥n
 
-MapPage.transName.deleteMapRule=Eliminar regla de asignaciÛn
+MapPage.transName.deleteMapRule=Eliminar regla de asignaci√≥n
 
-MapPage.transName.editMapRule=Editar regla de asignaciÛn
+MapPage.transName.editMapRule=Editar regla de asignaci√≥n
 
-MapPage.transName.moveDownRule=Mover hacia abajo la regla de asignaciÛn
+MapPage.transName.moveDownRule=Mover hacia abajo la regla de asignaci√≥n
 
-MapPage.transName.moveUpMapRule=Mover hacia arriba la regla de asignaciÛn
+MapPage.transName.moveUpMapRule=Mover hacia arriba la regla de asignaci√≥n
 
-MapPage.toolTipText.moveUp=Mover regla de asignaciÛn hacia arriba
+MapPage.toolTipText.moveUp=Mover regla de asignaci√≥n hacia arriba
 
-MapPage.toolTipText.moveDown=Mover regla de asignaciÛn hacia abajo
+MapPage.toolTipText.moveDown=Mover regla de asignaci√≥n hacia abajo
 
 MapPage.label.duplicate=Dupli&cado
 
-MapPage.toolTipText.duplicate=Regla de asignaciÛn de duplicado
+MapPage.toolTipText.duplicate=Regla de asignaci√≥n de duplicado
 
-MapPage.transName.Duplicate=Regla de asignaciÛn de duplicado
+MapPage.transName.Duplicate=Regla de asignaci√≥n de duplicado
 
 ###########################################################
 #MapPreferencePage properties
-MapPreferencePage.displayname.Condition=Cl·usula condicional
+MapPreferencePage.displayname.Condition=Cl√°usula condicional
 
 MapPreferencePage.displayname.DisplayValue=Mostrar valor
 
 MapPreferencePage.displayname.Title=Asignar
 
-MapPreferencePage.text.Add=&AÒadir...
+MapPreferencePage.text.Add=&A√±adir...
 
 MapPreferencePage.text.Delete=&Quitar
 
-MapPreferencePage.text.Description=Reglas de asignaciÛn:
+MapPreferencePage.text.Description=Reglas de asignaci√≥n:
 
 MapPreferencePage.text.Edit=&Editar...
 
-MapPreferencePage.toolTipText.Up=Mover regla de asignaciÛn hacia arriba
+MapPreferencePage.toolTipText.Up=Mover regla de asignaci√≥n hacia arriba
 
-MapPreferencePage.toolTipText.Down=Mover regla de asignaciÛn hacia abajo
+MapPreferencePage.toolTipText.Down=Mover regla de asignaci√≥n hacia abajo
 
 MapPreferencePage.text.Duplicate=&Duplicado
 
-MapPreferencePage.toolTipText.Duplicate=Regla de asignaciÛn de duplicado
+MapPreferencePage.toolTipText.Duplicate=Regla de asignaci√≥n de duplicado
 
 ###########################################################
 #MapRuleBuilderDialog properties
-MapRuleBuilder.button.add=&AÒadir
+MapRuleBuilder.button.add=&A√±adir
 
-MapRuleBuilder.button.add.tooltip=AÒadir el valor a la lista de valores
+MapRuleBuilder.button.add.tooltip=A√±adir el valor a la lista de valores
 
 MapRuleBuilder.button.delete=Quita&r
 
@@ -3962,11 +3962,11 @@ MapRuleBuilder.button.deleteall.tooltip=Eliminar todos los valores de la lista
 
 MapRuleBuilder.button.edit=&Editar...
 
-MapRuleBuilder.button.edit.tooltip=Editar la selecciÛn en la lista de valores
+MapRuleBuilder.button.edit.tooltip=Editar la selecci√≥n en la lista de valores
 
-MapRuleBuilder.DialogTitle.New=Nueva regla de asignaciÛn
+MapRuleBuilder.DialogTitle.New=Nueva regla de asignaci√≥n
 
-MapRuleBuilder.DialogTitle.Edit=Editar regla de asignaciÛn
+MapRuleBuilder.DialogTitle.Edit=Editar regla de asignaci√≥n
 
 MapRuleBuilder.Button.ResourceKey=Clave de &recursos:
 
@@ -3982,13 +3982,13 @@ MapRuleBuilder.list.item1=Valor
 
 MapRuleBuilder.MsgDlg.Msg=Advertencia
 
-MapRuleBuilder.MsgDlg.Title=El valor no puede estar vacÌo.
+MapRuleBuilder.MsgDlg.Title=El valor no puede estar vac√≠o.
 
 MapRuleBuilder.text.AND=AND
 
-MapRuleBuilderDialog.text.Between=est· entre
+MapRuleBuilderDialog.text.Between=est√° entre
 
-MapRuleBuilderDialog.text.Condition=Si la siguiente condiciÛn es true:
+MapRuleBuilderDialog.text.Condition=Si la siguiente condici√≥n es true:
 
 MapRuleBuilderDialog.text.Display=&Mostrar valor siguiente:
 
@@ -4006,7 +4006,7 @@ MapRuleBuilderDialog.text.LT=es menor que
 
 MapRuleBuilderDialog.text.NE=no es igual que
 
-MapRuleBuilderDialog.text.NotBetween=no est· entre
+MapRuleBuilderDialog.text.NotBetween=no est√° entre
 
 MapRuleBuilderDialog.text.NotNull=no es nulo
 
@@ -4016,25 +4016,25 @@ MapRuleBuilderDialog.text.Title=Asignar
 
 MapRuleBuilderDialog.MsgDlg.Title=Advertencia
 
-MapRuleBuilderDialog.MsgDlg.Msg=El valor no puede estar vacÌo.
+MapRuleBuilderDialog.MsgDlg.Msg=El valor no puede estar vac√≠o.
 
 ###########################################################
 #SortkeyBuilder dialog properties
-SortkeyBuilder.DialogTitle.New=Nueva clave de ordenaciÛn
+SortkeyBuilder.DialogTitle.New=Nueva clave de ordenaci√≥n
 
-SortkeyBuilder.DialogTitle.Edit=Editar clave de ordenaciÛn
+SortkeyBuilder.DialogTitle.Edit=Editar clave de ordenaci√≥n
 
-SortkeyBuilder.DialogMessage.New=Rellene el siguiente contenido para crear una clave de ordenaciÛn.
+SortkeyBuilder.DialogMessage.New=Rellene el siguiente contenido para crear una clave de ordenaci√≥n.
 
-SortkeyBuilder.DialogMessage.Edit=Edite el siguiente contenido para actualizar la clave de ordenaciÛn.
+SortkeyBuilder.DialogMessage.Edit=Edite el siguiente contenido para actualizar la clave de ordenaci√≥n.
 
-SortkeyBuilder.DialogTitle.Label.Prompt=Introducir una clave para ordenar seg˙n:
+SortkeyBuilder.DialogTitle.Label.Prompt=Introducir una clave para ordenar seg√∫n:
 
 SortkeyBuilder.DialogTitle.Label.Key=&Clave:
 
-SortkeyBuilder.DialogTitle.Label.Direction=Di&recciÛn
+SortkeyBuilder.DialogTitle.Label.Direction=Di&recci√≥n
 
-SortkeyBuilder.Label.Locale=&ConfiguraciÛn regional:
+SortkeyBuilder.Label.Locale=&Configuraci√≥n regional:
 
 SortkeyBuilder.Label.Strength=&Intensidad:
 
@@ -4042,7 +4042,7 @@ SortkeyBuilder.DialogTitle.Button.ExpressionBuilder=Abrir el compilador de expre
 
 SortkeyBuilder.DialogTitle.Error.SetSortKey.Title=Error
 
-SortkeyBuilder.Locale.Auto=Autom·tico
+SortkeyBuilder.Locale.Auto=Autom√°tico
 
 SortkeyBuilder.Strength.ASCII=ASCII
 SortkeyBuilder.Strength.PRIMARY=Primario
@@ -4053,17 +4053,17 @@ SortkeyBuilder.Strength.TERTIARY=Terciario
 
 SortkeyBuilder.Strength.QUATERNARY=Cuaternario
 
-SortkeyBuilder.Strength.IDENTICAL=IdÈntico
+SortkeyBuilder.Strength.IDENTICAL=Id√©ntico
 
 ###########################################################
 #FilterConditionBuilder dialog properties
-FilterConditionBuilder.DialogTitle.New=Nueva condiciÛn de filtro
+FilterConditionBuilder.DialogTitle.New=Nueva condici√≥n de filtro
 
-FilterConditionBuilder.DialogTitle.Edit=Editar condiciÛn de filtro
+FilterConditionBuilder.DialogTitle.Edit=Editar condici√≥n de filtro
 
-FilterConditionBuilder.DialogMessage.New=Rellene el siguiente contenido para crear una condiciÛn de filtro.
+FilterConditionBuilder.DialogMessage.New=Rellene el siguiente contenido para crear una condici√≥n de filtro.
 
-FilterConditionBuilder.DialogMessage.Edit=Edite el siguiente contenido para actualizar la condiciÛn de filtro.
+FilterConditionBuilder.DialogMessage.Edit=Edite el siguiente contenido para actualizar la condici√≥n de filtro.
 
 FilterConditionBuilder.choice.ValueOfThisDataItem=Valor de este elemento de datos
 
@@ -4073,7 +4073,7 @@ FilterConditionBuilder.text.AND=Y
 
 FilterConditionBuilder.text.Condition=Introducir una condicion de filtro:
 
-FilterConditionBuilder.Shell.Title=CondiciÛn de filtro
+FilterConditionBuilder.Shell.Title=Condici√≥n de filtro
 
 FilterConditionBuilder.list.item1=Valor
 
@@ -4083,21 +4083,21 @@ FilterConditionBuilder.button.delete=Eli&minar
 
 FilterConditionBuilder.button.deleteall=Elimi&nar todos
 
-FilterConditionBuilder.button.add=&AÒadir
+FilterConditionBuilder.button.add=&A√±adir
 
-FilterConditionBuilder.button.edit.tooltip=Editar la selecciÛn en lista de valores
+FilterConditionBuilder.button.edit.tooltip=Editar la selecci√≥n en lista de valores
 
 FilterConditionBuilder.button.delete.tooltip=Eliminar el valor seleccionado de la lista
 
 FilterConditionBuilder.button.deleteall.tooltip=Eliminar todos los valores de la lista
 
-FilterConditionBuilder.button.add.tooltip=AÒadir el valor a la lista de valores
+FilterConditionBuilder.button.add.tooltip=A√±adir el valor a la lista de valores
 
 FilterConditionBuilder.label.value=&Valor:
 
 FilterConditionBuilder.multipleValue.label=&Valor
 
-FilterConditionBuilder.multipleValue.button.add=&AÒadir
+FilterConditionBuilder.multipleValue.button.add=&A√±adir
 
 FilterConditionBuilder.multipleValue.button.remove=Quita&r
 
@@ -4123,9 +4123,9 @@ MasterColumnsPropertyDescriptor.Button.Text.ThreeColumns=&Tres
 
 MasterColumnsPropertyDescriptor.Button.Text.TwoColumns=&Dos
 
-MasterColumnsPropertyDescriptor.Combo.Text.Column.Number=&N˙mero de columnas:
+MasterColumnsPropertyDescriptor.Combo.Text.Column.Number=&N√∫mero de columnas:
 
-MasterPageAction.actionText.masterPage=P·gina maestra
+MasterPageAction.actionText.masterPage=P√°gina maestra
 
 ###########################################################
 #MasterPageGenerator properties
@@ -4135,7 +4135,7 @@ MasterPageGenerator.List.General=General
 
 MasterPageGenerator.List.Borders=Borde
 
-MasterPageGenerator.List.Header&Footer=Encabezado/Pie de p·gina
+MasterPageGenerator.List.Header&Footer=Encabezado/Pie de p√°gina
 
 MasterPageGenerator.List.Margins=Margen
 
@@ -4145,11 +4145,11 @@ MasterPageGeneralPage.Trans.SetType=Tipo de conjunto
 
 ###########################################################
 #MasterPagePaletteFactory properties
-MasterPagePaletteFactory.Autotext.TotalPageCount=Recuento de p·ginas total
+MasterPagePaletteFactory.Autotext.TotalPageCount=Recuento de p√°ginas total
 
-MasterPagePaletteFactory.Autotext.Author_Page_Date=Autor\#, P·gina\#, Fecha\#
+MasterPagePaletteFactory.Autotext.Author_Page_Date=Autor\#, P√°gina\#, Fecha\#
 
-MasterPagePaletteFactory.Autotext.Confidential_Page=Confidencial, P·gina\#
+MasterPagePaletteFactory.Autotext.Confidential_Page=Confidencial, P√°gina\#
 
 MasterPagePaletteFactory.Autotext.CreatedBy=Creado por
 
@@ -4160,13 +4160,13 @@ MasterPagePaletteFactory.Autotext.Date=Fecha
 MasterPagePaletteFactory.Autotext.Filename=FileName
 
 MasterPagePaletteFactory.Autotext.Label=AutoText
-MasterPagePaletteFactory.Autotext.LastPrinted=⁄ltima impresiÛn
+MasterPagePaletteFactory.Autotext.LastPrinted=√öltima impresi√≥n
 
-MasterPagePaletteFactory.Autotext.Page=P·gina
+MasterPagePaletteFactory.Autotext.Page=P√°gina
 
-MasterPagePaletteFactory.Autotext.PageXofY=P·gina n de m
+MasterPagePaletteFactory.Autotext.PageXofY=P√°gina n de m
 
-MasterPagePaletteFactory.AutotextTooltip.TotalPageCount=Elemento de informe de recuento de p·ginas total
+MasterPagePaletteFactory.AutotextTooltip.TotalPageCount=Elemento de informe de recuento de p√°ginas total
 
 MasterPagePaletteFactory.AutotextTooltip.AuthorPageDate=Autor#, Fecha# Elemento de informe
 
@@ -4180,15 +4180,15 @@ MasterPagePaletteFactory.AutotextTooltip.Date=Elemento de informe de fecha
 
 MasterPagePaletteFactory.AutoTextTooltip.Filename=Elemento de informe de nombre de archivo
 
-MasterPagePaletteFactory.AutotextTooltip.LastPrinted=Elemento de informe de ˙ltima impresiÛn
+MasterPagePaletteFactory.AutotextTooltip.LastPrinted=Elemento de informe de √∫ltima impresi√≥n
 
-MasterPagePaletteFactory.AutotextTooltip.Page=Elemento de informe de p·gina
+MasterPagePaletteFactory.AutotextTooltip.Page=Elemento de informe de p√°gina
 
-MasterPagePaletteFactory.AutotextTooltip.PageXofY=P·gina n de m del elemento de informe
+MasterPagePaletteFactory.AutotextTooltip.PageXofY=P√°gina n de m del elemento de informe
 
-MasterPagePaletteFactory.elementLabel.authorPageDate=Autor n∫, P·gina n∫, Fecha
+MasterPagePaletteFactory.elementLabel.authorPageDate=Autor n¬∫, P√°gina n¬∫, Fecha
 
-MasterPagePaletteFactory.elementLabel.confidentialPage=Confidencial, P·gina
+MasterPagePaletteFactory.elementLabel.confidentialPage=Confidencial, P√°gina
 
 MasterPagePaletteFactory.elementLabel.createdBy=Creado por
 
@@ -4198,14 +4198,14 @@ MasterPagePaletteFactory.elementLabel.date=Fecha
 
 MasterPagePaletteFactory.elementLabel.fileName=FileName
 
-MasterPagePaletteFactory.elementLabel.lastPrinted=⁄ltima impresiÛn
+MasterPagePaletteFactory.elementLabel.lastPrinted=√öltima impresi√≥n
 
-MasterPagePaletteFactory.elementLabel.page=P·gina
+MasterPagePaletteFactory.elementLabel.page=P√°gina
 
-MasterPagePaletteFactory.elementLabel.pageOf=P·gina n de m
+MasterPagePaletteFactory.elementLabel.pageOf=P√°gina n de m
 
 MasterPagePaletteFactory.paletteDrawerName.autoText=AutoText
-MasterPagePaletteFactory.ToolTip.Grid=Elemento de informe de cuadrÌcula
+MasterPagePaletteFactory.ToolTip.Grid=Elemento de informe de cuadr√≠cula
 
 MasterPagePaletteFactory.ToolTip.Text=Elemento de informe de texto
 
@@ -4219,9 +4219,9 @@ MasterPageProcess.action.Edit=Editar
 
 MasterPageProcess.action.New=Nuevo
 
-MasterPageProcess.text.CannotDelete=El diseÒo contiene sÛlo una p·gina maestra, no se puede eliminar.
+MasterPageProcess.text.CannotDelete=El dise√±o contiene s√≥lo una p√°gina maestra, no se puede eliminar.
 
-MasterPageProcess.text.Display=Muestra el cuadro de di·logo de configuraciÛn de p·gina
+MasterPageProcess.text.Display=Muestra el cuadro de di√°logo de configuraci√≥n de p√°gina
 
 MasterPageProcess.text.DisplayName=MasterPage
 
@@ -4237,11 +4237,11 @@ ModulePage.ErrorMessage.WrongExtensionName=El nombre debe terminar en ".properti
 
 ModulePage.ErrorMessage.InfoExtensionName=Introduzca un nombre que finalice con ".properties".
 
-ModulePage.text.Add=&AÒadir...
+ModulePage.text.Add=&A√±adir...
 
 ModulePage.text.ExistingFile=Archivos de recursos existentes:
 
-ModulePage.title.AddNewFile=AÒadir nuevo archivo de recursos
+ModulePage.title.AddNewFile=A√±adir nuevo archivo de recursos
 
 ModulePage.Resourcefile.Dialog.Title=Examinar archivos de recursos
 
@@ -4251,26 +4251,26 @@ ModulePage.text.Path=&Ruta:
 
 ###########################################################
 #MultiPageEditorContributor properties
-MultiPageEditorContributor.actionText.sampleAction=AcciÛn de muestra
+MultiPageEditorContributor.actionText.sampleAction=Acci√≥n de muestra
 
-MultiPageEditorContributor.actionToolTip.sampleActionToolTip=InformaciÛn sobre herramienta de acciÛn de muestra
+MultiPageEditorContributor.actionToolTip.sampleActionToolTip=Informaci√≥n sobre herramienta de acci√≥n de muestra
 
-MultiPageEditorContributor.actionToolTipText.sampleActionToolTip=InformaciÛn sobre herramienta de acciÛn de muestra
+MultiPageEditorContributor.actionToolTipText.sampleActionToolTip=Informaci√≥n sobre herramienta de acci√≥n de muestra
 
-MultiPageEditorContributor.dialogMsg.sampleActionExecuted=AcciÛn de muestra ejecutada
+MultiPageEditorContributor.dialogMsg.sampleActionExecuted=Acci√≥n de muestra ejecutada
 
-MultiPageEditorContributor.menuText.editorMenu=&Men˙ del editor
+MultiPageEditorContributor.menuText.editorMenu=&Men√∫ del editor
 
 ###########################################################
 #NewLibraryWizard properties
-NewLibraryWizard.choicePageTitle.report=LibrerÌa
+NewLibraryWizard.choicePageTitle.report=Librer√≠a
 
 NewLibraryWizard.displayName.NewReportFileExtension=.rptlibrary
-NewLibraryWizard.displayName.NewReportFileNamePrefix=nueva_librerÌa
+NewLibraryWizard.displayName.NewReportFileNamePrefix=nueva_librer√≠a
 
-NewLibraryWizard.error.NoProject=No hay ning˙n proyecto abierto en esta ·rea de trabajo. Seleccione Archivo->Nuevo->Proyecto para crear un nuevo proyecto o abrir un proyecto existente.
+NewLibraryWizard.error.NoProject=No hay ning√∫n proyecto abierto en esta √°rea de trabajo. Seleccione Archivo->Nuevo->Proyecto para crear un nuevo proyecto o abrir un proyecto existente.
 
-NewLibraryWizard.pageDescription.createNewReport=Crear una nueva librerÌa.
+NewLibraryWizard.pageDescription.createNewReport=Crear una nueva librer√≠a.
 
 NewLibraryWizard.taskName.openFileForEdit=Abriendo archivo para editar...
 
@@ -4278,7 +4278,7 @@ NewLibraryWizard.text.ConfirmSwitchPerspective=Confirmar cambio de perspectiva
 
 NewLibraryWizard.text.Container=Contenedor "
 
-NewLibraryWizard.text.CreateReport=Crear una nueva librerÌa.
+NewLibraryWizard.text.CreateReport=Crear una nueva librer√≠a.
 
 NewLibraryWizard.text.Creating=Creando
 
@@ -4286,29 +4286,29 @@ NewLibraryWizard.text.DoesNotExist=" no existe.
 
 NewLibraryWizard.text.OpenFileForEditing=Abriendo archivo para editar...
 
-NewLibraryWizard.text.SwitchPerspective=Este tipo de archivo est· asociado a la perspectiva {0}. øDesea cambiar a esta perspectiva ahora?
+NewLibraryWizard.text.SwitchPerspective=Este tipo de archivo est√° asociado a la perspectiva {0}. ¬øDesea cambiar a esta perspectiva ahora?
 
-NewLibraryWizard.title.Choose=Seleccionar cÛmo crear la librerÌa
+NewLibraryWizard.title.Choose=Seleccionar c√≥mo crear la librer√≠a
 
 NewLibraryWizard.title.Error=Error
 
-NewLibraryWizard.title.New=Nueva librerÌa
+NewLibraryWizard.title.New=Nueva librer√≠a
 
-NewLibraryWizard.title.Report=LibrerÌa
+NewLibraryWizard.title.Report=Librer√≠a
 
-NewLibraryWizard.title.ReportWizard=Asistente de librerÌas
+NewLibraryWizard.title.ReportWizard=Asistente de librer√≠as
 
 NewLibraryWizard.title.Template=TemplateChoicePage
 NewLibraryWizard.title.WizardPage=WizardPage
 NewLibraryWizard.widowTitle.new=Nuevo
 
-NewLibraryWizard.wizardPageTitle.report=LibrerÌa
+NewLibraryWizard.wizardPageTitle.report=Librer√≠a
 
 ###########################################################
 #NewReportProjectWizard properties
 
 NewReportProjectWizard.bin=bin
-NewReportProjectWizard.caseVariantExistsError=El sistema de archivos no distingue entre may˙sculas y min˙sculas. Hay un proyecto existente que entra en conflicto con ''{0}''.
+NewReportProjectWizard.caseVariantExistsError=El sistema de archivos no distingue entre may√∫sculas y min√∫sculas. Hay un proyecto existente que entra en conflicto con ''{0}''.
 
 NewReportProjectWizard.description=Crear un nuevo proyecto de informe.
 
@@ -4320,7 +4320,7 @@ NewReportProjectWizard.internalError=Error interno: {0}
 
 NewReportProjectWizard.javaProject=Crear un proyecto Java
 
-NewReportProjectWizard.perspSwitchMessage=Este tipo de proyecto est· asociado a la perspectiva {0}. øDesea cambiar a esta perspectiva ahora?
+NewReportProjectWizard.perspSwitchMessage=Este tipo de proyecto est√° asociado a la perspectiva {0}. ¬øDesea cambiar a esta perspectiva ahora?
 
 NewReportProjectWizard.perspSwitchTitle=Confirmar cambio de perspectiva
 
@@ -4337,7 +4337,7 @@ NewReportWizard.choicePageTitle.report=Informe
 
 NewReportWizard.displayName.NewReportFileExtension=.rptdesign
 NewReportWizard.displayName.NewReportFileNamePrefix=new_report
-NewReportWizard.error.NoProject=No hay ning˙n proyecto abierto en esta ·rea de trabajo. Seleccione Archivo->Nuevo->Proyecto para crear un nuevo proyecto o abrir un proyecto existente.
+NewReportWizard.error.NoProject=No hay ning√∫n proyecto abierto en esta √°rea de trabajo. Seleccione Archivo->Nuevo->Proyecto para crear un nuevo proyecto o abrir un proyecto existente.
 
 NewReportWizard.pageDescription.createNewReport=Crear un nuevo informe.
 
@@ -4359,9 +4359,9 @@ NewReportWizard.text.OpenFileForEditing=Abriendo archivo para editar...
 
 NewReportWizard.text.SelectTemplate=Seleccione el tipo de informe que desea crear.
 
-NewReportWizard.text.SwitchPerspective=Este tipo de archivo est· asociado a la perspectiva {0}. øDesea cambiar a esta perspectiva ahora?
+NewReportWizard.text.SwitchPerspective=Este tipo de archivo est√° asociado a la perspectiva {0}. ¬øDesea cambiar a esta perspectiva ahora?
 
-NewReportWizard.title.Choose=Seleccionar cÛmo crear el informe.
+NewReportWizard.title.Choose=Seleccionar c√≥mo crear el informe.
 
 NewReportWizard.title.Error=Error
 
@@ -4384,9 +4384,9 @@ NewResourceFileDialog.label.NewFile=&Nuevo nombre de archivo:
 
 NewResourceFileDialog.ErrorMessage=El nombre de archivo debe terminar en .properties
 
-NewResourceFileDialog.ErrorMessageInvalid=El nombre de archivo no es v·lido.
+NewResourceFileDialog.ErrorMessageInvalid=El nombre de archivo no es v√°lido.
 
-NewResourceFileDialog.FileExists={0} existe. øDesea sobrescribir?
+NewResourceFileDialog.FileExists={0} existe. ¬øDesea sobrescribir?
 
 ###########################################################
 #ProjectFileDialog properties
@@ -4396,21 +4396,21 @@ ProjectFileDialog.Title=Seleccionar archivo de proyecto
 
 ProjectFileDialog.Message=Seleccione un archivo del proyecto actual.
 
-ProjectFileDialog.Text.Menu=men˙
+ProjectFileDialog.Text.Menu=men√∫
 
 ###########################################################
 #ProjectSelectionDialog properties
 ProjectSelectionDialog.Message=Seleccionar el proyecto que se va a configurar:
 
-ProjectSelectionDialog.Text.SpecialSettings=Mostrar sÛlo proyectos con ajustes especÌficos de proyecto
+ProjectSelectionDialog.Text.SpecialSettings=Mostrar s√≥lo proyectos con ajustes espec√≠ficos de proyecto
 
-ProjectSelectionDialog.Title=ConfiguraciÛn especÌfica de proyecto
+ProjectSelectionDialog.Title=Configuraci√≥n espec√≠fica de proyecto
 
 ###########################################################
 #ResourceFilterDialog properties
 ResourceFilterDialog.Title=Filtro de elementos de informe
 
-ResourceFilterDialog.Lable.Description=DescripciÛn de filtro:
+ResourceFilterDialog.Lable.Description=Descripci√≥n de filtro:
 
 ResourceFilterDialog.Lable.Viewer=Seleccionar los elementos que se van a excluir de la vista:
 
@@ -4420,17 +4420,17 @@ NewSectionDialog.displayname.Container=Contenedor
 
 NewSectionDialog.displayname.Data=Datos
 
-NewSectionDialog.displayname.Grid=CuadrÌcula
+NewSectionDialog.displayname.Grid=Cuadr√≠cula
 
 NewSectionDialog.displayname.Image=Imagen
 
 NewSectionDialog.displayname.Label=Etiqueta
 
-NewSectionDialog.displayname.Line=LÌnea
+NewSectionDialog.displayname.Line=L√≠nea
 
 NewSectionDialog.displayname.List=Lista
 
-NewSectionDialog.displayname.Rectangle=Rect·ngulo
+NewSectionDialog.displayname.Rectangle=Rect√°ngulo
 
 NewSectionDialog.displayname.Table=Tabla
 
@@ -4468,23 +4468,23 @@ NoneAction.text=Ninguno
 
 ###########################################################
 #OutputColumnDefnPage properties
-OutputColumnDefnPage.description=Introducir la definiciÛn de las columas de salida que produce el script de recuperaciÛn:
+OutputColumnDefnPage.description=Introducir la definici√≥n de las columas de salida que produce el script de recuperaci√≥n:
 
 OutputColumnDefnPage.OutputColumns.Tooltip=Ver y definir las columnas en una fila de datos
 
-OutputColumnPage.error.createNewColumn=Se ha producido un error al aÒadir una nueva columna.
+OutputColumnPage.error.createNewColumn=Se ha producido un error al a√±adir una nueva columna.
 
-OutputColumnPage.error.invalidSelection=No se ha seleccionado ning˙n elemento de tabla v·lido.
+OutputColumnPage.error.invalidSelection=No se ha seleccionado ning√∫n elemento de tabla v√°lido.
 
 ###########################################################
 #ColumnDefPage properties
-ColumnDefPage.description=P·gina de definiciÛn de la columna de salida del conjunto de datos de script
+ColumnDefPage.description=P√°gina de definici√≥n de la columna de salida del conjunto de datos de script
 
 ColumnDefPage.title=Columnas de salida
 
 ###########################################################
 #ResultSetColumnPage properties
-ResultSetColumnPage.button.add=&AÒadir...
+ResultSetColumnPage.button.add=&A√±adir...
 
 ResultSetColumnPage.button.edit=&Editar...
 
@@ -4534,11 +4534,11 @@ OutputColumnsPage.description=Definir columnas de salida:
 
 OutputColumnsPage.DataTypeConvert.Note=Nota
 
-OutputColumnsPage.DataTypeConvert.Message=La conversiÛn puede producir pÈrdidas de precisiÛn o un error de tiempo de ejecuciÛn, øest· seguro de que desea aplicarla?
+OutputColumnsPage.DataTypeConvert.Message=La conversi√≥n puede producir p√©rdidas de precisi√≥n o un error de tiempo de ejecuci√≥n, ¬øest√° seguro de que desea aplicarla?
 
 ###########################################################
 #PageBreakPreferencePage properties
-PageBreakPreferencePage.displayname.Title=Salto de p·gina
+PageBreakPreferencePage.displayname.Title=Salto de p√°gina
 
 ###########################################################
 #PageSetAction properties
@@ -4546,7 +4546,7 @@ PageSetAction.text.code=&Script
 
 PageSetAction.Text.EditCode=Editar &script...
 
-PageSetAction.text.layout=&DiseÒo
+PageSetAction.text.layout=&Dise√±o
 
 PageSetAction.text.master=&Maestro
 
@@ -4556,13 +4556,13 @@ PageSetAction.text.preview=&Vista previa
 
 ###########################################################
 #PageSetupOutlineProcess properties
-PageSetupOutlineProcess.action.Edit=Editar configuraciÛn de p·gina
+PageSetupOutlineProcess.action.Edit=Editar configuraci√≥n de p√°gina
 
 PageSetupOutlineProcess.action.New=Nueva MasterPage
 
-PageSetupOutlineProcess.text.Display=Muestra el cuadro de di·logo de configuraciÛn de p·gina
+PageSetupOutlineProcess.text.Display=Muestra el cuadro de di√°logo de configuraci√≥n de p√°gina
 
-PageSetupOutlineProcess.text.Switch=Cambia al editor de p·gina maestra
+PageSetupOutlineProcess.text.Switch=Cambia al editor de p√°gina maestra
 
 ###########################################################
 #ParameterDialog properties
@@ -4588,7 +4588,7 @@ ParameterDialog.CheckBox.Hidden=&Oculto
 
 ParameterDialog.CheckBox.Distinct=Permitir va&lores duplicados
 
-ParameterDialog.Choice.NoDefault=Ning˙n valor predeterminado
+ParameterDialog.Choice.NoDefault=Ning√∫n valor predeterminado
 
 ParameterDialog.Choice.NullValue=Valor nulo
 
@@ -4614,7 +4614,7 @@ ParameterDialog.Column.DisplayTextKey=Visualizar clave de texto
 
 ParameterDialog.Column.Value=Valor
 
-ParameterDialog.DefaultValue.Add=&AÒadir
+ParameterDialog.DefaultValue.Add=&A√±adir
 
 ParameterDialog.DisplayLabel.Combo=Cuadro combinado
 
@@ -4628,13 +4628,13 @@ ParameterDialog.ErrorMessage.DuplicatedLabel=El texto en pantalla ya existe.
 
 ParameterDialog.ErrorMessage.DuplicatedLabelKey=La clave de texto en pantalla ya existe.
 
-ParameterDialog.ErrorMessage.DuplicatedName=El nombre se est· usando.
+ParameterDialog.ErrorMessage.DuplicatedName=El nombre se est√° usando.
 
 ParameterDialog.ErrorMessage.DuplicatedValue=El valor ya existe.
 
-ParameterDialog.ErrorMessage.EmptyName=El nombre est· vacÌo.
+ParameterDialog.ErrorMessage.EmptyName=El nombre est√° vac√≠o.
 
-ParameterDialog.ErrorMessage.InvalidListLimit=El valor de limitaciÛn debe estar entre 0 y {0}.
+ParameterDialog.ErrorMessage.InvalidListLimit=El valor de limitaci√≥n debe estar entre 0 y {0}.
 
 ParameterDialog.ErrorMessage.MismatchDataType=El valor no coincide con el tipo de fecha.
 
@@ -4644,9 +4644,9 @@ ParameterDialog.ErrorMessage.ValueColumnEmpty=Se debe especificar la columna de 
 
 ParameterDialog.ErrorMessage.NoDefaultValue=Debe establecer un valor predeterminado.
 
-ParameterDialog.ErrorTitle.InvalidListLimit=LÌmite de lista no v·lido
+ParameterDialog.ErrorTitle.InvalidListLimit=L√≠mite de lista no v√°lido
 
-ParameterDialog.ExpressionEditor.Title=Editar expresiÛn
+ParameterDialog.ExpressionEditor.Title=Editar expresi√≥n
 
 ParameterDialog.Flag.Default=Predeterminado
 
@@ -4656,7 +4656,7 @@ ParameterDialog.Group.Properties=Propiedades
 
 ParameterDialog.Label.DataType=Tipo de &datos:
 
-ParameterDialog.SelectionDialog.Edit=Editar opciÛn de selecciÛn
+ParameterDialog.SelectionDialog.Edit=Editar opci√≥n de selecci√≥n
 
 ParameterDialog.Label.DefaultValue=Valor predete&rminado:
 
@@ -4668,7 +4668,7 @@ ParameterDialog.Label.Format=Formato como:
 
 ParameterDialog.Label.HelpText=Te&xto de ayuda:
 
-ParameterDialog.Label.ListOfValue=Valores de lista de selecciÛn
+ParameterDialog.Label.ListOfValue=Valores de lista de selecci√≥n
 
 ParameterDialog.Label.SortGroup=Orden
 
@@ -4686,9 +4686,9 @@ ParameterDialog.Label.SelectDataSet=Conjunto de &datos:
 
 ParameterDialog.Label.SortKey=Ordenar &por:
 
-ParameterDialog.Label.SortDirection=Dire&cciÛn de orden:
+ParameterDialog.Label.SortDirection=Dire&cci√≥n de orden:
 
-ParameterDialog.SelectionDialog.New=Nueva opciÛn de selecciÛn
+ParameterDialog.SelectionDialog.New=Nueva opci√≥n de selecci√≥n
 
 ParameterDialog.SelectionDialog.Label.DisplayTextKey=&Visualizar clave de texto:
 
@@ -4713,11 +4713,11 @@ ParameterDialog.Label.values=valores
 
 ParameterDialog.Label.Sample=Muestra
 
-ParameterDialog.Label.Listlimit=LÌmite de &lista:
+ParameterDialog.Label.Listlimit=L√≠mite de &lista:
 
-ParameterDialog.Radio.Dynamic=&Din·mico
+ParameterDialog.Radio.Dynamic=&Din√°mico
 
-ParameterDialog.Radio.Static=&Est·tico
+ParameterDialog.Radio.Static=&Est√°tico
 
 ParameterDialog.toolTipText.OpenExprButton=Abrir el compilador de expresiones
 
@@ -4727,7 +4727,7 @@ ParameterDialog.date.prompt=Introduzca valores de fecha como: {0}
 
 ParameterDialog.time.prompt=Introduzca valores de hora como: {0}
 
-ParameterDialog.Check.AllowMulti=Permitir &valores m˙ltiples
+ParameterDialog.Check.AllowMulti=Permitir &valores m√∫ltiples
 
 ParameterDialog.checkBox.InputValue=Valor de entrada
 
@@ -4735,15 +4735,15 @@ ParameterDialog.checkBox.BlankValue=Valor en blanco
 
 ParameterDialog.checkBox.NullValue=Valor nulo
 
-ParameterDialog.emptyColumnValueExpression.title=La expresiÛn de columna de valor no es v·lida
+ParameterDialog.emptyColumnValueExpression.title=La expresi√≥n de columna de valor no es v√°lida
 
-ParameterDialog.emptyColumnValueExpression.message=La expresiÛn de columna de valor no puede estar vacÌa
+ParameterDialog.emptyColumnValueExpression.message=La expresi√≥n de columna de valor no puede estar vac√≠a
 
-ParameterDialog.Value.Empty=Valor vacÌo
+ParameterDialog.Value.Empty=Valor vac√≠o
 
 ParameterDialog.Value.Null=Valor nulo
 
-ParameterDialog.message=Defina las propiedades del par·metro de informe.
+ParameterDialog.message=Defina las propiedades del par√°metro de informe.
 
 ###########################################################
 #SelectParameterDefaultValueDialog properties
@@ -4769,17 +4769,17 @@ ParameterGroupGeneralPage.Label.Name=&Nombre:
 
 ###########################################################
 #ParameterGroupNodeProvider properties
-ParameterGroupNodeProvider.Action.GroupNew=Nuevo grupo de par·metros
+ParameterGroupNodeProvider.Action.GroupNew=Nuevo grupo de par√°metros
 
 ParameterGroupNodeProvider.Action.ParameterEdit=&Editar
 
-ParameterGroupNodeProvider.Action.ParameterNew=&Nuevo par·metro
+ParameterGroupNodeProvider.Action.ParameterNew=&Nuevo par√°metro
 
-ParameterGroupNodeProvider.Dialogue.ParameterEdit=Editar grupo de par·metros
+ParameterGroupNodeProvider.Dialogue.ParameterEdit=Editar grupo de par√°metros
 
-ParameterGroupNodeProvider.Dialogue.ParameterNew=Nuevo par·metro
+ParameterGroupNodeProvider.Dialogue.ParameterNew=Nuevo par√°metro
 
-ParameterGroupNodeProvider.Node.Group=Grupo de par·metros
+ParameterGroupNodeProvider.Node.Group=Grupo de par√°metros
 
 ###########################################################
 #ParameterGroupProcess properties
@@ -4787,32 +4787,32 @@ ParameterGroupProcess.action.Delete=Eliminar Parametergroup
 
 ParameterGroupProcess.action.Edit=Editar Parametergroup
 
-ParameterGroupProcess.action.New=Nuevo par·metro
+ParameterGroupProcess.action.New=Nuevo par√°metro
 
 ParameterGroupProcess.text.DisplayName=ParameterGroup
-ParameterGroupProcess.text.Show=muestra la p·gina del editor de fuente de datos
+ParameterGroupProcess.text.Show=muestra la p√°gina del editor de fuente de datos
 
 ###########################################################
 #ParameterNodeProvider properties
-ParameterNodeProvider.dial.title.editCascading=Editar grupo de par·metros en cascada
+ParameterNodeProvider.dial.title.editCascading=Editar grupo de par√°metros en cascada
 
-ParameterNodeProvider.dial.title.editScalar=Editar par·metro
+ParameterNodeProvider.dial.title.editScalar=Editar par√°metro
 
-ParameterNodeProvider.dial.title.newCascading=Nuevo grupo de par·metros en cascada
+ParameterNodeProvider.dial.title.newCascading=Nuevo grupo de par√°metros en cascada
 
 ParameterNodeProvider.menu.text.edit=&Editar
 
-ParameterNodeProvider.menu.text.new=Nuevo par·metro
+ParameterNodeProvider.menu.text.new=Nuevo par√°metro
 
 ###########################################################
 #ParameterProcess properties
-ParameterProcess.action.Delete=Eliminar par·metro
+ParameterProcess.action.Delete=Eliminar par√°metro
 
-ParameterProcess.action.Edit=Editar par·metro
+ParameterProcess.action.Edit=Editar par√°metro
 
-ParameterProcess.text.DisplayName=Par·metro
+ParameterProcess.text.DisplayName=Par√°metro
 
-ParameterProcess.text.Show=muestra la p·gina del editor de fuente de datos
+ParameterProcess.text.Show=muestra la p√°gina del editor de fuente de datos
 
 ###########################################################
 #parameters properties
@@ -4829,31 +4829,31 @@ parameters.menuItem.reset=Restablecer
 
 ###########################################################
 #ParametersNodeProvider properties
-ParametersNodeProvider.dialogue.title.group=Nuevo grupo de par·metros
+ParametersNodeProvider.dialogue.title.group=Nuevo grupo de par√°metros
 
-ParametersNodeProvider.dialogue.title.parameter=Nuevo par·metro
+ParametersNodeProvider.dialogue.title.parameter=Nuevo par√°metro
 
-ParametersNodeProvider.menu.text.cascadingParameter=Nuevo grupo de par·metros en casca&da
+ParametersNodeProvider.menu.text.cascadingParameter=Nuevo grupo de par√°metros en casca&da
 
-ParametersNodeProvider.menu.text.group=Nu&evo grupo de par·metros
+ParametersNodeProvider.menu.text.group=Nu&evo grupo de par√°metros
 
-ParametersNodeProvider.menu.text.parameter=Nuevo p&ar·metro
+ParametersNodeProvider.menu.text.parameter=Nuevo p&ar√°metro
 
 ###########################################################
 #ParametersOutlineProcess properties
 ParametersOutlineProcess.action.Edit=Editar
 
-ParametersOutlineProcess.action.New=Nuevo par·metro
+ParametersOutlineProcess.action.New=Nuevo par√°metro
 
 ParametersOutlineProcess.action.NewGroup=Nuevo grupo
 
-ParametersOutlineProcess.text.Open=abre el editor de par·metros
+ParametersOutlineProcess.text.Open=abre el editor de par√°metros
 
-ParametersOutlineProcess.text.Show=muestra la p·gina del editor de conjunto de datos para el conjunto de datos
+ParametersOutlineProcess.text.Show=muestra la p√°gina del editor de conjunto de datos para el conjunto de datos
 
 ###########################################################
 #PasteAction properties
-PasteAction.dlg.title=InformaciÛn
+PasteAction.dlg.title=Informaci√≥n
 
 PasteAction.ok=Aceptar
 
@@ -4869,21 +4869,21 @@ PreviewAction.Text=Vista previa
 
 ###########################################################
 #PreviewEditor properties
-PreviewEditor.parameter.tooltip=Mostrar par·metros de informe
+PreviewEditor.parameter.tooltip=Mostrar par√°metros de informe
 
 PreviewEditor.parameter.hint=Actualizar informe
 
 PreviewEditor.parameter.note=Nota:
 
-PreviewEditor.parameter.info=El n˙mero m·ximo actual de filas de datos est· limitado a {0}.
+PreviewEditor.parameter.info=El n√∫mero m√°ximo actual de filas de datos est√° limitado a {0}.
 
 PreviewEditor.parameter.change=Haga clic para cambiar las preferencias de vista previa
 
-PreviewEditor.ConfirmRefresh.Title=Confirmar actualizaciÛn
+PreviewEditor.ConfirmRefresh.Title=Confirmar actualizaci√≥n
 
-PreviewEditor.ConfirmRefresh.Message=La operaciÛn puede influir en el resultado de vista previa. øDesea actualizar la p·gina de previsualizaciÛn?
+PreviewEditor.ConfirmRefresh.Message=La operaci√≥n puede influir en el resultado de vista previa. ¬øDesea actualizar la p√°gina de previsualizaci√≥n?
 
-PreviewEditor.browser.notfound=El explorador interno no est· disponible.
+PreviewEditor.browser.notfound=El explorador interno no est√° disponible.
 
 ###########################################################
 #PreviewPageAction properties
@@ -4923,29 +4923,29 @@ PropertyHandleInputDialog.messages.error.blankProperty={0} no puede estar en bla
 
 ###########################################################
 #PropertyAndPreferencePage properties
-PropertyAndPreferencePage.Text.Configure.Special.Settings=Configurar ajustes especÌficos de proyecto...
+PropertyAndPreferencePage.Text.Configure.Special.Settings=Configurar ajustes espec√≠ficos de proyecto...
 
-PropertyAndPreferencePage.Text.Configure.Workspace.Settings=Configurar ajustes del ·rea de trabajo...
+PropertyAndPreferencePage.Text.Configure.Workspace.Settings=Configurar ajustes del √°rea de trabajo...
 
-PropertyAndPreferencePage.Text.Enable.SpecialSettings=Activar ajustes especÌficos de pr&oyecto
+PropertyAndPreferencePage.Text.Enable.SpecialSettings=Activar ajustes espec√≠ficos de pr&oyecto
 
 ###########################################################
 #PublishTemplateAction properties
-PublishTemplateAction.wizard.page.browse.cheatsheet.title=Seleccione un archivo de consejos ˙tiles
+PublishTemplateAction.wizard.page.browse.cheatsheet.title=Seleccione un archivo de consejos √∫tiles
 
 PublishTemplateAction.wizard.page.browse.title=Seleccionar un archivo de imagen
 
 PublishTemplateAction.wizard.page.btn.browse=E&xaminar...
 
-PublishTemplateAction.wizard.page.cheatsheetError=El archivo de consejos ˙tiles ''{0}'' no existe.
+PublishTemplateAction.wizard.page.cheatsheetError=El archivo de consejos √∫tiles ''{0}'' no existe.
 
 PublishTemplateAction.wizard.page.desc=Registrar platilla en la carpeta de plantillas.
 
 PublishTemplateAction.wizard.page.imageError=El archivo de imagen ''{0}'' no existe.
 
-PublishTemplateAction.wizard.page.label.cheatsheet=Archivo de consejos ˙tiles:
+PublishTemplateAction.wizard.page.label.cheatsheet=Archivo de consejos √∫tiles:
 
-PublishTemplateAction.wizard.page.label.description=&DescripciÛn:
+PublishTemplateAction.wizard.page.label.description=&Descripci√≥n:
 
 PublishTemplateAction.wizard.page.label.displayName=Nombre en pa&ntalla:
 
@@ -4957,11 +4957,11 @@ PublishTemplateAction.wizard.title=Publicar plantilla
 
 PublishTemplateAction.wizard.errorTitle=Error
 
-PublishTemplateAction.wizard.message=No es posible publicar la plantilla en el directorio donde se encuentra, seleccione otro directorio para la publicaciÛn.
+PublishTemplateAction.wizard.message=No es posible publicar la plantilla en el directorio donde se encuentra, seleccione otro directorio para la publicaci√≥n.
 
 PublishTemplateAction.wizard.msgDirErr=El directorio de destino no existe y no se puede crear.
 
-PublishTemplateAction.wizard.notvalidfolder=La carpeta de plantillas definida como preferencia no es v·lida.
+PublishTemplateAction.wizard.notvalidfolder=La carpeta de plantillas definida como preferencia no es v√°lida.
 
 PublishTemplateAction.wizard.page.nameInfo=Es necesario un nombre en pantalla
 
@@ -4971,26 +4971,26 @@ PublishTemplateAction.wizard.message.ThumbnailImageNotExist=La imagen en miniatu
 
 PublishTemplateAction.wizard.message.PreviewImageNotExist=El archivo de vista previa de imagen no existe.
 
-PublishTemplateAction.wizard.message.PreviewImageNotValid=El archivo de vista previa no es una imagen v·lida.
+PublishTemplateAction.wizard.message.PreviewImageNotValid=El archivo de vista previa no es una imagen v√°lida.
 
 PublishTemplateAction.SaveBeforeGenerating.dialog.title=Guardar informe
 
-PublishTemplateAction.SaveBeforeGenerating.dialog.message={0} se ha modificado. øGuardar cambios antes de publicar?
+PublishTemplateAction.SaveBeforeGenerating.dialog.message={0} se ha modificado. ¬øGuardar cambios antes de publicar?
 
-PublishTemplateAction.SaveBeforeGenerating.dialog.button.yes=&SÌ
+PublishTemplateAction.SaveBeforeGenerating.dialog.button.yes=&S√≠
 
 PublishTemplateAction.SaveBeforeGenerating.dialog.button.no=&No
 ###########################################################
 #PublishLibraryAction properties
 PublishLibraryAction.wizard.errorTitle=Error
 
-PublishLibraryAction.wizard.message=No es posible publicar la librerÌa en el directorio donde se encuentra, seleccione otro directorio para la publicaciÛn.
+PublishLibraryAction.wizard.message=No es posible publicar la librer√≠a en el directorio donde se encuentra, seleccione otro directorio para la publicaci√≥n.
 
 PublishLibraryAction.wizard.msgDirErr=El directorio de destino no existe y no se puede crear.
 
 PublishLibraryAction.wizard.message.SourceFileNotExist=El archivo fuente no existe.
 
-PublishLibraryAction.wizard.notvalidfolder=La carpeta de librerÌas definida como preferencia no es v·lida.
+PublishLibraryAction.wizard.notvalidfolder=La carpeta de librer√≠as definida como preferencia no es v√°lida.
 
 ###########################################################
 #RedoAction properties
@@ -5000,9 +5000,9 @@ RedoAction.Tooltip=Rehacer {0}
 #ExportReportWizard
 ExportToLibraryAction.wizard.windowTitle=Exportar
 
-ExportToLibraryAction.wizard.page.title=Exportar el archivo a la librerÌa
+ExportToLibraryAction.wizard.page.title=Exportar el archivo a la librer√≠a
 
-ExportToLibraryAction.wizard.page.desc=Exportar el diseÒo de informe a la librerÌa
+ExportToLibraryAction.wizard.page.desc=Exportar el dise√±o de informe a la librer√≠a
 
 ExportToLibraryAction.wizard.page.label.filename=&Nombre de archivo:
 
@@ -5020,7 +5020,7 @@ ExportToLibraryAction.wizard.page.foldererror=La carpeta especificada no existe
 
 ###########################################################
 #PublishLibraryToResourceFolderAction
-PublishLibraryToResourceFolderAction.Action.Text=Copiar Li&brerÌa para compartir carpeta de recursos...
+PublishLibraryToResourceFolderAction.Action.Text=Copiar Li&brer√≠a para compartir carpeta de recursos...
 
 ###########################################################
 #PublishTemplateViewAction
@@ -5029,11 +5029,11 @@ PublishTemplateViewAction.action.displaytext=Registrar plantilla con el as&isten
 
 ###########################################################
 #RefreshModuleHandleAction
-RefreshModuleHandleAction.Action.Text=Actualizar &librerÌa
+RefreshModuleHandleAction.Action.Text=Actualizar &librer√≠a
 
-RefreshModuleHandleAction.MessageBox.Title=Actualizar librerÌa
+RefreshModuleHandleAction.MessageBox.Title=Actualizar librer√≠a
 
-RefreshModuleHandleAction.MessageBox.Text=El diseÒo actual tiene cambios no guardados. øDesea guardar estos cambios primero?
+RefreshModuleHandleAction.MessageBox.Text=El dise√±o actual tiene cambios no guardados. ¬øDesea guardar estos cambios primero?
 
 RefreshModuleHandleAction.MessageBox.SaveButton=&Guardar
 
@@ -5060,19 +5060,19 @@ RefreshLibExplorerAction.Text=Ac&tualizar
 
 ###########################################################
 #RemoveLibraryAction properties
-RemoveLibraryAction.Text=Quitar li&brerÌa
+RemoveLibraryAction.Text=Quitar li&brer√≠a
 
-RemoveLibraryAction.config.Title=Confirmar eliminaciÛn de librerÌa
+RemoveLibraryAction.config.Title=Confirmar eliminaci√≥n de librer√≠a
 
-RemoveLibraryAction.config.Message=øDesea eliminar esta librerÌa?
-
-###########################################################
-#UseCssInReportDesignAction properties
-UseCssInReportDesignAction.Text=Utilizar CSS en el diseÒo de informe...
+RemoveLibraryAction.config.Message=¬øDesea eliminar esta librer√≠a?
 
 ###########################################################
 #UseCssInReportDesignAction properties
-UseCssInThemeAction.Text=Utilizar CSS en librerÌa...
+UseCssInReportDesignAction.Text=Utilizar CSS en el dise√±o de informe...
+
+###########################################################
+#UseCssInReportDesignAction properties
+UseCssInThemeAction.Text=Utilizar CSS en librer√≠a...
 
 ###########################################################
 #RenameAction properties
@@ -5088,7 +5088,7 @@ RenameDialog.text.NewName=Nuevo nombre:
 
 RenameDialog.text.Rename=Cambiar nombre
 
-RenameDialog.text.ToolTip=El nombre no puede estar vacÌo
+RenameDialog.text.ToolTip=El nombre no puede estar vac√≠o
 
 
 ###########################################################
@@ -5101,7 +5101,7 @@ ExportElementToLibraryAction.TransLabel.Setname=Establecer nombre
 
 ExportElementToLibraryAction.DialogTitle=Establecer nombre
 
-ExportElementToLibraryAction.DialogMessage=Es posible establecer un nombre para un elemento seleccionado antes de exportarlo. En caso de que no se especifique, se utilizar· un nombre predeterminado.
+ExportElementToLibraryAction.DialogMessage=Es posible establecer un nombre para un elemento seleccionado antes de exportarlo. En caso de que no se especifique, se utilizar√° un nombre predeterminado.
 
 
 ###########################################################
@@ -5118,20 +5118,20 @@ RenameInputDialog.DialogMessage=Introduzca el nuevo nombre
 
 ###########################################################
 #report properties
-report.designer.ui.preferences.buttonadd=AÒad&ir...
+report.designer.ui.preferences.buttonadd=A√±ad&ir...
 
 report.designer.ui.preferences.buttonremove=&Quitar
 
 report.designer.ui.preferences.buttonremoveall=Quitar &todos
 
-report.designer.ui.preferences.dialogtitle=Abrir una librerÌa
+report.designer.ui.preferences.dialogtitle=Abrir una librer√≠a
 
-report.designer.ui.preferences.errormessage=La librerÌa ya existe.
+report.designer.ui.preferences.errormessage=La librer√≠a ya existe.
 
 report.designer.ui.preferences.errortitle=Error
 
 report.designer.ui.preferences.extensions=*.rptlibrary
-report.designer.ui.preferences.labeltitle=AÒadir/quitar librerÌas
+report.designer.ui.preferences.labeltitle=A√±adir/quitar librer√≠as
 
 report.designer.ui.preferences.library.export.overwrite.always=Sie&mpre
 
@@ -5139,9 +5139,9 @@ report.designer.ui.preferences.library.export.overwrite.never=&Nunca
 
 report.designer.ui.preferences.library.export.overwrite.prompt=&Solicitar
 
-report.designer.ui.preferences.library.export.title=Sobrescribir elemento existente al exportar el elemento de diseÒo a la librerÌa.
+report.designer.ui.preferences.library.export.title=Sobrescribir elemento existente al exportar el elemento de dise√±o a la librer√≠a.
 
-report.designer.ui.preferences.template.openDialogTitle=SelecciÛn de carpeta
+report.designer.ui.preferences.template.openDialogTitle=Selecci√≥n de carpeta
 
 report.designer.ui.preferences.template.select=Sel&eccionar...
 
@@ -5151,11 +5151,11 @@ report.designer.ui.preferences.template.templatefolder=&Carpeta de plantillas
 
 report.designer.ui.preferences.template.title=Seleccione la carpeta de plantillas.
 
-org.eclipse.birt.report.designer.ui.preference.commenttemplates.enablecomment=&Generar comentario al crear un diseÒo de informe
+org.eclipse.birt.report.designer.ui.preference.commenttemplates.enablecomment=&Generar comentario al crear un dise√±o de informe
 
-org.eclipse.birt.report.designer.ui.preference.commenttemplates.defaultcomment=Copyright (c) 2008 <<ponga el nombre de su empresa aquÌ>>
+org.eclipse.birt.report.designer.ui.preference.commenttemplates.defaultcomment=Copyright (c) 2008 <<ponga el nombre de su empresa aqu√≠>>
 #bidi_hcg start
-report.designer.ui.preferences.bidiproperties.defaultdirection=OrientaciÛn del in&forme predeterminado:
+report.designer.ui.preferences.bidiproperties.defaultdirection=Orientaci√≥n del in&forme predeterminado:
 
 report.designer.ui.preferences.bidiproperties.ltrdirection=De izquierda a derecha
 
@@ -5163,7 +5163,7 @@ report.designer.ui.preferences.bidiproperties.rtldirection=De derecha a izquierd
 #bidi_hcg end
 ###########################################################
 #Resource Preference page properties
-ResourecePreferencePage.title=Escriba o seleccione la carpeta de recursos predeterminada que desee utilizar para el explorador de librerÌa, im·genes,\narchivos de propiedad, etc.
+ResourecePreferencePage.title=Escriba o seleccione la carpeta de recursos predeterminada que desee utilizar para el explorador de librer√≠a, im√°genes,\narchivos de propiedad, etc.
 
 ResourecePreferencePage.folder=Carpeta de &recursos
 
@@ -5179,7 +5179,7 @@ ResourecePreferencePage.defaultResourceFolder.dispaly=<Carpeta de proyecto actua
 #ReportAdvancedLauncherTab properties
 ReportAdvancedLauncherTab.DefaultsButtonText=&Restaurar predeterminados
 
-ReportAdvancedLauncherTab.DeselectButtonText=&Anular la selecciÛn de todo
+ReportAdvancedLauncherTab.DeselectButtonText=&Anular la selecci√≥n de todo
 
 ReportAdvancedLauncherTab.Name=Proyectos de informe
 
@@ -5189,23 +5189,23 @@ ReportAdvancedLauncherTab.UseListRadioText=Seleccionar proyectos para iniciar de
 
 ReportAdvancedLauncherTab.VisibleLabelText=&Proyectos disponibles
 
-ReportAdvancedLauncherTab.WorkspaceReportProjects=proyectos de informe de ·rea de trabajo
+ReportAdvancedLauncherTab.WorkspaceReportProjects=proyectos de informe de √°rea de trabajo
 
 ###########################################################
 #ReportClasspathLaucnTab properties
 ReportClasspathLaucnTab.DefaultButtonText=&Restaurar predeterminados
 
-ReportClasspathLaucnTab.DeselectButtonText=&Anular la selecciÛn de todo
+ReportClasspathLaucnTab.DeselectButtonText=&Anular la selecci√≥n de todo
 
 ReportClasspathLaucnTab.Name=Proyectos Java
 
 ReportClasspathLaucnTab.SelectAllButtonText=&Seleccionar todo
 
-ReportClasspathLaucnTab.UseListRadioText=Elija el proyecto que desea iniciar de la lista, la carpeta de salida de clase del proyecto de selecciÛn se aÒadir· a la ruta de clase
+ReportClasspathLaucnTab.UseListRadioText=Elija el proyecto que desea iniciar de la lista, la carpeta de salida de clase del proyecto de selecci√≥n se a√±adir√° a la ruta de clase
 
 ReportClasspathLaucnTab.VisibleLabelText=&Proyectos disponibles
 
-ReportClasspathLaucnTab.WorkspaceJavaProjects=proyectos java de ·rea de trabajo
+ReportClasspathLaucnTab.WorkspaceJavaProjects=proyectos java de √°rea de trabajo
 
 ###########################################################
 #ReportCreationTool properties
@@ -5217,11 +5217,11 @@ ReportEditor.Button.Close=Cerrar
 
 ReportEditor.Button.Save=Guardar
 
-ReportEditor.Dlg.Confirm=El archivo se ha eliminado del sistema. øDesea guardar los cambios o cerrar el editor sin guardar?
+ReportEditor.Dlg.Confirm=El archivo se ha eliminado del sistema. ¬øDesea guardar los cambios o cerrar el editor sin guardar?
 
 ReportEditor.Dlg.Save=Guardar...
 
-ReportEditor.error.activated.outofsync.message=El archivo se ha cambiado en el sistema de archivos. øDesea cargar los cambios?
+ReportEditor.error.activated.outofsync.message=El archivo se ha cambiado en el sistema de archivos. ¬øDesea cargar los cambios?
 
 ReportEditor.error.activated.outofsync.title=Archivo cambiado
 
@@ -5231,12 +5231,12 @@ ReportEditor.Error.OpenEditor=No se puede abrir el archivo.
 
 ReportEditor.Page.Code=Script
 
-ReportEditor.Page.Layout=DiseÒo
+ReportEditor.Page.Layout=Dise√±o
 
 ReportEditor.Page.MasterPage=MasterPage
 ReportEditor.Page.Preview=Vista previa
 
-ReportEditor.Page.PreviewSaveMessage=Se ha modificado el archivo de informe. øDesea guardarlo antes de la vista previa?
+ReportEditor.Page.PreviewSaveMessage=Se ha modificado el archivo de informe. ¬øDesea guardarlo antes de la vista previa?
 
 ReportEditor.Page.PreviewSaveTitle=Guardar
 
@@ -5244,17 +5244,17 @@ ReportEditor.Page.PreviewSaveToggle=Guarde siempre el archivo antes de la vista 
 
 ###########################################################
 #ReportLaunchConfigurationDelegate properties
-ReportLaunchConfigurationDelegate.badFeatureSetup=ConfiguraciÛn de funciÛn incorrecta
+ReportLaunchConfigurationDelegate.badFeatureSetup=Configuraci√≥n de funci√≥n incorrecta
 
 ReportLaunchConfigurationDelegate.noStartup=Sin inicio
 
 ###########################################################
 #ReportPage properties
-ReportPage.text.Add=&AÒadir...
+ReportPage.text.Add=&A√±adir...
 
 ReportPage.text.Browse=&Examinar...
 
-ReportPage.title.Location=UbicaciÛn:
+ReportPage.title.Location=Ubicaci√≥n:
 
 ReportPage.title.setPrewImg=Seleccionar un archivo de imagen
 
@@ -5266,7 +5266,7 @@ ReportPage.text.Thumbnail=&Miniaturas...
 #ReportPageGenerator properties
 ReportPageGenerator.List.Comments=Comentarios
 
-ReportPageGenerator.List.Description=DescripciÛn
+ReportPageGenerator.List.Description=Descripci√≥n
 
 ReportPageGenerator.List.EventHandler=Controlador de evento
 
@@ -5295,14 +5295,14 @@ DataSetPageGenerator.DataSourceName=Fuente de dat&os
 #ScalarParameterPageGenerator properties
 ScalarParameterPageGenerator.List.General=General
 
-ScalarParameterPageGenerator.List.I18n=LocalizaciÛn
+ScalarParameterPageGenerator.List.I18n=Localizaci√≥n
 
 #TemplateReportItemPageGenerator properties
 TemplateReportItemPageGenerator.List.General=General
 
 TemplateReportItemPage.description.Label.Instructions=&Instrucciones:
 
-TemplateReportItemPageGenerator.List.I18n=LocalizaciÛn
+TemplateReportItemPageGenerator.List.I18n=Localizaci√≥n
 
 TemplateReportItemPageGenerator.List.TextKey=Clave de texto:
 
@@ -5312,9 +5312,9 @@ ReportPropertySheetPage.Column.Title.Property=Propiedad
 
 ReportPropertySheetPage.Column.Title.Value=Valor
 
-ReportPropertySheetPage.Root.Default.Title=InformaciÛn
+ReportPropertySheetPage.Root.Default.Title=Informaci√≥n
 
-ReportPropertySheetPage.Tooltip.Alphabetic=Ordenar alfabÈticamente
+ReportPropertySheetPage.Tooltip.Alphabetic=Ordenar alfab√©ticamente
 
 ReportPropertySheetPage.Tooltip.Group=Ordenar por grupo
 
@@ -5330,11 +5330,11 @@ ReportTemplateTransferDropTargetListener.transLabel.createElement=Insertar eleme
 
 ###########################################################
 #ResourceEditDialog properties
-ResourceEditDialog.message.AddNote=AÒadir r·pido guardar· la clave en el archivo de recursos actual.
+ResourceEditDialog.message.AddNote=A√±adir r√°pido guardar√° la clave en el archivo de recursos actual.
 
 ResourceEditDialog.message.ResourceFile=Archivo de recursos:
 
-ResourceEditDialog.text.Add=&AÒadir
+ResourceEditDialog.text.Add=&A√±adir
 
 ResourceEditDialog.text.AddWarningMsg=No se permiten claves en blanco.
 
@@ -5346,7 +5346,7 @@ ResourceEditDialog.text.Key.TableColumn=Clave
 
 ResourceEditDialog.text.Key=&Clave
 
-ResourceEditDialog.text.QuickAdd=AÒadir r·pido
+ResourceEditDialog.text.QuickAdd=A√±adir r√°pido
 
 ResourceEditDialog.text.Value.TableColumn=Valor
 
@@ -5368,7 +5368,7 @@ ResourceKeyDescriptor.button.reset.tooltip=Reiniciar la clave
 
 ResourceKeyDescriptor.button.browse.tooltip=Examinar y seleccionar una clave
 
-ResourceKey.invalid.containSpace=Clave de nombre en pantalla no v·lida, no debe contener ning˙n espacio en blanco incrustado
+ResourceKey.invalid.containSpace=Clave de nombre en pantalla no v√°lida, no debe contener ning√∫n espacio en blanco incrustado
 ###########################################################
 #RevertToReportItemAction properties
 RevertToReportItemAction.text=&Volver a elemento de informe
@@ -5379,15 +5379,15 @@ RevertToTemplateAction.text=&Volver a elemento de plantilla
 
 ###########################################################
 #RowHandle properties
-RowHandle.tooltip.GridRow=CuadrÌcula - Fila
+RowHandle.tooltip.GridRow=Cuadr√≠cula - Fila
 
-RowHandle.tooltip.GroupFooter=Grupo de tabla - Pie de p·gina
+RowHandle.tooltip.GroupFooter=Grupo de tabla - Pie de p√°gina
 
 RowHandle.tooltip.GroupHeader=Grupo de tabla - Encabezado
 
 RowHandle.tooltip.TableDetail=Tabla - Detalle
 
-RowHandle.tooltip.TableFooter=Tabla - Pie de p·gina
+RowHandle.tooltip.TableFooter=Tabla - Pie de p√°gina
 
 RowHandle.tooltip.TableHeader=Tabla - Encabezado
 
@@ -5395,13 +5395,13 @@ RowHandle.tooltip.TableHeader=Tabla - Encabezado
 #RowHandleAdapter properties
 RowHandleAdapter.table.detail=Fila de detalle
 
-RowHandleAdapter.table.footer=Fila de pie de p·gina
+RowHandleAdapter.table.footer=Fila de pie de p√°gina
 
 RowHandleAdapter.table.groupFooter=Fila de pie de grupo
 
 RowHandleAdapter.table.groupHeader=Fila de encabezado de grupo
 
-RowHandleAdapter.table.header=LÌnea de cabecera
+RowHandleAdapter.table.header=L√≠nea de cabecera
 
 ###########################################################
 #RowPageGenerator properties
@@ -5409,7 +5409,7 @@ RowPageGenerator.List.Bookmark=Marcador
 
 RowPageGenerator.List.Borders=Borde
 
-RowPageGenerator.List.Section=Salto de p·gina
+RowPageGenerator.List.Section=Salto de p√°gina
 
 RowPageGenerator.List.CellPadding=Relleno de celdas
 
@@ -5427,9 +5427,9 @@ RowProvider.action.text.below=Insertar fila &debajo
 
 ###########################################################
 #SaveAsDialog properties
-SaveAsDialog.message=Guardar archivo en otra ubicaciÛn.
+SaveAsDialog.message=Guardar archivo en otra ubicaci√≥n.
 
-SaveAsDialog.overwriteQuestion=El archivo ''{0}'' ya existe. øDesea reemplazar el archivo existente?
+SaveAsDialog.overwriteQuestion=El archivo ''{0}'' ya existe. ¬øDesea reemplazar el archivo existente?
 
 SaveAsDialog.Question=Pregunta
 
@@ -5439,25 +5439,25 @@ SaveAsDialog.title=Guardar como
 
 ###########################################################
 #CreateDirectory properties
-DirectoryDialog.createQuestion=El directorio ''{0}'' no existe. øDesea crearlo?
+DirectoryDialog.createQuestion=El directorio ''{0}'' no existe. ¬øDesea crearlo?
 
 DirectoryDialog.Question=Pregunta
 
 ###########################################################
 #SchematicContextMenuProvider properties
-SchematicContextMenuProvider.ActionText.editData=Editar &valor/expresiÛn...
+SchematicContextMenuProvider.ActionText.editData=Editar &valor/expresi√≥n...
 
 SchematicContextMenuProvider.ActionText.editLabel=&Editar
 
-SchematicContextMenuProvider.label.ResetSize=Restablecer tamaÒo de &imagen
+SchematicContextMenuProvider.label.ResetSize=Restablecer tama√±o de &imagen
 
-SchematicContextMenuProvider.label.ResetToImageDPI=Mejor resoluciÛn de &imagen de ajuste
+SchematicContextMenuProvider.label.ResetToImageDPI=Mejor resoluci√≥n de &imagen de ajuste
 
-SchematicContextMenuProvider.label.ResetToReportDPI=Mejor resoluciÛn &de informe de ajuste
+SchematicContextMenuProvider.label.ResetToReportDPI=Mejor resoluci√≥n &de informe de ajuste
 
-SchematicContextMenuProvider.label.ResetToScreenDPI=Mejor resoluciÛn de &pantalla de ajuste
+SchematicContextMenuProvider.label.ResetToScreenDPI=Mejor resoluci√≥n de &pantalla de ajuste
 
-SchematicContextMenuProvider.label.RestToOrginalPixels=En &pÌxeles originales
+SchematicContextMenuProvider.label.RestToOrginalPixels=En &p√≠xeles originales
 
 SchematicContextMenuProvider.Menu.EditGroup=Editar &grupo
 
@@ -5479,7 +5479,7 @@ SchematicContextMenuProvider.Menu.Theme=Te&ma
 
 SchematicContextMenuProvider.Menu.Theme.Apply=A&plicar tema
 
-SchematicContextMenuProvider.Menu.Layout=P&referencia de diseÒo
+SchematicContextMenuProvider.Menu.Layout=P&referencia de dise√±o
 #SchematicContextMenuProvider.menutitle.applystylerule=Apply Style
 #SchematicContextMenuProvider.menutitle.applythemerule=&Apply Theme
 #SchematicContextMenuProvider.menutitle.editgroup=Edit Group
@@ -5493,15 +5493,15 @@ SchematicContextMenuProvider.Menu.DeleteStyle=Quitar e&stilo
 
 SchematicContextMenuProvider.Menu.DeleteGroup=E&liminar grupo
 
-SchematicContextMenuProvider.Menu.InsertGroupHeaderFooter=Insertar e&ncabezado/pie de p·gina de grupo
+SchematicContextMenuProvider.Menu.InsertGroupHeaderFooter=Insertar e&ncabezado/pie de p√°gina de grupo
 
 SchematicContextMenuProvider.Menu.NewStyle=Nuevo Est%ilo
 
 ###########################################################
 #ApplyLayoutPreferenceAction properties
-ApplyLayoutPreferenceAction.autoLayout=DiseÒo a&utom·tico
+ApplyLayoutPreferenceAction.autoLayout=Dise√±o a&utom√°tico
 
-ApplyLayoutPreferenceAction.fixedLayout=DiseÒo &fijo
+ApplyLayoutPreferenceAction.fixedLayout=Dise√±o &fijo
 
 ###########################################################
 #SectionProcess properties
@@ -5519,11 +5519,11 @@ SectionProcess.action.NewGroup=Nuevo grupo
 
 SectionProcess.action.NewRow=Nueva fila
 
-SectionProcess.action.NewSection=Nueva secciÛn
+SectionProcess.action.NewSection=Nueva secci√≥n
 
-SectionProcess.action.NewSubSection=Nueva subsecciÛn
+SectionProcess.action.NewSubSection=Nueva subsecci√≥n
 
-SectionProcess.displayname.GridProcess=CuadrÌcula
+SectionProcess.displayname.GridProcess=Cuadr√≠cula
 
 SectionProcess.displayname.GroupProcess=Grupo
 
@@ -5557,9 +5557,9 @@ SelectAllAction.text=Seleccionar &todo
 #SelectCssStyleWizard properties
 SelectCssStyleWizard.wizard.title=Importar estilos CSS
 
-SelectCssStyleWizard.wizardPage.description.report=Seleccione un archivo CSS e importe estilos a un diseÒo de informe.
+SelectCssStyleWizard.wizardPage.description.report=Seleccione un archivo CSS e importe estilos a un dise√±o de informe.
 
-SelectCssStyleWizard.wizardPage.description.library=Seleccione un archivo CSS e importe estilos a la librerÌa.
+SelectCssStyleWizard.wizardPage.description.library=Seleccione un archivo CSS e importe estilos a la librer√≠a.
 
 SelectCssStyleWizard.wizardPage.name=Seleccionar estilos Css
 
@@ -5575,53 +5575,53 @@ UseCssInReportDialog.Label.Styles=&Estilos disponibles de {0}
 
 UseCssInReportDialog.Label.notifications=&Notificaciones
 
-UseCssInReportDialog.TitleArea.Title=Utilizar el archivo CSS en el diseÒo de informes
+UseCssInReportDialog.TitleArea.Title=Utilizar el archivo CSS en el dise√±o de informes
 
-UseCssInReportDialog.TitleArea.Message=Seleccionar un archivo CSS de la carpeta compartida de librerÌas y utilizar sus estilos en el diseÒo de informes.
+UseCssInReportDialog.TitleArea.Message=Seleccionar un archivo CSS de la carpeta compartida de librer√≠as y utilizar sus estilos en el dise√±o de informes.
 
-UseCssInReportDialog.Label.No.File=No se ha seleccionado ning˙n archivo CSS
+UseCssInReportDialog.Label.No.File=No se ha seleccionado ning√∫n archivo CSS
 
 UseCssInReportDialog.Dialog.Browse=Examinar
 
 UseCssInReportDialog.Dialog.Browse.Title=Seleccionar un archivo CSS para incluirlo en el informe
 
-UseCssInReportDialog.Dialog.Browse.Library.Title=Seleccionar un archivo CSS para incluirlo en la librerÌa
+UseCssInReportDialog.Dialog.Browse.Library.Title=Seleccionar un archivo CSS para incluirlo en la librer√≠a
 
 UseCssInReportDialog.Error.Already.Include={0} ya se ha incluido
 
-UseCssInReportDialog.Dialog.Button.viewTimeBtn.Text=&Incluir el archivo CSS en el momento de la visualizaciÛn (sÛlo en formato HTML)
+UseCssInReportDialog.Dialog.Button.viewTimeBtn.Text=&Incluir el archivo CSS en el momento de la visualizaci√≥n (s√≥lo en formato HTML)
 
-UseCssInReportDialog.Dialog.Label.viewTimeLb=Visualizar la ubicaciÛn temporal del archivo CSS:
+UseCssInReportDialog.Dialog.Label.viewTimeLb=Visualizar la ubicaci√≥n temporal del archivo CSS:
 
 UseCssInReportDialog.Dialog.Label.example=por ejemplo, http://mydomain/test.css, myfolder/test/css
 
 UseCssInReportDialog.Dialog.Label.Theme.Text=&Tema:
 
 UseCssInReportDialog.Dialog.Text.uri=&URI:
-UseCssInThemeDialog.TitleArea.Title=Utilizar el archivo CSS en la librerÌa de informes
+UseCssInThemeDialog.TitleArea.Title=Utilizar el archivo CSS en la librer√≠a de informes
 
 UseCssInThemeDialog.TitleArea.Message=Seleccionar un tema al que aplicar los estilos del archivo CSS.
 
 CssStyleSheetNodeProvider.Label.FromServer=Del servidor
 
-CssStyleSheetNodeProvider.Tooltip.URI=(Aplicado en el momento de la visualizaciÛn)
+CssStyleSheetNodeProvider.Tooltip.URI=(Aplicado en el momento de la visualizaci√≥n)
 
 
 ###########################################################
 #SelectValueDialog properties
 SelectValueDialog.errorRetrievinglist=Error al recuperar la lista
 
-SelectValueDialog.messages.info.selectVauleUnavailable=La lista de valores no est· disponible.
+SelectValueDialog.messages.info.selectVauleUnavailable=La lista de valores no est√° disponible.
 
-SelectValueDialog.messages.info.invalidSelectVauleExpression=La funciÛn "Seleccionar valor" sÛlo acepta una columna de expresiÛn simple. Se rechazan las expresiones complejas.
+SelectValueDialog.messages.info.invalidSelectVauleExpression=La funci√≥n "Seleccionar valor" s√≥lo acepta una columna de expresi√≥n simple. Se rechazan las expresiones complejas.
 
-SelectValueDialog.messages.warning.BlobColumn.unsupported=No se puede recuperar la lista de valores de la expresiÛn referenciada para enlace/columna de tipo Blob.
+SelectValueDialog.messages.warning.BlobColumn.unsupported=No se puede recuperar la lista de valores de la expresi√≥n referenciada para enlace/columna de tipo Blob.
 
-SelectValueDialog.messages.error.selectVauleUnavailable=No se puede recuperar el valor de la expresiÛn.
+SelectValueDialog.messages.error.selectVauleUnavailable=No se puede recuperar el valor de la expresi√≥n.
 
-SelectValueDialog.messages.error.selectValueNotSupported=No se admite este tipo de selecciÛn de valor.
+SelectValueDialog.messages.error.selectValueNotSupported=No se admite este tipo de selecci√≥n de valor.
 
-SelectValueDialog.noExpressionSet=No se ha ajustado ninguna expresiÛn
+SelectValueDialog.noExpressionSet=No se ha ajustado ninguna expresi√≥n
 
 SelectValueDialog.retrieving=Recuperando lista...
 
@@ -5631,11 +5631,11 @@ SelectValueDialog.SelectValue.NullValue=<Valor nulo>
 
 ###########################################################
 #SetConstraintCommand properties
-SetConstraintCommand.Error.SetConstraintError=Se ha producido un error al establecer una restricciÛn en el modelo.
+SetConstraintCommand.Error.SetConstraintError=Se ha producido un error al establecer una restricci√≥n en el modelo.
 
-SetConstraintCommand.transLabel.setConstraint=Establecer restricciÛn
+SetConstraintCommand.transLabel.setConstraint=Establecer restricci√≥n
 
-SetConstraintCommand.commandLabel.ResizeCommand=Cambiar tamaÒo
+SetConstraintCommand.commandLabel.ResizeCommand=Cambiar tama√±o
 ###########################################################
 #ProjectFilterAction properties
 ProjectFilterAction.text=Filtrar...
@@ -5646,7 +5646,7 @@ ResourceFileFolderSelectionAction.text=Filtrar...
 
 ###########################################################
 #ResourceFileFolderSelectionDialog properties
-ResourceFileFolderSelectionDialog.Text.Menu=men˙
+ResourceFileFolderSelectionDialog.Text.Menu=men√∫
 
 ResourceFileFolderSelectionDialog.button.importFile=Importar archivo...
 
@@ -5654,7 +5654,7 @@ ResourceFileFolderSelectionDialog.title.error=Error
 
 ResourceFileFolderSelectionDialog.title.overwrite=Sobrescribir
 
-ResourceFileFolderSelectionDialog.overwrite.msg=Ya existe un archivo con este nombre, ødesea sobrescribirlo?
+ResourceFileFolderSelectionDialog.overwrite.msg=Ya existe un archivo con este nombre, ¬ødesea sobrescribirlo?
 
 ResourceFileFolderSelectionDialog.import.msg=Importando archivo...
 
@@ -5664,11 +5664,11 @@ ShowPropertyAction.text=P&ropiedades
 
 ###########################################################
 #SortingHandleProvider properties
-SortingHandleProvider.Label.SortOn=Ordenar seg˙n:
+SortingHandleProvider.Label.SortOn=Ordenar seg√∫n:
 
 ###########################################################
 #Spinner properties
-Spinner.DialogTitle.InvalidNumber=N˙mero no v·lido
+Spinner.DialogTitle.InvalidNumber=N√∫mero no v√°lido
 
 ###########################################################
 #SplitAction properties
@@ -5676,17 +5676,17 @@ SplitAction.actionMsg.splitCells=&Dividir celda
 
 ###########################################################
 #StyleBuilder properties
-StringVariableSelectionDialog.Dialog.Label=&DescripciÛn de la variable:
+StringVariableSelectionDialog.Dialog.Label=&Descripci√≥n de la variable:
 
-StringVariableSelectionDialog.Dialog.Prompt=&Seleccionar una variable (? = cualquier car·cter, * = cualquier string):
+StringVariableSelectionDialog.Dialog.Prompt=&Seleccionar una variable (? = cualquier car√°cter, * = cualquier string):
 
 StringVariableSelectionDialog.Dialog.Title=Seleccionar variable
 
 StyleBuilder.action.Apply=&Aplicar
 
-StyleBuilder.Edit.Info=Modificar las propiedades de estilo deseadas. Todos los elementos de informe que utilizan este estilo se actualizan autom·ticamente para reflejar el nuevo formato.
+StyleBuilder.Edit.Info=Modificar las propiedades de estilo deseadas. Todos los elementos de informe que utilizan este estilo se actualizan autom√°ticamente para reflejar el nuevo formato.
 
-StyleBuilder.New.Info=Para crear un estilo nuevo, se debe seleccionar una categorÌa de propiedades en la parte izquierda y especificar los valores de las propiedades.
+StyleBuilder.New.Info=Para crear un estilo nuevo, se debe seleccionar una categor√≠a de propiedades en la parte izquierda y especificar los valores de las propiedades.
 
 StyleBuilder.Title=Estilo
 
@@ -5736,9 +5736,9 @@ TableEditPart.GUIDEHANDLE_TEXT =Tabla
 
 TableEditPart.Label.Merge=Combinar celdas
 
-TableEditPart.Label.ResizeColumn=Cambiar tamaÒo de columna
+TableEditPart.Label.ResizeColumn=Cambiar tama√±o de columna
 
-TableEditPart.Label.ResizeRow=Cambiar tamaÒo de fila
+TableEditPart.Label.ResizeRow=Cambiar tama√±o de fila
 
 ###########################################################
 #TableFigure properties
@@ -5758,7 +5758,7 @@ TableArea.Button.RemoveAll=Qui&tar todos
 #TableHandleAdapter properties
 TableHandleAdapter.name.detail=detalle
 
-TableHandleAdapter.name.footer=pie de p·gina
+TableHandleAdapter.name.footer=pie de p√°gina
 
 TableHandleAdapter.name.header=encabezado
 
@@ -5786,27 +5786,27 @@ TableHandleAdapter.transLable.deleteGroup=Eliminar grupo de tablas
 
 ###########################################################
 #TableOptionDialog properties
-TableOptionDialog.message.RememberGrid=&Utilizar estas dimensiones para nuevas cuadrÌculas.
+TableOptionDialog.message.RememberGrid=&Utilizar estas dimensiones para nuevas cuadr√≠culas.
 
 TableOptionDialog.message.RememberTable=U&tilizar estas dimensiones para nuevas tablas.
 
-TableOptionDialog.text.Column=N˙mero de columna&s:
+TableOptionDialog.text.Column=N√∫mero de columna&s:
 
-TableOptionDialog.text.GridRow=N˙mero de &filas:
+TableOptionDialog.text.GridRow=N√∫mero de &filas:
 
-TableOptionDialog.text.GridSize=TamaÒo de cuadrÌcula
+TableOptionDialog.text.GridSize=Tama√±o de cuadr√≠cula
 
-TableOptionDialog.text.TableDetail=N˙mero de deta&lles:
+TableOptionDialog.text.TableDetail=N√∫mero de deta&lles:
 
-TableOptionDialog.text.TableSize=TamaÒo de tabla
+TableOptionDialog.text.TableSize=Tama√±o de tabla
 
-TableOptionDialog.title.InsertGrid=Insertar cuadrÌcula
+TableOptionDialog.title.InsertGrid=Insertar cuadr√≠cula
 
 TableOptionDialog.title.InsertTable=Insertar tabla
 
 TableOptionDialog.text.DataSet=Conjunto de d&atos:
 
-TableOptionDialog.text.AutoSummary=Resumen &autom·tico activado
+TableOptionDialog.text.AutoSummary=Resumen &autom√°tico activado
 
 TableOptionPage.Title=Insertar tabla
 
@@ -5824,7 +5824,7 @@ TablePageGenerator.List.General=General
 
 TablePageGenerator.List.Marign=Margen
 
-TablePageGenerator.List.Section=Salto de p·gina
+TablePageGenerator.List.Section=Salto de p√°gina
 
 TablePageGenerator.List.TOC=Tabla de contenido
 
@@ -5832,7 +5832,7 @@ TablePageGenerator.List.Visibility=Visibilidad
 
 ###########################################################
 #TemplateReportItemPropertiesDialog properties
-TemplateReportItemPropertiesDialog.errorMessage=El texto de solicitud no puede estar vacÌo.
+TemplateReportItemPropertiesDialog.errorMessage=El texto de solicitud no puede estar vac√≠o.
 
 TemplateReportItemPropertiesDialog.errorTitle=Error
 
@@ -5860,7 +5860,7 @@ TogglePropertyDescriptor.toolTipText.Italic=Cursiva
 
 TogglePropertyDescriptor.toolTipText.Underline=Subrayado
 
-TogglePropertyDescriptor.toolTipText.Text_Line_Through=LÌnea a travÈs del texto
+TogglePropertyDescriptor.toolTipText.Text_Line_Through=L√≠nea a trav√©s del texto
 
 ###########################################################
 #TextAlignPropertyDescriptor properties
@@ -5924,47 +5924,47 @@ TextAreaContextMenu.Undo.tooltip=Deshacer
 
 ###########################################################
 #TextDataEditPart properties
-TextDataEditPart.Figure.Dafault=Texto din·mico
+TextDataEditPart.Figure.Dafault=Texto din√°mico
 
 ###########################################################
 #TextEditDialog properties
 TextEditDialog.action.text.direction=&Sentido de lectura de derecha a izquierda
 
-TextEditDialog.action.text.editDynamicText=Editar te&xto din·mico
+TextEditDialog.action.text.editDynamicText=Editar te&xto din√°mico
 
 TextEditDialog.action.text.formatDateTime=DateTim&e de formato
 
-TextEditDialog.action.text.formatNumber=&Formato de n˙mero
+TextEditDialog.action.text.formatNumber=&Formato de n√∫mero
 
 TextEditDialog.action.text.formatString=Strin&g de formato
 
 TextEditDialog.action.text.formatHTML=Formato &HTML
 
-TextEditDialog.choice.HTML=Texto HTML/din·mico
+TextEditDialog.choice.HTML=Texto HTML/din√°mico
 
 TextEditDialog.choice.plainText=Texto sin formato
 
-TextEditDialog.choice.Auto=Autom·tico
+TextEditDialog.choice.Auto=Autom√°tico
 
-TextEditDialog.comboText.formattingAndLayout=Formato y diseÒo
+TextEditDialog.comboText.formattingAndLayout=Formato y dise√±o
 
-TextEditDialog.format.dynamicText=Texto din·mico
+TextEditDialog.format.dynamicText=Texto din√°mico
 
-TextEditDialog.format.formatting=Formato y diseÒo
+TextEditDialog.format.formatting=Formato y dise√±o
 
 TextEditDialog.format.lists=Listas
 
-TextEditDialog.format.pageComposition=ComposiciÛn de p·gina
+TextEditDialog.format.pageComposition=Composici√≥n de p√°gina
 
-TextEditDialog.format.pageElements=Elementos de p·gina
+TextEditDialog.format.pageElements=Elementos de p√°gina
 
 TextEditDialog.formatChoice.content=Contenido
 
-TextEditDialog.formatChoice.dynamicText=Texto din·mico
+TextEditDialog.formatChoice.dynamicText=Texto din√°mico
 
 TextEditDialog.formatChoice.formatting=Formato
 
-TextEditDialog.formatChoice.layout=DiseÒo
+TextEditDialog.formatChoice.layout=Dise√±o
 
 TextEditDialog.formatChoice.lists=Listas
 
@@ -5972,27 +5972,27 @@ TextEditDialog.toolTip.tag.a=Delimitador
 
 TextEditDialog.toolTip.tag.b=Estilo de texto negrita
 
-TextEditDialog.toolTip.tag.birtImage=Imagen especÌfica de BIRT
+TextEditDialog.toolTip.tag.birtImage=Imagen espec√≠fica de BIRT
 
-TextEditDialog.toolTip.tag.br=InterrupciÛn de lÌnea
+TextEditDialog.toolTip.tag.br=Interrupci√≥n de l√≠nea
 
 TextEditDialog.toolTip.tag.center=Centra el texto
 
-TextEditDialog.toolTip.tag.code=Fragmento de cÛdigo inform·tico
+TextEditDialog.toolTip.tag.code=Fragmento de c√≥digo inform√°tico
 
-TextEditDialog.toolTip.tag.dd=DescripciÛn de definiciÛn
+TextEditDialog.toolTip.tag.dd=Descripci√≥n de definici√≥n
 
 TextEditDialog.toolTip.tag.del=Texto eliminado
 
-TextEditDialog.toolTip.tag.dl=Lista de definiciÛn
+TextEditDialog.toolTip.tag.dl=Lista de definici√≥n
 
-TextEditDialog.toolTip.tag.dt=TÈrmino de definiciÛn
+TextEditDialog.toolTip.tag.dt=T√©rmino de definici√≥n
 
-TextEditDialog.toolTip.tag.em=…nfasis
+TextEditDialog.toolTip.tag.em=√ânfasis
 
 TextEditDialog.toolTip.tag.font=Cambio local a fuente
 
-TextEditDialog.toolTip.tag.genericStyleContainer=Contenedor de estilo/idioma genÈrico
+TextEditDialog.toolTip.tag.genericStyleContainer=Contenedor de estilo/idioma gen√©rico
 
 TextEditDialog.toolTip.tag.h1=Nivel de encabezado 1
 
@@ -6008,21 +6008,21 @@ TextEditDialog.toolTip.tag.h6=Nivel de encabezado 6
 
 TextEditDialog.toolTip.tag.i=Estilo de texto en cursiva
 
-TextEditDialog.toolTip.tag.img=Referencia de imagen HTML est·ndar
+TextEditDialog.toolTip.tag.img=Referencia de imagen HTML est√°ndar
 
 TextEditDialog.toolTip.tag.ins=Texto insertado
 
 TextEditDialog.toolTip.tag.li=Elemento de la lista
 
-TextEditDialog.toolTip.tag.p=P·rrafo
+TextEditDialog.toolTip.tag.p=P√°rrafo
 
 TextEditDialog.toolTip.tag.pre=Texto con formato previo
 
-TextEditDialog.toolTip.tag.strong=…nfasis fuerte
+TextEditDialog.toolTip.tag.strong=√ânfasis fuerte
 
-TextEditDialog.toolTip.tag.sub=SubÌndice
+TextEditDialog.toolTip.tag.sub=Sub√≠ndice
 
-TextEditDialog.toolTip.tag.sup=SuperÌndice
+TextEditDialog.toolTip.tag.sup=Super√≠ndice
 
 TextEditDialog.toolTip.tag.tt=Estilo de texto espacio sencillo o teletipo
 
@@ -6049,7 +6049,7 @@ TextEditDialog.toolTipText.fx=Abrir el compilador de expresiones
 TextEditDialog.action.item.formatHTML=Formato HTML
 TextEditDialog.action.item.formatDateTime=Formato de fecha/hora
 
-TextEditDialog.action.item.formatNumber=Formato de n˙mero
+TextEditDialog.action.item.formatNumber=Formato de n√∫mero
 
 TextEditDialog.action.item.formatString=Formato de string
 
@@ -6065,7 +6065,7 @@ TextEditPart.trans.editText=Editar elemento de texto
 
 ###########################################################
 #TextExtendsTools properties
-TextExtendsTools.Message.DefaultAuthor=VersiÛn de Birt Eclipse Report Designer
+TextExtendsTools.Message.DefaultAuthor=Versi√≥n de Birt Eclipse Report Designer
 
 ###########################################################
 #TextPageGenerator properties
@@ -6075,13 +6075,13 @@ TextPageGenerator.List.Borders=Borde
 
 TextPageGenerator.List.General=General
 
-TextPageGenerator.List.I18n=LocalizaciÛn
+TextPageGenerator.List.I18n=Localizaci√≥n
 
 TextPageGenerator.List.Margin=Margen
 
 TextPageGenerator.List.Padding=Relleno
 
-TextPageGenerator.List.Section=Salto de p·gina
+TextPageGenerator.List.Section=Salto de p√°gina
 
 TextPageGenerator.List.TOC=Tabla de contenido
 
@@ -6089,7 +6089,7 @@ TextPageGenerator.List.Visibility=Visibilidad
 
 ###########################################################
 #TextPropertyDescriptor properties
-TextPropertyDescriptor.Message.Version=Eclipse BIRT Designer versiÛn {0} compilaciÛn <{1}>
+TextPropertyDescriptor.Message.Version=Eclipse BIRT Designer versi√≥n {0} compilaci√≥n <{1}>
 
 ###########################################################
 #AutoTextPageGenerator properties
@@ -6103,7 +6103,7 @@ AutoTextPageGenerator.List.Margin=Margen
 
 AutoTextPageGenerator.List.Padding=Relleno
 
-AutoTextPageGenerator.List.Section=Salto de p·gina
+AutoTextPageGenerator.List.Section=Salto de p√°gina
 
 AutoTextPageGenerator.List.TOC=Tabla de contenido
 
@@ -6127,9 +6127,9 @@ TimeOptionDialog.Label.TimeZone=TimeZone
 
 ###########################################################
 #ToggleMarginVisibilityAction properties
-ToggleMarginVisibilityAction.text.Label=Mostrar &m·rgenes
+ToggleMarginVisibilityAction.text.Label=Mostrar &m√°rgenes
 
-ToggleMarginVisibilityAction.text.Tooltip=Alternar m·rgenes
+ToggleMarginVisibilityAction.text.Tooltip=Alternar m√°rgenes
 
 ###########################################################
 #TwinExpressionDialog properties
@@ -6145,17 +6145,17 @@ UndoAction.Tooltip=Deshacer {0}
 
 ###########################################################
 #UnitPropertyDescriptor properties
-UnitPropertyDescriptor.error.message=Introduzca un valor m·s pequeÒo\!
+UnitPropertyDescriptor.error.message=Introduzca un valor m√°s peque√±o\!
 
 UnitPropertyDescriptor.error.title=Valor demasiado grande
 
 ###########################################################
 #UseLibraryAction properties
-UseLibraryAction.Text=&Usar librerÌa
+UseLibraryAction.Text=&Usar librer√≠a
 
 UseLibraryAction.Error.Title=Sustituir archivo existente
 
-UseLibraryAction.Error.Message=El archivo ''{0}'' ya existe la carpeta de recursos de BIRT. øDesea reemplazar el archivo existente?
+UseLibraryAction.Error.Message=El archivo ''{0}'' ya existe la carpeta de recursos de BIRT. ¬øDesea reemplazar el archivo existente?
 
 ###########################################################
 #UseCSSAction properties
@@ -6175,13 +6175,13 @@ UserPropertiesHandleProvier.Column.Type=Tipo
 
 UserPropertyBuilder.Label.DefaultValue=&Valor predeterminado:
 
-UserPropertyBuilder.Label.ExpressionName=Nombre de la ex&presiÛn:
+UserPropertyBuilder.Label.ExpressionName=Nombre de la ex&presi√≥n:
 
 UserPropertyBuilder.Label.PropertyName=Nombre de la propie&dad:
 
 UserPropertyBuilder.Label.PropertyType=Tipo de propieda&d:
 
-UserPropertyBuilder.Title.NamedExpression=Nueva expresiÛn con nombre
+UserPropertyBuilder.Title.NamedExpression=Nueva expresi√≥n con nombre
 
 ###########################################################
 #VisibilityPage properties
@@ -6191,15 +6191,15 @@ VisibilityPage.Check.HTML=H&TML
 VisibilityPage.Check.PDF=&PDF
 VisibilityPage.Label.DetailAll=Detalle (todas las salidas)
 
-VisibilityPage.Label.DetailSpecific=Detalle (salidas especÌficas)
+VisibilityPage.Label.DetailSpecific=Detalle (salidas espec√≠ficas)
 
-VisibilityPage.Label.Expression=ExpresiÛn:
+VisibilityPage.Label.Expression=Expresi√≥n:
 
 VisibilityPage.menu.SaveHides=Guardar elementos ocultos
 
 VisibilityPage.Radio.AllOutputs=Para todas las s&alidas
 
-VisibilityPage.Radio.SpecificOutputs=Para salidas espe&cÌficas...
+VisibilityPage.Radio.SpecificOutputs=Para salidas espe&c√≠ficas...
 
 ###########################################################
 #WidgetUtil properties
@@ -6227,19 +6227,19 @@ WizardCustomTemplatePage.label.FromLocal=Examinar en el sistema de archivos loca
 
 WizardCustomTemplatePage.label.FromProjectDescription=Seleccionar archivo de informe existente.
 
-WizardCustomTemplatePage.label.FromProjectTitle=SelecciÛn de archivo de informe
+WizardCustomTemplatePage.label.FromProjectTitle=Selecci√≥n de archivo de informe
 
 ###########################################################
 #WizardNewReportCreationPage properties
 WizardNewReportCreationPage.Errors.nameExists=El nombre ya existe.
 
-WizardNewReportCreationPage.Errors.nameEmpty=El nombre no puede estar vacÌo.
+WizardNewReportCreationPage.Errors.nameEmpty=El nombre no puede estar vac√≠o.
 
 WizardNewReportCreationPage.label.browse=Examinar...
 
 WizardNewReportCreationPage.label.directory=Directorio:
 
-WizardNewReportCreationPage.label.file.location=UbicaciÛn de archivo
+WizardNewReportCreationPage.label.file.location=Ubicaci√≥n de archivo
 
 WizardNewReportCreationPage.label.file.name=Nombre de archivo:
 
@@ -6249,15 +6249,15 @@ WizardNewReportCreationPage.label.useDefault=Usar predeterminado
 
 WizardNewReportCreationPage.msg.duplicate.fileName=El nombre ya existe.
 
-WizardNewReportCreationPage.msg.empty.file.locationDirectory=El directorio de ubicaciÛn de archivo no puede estar vacÌo.
+WizardNewReportCreationPage.msg.empty.file.locationDirectory=El directorio de ubicaci√≥n de archivo no puede estar vac√≠o.
 
-WizardNewReportCreationPage.msg.empty.file.name=El nombre de archivo no puede estar vacÌo.
+WizardNewReportCreationPage.msg.empty.file.name=El nombre de archivo no puede estar vac√≠o.
 
 ###########################################################
 #WizardSelectCssStylePage properties
 WizardSelectCssStylePage.button.label.browse=&Examinar...
 
-WizardSelectCssStylePage.button.label.deselectAll=&Anular la selecciÛn de todo
+WizardSelectCssStylePage.button.label.deselectAll=&Anular la selecci√≥n de todo
 
 WizardSelectCssStylePage.button.label.selectAll=&Seleccionar todo
 
@@ -6267,35 +6267,35 @@ WizardSelectCssStylePage.info.canNotImport=\ \ (No se pueda importar)
 
 WizardSelectCssStylePage.label.fileName=&Nombre de archivo:
 
-WizardSelectCssStylePage.label.importToReportDesign=\ para importar al diseÒo de informe.
+WizardSelectCssStylePage.label.importToReportDesign=\ para importar al dise√±o de informe.
 
 WizardSelectCssStylePage.label.notifications=Notificaciones:
 
 WizardSelectCssStylePage.label.selectStylesFrom=Seleccionar los estilos de
 
-WizardSelectCssStylePage.msg.FileNameEmpty=El nombre de archivo no puede estar vacÌo.
+WizardSelectCssStylePage.msg.FileNameEmpty=El nombre de archivo no puede estar vac√≠o.
 
 WizardSelectCssStylePage.text.cannot.import.style=\ - No se puede importar el estilo.
 
 WizardSelectCssStylePage.FileNameError.Title=Error
 
-WizardSelectCssStylePage.FileNameError.Message=El archivo seleccionado no es v·lido.
+WizardSelectCssStylePage.FileNameError.Message=El archivo seleccionado no es v√°lido.
 
 ###########################################################
 #WizardTemplateChoicePage properties
-WizardTemplateChoicePage.label.Description=DescripciÛn:
+WizardTemplateChoicePage.label.Description=Descripci√≥n:
 
 WizardTemplateChoicePage.label.Preview=Vista previa:
 
 WizardTemplateChoicePage.label.ReportTemplates=Plantillas de informes:
 
-WizardTemplateChoicePage.label.ShowCheatSheets=&Mostrar archivo de consejos ˙tiles para la creaciÛn de informes
+WizardTemplateChoicePage.label.ShowCheatSheets=&Mostrar archivo de consejos √∫tiles para la creaci√≥n de informes
 
 WizardTemplateChoicePage.label.EnableDefaultThemes=&Incluir los temas predeterminados
 
 WizardTemplateChoicePage.message.BlankReport=Crear un informe en blanco sin contenido predefinido.
 
-WizardTemplateChoicePage.message.ChartListing=Crear un informe agrupado con un diagrama que ofrece una representaciÛn visual de cada dato del grupo.
+WizardTemplateChoicePage.message.ChartListing=Crear un informe agrupado con un diagrama que ofrece una representaci√≥n visual de cada dato del grupo.
 
 WizardTemplateChoicePage.message.DualColumnChartListing=Crear un informe agrupado con dos subgrupos de "diagrama y listado".
 
@@ -6307,7 +6307,7 @@ WizardTemplateChoicePage.message.GroupedListing=Crear un informe de listado con 
 
 WizardTemplateChoicePage.message.Letter=Crear una plantilla para generar cartas personalizadas con los campos de la fuente de datos.
 
-WizardTemplateChoicePage.message.MailingLabels=Etiquetas de envÌo
+WizardTemplateChoicePage.message.MailingLabels=Etiquetas de env√≠o
 
 WizardTemplateChoicePage.message.SideBySideChartListing=Crear un informe agrupado en el que cada grupo contiene un diagrama y un listado en paralelo.
 
@@ -6315,9 +6315,9 @@ WizardTemplateChoicePage.message.SimpleListing=Crear un informe de listado con c
 
 WizardTemplateChoicePage.message.Crosstab=Use un tutorial para crear un informe de tabla de referencias cruzadas
 
-WizardTemplateChoicePage.message.BlankAuto=Una plantilla de informe en blanco, que activar· autom·ticamente la interactividad cuando se visualice.
+WizardTemplateChoicePage.message.BlankAuto=Una plantilla de informe en blanco, que activar√° autom√°ticamente la interactividad cuando se visualice.
 
-WizardTemplateChoicePage.title.BlankAuto=Informe interactivo autom·tico en blanco
+WizardTemplateChoicePage.title.BlankAuto=Informe interactivo autom√°tico en blanco
 
 WizardTemplateChoicePage.title.BlankReport=Informe en blanco
 
@@ -6333,7 +6333,7 @@ WizardTemplateChoicePage.title.GroupedListing=Listado agrupado
 
 WizardTemplateChoicePage.title.Letter=Carta
 
-WizardTemplateChoicePage.title.MailingLabels=Etiquetas de envÌo
+WizardTemplateChoicePage.title.MailingLabels=Etiquetas de env√≠o
 
 WizardTemplateChoicePage.title.SideBySideChartListing=Diagrama y listado en paralelo
 
@@ -6345,21 +6345,21 @@ WizardTemplateChoicePage.label.rtlBiDiOrientation=De derecha a izquierda
 
 WizardTemplateChoicePage.label.ltrBiDiOrientation=De izquierda a derecha
 
-WizardTemplateChoicePage.label.chooseBiDiDirection=&OrientaciÛn del informe:
+WizardTemplateChoicePage.label.chooseBiDiDirection=&Orientaci√≥n del informe:
 
-WizardTemplateChoicePage.RootDisplayName=Est·ndar
+WizardTemplateChoicePage.RootDisplayName=Est√°ndar
 #bidi_hcg end
 ###########################################################
 #XMLSourcePage properties
-XMLSourcePage.Error.Dialog.Message.InvalidFile=Se debe corregir el error de la p·gina fuente XML antes de poder utilizar otras p·ginas.
+XMLSourcePage.Error.Dialog.Message.InvalidFile=Se debe corregir el error de la p√°gina fuente XML antes de poder utilizar otras p√°ginas.
 
-XMLSourcePage.Error.Dialog.Message.SaveFile=La p·gina fuente XML se ha modificado. No se pueden utilizar otras p·ginas hasta que se guarde la fuente.
+XMLSourcePage.Error.Dialog.Message.SaveFile=La p√°gina fuente XML se ha modificado. No se pueden utilizar otras p√°ginas hasta que se guarde la fuente.
 
 XMLSourcePage.Error.Dialog.title=Error
 
-XMLSourcePage.Error.Dialog.Message.PromptMsg=La fuente del diseÒo de informe XML se ha modificado. øDesea guardar los cambios?
+XMLSourcePage.Error.Dialog.Message.PromptMsg=La fuente del dise√±o de informe XML se ha modificado. ¬øDesea guardar los cambios?
 
-XMLSourcePage.Error.Dialog.Message.Yes=SÌ
+XMLSourcePage.Error.Dialog.Message.Yes=S√≠
 
 XMLSourcePage.Error.Dialog.Message.No=No
 
@@ -6371,19 +6371,19 @@ SaveReportAsWizard.SettingPage.title=Establecer propiedad de plantilla
 
 SaveReportAsWizard.SaveAsPageTitle=Guardar como
 
-SaveReportAsWizard.SaveAsLibraryMessage=Guardar archivo como librerÌa con otro nombre.
+SaveReportAsWizard.SaveAsLibraryMessage=Guardar archivo como librer√≠a con otro nombre.
 
-SaveReportAsWizard.SaveAsReportorTemplateMessage=Guardar archivo como un diseÒo de informe o plantilla con otro nombre.
+SaveReportAsWizard.SaveAsReportorTemplateMessage=Guardar archivo como un dise√±o de informe o plantilla con otro nombre.
 
 SaveReportAsWizard.SettingPageTitle=Establecer propiedad del informe
 
-SaveReportAsWizard.SettingPage.message=Estas propiedades se utilizan si el informe est· guardado como plantilla.
+SaveReportAsWizard.SettingPage.message=Estas propiedades se utilizan si el informe est√° guardado como plantilla.
 
 SaveReportAsWizard.SaveAsWizardWindowTitle=Guardar como
 
 SaveReportAsWizard.SaveAsWizardPageTitle=Guardar como
 
-SaveReportAsWizard.SaveAsWizardPageDesc=Guarde el archivo en otra ubicaciÛn.
+SaveReportAsWizard.SaveAsWizardPageDesc=Guarde el archivo en otra ubicaci√≥n.
 
 SaveReportAsWizard.SettingPage.Messages=Establezca las propiedades de plantilla.
 
@@ -6399,27 +6399,27 @@ WizardSaveAsPage.FileLabel=&Nombre de archivo:
 
 WizardSaveAsPage.Question=Pregunta
 
-WizardSaveAsPage.FolderEmpty=\ La carpeta est· vacÌa.
+WizardSaveAsPage.FolderEmpty=\ La carpeta est√° vac√≠a.
 
 WizardSaveAsPage.NoProject=\ El proyecto especificado no existe.
 
-WizardSaveAsPage.PathOccupied=\ Ya existe un archivo en esa ubicaciÛn: {0}
+WizardSaveAsPage.PathOccupied=\ Ya existe un archivo en esa ubicaci√≥n: {0}
 
-WizardSaveAsPage.EmptyName=\ El nombre ''{0}'' est· vacÌo.
+WizardSaveAsPage.EmptyName=\ El nombre ''{0}'' est√° vac√≠o.
 
 WizardSaveAsPage.SelectFolder=\ Seleccione la carpeta:
 
 WizardSaveAsPage.NameExists=\ Este nombre ya existe.
 
-WizardSaveAsPage.OverwriteQuestion=El archivo ''{0}'' ya existe. øDesea reemplazar el archivo existente?
+WizardSaveAsPage.OverwriteQuestion=El archivo ''{0}'' ya existe. ¬øDesea reemplazar el archivo existente?
 
-WizardSaveAsPage.InvalidFileName=\ ''{0}'' no es un nombre de archivo v·lido.
+WizardSaveAsPage.InvalidFileName=\ ''{0}'' no es un nombre de archivo v√°lido.
 
 WizardSaveAsPage.ContainerGroup=\ &Introduzca o seleccione la carpeta principal:
 
 ###########################################################
 #Library DND message
-Library.DND.messages.outofsync = PodrÌa haberse cambiado la librerÌa utilizada en este informe, cierre este informe y vuelva a abrirlo para utilizar la librerÌa actualizada.
+Library.DND.messages.outofsync = Podr√≠a haberse cambiado la librer√≠a utilizada en este informe, cierre este informe y vuelva a abrirlo para utilizar la librer√≠a actualizada.
 
 NamedExpressionsHandleProvier.Column.Name=Nombre
 
@@ -6441,15 +6441,15 @@ ReportPageGenerator.List.Resources.PropertiesFile=Archivos de propiedades:
 #ClassFinder
 ClassFinder.TaskStart=Buscando clase de controlador...
 
-ClassFinder.DialogTitle=SelecciÛn de clase
+ClassFinder.DialogTitle=Selecci√≥n de clase
 
 ClassFinder.DialogMessage=&Seleccionar una clase de controlador:
 
 ClassFinder.ErrorMessage=No se ha encontrado ninguna clase
 
-ClassPathBlock_button.addExtFolder=AÒad&ir carpeta de clase externa...
+ClassPathBlock_button.addExtFolder=A√±ad&ir carpeta de clase externa...
 
-ClassPathBlock_button.addExtJars=AÒadir archivos JAR ex&ternos...
+ClassPathBlock_button.addExtJars=A√±adir archivos JAR ex&ternos...
 
 ClassPathBlock_button.down=Abajo
 
@@ -6461,17 +6461,17 @@ ClassPathBlock_button.up=Arriba
 
 ClassPathBlock_FileDialog.edit.text=Editar JAR
 
-ClassPathBlock_FileDialog.jar.text=SelecciÛn JAR
+ClassPathBlock_FileDialog.jar.text=Selecci√≥n JAR
 
-ClassPathBlock_FolderDialog.edit.message=Indique la nueva ubicaciÛn de la carpeta de clase:
+ClassPathBlock_FolderDialog.edit.message=Indique la nueva ubicaci√≥n de la carpeta de clase:
 
 ClassPathBlock_FolderDialog.edit.text=Editar carpeta de clase
 
-ClassPathBlock_FolderDialog.message=Seleccione la ubicaciÛn de la carpeta de clase:
+ClassPathBlock_FolderDialog.message=Seleccione la ubicaci√≥n de la carpeta de clase:
 
-ClassPathBlock_FolderDialog.text=SelecciÛn de carpeta de clase externa
+ClassPathBlock_FolderDialog.text=Selecci√≥n de carpeta de clase externa
 
-ClassPathBlock_label.LibrariesList=Carpetas de clase y JAR en la ruta de e&jecuciÛn del informe:
+ClassPathBlock_label.LibrariesList=Carpetas de clase y JAR en la ruta de e&jecuci√≥n del informe:
 
 ###########################################################
 #ListingSectionPage
@@ -6483,9 +6483,9 @@ ResourceEditDialog.NotFile.Title=No se ha encontrado el archivo
 
 ResourceEditDialog.NotFile.Message=El archivo ''{0}'' no existe.
 
-ResourceEditDialog.ReadOnlyEncounter.Title=Se ha encontrado un archivo de sÛlo lectura
+ResourceEditDialog.ReadOnlyEncounter.Title=Se ha encontrado un archivo de s√≥lo lectura
 
-ResourceEditDialog.ReadOnlyEncounter.Message=El archivo ''{0}'' es de sÛlo lectura, aseg˙rese primero de que se puede escribir en Èl.
+ResourceEditDialog.ReadOnlyEncounter.Message=El archivo ''{0}'' es de s√≥lo lectura, aseg√∫rese primero de que se puede escribir en √©l.
 
 ###########################################################
 #EventHandler
@@ -6494,31 +6494,31 @@ EventHandlerPage.Browse=&Examinar...
 
 ###########################################################
 #IDEFileReportProvider
-IDEClassPathBlock.button_addExtFolder=AÒad&ir carpeta de clase externa...
+IDEClassPathBlock.button_addExtFolder=A√±ad&ir carpeta de clase externa...
 
-IDEClassPathBlock.button_addEXTJar=AÒadir archivos JAR ex&ternos...
+IDEClassPathBlock.button_addEXTJar=A√±adir archivos JAR ex&ternos...
 
-IDEClassPathBlock.button_addJar=AÒadir arc&hivos JAR...
+IDEClassPathBlock.button_addJar=A√±adir arc&hivos JAR...
 
-IDEClassPathBlock.button_addProject=AÒadir pro&yectos...
+IDEClassPathBlock.button_addProject=A√±adir pro&yectos...
 
-IDEClassPathBlock.button_addVar=AÒadir va&riable...
+IDEClassPathBlock.button_addVar=A√±adir va&riable...
 
 IDEClassPathBlock.button_down=Abajo
 
 IDEClassPathBlock.button_edit=&Editar...
 
-IDEClassPathBlock.button_folder=AÒadir c&arpeta de clase...
+IDEClassPathBlock.button_folder=A√±adir c&arpeta de clase...
 
 IDEClassPathBlock.button_remove=Quita&r
 
 IDEClassPathBlock.button_up=Arriba
 
-IDEClassPathBlock.fLibrariesList_text=Carpetas de clase y JAR en la ruta de e&jecuciÛn del informe:
+IDEClassPathBlock.fLibrariesList_text=Carpetas de clase y JAR en la ruta de e&jecuci√≥n del informe:
 
-IDEClassPathBlock.ProjectDialog_message=Seleccione los proyectos que desea aÒadir:
+IDEClassPathBlock.ProjectDialog_message=Seleccione los proyectos que desea a√±adir:
 
-IDEClassPathBlock.ProjectDialog_title=SelecciÛn de proyectos requerida
+IDEClassPathBlock.ProjectDialog_title=Selecci√≥n de proyectos requerida
 
 IDECPListLabelProvider.folder=(carpeta de clase)
 
@@ -6528,21 +6528,21 @@ IDECPListLabelProvider.new=(nuevo)
 
 IDECPListLabelProvider.unknown=elemento desconocido
 
-IDEFileReportProvider.ReadOnlyEncounter.Title=Se ha encontrado un archivo de sÛlo lectura
+IDEFileReportProvider.ReadOnlyEncounter.Title=Se ha encontrado un archivo de s√≥lo lectura
 
-IDEFileReportProvider.ReadOnlyEncounter.Message=El archivo ''{0}'' es de sÛlo lectura, aseg˙rese primero de que se puede escribir en Èl.
+IDEFileReportProvider.ReadOnlyEncounter.Message=El archivo ''{0}'' es de s√≥lo lectura, aseg√∫rese primero de que se puede escribir en √©l.
 
 IDEResourcePageHelper.Dialog.Prompt=Seleccionar un directorio:
 
-IDEResourcePageHelper.Dialog.Text=Seleccionar una u&bicaciÛn relativa al ·rea de trabajo:
+IDEResourcePageHelper.Dialog.Text=Seleccionar una u&bicaci√≥n relativa al √°rea de trabajo:
 
-IDEResourcePageHelper.Dialog.Title=SelecciÛn de un directorio
+IDEResourcePageHelper.Dialog.Title=Selecci√≥n de un directorio
 
 IDEResourcePageHelper.File.Button=&Sistema de archivos...
 
 IDEResourcePageHelper.Varible.Button=&Variables...
 
-IDEResourcePageHelper.WorkSpace.Button=¡&rea de trabajo...
+IDEResourcePageHelper.WorkSpace.Button=√Å&rea de trabajo...
 
 ###########################################################
 #DataSetColumnBindingsFormHandleProvider
@@ -6563,13 +6563,13 @@ DataSetColumnBindingsFormHandleProvider.NewBinding=Nuevo enlace
 
 DataSetColumnBindingsFormHandleProvider.Column.DataType=Tipo de datos
 
-DataSetColumnBindingsFormHandleProvider.Column.Expression=ExpresiÛn
+DataSetColumnBindingsFormHandleProvider.Column.Expression=Expresi√≥n
 
 DataSetColumnBindingsFormHandleProvider.Column.AggregateOn=Agregar en
 
 DataSetColumnBindingsFormHandleProvider.Column.Filter=Filtro
 
-DataSetColumnBindingsFormHandleProvider.Column.Function=FunciÛn
+DataSetColumnBindingsFormHandleProvider.Column.Function=Funci√≥n
 
 DataSetColumnBindingsFormHandleProvider.ALL=Todos
 
@@ -6588,7 +6588,7 @@ DataSetColumnBindingsFormPage.Button.RemoveUnused=Quitar columna no usada
 #DataSetSettingsPage
 DataSetSettingsPage.DataGroup.Title=Ajustes del motor BIRT para comparar valores de la columna de conjunto de datos
 
-DataSetSettingsPage.Locale.Label=&ConfiguraciÛn regional de los valores de string de car·cter:
+DataSetSettingsPage.Locale.Label=&Configuraci√≥n regional de los valores de string de car√°cter:
 
 DataSetSettingsPage.NullValueOrdering.Label=&Orden de valores nulos:
 
@@ -6602,14 +6602,14 @@ ResourceSelectionValidator.ExtErrorSplitter=\ o
 
 ###########################################################
 #GeneralPage
-GeneralPage.Library.Included=LibrerÌa:
+GeneralPage.Library.Included=Librer√≠a:
 
-GeneralPage.Library.Modified.Note=NOTA: Se ha modificado el elemento del informe de la librerÌa. Para restaurar el elemento de informe original, haga clic en {0} "Restaurar propiedades"
+GeneralPage.Library.Modified.Note=NOTA: Se ha modificado el elemento del informe de la librer√≠a. Para restaurar el elemento de informe original, haga clic en {0} "Restaurar propiedades"
 
 #BookMarkPage
-BookMarkPage.Modified.Note=El marcador contiene caracteres espaciales distintos a estos: A-Z, a-z, 0-9, '-', '_', ':', '.'. Esto podrÌa causar un problema en el tiempo de ejecuciÛn.
+BookMarkPage.Modified.Note=El marcador contiene caracteres espaciales distintos a estos: A-Z, a-z, 0-9, '-', '_', ':', '.'. Esto podr√≠a causar un problema en el tiempo de ejecuci√≥n.
 
-BookMarkPage.Modified.WithoutQuotes=El marcador no est· contenido en comillas dobles. Esto podrÌa causar un problema en el tiempo de ejecuciÛn.
+BookMarkPage.Modified.WithoutQuotes=El marcador no est√° contenido en comillas dobles. Esto podr√≠a causar un problema en el tiempo de ejecuci√≥n.
 
 ###########################################################
 # LOCALE SPECIAL:
@@ -6637,11 +6637,11 @@ FormatStringPage.Preview.PreserveWhiteSpaces=\    string con espacio en blanco a
 
 ###########################################################
 #PublishLibraryDialog
-PublishLibraryDialog.ShellText=Compartir librerÌa
+PublishLibraryDialog.ShellText=Compartir librer√≠a
 
-PublishLibraryDialog.TitleArea=Compartir librerÌa
+PublishLibraryDialog.TitleArea=Compartir librer√≠a
 
-PublishLibraryDialog.Message=Copiar librerÌa para compartir carpeta de recursos.
+PublishLibraryDialog.Message=Copiar librer√≠a para compartir carpeta de recursos.
 
 PublishLibraryDialog.Label.SourceFileName=&Archivo fuente:
 
@@ -6655,15 +6655,15 @@ PublishLibraryDialog.Message.FileNameEmpty=Es necesario un nombre de archivo.
 
 PublishLibraryDialog.Message.FileNameError=El nombre de archivo debe finalizar con .rptlibrary.
 
-PublishLibraryDialog.Message.FolderEmpty=Es necesaria una carpeta de publicaciÛn.
+PublishLibraryDialog.Message.FolderEmpty=Es necesaria una carpeta de publicaci√≥n.
 
 PublishLibraryDialog.Message.SourceFileEmpty=Es necesario un nombre de archivo fuente.
 
 PublishLibraryDialog.Label.Browse2=E&xaminar...
 
-PublishLibraryDialog.AddText=AÒadir librerÌa
+PublishLibraryDialog.AddText=A√±adir librer√≠a
 
-PublishLibraryDialog.AddMessage=AÒadir librerÌa a carpeta de recursos de BIRT
+PublishLibraryDialog.AddMessage=A√±adir librer√≠a a carpeta de recursos de BIRT
 
 WizardLibrarySettingPage.ErrorMessage=Seleccione una carpeta
 
@@ -6671,7 +6671,7 @@ WizardLibrarySettingPage.Resourcefile.Dialog.Title=Examinar carpetas de recursos
 
 WizardLibrarySettingPage.Resourcefile.Dialog.Message=Seleccione la carpeta de recursos o sus subcarpetas.
 
-PublishLibraryDialog.AddLibrary=AÒadir librerÌa
+PublishLibraryDialog.AddLibrary=A√±adir librer√≠a
 
 
 ###########################################################
@@ -6710,7 +6710,7 @@ PublishCSSDialog.Message.FileNameEmpty=Es necesario un nombre de archivo.
 
 PublishCSSDialog.Message.FileNameError=El nombre de archivo debe terminar en .css.
 
-PublishCSSDialog.Message.FolderEmpty=Es necesaria una carpeta de publicaciÛn.
+PublishCSSDialog.Message.FolderEmpty=Es necesaria una carpeta de publicaci√≥n.
 
 WizardCSSSettingPage.ErrorMessage=Seleccione una carpeta
 
@@ -6726,19 +6726,19 @@ PublishResourceDialog.TitleArea=Publicar recurso en la carpeta de recursos
 
 PublishResourceDialog.Message=Colocar un archivo de recursos en la carpeta de recursos
 
-PublishResourceDialog.AddResource=AÒadir recurso
+PublishResourceDialog.AddResource=A√±adir recurso
 
-PublishResourceDialog.AddText=AÒadir recurso
+PublishResourceDialog.AddText=A√±adir recurso
 
-PublishResourceDialog.AddMessage=AÒadir recurso a la carpeta de recursos
+PublishResourceDialog.AddMessage=A√±adir recurso a la carpeta de recursos
 
 PublishResourceAction.wizard.errorTitle=Error
 
-PublishResourceAction.wizard.message=No es posible publicar el recurso en el directorio donde se encuentra, seleccione otro directorio para la publicaciÛn.
+PublishResourceAction.wizard.message=No es posible publicar el recurso en el directorio donde se encuentra, seleccione otro directorio para la publicaci√≥n.
 
 PublishResourceAction.wizard.message.SourceFileNotExist=El archivo fuente no existe.
 
-PublishResourceAction.wizard.notvalidfolder=La carpeta del archivo CSS definida como preferencia no es v·lida.
+PublishResourceAction.wizard.notvalidfolder=La carpeta del archivo CSS definida como preferencia no es v√°lida.
 
 PublishResourceDialog.Label.FileName=&Nombre de archivo:
 
@@ -6760,7 +6760,7 @@ PublishResourceDialog.Message.SourceFileEmpty=Es necesario un nombre de archivo 
 
 PublishResourceDialog.Message.FileNameEmpty=Es necesario un nombre de archivo.
 
-PublishResourceDialog.Message.FolderEmpty=Es necesaria una carpeta de publicaciÛn.
+PublishResourceDialog.Message.FolderEmpty=Es necesaria una carpeta de publicaci√≥n.
 
 ###########################################################
 #EmbeddedImagesNodeProvider
@@ -6772,7 +6772,7 @@ EmbeddedImagesNodeProvider.stackMsg.insert=Insertar imagen
 
 ###########################################################
 #AddElementtoAction properties
-AddElementtoAction.Text=&AÒadir a informe
+AddElementtoAction.Text=&A√±adir a informe
 
 ApplyThemeAction.Text=&Aplicar al informe
 
@@ -6784,13 +6784,13 @@ MultiPageReportEditor.CloseButton=Cerrar
 
 MultiPageReportEditor.ConfirmTitle=El archivo no existe
 
-MultiPageReportEditor.ConfirmVersion.Dialog.Message=Una versiÛn anterior de BIRT Designer ha creado el diseÒo de informe. Al guardarlo, se actualizar· a la versiÛn actual y podrÌa no ser accesible a versiones anteriores de BIRT. øA˙n desea guardarlo?
+MultiPageReportEditor.ConfirmVersion.Dialog.Message=Una versi√≥n anterior de BIRT Designer ha creado el dise√±o de informe. Al guardarlo, se actualizar√° a la versi√≥n actual y podr√≠a no ser accesible a versiones anteriores de BIRT. ¬øA√∫n desea guardarlo?
 
-MultiPageReportEditor.ConfirmVersion.Dialog.ReloadMessage=El contenido de este editor puede haber cambiado desde fuera, ødesea volver a cargar los cambios?
+MultiPageReportEditor.ConfirmVersion.Dialog.ReloadMessage=El contenido de este editor puede haber cambiado desde fuera, ¬ødesea volver a cargar los cambios?
 
-MultiPageReportEditor.ConfirmVersion.Dialog.ResetMessage=El contenido de este editor puede haber cambiado desde fuera, ødesea volver a cargar el contenido con estos cambios?
+MultiPageReportEditor.ConfirmVersion.Dialog.ResetMessage=El contenido de este editor puede haber cambiado desde fuera, ¬ødesea volver a cargar el contenido con estos cambios?
 
-MultiPageReportEditor.ConfirmVersion.Dialog.SaveAndReloadMessage=El contenido de este editor puede haber cambiado desde fuera y el editor tiene cambios no guardados.\n\nøDesea guardar el editor y volver a cargar los cambios de fuera?
+MultiPageReportEditor.ConfirmVersion.Dialog.SaveAndReloadMessage=El contenido de este editor puede haber cambiado desde fuera y el editor tiene cambios no guardados.\n\n¬øDesea guardar el editor y volver a cargar los cambios de fuera?
 
 MultiPageReportEditor.ConfirmVersion.Dialog.Title=Confirmar
 
@@ -6800,13 +6800,13 @@ MultiPageReportEditor.DiscardButton=&Desechar
 
 MultiPageReportEditor.CancelButton=Cancelar
 
-MultiPageReportEditor.SaveConfirmMessage=El archivo se ha eliminado. øDesea guardar los cambios o cerrar el editor sin guardar?
+MultiPageReportEditor.SaveConfirmMessage=El archivo se ha eliminado. ¬øDesea guardar los cambios o cerrar el editor sin guardar?
 
 TableArea.Button.Up=A&rriba
 
 ###########################################################
 #AddJarResourceFileFolderSelectionDialog
-AddJarResourceFileFolderSelectionDialog.ErrorMessage.Exist=Uno o m·s de los archivos seleccionados ya existen.
+AddJarResourceFileFolderSelectionDialog.ErrorMessage.Exist=Uno o m√°s de los archivos seleccionados ya existen.
 
 AddJarResourceFileFolderSelectionDialog.Message=Seleccione {0} archivos:
 
@@ -6817,7 +6817,7 @@ AddJarResourceFileFolderSelectionDialog.Message.Or=o
 
 ###########################################################
 #AddImageResourceFileFolderSelectionDialog
-AddImageResourceFileFolderSelectionDialog.Title=Uno o m·s de los archivos seleccionados ya existen.
+AddImageResourceFileFolderSelectionDialog.Title=Uno o m√°s de los archivos seleccionados ya existen.
 
 AddImageResourceFileFolderSelectionDialog.Message=Seleccione una imagen:
 
@@ -6829,11 +6829,11 @@ DataItemBindingDialog.text.displayName=Nombre en pantalla:
 
 DataItemBindingDialog.text.DataType=Tipo de datos:
 
-DataItemBindingDialog.text.Expression=ExpresiÛn:
+DataItemBindingDialog.text.Expression=Expresi√≥n:
 
 DataItemBindingDialog.text.AggregateOn=Agregar en:
 
-DataItemBindingDialog.text.ForceBinding=Crear un nuevo enlace con la misma expresiÛn
+DataItemBindingDialog.text.ForceBinding=Crear un nuevo enlace con la misma expresi√≥n
 
 DataItemBindingDialog.text.All=Todos
 
@@ -6844,13 +6844,13 @@ DataItemBindingDialog.title.CreateNewItem=Nuevo enlace de elemento de datos
 
 DataItemBindingDialog.title.EditDataItem=Editar enlace de elemento de datos
 
-DataItemBindingDialog.text.Function=FunciÛn:
+DataItemBindingDialog.text.Function=Funci√≥n:
 
 DataItemBindingDialog.text.Filter=Filtro:
 
 DataItemBindingDialog.text.ArgumentList=Argumento:
 
-DataItemBindingDialog.Button.Add=AÒadir
+DataItemBindingDialog.Button.Add=A√±adir
 
 DataItemBindingDialog.Button.Edit=Editar
 
@@ -6862,23 +6862,23 @@ DataColumBindingDialog.title.CreateNewDataBinding=Nuevo enlace de datos
 
 DataColumBindingDialog.title.EditDataBinding=Editar enlace de datos
 
-DataColumBindingDialog.title.AggBuilder=Compilador de agregaciÛn
+DataColumBindingDialog.title.AggBuilder=Compilador de agregaci√≥n
 
 DataColumnBindingDialog.NewBindingDialogInputNewNameMessage=Nuevo nombre de enlace de datos
 
 DataColumnBindingDialog.NewBindingDialogInputNewNameTitle=Introduzca un nuevo nombre de enlace de datos
 
-DataColumnBindingDialog.NewBindingDialogMessage=Este enlace de datos est· siendo utilizado por m·s de un elemento y celda de informe. øDesea crear una nueva expresiÛn para este elemento de informe? Haga clic en SÌ para crear un nuevo enlace de datos, o bien haga clic en No para cambiar el enlace de datos en todas las ubicaciones.
+DataColumnBindingDialog.NewBindingDialogMessage=Este enlace de datos est√° siendo utilizado por m√°s de un elemento y celda de informe. ¬øDesea crear una nueva expresi√≥n para este elemento de informe? Haga clic en S√≠ para crear un nuevo enlace de datos, o bien haga clic en No para cambiar el enlace de datos en todas las ubicaciones.
 
-DataColumnBindingDialog.NewBindingDialogButtonYes=SÌ
+DataColumnBindingDialog.NewBindingDialogButtonYes=S√≠
 
 DataColumnBindingDialog.NewBindingDialogButtonNo=No
 
 DataColumnBindingDialog.NewBindingDialogButtonCancel=Cancelar
 
-DataColumnBindingDialog.NewBindingDialogTitle=øDesea crear un nuevo enlace de datos?
+DataColumnBindingDialog.NewBindingDialogTitle=¬øDesea crear un nuevo enlace de datos?
 
-DataColumnBindingDialog.title.TimePeriodBuild=Compilador de agregaciÛn de periodo de tiempo relativo
+DataColumnBindingDialog.title.TimePeriodBuild=Compilador de agregaci√≥n de periodo de tiempo relativo
 
 DataColumBindingDialog.stackMsg.resetReference=Restablecer referencia
 
@@ -6914,7 +6914,7 @@ ThumbnailBuilder.Image.DefaultName=Imagen en miniatura
 
 ThumbnailBuilder.PreviewImage.WarningDialog.Title=Advertencia
 
-ThumbnailBuilder.PreviewImage.WarningDialog.Prompt=Ha seleccionado una imagen de gran tamaÒo (superior a 1014 x 768) que puede provocar una excepciÛn por memoria insuficiente.\nøDesea continuar?
+ThumbnailBuilder.PreviewImage.WarningDialog.Prompt=Ha seleccionado una imagen de gran tama√±o (superior a 1014 x 768) que puede provocar una excepci√≥n por memoria insuficiente.\n¬øDesea continuar?
 
 
 ###########################################################
@@ -6949,7 +6949,7 @@ ResourceFilter.Description.Dot=Oculta recursos con nombres que comienzan por "."
 
 ResourceFilter.Description.Data=Oculta todos los archivos de datos
 
-ResourceFilter.Description.EmptyFolder=Oculta carpetas vacÌas
+ResourceFilter.Description.EmptyFolder=Oculta carpetas vac√≠as
 
 ###########################################################
 #BIRTGotoMarker properties
@@ -6959,21 +6959,21 @@ BIRTGotoMarker.Error.Message=El elemento de informe no existe.
 
 ###########################################################
 #TabbedList properties
-TabbedPropertyList.properties.not.available=Las propiedades no est·n disponibles
+TabbedPropertyList.properties.not.available=Las propiedades no est√°n disponibles
 
 ###########################################################
 #Sample Reports View properties
-SampleReportsView.defautDescription=Seleccione un informe de muestra entre las categorÌas
+SampleReportsView.defautDescription=Seleccione un informe de muestra entre las categor√≠as
 
 SampleReportsView.Text.Explorer=Informes de muestras
 
 SampleReportsView.Text.Preview=Vista previa
 
-SampleReportsView.Text.Description=DescripciÛn
+SampleReportsView.Text.Description=Descripci√≥n
 
 SampleReportsView.MessageDialog.Title=Pregunta
 
-SampleReportsView.MessageDialog.Message=El ''{0}'' ya existe. øDesea sustituirlo?
+SampleReportsView.MessageDialog.Message=El ''{0}'' ya existe. ¬øDesea sustituirlo?
 
 SampleReportsView.Action.exportSampleReport=&Exportar
 
@@ -6983,9 +6983,9 @@ SampleReportsView.Action.exportSampleReport.toolTipText=Exportar el informe de m
 
 SampleReportsView.Action.openSampleReport.toolTipText.ide=Crear un proyecto de informe y colocar el informe en la carpeta del proyecto
 
-SampleReportsView.Action.openSampleReport.toolTipText.rcp=Exportar el informe de muestra seleccionado directamente a la carpeta del ·rea de trabajo RCP
+SampleReportsView.Action.openSampleReport.toolTipText.rcp=Exportar el informe de muestra seleccionado directamente a la carpeta del √°rea de trabajo RCP
 
-SampleReportsView.Text.Contribute_Samples=Muestras de aportaciÛn
+SampleReportsView.Text.Contribute_Samples=Muestras de aportaci√≥n
 
 UseCssStyleAction.text=&Utilizar archivo CSS...
 
@@ -6993,9 +6993,9 @@ EditUseCssStyleAction.text=&Editar archivo CSS...
 
 EditUseCssStyleAction.EditCssTitle=Editar CSS
 
-EditUseCssStyleAction.EditCssAreaTitle.Report=Editar el archivo CSS en el diseÒo de informes
+EditUseCssStyleAction.EditCssAreaTitle.Report=Editar el archivo CSS en el dise√±o de informes
 
-EditUseCssStyleAction.EditCssAreaTitle.Libary=Editar el archivo CSS en la librerÌa de informes
+EditUseCssStyleAction.EditCssAreaTitle.Libary=Editar el archivo CSS en la librer√≠a de informes
 
 ###########################################################
 #GrossTabPageGenerator properties
@@ -7007,7 +7007,7 @@ CrosstabPageGenerator.List.Font=Fuente
 
 CrosstabPageGenerator.List.Borders=Borde
 
-CrosstabPageGenerator.List.Section=Salto de p·gina
+CrosstabPageGenerator.List.Section=Salto de p√°gina
 
 CrosstabPageGenerator.List.Visibility=Visibilidad
 
@@ -7025,7 +7025,7 @@ CrosstabPageGenerator.List.SubTotals=Subtotales
 
 CrosstabPageGenerator.List.GrandTotals=Totales generales
 
-CrosstabPageGenerator.List.PageBreak=Salto de p·gina
+CrosstabPageGenerator.List.PageBreak=Salto de p√°gina
 
 ###########################################################
 #CubePageGenerator properties
@@ -7038,9 +7038,9 @@ CubePageGenerator.List.AdvancedProperty=Avanzado
 
 ###########################################################
 #LibraryLayoutEditorFormPage
-LibraryLayoutEditorFormPage.warning.title=LibrerÌa
+LibraryLayoutEditorFormPage.warning.title=Librer√≠a
 
-LibraryLayoutEditorFormPage.warning.message=Para aÒadir un elemento de informe a la librerÌa, arrastre el elemento desde la paleta o utilice el men˙ de inserciÛn.\n\nPara ver los elementos de informe en el editor, haga clic sobre ellos en la vista de contorno.
+LibraryLayoutEditorFormPage.warning.message=Para a√±adir un elemento de informe a la librer√≠a, arrastre el elemento desde la paleta o utilice el men√∫ de inserci√≥n.\n\nPara ver los elementos de informe en el editor, haga clic sobre ellos en la vista de contorno.
 
 LibraryLayoutEditorFormPage.warning.prompt=No &volver a mostrar este mensaje
 
@@ -7062,7 +7062,7 @@ PageGenerator.TabItem.Sorting=Ordenar
 
 ###########################################################
 #AggDataDropAdapter
-AggDataDropAdapter.Trans.Name=Crear agregaciÛn
+AggDataDropAdapter.Trans.Name=Crear agregaci√≥n
 
 ###########################################################
 #BindingDialogHelper
@@ -7070,11 +7070,11 @@ BindingDialogHelper.text.Name=Nombre de &enlace de columna:
 
 BindingDialogHelper.text.DataType=&Tipo de datos:
 
-BindingDialogHelper.text.Function=&FunciÛn:
+BindingDialogHelper.text.Function=&Funci√≥n:
 
 BindingDialogHelper.text.DataField=Campo de &datos:
 
-BindingDialogHelper.text.Filter=&CondiciÛn de filtro:
+BindingDialogHelper.text.Filter=&Condici√≥n de filtro:
 
 BindingDialogHelper.text.AggOn=A&gregar en:
 
@@ -7082,38 +7082,38 @@ BindingDialogHelper.text.Table=Tab&la
 
 BindingDialogHelper.text.List=&Lista
 
-BindingDialogHelper.text.Grid=CuadrÌcula
+BindingDialogHelper.text.Grid=Cuadr√≠cula
 
 BindingDialogHelper.text.Group=Gr&upo
 
-BindingDialogHelper.text.Expression=&ExpresiÛn:
+BindingDialogHelper.text.Expression=&Expresi√≥n:
 
 BindingDialogHelper.text.displayName=&Nombre en pantalla:
 
 BindingDialogHelper.text.allowExport=Exp&ortar:
 
-BindingDialogHelper.text.allowExport.button=Permitir exportaciÛn
+BindingDialogHelper.text.allowExport.button=Permitir exportaci√≥n
 
 BindingDialogHelper.text.displayNameID=ID de &nombre en pantalla:
 
 BindingDialogHelper.bindingName.dataitem=Enlace de columna
 
-BindingDialogHelper.bindingName.aggregation=AgregaciÛn
+BindingDialogHelper.bindingName.aggregation=Agregaci√≥n
 
 BindingDialogHelper.error.nameduplicate=Ya existe un enlace de columna con el nombre {0}.
 
-BindingDialogHelper.error.improperexpression=La agregaciÛn en medidas de cubo no puede ser de este tipo: "{0}".
+BindingDialogHelper.error.improperexpression=La agregaci√≥n en medidas de cubo no puede ser de este tipo: "{0}".
 
 BindingDialogHelper.error.empty=Se requiere {0}.
 
 BindingDialogHelper.error.text.Name=Nombre de enlace de columna
 
 BindingDialogHelper.text.Colon=:
-BindingDialogHelper.warning.function=El tipo de datos recomendado para la funciÛn actual es "{0}". øDesea mantener el tipo de datos que ha seleccionado?
+BindingDialogHelper.warning.function=El tipo de datos recomendado para la funci√≥n actual es "{0}". ¬øDesea mantener el tipo de datos que ha seleccionado?
 
-BindingDialogHelper.warning.parameter=El tipo de datos de devoluciÛn de la expresiÛn "{0}" no es compatible con el par·metro "{1}". øDesea mantenerlo?
+BindingDialogHelper.warning.parameter=El tipo de datos de devoluci√≥n de la expresi√≥n "{0}" no es compatible con el par√°metro "{1}". ¬øDesea mantenerlo?
 
-BindingDialogHelper.warning.button.yes=SÌ
+BindingDialogHelper.warning.button.yes=S√≠
 
 BindingDialogHelper.warning.button.no=No
 
@@ -7137,13 +7137,13 @@ ReportPage.PreviewImage.Button.ToolTip=Administrar miniaturas
 #CrosstabBindingDialogHelper
 CrosstabBindingDialogHelper.AggOn.All=Todos
 
-CrosstabBindingDialogHelper.bindngName.timeperiod=PerÌodo
+CrosstabBindingDialogHelper.bindngName.timeperiod=Per√≠odo
 
 CrosstabBindingDialogHelper.calculation.label=&Periodo de tiempo:
 
 CrosstabBindingDialogHelper.calculation.group=Periodo de tiempo
 
-CrosstabBindingDialogHelper.recentday.description=⁄ltima fecha del perÌodo
+CrosstabBindingDialogHelper.recentday.description=√öltima fecha del per√≠odo
 
 CrosstabBindingDialogHelper.referencedate.label=&Fecha de referencia:
 
@@ -7153,9 +7153,9 @@ CrosstabBindingDialogHelper.thisdate.example.label=Incluya el valor de la fecha 
 
 CrosstabBindingDialogHelper.thisdate.example.label.constant=Por ejemplo: 2012-01-23, 1/23/2012.
 
-CrosstabBindingDialogHelper.timedimension.label=Di&mensiÛn de tiempo:
+CrosstabBindingDialogHelper.timedimension.label=Di&mensi√≥n de tiempo:
 
-CrosstabBindingDialogHelper.timeperiod.wrongdate=Esta dimensiÛn no es compatible con la fecha de referencia reciente
+CrosstabBindingDialogHelper.timeperiod.wrongdate=Esta dimensi√≥n no es compatible con la fecha de referencia reciente
 
 CrosstabBindingDialogHelper.today.label=Hoy
 
@@ -7169,21 +7169,21 @@ AddEditCascadingParameterDialog.label.displaytext=Visualizar &texto:
 
 ###########################################################
 #FormatDateTimePattern
-FormatDateTimePattern.datetiem_format_type_year=AÒo
+FormatDateTimePattern.datetiem_format_type_year=A√±o
 
-FormatDateTimePattern.datetiem_format_type_short_year=AÒo corto
+FormatDateTimePattern.datetiem_format_type_short_year=A√±o corto
 
-FormatDateTimePattern.datetiem_format_type_long_month_year=Mes largo, aÒo
+FormatDateTimePattern.datetiem_format_type_long_month_year=Mes largo, a√±o
 
-FormatDateTimePattern.datetiem_format_type_shot_month_year=Mes corto, aÒo
+FormatDateTimePattern.datetiem_format_type_shot_month_year=Mes corto, a√±o
 
 FormatDateTimePattern.datetiem_format_type_month=Mes
 
-FormatDateTimePattern.datetiem_format_type_long_day_of_week=DÌa largo de la semana
+FormatDateTimePattern.datetiem_format_type_long_day_of_week=D√≠a largo de la semana
 
-FormatDateTimePattern.datetiem_format_type_day_of_month=DÌa del mes
+FormatDateTimePattern.datetiem_format_type_day_of_month=D√≠a del mes
 
-FormatDateTimePattern.datetiem_format_type_medium_day_of_year=DÌa medio del aÒo
+FormatDateTimePattern.datetiem_format_type_medium_day_of_year=D√≠a medio del a√±o
 
 FormatDateTimePattern.datetiem_format_type_minutes=Minutos
 
@@ -7220,13 +7220,13 @@ FormatDateTimePattern.pattern.datetiem_format_type_secontds=seg
 
 FormatDateTimePattern.pattern.datetiem_format_type_general_time=ahh:mm:ss.SSS
 
-FormatDescriptorProvider.DisplayName.None=Autom·tico
+FormatDescriptorProvider.DisplayName.None=Autom√°tico
 
-ReportExamples.ContributeSamples.description=EnvÌe una entrada de Bugzilla a {0}EnvÌe un error a BIRT{1}.\nAdjunte el archivo de diseÒo de informe y la captura de pantalla de la salida de informe.\n\n Nota: La captura de pantalla debe tener estas caracterÌsticas:\n  1. Formato de imagen *.png;\n  2. ResoluciÛn de 800*600;\n  3. TamaÒo inferior a 250 KB.
+ReportExamples.ContributeSamples.description=Env√≠e una entrada de Bugzilla a {0}Env√≠e un error a BIRT{1}.\nAdjunte el archivo de dise√±o de informe y la captura de pantalla de la salida de informe.\n\n Nota: La captura de pantalla debe tener estas caracter√≠sticas:\n  1. Formato de imagen *.png;\n  2. Resoluci√≥n de 800*600;\n  3. Tama√±o inferior a 250 KB.
 
-ReportExamples.ContributeSamples.title=Muestras de aportaciÛn
+ReportExamples.ContributeSamples.title=Muestras de aportaci√≥n
 
-ReportExamples.ContributeSamples.messages=La informaciÛn que aparece a continuaciÛn le guiar· hasta las muestras de aportaciÛn.
+ReportExamples.ContributeSamples.messages=La informaci√≥n que aparece a continuaci√≥n le guiar√° hasta las muestras de aportaci√≥n.
 
 ReportExamples.OpenBrowser.Error.title=Error
 
@@ -7250,12 +7250,12 @@ PasteFormatAction.text=Pegar f&ormato
 
 ###########################################################
 #InsertAggregationAction
-InsertAggregationAction.text=A&gregaciÛn
+InsertAggregationAction.text=A&gregaci√≥n
 
 
 ###########################################################
 #InsertRelativeTimePeriodAction
-InsertRelativeTimePeriodAction.text=PerÌodo de tiempo relati&vo
+InsertRelativeTimePeriodAction.text=Per√≠odo de tiempo relati&vo
 
 ###########################################################
 #Multiple views
@@ -7271,49 +7271,49 @@ CreateChartHandler.text=Crear vista de diagrama
 
 ###########################################################
 #Input Parameters
-InputParameterDialog.msg.title=Par·metros de entrada
+InputParameterDialog.msg.title=Par√°metros de entrada
 
-InputParameterDialog.msg.requiredParam=Los par·metros marcados con * son obligatorios.
+InputParameterDialog.msg.requiredParam=Los par√°metros marcados con * son obligatorios.
 
-InputParameterDialog.err.requiredParam=No se ha especificado el valor del par·metro necesario [{0}].
+InputParameterDialog.err.requiredParam=No se ha especificado el valor del par√°metro necesario [{0}].
 
-InputParameterDialog.err.invalidValueTitle=Valor no v·lido
+InputParameterDialog.err.invalidValueTitle=Valor no v√°lido
 
-InputParameterDialog.err.invalidValue=El valor "{0}" no es v·lido con el tipo {1}.
+InputParameterDialog.err.invalidValue=El valor "{0}" no es v√°lido con el tipo {1}.
 
-InputParameterDialog.err.emptyValue=El valor de entrada para {0} no puede estar vacÌo.
+InputParameterDialog.err.emptyValue=El valor de entrada para {0} no puede estar vac√≠o.
 
-InputParameterDialog.err.emptyValue2=El segundo valor de entrada {0} no puede estar vacÌo.
+InputParameterDialog.err.emptyValue2=El segundo valor de entrada {0} no puede estar vac√≠o.
 
 ###########################################################
 #Crosstab drag tracker
-ColumnDragTracker.ResizeColumn=cambiar tamaÒo de columna
+ColumnDragTracker.ResizeColumn=cambiar tama√±o de columna
 
 ColumnDragTracker.Show.Label=Ancho:
 
 CPListLabelProvider.misssing=(falta)
 
-RowDragTracker.ResizeRow=cambiar tamaÒo de fila
+RowDragTracker.ResizeRow=cambiar tama√±o de fila
 
 RowDragTracker.Show.Label=Altura:
 
-TableDragGuideTracker.Pixels=pÌxeles
+TableDragGuideTracker.Pixels=p√≠xeles
 
 ###########################################################
 #General Designer settings
 GeneralConfigurationBlock.message.general.description=Ajustes generales para Report Designer
 
-GeneralConfigurationBlock.button.text.enable.gradient=Activar &selecciÛn gradiente
+GeneralConfigurationBlock.button.text.enable.gradient=Activar &selecci√≥n gradiente
 
-GeneralConfigurationBlock.button.text.enable.animation=Activar selecciÛn a&nimada
+GeneralConfigurationBlock.button.text.enable.animation=Activar selecci√≥n a&nimada
 
 GeneralConfigurationBlock.group.label=Solicitar
 
-GeneralConfigurationBlock.group.defaultThemes=LibrerÌa de temas predeterminados
+GeneralConfigurationBlock.group.defaultThemes=Librer√≠a de temas predeterminados
 
-GeneralConfigurationBlock.button.text.prompt=Mostrar &solicitud despuÈs de abrir el archivo de la librerÌa
+GeneralConfigurationBlock.button.text.prompt=Mostrar &solicitud despu√©s de abrir el archivo de la librer√≠a
 
-GeneralConfigurationBlock.button.text.defaultTheme.enable=Activar librerÌa de &temas predeterminados.
+GeneralConfigurationBlock.button.text.defaultTheme.enable=Activar librer√≠a de &temas predeterminados.
 
 GeneralConfigurationBlock.button.text.defaultTheme.include=&Incluir los temas predeterminados.
 
@@ -7327,44 +7327,44 @@ GeneralConfigurationBlock.move.binding.prompt=S&olicitud
 
 ###########################################################
 #ResetImageSizeAction
-ResetImageOriginalSizeAction.trans.label=Restablecer tamaÒo de imagen
+ResetImageOriginalSizeAction.trans.label=Restablecer tama√±o de imagen
 
-ResetImageSizeAction.label=Restablecer al tama&Òo original
+ResetImageSizeAction.label=Restablecer al tama&√±o original
 ###########################################################
 #Report document editor
 ReportDocumentEditor.1=Editor de documentos de informe
 
-ReportDocumentEditor.2=InformaciÛn de documento
+ReportDocumentEditor.2=Informaci√≥n de documento
 
 ReportDocumentEditor.3=Nombre:
 
-ReportDocumentEditor.4=VersiÛn:
+ReportDocumentEditor.4=Versi√≥n:
 
-ReportDocumentEditor.5=Recuento de p·ginas:
+ReportDocumentEditor.5=Recuento de p√°ginas:
 
 ReportDocumentEditor.errorMessage=Se ha producido un error durante la apertura del documento en el editor.
 
 ###########################################################
 #Export Element Dialog
-ExportElementDialog.Dialog.Title=Exportar elementos a librerÌa
+ExportElementDialog.Dialog.Title=Exportar elementos a librer√≠a
 
-ExportElementDialog.Dialog.Message=Seleccione la librerÌa de destino o cree un nuevo destino.
+ExportElementDialog.Dialog.Message=Seleccione la librer√≠a de destino o cree un nuevo destino.
 
 ExportElementDialog.label.NewFile=&Nuevo nombre de archivo:
 
 ExportElementDialog.ErrorMessage=El nombre de archivo debe terminar en .rptlibrary.
 
-ExportElementDialog.ErrorMessageInvalid=El nombre de archivo no es v·lido.
+ExportElementDialog.ErrorMessageInvalid=El nombre de archivo no es v√°lido.
 
-ExportElementDialog.ErrorMessageDuplicate=El elemento ya existe en la librerÌa.
+ExportElementDialog.ErrorMessageDuplicate=El elemento ya existe en la librer√≠a.
 
 ExportElementDialog.ErrorStatusCanNotExport=No se puede exportar el elemento.
 
-ExportElementDialog.WarningMessageDuplicate.Message=El nombre de componente est· repetido. øDesea sobrescribir el componente actual de la librerÌa?\n\nHaga clic en {0} para sustituir el componente actual.\nHaga clic en {1} para volver al cuadro de di·logo de exportar elemento.\nHaga clic en {2} para cancelar la acciÛn.
+ExportElementDialog.WarningMessageDuplicate.Message=El nombre de componente est√° repetido. ¬øDesea sobrescribir el componente actual de la librer√≠a?\n\nHaga clic en {0} para sustituir el componente actual.\nHaga clic en {1} para volver al cuadro de di√°logo de exportar elemento.\nHaga clic en {2} para cancelar la acci√≥n.
 
-ExportElementDialog.WarningMessageDuplicate.Title=Confirmar sustituciÛn
+ExportElementDialog.WarningMessageDuplicate.Title=Confirmar sustituci√≥n
 
-ExportElementDialog.WarningMessageDuplicate.OverrideImage=La imagen incrustada a la que hace referencia la imagen exportada ya existe en la librerÌa. øDesea sobrescribirla?
+ExportElementDialog.WarningMessageDuplicate.OverrideImage=La imagen incrustada a la que hace referencia la imagen exportada ya existe en la librer√≠a. ¬øDesea sobrescribirla?
 
 ###########################################################
 #NewStyleHandler
@@ -7372,7 +7372,7 @@ NewStyleHandler.transaction.label=Nuevo estilo...
 
 AdvancePropertyDescriptorProvider.DisplayName=Avanzar
 
-AdvancePropertyDescriptorProvider.Tooltip.Alphabetic=Ordenar alfabÈticamente
+AdvancePropertyDescriptorProvider.Tooltip.Alphabetic=Ordenar alfab√©ticamente
 
 AdvancePropertyDescriptorProvider.Tooltip.Group=Ordenar por grupo
 
@@ -7382,7 +7382,7 @@ PropertyEditorFactory.Boolean.True=true
 
 PropertyEditorFactory.Boolean.False=false
 
-PropertyEditorFactory.Value.Auto=Autom·tico
+PropertyEditorFactory.Value.Auto=Autom√°tico
 
 ExportElementToLibraryAction.waring=Advertencia
 
@@ -7392,7 +7392,7 @@ ExportElementToLibraryAction.waringMsg=El elemento no tiene nombre, pero no se p
 #ExportStyleDialog
 ExportStyleDialog.Label.Text=&Tema:
 
-ExportStyleDialog.Message=Seleccione el tema que desee exportar a la librerÌa
+ExportStyleDialog.Message=Seleccione el tema que desee exportar a la librer√≠a
 
 ExportStyleDialog.Title=Seleccionar tema
 
@@ -7400,7 +7400,7 @@ ExportStyleDialog.Title=Seleccionar tema
 #UIUtil
 UIUtil.previewconfirm.title=Errores en el informe
 
-UIUtil.previewconfirm.message=El informe contiene errores, ødesea continuar para realizar la vista previa?
+UIUtil.previewconfirm.message=El informe contiene errores, ¬ødesea continuar para realizar la vista previa?
 
 ###########################################################
 #FileReportProvider
@@ -7416,7 +7416,7 @@ ShowPropertiesViewMenu.ErrorTitle=Error
 
 ###########################################################
 #ResetAttributePage
-ResetAttributePage.Style.Restore.TooltipText=Restaurar las propiedades de estilo de la p·gina actual a los par·metros predeterminados
+ResetAttributePage.Style.Restore.TooltipText=Restaurar las propiedades de estilo de la p√°gina actual a los par√°metros predeterminados
 
 ResetAttributePage.Style.Restore.Transaction.Name=Restaurar estilo
 ResetAttributePage.Style.Restore.Menu.Name=Restaurar estilos predeterminados
@@ -7447,7 +7447,7 @@ VariableNodeProvider.DialogTitle=Editar variable
 #SelectVariableDialog
 SelectVariableDialog.AvailableVariables=&Variables disponibles:
 
-SelectVariableDialog.PageSeperator=----- Variables de p·gina -----
+SelectVariableDialog.PageSeperator=----- Variables de p√°gina -----
 
 SelectVariableDialog.ReportSeperator=----- Variables de informe -----
 
@@ -7461,7 +7461,7 @@ VariableDialog.DefaultValue=&Valor predeterminado:
 
 VariableDialog.Name=&Nombre:
 
-VariableDialog.PageVariable=Variable de &p·gina
+VariableDialog.PageVariable=Variable de &p√°gina
 
 VariableDialog.ReportVariable=Variable de &informe
 
@@ -7475,11 +7475,11 @@ ExpressionBuilderConfigurationBlock.DefaultSyntax=Sintaxis &predeterminada:
 
 ###########################################################
 #ExpressionEditor
-ExpressionEditor.Error.EmptyExpression=La expresiÛn no puede estar vacÌa.
+ExpressionEditor.Error.EmptyExpression=La expresi√≥n no puede estar vac√≠a.
 
-ExpressionEditor.Label.Expression=&ExpresiÛn:
+ExpressionEditor.Label.Expression=&Expresi√≥n:
 
-ExpressionEditor.Title=Editar expresiÛn
+ExpressionEditor.Title=Editar expresi√≥n
 
 ExpressionSyntaxColoringPage.Accessible.Name.Background=Selector de color de fondo
 
@@ -7497,7 +7497,7 @@ ExpressionSyntaxColoringPage.Button.Strikethrough=&Tachado
 
 ExpressionSyntaxColoringPage.Button.Underline=&Subrayado
 
-ExpressionSyntaxColoringPage.Decscription=Personalice el resaltado de sintaxis seleccionando el tipo de texto cuyo estilo desee personalizar en la lista o en el ·rea de texto de ejemplo.
+ExpressionSyntaxColoringPage.Decscription=Personalice el resaltado de sintaxis seleccionando el tipo de texto cuyo estilo desee personalizar en la lista o en el √°rea de texto de ejemplo.
 
 ExpressionSyntaxColoringPage.Element.Comment=Comentario
 
@@ -7515,7 +7515,7 @@ ExpressionSyntaxColoringPage.Label.SampleText=&Texto de muestra:
 
 ExpressionSyntaxColoringPage.Label.SyntaxElement=Elemento de s&intaxis:
 
-ExpressionSyntaxColoringPage.Link.ColorAndFont=Los colores y la fuente predeterminados se pueden configurar en las p·ginas de preferencias <a href="org.eclipse.ui.preferencePages.GeneralTextEditor">Editores de texto</a> y <a href="org.eclipse.ui.preferencePages.ColorsAndFonts">Colores y fuentes</a> .
+ExpressionSyntaxColoringPage.Link.ColorAndFont=Los colores y la fuente predeterminados se pueden configurar en las p√°ginas de preferencias <a href="org.eclipse.ui.preferencePages.GeneralTextEditor">Editores de texto</a> y <a href="org.eclipse.ui.preferencePages.ColorsAndFonts">Colores y fuentes</a> .
 
 ###########################################################
 #VariableDropAdapter
@@ -7531,11 +7531,11 @@ RenameInputDialog.Message.DuplicateName=El nombre duplicado existe.
 #Breadcrumb
 BreadcrumbItemDropDown.showDropDownMenu.action.toolTip=Mostrar secundarios
 
-ToggleBreadcrumbAction.tooltip.switch.breadcrumb=Alternar ruta de exploraciÛn
+ToggleBreadcrumbAction.tooltip.switch.breadcrumb=Alternar ruta de exploraci√≥n
 
 ###########################################################
 #HyperlinkParameterProvider Category
-ReportHyperlinkParameterProvider.Category.Report=Par·metros de informe
+ReportHyperlinkParameterProvider.Category.Report=Par√°metros de informe
 
 RenderHyperlinkParameterProvider.Category.Render=Opciones de procesamiento
 ExceptionDialog.title=Error

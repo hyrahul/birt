@@ -1,29 +1,29 @@
-SwtRendererImpl.exception.gradient.angle=Šp“x‚ª {0} ‚ÌƒOƒ‰ƒf[ƒVƒ‡ƒ“‚ÍƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚Ü‚¹‚ñBƒŒƒ“ƒ_ƒŠƒ“ƒO‰Â”\‚ÈŠp“x‚Í [90 >= 0 >= -90] ‚Å‚·B
+SwtRendererImpl.exception.gradient.angle=è§’åº¦ãŒ {0} ã®ã‚°ãƒ©ãƒ‡ãƒ¼ã‚·ãƒ§ãƒ³ã¯ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°å¯èƒ½ãªè§’åº¦ã¯ [90 >= 0 >= -90] ã§ã™ã€‚
 
-SwtRendererImpl.exception.unspecified.text.rendering.action=ƒeƒLƒXƒg‚ÌƒŒƒ“ƒ_ƒŠƒ“ƒO’†‚É—áŠO‚ª”­¶‚µ‚Ü‚µ‚½BTextRenderEvent.setAction(...) ‚ª³‚µ‚­ŒÄ‚Ño‚³‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B
+SwtRendererImpl.exception.unspecified.text.rendering.action=ãƒ†ã‚­ã‚¹ãƒˆã®ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ä¸­ã«ä¾‹å¤–ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚TextRenderEvent.setAction(...) ãŒæ­£ã—ãå‘¼ã³å‡ºã•ã‚Œã¾ã›ã‚“ã§ã—ãŸã€‚
 
-SwtRendererImpl.exception.missing.component.interaction=IUpdateNotifier ‚ÍƒŒƒ“ƒ_ƒŠƒ“ƒO‹@”\‚ÆŠÖ˜A•t‚¯‚ç‚Ä‚¢‚È‚¢‚½‚ßA‘€ì‚Å‚«‚Ü‚¹‚ñB
+SwtRendererImpl.exception.missing.component.interaction=IUpdateNotifier ã¯ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°æ©Ÿèƒ½ã¨é–¢é€£ä»˜ã‘ã‚‰ã¦ã„ãªã„ãŸã‚ã€æ“ä½œã§ãã¾ã›ã‚“ã€‚
 
-SwtRendererImpl.info.graphics.context=}Œ`ƒRƒ“ƒeƒLƒXƒg {0}@{1} ‚ğg—p’†
+SwtRendererImpl.info.graphics.context=å›³å½¢ã‚³ãƒ³ãƒ†ã‚­ã‚¹ãƒˆ {0}@{1} ã‚’ä½¿ç”¨ä¸­
 
-SwtTextRenderer.exception.undefined.shadow.color=–¢’è‹`‚ÌF‚ğg—p‚µ‚Ä‚¢‚é‰e‚ÍƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚Ü‚¹‚ñB
+SwtTextRenderer.exception.undefined.shadow.color=æœªå®šç¾©ã®è‰²ã‚’ä½¿ç”¨ã—ã¦ã„ã‚‹å½±ã¯ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚
 
-SwtTextRenderer.exception.undefined.text.color=–¢’è‹`‚ÌF‚ğg—p‚µ‚Ä‚¢‚éƒeƒLƒXƒg‚ÍƒŒƒ“ƒ_ƒŠƒ“ƒO‚Å‚«‚Ü‚¹‚ñB
+SwtTextRenderer.exception.undefined.text.color=æœªå®šç¾©ã®è‰²ã‚’ä½¿ç”¨ã—ã¦ã„ã‚‹ãƒ†ã‚­ã‚¹ãƒˆã¯ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã§ãã¾ã›ã‚“ã€‚
 
-SwtDisplayServer.exception.display.server=SWT Display Server ‚ÌƒCƒ“ƒXƒ^ƒ“ƒX‚ğæ“¾‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B
+SwtDisplayServer.exception.display.server=SWT Display Server ã®ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹ã‚’å–å¾—ã§ãã¾ã›ã‚“ã§ã—ãŸã€‚
 
 SwtDisplayServer.info.display.server=SWT Display Server: {0} v{1}
 
-SwtEventHandler.info.toggle.visibility=•\¦‚Æ”ñ•\¦‚ÌØ‚è‘Ö‚¦ : {0}
+SwtEventHandler.info.toggle.visibility=è¡¨ç¤ºã¨éè¡¨ç¤ºã®åˆ‡ã‚Šæ›¿ãˆ : {0}
 
-SwtEventHandler.info.toggle.datapoint.visibility=ƒf[ƒ^ƒ|ƒCƒ“ƒg‚Ì•\¦‚Æ”ñ•\¦‚ğØ‚è‘Ö‚¦‚é : {0}
+SwtEventHandler.info.toggle.datapoint.visibility=ãƒ‡ãƒ¼ã‚¿ãƒã‚¤ãƒ³ãƒˆã®è¡¨ç¤ºã¨éè¡¨ç¤ºã‚’åˆ‡ã‚Šæ›¿ãˆã‚‹ : {0}
 
-SwtEventHandler.info.cannot.find.series=ÀsŒn—ñ‚Ég—p‚·‚éİŒvŒn—ñ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñ : {0}
+SwtEventHandler.info.cannot.find.series=å®Ÿè¡Œæ™‚ç³»åˆ—ã«ä½¿ç”¨ã™ã‚‹è¨­è¨ˆæ™‚ç³»åˆ—ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ : {0}
 
-SwtEventHandler.info.improper.callback.notifier=’Ê’mƒc[ƒ‹ [{0}] ‚ªŒŸo‚³‚ê‚Ü‚µ‚½‚ªAICallBackNotifer ƒCƒ“ƒvƒŠƒƒ“ƒ^‚ª•K—v‚Å‚·B
+SwtEventHandler.info.improper.callback.notifier=é€šçŸ¥ãƒ„ãƒ¼ãƒ« [{0}] ãŒæ¤œå‡ºã•ã‚Œã¾ã—ãŸãŒã€ICallBackNotifer ã‚¤ãƒ³ãƒ—ãƒªãƒ¡ãƒ³ã‚¿ãŒå¿…è¦ã§ã™ã€‚
 
-SwtEventHandler.info.redirect.url=Ÿ‚Ì URL ‚É“]‘— : {0}
+SwtEventHandler.info.redirect.url=æ¬¡ã® URL ã«è»¢é€ : {0}
 
-R31Enhance.info.advanced.enabled=SWT ‚Ì‚“x‚ÈƒOƒ‰ƒtƒBƒbƒN‹@”\‚ª—LŒø‚É‚È‚è‚Ü‚µ‚½B
+R31Enhance.info.advanced.enabled=SWT ã®é«˜åº¦ãªã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯æ©Ÿèƒ½ãŒæœ‰åŠ¹ã«ãªã‚Šã¾ã—ãŸã€‚
 
-R31Enhance.info.advanced.disabled=SWT ‚Ì‚“x‚ÈƒOƒ‰ƒtƒBƒbƒN‹@”\‚ª–³Œø‚É‚È‚è‚Ü‚µ‚½B
+R31Enhance.info.advanced.disabled=SWT ã®é«˜åº¦ãªã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯æ©Ÿèƒ½ãŒç„¡åŠ¹ã«ãªã‚Šã¾ã—ãŸã€‚

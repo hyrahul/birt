@@ -16,9 +16,9 @@ oda.xml.datasource=Fuente de datos XML
 
 oda.xml.dataset=Conjunto de datos XML
 
-oda.xml.tablemapping=Asignaci髇 de tablas
+oda.xml.tablemapping=Asignaci贸n de tablas
 
-oda.xml.columnmapping=Asignaci髇 de columnas
+oda.xml.columnmapping=Asignaci贸n de columnas
 
 
 oda.data.source.id=org.eclipse.birt.report.data.oda.xml
@@ -28,19 +28,19 @@ oda.parent.category.id=org.eclipse.datatools.connectivity.oda.profileCategory
 # NLS messages
 #
 plugin.name=BIRT ODA XML Designer
-oda.data.source.name=Fuente de datos XML de versi髇 antigua de BIRT 2.1.x
+oda.data.source.name=Fuente de datos XML de versi贸n antigua de BIRT 2.1.x
 
-connection.profile.name=Perfil de conexi髇 de fuente de datos XML
+connection.profile.name=Perfil de conexi贸n de fuente de datos XML
 
-newwizard.name=Fuente de datos XML de versi髇 antigua de BIRT 2.1.x
+newwizard.name=Fuente de datos XML de versi贸n antigua de BIRT 2.1.x
 
-newwizard.description=Crear un perfil de conexi髇 de fuente de datos XML BIRT 2.1.x
+newwizard.description=Crear un perfil de conexi贸n de fuente de datos XML BIRT 2.1.x
 
 wizard.window.title=Nuevo perfil de fuente de datos XML
 
-wizard.data.source.page.title=Definir las URL al archivo XML y la informaci髇 de esquema.
+wizard.data.source.page.title=Definir las URL al archivo XML y la informaci贸n de esquema.
 
-profile.propertypage.name=Propiedades de conexi髇 de fuente de datos XML
+profile.propertypage.name=Propiedades de conexi贸n de fuente de datos XML
 
 preference.datasetpreview=Conjunto de datos XML
 #

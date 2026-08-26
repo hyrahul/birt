@@ -10,186 +10,186 @@
 #  
 #*************************************************************************
 #
-MongoDBDataSourceWizardPage.message.default=Mongo ƒf[ƒ^ƒx[ƒXƒf[ƒ^ƒ\[ƒXÚ‘±ƒvƒƒtƒ@ƒCƒ‹
+MongoDBDataSourceWizardPage.message.default=Mongo ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹æ¥ç¶šãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«
 
-MongoDBDataSourceWizardPage.GroupTitle.URIElements=Mongo ƒf[ƒ^ƒx[ƒX URI —v‘f
+MongoDBDataSourceWizardPage.GroupTitle.URIElements=Mongo ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹ URI è¦ç´ 
 
-MongoDBDataSourceWizardPage.text.label.ServerHost=ƒT[ƒoƒzƒXƒg(&H):
+MongoDBDataSourceWizardPage.text.label.ServerHost=ã‚µãƒ¼ãƒãƒ›ã‚¹ãƒˆ(&H):
 
-MongoDBDataSourceWizardPage.text.label.ServerPort=ƒT[ƒo‚Ìƒ|[ƒg(&O):
+MongoDBDataSourceWizardPage.text.label.ServerPort=ã‚µãƒ¼ãƒã®ãƒãƒ¼ãƒˆ(&O):
 
-MongoDBDataSourceWizardPage.text.label.DatabaseName=ƒf[ƒ^ƒx[ƒX–¼(&D):
+MongoDBDataSourceWizardPage.text.label.DatabaseName=ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹å(&D):
 
-MongoDBDataSourceWizardPage.text.label.UserName=ƒ†[ƒU–¼(&U):
+MongoDBDataSourceWizardPage.text.label.UserName=ãƒ¦ãƒ¼ã‚¶å(&U):
 
-MongoDBDataSourceWizardPage.text.label.Password=ƒpƒXƒ[ƒh(&W):
+MongoDBDataSourceWizardPage.text.label.Password=ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰(&W):
 
-MongoDBDataSourceWizardPage.RadioButton.label.DatabaseURI=Mongo ƒf[ƒ^ƒx[ƒX URI(&M):
+MongoDBDataSourceWizardPage.RadioButton.label.DatabaseURI=Mongo ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹ URI(&M):
 
-MongoDBDataSourceWizardPage.GroupTitle.SupplementalSetting=’Ç‰Á‚ÌƒNƒ‰ƒCƒAƒ“ƒgİ’è(&C)
+MongoDBDataSourceWizardPage.GroupTitle.SupplementalSetting=è¿½åŠ ã®ã‚¯ãƒ©ã‚¤ã‚¢ãƒ³ãƒˆè¨­å®š(&C)
 
-MongoDBDataSourceWizardPage.checkbox.label.SocketAlive=ƒ\ƒPƒbƒg‚Ì•Û‘¶(&A)
+MongoDBDataSourceWizardPage.checkbox.label.SocketAlive=ã‚½ã‚±ãƒƒãƒˆã®ä¿å­˜(&A)
 
-MongoDBDataSourceWizardPage.checkbox.label.RequestSession=ˆêŠÑ‚µ‚½—v‹ƒZƒbƒVƒ‡ƒ“(&R)
+MongoDBDataSourceWizardPage.checkbox.label.RequestSession=ä¸€è²«ã—ãŸè¦æ±‚ã‚»ãƒƒã‚·ãƒ§ãƒ³(&R)
 
-MongoDBDataSourceWizardPage.error.MissingConnectionProperty=•K—v‚ÈÚ‘±ƒvƒƒpƒeƒB‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñ!
+MongoDBDataSourceWizardPage.error.MissingConnectionProperty=å¿…è¦ãªæ¥ç¶šãƒ—ãƒ­ãƒ‘ãƒ†ã‚£ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“!
 
 #
-MongoDBDataSetWizardPage.label.DBName=Mongo ƒf[ƒ^ƒx[ƒX(&G):
+MongoDBDataSetWizardPage.label.DBName=Mongo ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹(&G):
 
-MongoDBDataSetWizardPage.label.DBCollection=MongoDB ƒRƒŒƒNƒVƒ‡ƒ“(&C)
+MongoDBDataSetWizardPage.label.DBCollection=MongoDB ã‚³ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³(&C)
 
-MongoDBDataSetWizardPage.Button.text.IncludeSystemCollection=ƒVƒXƒeƒ€ƒRƒŒƒNƒVƒ‡ƒ“‚ğŠÜ‚ß‚é(&I)
+MongoDBDataSetWizardPage.Button.text.IncludeSystemCollection=ã‚·ã‚¹ãƒ†ãƒ ã‚³ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³ã‚’å«ã‚ã‚‹(&I)
 
-MongoDBDataSetWizardPage.Button.Refresh=XV(&R)
+MongoDBDataSetWizardPage.Button.Refresh=æ›´æ–°(&R)
 
-MongoDBDataSetWizardPage.label.DocumentNumber=ƒtƒB[ƒ‹ƒh‚ğŒŸõ‚·‚é•¶‘”(&M):
+MongoDBDataSetWizardPage.label.DocumentNumber=ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’æ¤œç´¢ã™ã‚‹æ–‡æ›¸æ•°(&M):
 
-MongoDBDataSetWizardPage.group.text=ƒRƒ}ƒ“ƒhƒIƒyƒŒ[ƒVƒ‡ƒ“(&O)
+MongoDBDataSetWizardPage.group.text=ã‚³ãƒãƒ³ãƒ‰ã‚ªãƒšãƒ¬ãƒ¼ã‚·ãƒ§ãƒ³(&O)
 
-MongoDBDataSetWizardPage.label.OperationType=ƒRƒ}ƒ“ƒhƒ^ƒCƒv(&T):
+MongoDBDataSetWizardPage.label.OperationType=ã‚³ãƒãƒ³ãƒ‰ã‚¿ã‚¤ãƒ—(&T):
 
-MongoDBDataSetWizardPage.Button.FindFields=ƒtƒB[ƒ‹ƒh‚ÌŒŸõ(&D)
+MongoDBDataSetWizardPage.Button.FindFields=ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã®æ¤œç´¢(&D)
 
-MongoDBDataSetWizardPage.Button.text.CommandExpression=®(&E)...
+MongoDBDataSetWizardPage.Button.text.CommandExpression=å¼(&E)...
 
-MongoDBDataSetWizardPage.Button.tooltip.CommandExpression=ƒRƒ}ƒ“ƒh®‚ğ•ÒW‚µ‚Ü‚·B
+MongoDBDataSetWizardPage.Button.tooltip.CommandExpression=ã‚³ãƒãƒ³ãƒ‰å¼ã‚’ç·¨é›†ã—ã¾ã™ã€‚
 
-MongoDBDataSetWizardPage.Button.QueryExpression=ƒNƒGƒŠ®(&Q)...
+MongoDBDataSetWizardPage.Button.QueryExpression=ã‚¯ã‚¨ãƒªå¼(&Q)...
 
-MongoDBDataSetWizardPage.Button.SortExpression=ƒ\[ƒg®(&S)...
+MongoDBDataSetWizardPage.Button.SortExpression=ã‚½ãƒ¼ãƒˆå¼(&S)...
 
-MongoDBDataSetWizardPage.Button.AdvancedSettings=Ú×İ’è(&V)...
+MongoDBDataSetWizardPage.Button.AdvancedSettings=è©³ç´°è¨­å®š(&V)...
 
-MongoDBDataSetWizardPage.label.AvailableFields=‘I‘ğ‰Â”\‚ÈƒtƒB[ƒ‹ƒh(&A):
+MongoDBDataSetWizardPage.label.AvailableFields=é¸æŠå¯èƒ½ãªãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰(&A):
 
-MongoDBDataSetWizardPage.label.SelectedFields=‘I‘ğÏ‚İƒtƒB[ƒ‹ƒh(&S):
+MongoDBDataSetWizardPage.label.SelectedFields=é¸æŠæ¸ˆã¿ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰(&S):
 
-MongoDBDataSetWizardPage.HeaderText.SelectedFields=ƒtƒB[ƒ‹ƒh‚Ì•\¦–¼
+MongoDBDataSetWizardPage.HeaderText.SelectedFields=ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã®è¡¨ç¤ºå
 
-MongoDBDataSetWizardPage.menuItem.remove=íœ(&M)
+MongoDBDataSetWizardPage.menuItem.remove=å‰Šé™¤(&M)
 
-MongoDBDataSetWizardPage.menuItem.removeAll=‚·‚×‚Äíœ(&L)
+MongoDBDataSetWizardPage.menuItem.removeAll=ã™ã¹ã¦å‰Šé™¤(&L)
 
-MongoDBDataSetWizardPage.message.default=ƒf[ƒ^ƒZƒbƒg—ñ‚ÌƒtƒB[ƒ‹ƒh‚ğ‘I‘ğ‚µ‚Ä‚­‚¾‚³‚¢B
+MongoDBDataSetWizardPage.message.default=ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆåˆ—ã®ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’é¸æŠã—ã¦ãã ã•ã„ã€‚
 
-MongoDBDataSetWizardPage.MessageBox.title.PromptToKeepSelections=Šm”F‚µ‚Ä‘±s
+MongoDBDataSetWizardPage.MessageBox.title.PromptToKeepSelections=ç¢ºèªã—ã¦ç¶šè¡Œ
 
-MongoDBDataSetWizardPage.MessageBox.message.PromptToKeepSelections=•Ê‚ÌƒRƒŒƒNƒVƒ‡ƒ“‚ğ‘I‘ğ‚·‚é‚ÆŒ»İ‘I‘ğ‚³‚ê‚Ä‚¢‚éƒtƒB[ƒ‹ƒh‚ª”jŠü‚³‚ê‚Ü‚·B  ‘±s‚µ‚Ü‚·‚© ?
+MongoDBDataSetWizardPage.MessageBox.message.PromptToKeepSelections=åˆ¥ã®ã‚³ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³ã‚’é¸æŠã™ã‚‹ã¨ç¾åœ¨é¸æŠã•ã‚Œã¦ã„ã‚‹ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ãŒç ´æ£„ã•ã‚Œã¾ã™ã€‚  ç¶šè¡Œã—ã¾ã™ã‹ ?
 
-MongoDBDataSetWizardPage.MessageBox.title.PromptToRefreshAvailableFields=Šm”F‚µ‚ÄXV
+MongoDBDataSetWizardPage.MessageBox.title.PromptToRefreshAvailableFields=ç¢ºèªã—ã¦æ›´æ–°
 
-MongoDBDataSetWizardPage.MessageBox.message.PromptToRefreshAvailableFields=•ÏX‚³‚ê‚½ƒRƒ}ƒ“ƒh®‚ğŠî‚É‚µ‚Ä‘I‘ğ‰Â”\‚ÈƒtƒB[ƒ‹ƒh‚ğXV‚µ‚Ü‚·‚© ?
+MongoDBDataSetWizardPage.MessageBox.message.PromptToRefreshAvailableFields=å¤‰æ›´ã•ã‚ŒãŸã‚³ãƒãƒ³ãƒ‰å¼ã‚’åŸºã«ã—ã¦é¸æŠå¯èƒ½ãªãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’æ›´æ–°ã—ã¾ã™ã‹ ?
 
-MongoDBDataSetWizardPage.MessageDialog.title.GeneralError=ƒGƒ‰[
+MongoDBDataSetWizardPage.MessageDialog.title.GeneralError=ã‚¨ãƒ©ãƒ¼
 
-MongoDBDataSetWizardPage.MessageDialog.ErrorMessage.InitPage=MongoDB ƒf[ƒ^ƒ\[ƒX‚©‚çƒRƒŒƒNƒVƒ‡ƒ“‚ÌƒŠƒXƒg‚ğæ“¾‚Å‚«‚Ü‚¹‚ñB
+MongoDBDataSetWizardPage.MessageDialog.ErrorMessage.InitPage=MongoDB ãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ã‹ã‚‰ã‚³ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³ã®ãƒªã‚¹ãƒˆã‚’å–å¾—ã§ãã¾ã›ã‚“ã€‚
 
-MongoDBDataSetWizardPage.ExceptionDialog.title=ƒGƒ‰[
+MongoDBDataSetWizardPage.ExceptionDialog.title=ã‚¨ãƒ©ãƒ¼
 
-MongoDBDataSetWizardPage.ExceptionDialog.message.FindFields=‘I‘ğ‰Â”\‚ÈƒtƒB[ƒ‹ƒh‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+MongoDBDataSetWizardPage.ExceptionDialog.message.FindFields=é¸æŠå¯èƒ½ãªãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚
 
-MongoDBDataSetWizardPage.ExceptionDialog.message.NoMetaData=ƒAƒNƒeƒBƒu‚Èƒf[ƒ^ƒ\[ƒX‚ÌÚ‘±‚ª‚ ‚è‚Ü‚¹‚ñB
+MongoDBDataSetWizardPage.ExceptionDialog.message.NoMetaData=ã‚¢ã‚¯ãƒ†ã‚£ãƒ–ãªãƒ‡ãƒ¼ã‚¿ã‚½ãƒ¼ã‚¹ã®æ¥ç¶šãŒã‚ã‚Šã¾ã›ã‚“ã€‚
 
-MongoDBDataSetWizardPage.ExceptionDialog.message.SavaPage=MongoDB ƒf[ƒ^ƒZƒbƒg‚ÌXV’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½B
+MongoDBDataSetWizardPage.ExceptionDialog.message.SavaPage=MongoDB ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆã®æ›´æ–°ä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸã€‚
 
-MongoDBDataSetWizardPage.ExceptionDialog.message.InvalidCommandExpression=ƒRƒ}ƒ“ƒh®‚ª–³Œø‚Å‚·B
+MongoDBDataSetWizardPage.ExceptionDialog.message.InvalidCommandExpression=ã‚³ãƒãƒ³ãƒ‰å¼ãŒç„¡åŠ¹ã§ã™ã€‚
 
-MongoDBDataSetWizardPage.ExceptionDialog.message.InvalidQueryExpression=ƒNƒGƒŠ®‚ª–³Œø‚Å‚·B
+MongoDBDataSetWizardPage.ExceptionDialog.message.InvalidQueryExpression=ã‚¯ã‚¨ãƒªå¼ãŒç„¡åŠ¹ã§ã™ã€‚
 
-MongoDBDataSetWizardPage.ExceptionDialog.message.InvalidSortExpression=ƒ\[ƒg®‚ª–³Œø‚Å‚·B
+MongoDBDataSetWizardPage.ExceptionDialog.message.InvalidSortExpression=ã‚½ãƒ¼ãƒˆå¼ãŒç„¡åŠ¹ã§ã™ã€‚
 
-MongoDBDataSetWizardPage.message.error.MissingCollectionName=ƒRƒŒƒNƒVƒ‡ƒ“–¼‚Í‹ó”’‚É‚Å‚«‚Ü‚¹‚ñB
+MongoDBDataSetWizardPage.message.error.MissingCollectionName=ã‚³ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³åã¯ç©ºç™½ã«ã§ãã¾ã›ã‚“ã€‚
 
-MongoDBDataSetWizardPage.message.error.InvalidDocumentNumber=ƒtƒB[ƒ‹ƒh‚ğŒŸõ‚·‚é•¶‘”‚Ì®”’l‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢B
+MongoDBDataSetWizardPage.message.error.InvalidDocumentNumber=ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’æ¤œç´¢ã™ã‚‹æ–‡æ›¸æ•°ã®æ•´æ•°å€¤ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„ã€‚
 
-MongoDBDataSetWizardPage.message.error.SelectedFieldNotFound=‘I‘ğ‚µ‚½ƒtƒB[ƒ‹ƒh "{0}" ‚Í‘¶İ‚µ‚Ü‚¹‚ñB
+MongoDBDataSetWizardPage.message.error.SelectedFieldNotFound=é¸æŠã—ãŸãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ "{0}" ã¯å­˜åœ¨ã—ã¾ã›ã‚“ã€‚
 
-MongoDBDataSetWizardPage.message.error.MissingCommandExpression=ƒRƒ}ƒ“ƒh®‚Í‹ó”’‚É‚Å‚«‚Ü‚¹‚ñB
+MongoDBDataSetWizardPage.message.error.MissingCommandExpression=ã‚³ãƒãƒ³ãƒ‰å¼ã¯ç©ºç™½ã«ã§ãã¾ã›ã‚“ã€‚
 
-MongoDBDataSetWizardPage.message.error.MissingSelectedField=­‚È‚­‚Æ‚à 1 ‚Â‚ÌƒtƒB[ƒ‹ƒh‚ğ‘I‘ğ‚µ‚Ä‚­‚¾‚³‚¢B
+MongoDBDataSetWizardPage.message.error.MissingSelectedField=å°‘ãªãã¨ã‚‚ 1 ã¤ã®ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’é¸æŠã—ã¦ãã ã•ã„ã€‚
 
-MongoDBAdvancedSettingsDialog.dialogTitle=‚“x‚Èƒf[ƒ^ƒZƒbƒgƒ‰ƒ“ƒ^ƒCƒ€ƒvƒƒpƒeƒB
+MongoDBAdvancedSettingsDialog.dialogTitle=é«˜åº¦ãªãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆãƒ©ãƒ³ã‚¿ã‚¤ãƒ ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£
 
-MongoDBAdvancedSettingsDialog.Label.MaxResultObjects=ƒoƒbƒ`“à‚ÌŒ‹‰ÊƒIƒuƒWƒFƒNƒg‚ÌÅ‘å”(&B):
+MongoDBAdvancedSettingsDialog.Label.MaxResultObjects=ãƒãƒƒãƒå†…ã®çµæœã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆã®æœ€å¤§æ•°(&B):
 
-MongoDBAdvancedSettingsDialog.Tooltip.MaxResultObjects=MongoDB ƒJ[ƒ\ƒ‹‚É‚æ‚Á‚Ä 1 ‚Â‚Ìƒoƒbƒ`‚Åæ“¾‚³‚ê‚éŒ‹‰ÊƒIƒuƒWƒFƒNƒg‚ÌÅ‘å”\n  ƒfƒtƒHƒ‹ƒg’l = 100
+MongoDBAdvancedSettingsDialog.Tooltip.MaxResultObjects=MongoDB ã‚«ãƒ¼ã‚½ãƒ«ã«ã‚ˆã£ã¦ 1 ã¤ã®ãƒãƒƒãƒã§å–å¾—ã•ã‚Œã‚‹çµæœã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆã®æœ€å¤§æ•°\n  ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆå€¤ = 100
 
-MongoDBAdvancedSettingsDialog.Label.MaxDocumentsToSearch=ƒƒ^ƒf[ƒ^‚ğŒŸõ‚·‚éƒhƒLƒ…ƒƒ“ƒg‚ÌÅ‘å”(&M):
+MongoDBAdvancedSettingsDialog.Label.MaxDocumentsToSearch=ãƒ¡ã‚¿ãƒ‡ãƒ¼ã‚¿ã‚’æ¤œç´¢ã™ã‚‹ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆã®æœ€å¤§æ•°(&M):
 
-MongoDBAdvancedSettingsDialog.Tooltip.MaxDocumentsToSearch=Às‚ÉƒNƒGƒŠ‚ÌŒ‹‰ÊƒZƒbƒgƒƒ^ƒf[ƒ^‚ğæ“¾‚·‚é‚½‚ß‚É\nˆ—‚·‚é•¶‘”  ƒfƒtƒHƒ‹ƒg’l = 10
+MongoDBAdvancedSettingsDialog.Tooltip.MaxDocumentsToSearch=å®Ÿè¡Œæ™‚ã«ã‚¯ã‚¨ãƒªã®çµæœã‚»ãƒƒãƒˆãƒ¡ã‚¿ãƒ‡ãƒ¼ã‚¿ã‚’å–å¾—ã™ã‚‹ãŸã‚ã«\nå‡¦ç†ã™ã‚‹æ–‡æ›¸æ•°  ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆå€¤ = 10
 
-MongoDBAdvancedSettingsDialog.Label.MaxDocumentsToSkip=ƒXƒLƒbƒv‚·‚éƒhƒLƒ…ƒƒ“ƒg‚ÌÅ‘å”(&K):
+MongoDBAdvancedSettingsDialog.Label.MaxDocumentsToSkip=ã‚¹ã‚­ãƒƒãƒ—ã™ã‚‹ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆã®æœ€å¤§æ•°(&K):
 
-MongoDBAdvancedSettingsDialog.Tooltip.MaxDocumentsToSkip=Œ‹‰ÊƒZƒbƒg‚ÌÅ‰‚ÌnƒhƒLƒ…ƒƒ“ƒg‚ğƒXƒLƒbƒvB®”‚Ìƒf[ƒ^Œ^B\nƒfƒtƒHƒ‹ƒg’l = 0
+MongoDBAdvancedSettingsDialog.Tooltip.MaxDocumentsToSkip=çµæœã‚»ãƒƒãƒˆã®æœ€åˆã®nãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆã‚’ã‚¹ã‚­ãƒƒãƒ—ã€‚æ•´æ•°ã®ãƒ‡ãƒ¼ã‚¿å‹ã€‚\nãƒ‡ãƒ•ã‚©ãƒ«ãƒˆå€¤ = 0
 
-MongoDBAdvancedSettingsDialog.Label.IndexHintExpression=õˆøƒqƒ“ƒg®(&H):
+MongoDBAdvancedSettingsDialog.Label.IndexHintExpression=ç´¢å¼•ãƒ’ãƒ³ãƒˆå¼(&H):
 
-MongoDBAdvancedSettingsDialog.Tooltip.IndexHintExpression=ƒNƒGƒŠ‚ÌÅ“K‰»‚Ì‚½‚ß‚ÉƒNƒGƒŠ‚Åg—p‚·‚é•K—v‚ª‚ ‚é 1 ‚ÂˆÈã‚ÌƒCƒ“ƒfƒbƒNƒXƒL[B\n ƒCƒ“ƒfƒbƒNƒX•t‚«‚ÌƒL[‚ğˆê——•\¦‚·‚é‚É‚ÍAMongo JSON ƒqƒ“ƒg®‚Ì\•¶‚ğg—p‚µ‚Ü‚·B
+MongoDBAdvancedSettingsDialog.Tooltip.IndexHintExpression=ã‚¯ã‚¨ãƒªã®æœ€é©åŒ–ã®ãŸã‚ã«ã‚¯ã‚¨ãƒªã§ä½¿ç”¨ã™ã‚‹å¿…è¦ãŒã‚ã‚‹ 1 ã¤ä»¥ä¸Šã®ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ã‚­ãƒ¼ã€‚\n ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ä»˜ãã®ã‚­ãƒ¼ã‚’ä¸€è¦§è¡¨ç¤ºã™ã‚‹ã«ã¯ã€Mongo JSON ãƒ’ãƒ³ãƒˆå¼ã®æ§‹æ–‡ã‚’ä½¿ç”¨ã—ã¾ã™ã€‚
 
-MongoDBAdvancedSettingsDialog.Group.text.QueryCursorPreference=ƒNƒGƒŠƒJ[ƒ\ƒ‹“Çæİ’è
+MongoDBAdvancedSettingsDialog.Group.text.QueryCursorPreference=ã‚¯ã‚¨ãƒªã‚«ãƒ¼ã‚½ãƒ«èª­å–è¨­å®š
 
-MongoDBAdvancedSettingsDialog.Label.QueryCursorPreference.Mode=ƒ‚[ƒh(&D):
+MongoDBAdvancedSettingsDialog.Label.QueryCursorPreference.Mode=ãƒ¢ãƒ¼ãƒ‰(&D):
 
-MongoDBAdvancedSettingsDialog.Tooltip.QueryCursorPreference.Mode=ƒNƒGƒŠƒJ[ƒ\ƒ‹‘€ì‚Ì“Çæİ’èƒ‚[ƒhB
+MongoDBAdvancedSettingsDialog.Tooltip.QueryCursorPreference.Mode=ã‚¯ã‚¨ãƒªã‚«ãƒ¼ã‚½ãƒ«æ“ä½œã®èª­å–è¨­å®šãƒ¢ãƒ¼ãƒ‰ã€‚
 
-MongoDBAdvancedSettingsDialog.Label.QueryCursorPreference.TagSet=ƒ^ƒOƒZƒbƒg(&G):
+MongoDBAdvancedSettingsDialog.Label.QueryCursorPreference.TagSet=ã‚¿ã‚°ã‚»ãƒƒãƒˆ(&G):
 
-MongoDBAdvancedSettingsDialog.Tooltip.QueryCursorPreference.TagSet=ƒƒ“ƒoƒm[ƒh‚Éİ’è‚³‚ê‚Ä‚¢‚é•K—v‚Èƒ^ƒO‚ÌƒZƒbƒgB\n  ƒAƒŒƒC“à‚ÌƒhƒLƒ…ƒƒ“ƒg‚Æ‚µ‚Ä‘ã‘Öƒ^ƒOƒZƒbƒg‚ğw’è‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+MongoDBAdvancedSettingsDialog.Tooltip.QueryCursorPreference.TagSet=ãƒ¡ãƒ³ãƒãƒãƒ¼ãƒ‰ã«è¨­å®šã•ã‚Œã¦ã„ã‚‹å¿…è¦ãªã‚¿ã‚°ã®ã‚»ãƒƒãƒˆã€‚\n  ã‚¢ãƒ¬ã‚¤å†…ã®ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆã¨ã—ã¦ä»£æ›¿ã‚¿ã‚°ã‚»ãƒƒãƒˆã‚’æŒ‡å®šã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚
 
-MongoDBAdvancedSettingsDialog.Button.text.NoCursorTimeOut=ƒJ[ƒ\ƒ‹ƒ^ƒCƒ€ƒAƒEƒg‚ª‚ ‚è‚Ü‚¹‚ñ(&N)
+MongoDBAdvancedSettingsDialog.Button.text.NoCursorTimeOut=ã‚«ãƒ¼ã‚½ãƒ«ã‚¿ã‚¤ãƒ ã‚¢ã‚¦ãƒˆãŒã‚ã‚Šã¾ã›ã‚“(&N)
 
-MongoDBAdvancedSettingsDialog.Button.tooltip.NoCursorTimeOut=‰ßè‚Èƒƒ‚ƒŠ‚Ìg—p‚ğ–h‚®‚½‚ß‚ÉAƒT[ƒo‚Å‚Í’ÊíAƒAƒCƒhƒ‹ŠÔ (10 •ª) ‚ÌŒo‰ßŒã‚ÉƒAƒCƒhƒ‹ó‘Ô‚ÌƒJ[ƒ\ƒ‹‚ªƒ^ƒCƒ€ƒAƒEƒg‚É‚È‚è‚Ü‚·B
+MongoDBAdvancedSettingsDialog.Button.tooltip.NoCursorTimeOut=éå‰°ãªãƒ¡ãƒ¢ãƒªã®ä½¿ç”¨ã‚’é˜²ããŸã‚ã«ã€ã‚µãƒ¼ãƒã§ã¯é€šå¸¸ã€ã‚¢ã‚¤ãƒ‰ãƒ«æ™‚é–“ (10 åˆ†) ã®çµŒéå¾Œã«ã‚¢ã‚¤ãƒ‰ãƒ«çŠ¶æ…‹ã®ã‚«ãƒ¼ã‚½ãƒ«ãŒã‚¿ã‚¤ãƒ ã‚¢ã‚¦ãƒˆã«ãªã‚Šã¾ã™ã€‚
 
-MongoDBAdvancedSettingsDialog.Button.text.AllowPartialResults=Œ‹‰Ê‚Ìˆê•”‚ğ‹–‰Â(&P)
+MongoDBAdvancedSettingsDialog.Button.text.AllowPartialResults=çµæœã®ä¸€éƒ¨ã‚’è¨±å¯(&P)
 
-MongoDBAdvancedSettingsDialog.Button.tooltip.AllowPartialResults=‹¤—L (Mongo) ‚Æ‹¤‚Ég—p‚·‚é‚Æ‚«‚É‚ÍAƒNƒ‰ƒXƒ^‚Ì‚¢‚¸‚ê‚©‚Ì‹¤—L‚ªƒ_ƒEƒ“‚µ‚Ä‚¢‚é‚©Œ©‚Â‚©‚ç‚È‚¢ê‡A‹¤—LƒVƒXƒeƒ€‚©‚ç‚Ì\nŒ‹‰Ê‚Ìˆê•”‚ª‹–‰Â‚³‚ê‚Ü‚·B  —LŒø‚É‚È‚Á‚Ä‚¢‚È‚¢ê‡AMongo ƒT[ƒo‚©‚çƒGƒ‰[‚ª•Ô‚³‚ê‚Ü‚·B
+MongoDBAdvancedSettingsDialog.Button.tooltip.AllowPartialResults=å…±æœ‰ (Mongo) ã¨å…±ã«ä½¿ç”¨ã™ã‚‹ã¨ãã«ã¯ã€ã‚¯ãƒ©ã‚¹ã‚¿ã®ã„ãšã‚Œã‹ã®å…±æœ‰ãŒãƒ€ã‚¦ãƒ³ã—ã¦ã„ã‚‹ã‹è¦‹ã¤ã‹ã‚‰ãªã„å ´åˆã€å…±æœ‰ã‚·ã‚¹ãƒ†ãƒ ã‹ã‚‰ã®\nçµæœã®ä¸€éƒ¨ãŒè¨±å¯ã•ã‚Œã¾ã™ã€‚  æœ‰åŠ¹ã«ãªã£ã¦ã„ãªã„å ´åˆã€Mongo ã‚µãƒ¼ãƒã‹ã‚‰ã‚¨ãƒ©ãƒ¼ãŒè¿”ã•ã‚Œã¾ã™ã€‚
 
-MongoDBAdvancedSettingsDialog.Button.text.FlattenNestedDocuments=ƒlƒXƒg‚³‚ê‚½ƒRƒŒƒNƒVƒ‡ƒ“‚ğƒtƒ‰ƒbƒg‰»(&F)
+MongoDBAdvancedSettingsDialog.Button.text.FlattenNestedDocuments=ãƒã‚¹ãƒˆã•ã‚ŒãŸã‚³ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³ã‚’ãƒ•ãƒ©ãƒƒãƒˆåŒ–(&F)
 
-MongoDBAdvancedSettingsDialog.Button.tooltip.FlattenNestedDocuments=ƒtƒB[ƒ‹ƒh‚ÌƒlƒXƒg‚³‚ê‚½ƒRƒŒƒNƒVƒ‡ƒ“‚ğ•¡”‚Ìƒf[ƒ^ƒZƒbƒgs‚Éƒtƒ‰ƒbƒg‰»‚·‚é‚½‚ß‚Ìƒ†[ƒUƒIƒvƒVƒ‡ƒ“B
+MongoDBAdvancedSettingsDialog.Button.tooltip.FlattenNestedDocuments=ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã®ãƒã‚¹ãƒˆã•ã‚ŒãŸã‚³ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³ã‚’è¤‡æ•°ã®ãƒ‡ãƒ¼ã‚¿ã‚»ãƒƒãƒˆè¡Œã«ãƒ•ãƒ©ãƒƒãƒˆåŒ–ã™ã‚‹ãŸã‚ã®ãƒ¦ãƒ¼ã‚¶ã‚ªãƒ—ã‚·ãƒ§ãƒ³ã€‚
 
-MongoDBAdvancedSettingsDialog.error.NotNumberFormat.MaxResultObjects=[Œ‹‰ÊƒIƒuƒWƒFƒNƒg‚ÌÅ‘å”] ‚Ì®”’l‚ª•K—v‚Å‚·B
+MongoDBAdvancedSettingsDialog.error.NotNumberFormat.MaxResultObjects=[çµæœã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆã®æœ€å¤§æ•°] ã®æ•´æ•°å€¤ãŒå¿…è¦ã§ã™ã€‚
 
-MongoDBAdvancedSettingsDialog.error.NotNumberFormat.MaxDocumentsToSearch=[ŒŸõ‚·‚éƒhƒLƒ…ƒƒ“ƒg‚ÌÅ‘å”] ‚Ì®”’l‚ª•K—v‚Å‚·B
+MongoDBAdvancedSettingsDialog.error.NotNumberFormat.MaxDocumentsToSearch=[æ¤œç´¢ã™ã‚‹ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆã®æœ€å¤§æ•°] ã®æ•´æ•°å€¤ãŒå¿…è¦ã§ã™ã€‚
 
-MongoDBAdvancedSettingsDialog.error.NotNumberFormat.MaxDocumentsToSkip=[ƒXƒLƒbƒv‚·‚éƒhƒLƒ…ƒƒ“ƒg‚ÌÅ‘å”] ‚Ì®”’l‚ª•K—v‚Å‚·B
+MongoDBAdvancedSettingsDialog.error.NotNumberFormat.MaxDocumentsToSkip=[ã‚¹ã‚­ãƒƒãƒ—ã™ã‚‹ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆã®æœ€å¤§æ•°] ã®æ•´æ•°å€¤ãŒå¿…è¦ã§ã™ã€‚
 
-MongoDBAdvancedSettingsDialog.MessageDialog.synchronizeSearchLimit.title=İŒv‚Ìİ’è‚ÌƒŠƒZƒbƒg
+MongoDBAdvancedSettingsDialog.MessageDialog.synchronizeSearchLimit.title=è¨­è¨ˆæ™‚ã®è¨­å®šã®ãƒªã‚»ãƒƒãƒˆ
 
 MongoDBAdvancedSettingsDialog.MessageDialog.synchronizeSearchLimit.button=OK
 
-MongoDBAdvancedSettingsDialog.MessageDialog.synchronizeSearchLimit.message=İŒv‚ÌuƒtƒB[ƒ‹ƒhŒŸõ‚·‚éƒhƒLƒ…ƒƒ“ƒg”v‚Ì’l‚ÍAÀs‚Ìuƒƒ^ƒf[ƒ^ŒŸõ‚·‚éÅ‘åƒhƒLƒ…ƒƒ“ƒg”vƒvƒƒpƒeƒB’l‚Éˆê’v‚·‚é‚æ‚¤‚ÉƒŠƒZƒbƒg‚³‚ê‚Ü‚·B
+MongoDBAdvancedSettingsDialog.MessageDialog.synchronizeSearchLimit.message=è¨­è¨ˆæ™‚ã®ã€Œãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰æ¤œç´¢ã™ã‚‹ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆæ•°ã€ã®å€¤ã¯ã€å®Ÿè¡Œæ™‚ã®ã€Œãƒ¡ã‚¿ãƒ‡ãƒ¼ã‚¿æ¤œç´¢ã™ã‚‹æœ€å¤§ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆæ•°ã€ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£å€¤ã«ä¸€è‡´ã™ã‚‹ã‚ˆã†ã«ãƒªã‚»ãƒƒãƒˆã•ã‚Œã¾ã™ã€‚
 
-MongoDBExpressionBuilder.dialogTitle.default=®ƒrƒ‹ƒ_
+MongoDBExpressionBuilder.dialogTitle.default=å¼ãƒ“ãƒ«ãƒ€
 
-MongoDBExpressionBuilder.ExprssionText.label=®ƒeƒLƒXƒg(&X):
+MongoDBExpressionBuilder.ExprssionText.label=å¼ãƒ†ã‚­ã‚¹ãƒˆ(&X):
 
-MongoDBExpressionBuilder.Button.import=ƒCƒ“ƒ|[ƒg(&M)...
+MongoDBExpressionBuilder.Button.import=ã‚¤ãƒ³ãƒãƒ¼ãƒˆ(&M)...
 
-MongoDBExpressionBuilder.Button.tooltip.import=ƒ[ƒJƒ‹ƒtƒ@ƒCƒ‹‚©‚ç®‚ÌƒeƒLƒXƒg‚ğƒCƒ“ƒ|[ƒg‚·‚é
+MongoDBExpressionBuilder.Button.tooltip.import=ãƒ­ãƒ¼ã‚«ãƒ«ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰å¼ã®ãƒ†ã‚­ã‚¹ãƒˆã‚’ã‚¤ãƒ³ãƒãƒ¼ãƒˆã™ã‚‹
 
-MongoDBExpressionBuilder.Button.export=ƒGƒNƒXƒ|[ƒg(&E)...
+MongoDBExpressionBuilder.Button.export=ã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆ(&E)...
 
-MongoDBExpressionBuilder.Button.tooltip.export=ƒ[ƒJƒ‹ƒtƒ@ƒCƒ‹‚É®‚ÌƒeƒLƒXƒg‚ğƒGƒNƒXƒ|[ƒg‚·‚é
+MongoDBExpressionBuilder.Button.tooltip.export=ãƒ­ãƒ¼ã‚«ãƒ«ãƒ•ã‚¡ã‚¤ãƒ«ã«å¼ã®ãƒ†ã‚­ã‚¹ãƒˆã‚’ã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆã™ã‚‹
 
-MongoDBExpressionBuilder.Button.ValidateSyntax=\•¶‚ğŒŸØ(&V)
+MongoDBExpressionBuilder.Button.ValidateSyntax=æ§‹æ–‡ã‚’æ¤œè¨¼(&V)
 
-MongoDBExpressionBuilder.Button.tooltip.ValidateSyntax=®‚ÌƒeƒLƒXƒg‚Ì\•¶‚ğŒŸØ‚µ‚Ü‚·B
+MongoDBExpressionBuilder.Button.tooltip.ValidateSyntax=å¼ã®ãƒ†ã‚­ã‚¹ãƒˆã®æ§‹æ–‡ã‚’æ¤œè¨¼ã—ã¾ã™ã€‚
 
-MongoDBExpressionBuilder.InfoDialog.title.validateSyntax=®‚ÌƒeƒLƒXƒg‚ÌŒŸØ
+MongoDBExpressionBuilder.InfoDialog.title.validateSyntax=å¼ã®ãƒ†ã‚­ã‚¹ãƒˆã®æ¤œè¨¼
 
-MongoDBExpressionBuilder.Expression.DialogMessage.ValidateSyntax.IsValid=®‚Ì\•¶‚ª—LŒø‚Å‚·B
+MongoDBExpressionBuilder.Expression.DialogMessage.ValidateSyntax.IsValid=å¼ã®æ§‹æ–‡ãŒæœ‰åŠ¹ã§ã™ã€‚
 
-MongoDBExpressionBuilder.Expression.DialogMessage.ValidateSyntax.Invalid=®‚Ì\•¶‚ª–³Œø‚Å‚·B
+MongoDBExpressionBuilder.Expression.DialogMessage.ValidateSyntax.Invalid=å¼ã®æ§‹æ–‡ãŒç„¡åŠ¹ã§ã™ã€‚
 
-MongoDBExpressionBuilder.CommandExpression.DialogTitle=ƒRƒ}ƒ“ƒh®ƒrƒ‹ƒ_
+MongoDBExpressionBuilder.CommandExpression.DialogTitle=ã‚³ãƒãƒ³ãƒ‰å¼ãƒ“ãƒ«ãƒ€
 
-MongoDBExpressionBuilder.CommandExpression.error.EmptyExpression=®‚ÌƒeƒLƒXƒg‚Í‹ó”’‚É‚Å‚«‚Ü‚¹‚ñB
+MongoDBExpressionBuilder.CommandExpression.error.EmptyExpression=å¼ã®ãƒ†ã‚­ã‚¹ãƒˆã¯ç©ºç™½ã«ã§ãã¾ã›ã‚“ã€‚
 
-MongoDBExpressionBuilder.QueryExpression.DialogTitle=ƒNƒGƒŠ®ƒrƒ‹ƒ_
+MongoDBExpressionBuilder.QueryExpression.DialogTitle=ã‚¯ã‚¨ãƒªå¼ãƒ“ãƒ«ãƒ€
 
-MongoDBExpressionBuilder.SortExpression.DialogTitle=ƒ\[ƒg®ƒrƒ‹ƒ_
+MongoDBExpressionBuilder.SortExpression.DialogTitle=ã‚½ãƒ¼ãƒˆå¼ãƒ“ãƒ«ãƒ€
 
 
 

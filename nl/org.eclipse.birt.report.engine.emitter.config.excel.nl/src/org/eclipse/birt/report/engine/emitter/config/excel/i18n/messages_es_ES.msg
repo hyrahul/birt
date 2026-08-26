@@ -11,7 +11,7 @@
 
 ###########################################################
 #Excel Emitter
-ExcelEmitter.Description=Configure las opciones para presentar un informe en formato de hoja de c·lculo XML 2003.
+ExcelEmitter.Description=Configure las opciones para presentar un informe en formato de hoja de c√°lculo XML 2003.
 
 ExcelEmitter.DisplayName=Excel (XLS)
 
@@ -19,13 +19,13 @@ ExcelEmitter.DisplayName=Excel (XLS)
 #Option Display Value
 OptionDisplayValue.WrappingText=Activar autoajuste de texto
 
-OptionDisplayValue.OfficeVersion=VersiÛn de salida:
+OptionDisplayValue.OfficeVersion=Versi√≥n de salida:
 
 OptionDisplayValue.Office2003=Microsoft Office 2003
 OptionDisplayValue.Office2007=Microsoft Office 2007
 OptionDisplayValue.ChartDpi=Diagrama DPI
 
-OptionDisplayValue.HideGridlines=Ocultar lÌneas de cuadrÌcula
+OptionDisplayValue.HideGridlines=Ocultar l√≠neas de cuadr√≠cula
 
 ###########################################################
 #Option Description
@@ -33,7 +33,7 @@ OptionDescription.WrappingText=Indica si el texto se puede autoajustar.
 
 OptionDescription.ChartDpi=El DPI utilizado para generar el diagrama.
 
-OptionDescription.HideGridlines=Ocultar lÌneas de cuadrÌcula.
+OptionDescription.HideGridlines=Ocultar l√≠neas de cuadr√≠cula.
 
 ###########################################################
 #tooltip
